@@ -6,4 +6,7 @@ config_reader = ConfigReader('config/subscribe.yaml')
 feeds = config_reader.read()
 # 读取 RSS
 feeds_reader = FeedsReader(feeds)
-response = feeds_reader.read()
+feeds_results = feeds_reader.read()
+
+for e in feeds_results:
+    print(e)
