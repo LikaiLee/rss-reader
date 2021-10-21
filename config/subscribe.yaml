@@ -1,9 +1,9 @@
 # id 用于排序
 
-#-
-#  id: 0
-#  title: 阮一峰的网络日志
-#  url: http://www.ruanyifeng.com/blog/atom.xml
+-
+  id: 0
+  title: 阮一峰的网络日志
+  url: http://www.ruanyifeng.com/blog/atom.xml
 -
   id: 1
   title: 少数派
@@ -12,3 +12,7 @@
   id: 2
   title: V2EX
   url: https://www.v2ex.com/index.xml
+-
+  id: 3
+  title: 知乎每日精选
+  url: https://www.zhihu.com/rss

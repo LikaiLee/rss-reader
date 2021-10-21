@@ -46,7 +46,12 @@ class FeedsReader:
             print(f"{exist_site['title']}: 已有 {len(exist_site['feeds'])}，"
                   f"新增 {len(new_feeds)}，"
                   f"共 {len(new_feeds) + len(exist_site['feeds'])}")
-            exist_site['feeds'].extend(new_feeds)
+            # 按倒序输出
+            # 4, 5, 6 => 6, 5, 4
+            exist_site['feeds'].reverse()
+            # 6, 5, 4, 3, 2, 1
+            exist_site['feeds'].extend(reversed(new_feeds))
+            exist_site['feeds'].reverse()
         return sorted(database, key=lambda site: site['id'])
 
     def __read_db(self):
@@ -65,7 +70,10 @@ class FeedsReader:
 
     def __fetch_one(self, subscribe):
         """获取一条订阅信息"""
-        feed = requests.get(subscribe['url'], timeout=self.FEED_TIMEOUT).text
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36'
+        }
+        feed = requests.get(subscribe['url'], timeout=self.FEED_TIMEOUT, headers=headers).text
         parsed_feed = feedparser.parse(feed)
         print('来自 ' + subscribe['title'] + ' 的数据: ' + str(len(parsed_feed.entries)))
 

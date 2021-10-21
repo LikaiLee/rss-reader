@@ -1,0 +1,26 @@
+name: rss reader
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '32 5 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.6
+    - name: Install requests
+      run: pip install -r requirements.txt
+    - name: fetch rss
+      run: python server/app.py
+    - name: Commit change & Push
+      run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@github.com'
+          git commit -am "bot: update content"
+          git push
