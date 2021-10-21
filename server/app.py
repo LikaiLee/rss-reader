@@ -1,7 +1,7 @@
-from server.reader.config_reader import ConfigReader
-from server.reader.feeds_reader import FeedsReader
-from server.renderer.file_renderer import FileRenderer
-from server.writer.feeds_writer import FeedsWriter
+from .reader.config_reader import ConfigReader
+from .reader.feeds_reader import FeedsReader
+from .renderer.file_renderer import FileRenderer
+from .writer.feeds_writer import FeedsWriter
 
 db_file = 'data/database.json'
 
