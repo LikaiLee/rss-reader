@@ -1,12 +1,22 @@
-from server.config_reader import ConfigReader
-from server.feeds_reader import FeedsReader
+from server.reader.config_reader import ConfigReader
+from server.reader.feeds_reader import FeedsReader
+from server.renderer.readme_renderer import ReadmeRenderer
+from server.writer.feeds_writer import FeedsWriter
 
-# 读取订阅源
+db_file = 'data/database.json'
+
+print('===========读取订阅配置===========')
 config_reader = ConfigReader('config/subscribe.yaml')
-feeds = config_reader.read()
-# 读取 RSS
-feeds_reader = FeedsReader(feeds)
-feeds_results = feeds_reader.read()
+subscribes = config_reader.read()
 
-for e in feeds_results:
-    print(e)
+print('===========读取订阅数据===========')
+feeds_reader = FeedsReader(subscribes, db_file)
+database = feeds_reader.read()
+
+print('===========写入订阅数据===========')
+feeds_writer = FeedsWriter(db_file)
+feeds_writer.write(database)
+
+# README.md
+readme_renderer = ReadmeRenderer(database)
+readme_renderer.render()
