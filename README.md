@@ -18,7 +18,7 @@
 * [【2021-10-22】 科技爱好者周刊（第 180 期）：你想住在中国哪里？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html)
 * [【2021-10-15】 科技爱好者周刊（第 179 期）：AR 技术的打开方式](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html)
 * [【2021-10-08】 科技爱好者周刊（第 178 期）：家庭太阳能发电的春天](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html)
-* [......【查看更多】......](data/阮一峰的网络日志.md)
+* [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
 <details open>
@@ -37,7 +37,7 @@
 * [【2021-10-21】 派早报：大疆发布首台电影机、OPPO 推出 K9s 手机、新版 macOS 确认发布时间等](https://sspai.com/post/69438)
 * [【2021-10-20】 不读可以先收藏 04 | 恭喜你发现「镇站之宝」](https://sspai.com/post/69429)
 * [【2021-10-20】 一派·在线沙龙03：新一代 MacBook Pro 「炸」到你了吗？](https://sspai.com/post/69432)
-* [......【查看更多】......](data/少数派.md)
+* [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
 <details open>
@@ -46,17 +46,17 @@
     </summary>
 
 
+* [【2021-10-22】 [问与答] 大家好，请问可以推荐一些值得读的好书吗？](https://www.v2ex.com/t/809793)
+* [【2021-10-22】 [问与答] 大唐 AMD 的 mini 主机怎么样？可以上车么？](https://www.v2ex.com/t/809792)
+* [【2021-10-22】 [问与答] 撸代码，求轻薄本推荐？](https://www.v2ex.com/t/809791)
+* [【2021-10-22】 [MacBook Pro] 纠结来纠结去，结果现在要排队到 11 月末末末了](https://www.v2ex.com/t/809790)
 * [【2021-10-22】 [问与答] asics lyte-v 现在是不是国内没有官方销售了](https://www.v2ex.com/t/809789)
 * [【2021-10-22】 [程序员] 请教以下 JavaWeb 后端学习路线](https://www.v2ex.com/t/809787)
 * [【2021-10-22】 [问与答] 有个疑问：关于 FastGithub，作者好像也在这里](https://www.v2ex.com/t/809786)
 * [【2021-10-22】 [分享创造] 「物品指南」iOS 端正式上架了！每件物品都值得被记录](https://www.v2ex.com/t/809785)
 * [【2021-10-22】 [分享发现] 据彭博社消息， Google 和 Bing 可以搜索到微信公众号的文章了](https://www.v2ex.com/t/809784)
 * [【2021-10-22】 [IPFS] go-ipfs 的 experimental features 里有很多有意思的宝藏](https://www.v2ex.com/t/809783)
-* [【2021-10-22】 [问与答] 什么算法适合加密注册码？最好是比较通用的算法，支持的编程语言多一些，位数短一些](https://www.v2ex.com/t/809782)
-* [【2021-10-22】 [生活] 什么是归属感？为什么去过很多地方都感觉没有那种特别想待的感觉，家里也是这种感觉](https://www.v2ex.com/t/809781)
-* [【2021-10-22】 [问与答] 录用通知书不写薪资和试用期正常么？](https://www.v2ex.com/t/809779)
-* [【2021-10-22】 [分享发现] cookie 不区分端口号！](https://www.v2ex.com/t/809778)
-* [......【查看更多】......](data/V2EX.md)
+* [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
 <details open>
@@ -75,5 +75,13 @@
 * [【2021-10-21】 若将科幻与中国风相结合会是一种怎样的新风格？](http://www.zhihu.com/question/312383856/answer/2181900926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-19】 如何评价独立游戏《越界：流放者》？](http://www.zhihu.com/question/489541406/answer/2177479319?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-19】 你是明白了哪几个基本原理之后而厨艺大增的？](http://www.zhihu.com/question/21696230/answer/1596187226?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [......【查看更多】......](data/知乎每日精选.md)
+* [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
+
+
+---
+
+![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
+![pv](https://pageview.vercel.app/?github_user=likailee) <br>
+:alarm_clock: 更新时间: 2021-10-22 13:48:17

@@ -84,6 +84,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 大家好，请问可以推荐一些值得读的好书吗？",
+                "link": "https://www.v2ex.com/t/809793",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 大唐 AMD 的 mini 主机怎么样？可以上车么？",
+                "link": "https://www.v2ex.com/t/809792",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 撸代码，求轻薄本推荐？",
+                "link": "https://www.v2ex.com/t/809791",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[MacBook Pro] 纠结来纠结去，结果现在要排队到 11 月末末末了",
+                "link": "https://www.v2ex.com/t/809790",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[问与答] asics lyte-v 现在是不是国内没有官方销售了",
                 "link": "https://www.v2ex.com/t/809789",
                 "published": "2021-10-22"
