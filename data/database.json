@@ -99,6 +99,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 双十一求推荐个家用的净水器？",
+                "link": "https://www.v2ex.com/t/809895",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 各位大佬好，请教一个问题",
+                "link": "https://www.v2ex.com/t/809894",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[分享发现] 最近开发的笔记软件「Huleen 互链」，自主研发的链接型笔记，欢迎吐槽",
+                "link": "https://www.v2ex.com/t/809893",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[Apple] 求问：妙控键盘 F 按键异常",
+                "link": "https://www.v2ex.com/t/809892",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[职场话题] 英特尔成都 Software Development Engineer 岗位怎么样？",
+                "link": "https://www.v2ex.com/t/809891",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[信息安全] FRP 的 stcp 模式能够防止中间人攻击吗？",
                 "link": "https://www.v2ex.com/t/809888",
                 "published": "2021-10-22"
