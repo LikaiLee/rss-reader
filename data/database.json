@@ -84,6 +84,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] Google Calendar 同步（内容复制）问题",
+                "link": "https://www.v2ex.com/t/809827",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[设计] 请问有什么画简单的 UI 设计图的软件吗？",
+                "link": "https://www.v2ex.com/t/809826",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[MacBook Pro] 订单状态有变化了",
+                "link": "https://www.v2ex.com/t/809825",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[iPhone] 发布一月了，为啥新款 iPhone 还不能直营店直接买？",
+                "link": "https://www.v2ex.com/t/809776",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[问与答] 有没有什么办法提升虚拟机的图形性能？",
                 "link": "https://www.v2ex.com/t/809824",
                 "published": "2021-10-22"
