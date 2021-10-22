@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-22】 [Apple] 有趣的问题： iPhone 年年丐版 trade in 和顶配用三年的折旧？](https://www.v2ex.com/t/809947)
 * [【2021-10-22】 [macOS] 谁能告诉我 safari15 的标签页组对比书签，到底好在哪里？](https://www.v2ex.com/t/809946)
 * [【2021-10-22】 [C++] 问个关于内存对齐的问题](https://www.v2ex.com/t/809945)
 * [【2021-10-22】 [Apple] Genius Bar 极为离谱的工作失误](https://www.v2ex.com/t/809944)
@@ -55,7 +56,6 @@
 * [【2021-10-22】 [问与答] 有没有什么好办法可以保存带直链的文档呀](https://www.v2ex.com/t/809938)
 * [【2021-10-22】 [硬件] 双十一哪里买笔记本最划算](https://www.v2ex.com/t/809937)
 * [【2021-10-22】 [问与答] 我最近在学 c++，大家平时工作中有啥需求，希望有个软件来辅助吗？](https://www.v2ex.com/t/809936)
-* [【2021-10-22】 [优惠信息] 图灵社区电子书全场 5 折， 24 日截止](https://www.v2ex.com/t/809935)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-22 18:07:15
+:alarm_clock: 更新时间: 2021-10-22 18:43:31
