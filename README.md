@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-22】 [Node.js] 操作系统用户名为中文时，使用 nodejs 的 exec 命令执行指令失败](https://www.v2ex.com/t/809950)
 * [【2021-10-22】 [硬件] 想请大家推荐一款 Windows 笔记本](https://www.v2ex.com/t/809940)
 * [【2021-10-22】 [问与答] Typecho 使用地址重写之后 404 已经设置了 .htaccess](https://www.v2ex.com/t/809948)
 * [【2021-10-22】 [Apple] 有趣的问题： iPhone 年年丐版 trade in 和顶配用三年的折旧？](https://www.v2ex.com/t/809947)
@@ -55,7 +56,6 @@
 * [【2021-10-22】 [生活] 长久以来的愿望突然实现了，整个人感觉都被抽空了。](https://www.v2ex.com/t/809941)
 * [【2021-10-22】 [问与答] 想请大家推荐一款 Windows 笔记本](https://www.v2ex.com/t/809940)
 * [【2021-10-22】 [电影] 千万别看沙丘](https://www.v2ex.com/t/809939)
-* [【2021-10-22】 [问与答] 有没有什么好办法可以保存带直链的文档呀](https://www.v2ex.com/t/809938)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-22 23:06:15
+:alarm_clock: 更新时间: 2021-10-22 23:35:01
