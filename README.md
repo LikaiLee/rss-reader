@@ -46,16 +46,16 @@
     </summary>
 
 
+* [【2021-10-22】 [Windows] 电脑经常弹出 cmd 然后自己关机](https://www.v2ex.com/t/809899)
+* [【2021-10-22】 [分享创造] 有个挣钱 idea，找个猿同伴](https://www.v2ex.com/t/809898)
+* [【2021-10-22】 [酷工作] 字节跳动 | 校招内推 | tiktok 国际直播](https://www.v2ex.com/t/809897)
+* [【2021-10-22】 [问与答] 双 11 了, 想给自己组装一台游戏机, 求老铁们指点](https://www.v2ex.com/t/809896)
 * [【2021-10-22】 [问与答] 双十一求推荐个家用的净水器？](https://www.v2ex.com/t/809895)
 * [【2021-10-22】 [问与答] 各位大佬好，请教一个问题](https://www.v2ex.com/t/809894)
 * [【2021-10-22】 [分享发现] 最近开发的笔记软件「Huleen 互链」，自主研发的链接型笔记，欢迎吐槽](https://www.v2ex.com/t/809893)
 * [【2021-10-22】 [Apple] 求问：妙控键盘 F 按键异常](https://www.v2ex.com/t/809892)
 * [【2021-10-22】 [职场话题] 英特尔成都 Software Development Engineer 岗位怎么样？](https://www.v2ex.com/t/809891)
 * [【2021-10-22】 [信息安全] FRP 的 stcp 模式能够防止中间人攻击吗？](https://www.v2ex.com/t/809888)
-* [【2021-10-22】 [问与答] 为什么 ClashX Pro 不开源？](https://www.v2ex.com/t/809887)
-* [【2021-10-22】 [问与答] 刚刚得到内部最新消息，今年的 1024 程序猿节大家不用上班，公司要求加班的，可主张 200%工资！](https://www.v2ex.com/t/809886)
-* [【2021-10-22】 [广州] 坐标广州，近视手术骨折价格了解一下](https://www.v2ex.com/t/809885)
-* [【2021-10-22】 [MacBook Pro] 不懂就问：不玩（或者说玩不了）3A，高刷有什么意义？](https://www.v2ex.com/t/809884)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -65,6 +65,7 @@
     </summary>
 
 
+* [【2021-10-22】 媒体评价李云迪被拘是「自作孽不可活」，其音乐家协会会员被取消，广州城市形象代言人被终止，他彻底糊了吗？](http://www.zhihu.com/question/493814225/answer/2182923238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-22】 为什么汽车不能设计成快撞车就自动刹车？](http://www.zhihu.com/question/20498808/answer/2183501118?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-22】 全国政协委员称「不能简单地对网络游戏扣帽子、打棍子」，要明确游戏的重要责任，有哪些值得关注的信息？](http://www.zhihu.com/question/493745295/answer/2182710663?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-22】 长征胜利 85 周年，有哪些关于长征的故事或诗词？今天的我们该怎样践行长征精神？](http://www.zhihu.com/question/493816614/answer/2182951105?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -74,7 +75,6 @@
 * [【2021-10-22】 长征胜利 85 周年，有哪些关于长征的故事或诗词？今天的我们该怎样践行长征精神？](http://www.zhihu.com/question/493816614/answer/2182800456?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-22】 长征胜利 85 周年，有哪些关于长征的故事或诗词？今天的我们该怎样践行长征精神？](http://www.zhihu.com/question/493816614/answer/2182743235?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-22】 李云迪嫖娼被抓后，后续的艺术生涯会怎样？还能活跃在古典音乐圈吗？](http://www.zhihu.com/question/493772413/answer/2182772969?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-10-21】 若将科幻与中国风相结合会是一种怎样的新风格？](http://www.zhihu.com/question/312383856/answer/2181900926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-22 11:32:19
+:alarm_clock: 更新时间: 2021-10-22 12:10:09

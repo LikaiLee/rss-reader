@@ -99,6 +99,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Windows] 电脑经常弹出 cmd 然后自己关机",
+                "link": "https://www.v2ex.com/t/809899",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[分享创造] 有个挣钱 idea，找个猿同伴",
+                "link": "https://www.v2ex.com/t/809898",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[酷工作] 字节跳动 | 校招内推 | tiktok 国际直播",
+                "link": "https://www.v2ex.com/t/809897",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 双 11 了, 想给自己组装一台游戏机, 求老铁们指点",
+                "link": "https://www.v2ex.com/t/809896",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[问与答] 双十一求推荐个家用的净水器？",
                 "link": "https://www.v2ex.com/t/809895",
                 "published": "2021-10-22"
@@ -855,6 +875,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "媒体评价李云迪被拘是「自作孽不可活」，其音乐家协会会员被取消，广州城市形象代言人被终止，他彻底糊了吗？",
+                "link": "http://www.zhihu.com/question/493814225/answer/2182923238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-22"
+            },
             {
                 "title": "为什么汽车不能设计成快撞车就自动刹车？",
                 "link": "http://www.zhihu.com/question/20498808/answer/2183501118?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
