@@ -99,6 +99,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 我最近在学 c++，大家平时工作中有啥需求，希望有个软件来辅助吗？",
+                "link": "https://www.v2ex.com/t/809936",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[优惠信息] 图灵社区电子书全场 5 折， 24 日截止",
+                "link": "https://www.v2ex.com/t/809935",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 鸿蒙真的仅仅是安卓的一个 ui 吗？",
+                "link": "https://www.v2ex.com/t/809934",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[怀旧游戏] 还有多少帝国时代 2 的玩家呢？你们都在哪里讨论帝国时代？",
+                "link": "https://www.v2ex.com/t/809933",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[分享发现] 能让老照片动起来的 APP",
                 "link": "https://www.v2ex.com/t/809932",
                 "published": "2021-10-22"
