@@ -94,6 +94,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Google] Google 移动版网页 如何将搜索栏置底",
+                "link": "https://www.v2ex.com/t/809866",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[北京] 请问大家如果小长假、春节、国庆出远门或者回老家，家里宠物如何安排？",
+                "link": "https://www.v2ex.com/t/809865",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[程序员] 求助…logback 输出 json 日志配置 appender 配置懵逼了…请大家帮助，谢谢…",
+                "link": "https://www.v2ex.com/t/809864",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[Apple] 你对 Apple Pencil 有什么想法？",
+                "link": "https://www.v2ex.com/t/809863",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[酷工作] Airbnb（爱彼迎）北京急招 iOS 工程师 | 2 年以上工作经验 | Native Foundation 方向",
+                "link": "https://www.v2ex.com/t/809862",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[宽带症候群] 日本人还有在用什么 p2p 方式分享资源的吗？",
                 "link": "https://www.v2ex.com/t/809859",
                 "published": "2021-10-22"
@@ -715,6 +740,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "为什么汽车不能设计成快撞车就自动刹车？",
+                "link": "http://www.zhihu.com/question/20498808/answer/2183501118?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-22"
+            },
             {
                 "title": "全国政协委员称「不能简单地对网络游戏扣帽子、打棍子」，要明确游戏的重要责任，有哪些值得关注的信息？",
                 "link": "http://www.zhihu.com/question/493745295/answer/2182710663?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
