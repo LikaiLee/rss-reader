@@ -99,6 +99,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] Typecho 使用地址重写之后 404 已经设置了 .htaccess",
+                "link": "https://www.v2ex.com/t/809948",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[Apple] 有趣的问题： iPhone 年年丐版 trade in 和顶配用三年的折旧？",
                 "link": "https://www.v2ex.com/t/809947",
                 "published": "2021-10-22"
