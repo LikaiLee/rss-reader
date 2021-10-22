@@ -1,4 +1,5 @@
-import os
+import time
+
 from jinja2 import Environment, FileSystemLoader
 
 from server.util.file_utils import writer
@@ -12,12 +13,12 @@ class FileRenderer:
     def render(self):
         env = Environment(loader=FileSystemLoader('templates'))
         template = env.get_template('README.tpl.md')
-        content = template.render(data=self.database)
+        update_at = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())
+        content = template.render(data=self.database, update_at=update_at)
         # README.md
         writer('README.md', content)
         # 所有订阅内容
         for site in self.database:
             feeds_tpl = env.get_template('feeds.tpl.md')
             feeds_content = feeds_tpl.render(site=site)
-            os.system(f"echo '{feeds_content}' > data/{site['title']}.md")
-            # writer(f"data/{site['title']}.md", feeds_content)
+            writer(f"data/{site['title']}.md", feeds_content)
