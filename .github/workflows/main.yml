@@ -17,7 +17,9 @@ jobs:
     - name: Install requests
       run: pip install -r requirements.txt
     - name: fetch rss
-      run: python -m server.app
+      run: |
+          chmod 777 data
+          python -m server.app
     - name: Commit change & Push
       run: |
           git config user.name 'github-actions[bot]'
