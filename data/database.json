@@ -84,6 +84,61 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Android] Android 12 发布了，鸿蒙什么时候能 rebase 下主干",
+                "link": "https://www.v2ex.com/t/809805",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[汽车] 有谁换过大众途岳的倒车摄像头吗？",
+                "link": "https://www.v2ex.com/t/809804",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[iPadOS] 关闭再开启接力的时候发现多了个按钮，光标和键盘",
+                "link": "https://www.v2ex.com/t/809803",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[Go 编程语言] 阿里云 oss 的 GO 语言 SDK 分片上传不支持文件流吗",
+                "link": "https://www.v2ex.com/t/809802",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[程序员] 代码设计问题请教",
+                "link": "https://www.v2ex.com/t/809801",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[酷工作] [英伟达] [上海] [Senior Web Software Architect ]",
+                "link": "https://www.v2ex.com/t/809800",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[MacBook Pro] 只有我觉得新 Macbook Pro 圆润的机身很丑吗？",
+                "link": "https://www.v2ex.com/t/809799",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[求职] 房产策划，想进互联网或其他行业策划，求推荐",
+                "link": "https://www.v2ex.com/t/809797",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[深圳] 福田区求猫舍推荐~",
+                "link": "https://www.v2ex.com/t/809796",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[MacBook Pro] 各位 V 友好，不写程序，用来开虚拟机浏览网页(有时会开 1～ 2 个 VM)，请问新款该选什么配置？ 內存如果 32G ， m1 pro 处理器有必要升级 10 核吗？？",
+                "link": "https://www.v2ex.com/t/809795",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 迫于腰不好，想入 Herman Miller Aeron，有没有靠谱的渠道商推荐一下",
+                "link": "https://www.v2ex.com/t/809794",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[问与答] 大家好，请问可以推荐一些值得读的好书吗？",
                 "link": "https://www.v2ex.com/t/809793",
                 "published": "2021-10-22"
