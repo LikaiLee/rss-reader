@@ -99,6 +99,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[macOS] 谁能告诉我 safari15 的标签页组对比书签，到底好在哪里？",
+                "link": "https://www.v2ex.com/t/809946",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[C++] 问个关于内存对齐的问题",
+                "link": "https://www.v2ex.com/t/809945",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[Apple] Genius Bar 极为离谱的工作失误",
                 "link": "https://www.v2ex.com/t/809944",
                 "published": "2021-10-22"

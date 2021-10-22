@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-10-22  [macOS] 谁能告诉我 safari15 的标签页组对比书签，到底好在哪里？](https://www.v2ex.com/t/809946)
+* [2021-10-22  [C++] 问个关于内存对齐的问题](https://www.v2ex.com/t/809945)
 * [2021-10-22  [Apple] Genius Bar 极为离谱的工作失误](https://www.v2ex.com/t/809944)
 * [2021-10-22  [生活] 长久以来的愿望突然实现了，整个人感觉都被抽空了。](https://www.v2ex.com/t/809941)
 * [2021-10-22  [问与答] 想请大家推荐一款 Windows 笔记本](https://www.v2ex.com/t/809940)
