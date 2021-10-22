@@ -94,6 +94,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 前端大佬请进，有什么报表插件吗？",
+                "link": "https://www.v2ex.com/t/809874",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[Go 编程语言] go 通道输出结果问题",
+                "link": "https://www.v2ex.com/t/809873",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[推广] TStor-OneCOS ，主打专一海量对象场景",
+                "link": "https://www.v2ex.com/t/809872",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[程序员] [学不动了] 华为发布 HarmonyOS 3 开发者预览版 未来将发布全新编程语言",
+                "link": "https://www.v2ex.com/t/809871",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[酷工作] 有没有在洛阳从事开发工作的小伙伴",
+                "link": "https://www.v2ex.com/t/809869",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[程序员] [开撕] 现在在 github 开源项目上不回答别人的问题，都是错了么？并且还是错的很严重的那种么？",
+                "link": "https://www.v2ex.com/t/809868",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[HTTP] HTTP 标准中将会增加的两个新的和缓存有关的 Response header",
+                "link": "https://www.v2ex.com/t/809867",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[Google] Google 移动版网页 如何将搜索栏置底",
                 "link": "https://www.v2ex.com/t/809866",
                 "published": "2021-10-22"
