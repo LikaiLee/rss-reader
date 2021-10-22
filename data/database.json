@@ -84,6 +84,61 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] asics lyte-v 现在是不是国内没有官方销售了",
+                "link": "https://www.v2ex.com/t/809789",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[程序员] 请教以下 JavaWeb 后端学习路线",
+                "link": "https://www.v2ex.com/t/809787",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 有个疑问：关于 FastGithub，作者好像也在这里",
+                "link": "https://www.v2ex.com/t/809786",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[分享创造] 「物品指南」iOS 端正式上架了！每件物品都值得被记录",
+                "link": "https://www.v2ex.com/t/809785",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[分享发现] 据彭博社消息， Google 和 Bing 可以搜索到微信公众号的文章了",
+                "link": "https://www.v2ex.com/t/809784",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[IPFS] go-ipfs 的 experimental features 里有很多有意思的宝藏",
+                "link": "https://www.v2ex.com/t/809783",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 什么算法适合加密注册码？最好是比较通用的算法，支持的编程语言多一些，位数短一些",
+                "link": "https://www.v2ex.com/t/809782",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[生活] 什么是归属感？为什么去过很多地方都感觉没有那种特别想待的感觉，家里也是这种感觉",
+                "link": "https://www.v2ex.com/t/809781",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 录用通知书不写薪资和试用期正常么？",
+                "link": "https://www.v2ex.com/t/809779",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[分享发现] cookie 不区分端口号！",
+                "link": "https://www.v2ex.com/t/809778",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[Apple] 发布一月了，为啥新款 iPhone 还不能直营店直接买？",
+                "link": "https://www.v2ex.com/t/809776",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[ WATCH] Watch 7 续航感人？",
                 "link": "https://www.v2ex.com/t/809775",
                 "published": "2021-10-22"
