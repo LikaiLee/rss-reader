@@ -1,3 +1,4 @@
+import os
 from jinja2 import Environment, FileSystemLoader
 
 from server.util.file_utils import writer
@@ -18,4 +19,5 @@ class FileRenderer:
         for site in self.database:
             feeds_tpl = env.get_template('feeds.tpl.md')
             feeds_content = feeds_tpl.render(site=site)
-            writer(f"data/{site['title']}.md", feeds_content)
+            os.system(f"echo '{feeds_content}' > data/{site['title']}.md")
+            # writer(f"data/{site['title']}.md", feeds_content)
