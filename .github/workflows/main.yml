@@ -18,7 +18,6 @@ jobs:
       run: pip install -r requirements.txt
     - name: fetch rss
       run: |
-#          chmod 777 data
           sudo python -m server.app
     - name: Commit change & Push
       run: |
