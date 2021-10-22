@@ -99,6 +99,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[生活] 长久以来的愿望突然实现了，整个人感觉都被抽空了。",
+                "link": "https://www.v2ex.com/t/809941",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 想请大家推荐一款 Windows 笔记本",
+                "link": "https://www.v2ex.com/t/809940",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[电影] 千万别看沙丘",
+                "link": "https://www.v2ex.com/t/809939",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 有没有什么好办法可以保存带直链的文档呀",
+                "link": "https://www.v2ex.com/t/809938",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[硬件] 双十一哪里买笔记本最划算",
+                "link": "https://www.v2ex.com/t/809937",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[问与答] 我最近在学 c++，大家平时工作中有啥需求，希望有个软件来辅助吗？",
                 "link": "https://www.v2ex.com/t/809936",
                 "published": "2021-10-22"
