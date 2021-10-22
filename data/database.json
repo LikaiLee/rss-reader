@@ -99,6 +99,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[互联网] 还有哪家企业邮箱供应商提供 1 个字符为邮箱前缀名的？",
+                "link": "https://www.v2ex.com/t/809924",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[Java] 想请问大家关于 completablefuture 中参数传递线程安全问题。",
+                "link": "https://www.v2ex.com/t/809923",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[程序员] 对于平台型的产品，如何做好平台与业务定制的平衡？",
+                "link": "https://www.v2ex.com/t/809922",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[MacBook] 16 寸 M1 Pro+32G 很蠢吗？",
                 "link": "https://www.v2ex.com/t/809921",
                 "published": "2021-10-22"

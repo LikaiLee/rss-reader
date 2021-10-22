@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-10-22  [互联网] 还有哪家企业邮箱供应商提供 1 个字符为邮箱前缀名的？](https://www.v2ex.com/t/809924)
+* [2021-10-22  [Java] 想请问大家关于 completablefuture 中参数传递线程安全问题。](https://www.v2ex.com/t/809923)
+* [2021-10-22  [程序员] 对于平台型的产品，如何做好平台与业务定制的平衡？](https://www.v2ex.com/t/809922)
 * [2021-10-22  [MacBook] 16 寸 M1 Pro+32G 很蠢吗？](https://www.v2ex.com/t/809921)
 * [2021-10-22  [MacBook Pro] 新 1080p 摄像头貌似没有 Center Stage ?](https://www.v2ex.com/t/809920)
 * [2021-10-22  [硬件] 给家里老人纯看抖音刷微信今日头条 小米平板 5 最低配应该就够用了吧](https://www.v2ex.com/t/809918)
