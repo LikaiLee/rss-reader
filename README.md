@@ -46,6 +46,9 @@
     </summary>
 
 
+* [【2021-10-22】 [电影] 《沙丘》看完了，越看越无聊，是我理解水平不够吗](https://www.v2ex.com/t/809928)
+* [【2021-10-22】 [问与答] 有人试过个人小项目里使用前端 IndexDB+github api 同步（或者其他通用同步服务）来代替后端吗？好像可以整一个不需要传统意义上的后端的项目](https://www.v2ex.com/t/809927)
+* [【2021-10-22】 [Apple] airpods3 出来了，立即买了 pro。](https://www.v2ex.com/t/809925)
 * [【2021-10-22】 [互联网] 还有哪家企业邮箱供应商提供 1 个字符为邮箱前缀名的？](https://www.v2ex.com/t/809924)
 * [【2021-10-22】 [Java] 想请问大家关于 completablefuture 中参数传递线程安全问题。](https://www.v2ex.com/t/809923)
 * [【2021-10-22】 [程序员] 对于平台型的产品，如何做好平台与业务定制的平衡？](https://www.v2ex.com/t/809922)
@@ -53,9 +56,6 @@
 * [【2021-10-22】 [MacBook Pro] 新 1080p 摄像头貌似没有 Center Stage ?](https://www.v2ex.com/t/809920)
 * [【2021-10-22】 [硬件] 给家里老人纯看抖音刷微信今日头条 小米平板 5 最低配应该就够用了吧](https://www.v2ex.com/t/809918)
 * [【2021-10-22】 [深圳] 请问哪些地方租房可以开 invoice 报销？](https://www.v2ex.com/t/809917)
-* [【2021-10-22】 [Google] 谷歌搜中文能有多恶心？](https://www.v2ex.com/t/809914)
-* [【2021-10-22】 [分享发现] 利用漏洞的行为违法吗？](https://www.v2ex.com/t/809915)
-* [【2021-10-22】 [生活] 谷歌搜中文能有多恶心？](https://www.v2ex.com/t/809914)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-22 14:33:09
+:alarm_clock: 更新时间: 2021-10-22 15:06:33

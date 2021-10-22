@@ -99,6 +99,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[电影] 《沙丘》看完了，越看越无聊，是我理解水平不够吗",
+                "link": "https://www.v2ex.com/t/809928",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 有人试过个人小项目里使用前端 IndexDB+github api 同步（或者其他通用同步服务）来代替后端吗？好像可以整一个不需要传统意义上的后端的项目",
+                "link": "https://www.v2ex.com/t/809927",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[Apple] airpods3 出来了，立即买了 pro。",
+                "link": "https://www.v2ex.com/t/809925",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[互联网] 还有哪家企业邮箱供应商提供 1 个字符为邮箱前缀名的？",
                 "link": "https://www.v2ex.com/t/809924",
                 "published": "2021-10-22"
