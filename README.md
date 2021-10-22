@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-22】 [Apple] Genius Bar 极为离谱的工作失误](https://www.v2ex.com/t/809944)
 * [【2021-10-22】 [生活] 长久以来的愿望突然实现了，整个人感觉都被抽空了。](https://www.v2ex.com/t/809941)
 * [【2021-10-22】 [问与答] 想请大家推荐一款 Windows 笔记本](https://www.v2ex.com/t/809940)
 * [【2021-10-22】 [电影] 千万别看沙丘](https://www.v2ex.com/t/809939)
@@ -55,7 +56,6 @@
 * [【2021-10-22】 [优惠信息] 图灵社区电子书全场 5 折， 24 日截止](https://www.v2ex.com/t/809935)
 * [【2021-10-22】 [问与答] 鸿蒙真的仅仅是安卓的一个 ui 吗？](https://www.v2ex.com/t/809934)
 * [【2021-10-22】 [怀旧游戏] 还有多少帝国时代 2 的玩家呢？你们都在哪里讨论帝国时代？](https://www.v2ex.com/t/809933)
-* [【2021-10-22】 [分享发现] 能让老照片动起来的 APP](https://www.v2ex.com/t/809932)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-22 17:14:12
+:alarm_clock: 更新时间: 2021-10-22 17:39:14
