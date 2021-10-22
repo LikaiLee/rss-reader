@@ -27,6 +27,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "本周看什么丨最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/69462",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "数字存储完全指南 03 ：固态硬盘的历史、结构与原理",
                 "link": "https://sspai.com/post/68976",
                 "published": "2021-10-22"
@@ -93,6 +98,31 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[macOS] macos12 下周该出了吧",
+                "link": "https://www.v2ex.com/t/809883",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[推广] 分享你的开发者利器赢取 LeanCloud 定制无线充电礼盒",
+                "link": "https://www.v2ex.com/t/809881",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[MacBook Pro] 内存纠结帝来了",
+                "link": "https://www.v2ex.com/t/809880",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[Apple] 我认为与采用 PCIe 的独显相比，使用同一内存加上大量带宽的方法可能会更有优势？",
+                "link": "https://www.v2ex.com/t/809877",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[Python] M1 芯片 Macbook 无法运行 py 程序，求帮助",
+                "link": "https://www.v2ex.com/t/809875",
+                "published": "2021-10-22"
+            },
             {
                 "title": "[问与答] 前端大佬请进，有什么报表插件吗？",
                 "link": "https://www.v2ex.com/t/809874",
