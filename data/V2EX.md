@@ -1,6 +1,12 @@
 # V2EX
 
 
+* [2021-10-22  [酷工作] 全员发最新 MacBook Pro 的 Apifox 招人啦！](https://www.v2ex.com/t/809907)
+* [2021-10-22  [分享发现] 突发奇想，有没有人做一个地球 OL 游戏官网](https://www.v2ex.com/t/809905)
+* [2021-10-22  [问与答] 有人用过 win10 带的 exploit protection 吗？这玩意会导致 idea 提示应用程序无法正常启动 0xc000007b](https://www.v2ex.com/t/809904)
+* [2021-10-22  [Linux] Linux 系统的路径，存储设备的挂载点，以及挂载这个操作，究竟要怎么理解比较好，越想越复杂](https://www.v2ex.com/t/809903)
+* [2021-10-22  [macOS] 请教下 Catalina 版本想用 Numbers 但又不想升级 Big sur 怎么办](https://www.v2ex.com/t/809902)
+* [2021-10-22  [Apple] 有没有去澳门买过 Mac 的朋友，想请问一下那边能选配吗？](https://www.v2ex.com/t/809901)
 * [2021-10-22  [Windows] 电脑经常弹出 cmd 然后自己关机](https://www.v2ex.com/t/809899)
 * [2021-10-22  [分享创造] 有个挣钱 idea，找个猿同伴](https://www.v2ex.com/t/809898)
 * [2021-10-22  [酷工作] 字节跳动 | 校招内推 | tiktok 国际直播](https://www.v2ex.com/t/809897)
