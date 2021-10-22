@@ -27,6 +27,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "瞎玩菌的游戏周报：《坦克大战》制作者辞世、买完所有 PS4 游戏要花多少钱？",
+                "link": "https://sspai.com/post/69449",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "好文章是如何「炼成」的：你也可以有所收获的系统练习之路",
                 "link": "https://sspai.com/post/69442",
                 "published": "2021-10-22"
@@ -83,6 +88,61 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] v 账号被 ban 了，为啥还能通过 google 登录，不理解！",
+                "link": "https://www.v2ex.com/t/809839",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[酷工作] [成都/杭州/东莞] 菊厂预研&底层软件又又又来招人了~",
+                "link": "https://www.v2ex.com/t/809838",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[Apple] 爆料说 M2 AIR 的屏幕边框是白色的，这也太丑了吧",
+                "link": "https://www.v2ex.com/t/809837",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[程序员] Nacos 作为配置中心，微服务总是过段时间自行宕机下线",
+                "link": "https://www.v2ex.com/t/809836",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[微信] 腾讯回应微信将向国外搜索引擎开放：系统出现漏洞，已修复",
+                "link": "https://www.v2ex.com/t/809835",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[ClickHouse] 请教各位大佬关于 clickhouse 的问题",
+                "link": "https://www.v2ex.com/t/809834",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] rsa 生成的公钥、私钥，可以互相交换吗？我可以把 PRIVATE KEY 发给客户端，把 PUBLIC KEY 留给自己用吗？",
+                "link": "https://www.v2ex.com/t/809833",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 代码大仓有什么好处坏处？",
+                "link": "https://www.v2ex.com/t/809832",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[职场话题] 小米和荣耀软件开发岗怎么选？",
+                "link": "https://www.v2ex.com/t/809831",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[问与答] 余承东：太空漫步表盘下载量超 300 万次、开发者收入超 1300 万元",
+                "link": "https://www.v2ex.com/t/809829",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[宽带症候群] 如果不申辦 IPTV 還有什麼收看電視的方式",
+                "link": "https://www.v2ex.com/t/809828",
+                "published": "2021-10-22"
+            },
             {
                 "title": "[问与答] Google Calendar 同步（内容复制）问题",
                 "link": "https://www.v2ex.com/t/809827",

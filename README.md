@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-22】 瞎玩菌的游戏周报：《坦克大战》制作者辞世、买完所有 PS4 游戏要花多少钱？](https://sspai.com/post/69449)
 * [【2021-10-22】 好文章是如何「炼成」的：你也可以有所收获的系统练习之路](https://sspai.com/post/69442)
 * [【2021-10-22】 派早报：小米发布 Redmi 智能电视 X 2022 款、联想拯救者与 Nanoleaf 推出联名奇光板等](https://sspai.com/post/69455)
 * [【2021-10-21】 提升独居生活幸福感，一个人也要做好家务](https://sspai.com/post/69447)
@@ -36,7 +37,6 @@
 * [【2021-10-21】 感受末代掌机的「游戏性」：如何在 2021 年购买一台 3DS](https://sspai.com/post/69395)
 * [【2021-10-21】 派早报：大疆发布首台电影机、OPPO 推出 K9s 手机、新版 macOS 确认发布时间等](https://sspai.com/post/69438)
 * [【2021-10-20】 不读可以先收藏 04 | 恭喜你发现「镇站之宝」](https://sspai.com/post/69429)
-* [【2021-10-20】 一派·在线沙龙03：新一代 MacBook Pro 「炸」到你了吗？](https://sspai.com/post/69432)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-22】 [问与答] Google Calendar 同步（内容复制）问题](https://www.v2ex.com/t/809827)
-* [【2021-10-22】 [设计] 请问有什么画简单的 UI 设计图的软件吗？](https://www.v2ex.com/t/809826)
-* [【2021-10-22】 [MacBook Pro] 订单状态有变化了](https://www.v2ex.com/t/809825)
-* [【2021-10-22】 [iPhone] 发布一月了，为啥新款 iPhone 还不能直营店直接买？](https://www.v2ex.com/t/809776)
-* [【2021-10-22】 [问与答] 有没有什么办法提升虚拟机的图形性能？](https://www.v2ex.com/t/809824)
-* [【2021-10-22】 [Apple] Monterey 的低电量模式拯救了 5300M 和 5500M 的 16 寸，还能再战几年！](https://www.v2ex.com/t/809823)
-* [【2021-10-22】 [Apple] 新 mac 的评测解禁时间？](https://www.v2ex.com/t/809822)
-* [【2021-10-22】 [iPhone] iPhone 上的 discord 打开就崩](https://www.v2ex.com/t/809821)
-* [【2021-10-22】 [Windows] win11 的安卓子系统集成度真高](https://www.v2ex.com/t/809819)
-* [【2021-10-22】 [Apple] 既然没有 Face ID 为什么非得加刘海，直接调用 iPhone 的摄像头不是更好？](https://www.v2ex.com/t/809818)
+* [【2021-10-22】 [问与答] v 账号被 ban 了，为啥还能通过 google 登录，不理解！](https://www.v2ex.com/t/809839)
+* [【2021-10-22】 [酷工作] [成都/杭州/东莞] 菊厂预研&底层软件又又又来招人了~](https://www.v2ex.com/t/809838)
+* [【2021-10-22】 [Apple] 爆料说 M2 AIR 的屏幕边框是白色的，这也太丑了吧](https://www.v2ex.com/t/809837)
+* [【2021-10-22】 [程序员] Nacos 作为配置中心，微服务总是过段时间自行宕机下线](https://www.v2ex.com/t/809836)
+* [【2021-10-22】 [微信] 腾讯回应微信将向国外搜索引擎开放：系统出现漏洞，已修复](https://www.v2ex.com/t/809835)
+* [【2021-10-22】 [ClickHouse] 请教各位大佬关于 clickhouse 的问题](https://www.v2ex.com/t/809834)
+* [【2021-10-22】 [问与答] rsa 生成的公钥、私钥，可以互相交换吗？我可以把 PRIVATE KEY 发给客户端，把 PUBLIC KEY 留给自己用吗？](https://www.v2ex.com/t/809833)
+* [【2021-10-22】 [问与答] 代码大仓有什么好处坏处？](https://www.v2ex.com/t/809832)
+* [【2021-10-22】 [职场话题] 小米和荣耀软件开发岗怎么选？](https://www.v2ex.com/t/809831)
+* [【2021-10-22】 [问与答] 余承东：太空漫步表盘下载量超 300 万次、开发者收入超 1300 万元](https://www.v2ex.com/t/809829)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-22 07:33:18
+:alarm_clock: 更新时间: 2021-10-22 08:07:58
