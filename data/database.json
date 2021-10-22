@@ -99,6 +99,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享发现] 利用漏洞的行为违法吗？",
+                "link": "https://www.v2ex.com/t/809915",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[生活] 谷歌搜中文能有多恶心？",
+                "link": "https://www.v2ex.com/t/809914",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[程序员] 谷歌浏览器 F12 或者右键检查很慢是什么情况",
+                "link": "https://www.v2ex.com/t/809913",
+                "published": "2021-10-22"
+            },
+            {
+                "title": "[MacBook Pro] MacBook 改圆机身的猜想",
+                "link": "https://www.v2ex.com/t/809912",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[问与答] 腾讯云香港 支持 netflix 新加坡？ 怎么访问",
                 "link": "https://www.v2ex.com/t/809910",
                 "published": "2021-10-22"
