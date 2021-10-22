@@ -99,6 +99,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[硬件] 想请大家推荐一款 Windows 笔记本",
+                "link": "https://www.v2ex.com/t/809940",
+                "published": "2021-10-22"
+            },
+            {
                 "title": "[问与答] Typecho 使用地址重写之后 404 已经设置了 .htaccess",
                 "link": "https://www.v2ex.com/t/809948",
                 "published": "2021-10-22"

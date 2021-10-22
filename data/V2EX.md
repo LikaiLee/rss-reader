@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-10-22  [硬件] 想请大家推荐一款 Windows 笔记本](https://www.v2ex.com/t/809940)
 * [2021-10-22  [问与答] Typecho 使用地址重写之后 404 已经设置了 .htaccess](https://www.v2ex.com/t/809948)
 * [2021-10-22  [Apple] 有趣的问题： iPhone 年年丐版 trade in 和顶配用三年的折旧？](https://www.v2ex.com/t/809947)
 * [2021-10-22  [macOS] 谁能告诉我 safari15 的标签页组对比书签，到底好在哪里？](https://www.v2ex.com/t/809946)
