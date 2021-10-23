@@ -109,6 +109,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[优惠信息] 微信支付 X App Store 限时充值特惠 (10/22-10/24)",
+                "link": "https://www.v2ex.com/t/810089",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[问与答] 技术 or 管理，你会选哪个？",
+                "link": "https://www.v2ex.com/t/810088",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[Windows] Windows 11 的那个任务栏角溢出有办法和以前一样全部显示吗？",
+                "link": "https://www.v2ex.com/t/810087",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[macOS] 如何用命令导出 edge 和 chrome 的书签？",
                 "link": "https://www.v2ex.com/t/810084",
                 "published": "2021-10-23"
