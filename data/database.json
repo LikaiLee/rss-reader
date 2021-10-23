@@ -104,6 +104,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 各位平时文件同步用哪个？",
+                "link": "https://www.v2ex.com/t/810009",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[分享创造] 聊聊开发日常的效率提升工具（全）",
+                "link": "https://www.v2ex.com/t/810007",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[MacBook Pro] 问问 20 款 MBP 值什么价，附近正好有人收",
+                "link": "https://www.v2ex.com/t/810006",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[问与答] 有没有支持按标签分类的番茄钟软件？",
                 "link": "https://www.v2ex.com/t/810005",
                 "published": "2021-10-23"

@@ -46,6 +46,9 @@
     </summary>
 
 
+* [【2021-10-23】 [问与答] 各位平时文件同步用哪个？](https://www.v2ex.com/t/810009)
+* [【2021-10-23】 [分享创造] 聊聊开发日常的效率提升工具（全）](https://www.v2ex.com/t/810007)
+* [【2021-10-23】 [MacBook Pro] 问问 20 款 MBP 值什么价，附近正好有人收](https://www.v2ex.com/t/810006)
 * [【2021-10-23】 [问与答] 有没有支持按标签分类的番茄钟软件？](https://www.v2ex.com/t/810005)
 * [【2021-10-23】 [PlayStation 4] 港服备份国行 ps4 之后，巫师不能下载 dlc，免费的都不行。游戏可以下](https://www.v2ex.com/t/810004)
 * [【2021-10-23】 [生活] 每日负：我为什么讨厌亲戚，以及拒绝和他们谈论我的私事](https://www.v2ex.com/t/810003)
@@ -53,9 +56,6 @@
 * [【2021-10-23】 [Apple] 大家是否期待钛合金版本的 macbook pro](https://www.v2ex.com/t/810001)
 * [【2021-10-23】 [iPad] 除了 magic keyboard，有为 iPad Pro 背后三个触点（Smart Connector）打造的充电器嘛](https://www.v2ex.com/t/810000)
 * [【2021-10-23】 [奇思妙想] 可不可以整一个 vr 资源分享网站](https://www.v2ex.com/t/809999)
-* [【2021-10-23】 [问与答] 靠墙想了一下，还是等明年的 M2 mba 了](https://www.v2ex.com/t/809998)
-* [【2021-10-23】 [问与答] 小新 pro14 或 yoga14s 支持外接 2k 显示器吗？](https://www.v2ex.com/t/809997)
-* [【2021-10-23】 [Windows] 为什么 MS 不继续发展 AOW，而是弄 WSA？](https://www.v2ex.com/t/809996)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-23 06:07:29
+:alarm_clock: 更新时间: 2021-10-23 06:41:06
