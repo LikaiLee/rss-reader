@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-10-23  [Apple] 支付宝 Apple music 免费领](https://www.v2ex.com/t/810035)
+* [2021-10-23  [宽带症候群] 家里两个小米路由器组 mesh，次路由速度很差，希望得到优化建议](https://www.v2ex.com/t/810034)
+* [2021-10-23  [iPhone] 在线抢到的 iPhone ，取货人信息填错就拿不到手机了吗？](https://www.v2ex.com/t/810033)
+* [2021-10-23  [Linux] 请教一个服务器的问题，视频放在服务器上，客户端观看视频，视频的解析是在服务器还是客户端，或者说服务器主要的消耗是哪方面](https://www.v2ex.com/t/810032)
+* [2021-10-23  [问与答] Outlook 无法添加 gmail 邮箱](https://www.v2ex.com/t/810031)
 * [2021-10-23  [MacBook Pro] 我错了，我之前说刘海无所谓的，我反悔了...](https://www.v2ex.com/t/810029)
 * [2021-10-23  [JetBrains] Webstorm 今年 1024 有优惠活动吗？](https://www.v2ex.com/t/810028)
 * [2021-10-23  [iPod] iPod 发布 20 周年](https://www.v2ex.com/t/810026)
