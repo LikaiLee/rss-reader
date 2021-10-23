@@ -109,6 +109,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 中国残联是否允许接受社会资金捐助？",
+                "link": "https://www.v2ex.com/t/810099",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[宽带症候群] 有办湖南电信 1000M 的朋友吗 ，实测效果不佳，坐标湘潭",
                 "link": "https://www.v2ex.com/t/810098",
                 "published": "2021-10-23"
