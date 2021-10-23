@@ -27,6 +27,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "你也可以轻松修复老照片——看 AI 如何让它们焕发新生",
+                "link": "https://sspai.com/post/69472",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "如果着火了，地铁怎样保证我们的安全？",
                 "link": "https://sspai.com/post/69234",
                 "published": "2021-10-23"
@@ -103,6 +108,31 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] Macbook Pro 发货了",
+                "link": "https://www.v2ex.com/t/810021",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[问与答] iOS 有没有什么比较好的全·虚拟键盘解决方案啊？",
+                "link": "https://www.v2ex.com/t/810020",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[前端开发] 今天测试说网页登录的时候如果密码输入错误浏览器不要弹出记住密码，如果输入正确浏览器弹出记住密码，请问各位大佬这个功能怎么实现啊？",
+                "link": "https://www.v2ex.com/t/810019",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[问与答] 求分享一个 Rime 的小鹤双拼词库",
+                "link": "https://www.v2ex.com/t/810017",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[汽车] 车险又到期了，不出险，续费反而比去年贵几十元，大家今年车险去哪里买的？",
+                "link": "https://www.v2ex.com/t/810014",
+                "published": "2021-10-23"
+            },
             {
                 "title": "[问与答] macbook 官网教育版还能员工 85 不",
                 "link": "https://www.v2ex.com/t/810016",

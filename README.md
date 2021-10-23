@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-23】 你也可以轻松修复老照片——看 AI 如何让它们焕发新生](https://sspai.com/post/69472)
 * [【2021-10-23】 如果着火了，地铁怎样保证我们的安全？](https://sspai.com/post/69234)
 * [【2021-10-22】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/69462)
 * [【2021-10-22】 数字存储完全指南 03 ：固态硬盘的历史、结构与原理](https://sspai.com/post/68976)
@@ -36,7 +37,6 @@
 * [【2021-10-21】 提升独居生活幸福感，一个人也要做好家务](https://sspai.com/post/69447)
 * [【2021-10-21】 具透 | 在 Windows 11 上运行 Android 应用，体验究竟怎么样？](https://sspai.com/post/69446)
 * [【2021-10-21】 城市漫步指南：莱斯特的「小而美」——历史、花园与生活](https://sspai.com/post/68445)
-* [【2021-10-21】 功能与外形都兼具，5 款城市机能风背包推荐给你](https://sspai.com/post/69428)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,16 @@
     </summary>
 
 
+* [【2021-10-23】 [Apple] Macbook Pro 发货了](https://www.v2ex.com/t/810021)
+* [【2021-10-23】 [问与答] iOS 有没有什么比较好的全·虚拟键盘解决方案啊？](https://www.v2ex.com/t/810020)
+* [【2021-10-23】 [前端开发] 今天测试说网页登录的时候如果密码输入错误浏览器不要弹出记住密码，如果输入正确浏览器弹出记住密码，请问各位大佬这个功能怎么实现啊？](https://www.v2ex.com/t/810019)
+* [【2021-10-23】 [问与答] 求分享一个 Rime 的小鹤双拼词库](https://www.v2ex.com/t/810017)
+* [【2021-10-23】 [汽车] 车险又到期了，不出险，续费反而比去年贵几十元，大家今年车险去哪里买的？](https://www.v2ex.com/t/810014)
 * [【2021-10-23】 [问与答] macbook 官网教育版还能员工 85 不](https://www.v2ex.com/t/810016)
 * [【2021-10-23】 [酷工作] 对环保+科技感兴趣的小伙伴欢迎加入我们， 热招岗位： AI 算法工程师（CV 和深度学习），产品经理，运维工程师，测试， Web 开发工程师](https://www.v2ex.com/t/810015)
 * [【2021-10-23】 [问与答] 车险又到期了，不出险，续费反而比去年贵几十元，大家今年车险去哪里买的？](https://www.v2ex.com/t/810014)
 * [【2021-10-23】 [编程] 枚举类过时了？ 那用什么方式来代替？](https://www.v2ex.com/t/810013)
 * [【2021-10-23】 [问与答] 请教，类肤材质严重发粘，怎么清理啊？](https://www.v2ex.com/t/810012)
-* [【2021-10-23】 [Apple] 这就是苹果官网？（滑稽](https://www.v2ex.com/t/810011)
-* [【2021-10-23】 [Apple] 关于刘海的 MacBook Pro，你们没想过](https://www.v2ex.com/t/810010)
-* [【2021-10-23】 [软件] 各位平时文件同步用哪个？](https://www.v2ex.com/t/810009)
-* [【2021-10-23】 [硬件] 小新 pro14 或 yoga14s 支持外接 2k 显示器吗？](https://www.v2ex.com/t/809997)
-* [【2021-10-23】 [互联网] ebay 下单无法支付](https://www.v2ex.com/t/809964)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-23 07:32:19
+:alarm_clock: 更新时间: 2021-10-23 08:07:21
