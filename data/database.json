@@ -99,6 +99,51 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 作为一个大三计科生,该为以后选择什么方向?",
+                "link": "https://www.v2ex.com/t/809974",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[程序员] 程序获取手机指定号码的短信",
+                "link": "https://www.v2ex.com/t/809973",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[程序员] 对帖子的补充与终结 [现在在 github 开源项目上不回答别人的问题，都是错了么]",
+                "link": "https://www.v2ex.com/t/809972",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[问与答] 如何缓解晕血？",
+                "link": "https://www.v2ex.com/t/809971",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[问与答] 用 macbook air 13 寸上班写代码，长期写代码屏幕显小吗？",
+                "link": "https://www.v2ex.com/t/809970",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[酷工作] [成都] Mises 网络招募软件工程师及产品经理",
+                "link": "https://www.v2ex.com/t/809968",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[问与答] 请教一个 WSL2 上代理的问题",
+                "link": "https://www.v2ex.com/t/809967",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[宽带症候群] 请教一下，关于光猫，桥接， dmz， ap 的性能问题",
+                "link": "https://www.v2ex.com/t/809966",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[问与答] 一直不明白闲鱼上的关联置换交易",
+                "link": "https://www.v2ex.com/t/809965",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[问与答] ebay 下单无法支付",
                 "link": "https://www.v2ex.com/t/809964",
                 "published": "2021-10-23"
