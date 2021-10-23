@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-10-23  [程序员] 视频在线播放卡慢，如何实现视频分片加载呢？前段 vue，后台 go](https://www.v2ex.com/t/810055)
 * [2021-10-23  [Apple] 新的 MacBook 可以体验了吗](https://www.v2ex.com/t/810054)
 * [2021-10-23  [问与答] yoga14s vs macbook air](https://www.v2ex.com/t/810053)
 * [2021-10-23  [问与答] 想往 OS 内核方向发展，需要做什么？国内有哪些内核做的比较好的公司？](https://www.v2ex.com/t/810050)

@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-23】 [程序员] 视频在线播放卡慢，如何实现视频分片加载呢？前段 vue，后台 go](https://www.v2ex.com/t/810055)
 * [【2021-10-23】 [Apple] 新的 MacBook 可以体验了吗](https://www.v2ex.com/t/810054)
 * [【2021-10-23】 [问与答] yoga14s vs macbook air](https://www.v2ex.com/t/810053)
 * [【2021-10-23】 [问与答] 想往 OS 内核方向发展，需要做什么？国内有哪些内核做的比较好的公司？](https://www.v2ex.com/t/810050)
@@ -55,7 +56,6 @@
 * [【2021-10-23】 [问与答] typecho 使用 apache，搭建之后想要加上伪静态重写网址，结果一直 404](https://www.v2ex.com/t/810043)
 * [【2021-10-23】 [C] c 语言条件编译宏太多, 有什么办法解决吗](https://www.v2ex.com/t/810041)
 * [【2021-10-23】 [生活] 2k 以内的滚筒洗衣机有推荐吗？](https://www.v2ex.com/t/810040)
-* [【2021-10-23】 [问与答] 2k 以内的滚筒洗衣机有推荐吗？](https://www.v2ex.com/t/810040)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-23 11:05:17
+:alarm_clock: 更新时间: 2021-10-23 11:32:01
