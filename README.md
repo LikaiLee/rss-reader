@@ -46,6 +46,8 @@
     </summary>
 
 
+* [【2021-10-23】 [问与答] 现在校招工资好高啊，我工作 8 年才和人家校招的普通工资差不多。哎，心酸](https://www.v2ex.com/t/809980)
+* [【2021-10-23】 [问与答] 如果用 macbook air 13 寸上班写代码，不外接显示器，长期能受得了吗?](https://www.v2ex.com/t/809977)
 * [【2021-10-23】 [科幻] 很多科幻作品中，未来的政治体制跟像过去相似，是不是不太合理；对于 "披着科幻皮的 XXX" 这种评价是否太苛刻了](https://www.v2ex.com/t/809976)
 * [【2021-10-23】 [分享创造] 我写了个工具，找到了国内 Xbox 下载最快的节点](https://www.v2ex.com/t/809975)
 * [【2021-10-23】 [问与答] 作为一个大三计科生,该为以后选择什么方向?](https://www.v2ex.com/t/809974)
@@ -54,8 +56,6 @@
 * [【2021-10-23】 [问与答] 如何缓解晕血？](https://www.v2ex.com/t/809971)
 * [【2021-10-23】 [问与答] 用 macbook air 13 寸上班写代码，长期写代码屏幕显小吗？](https://www.v2ex.com/t/809970)
 * [【2021-10-23】 [酷工作] [成都] Mises 网络招募软件工程师及产品经理](https://www.v2ex.com/t/809968)
-* [【2021-10-23】 [问与答] 请教一个 WSL2 上代理的问题](https://www.v2ex.com/t/809967)
-* [【2021-10-23】 [宽带症候群] 请教一下，关于光猫，桥接， dmz， ap 的性能问题](https://www.v2ex.com/t/809966)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-23 02:48:46
+:alarm_clock: 更新时间: 2021-10-23 03:06:40
