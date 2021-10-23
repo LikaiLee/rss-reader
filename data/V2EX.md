@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-10-23  [Python] 一个小白想法， Python 为什么不通过命令行开关切换两种 GIL 模式？](https://www.v2ex.com/t/810078)
+* [2021-10-23  [程序员] 温州“遇见志同道合”线下沙龙 - 集合温州对互联网开发有热情的小伙伴](https://www.v2ex.com/t/810077)
+* [2021-10-23  [酷工作] 网易有道内推岗位大放出！能者云集，职等你来~](https://www.v2ex.com/t/810076)
+* [2021-10-23  [Android] 深入理解 android 包体积优化，给 apk 瘦身全部技巧](https://www.v2ex.com/t/810075)
+* [2021-10-23  [酷工作] 听说币安停止招聘了，有没有内部老哥知道情况的？](https://www.v2ex.com/t/810074)
 * [2021-10-23  [MacBook Pro] M1 MacBook Pro 13 16GB 1TB 有必要 Trade in 升级 M1 Max Macbook 16 64GB 1TB 吗？](https://www.v2ex.com/t/810073)
 * [2021-10-23  [问与答] 请问一下 制作国外 app 并且不打算发布到 google 商店,这个提示是不可避免的么.](https://www.v2ex.com/t/810070)
 * [2021-10-23  [Apple] 18 款高配 MacBook pro 13 现在换 M1 MacBook air 亏吗](https://www.v2ex.com/t/810069)
