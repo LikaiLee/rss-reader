@@ -1,6 +1,14 @@
 # V2EX
 
 
+* [2021-10-23  [Apple] 18 款高配 MacBook pro 13 现在换 M1 MacBook air 亏吗](https://www.v2ex.com/t/810069)
+* [2021-10-23  [MacBook Pro] MacBook Pro 2021 14&16inch 选购统计问卷](https://www.v2ex.com/t/810068)
+* [2021-10-23  [酷工作] [途虎养车] [上海] Java , 25-30k/14 薪/营销部门/海量 HC/一周走完流程](https://www.v2ex.com/t/810067)
+* [2021-10-23  [MacBook Pro] 看了新 MBP 的上手视频，反而能接受刘海了，毕竟能把顶部菜单栏改成黑色背景隐藏刘海，应用全屏也不会延伸到刘海，这种刘海区域直接给多做一截屏幕出来的思路不错，交互上甚至比以前更舒服了。](https://www.v2ex.com/t/810066)
+* [2021-10-23  [Apple] 兄弟们有没有 parallels desktop 17 版本的软件包？非 17.1](https://www.v2ex.com/t/810065)
+* [2021-10-23  [酷工作] 「远程全职」招聘 Electron 开发工程师*1、前端（vue+小程序）*7、 Java 后端*4](https://www.v2ex.com/t/810064)
+* [2021-10-23  [程序员] 阿里 oceanbase 刷 star 了！](https://www.v2ex.com/t/810063)
+* [2021-10-23  [奇思妙想] 「产品构思」每次发布想法时都要改昵称的树洞社区](https://www.v2ex.com/t/810062)
 * [2021-10-23  [问与答] mac 远程桌面 windows 软件的选择](https://www.v2ex.com/t/810061)
 * [2021-10-23  [分享发现] Fastmail 的 IMAP 在国内不通了](https://www.v2ex.com/t/810060)
 * [2021-10-23  [问与答] 自学弹钢琴从入门到上手要多久？](https://www.v2ex.com/t/810056)
