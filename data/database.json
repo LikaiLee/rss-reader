@@ -109,6 +109,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Linux] 请问如果要组建 100 个节点以上的集群，如何给机器配置免密登录呢？如果后期这个集群扩容到 200 个节点以上，该如何操作？有大佬提供下思路吗？",
+                "link": "https://www.v2ex.com/t/810079",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[职场话题] 听说币安停止招聘了，有没有内部老哥知道情况的？",
+                "link": "https://www.v2ex.com/t/810074",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[互联网] 程序员 5 年坚持制作免费教程造福百万学生",
+                "link": "https://www.v2ex.com/t/810045",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[中州韻] 求分享一个 Rime 的小鹤双拼词库",
+                "link": "https://www.v2ex.com/t/810017",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[Python] 一个小白想法， Python 为什么不通过命令行开关切换两种 GIL 模式？",
                 "link": "https://www.v2ex.com/t/810078",
                 "published": "2021-10-23"
