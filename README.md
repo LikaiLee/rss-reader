@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-23】 [问与答] 迫于迫于，收 Airpods 2](https://www.v2ex.com/t/809986)
 * [【2021-10-23】 [广州] 广州卡座工位出租，同德地铁站附近](https://www.v2ex.com/t/809983)
 * [【2021-10-23】 [Apple] 不知道明年三月份会不会发布新的 mac air，现在买是不是 49 年入国军呀](https://www.v2ex.com/t/809982)
 * [【2021-10-23】 [职场话题] 现在校招工资好高啊，我工作 8 年才和人家校招的普通工资差不多。哎，心酸](https://www.v2ex.com/t/809980)
@@ -55,7 +56,6 @@
 * [【2021-10-23】 [问与答] 如果用 macbook air 13 寸上班写代码，不外接显示器，长期能受得了吗?](https://www.v2ex.com/t/809977)
 * [【2021-10-23】 [科幻] 很多科幻作品中，未来的政治体制跟像过去相似，是不是不太合理；对于 "披着科幻皮的 XXX" 这种评价是否太苛刻了](https://www.v2ex.com/t/809976)
 * [【2021-10-23】 [分享创造] 我写了个工具，找到了国内 Xbox 下载最快的节点](https://www.v2ex.com/t/809975)
-* [【2021-10-23】 [问与答] 作为一个大三计科生,该为以后选择什么方向?](https://www.v2ex.com/t/809974)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -65,6 +65,7 @@
     </summary>
 
 
+* [【2021-10-23】 如今「网红打卡地」泛滥，褪下滤镜后还有哪些值得一去的旅行目的地？](http://www.zhihu.com/question/491721079/answer/2167443272?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-22】 媒体评价李云迪被拘是「自作孽不可活」，其音乐家协会会员被取消，广州城市形象代言人被终止，他彻底糊了吗？](http://www.zhihu.com/question/493814225/answer/2182923238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-22】 为什么汽车不能设计成快撞车就自动刹车？](http://www.zhihu.com/question/20498808/answer/2183501118?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-22】 全国政协委员称「不能简单地对网络游戏扣帽子、打棍子」，要明确游戏的重要责任，有哪些值得关注的信息？](http://www.zhihu.com/question/493745295/answer/2182710663?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -74,7 +75,6 @@
 * [【2021-10-22】 广西旅游，有什么美食不容错过？](http://www.zhihu.com/question/420545697/answer/2178180051?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-22】 长征胜利 85 周年，有哪些关于长征的故事或诗词？今天的我们该怎样践行长征精神？](http://www.zhihu.com/question/493816614/answer/2182800456?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-22】 长征胜利 85 周年，有哪些关于长征的故事或诗词？今天的我们该怎样践行长征精神？](http://www.zhihu.com/question/493816614/answer/2182743235?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-10-22】 李云迪嫖娼被抓后，后续的艺术生涯会怎样？还能活跃在古典音乐圈吗？](http://www.zhihu.com/question/493772413/answer/2182772969?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-23 03:36:14
+:alarm_clock: 更新时间: 2021-10-23 04:07:46

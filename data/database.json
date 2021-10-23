@@ -99,6 +99,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 迫于迫于，收 Airpods 2",
+                "link": "https://www.v2ex.com/t/809986",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[广州] 广州卡座工位出租，同德地铁站附近",
                 "link": "https://www.v2ex.com/t/809983",
                 "published": "2021-10-23"
@@ -1235,6 +1240,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "如今「网红打卡地」泛滥，褪下滤镜后还有哪些值得一去的旅行目的地？",
+                "link": "http://www.zhihu.com/question/491721079/answer/2167443272?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-23"
+            },
             {
                 "title": "媒体评价李云迪被拘是「自作孽不可活」，其音乐家协会会员被取消，广州城市形象代言人被终止，他彻底糊了吗？",
                 "link": "http://www.zhihu.com/question/493814225/answer/2182923238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
