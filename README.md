@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-23】 [MacBook Pro] 把 Face id 装在 MacBook Pro 上是否合适？](https://www.v2ex.com/t/810101)
 * [【2021-10-23】 [问与答] macOS 有必要用 4K 显示器吗？](https://www.v2ex.com/t/810100)
 * [【2021-10-23】 [问与答] 中国残联是否允许接受社会资金捐助？](https://www.v2ex.com/t/810099)
 * [【2021-10-23】 [宽带症候群] 有办湖南电信 1000M 的朋友吗 ，实测效果不佳，坐标湘潭](https://www.v2ex.com/t/810098)
@@ -55,7 +56,6 @@
 * [【2021-10-23】 [Apple TV] 小白来问 2 个 atv 的问题，请求各位大神解惑](https://www.v2ex.com/t/810093)
 * [【2021-10-23】 [macOS] Mac 版 Safari 有个很不苹果的细节](https://www.v2ex.com/t/810092)
 * [【2021-10-23】 [优惠信息] 微信支付 X App Store 限时充值特惠 (10/22-10/24)](https://www.v2ex.com/t/810089)
-* [【2021-10-23】 [问与答] 技术 or 管理，你会选哪个？](https://www.v2ex.com/t/810088)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-23 22:18:56
+:alarm_clock: 更新时间: 2021-10-23 23:19:35

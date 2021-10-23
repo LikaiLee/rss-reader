@@ -109,6 +109,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] 把 Face id 装在 MacBook Pro 上是否合适？",
+                "link": "https://www.v2ex.com/t/810101",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[问与答] macOS 有必要用 4K 显示器吗？",
                 "link": "https://www.v2ex.com/t/810100",
                 "published": "2021-10-23"
