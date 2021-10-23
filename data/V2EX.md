@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-10-23  [问与答] mac 远程桌面 windows 软件的选择](https://www.v2ex.com/t/810061)
+* [2021-10-23  [分享发现] Fastmail 的 IMAP 在国内不通了](https://www.v2ex.com/t/810060)
+* [2021-10-23  [问与答] 自学弹钢琴从入门到上手要多久？](https://www.v2ex.com/t/810056)
 * [2021-10-23  [程序员] 视频在线播放卡慢，如何实现视频分片加载呢？前段 vue，后台 go](https://www.v2ex.com/t/810055)
 * [2021-10-23  [Apple] 新的 MacBook 可以体验了吗](https://www.v2ex.com/t/810054)
 * [2021-10-23  [问与答] yoga14s vs macbook air](https://www.v2ex.com/t/810053)

@@ -109,6 +109,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] mac 远程桌面 windows 软件的选择",
+                "link": "https://www.v2ex.com/t/810061",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[分享发现] Fastmail 的 IMAP 在国内不通了",
+                "link": "https://www.v2ex.com/t/810060",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[问与答] 自学弹钢琴从入门到上手要多久？",
+                "link": "https://www.v2ex.com/t/810056",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[程序员] 视频在线播放卡慢，如何实现视频分片加载呢？前段 vue，后台 go",
                 "link": "https://www.v2ex.com/t/810055",
                 "published": "2021-10-23"
