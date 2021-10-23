@@ -109,6 +109,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 请问一下 制作国外 app 并且不打算发布到 google 商店,这个提示是不可避免的么.",
+                "link": "https://www.v2ex.com/t/810070",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[Apple] 18 款高配 MacBook pro 13 现在换 M1 MacBook air 亏吗",
                 "link": "https://www.v2ex.com/t/810069",
                 "published": "2021-10-23"

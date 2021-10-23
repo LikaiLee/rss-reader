@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-23】 [问与答] 请问一下 制作国外 app 并且不打算发布到 google 商店,这个提示是不可避免的么.](https://www.v2ex.com/t/810070)
 * [【2021-10-23】 [Apple] 18 款高配 MacBook pro 13 现在换 M1 MacBook air 亏吗](https://www.v2ex.com/t/810069)
 * [【2021-10-23】 [MacBook Pro] MacBook Pro 2021 14&16inch 选购统计问卷](https://www.v2ex.com/t/810068)
 * [【2021-10-23】 [酷工作] [途虎养车] [上海] Java , 25-30k/14 薪/营销部门/海量 HC/一周走完流程](https://www.v2ex.com/t/810067)
@@ -55,7 +56,6 @@
 * [【2021-10-23】 [程序员] 阿里 oceanbase 刷 star 了！](https://www.v2ex.com/t/810063)
 * [【2021-10-23】 [奇思妙想] 「产品构思」每次发布想法时都要改昵称的树洞社区](https://www.v2ex.com/t/810062)
 * [【2021-10-23】 [问与答] mac 远程桌面 windows 软件的选择](https://www.v2ex.com/t/810061)
-* [【2021-10-23】 [分享发现] Fastmail 的 IMAP 在国内不通了](https://www.v2ex.com/t/810060)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-23 12:51:06
+:alarm_clock: 更新时间: 2021-10-23 13:11:52

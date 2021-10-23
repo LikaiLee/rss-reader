@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-10-23  [问与答] 请问一下 制作国外 app 并且不打算发布到 google 商店,这个提示是不可避免的么.](https://www.v2ex.com/t/810070)
 * [2021-10-23  [Apple] 18 款高配 MacBook pro 13 现在换 M1 MacBook air 亏吗](https://www.v2ex.com/t/810069)
 * [2021-10-23  [MacBook Pro] MacBook Pro 2021 14&16inch 选购统计问卷](https://www.v2ex.com/t/810068)
 * [2021-10-23  [酷工作] [途虎养车] [上海] Java , 25-30k/14 薪/营销部门/海量 HC/一周走完流程](https://www.v2ex.com/t/810067)
