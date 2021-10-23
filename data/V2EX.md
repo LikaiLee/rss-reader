@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-10-23  [问与答] 想往 OS 内核方向发展，需要做什么？国内有哪些内核做的比较好的公司？](https://www.v2ex.com/t/810050)
+* [2021-10-23  [MacBook Pro] 弱弱的问一下现在 apple arm 芯片恢复出厂 变砖的 bug 还在吗？](https://www.v2ex.com/t/810048)
+* [2021-10-23  [MacBook Pro] 预计一种全新的 MacBook 配件系列要诞生了](https://www.v2ex.com/t/810047)
 * [2021-10-23  [程序员] 程序员 5 年坚持制作免费教程造福百万学生](https://www.v2ex.com/t/810045)
 * [2021-10-23  [问与答] typecho 使用 apache，搭建之后想要加上伪静态重写网址，结果一直 404](https://www.v2ex.com/t/810043)
 * [2021-10-23  [C] c 语言条件编译宏太多, 有什么办法解决吗](https://www.v2ex.com/t/810041)

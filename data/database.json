@@ -109,6 +109,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 想往 OS 内核方向发展，需要做什么？国内有哪些内核做的比较好的公司？",
+                "link": "https://www.v2ex.com/t/810050",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[MacBook Pro] 弱弱的问一下现在 apple arm 芯片恢复出厂 变砖的 bug 还在吗？",
+                "link": "https://www.v2ex.com/t/810048",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[MacBook Pro] 预计一种全新的 MacBook 配件系列要诞生了",
+                "link": "https://www.v2ex.com/t/810047",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[程序员] 程序员 5 年坚持制作免费教程造福百万学生",
                 "link": "https://www.v2ex.com/t/810045",
                 "published": "2021-10-23"
