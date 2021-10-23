@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-10-23  [MacBook Pro] M1 MacBook Pro 13 16GB 1TB 有必要 Trade in 升级 M1 Max Macbook 16 64GB 1TB 吗？](https://www.v2ex.com/t/810073)
 * [2021-10-23  [问与答] 请问一下 制作国外 app 并且不打算发布到 google 商店,这个提示是不可避免的么.](https://www.v2ex.com/t/810070)
 * [2021-10-23  [Apple] 18 款高配 MacBook pro 13 现在换 M1 MacBook air 亏吗](https://www.v2ex.com/t/810069)
 * [2021-10-23  [MacBook Pro] MacBook Pro 2021 14&16inch 选购统计问卷](https://www.v2ex.com/t/810068)
