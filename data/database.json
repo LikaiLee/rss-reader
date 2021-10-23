@@ -27,6 +27,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "如果着火了，地铁怎样保证我们的安全？",
+                "link": "https://sspai.com/post/69234",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "本周看什么丨最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/69462",
                 "published": "2021-10-22"
@@ -98,6 +103,26 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Windows] 为什么 MS 不继续发展 AOW，而是弄 WSA？",
+                "link": "https://www.v2ex.com/t/809996",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[职场话题] 子公司老板跑路，和母公司（控股公司）申请离职，母公司要求我们剩下的员工去母公司本部工作(很远)。",
+                "link": "https://www.v2ex.com/t/809994",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[微博] 有什么办法关闭自己的微博一段时间？",
+                "link": "https://www.v2ex.com/t/809993",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[全球工单系统] 金山云-大坑，远离",
+                "link": "https://www.v2ex.com/t/809989",
+                "published": "2021-10-23"
+            },
             {
                 "title": "[程序员] 子公司老板跑路，和母公司（控股公司）申请离职，母公司要求我们剩下的员工去母公司本部工作(很远)。",
                 "link": "https://www.v2ex.com/t/809994",
