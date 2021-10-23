@@ -109,6 +109,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 新的 MacBook 可以体验了吗",
+                "link": "https://www.v2ex.com/t/810054",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[问与答] yoga14s vs macbook air",
+                "link": "https://www.v2ex.com/t/810053",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[问与答] 想往 OS 内核方向发展，需要做什么？国内有哪些内核做的比较好的公司？",
                 "link": "https://www.v2ex.com/t/810050",
                 "published": "2021-10-23"

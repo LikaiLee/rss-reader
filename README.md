@@ -46,6 +46,8 @@
     </summary>
 
 
+* [【2021-10-23】 [Apple] 新的 MacBook 可以体验了吗](https://www.v2ex.com/t/810054)
+* [【2021-10-23】 [问与答] yoga14s vs macbook air](https://www.v2ex.com/t/810053)
 * [【2021-10-23】 [问与答] 想往 OS 内核方向发展，需要做什么？国内有哪些内核做的比较好的公司？](https://www.v2ex.com/t/810050)
 * [【2021-10-23】 [MacBook Pro] 弱弱的问一下现在 apple arm 芯片恢复出厂 变砖的 bug 还在吗？](https://www.v2ex.com/t/810048)
 * [【2021-10-23】 [MacBook Pro] 预计一种全新的 MacBook 配件系列要诞生了](https://www.v2ex.com/t/810047)
@@ -54,8 +56,6 @@
 * [【2021-10-23】 [C] c 语言条件编译宏太多, 有什么办法解决吗](https://www.v2ex.com/t/810041)
 * [【2021-10-23】 [生活] 2k 以内的滚筒洗衣机有推荐吗？](https://www.v2ex.com/t/810040)
 * [【2021-10-23】 [问与答] 2k 以内的滚筒洗衣机有推荐吗？](https://www.v2ex.com/t/810040)
-* [【2021-10-23】 [程序员] 枚举类为何报这个提示](https://www.v2ex.com/t/810039)
-* [【2021-10-23】 [Apple] 新款 MacBook M1 Pro 16 真机上手视频](https://www.v2ex.com/t/810038)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-23 10:37:05
+:alarm_clock: 更新时间: 2021-10-23 11:05:17
