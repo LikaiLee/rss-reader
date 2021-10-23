@@ -99,6 +99,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[广州] 广州卡座工位出租，同德地铁站附近",
+                "link": "https://www.v2ex.com/t/809983",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[Apple] 不知道明年三月份会不会发布新的 mac air，现在买是不是 49 年入国军呀",
+                "link": "https://www.v2ex.com/t/809982",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[职场话题] 现在校招工资好高啊，我工作 8 年才和人家校招的普通工资差不多。哎，心酸",
+                "link": "https://www.v2ex.com/t/809980",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[知乎] 如何缓解晕血？",
+                "link": "https://www.v2ex.com/t/809971",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[Windows] 请教一个 WSL2 上代理的问题",
+                "link": "https://www.v2ex.com/t/809967",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[问与答] 现在校招工资好高啊，我工作 8 年才和人家校招的普通工资差不多。哎，心酸",
                 "link": "https://www.v2ex.com/t/809980",
                 "published": "2021-10-23"
