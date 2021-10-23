@@ -1,6 +1,10 @@
 # V2EX
 
 
+* [2021-10-23  [Apple] 新 M1 max 跑分 https://www.pugetsystems.com/benchmarks/view. PHP ?id=60176](https://www.v2ex.com/t/809954)
+* [2021-10-23  [全球工单系统] 一觉醒来， TIM 把 C 盘干爆了](https://www.v2ex.com/t/809953)
+* [2021-10-22  [分享发现] 发现高德地图有入口让移动终端设备持有者拒绝参与大数据计算](https://www.v2ex.com/t/809952)
+* [2021-10-22  [Windows] SubsystemForAndroid 可以移植到 Windows10 吗？](https://www.v2ex.com/t/809951)
 * [2021-10-22  [Node.js] 操作系统用户名为中文时，使用 nodejs 的 exec 命令执行指令失败](https://www.v2ex.com/t/809950)
 * [2021-10-22  [硬件] 想请大家推荐一款 Windows 笔记本](https://www.v2ex.com/t/809940)
 * [2021-10-22  [问与答] Typecho 使用地址重写之后 404 已经设置了 .htaccess](https://www.v2ex.com/t/809948)
