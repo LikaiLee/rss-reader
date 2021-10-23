@@ -46,6 +46,9 @@
     </summary>
 
 
+* [【2021-10-23】 [ThinkPad] thinkpad 这个产品让人「生气」的点](https://www.v2ex.com/t/810094)
+* [【2021-10-23】 [Apple TV] 小白来问 2 个 atv 的问题，请求各位大神解惑](https://www.v2ex.com/t/810093)
+* [【2021-10-23】 [macOS] Mac 版 Safari 有个很不苹果的细节](https://www.v2ex.com/t/810092)
 * [【2021-10-23】 [优惠信息] 微信支付 X App Store 限时充值特惠 (10/22-10/24)](https://www.v2ex.com/t/810089)
 * [【2021-10-23】 [问与答] 技术 or 管理，你会选哪个？](https://www.v2ex.com/t/810088)
 * [【2021-10-23】 [Windows] Windows 11 的那个任务栏角溢出有办法和以前一样全部显示吗？](https://www.v2ex.com/t/810087)
@@ -53,9 +56,6 @@
 * [【2021-10-23】 [问与答] 2021 年了， iOS 用户怎样不用应用商店安装软件](https://www.v2ex.com/t/810082)
 * [【2021-10-23】 [宽带症候群] 啊，受不了了，校园网自从装了态势感知系统，这网络就没法用了](https://www.v2ex.com/t/810081)
 * [【2021-10-23】 [问与答] 如何修改 or 删除 Edge 的侧边栏搜索功能](https://www.v2ex.com/t/810080)
-* [【2021-10-23】 [Linux] 请问如果要组建 100 个节点以上的集群，如何给机器配置免密登录呢？如果后期这个集群扩容到 200 个节点以上，该如何操作？有大佬提供下思路吗？](https://www.v2ex.com/t/810079)
-* [【2021-10-23】 [职场话题] 听说币安停止招聘了，有没有内部老哥知道情况的？](https://www.v2ex.com/t/810074)
-* [【2021-10-23】 [互联网] 程序员 5 年坚持制作免费教程造福百万学生](https://www.v2ex.com/t/810045)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-23 16:29:07
+:alarm_clock: 更新时间: 2021-10-23 17:21:29

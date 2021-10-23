@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-10-23  [ThinkPad] thinkpad 这个产品让人「生气」的点](https://www.v2ex.com/t/810094)
+* [2021-10-23  [Apple TV] 小白来问 2 个 atv 的问题，请求各位大神解惑](https://www.v2ex.com/t/810093)
+* [2021-10-23  [macOS] Mac 版 Safari 有个很不苹果的细节](https://www.v2ex.com/t/810092)
 * [2021-10-23  [优惠信息] 微信支付 X App Store 限时充值特惠 (10/22-10/24)](https://www.v2ex.com/t/810089)
 * [2021-10-23  [问与答] 技术 or 管理，你会选哪个？](https://www.v2ex.com/t/810088)
 * [2021-10-23  [Windows] Windows 11 的那个任务栏角溢出有办法和以前一样全部显示吗？](https://www.v2ex.com/t/810087)

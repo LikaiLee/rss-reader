@@ -109,6 +109,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[ThinkPad] thinkpad 这个产品让人「生气」的点",
+                "link": "https://www.v2ex.com/t/810094",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[Apple TV] 小白来问 2 个 atv 的问题，请求各位大神解惑",
+                "link": "https://www.v2ex.com/t/810093",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[macOS] Mac 版 Safari 有个很不苹果的细节",
+                "link": "https://www.v2ex.com/t/810092",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[优惠信息] 微信支付 X App Store 限时充值特惠 (10/22-10/24)",
                 "link": "https://www.v2ex.com/t/810089",
                 "published": "2021-10-23"
