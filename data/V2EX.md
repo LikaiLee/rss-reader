@@ -1,6 +1,14 @@
 # V2EX
 
 
+* [2021-10-23  [问与答] ebay 下单无法支付](https://www.v2ex.com/t/809964)
+* [2021-10-23  [问与答] Win11 修复了输入法这个 bug 了吗？](https://www.v2ex.com/t/809963)
+* [2021-10-23  [NAS] 群晖 DS119j 内网文件拷贝速度很慢](https://www.v2ex.com/t/809962)
+* [2021-10-23  [Apple] 新 MacBook pro 开箱](https://www.v2ex.com/t/809961)
+* [2021-10-23  [问与答] 小米 11pro 8+256 3799 怎么说 值得入手么](https://www.v2ex.com/t/809960)
+* [2021-10-23  [macOS] U2720Q 搭配 MAC，显示器颜色设置到底要怎么调](https://www.v2ex.com/t/809959)
+* [2021-10-23  [问与答] 秋冬的衣服哪个品牌值得推荐](https://www.v2ex.com/t/809958)
+* [2021-10-23  [求职] 深圳或者周边有哪些智能制造相关公司招 Go、 Python 这类技术栈的开发者？](https://www.v2ex.com/t/809957)
 * [2021-10-23  [Apple] 新 M1 max 跑分 https://www.pugetsystems.com/benchmarks/view. PHP ?id=60176](https://www.v2ex.com/t/809954)
 * [2021-10-23  [全球工单系统] 一觉醒来， TIM 把 C 盘干爆了](https://www.v2ex.com/t/809953)
 * [2021-10-22  [分享发现] 发现高德地图有入口让移动终端设备持有者拒绝参与大数据计算](https://www.v2ex.com/t/809952)
