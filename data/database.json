@@ -99,6 +99,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[科幻] 很多科幻作品中，未来的政治体制跟像过去相似，是不是不太合理；对于 \"披着科幻皮的 XXX\" 这种评价是否太苛刻了",
+                "link": "https://www.v2ex.com/t/809976",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[分享创造] 我写了个工具，找到了国内 Xbox 下载最快的节点",
+                "link": "https://www.v2ex.com/t/809975",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[问与答] 作为一个大三计科生,该为以后选择什么方向?",
                 "link": "https://www.v2ex.com/t/809974",
                 "published": "2021-10-23"
