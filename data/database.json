@@ -109,6 +109,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 程序员 5 年坚持制作免费教程造福百万学生",
+                "link": "https://www.v2ex.com/t/810045",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[问与答] typecho 使用 apache，搭建之后想要加上伪静态重写网址，结果一直 404",
+                "link": "https://www.v2ex.com/t/810043",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[C] c 语言条件编译宏太多, 有什么办法解决吗",
+                "link": "https://www.v2ex.com/t/810041",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[生活] 2k 以内的滚筒洗衣机有推荐吗？",
+                "link": "https://www.v2ex.com/t/810040",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[问与答] 2k 以内的滚筒洗衣机有推荐吗？",
                 "link": "https://www.v2ex.com/t/810040",
                 "published": "2021-10-23"
