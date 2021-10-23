@@ -109,6 +109,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] macOS 有必要用 4K 显示器吗？",
+                "link": "https://www.v2ex.com/t/810100",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[问与答] 中国残联是否允许接受社会资金捐助？",
                 "link": "https://www.v2ex.com/t/810099",
                 "published": "2021-10-23"
