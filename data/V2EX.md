@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-10-23  [宽带症候群] 有办湖南电信 1000M 的朋友吗 ，实测效果不佳，坐标湘潭](https://www.v2ex.com/t/810098)
+* [2021-10-23  [全球工单系统] 微信关闭朋友圈入口后似乎不会有互动消息了？](https://www.v2ex.com/t/810097)
+* [2021-10-23  [分享发现] 一个极其舒适的前端 ASMR 视频](https://www.v2ex.com/t/810096)
 * [2021-10-23  [ThinkPad] thinkpad 这个产品让人「生气」的点](https://www.v2ex.com/t/810094)
 * [2021-10-23  [Apple TV] 小白来问 2 个 atv 的问题，请求各位大神解惑](https://www.v2ex.com/t/810093)
 * [2021-10-23  [macOS] Mac 版 Safari 有个很不苹果的细节](https://www.v2ex.com/t/810092)
