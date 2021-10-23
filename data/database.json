@@ -109,6 +109,36 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] 我错了，我之前说刘海无所谓的，我反悔了...",
+                "link": "https://www.v2ex.com/t/810029",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[JetBrains] Webstorm 今年 1024 有优惠活动吗？",
+                "link": "https://www.v2ex.com/t/810028",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[iPod] iPod 发布 20 周年",
+                "link": "https://www.v2ex.com/t/810026",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[JavaScript] 一个 async function 数组， 怎样一个一个顺序执行？",
+                "link": "https://www.v2ex.com/t/810025",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[问与答] 请教一个 Android Gradle 多渠道打包的问题",
+                "link": "https://www.v2ex.com/t/810024",
+                "published": "2021-10-23"
+            },
+            {
+                "title": "[推广] 聊聊开发日常的效率提升工具（全）",
+                "link": "https://www.v2ex.com/t/810007",
+                "published": "2021-10-23"
+            },
+            {
                 "title": "[Apple] Macbook Pro 发货了",
                 "link": "https://www.v2ex.com/t/810021",
                 "published": "2021-10-23"

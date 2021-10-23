@@ -1,6 +1,12 @@
 # V2EX
 
 
+* [2021-10-23  [MacBook Pro] 我错了，我之前说刘海无所谓的，我反悔了...](https://www.v2ex.com/t/810029)
+* [2021-10-23  [JetBrains] Webstorm 今年 1024 有优惠活动吗？](https://www.v2ex.com/t/810028)
+* [2021-10-23  [iPod] iPod 发布 20 周年](https://www.v2ex.com/t/810026)
+* [2021-10-23  [JavaScript] 一个 async function 数组， 怎样一个一个顺序执行？](https://www.v2ex.com/t/810025)
+* [2021-10-23  [问与答] 请教一个 Android Gradle 多渠道打包的问题](https://www.v2ex.com/t/810024)
+* [2021-10-23  [推广] 聊聊开发日常的效率提升工具（全）](https://www.v2ex.com/t/810007)
 * [2021-10-23  [Apple] Macbook Pro 发货了](https://www.v2ex.com/t/810021)
 * [2021-10-23  [问与答] iOS 有没有什么比较好的全·虚拟键盘解决方案啊？](https://www.v2ex.com/t/810020)
 * [2021-10-23  [前端开发] 今天测试说网页登录的时候如果密码输入错误浏览器不要弹出记住密码，如果输入正确浏览器弹出记住密码，请问各位大佬这个功能怎么实现啊？](https://www.v2ex.com/t/810019)
