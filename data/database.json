@@ -27,6 +27,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "咖啡怎么喝出风味？教你如何在家做感官训练",
+                "link": "https://sspai.com/post/69487",
+                "published": "2021-10-24"
+            },
+            {
                 "title": "你也可以轻松修复老照片——看 AI 如何让它们焕发新生",
                 "link": "https://sspai.com/post/69472",
                 "published": "2021-10-23"
@@ -108,6 +113,41 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] 大家觉得 iPhone 产品线的下一代神机是？",
+                "link": "https://www.v2ex.com/t/810147",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[问与答] 有没有零基础转 CS 的同学？想找软件开发工作的？",
+                "link": "https://www.v2ex.com/t/810146",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[Apple] iPad mini 2021 音量键松动",
+                "link": "https://www.v2ex.com/t/810145",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[分享发现] 推荐一个本地笔记应用：思源笔记",
+                "link": "https://www.v2ex.com/t/810143",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[问与答] 问下我这怎么加强家里 wifi 信号",
+                "link": "https://www.v2ex.com/t/810142",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[VMware] VMware 的桥接好坑",
+                "link": "https://www.v2ex.com/t/810139",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[问与答] 考六级，如何提高听力水平？",
+                "link": "https://www.v2ex.com/t/810138",
+                "published": "2021-10-24"
+            },
             {
                 "title": "[分享创造] 为了苹果网站的特效，写了个 JS 库，求 Star",
                 "link": "https://www.v2ex.com/t/810137",

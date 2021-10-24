@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-24】 咖啡怎么喝出风味？教你如何在家做感官训练](https://sspai.com/post/69487)
 * [【2021-10-23】 你也可以轻松修复老照片——看 AI 如何让它们焕发新生](https://sspai.com/post/69472)
 * [【2021-10-23】 如果着火了，地铁怎样保证我们的安全？](https://sspai.com/post/69234)
 * [【2021-10-22】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/69462)
@@ -36,7 +37,6 @@
 * [【2021-10-22】 派早报：小米发布 Redmi 智能电视 X 2022 款、联想拯救者与 Nanoleaf 推出联名奇光板等](https://sspai.com/post/69455)
 * [【2021-10-21】 提升独居生活幸福感，一个人也要做好家务](https://sspai.com/post/69447)
 * [【2021-10-21】 具透 | 在 Windows 11 上运行 Android 应用，体验究竟怎么样？](https://sspai.com/post/69446)
-* [【2021-10-21】 城市漫步指南：莱斯特的「小而美」——历史、花园与生活](https://sspai.com/post/68445)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,16 @@
     </summary>
 
 
+* [【2021-10-24】 [Apple] 大家觉得 iPhone 产品线的下一代神机是？](https://www.v2ex.com/t/810147)
+* [【2021-10-24】 [问与答] 有没有零基础转 CS 的同学？想找软件开发工作的？](https://www.v2ex.com/t/810146)
+* [【2021-10-24】 [Apple] iPad mini 2021 音量键松动](https://www.v2ex.com/t/810145)
+* [【2021-10-24】 [分享发现] 推荐一个本地笔记应用：思源笔记](https://www.v2ex.com/t/810143)
+* [【2021-10-24】 [问与答] 问下我这怎么加强家里 wifi 信号](https://www.v2ex.com/t/810142)
+* [【2021-10-24】 [VMware] VMware 的桥接好坑](https://www.v2ex.com/t/810139)
+* [【2021-10-24】 [问与答] 考六级，如何提高听力水平？](https://www.v2ex.com/t/810138)
 * [【2021-10-24】 [分享创造] 为了苹果网站的特效，写了个 JS 库，求 Star](https://www.v2ex.com/t/810137)
 * [【2021-10-24】 [Coding] 1024 程序员节，带你走进程序员的世界——](https://www.v2ex.com/t/810136)
 * [【2021-10-24】 [iOS] ios15 自动化不支持米家 App 了](https://www.v2ex.com/t/810135)
-* [【2021-10-24】 [酷工作] 寻找前端设计兼职小伙伴。](https://www.v2ex.com/t/810134)
-* [【2021-10-24】 [宽带症候群] 宽带测速与本地流量监控速度不一致?](https://www.v2ex.com/t/810133)
-* [【2021-10-24】 [问与答] 迫于新款 14 寸 Mac， 4K 显示器有推荐的吗？预算 4000 内](https://www.v2ex.com/t/810132)
-* [【2021-10-24】 [旅行] 好喜欢这类独自徒步的视频，太美了，感受到了自由](https://www.v2ex.com/t/810131)
-* [【2021-10-24】 [问与答] 请教大家一个问题，电脑插两个手柄，如何做到按键不像键盘那样冲突的呢](https://www.v2ex.com/t/810130)
-* [【2021-10-24】 [JavaScript] js 生成中文 PDF 有啥好办法？](https://www.v2ex.com/t/810128)
-* [【2021-10-24】 [问与答] 请问在这里发帖怎么不能贴图片啊](https://www.v2ex.com/t/810127)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-24 05:17:21
+:alarm_clock: 更新时间: 2021-10-24 06:23:13

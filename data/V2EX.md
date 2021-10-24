@@ -1,6 +1,13 @@
 # V2EX
 
 
+* [2021-10-24  [Apple] 大家觉得 iPhone 产品线的下一代神机是？](https://www.v2ex.com/t/810147)
+* [2021-10-24  [问与答] 有没有零基础转 CS 的同学？想找软件开发工作的？](https://www.v2ex.com/t/810146)
+* [2021-10-24  [Apple] iPad mini 2021 音量键松动](https://www.v2ex.com/t/810145)
+* [2021-10-24  [分享发现] 推荐一个本地笔记应用：思源笔记](https://www.v2ex.com/t/810143)
+* [2021-10-24  [问与答] 问下我这怎么加强家里 wifi 信号](https://www.v2ex.com/t/810142)
+* [2021-10-24  [VMware] VMware 的桥接好坑](https://www.v2ex.com/t/810139)
+* [2021-10-24  [问与答] 考六级，如何提高听力水平？](https://www.v2ex.com/t/810138)
 * [2021-10-24  [分享创造] 为了苹果网站的特效，写了个 JS 库，求 Star](https://www.v2ex.com/t/810137)
 * [2021-10-24  [Coding] 1024 程序员节，带你走进程序员的世界——](https://www.v2ex.com/t/810136)
 * [2021-10-24  [iOS] ios15 自动化不支持米家 App 了](https://www.v2ex.com/t/810135)
