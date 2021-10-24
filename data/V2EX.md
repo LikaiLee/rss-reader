@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-10-24  [随想] 为什么不大力发展无线传输](https://www.v2ex.com/t/810104)
+* [2021-10-24  [硬件] 求教这是什么问题](https://www.v2ex.com/t/810103)
+* [2021-10-24  [Python] 是否有针对为了兼容的多余代码的代码检查？](https://www.v2ex.com/t/810102)
 * [2021-10-23  [MacBook Pro] 把 Face id 装在 MacBook Pro 上是否合适？](https://www.v2ex.com/t/810101)
 * [2021-10-23  [问与答] macOS 有必要用 4K 显示器吗？](https://www.v2ex.com/t/810100)
 * [2021-10-23  [问与答] 中国残联是否允许接受社会资金捐助？](https://www.v2ex.com/t/810099)

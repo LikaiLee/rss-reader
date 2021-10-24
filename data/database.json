@@ -109,6 +109,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[随想] 为什么不大力发展无线传输",
+                "link": "https://www.v2ex.com/t/810104",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[硬件] 求教这是什么问题",
+                "link": "https://www.v2ex.com/t/810103",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[Python] 是否有针对为了兼容的多余代码的代码检查？",
+                "link": "https://www.v2ex.com/t/810102",
+                "published": "2021-10-24"
+            },
+            {
                 "title": "[MacBook Pro] 把 Face id 装在 MacBook Pro 上是否合适？",
                 "link": "https://www.v2ex.com/t/810101",
                 "published": "2021-10-23"
