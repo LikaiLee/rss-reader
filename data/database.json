@@ -27,6 +27,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "挑一本好看的 2022 年日历，迎接充满希望的虎年",
+                "link": "https://sspai.com/post/69434",
+                "published": "2021-10-24"
+            },
+            {
                 "title": "咖啡怎么喝出风味？教你如何在家做感官训练",
                 "link": "https://sspai.com/post/69487",
                 "published": "2021-10-24"
@@ -113,6 +118,26 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] Ping 请求找不到主机 t.cn 什么原因",
+                "link": "https://www.v2ex.com/t/810153",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[互联网] 印象笔记吃相好丑",
+                "link": "https://www.v2ex.com/t/810152",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[iPad] iPad 的 AppleCare+真的要买，过期了也要续费，尤其是你买了一堆品控差的苹果配件的情况下",
+                "link": "https://www.v2ex.com/t/810150",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[Apple] 还是觉得 Watch S7 不锈钢的好看～想把午夜色的出掉，有人愿意收不？",
+                "link": "https://www.v2ex.com/t/810149",
+                "published": "2021-10-24"
+            },
             {
                 "title": "[Apple] 大家觉得 iPhone 产品线的下一代神机是？",
                 "link": "https://www.v2ex.com/t/810147",

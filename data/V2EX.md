@@ -1,6 +1,10 @@
 # V2EX
 
 
+* [2021-10-24  [问与答] Ping 请求找不到主机 t.cn 什么原因](https://www.v2ex.com/t/810153)
+* [2021-10-24  [互联网] 印象笔记吃相好丑](https://www.v2ex.com/t/810152)
+* [2021-10-24  [iPad] iPad 的 AppleCare+真的要买，过期了也要续费，尤其是你买了一堆品控差的苹果配件的情况下](https://www.v2ex.com/t/810150)
+* [2021-10-24  [Apple] 还是觉得 Watch S7 不锈钢的好看～想把午夜色的出掉，有人愿意收不？](https://www.v2ex.com/t/810149)
 * [2021-10-24  [Apple] 大家觉得 iPhone 产品线的下一代神机是？](https://www.v2ex.com/t/810147)
 * [2021-10-24  [问与答] 有没有零基础转 CS 的同学？想找软件开发工作的？](https://www.v2ex.com/t/810146)
 * [2021-10-24  [Apple] iPad mini 2021 音量键松动](https://www.v2ex.com/t/810145)
