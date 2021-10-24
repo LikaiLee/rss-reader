@@ -46,16 +46,16 @@
     </summary>
 
 
+* [【2021-10-24】 [问与答] 有人了解虚拟人/虚拟偶像现在发展到什么程度了吗？](https://www.v2ex.com/t/810167)
+* [【2021-10-24】 [程序员] 你们说的 [优雅] 指的是什么？有特别鲜明对比的例子吗？](https://www.v2ex.com/t/810166)
+* [【2021-10-24】 [问与答] 浏览器有没有办法强制“在当前标签页打开”？](https://www.v2ex.com/t/810164)
+* [【2021-10-24】 [酷工作] 远程全职| 密码学专家 | 年薪 10 万美元起步，上不封顶| 公链招人](https://www.v2ex.com/t/810163)
 * [【2021-10-24】 [问与答] 罗技 mx master3 不安罗技的驱动值得买吗](https://www.v2ex.com/t/810161)
 * [【2021-10-24】 [问与答] 想用 django 或者 flask 做个会员网站](https://www.v2ex.com/t/810160)
 * [【2021-10-24】 [全球工单系统] 建议美团取消评价功能--差评后商家电话、上门要求更改评价](https://www.v2ex.com/t/810159)
 * [【2021-10-24】 [Apple] iPad Pro+k380 延迟怎么样？](https://www.v2ex.com/t/810157)
 * [【2021-10-24】 [程序员] 我坦白，我是一个假程序员](https://www.v2ex.com/t/810156)
 * [【2021-10-24】 [问与答] 路由器用几天就断线一次，请帮我看看日志](https://www.v2ex.com/t/810155)
-* [【2021-10-24】 [问与答] Ping 请求找不到主机 t.cn 什么原因](https://www.v2ex.com/t/810153)
-* [【2021-10-24】 [互联网] 印象笔记吃相好丑](https://www.v2ex.com/t/810152)
-* [【2021-10-24】 [iPad] iPad 的 AppleCare+真的要买，过期了也要续费，尤其是你买了一堆品控差的苹果配件的情况下](https://www.v2ex.com/t/810150)
-* [【2021-10-24】 [Apple] 还是觉得 Watch S7 不锈钢的好看～想把午夜色的出掉，有人愿意收不？](https://www.v2ex.com/t/810149)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-24 08:22:33
+:alarm_clock: 更新时间: 2021-10-24 09:19:07
