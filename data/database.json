@@ -119,6 +119,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[硬件] 直播设备求教！",
+                "link": "https://www.v2ex.com/t/810222",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[字体排印] Sumatrapdf 换正文字体，有的能换，有的换不上",
+                "link": "https://www.v2ex.com/t/810221",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[生活] 多多，美团买菜上面调理肉冒充原切肉太严重了，以及为什么外面路边摊的烤五花和鸡翅味道不对",
+                "link": "https://www.v2ex.com/t/810220",
+                "published": "2021-10-24"
+            },
+            {
                 "title": "[硬件] 显卡有 8pin+6pin 接口，需要全部接吗？ 800w 电源只有 2 个 6pin 接口能用吗？",
                 "link": "https://www.v2ex.com/t/810218",
                 "published": "2021-10-24"

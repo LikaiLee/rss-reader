@@ -46,6 +46,9 @@
     </summary>
 
 
+* [【2021-10-24】 [硬件] 直播设备求教！](https://www.v2ex.com/t/810222)
+* [【2021-10-24】 [字体排印] Sumatrapdf 换正文字体，有的能换，有的换不上](https://www.v2ex.com/t/810221)
+* [【2021-10-24】 [生活] 多多，美团买菜上面调理肉冒充原切肉太严重了，以及为什么外面路边摊的烤五花和鸡翅味道不对](https://www.v2ex.com/t/810220)
 * [【2021-10-24】 [硬件] 显卡有 8pin+6pin 接口，需要全部接吗？ 800w 电源只有 2 个 6pin 接口能用吗？](https://www.v2ex.com/t/810218)
 * [【2021-10-24】 [程序员] 微博把我们抄成这样，还在法庭上睁眼说瞎话！](https://www.v2ex.com/t/810217)
 * [【2021-10-24】 [Apple] 问下各位在用什么牌子的带 pd 充电的 type-c 扩展设备？](https://www.v2ex.com/t/810216)
@@ -53,9 +56,6 @@
 * [【2021-10-24】 [Apple] 看了新 MBP 有刘海后想入 MBA，求解疑](https://www.v2ex.com/t/810213)
 * [【2021-10-24】 [分享创造] 完善了一下之前的 todo web，顺便想求个设计师组队](https://www.v2ex.com/t/810211)
 * [【2021-10-24】 [程序员] 一年用了多少钱在软件上？](https://www.v2ex.com/t/810210)
-* [【2021-10-24】 [分享创造] 在线使用 esbuild 打包](https://www.v2ex.com/t/810208)
-* [【2021-10-24】 [浏览器] Howdz 起始页已接入 Chrome 插件商店](https://www.v2ex.com/t/810207)
-* [【2021-10-24】 [Windows] 最便捷的跳过 windows 11 升级检测的方法](https://www.v2ex.com/t/810206)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-24 17:21:40
+:alarm_clock: 更新时间: 2021-10-24 18:22:15
