@@ -46,6 +46,8 @@
     </summary>
 
 
+* [【2021-10-24】 [硬件] 显卡有 8pin+6pin 接口，需要全部接吗？ 800w 电源只有 2 个 6pin 接口能用吗？](https://www.v2ex.com/t/810218)
+* [【2021-10-24】 [程序员] 微博把我们抄成这样，还在法庭上睁眼说瞎话！](https://www.v2ex.com/t/810217)
 * [【2021-10-24】 [Apple] 问下各位在用什么牌子的带 pd 充电的 type-c 扩展设备？](https://www.v2ex.com/t/810216)
 * [【2021-10-24】 [Docker] Dockerfile 请教](https://www.v2ex.com/t/810214)
 * [【2021-10-24】 [Apple] 看了新 MBP 有刘海后想入 MBA，求解疑](https://www.v2ex.com/t/810213)
@@ -54,8 +56,6 @@
 * [【2021-10-24】 [分享创造] 在线使用 esbuild 打包](https://www.v2ex.com/t/810208)
 * [【2021-10-24】 [浏览器] Howdz 起始页已接入 Chrome 插件商店](https://www.v2ex.com/t/810207)
 * [【2021-10-24】 [Windows] 最便捷的跳过 windows 11 升级检测的方法](https://www.v2ex.com/t/810206)
-* [【2021-10-24】 [问与答] 大家晚上好，请问运维的核心是什么呢？该如何做好一名运维？](https://www.v2ex.com/t/810205)
-* [【2021-10-24】 [程序员] 整理了一波计算机书籍的综合评分列表](https://www.v2ex.com/t/810204)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-24 16:29:28
+:alarm_clock: 更新时间: 2021-10-24 17:21:40

@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-10-24  [硬件] 显卡有 8pin+6pin 接口，需要全部接吗？ 800w 电源只有 2 个 6pin 接口能用吗？](https://www.v2ex.com/t/810218)
+* [2021-10-24  [程序员] 微博把我们抄成这样，还在法庭上睁眼说瞎话！](https://www.v2ex.com/t/810217)
 * [2021-10-24  [Apple] 问下各位在用什么牌子的带 pd 充电的 type-c 扩展设备？](https://www.v2ex.com/t/810216)
 * [2021-10-24  [Docker] Dockerfile 请教](https://www.v2ex.com/t/810214)
 * [2021-10-24  [Apple] 看了新 MBP 有刘海后想入 MBA，求解疑](https://www.v2ex.com/t/810213)
