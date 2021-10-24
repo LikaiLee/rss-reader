@@ -109,6 +109,51 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 今天是不是 1024 节啊？怎么没找到有程序员专属东西的优惠信息呢？ IDE 都没打折吗？有优惠的话各位能不能分享一下，明天上班了，今天准备冲一下",
+                "link": "https://www.v2ex.com/t/810123",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[问与答] v2ex plus 的上传图片不见了吗？",
+                "link": "https://www.v2ex.com/t/810122",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[宽带症候群] [讨论] 闲置宽带获取收益的方式",
+                "link": "https://www.v2ex.com/t/810121",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[Apple] 国内 mbp 已经准备发货啦",
+                "link": "https://www.v2ex.com/t/810120",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[macOS] big sur 夜间模式和自动切换主题",
+                "link": "https://www.v2ex.com/t/810119",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[程序员] 上微博官网显示 400 Bad Request，其他网站正常",
+                "link": "https://www.v2ex.com/t/810118",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[Linux] debian 系统下，有没有简单的办法检测指定网卡配置是 dhcp/static/manual？",
+                "link": "https://www.v2ex.com/t/810117",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[问与答] i7-4790 的 CPU，集显，能带动两个 4K 显示器吗？",
+                "link": "https://www.v2ex.com/t/810116",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[求职] 有了解兴业银行分行 FinTech 管理培训生岗的嘛~",
+                "link": "https://www.v2ex.com/t/810115",
+                "published": "2021-10-24"
+            },
+            {
                 "title": "[宽带症候群] 关于微软商店的下载问题",
                 "link": "https://www.v2ex.com/t/810113",
                 "published": "2021-10-24"
