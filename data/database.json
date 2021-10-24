@@ -119,6 +119,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 问下各位在用什么牌子的带 pd 充电的 type-c 扩展设备？",
+                "link": "https://www.v2ex.com/t/810216",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[Docker] Dockerfile 请教",
+                "link": "https://www.v2ex.com/t/810214",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[Apple] 看了新 MBP 有刘海后想入 MBA，求解疑",
+                "link": "https://www.v2ex.com/t/810213",
+                "published": "2021-10-24"
+            },
+            {
                 "title": "[分享创造] 完善了一下之前的 todo web，顺便想求个设计师组队",
                 "link": "https://www.v2ex.com/t/810211",
                 "published": "2021-10-24"

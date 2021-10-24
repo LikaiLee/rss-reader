@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-10-24  [Apple] 问下各位在用什么牌子的带 pd 充电的 type-c 扩展设备？](https://www.v2ex.com/t/810216)
+* [2021-10-24  [Docker] Dockerfile 请教](https://www.v2ex.com/t/810214)
+* [2021-10-24  [Apple] 看了新 MBP 有刘海后想入 MBA，求解疑](https://www.v2ex.com/t/810213)
 * [2021-10-24  [分享创造] 完善了一下之前的 todo web，顺便想求个设计师组队](https://www.v2ex.com/t/810211)
 * [2021-10-24  [程序员] 一年用了多少钱在软件上？](https://www.v2ex.com/t/810210)
 * [2021-10-24  [分享创造] 在线使用 esbuild 打包](https://www.v2ex.com/t/810208)
