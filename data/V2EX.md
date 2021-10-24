@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-10-24  [MacBook Pro] 新款 MacBook Pro 显示屏厚了这么多却没有增加 Face ID？](https://www.v2ex.com/t/810224)
 * [2021-10-24  [互联网] 微博把我们抄成这样，还在法庭上睁眼说瞎话！](https://www.v2ex.com/t/810217)
 * [2021-10-24  [硬件] 直播设备求教！](https://www.v2ex.com/t/810222)
 * [2021-10-24  [字体排印] Sumatrapdf 换正文字体，有的能换，有的换不上](https://www.v2ex.com/t/810221)

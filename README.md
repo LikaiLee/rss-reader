@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-24】 [MacBook Pro] 新款 MacBook Pro 显示屏厚了这么多却没有增加 Face ID？](https://www.v2ex.com/t/810224)
 * [【2021-10-24】 [互联网] 微博把我们抄成这样，还在法庭上睁眼说瞎话！](https://www.v2ex.com/t/810217)
 * [【2021-10-24】 [硬件] 直播设备求教！](https://www.v2ex.com/t/810222)
 * [【2021-10-24】 [字体排印] Sumatrapdf 换正文字体，有的能换，有的换不上](https://www.v2ex.com/t/810221)
@@ -55,7 +56,6 @@
 * [【2021-10-24】 [Apple] 问下各位在用什么牌子的带 pd 充电的 type-c 扩展设备？](https://www.v2ex.com/t/810216)
 * [【2021-10-24】 [Docker] Dockerfile 请教](https://www.v2ex.com/t/810214)
 * [【2021-10-24】 [Apple] 看了新 MBP 有刘海后想入 MBA，求解疑](https://www.v2ex.com/t/810213)
-* [【2021-10-24】 [分享创造] 完善了一下之前的 todo web，顺便想求个设计师组队](https://www.v2ex.com/t/810211)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-24 20:19:22
+:alarm_clock: 更新时间: 2021-10-24 21:16:28
