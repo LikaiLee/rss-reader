@@ -46,6 +46,8 @@
     </summary>
 
 
+* [【2021-10-24】 [程序员] 如果我想配置某个产品库存为无限的话，值设置为 -1 好吗？](https://www.v2ex.com/t/810199)
+* [【2021-10-24】 [职场话题] 老哥们，应届准备 run 了，能给简历一些意见吗](https://www.v2ex.com/t/810189)
 * [【2021-10-24】 [机器学习] [讨论] 重提深度学习对生活的应用](https://www.v2ex.com/t/810198)
 * [【2021-10-24】 [iPhone] 平时很少用手机拍照， 13pro 与 13 区别就高刷新率和亮度？ 大家会怎么选？](https://www.v2ex.com/t/810197)
 * [【2021-10-24】 [iOS] iOS 如何嗅探视频并能保存其下载地址？求助大神](https://www.v2ex.com/t/810196)
@@ -54,8 +56,6 @@
 * [【2021-10-24】 [MacBook Pro] 你们真的需要换新的 MacBook Pro 么？](https://www.v2ex.com/t/810193)
 * [【2021-10-24】 [云计算] 有在用可道云的大神吗？求解决方法！](https://www.v2ex.com/t/810192)
 * [【2021-10-24】 [Apple] i9-12900HK Geekbench5 单核和多核跑分超 M1 max](https://www.v2ex.com/t/810190)
-* [【2021-10-24】 [程序员] 老哥们，应届准备 run 了，能给简历一些意见吗](https://www.v2ex.com/t/810189)
-* [【2021-10-24】 [问与答] 租房不让钉钉子如何挂洞洞板？](https://www.v2ex.com/t/810188)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-24 13:22:14
+:alarm_clock: 更新时间: 2021-10-24 14:17:31

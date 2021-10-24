@@ -119,6 +119,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 如果我想配置某个产品库存为无限的话，值设置为 -1 好吗？",
+                "link": "https://www.v2ex.com/t/810199",
+                "published": "2021-10-24"
+            },
+            {
+                "title": "[职场话题] 老哥们，应届准备 run 了，能给简历一些意见吗",
+                "link": "https://www.v2ex.com/t/810189",
+                "published": "2021-10-24"
+            },
+            {
                 "title": "[机器学习] [讨论] 重提深度学习对生活的应用",
                 "link": "https://www.v2ex.com/t/810198",
                 "published": "2021-10-24"
