@@ -119,6 +119,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] NLog 能不能记录成两种格式文件名",
+                "link": "https://www.v2ex.com/t/810225",
+                "published": "2021-10-24"
+            },
+            {
                 "title": "[MacBook Pro] 新款 MacBook Pro 显示屏厚了这么多却没有增加 Face ID？",
                 "link": "https://www.v2ex.com/t/810224",
                 "published": "2021-10-24"

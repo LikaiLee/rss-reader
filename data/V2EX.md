@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-10-24  [问与答] NLog 能不能记录成两种格式文件名](https://www.v2ex.com/t/810225)
 * [2021-10-24  [MacBook Pro] 新款 MacBook Pro 显示屏厚了这么多却没有增加 Face ID？](https://www.v2ex.com/t/810224)
 * [2021-10-24  [互联网] 微博把我们抄成这样，还在法庭上睁眼说瞎话！](https://www.v2ex.com/t/810217)
 * [2021-10-24  [硬件] 直播设备求教！](https://www.v2ex.com/t/810222)
