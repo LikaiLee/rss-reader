@@ -129,6 +129,101 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] WPF 实现雷达图(仿英雄联盟)",
+                "link": "https://www.v2ex.com/t/810372",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[AirPods] AirPods 有必要买 AC+ 吗？",
+                "link": "https://www.v2ex.com/t/810370",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 国内如何基于 Google Earth 进行开发",
+                "link": "https://www.v2ex.com/t/810369",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[北京] 请问北京哪里的家具城有卖人体工程学椅的？",
+                "link": "https://www.v2ex.com/t/810368",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[分享发现] HDMI 线材真的是越短越好吗？",
+                "link": "https://www.v2ex.com/t/810367",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[程序员] springboot 这几个配置文件的优先级是啥",
+                "link": "https://www.v2ex.com/t/810366",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[分享发现] 因为家里有 ca 史，做了个全套体检，整个人都不好了",
+                "link": "https://www.v2ex.com/t/810365",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[程序员] 关于 mac 端 safari 很诡异的问题",
+                "link": "https://www.v2ex.com/t/810364",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[硬件] 老电脑改装 nas, atx 主板，请大家帮忙推荐一款 4 盘位的 nas 机箱",
+                "link": "https://www.v2ex.com/t/810363",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[推广] [线上研讨会] 来听听云工程师聊 Google Cloud Spanner 吧",
+                "link": "https://www.v2ex.com/t/810362",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[iPhone] 这个手机壳 有人团购不 ?? 叫 Vicxxo 亚马逊 以及国内平台都没有",
+                "link": "https://www.v2ex.com/t/810360",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[成都] 有 v2 成都老铁租房吗？ 业主直租 无中介费-5 号线二江寺站旁-南湖世纪-主卧/次卧",
+                "link": "https://www.v2ex.com/t/810359",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Java] 以后要从事 Javaweb 的开发工作， servlet 有必要深入学习吗？",
+                "link": "https://www.v2ex.com/t/810357",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 现代浏览器有没有“脱机工作”这种功能？",
+                "link": "https://www.v2ex.com/t/810356",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Chrome] Chrome 95 阅读清单不能禁用了?",
+                "link": "https://www.v2ex.com/t/810354",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[宽带症候群] 北京电信宽带网络出口，直连下载国外资源，迅雷会员的情况下， BT 种子会没有速度或速度很低？",
+                "link": "https://www.v2ex.com/t/810353",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[分享创造] Alpha 版,欢迎大家给建议： 42di.cn",
+                "link": "https://www.v2ex.com/t/810352",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[程序员] 微信 URL Scheme 打开任意链接的生成规则 weixin://dl/business/?ticket=",
+                "link": "https://www.v2ex.com/t/810349",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] Qt Quick(Qt Qml) 和 electron 似乎没啥区别？ 所以 qt 努力了几十年， js 早就到山顶等着了？",
+                "link": "https://www.v2ex.com/t/810348",
+                "published": "2021-10-25"
+            },
+            {
                 "title": "[问与答] 深圳有山马自行车出售吗",
                 "link": "https://www.v2ex.com/t/810347",
                 "published": "2021-10-25"
