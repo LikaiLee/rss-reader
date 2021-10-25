@@ -28,6 +28,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新款 AirPods 首发体验：新外观、新功能，史上最大的一次升级",
+                "link": "https://sspai.com/post/69504",
+                "published": "2021-10-25"
+            },
+            {
                 "title": "派评 | 近期值得关注的 App",
                 "link": "https://sspai.com/post/69506",
                 "published": "2021-10-25"
@@ -138,13 +143,23 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] AirPods 3 的测评也解禁了",
+                "link": "https://www.v2ex.com/t/810504",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[MacBook Pro] 求推荐一个 Mac 扩展坞",
+                "link": "https://www.v2ex.com/t/810503",
+                "published": "2021-10-25"
+            },
             {
                 "title": "[Apple] 梳理新款 macbook pro 14/16 争议点，劝一劝那些看了评测想买新款 macbook 的站友。",
                 "link": "https://www.v2ex.com/t/810502",
@@ -3321,7 +3336,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 3,

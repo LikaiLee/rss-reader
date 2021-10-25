@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-10-25  [Apple] AirPods 3 的测评也解禁了](https://www.v2ex.com/t/810504)
+* [2021-10-25  [MacBook Pro] 求推荐一个 Mac 扩展坞](https://www.v2ex.com/t/810503)
 * [2021-10-25  [Apple] 梳理新款 macbook pro 14/16 争议点，劝一劝那些看了评测想买新款 macbook 的站友。](https://www.v2ex.com/t/810502)
 * [2021-10-25  [Apple] MBP 16' 2019 的用户聊聊看法？](https://www.v2ex.com/t/810501)
 * [2021-10-25  [Apple] mbp14 英寸丐中丐版本渠道商涨价了？](https://www.v2ex.com/t/810500)
