@@ -129,6 +129,101 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 深圳有山马自行车出售吗",
+                "link": "https://www.v2ex.com/t/810347",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Linux] VNC 反代出去总是被爆破，又不想把黑名单设置为 0",
+                "link": "https://www.v2ex.com/t/810346",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] TeamViewer 使用时提示 Android 在投射时显示敏感信息怎么办？",
+                "link": "https://www.v2ex.com/t/810345",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Windows] win10 经常蓝屏, 大佬们谁懂 ? 帮忙分析下~",
+                "link": "https://www.v2ex.com/t/810344",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 大佬们，求键盘推荐",
+                "link": "https://www.v2ex.com/t/810343",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Linux] 请教有没有类似 dstat，可以监控指定进程 cpu、网络上下行流量以及内存的命令？",
+                "link": "https://www.v2ex.com/t/810341",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] MacOS 怎么删除加密证书？",
+                "link": "https://www.v2ex.com/t/810340",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 想远程控制，下载东西到家里的 wd elements 移动硬盘怎么搞？",
+                "link": "https://www.v2ex.com/t/810337",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[macOS] 2017mbp 13 寸 16g 内存， cpu 闲置 70%温度仍会上到 60 70 摄氏度，正常吗？",
+                "link": "https://www.v2ex.com/t/810335",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[职场话题] 站在 CEO 视角，你会如何分配？",
+                "link": "https://www.v2ex.com/t/810332",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] iPhone 13 PM 的屏闪真的会伤眼睛",
+                "link": "https://www.v2ex.com/t/810330",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[酷工作] [米哈游] [上海、新加坡、蒙特利尔、日本、韩国、美国] 1024 专场岗位哈~",
+                "link": "https://www.v2ex.com/t/810329",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[知乎] 关于医美",
+                "link": "https://www.v2ex.com/t/810328",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[职场话题] 公司不发工资不给离职怎么办？",
+                "link": "https://www.v2ex.com/t/810325",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Windows] windows 脚本，俄神精简系统放桌面的，有大佬来解读一下吗",
+                "link": "https://www.v2ex.com/t/810324",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Windows] 你们 Wsa 里面都装了什么应用？",
+                "link": "https://www.v2ex.com/t/810323",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[生活] 求推荐 iPad 可玩的游戏",
+                "link": "https://www.v2ex.com/t/810322",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[macOS] 对于苹果视频播放器选择的疑问",
+                "link": "https://www.v2ex.com/t/810321",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[微信] 有外地车在京的车主么？实力安利一个小程序",
+                "link": "https://www.v2ex.com/t/810294",
+                "published": "2021-10-25"
+            },
+            {
                 "title": "[问与答] React 官方更新了新版文档，界面清新了很多",
                 "link": "https://www.v2ex.com/t/810319",
                 "published": "2021-10-25"
@@ -2595,6 +2690,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "纪念志愿军抗美援朝出国作战 71 周年，哪些「最可爱的人」的故事让你记忆深刻？",
+                "link": "http://www.zhihu.com/question/494388383/answer/2187792783?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-25"
+            },
             {
                 "title": "如何看待李云迪在被通报嫖娼后，李云迪母校四川音乐学院火速摘掉「李云迪钢琴工作室」牌子？",
                 "link": "http://www.zhihu.com/question/493886418/answer/2187693027?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
