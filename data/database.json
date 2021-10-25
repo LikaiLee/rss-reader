@@ -19,13 +19,19 @@
                 "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
                 "published": "2021-10-08"
             }
-        ]
+        ],
+        "new_feeds": 2
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "钱包未动，算盘先行：2021 年新 MacBook Pro 选购指南",
+                "link": "https://sspai.com/post/69507",
+                "published": "2021-10-25"
+            },
             {
                 "title": "城市漫步指南：维斯马，一座平凡却难以被取代的城市",
                 "link": "https://sspai.com/post/68529",
@@ -126,13 +132,114 @@
                 "link": "https://sspai.com/post/69432",
                 "published": "2021-10-20"
             }
-        ]
+        ],
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[求职] [求职][北京]四年半 Java 开发求工作",
+                "link": "https://www.v2ex.com/t/810445",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 一个很艰难的决定，希望大家帮忙出出主意🙏🏻",
+                "link": "https://www.v2ex.com/t/810444",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[IPv6] OpenWRT 配置了 IPv6，但 iPhone 似乎并不愿意使用。",
+                "link": "https://www.v2ex.com/t/810443",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] 有在苹果团购买的么?",
+                "link": "https://www.v2ex.com/t/810442",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[宽带症候群] 再问大佬:ipv4 和 ipv6 可能会因为宽带分别限速而叠加吗",
+                "link": "https://www.v2ex.com/t/810439",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 请问有人知道小米社区是怎么开发出来的吗？",
+                "link": "https://www.v2ex.com/t/810438",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[郑州] 坐标郑州，明显感到房子开始降价了，刚需，是再等等还是现在入手？",
+                "link": "https://www.v2ex.com/t/810436",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[科技] 请教关于 Java 日期转换的问题",
+                "link": "https://www.v2ex.com/t/810434",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[求职] 深圳有招前端开发吗 Angular 框架，其他也能写但是平时很少用。会点 node，写点简单接口。",
+                "link": "https://www.v2ex.com/t/810433",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[iPhone] 支付宝送了 10 元 App Store 代金券，有什么应用值得买？",
+                "link": "https://www.v2ex.com/t/810431",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[北京] 北京哪里可以拍火车吗",
+                "link": "https://www.v2ex.com/t/810430",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] 在发布了新的 Macbook Pro 之后，想入手 Macbook Air",
+                "link": "https://www.v2ex.com/t/810429",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[酷工作] 米忽悠程序全面招聘",
+                "link": "https://www.v2ex.com/t/810428",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 请教一个 AC86U 梅林-科学自动断连的问题",
+                "link": "https://www.v2ex.com/t/810427",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[北京] 知春路地铁站罗庄东里小区 次卧出租",
+                "link": "https://www.v2ex.com/t/810426",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[IPv6] 如何获得固定的 IPv6 地址？",
+                "link": "https://www.v2ex.com/t/810425",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[汽车] 30 万左右预算，上海新能源车推荐",
+                "link": "https://www.v2ex.com/t/810424",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[奇思妙想] 求 V 友帮想一个霸气且端庄的表单 saas 系统名称",
+                "link": "https://www.v2ex.com/t/810422",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[游戏] 如龙 3 有点考验大手指啊",
+                "link": "https://www.v2ex.com/t/810420",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Docker] 关于 docker hub 上不同架构的镜像的疑问",
+                "link": "https://www.v2ex.com/t/810419",
+                "published": "2021-10-25"
+            },
             {
                 "title": "[程序员] 如何办理香港卡",
                 "link": "https://www.v2ex.com/t/810418",
@@ -2968,13 +3075,19 @@
                 "link": "https://www.v2ex.com/t/809712",
                 "published": "2021-10-22"
             }
-        ]
+        ],
+        "new_feeds": 0
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "纪念志愿军抗美援朝出国作战 71 周年，哪些「最可爱的人」的故事让你记忆深刻？",
+                "link": "http://www.zhihu.com/question/494388383/answer/2188254476?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-25"
+            },
             {
                 "title": "独家！大量在韩中国人民志愿军烈士遗骸搜寻鉴定细节曝光！",
                 "link": "http://zhuanlan.zhihu.com/p/425560601?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -3315,6 +3428,7 @@
                 "link": "http://www.zhihu.com/question/490296535/answer/2151280565?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2021-10-08"
             }
-        ]
+        ],
+        "new_feeds": 0
     }
 ]

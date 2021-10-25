@@ -46,6 +46,7 @@ class FeedsReader:
             print(f"{exist_site['title']}: 已有 {len(exist_site['feeds'])}，"
                   f"新增 {len(new_feeds)}，"
                   f"共 {len(new_feeds) + len(exist_site['feeds'])}")
+            exist_site['new_feeds'] = len(new_feeds)
             # 按倒序输出
             # 4, 5, 6 => 6, 5, 4
             exist_site['feeds'].reverse()

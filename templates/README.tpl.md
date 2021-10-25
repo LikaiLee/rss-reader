@@ -2,7 +2,7 @@
 
 ## 来源分类
 {% for site in data %}
-* [{{ site.title }}](#{{ site.title }}){% endfor %}
+* [{{ site.title }}](#{{ site.title }}){% if site.new_feeds > 0 %} 【+{{ site.new_feeds }}】{% endif %}{% endfor %}
 
 ## 文章链接
 {% for site in data %}
