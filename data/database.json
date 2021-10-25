@@ -28,6 +28,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/69506",
+                "published": "2021-10-25"
+            },
+            {
                 "title": "钱包未动，算盘先行：2021 年新 MacBook Pro 选购指南",
                 "link": "https://sspai.com/post/69507",
                 "published": "2021-10-25"
@@ -133,13 +138,18 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[iPhone] 手机显示剩余空间 60g，爱思看只有 2g",
+                "link": "https://www.v2ex.com/t/810449",
+                "published": "2021-10-25"
+            },
             {
                 "title": "[程序员] 有些码农真的是太臭了",
                 "link": "https://www.v2ex.com/t/810448",
@@ -3081,7 +3091,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 1
     },
     {
         "id": 3,

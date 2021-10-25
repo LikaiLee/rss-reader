@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+5】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-25】 派评 | 近期值得关注的 App](https://sspai.com/post/69506)
 * [【2021-10-25】 钱包未动，算盘先行：2021 年新 MacBook Pro 选购指南](https://sspai.com/post/69507)
 * [【2021-10-25】 城市漫步指南：维斯马，一座平凡却难以被取代的城市](https://sspai.com/post/68529)
 * [【2021-10-25】 每天有多少玩家教任天堂做产品？|「世界主宰」的掌机之路 · 叁](https://sspai.com/post/69478)
@@ -36,7 +37,6 @@
 * [【2021-10-23】 你也可以轻松修复老照片——看 AI 如何让它们焕发新生](https://sspai.com/post/69472)
 * [【2021-10-23】 如果着火了，地铁怎样保证我们的安全？](https://sspai.com/post/69234)
 * [【2021-10-22】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/69462)
-* [【2021-10-22】 数字存储完全指南 03 ：固态硬盘的历史、结构与原理](https://sspai.com/post/68976)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-25】 [iPhone] 手机显示剩余空间 60g，爱思看只有 2g](https://www.v2ex.com/t/810449)
 * [【2021-10-25】 [程序员] 有些码农真的是太臭了](https://www.v2ex.com/t/810448)
 * [【2021-10-25】 [求职] [求职][北京]四年半 Java 开发求工作](https://www.v2ex.com/t/810445)
 * [【2021-10-25】 [问与答] 一个很艰难的决定，希望大家帮忙出出主意🙏🏻](https://www.v2ex.com/t/810444)
@@ -55,7 +56,6 @@
 * [【2021-10-25】 [问与答] 请问有人知道小米社区是怎么开发出来的吗？](https://www.v2ex.com/t/810438)
 * [【2021-10-25】 [郑州] 坐标郑州，明显感到房子开始降价了，刚需，是再等等还是现在入手？](https://www.v2ex.com/t/810436)
 * [【2021-10-25】 [科技] 请教关于 Java 日期转换的问题](https://www.v2ex.com/t/810434)
-* [【2021-10-25】 [求职] 深圳有招前端开发吗 Angular 框架，其他也能写但是平时很少用。会点 node，写点简单接口。](https://www.v2ex.com/t/810433)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-25 10:57:13
+:alarm_clock: 更新时间: 2021-10-25 11:16:38
