@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX)
+* [V2EX](#V2EX) 【+2】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,6 +46,8 @@
     </summary>
 
 
+* [【2021-10-25】 [MacBook Pro] 有上代 16 寸 MBP，有必要新入手 16 寸吗？](https://www.v2ex.com/t/810506)
+* [【2021-10-25】 [分享发现] 开车撞到鹿的思考](https://www.v2ex.com/t/810505)
 * [【2021-10-25】 [Apple] AirPods 3 的测评也解禁了](https://www.v2ex.com/t/810504)
 * [【2021-10-25】 [MacBook Pro] 求推荐一个 Mac 扩展坞](https://www.v2ex.com/t/810503)
 * [【2021-10-25】 [Apple] 梳理新款 macbook pro 14/16 争议点，劝一劝那些看了评测想买新款 macbook 的站友。](https://www.v2ex.com/t/810502)
@@ -54,8 +56,6 @@
 * [【2021-10-25】 [Apple] 这次 M1 Max 带宽用力过猛了， cpu 才用了不到 250GB/s](https://www.v2ex.com/t/810497)
 * [【2021-10-25】 [程序员] 优惠券的核销方案](https://www.v2ex.com/t/810496)
 * [【2021-10-25】 [iPhone] 如何让 safari 在访问视频文件时自动启动 vlc 播放？](https://www.v2ex.com/t/810495)
-* [【2021-10-25】 [问与答] apple watch 能否实现这样一个需求？](https://www.v2ex.com/t/810494)
-* [【2021-10-25】 [Apple] 感觉新 MBP 上刘海屏单纯就是为了不让别的笔电使用到这块屏幕](https://www.v2ex.com/t/810493)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-25 18:23:18
+:alarm_clock: 更新时间: 2021-10-25 19:15:44

@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-10-25  [MacBook Pro] 有上代 16 寸 MBP，有必要新入手 16 寸吗？](https://www.v2ex.com/t/810506)
+* [2021-10-25  [分享发现] 开车撞到鹿的思考](https://www.v2ex.com/t/810505)
 * [2021-10-25  [Apple] AirPods 3 的测评也解禁了](https://www.v2ex.com/t/810504)
 * [2021-10-25  [MacBook Pro] 求推荐一个 Mac 扩展坞](https://www.v2ex.com/t/810503)
 * [2021-10-25  [Apple] 梳理新款 macbook pro 14/16 争议点，劝一劝那些看了评测想买新款 macbook 的站友。](https://www.v2ex.com/t/810502)

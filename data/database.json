@@ -151,6 +151,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] 有上代 16 寸 MBP，有必要新入手 16 寸吗？",
+                "link": "https://www.v2ex.com/t/810506",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[分享发现] 开车撞到鹿的思考",
+                "link": "https://www.v2ex.com/t/810505",
+                "published": "2021-10-25"
+            },
+            {
                 "title": "[Apple] AirPods 3 的测评也解禁了",
                 "link": "https://www.v2ex.com/t/810504",
                 "published": "2021-10-25"
@@ -3336,7 +3346,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 3,
