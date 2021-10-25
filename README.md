@@ -2,9 +2,9 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+2】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX)
+* [V2EX](#V2EX) 【+5】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,12 +46,16 @@
     </summary>
 
 
+* [【2021-10-25】 [程序员] 有些码农真的是太臭了](https://www.v2ex.com/t/810448)
+* [【2021-10-25】 [求职] [求职][北京]四年半 Java 开发求工作](https://www.v2ex.com/t/810445)
+* [【2021-10-25】 [问与答] 一个很艰难的决定，希望大家帮忙出出主意🙏🏻](https://www.v2ex.com/t/810444)
+* [【2021-10-25】 [IPv6] OpenWRT 配置了 IPv6，但 iPhone 似乎并不愿意使用。](https://www.v2ex.com/t/810443)
+* [【2021-10-25】 [Apple] 有在苹果团购买的么?](https://www.v2ex.com/t/810442)
 * [【2021-10-25】 [宽带症候群] 再问大佬:ipv4 和 ipv6 可能会因为宽带分别限速而叠加吗](https://www.v2ex.com/t/810439)
 * [【2021-10-25】 [问与答] 请问有人知道小米社区是怎么开发出来的吗？](https://www.v2ex.com/t/810438)
 * [【2021-10-25】 [郑州] 坐标郑州，明显感到房子开始降价了，刚需，是再等等还是现在入手？](https://www.v2ex.com/t/810436)
 * [【2021-10-25】 [科技] 请教关于 Java 日期转换的问题](https://www.v2ex.com/t/810434)
 * [【2021-10-25】 [求职] 深圳有招前端开发吗 Angular 框架，其他也能写但是平时很少用。会点 node，写点简单接口。](https://www.v2ex.com/t/810433)
-* [【2021-10-25】 [iPhone] 支付宝送了 10 元 App Store 代金券，有什么应用值得买？](https://www.v2ex.com/t/810431)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -80,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-25 10:22:47
+:alarm_clock: 更新时间: 2021-10-25 10:57:13
