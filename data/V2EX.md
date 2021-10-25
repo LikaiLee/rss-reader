@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-10-25  [问与答] React 官方更新了新版文档，界面清新了很多](https://www.v2ex.com/t/810319)
+* [2021-10-25  [Apple] 当大家都在讨论买哪款 MBP 时，我下单了 M1 Air，以下是我的使用体验](https://www.v2ex.com/t/810317)
+* [2021-10-25  [ WATCH] watch 7 需要买 ac+么](https://www.v2ex.com/t/810316)
 * [2021-10-25  [macOS] macOS Monterey 正式版将在 PDT 时间 10 月 25 日 10:00 AM / CST 时间 10 月 26 日 01:00 AM 发布](https://www.v2ex.com/t/810315)
 * [2021-10-25  [分享发现] 再次验证朋友圈没广告，其他 App 广告不会被关联（建议有条件的转到 WeChat）](https://www.v2ex.com/t/810314)
 * [2021-10-25  [Diablo II] 离线版能在不同人物间倒装备吗？](https://www.v2ex.com/t/810312)

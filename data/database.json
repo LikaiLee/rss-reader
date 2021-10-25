@@ -27,6 +27,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "每天有多少玩家教任天堂做产品？|「世界主宰」的掌机之路 · 叁",
+                "link": "https://sspai.com/post/69478",
+                "published": "2021-10-25"
+            },
+            {
                 "title": "派早报：索尼推出全画幅微单相机 Alpha 7 IV、大疆将于月底举行发布会等",
                 "link": "https://sspai.com/post/69494",
                 "published": "2021-10-25"
@@ -123,6 +128,21 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] React 官方更新了新版文档，界面清新了很多",
+                "link": "https://www.v2ex.com/t/810319",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] 当大家都在讨论买哪款 MBP 时，我下单了 M1 Air，以下是我的使用体验",
+                "link": "https://www.v2ex.com/t/810317",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[ WATCH] watch 7 需要买 ac+么",
+                "link": "https://www.v2ex.com/t/810316",
+                "published": "2021-10-25"
+            },
             {
                 "title": "[macOS] macOS Monterey 正式版将在 PDT 时间 10 月 25 日 10:00 AM / CST 时间 10 月 26 日 01:00 AM 发布",
                 "link": "https://www.v2ex.com/t/810315",
@@ -2575,6 +2595,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "如何看待李云迪在被通报嫖娼后，李云迪母校四川音乐学院火速摘掉「李云迪钢琴工作室」牌子？",
+                "link": "http://www.zhihu.com/question/493886418/answer/2187693027?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-25"
+            },
             {
                 "title": "如今「网红打卡地」泛滥，褪下滤镜后还有哪些值得一去的旅行目的地？",
                 "link": "http://www.zhihu.com/question/491721079/answer/2167443272?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
