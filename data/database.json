@@ -146,6 +146,61 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[全球工单系统] 反馈闲鱼违规判定和“无限处置”的 BUG",
+                "link": "https://www.v2ex.com/t/810491",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 请问现在有什么大一点的转运公司可以转运笔记本电脑回国？",
+                "link": "https://www.v2ex.com/t/810490",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] kindle 看一些图片或者表格很小不清楚",
+                "link": "https://www.v2ex.com/t/810488",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[全球工单系统] HP 惠普国行预装偷偷给用户安装 360 锁屏画报",
+                "link": "https://www.v2ex.com/t/810487",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[职场话题] 求问腾讯 PCG 创新部门 NBase 可以去吗。秋招目前只有一个 offer",
+                "link": "https://www.v2ex.com/t/810486",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[macOS] macOS Monterey 今天凌晨可以下载了",
+                "link": "https://www.v2ex.com/t/810485",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 固态 U 盘求推荐",
+                "link": "https://www.v2ex.com/t/810484",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] macOS Big sur 11.6 IM（如微信）无弹窗提示",
+                "link": "https://www.v2ex.com/t/810483",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[程序员] 用不当手段破解了公司的 1024 活动题",
+                "link": "https://www.v2ex.com/t/810482",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Java] Java 库为什么要这么写？",
+                "link": "https://www.v2ex.com/t/810481",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 20 年双十一至今的 iPhone12，电池健康 90%正常吗？",
+                "link": "https://www.v2ex.com/t/810480",
+                "published": "2021-10-25"
+            },
+            {
                 "title": "[iOS] iOS15 的输入法联想是不是有点问题？还是就我这样？",
                 "link": "https://www.v2ex.com/t/810479",
                 "published": "2021-10-25"
@@ -3221,7 +3276,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 13
+        "new_feeds": 11
     },
     {
         "id": 3,
