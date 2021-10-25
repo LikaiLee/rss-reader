@@ -138,13 +138,78 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[macOS] Mac 的 “Redo”（重做）快捷键不能用了，我以为只有我这样，最近听同事说他的也这样",
+                "link": "https://www.v2ex.com/t/810464",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 反诈法中的“批量账号、网络地址自动切换系统”指什么？对于爬虫业务是否会有影响",
+                "link": "https://www.v2ex.com/t/810462",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Diablo II] 最近（2021 年 10 月末）暗黑 2 重制版的这个排队问题是 PC 版独有的还是主机版本也一样？",
+                "link": "https://www.v2ex.com/t/810461",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[ WATCH] 从 Apple Watch series 6 升级到了 Apple Watch series 7 了，感觉很值，视觉上幸福感增加明显，续航不如前一代",
+                "link": "https://www.v2ex.com/t/810460",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[macOS] macOS 上的原生照片 app 好垃圾啊",
+                "link": "https://www.v2ex.com/t/810459",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[iPhone] iPhone 13 Pro 开盖有惊喜，换货中，这个流程会走多久",
+                "link": "https://www.v2ex.com/t/810458",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[杭州] 有租过青年公寓、酒店公寓，像氧气公寓/welike 之类的，比较关心隔音如何，里面住的都是白领之类？",
+                "link": "https://www.v2ex.com/t/810457",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[分享创造] 让后端开发写个 API 文档就有那么难吗？",
+                "link": "https://www.v2ex.com/t/810456",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Windows] win11 那个右键菜单显示更多选项 做个悬浮自动显示他不香么",
+                "link": "https://www.v2ex.com/t/810455",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[macOS] Apple Remote Desktop 一直连不上，救救孩子吧！",
+                "link": "https://www.v2ex.com/t/810454",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[TypeScript] TypeScript 怎样动态获取 import * as 导入的内容？",
+                "link": "https://www.v2ex.com/t/810453",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[分享发现] 有没有好的开源图床系统",
+                "link": "https://www.v2ex.com/t/810451",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[投资] 如何办理香港卡",
+                "link": "https://www.v2ex.com/t/810418",
+                "published": "2021-10-25"
+            },
             {
                 "title": "[iPhone] 手机显示剩余空间 60g，爱思看只有 2g",
                 "link": "https://www.v2ex.com/t/810449",
@@ -3091,7 +3156,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 13
     },
     {
         "id": 3,
