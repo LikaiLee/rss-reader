@@ -1,6 +1,14 @@
 # V2EX
 
 
+* [2021-10-25  [问与答] 木地板上有什么专用的电脑椅吗？](https://www.v2ex.com/t/810235)
+* [2021-10-25  [程序员] 微软商店不扶墙随便用，反而扶墙了倒啥也用不了了](https://www.v2ex.com/t/810233)
+* [2021-10-25  [macOS] 提醒一下有用 NVME 的 SSD 硬盘盒子的升级 Monterey 之前测一下兼容性](https://www.v2ex.com/t/810232)
+* [2021-10-25  [macOS] Setapp 稳定开车三年，现缺 3 人，年付 190](https://www.v2ex.com/t/810231)
+* [2021-10-24  [问与答] PDF Expert 要出 Windows 版本了](https://www.v2ex.com/t/810229)
+* [2021-10-24  [路由器] 老生常谈，关于 AC+AP 方案我还想请教一二](https://www.v2ex.com/t/810228)
+* [2021-10-24  [程序员] 开源版 Jira - ActionView v1.12.8 发布](https://www.v2ex.com/t/810227)
+* [2021-10-24  [iOS] ios 15 了 这种就是后台音频保活吗？](https://www.v2ex.com/t/810226)
 * [2021-10-24  [问与答] NLog 能不能记录成两种格式文件名](https://www.v2ex.com/t/810225)
 * [2021-10-24  [MacBook Pro] 新款 MacBook Pro 显示屏厚了这么多却没有增加 Face ID？](https://www.v2ex.com/t/810224)
 * [2021-10-24  [互联网] 微博把我们抄成这样，还在法庭上睁眼说瞎话！](https://www.v2ex.com/t/810217)
