@@ -124,6 +124,66 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[macOS] macOS Monterey 正式版将在 PDT 时间 10 月 25 日 10:00 AM / CST 时间 10 月 26 日 01:00 AM 发布",
+                "link": "https://www.v2ex.com/t/810315",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[分享发现] 再次验证朋友圈没广告，其他 App 广告不会被关联（建议有条件的转到 WeChat）",
+                "link": "https://www.v2ex.com/t/810314",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Diablo II] 离线版能在不同人物间倒装备吗？",
+                "link": "https://www.v2ex.com/t/810312",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] 苹果允许使用第三方支付了？",
+                "link": "https://www.v2ex.com/t/810309",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[分享创造] markless: vscode 的所见即所得的 markdown 渲染插件, 不使用富文本编辑器, 不占用任何快捷键",
+                "link": "https://www.v2ex.com/t/810307",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[云计算] istio 的流量控制能作用于 etcd 集群吗?",
+                "link": "https://www.v2ex.com/t/810306",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[macOS] 求助。logitech g hub 自动更新最新版后无法进入主界面了",
+                "link": "https://www.v2ex.com/t/810303",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 索尼（SONY）XR-65X90J 65 英寸 全面屏 4K 超高清 HDR XR 认知芯片 这款电视如何",
+                "link": "https://www.v2ex.com/t/810302",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[程序员] 这封垃圾邮件，是如何通过正规 tencent dot com 邮箱发出来的？",
+                "link": "https://www.v2ex.com/t/810301",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[区块链] 派网新出了一个马丁格尔机器人",
+                "link": "https://www.v2ex.com/t/810300",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[程序员] 有无 Java 开源第三方框架，支持 google， fb， apple id",
+                "link": "https://www.v2ex.com/t/810299",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[PlayStation 5] ps5 都能干啥？",
+                "link": "https://www.v2ex.com/t/810251",
+                "published": "2021-10-25"
+            },
+            {
                 "title": "[Apple] 升级 iOS 15 后 AirPods pro 经常断连",
                 "link": "https://www.v2ex.com/t/810298",
                 "published": "2021-10-25"
