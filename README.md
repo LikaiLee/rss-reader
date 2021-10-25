@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-25】 城市漫步指南：维斯马，一座平凡却难以被取代的城市](https://sspai.com/post/68529)
 * [【2021-10-25】 每天有多少玩家教任天堂做产品？|「世界主宰」的掌机之路 · 叁](https://sspai.com/post/69478)
 * [【2021-10-25】 派早报：索尼推出全画幅微单相机 Alpha 7 IV、大疆将于月底举行发布会等](https://sspai.com/post/69494)
 * [【2021-10-24】 挑一本好看的 2022 年日历，迎接充满希望的虎年](https://sspai.com/post/69434)
@@ -36,7 +37,6 @@
 * [【2021-10-22】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/69462)
 * [【2021-10-22】 数字存储完全指南 03 ：固态硬盘的历史、结构与原理](https://sspai.com/post/68976)
 * [【2021-10-22】 瞎玩菌的游戏周报：《坦克大战》制作者辞世、买完所有 PS4 游戏要花多少钱？](https://sspai.com/post/69449)
-* [【2021-10-22】 好文章是如何「炼成」的：你也可以有所收获的系统练习之路](https://sspai.com/post/69442)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-25】 [程序员] WPF 实现雷达图(仿英雄联盟)](https://www.v2ex.com/t/810372)
-* [【2021-10-25】 [AirPods] AirPods 有必要买 AC+ 吗？](https://www.v2ex.com/t/810370)
-* [【2021-10-25】 [问与答] 国内如何基于 Google Earth 进行开发](https://www.v2ex.com/t/810369)
-* [【2021-10-25】 [北京] 请问北京哪里的家具城有卖人体工程学椅的？](https://www.v2ex.com/t/810368)
-* [【2021-10-25】 [分享发现] HDMI 线材真的是越短越好吗？](https://www.v2ex.com/t/810367)
-* [【2021-10-25】 [程序员] springboot 这几个配置文件的优先级是啥](https://www.v2ex.com/t/810366)
-* [【2021-10-25】 [分享发现] 因为家里有 ca 史，做了个全套体检，整个人都不好了](https://www.v2ex.com/t/810365)
-* [【2021-10-25】 [程序员] 关于 mac 端 safari 很诡异的问题](https://www.v2ex.com/t/810364)
-* [【2021-10-25】 [硬件] 老电脑改装 nas, atx 主板，请大家帮忙推荐一款 4 盘位的 nas 机箱](https://www.v2ex.com/t/810363)
-* [【2021-10-25】 [推广] [线上研讨会] 来听听云工程师聊 Google Cloud Spanner 吧](https://www.v2ex.com/t/810362)
+* [【2021-10-25】 [macOS] 吓到我了,大家千万别用 CleanMyMac X](https://www.v2ex.com/t/810394)
+* [【2021-10-25】 [问与答] 微信在 pc 端自动备份是伪需求吗](https://www.v2ex.com/t/810393)
+* [【2021-10-25】 [全球工单系统] Win11 中 QQ 截图后导致系统窗口闪烁](https://www.v2ex.com/t/810392)
+* [【2021-10-25】 [分享发现] 分享一些“踩坑体验”类 UP 主](https://www.v2ex.com/t/810391)
+* [【2021-10-25】 [职场话题] 有点后悔跟公司硬刚了](https://www.v2ex.com/t/810390)
+* [【2021-10-25】 [macOS] Mac 的 Safari 的快捷键失灵该咋办？](https://www.v2ex.com/t/810389)
+* [【2021-10-25】 [酷工作] [北京五道口][急招]｜全栈、后端工程师[Github 万星 star 开源项目 Wechaty][20k-50k]](https://www.v2ex.com/t/810388)
+* [【2021-10-25】 [问与答] 请教各位 V 友，大额理财应该怎么配置](https://www.v2ex.com/t/810386)
+* [【2021-10-25】 [分享发现] as a non-profit public welfare organization, the income of the rule of law fund is not used for legitimate purposes](https://www.v2ex.com/t/810383)
+* [【2021-10-25】 [分享发现] 该怎么清洗电热水器啊](https://www.v2ex.com/t/810382)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-25 07:19:10
+:alarm_clock: 更新时间: 2021-10-25 08:23:47

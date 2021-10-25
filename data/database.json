@@ -27,6 +27,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫步指南：维斯马，一座平凡却难以被取代的城市",
+                "link": "https://sspai.com/post/68529",
+                "published": "2021-10-25"
+            },
+            {
                 "title": "每天有多少玩家教任天堂做产品？|「世界主宰」的掌机之路 · 叁",
                 "link": "https://sspai.com/post/69478",
                 "published": "2021-10-25"
@@ -128,6 +133,91 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[macOS] 吓到我了,大家千万别用 CleanMyMac X",
+                "link": "https://www.v2ex.com/t/810394",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 微信在 pc 端自动备份是伪需求吗",
+                "link": "https://www.v2ex.com/t/810393",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[全球工单系统] Win11 中 QQ 截图后导致系统窗口闪烁",
+                "link": "https://www.v2ex.com/t/810392",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[分享发现] 分享一些“踩坑体验”类 UP 主",
+                "link": "https://www.v2ex.com/t/810391",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[职场话题] 有点后悔跟公司硬刚了",
+                "link": "https://www.v2ex.com/t/810390",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[macOS] Mac 的 Safari 的快捷键失灵该咋办？",
+                "link": "https://www.v2ex.com/t/810389",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[酷工作] [北京五道口][急招]｜全栈、后端工程师[Github 万星 star 开源项目 Wechaty][20k-50k]",
+                "link": "https://www.v2ex.com/t/810388",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 请教各位 V 友，大额理财应该怎么配置",
+                "link": "https://www.v2ex.com/t/810386",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[分享发现] as a non-profit public welfare organization, the income of the rule of law fund is not used for legitimate purposes",
+                "link": "https://www.v2ex.com/t/810383",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[分享发现] 该怎么清洗电热水器啊",
+                "link": "https://www.v2ex.com/t/810382",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] 如果再次刷新页面，我们将取消你的订单。",
+                "link": "https://www.v2ex.com/t/810381",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 求问应届生后端做搜广推工程还是 Java 业务开发",
+                "link": "https://www.v2ex.com/t/810380",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Java] IDEA 搭配 springboot 的 spring profile 问题",
+                "link": "https://www.v2ex.com/t/810379",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] apple 最新产品规格以及售价表 [持续更新]",
+                "link": "https://www.v2ex.com/t/810378",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[程序员] infomaniak 新出的无广告的邮件（email）服务，最低 3 位字母，收/发 设置大家配置如何？",
+                "link": "https://www.v2ex.com/t/810377",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] 定制版 16 寸 MacBook Pro 大家都发货了吗？",
+                "link": "https://www.v2ex.com/t/810375",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[项目管理] 最好的项目管理工具",
+                "link": "https://www.v2ex.com/t/810374",
+                "published": "2021-10-25"
+            },
             {
                 "title": "[程序员] WPF 实现雷达图(仿英雄联盟)",
                 "link": "https://www.v2ex.com/t/810372",

@@ -1,6 +1,23 @@
 # V2EX
 
 
+* [2021-10-25  [macOS] 吓到我了,大家千万别用 CleanMyMac X](https://www.v2ex.com/t/810394)
+* [2021-10-25  [问与答] 微信在 pc 端自动备份是伪需求吗](https://www.v2ex.com/t/810393)
+* [2021-10-25  [全球工单系统] Win11 中 QQ 截图后导致系统窗口闪烁](https://www.v2ex.com/t/810392)
+* [2021-10-25  [分享发现] 分享一些“踩坑体验”类 UP 主](https://www.v2ex.com/t/810391)
+* [2021-10-25  [职场话题] 有点后悔跟公司硬刚了](https://www.v2ex.com/t/810390)
+* [2021-10-25  [macOS] Mac 的 Safari 的快捷键失灵该咋办？](https://www.v2ex.com/t/810389)
+* [2021-10-25  [酷工作] [北京五道口][急招]｜全栈、后端工程师[Github 万星 star 开源项目 Wechaty][20k-50k]](https://www.v2ex.com/t/810388)
+* [2021-10-25  [问与答] 请教各位 V 友，大额理财应该怎么配置](https://www.v2ex.com/t/810386)
+* [2021-10-25  [分享发现] as a non-profit public welfare organization, the income of the rule of law fund is not used for legitimate purposes](https://www.v2ex.com/t/810383)
+* [2021-10-25  [分享发现] 该怎么清洗电热水器啊](https://www.v2ex.com/t/810382)
+* [2021-10-25  [Apple] 如果再次刷新页面，我们将取消你的订单。](https://www.v2ex.com/t/810381)
+* [2021-10-25  [问与答] 求问应届生后端做搜广推工程还是 Java 业务开发](https://www.v2ex.com/t/810380)
+* [2021-10-25  [Java] IDEA 搭配 springboot 的 spring profile 问题](https://www.v2ex.com/t/810379)
+* [2021-10-25  [Apple] apple 最新产品规格以及售价表 [持续更新]](https://www.v2ex.com/t/810378)
+* [2021-10-25  [程序员] infomaniak 新出的无广告的邮件（email）服务，最低 3 位字母，收/发 设置大家配置如何？](https://www.v2ex.com/t/810377)
+* [2021-10-25  [Apple] 定制版 16 寸 MacBook Pro 大家都发货了吗？](https://www.v2ex.com/t/810375)
+* [2021-10-25  [项目管理] 最好的项目管理工具](https://www.v2ex.com/t/810374)
 * [2021-10-25  [程序员] WPF 实现雷达图(仿英雄联盟)](https://www.v2ex.com/t/810372)
 * [2021-10-25  [AirPods] AirPods 有必要买 AC+ 吗？](https://www.v2ex.com/t/810370)
 * [2021-10-25  [问与答] 国内如何基于 Google Earth 进行开发](https://www.v2ex.com/t/810369)
