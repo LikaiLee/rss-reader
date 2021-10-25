@@ -124,6 +124,116 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 升级 iOS 15 后 AirPods pro 经常断连",
+                "link": "https://www.v2ex.com/t/810298",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Android] 求一款轻薄的手机",
+                "link": "https://www.v2ex.com/t/810297",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[罗技] 双十一想购买罗技 master3 鼠标工作用, 有用过的老哥能分享一下实际体验吗?",
+                "link": "https://www.v2ex.com/t/810296",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[生活] 用空气炸锅的朋友们，你们怎么清洁的？",
+                "link": "https://www.v2ex.com/t/810295",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[程序员] 有外地车在京的车主么？实力安利一个小程序",
+                "link": "https://www.v2ex.com/t/810294",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[酷工作] [快手] Java 技术专家/架构师（Server）- [同城创新] [45K~65K]",
+                "link": "https://www.v2ex.com/t/810291",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Rust] Rust 如何使用自定义的排序方式对字符串构成的 vector 进行排序？",
+                "link": "https://www.v2ex.com/t/810290",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] 感觉用不到 hdmi 接口 和 sd 卡槽，不想买 pro 想等明年的新 air",
+                "link": "https://www.v2ex.com/t/810289",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] Bear 熊掌记是否会读取我们的笔记？安全问题",
+                "link": "https://www.v2ex.com/t/810288",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] macOS 多屏幕之间有间隙可以鼠标直接移动嘛？",
+                "link": "https://www.v2ex.com/t/810287",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 看到也有朋友想申一年授课硕的，我也想问问关于一年硕的选择问题",
+                "link": "https://www.v2ex.com/t/810286",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] 新款 Macbook Pro 16 如何购买第三方充电器",
+                "link": "https://www.v2ex.com/t/810285",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 戴森 V11 各个版本有什么区别？",
+                "link": "https://www.v2ex.com/t/810284",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[程序员] quanX 能屏蔽 js 执行吗",
+                "link": "https://www.v2ex.com/t/810283",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[路由器] 寝室校园网 2.4G 信道爆堵怎么办",
+                "link": "https://www.v2ex.com/t/810282",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 被电信诈骗追回的概率大吗？",
+                "link": "https://www.v2ex.com/t/810280",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] 人晕了，你们买新款 macbook 的都发货了",
+                "link": "https://www.v2ex.com/t/810279",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 2021 年学 c++看什么书？ primer 和 primer plus 用的还是 2003 年的标准，是否落后了？",
+                "link": "https://www.v2ex.com/t/810276",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] Macbook Pro (13 寸 M1) 连接 Dell 2720QM 一直提示“停用高耗电量设备以重启 USB\"",
+                "link": "https://www.v2ex.com/t/810275",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[酷工作] [米哈游] [上海] [十月更新] 米哈游社招 大量 HC",
+                "link": "https://www.v2ex.com/t/810274",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[AirPods] AirPods3 发货了",
+                "link": "https://www.v2ex.com/t/810273",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[酷工作] [快手] 高级 Java 开发工程师（Server）- [主站同城] [35K-50K]",
+                "link": "https://www.v2ex.com/t/810272",
+                "published": "2021-10-25"
+            },
+            {
                 "title": "[区块链] 记录一下定投虚拟币半年来的坎坷经历",
                 "link": "https://www.v2ex.com/t/810271",
                 "published": "2021-10-25"
