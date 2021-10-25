@@ -1,6 +1,12 @@
 # V2EX
 
 
+* [2021-10-25  [Apple] 这次 M1 Max 带宽用力过猛了， cpu 才用了不到 250GB/s](https://www.v2ex.com/t/810497)
+* [2021-10-25  [程序员] 优惠券的核销方案](https://www.v2ex.com/t/810496)
+* [2021-10-25  [iPhone] 如何让 safari 在访问视频文件时自动启动 vlc 播放？](https://www.v2ex.com/t/810495)
+* [2021-10-25  [问与答] apple watch 能否实现这样一个需求？](https://www.v2ex.com/t/810494)
+* [2021-10-25  [Apple] 感觉新 MBP 上刘海屏单纯就是为了不让别的笔电使用到这块屏幕](https://www.v2ex.com/t/810493)
+* [2021-10-25  [Apple] 怎么能取消 apple tv 4k 第二代响应旧 apple tv 3 的遥控器？](https://www.v2ex.com/t/810492)
 * [2021-10-25  [全球工单系统] 反馈闲鱼违规判定和“无限处置”的 BUG](https://www.v2ex.com/t/810491)
 * [2021-10-25  [问与答] 请问现在有什么大一点的转运公司可以转运笔记本电脑回国？](https://www.v2ex.com/t/810490)
 * [2021-10-25  [问与答] kindle 看一些图片或者表格很小不清楚](https://www.v2ex.com/t/810488)

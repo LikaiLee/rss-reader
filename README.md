@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+11】
+* [V2EX](#V2EX) 【+6】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,16 +46,16 @@
     </summary>
 
 
+* [【2021-10-25】 [Apple] 这次 M1 Max 带宽用力过猛了， cpu 才用了不到 250GB/s](https://www.v2ex.com/t/810497)
+* [【2021-10-25】 [程序员] 优惠券的核销方案](https://www.v2ex.com/t/810496)
+* [【2021-10-25】 [iPhone] 如何让 safari 在访问视频文件时自动启动 vlc 播放？](https://www.v2ex.com/t/810495)
+* [【2021-10-25】 [问与答] apple watch 能否实现这样一个需求？](https://www.v2ex.com/t/810494)
+* [【2021-10-25】 [Apple] 感觉新 MBP 上刘海屏单纯就是为了不让别的笔电使用到这块屏幕](https://www.v2ex.com/t/810493)
+* [【2021-10-25】 [Apple] 怎么能取消 apple tv 4k 第二代响应旧 apple tv 3 的遥控器？](https://www.v2ex.com/t/810492)
 * [【2021-10-25】 [全球工单系统] 反馈闲鱼违规判定和“无限处置”的 BUG](https://www.v2ex.com/t/810491)
 * [【2021-10-25】 [问与答] 请问现在有什么大一点的转运公司可以转运笔记本电脑回国？](https://www.v2ex.com/t/810490)
 * [【2021-10-25】 [问与答] kindle 看一些图片或者表格很小不清楚](https://www.v2ex.com/t/810488)
 * [【2021-10-25】 [全球工单系统] HP 惠普国行预装偷偷给用户安装 360 锁屏画报](https://www.v2ex.com/t/810487)
-* [【2021-10-25】 [职场话题] 求问腾讯 PCG 创新部门 NBase 可以去吗。秋招目前只有一个 offer](https://www.v2ex.com/t/810486)
-* [【2021-10-25】 [macOS] macOS Monterey 今天凌晨可以下载了](https://www.v2ex.com/t/810485)
-* [【2021-10-25】 [问与答] 固态 U 盘求推荐](https://www.v2ex.com/t/810484)
-* [【2021-10-25】 [问与答] macOS Big sur 11.6 IM（如微信）无弹窗提示](https://www.v2ex.com/t/810483)
-* [【2021-10-25】 [程序员] 用不当手段破解了公司的 1024 活动题](https://www.v2ex.com/t/810482)
-* [【2021-10-25】 [Java] Java 库为什么要这么写？](https://www.v2ex.com/t/810481)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-25 14:18:28
+:alarm_clock: 更新时间: 2021-10-25 15:17:32
