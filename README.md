@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-25】 [MacBook Pro] 24 core GPU 512g ssd 和 16 core GPU 1t ssd 怎么选？](https://www.v2ex.com/t/810509)
 * [【2021-10-25】 [酷工作] 树根互联长沙进行社会招聘了](https://www.v2ex.com/t/810508)
 * [【2021-10-25】 [酷工作] 💥💥💥 [硅谷外企] 100%远程+期权+双休+四周年假+各种福利补贴 👻👻👻](https://www.v2ex.com/t/810507)
 * [【2021-10-25】 [MacBook Pro] 有上代 16 寸 MBP，有必要新入手 16 寸吗？](https://www.v2ex.com/t/810506)
@@ -55,7 +56,6 @@
 * [【2021-10-25】 [Apple] 梳理新款 macbook pro 14/16 争议点，劝一劝那些看了评测想买新款 macbook 的站友。](https://www.v2ex.com/t/810502)
 * [【2021-10-25】 [Apple] MBP 16' 2019 的用户聊聊看法？](https://www.v2ex.com/t/810501)
 * [【2021-10-25】 [Apple] mbp14 英寸丐中丐版本渠道商涨价了？](https://www.v2ex.com/t/810500)
-* [【2021-10-25】 [Apple] 这次 M1 Max 带宽用力过猛了， cpu 才用了不到 250GB/s](https://www.v2ex.com/t/810497)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-25 22:19:30
+:alarm_clock: 更新时间: 2021-10-25 23:20:08
