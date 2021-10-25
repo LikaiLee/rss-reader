@@ -141,26 +141,6 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
-                "title": "[求职] [求职][北京]四年半 Java 开发求工作",
-                "link": "https://www.v2ex.com/t/810445",
-                "published": "2021-10-25"
-            },
-            {
-                "title": "[问与答] 一个很艰难的决定，希望大家帮忙出出主意🙏🏻",
-                "link": "https://www.v2ex.com/t/810444",
-                "published": "2021-10-25"
-            },
-            {
-                "title": "[IPv6] OpenWRT 配置了 IPv6，但 iPhone 似乎并不愿意使用。",
-                "link": "https://www.v2ex.com/t/810443",
-                "published": "2021-10-25"
-            },
-            {
-                "title": "[Apple] 有在苹果团购买的么?",
-                "link": "https://www.v2ex.com/t/810442",
-                "published": "2021-10-25"
-            },
-            {
                 "title": "[宽带症候群] 再问大佬:ipv4 和 ipv6 可能会因为宽带分别限速而叠加吗",
                 "link": "https://www.v2ex.com/t/810439",
                 "published": "2021-10-25"
