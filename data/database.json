@@ -27,6 +27,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：索尼推出全画幅微单相机 Alpha 7 IV、大疆将于月底举行发布会等",
+                "link": "https://sspai.com/post/69494",
+                "published": "2021-10-25"
+            },
+            {
                 "title": "挑一本好看的 2022 年日历，迎接充满希望的虎年",
                 "link": "https://sspai.com/post/69434",
                 "published": "2021-10-24"
@@ -118,6 +123,131 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[区块链] 记录一下定投虚拟币半年来的坎坷经历",
+                "link": "https://www.v2ex.com/t/810271",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] iOS 15 有个缺陷，游戏内开麦克风的话，游戏自身声音就会变得超级小，大家有这个问题吗",
+                "link": "https://www.v2ex.com/t/810268",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[深圳] 深圳的 v2er 们，有没有遇到公寓提供网络，拒绝运营商接入的情况。",
+                "link": "https://www.v2ex.com/t/810267",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[站长] 国外能否访问腾讯云的网站？有遇到同样问题的吗？",
+                "link": "https://www.v2ex.com/t/810266",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] 昨天问了天才吧小哥， AC+进水可以保",
+                "link": "https://www.v2ex.com/t/810265",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[宽带症候群] 用了 avahi 之后千兆网络的传输速度只有 12MB/s？这是什么奇葩技术？",
+                "link": "https://www.v2ex.com/t/810263",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[程序员] 做私活，私活老板不给结算工钱怎么办",
+                "link": "https://www.v2ex.com/t/810261",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] 发货了",
+                "link": "https://www.v2ex.com/t/810259",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[iPhone] 有点小激动",
+                "link": "https://www.v2ex.com/t/810258",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 红米电视搜不到 HDMI 信号，有没有办法把他改成纯显示器使用？",
+                "link": "https://www.v2ex.com/t/810257",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[程序员] 早上又又忘记打卡了。IOS 有办法实现 GPS 定位，自动调出类似钉钉打卡的功能么？",
+                "link": "https://www.v2ex.com/t/810256",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[京东] 朋友们，京东双十一，索尼电视该怎么选？",
+                "link": "https://www.v2ex.com/t/810254",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[酷工作] [深圳] [朴朴超市] [社招内推] 朴朴科技社招 Java 、前端、产品等岗位",
+                "link": "https://www.v2ex.com/t/810253",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] MacBook Pro 有明确说明是哪一天到货吗？短信说预计将于 2021/10/26 或之前送达",
+                "link": "https://www.v2ex.com/t/810252",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] ps5 都能干啥？",
+                "link": "https://www.v2ex.com/t/810251",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 小白请教 apple watch se2021 和 se2020 区别",
+                "link": "https://www.v2ex.com/t/810250",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] MacBook 系列为什么不考虑屏下摄像头呢？",
+                "link": "https://www.v2ex.com/t/810249",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[Apple] 我的 Mac 高级抹布已经发货了 SF 的快递单号都有了,预计明天到手",
+                "link": "https://www.v2ex.com/t/810247",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[问与答] 各位工程师们，你们用 obsidian 还是 notion 去保存代码片段？",
+                "link": "https://www.v2ex.com/t/810246",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[iOS] SharePlay 同播共享原理？",
+                "link": "https://www.v2ex.com/t/810245",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[奇思妙想] 一个个人书签(收藏) 中心",
+                "link": "https://www.v2ex.com/t/810243",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[宽带症候群] 北京电信访问腾讯服务绕美国,过香港??绕地球一周",
+                "link": "https://www.v2ex.com/t/810242",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[深圳] 深圳近期会有哪些有意思的线下技术宣讲会或沙龙吗",
+                "link": "https://www.v2ex.com/t/810240",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[分享发现] AC86U 凡是有无线连接问题的，可以进来看看了。",
+                "link": "https://www.v2ex.com/t/810238",
+                "published": "2021-10-25"
+            },
+            {
+                "title": "[全球工单系统] 微软商店不扶墙随便用，反而扶墙了倒啥也用不了了",
+                "link": "https://www.v2ex.com/t/810233",
+                "published": "2021-10-25"
+            },
             {
                 "title": "[问与答] 木地板上有什么专用的电脑椅吗？",
                 "link": "https://www.v2ex.com/t/810235",

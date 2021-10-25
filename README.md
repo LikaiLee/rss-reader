@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-25】 派早报：索尼推出全画幅微单相机 Alpha 7 IV、大疆将于月底举行发布会等](https://sspai.com/post/69494)
 * [【2021-10-24】 挑一本好看的 2022 年日历，迎接充满希望的虎年](https://sspai.com/post/69434)
 * [【2021-10-24】 咖啡怎么喝出风味？教你如何在家做感官训练](https://sspai.com/post/69487)
 * [【2021-10-23】 你也可以轻松修复老照片——看 AI 如何让它们焕发新生](https://sspai.com/post/69472)
@@ -36,7 +37,6 @@
 * [【2021-10-22】 瞎玩菌的游戏周报：《坦克大战》制作者辞世、买完所有 PS4 游戏要花多少钱？](https://sspai.com/post/69449)
 * [【2021-10-22】 好文章是如何「炼成」的：你也可以有所收获的系统练习之路](https://sspai.com/post/69442)
 * [【2021-10-22】 派早报：小米发布 Redmi 智能电视 X 2022 款、联想拯救者与 Nanoleaf 推出联名奇光板等](https://sspai.com/post/69455)
-* [【2021-10-21】 提升独居生活幸福感，一个人也要做好家务](https://sspai.com/post/69447)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-25】 [问与答] 木地板上有什么专用的电脑椅吗？](https://www.v2ex.com/t/810235)
-* [【2021-10-25】 [程序员] 微软商店不扶墙随便用，反而扶墙了倒啥也用不了了](https://www.v2ex.com/t/810233)
-* [【2021-10-25】 [macOS] 提醒一下有用 NVME 的 SSD 硬盘盒子的升级 Monterey 之前测一下兼容性](https://www.v2ex.com/t/810232)
-* [【2021-10-25】 [macOS] Setapp 稳定开车三年，现缺 3 人，年付 190](https://www.v2ex.com/t/810231)
-* [【2021-10-24】 [问与答] PDF Expert 要出 Windows 版本了](https://www.v2ex.com/t/810229)
-* [【2021-10-24】 [路由器] 老生常谈，关于 AC+AP 方案我还想请教一二](https://www.v2ex.com/t/810228)
-* [【2021-10-24】 [程序员] 开源版 Jira - ActionView v1.12.8 发布](https://www.v2ex.com/t/810227)
-* [【2021-10-24】 [iOS] ios 15 了 这种就是后台音频保活吗？](https://www.v2ex.com/t/810226)
-* [【2021-10-24】 [问与答] NLog 能不能记录成两种格式文件名](https://www.v2ex.com/t/810225)
-* [【2021-10-24】 [MacBook Pro] 新款 MacBook Pro 显示屏厚了这么多却没有增加 Face ID？](https://www.v2ex.com/t/810224)
+* [【2021-10-25】 [区块链] 记录一下定投虚拟币半年来的坎坷经历](https://www.v2ex.com/t/810271)
+* [【2021-10-25】 [Apple] iOS 15 有个缺陷，游戏内开麦克风的话，游戏自身声音就会变得超级小，大家有这个问题吗](https://www.v2ex.com/t/810268)
+* [【2021-10-25】 [深圳] 深圳的 v2er 们，有没有遇到公寓提供网络，拒绝运营商接入的情况。](https://www.v2ex.com/t/810267)
+* [【2021-10-25】 [站长] 国外能否访问腾讯云的网站？有遇到同样问题的吗？](https://www.v2ex.com/t/810266)
+* [【2021-10-25】 [Apple] 昨天问了天才吧小哥， AC+进水可以保](https://www.v2ex.com/t/810265)
+* [【2021-10-25】 [宽带症候群] 用了 avahi 之后千兆网络的传输速度只有 12MB/s？这是什么奇葩技术？](https://www.v2ex.com/t/810263)
+* [【2021-10-25】 [程序员] 做私活，私活老板不给结算工钱怎么办](https://www.v2ex.com/t/810261)
+* [【2021-10-25】 [Apple] 发货了](https://www.v2ex.com/t/810259)
+* [【2021-10-25】 [iPhone] 有点小激动](https://www.v2ex.com/t/810258)
+* [【2021-10-25】 [问与答] 红米电视搜不到 HDMI 信号，有没有办法把他改成纯显示器使用？](https://www.v2ex.com/t/810257)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-25 01:07:55
+:alarm_clock: 更新时间: 2021-10-25 02:33:05
