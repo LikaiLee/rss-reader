@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-10-25  [Apple] 梳理新款 macbook pro 14/16 争议点，劝一劝那些看了评测想买新款 macbook 的站友。](https://www.v2ex.com/t/810502)
+* [2021-10-25  [Apple] MBP 16' 2019 的用户聊聊看法？](https://www.v2ex.com/t/810501)
+* [2021-10-25  [Apple] mbp14 英寸丐中丐版本渠道商涨价了？](https://www.v2ex.com/t/810500)
 * [2021-10-25  [Apple] 这次 M1 Max 带宽用力过猛了， cpu 才用了不到 250GB/s](https://www.v2ex.com/t/810497)
 * [2021-10-25  [程序员] 优惠券的核销方案](https://www.v2ex.com/t/810496)
 * [2021-10-25  [iPhone] 如何让 safari 在访问视频文件时自动启动 vlc 播放？](https://www.v2ex.com/t/810495)
