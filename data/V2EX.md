@@ -1,6 +1,19 @@
 # V2EX
 
 
+* [2021-10-25  [iOS] iOS15 的输入法联想是不是有点问题？还是就我这样？](https://www.v2ex.com/t/810479)
+* [2021-10-25  [MacBook Pro] 14、16 inch MBP review 出来了！](https://www.v2ex.com/t/810478)
+* [2021-10-25  [Apple] 看了钟文泽视频，感觉新的 mbp 也没那么厚和丑](https://www.v2ex.com/t/810477)
+* [2021-10-25  [宽带症候群] 武汉联通的 ipv6 地址，只能从外面 ping，其他数据全部不通](https://www.v2ex.com/t/810476)
+* [2021-10-25  [酷工作] [上海] 米哈游 2021 年 10 月招聘-程序专场](https://www.v2ex.com/t/810475)
+* [2021-10-25  [Python] Python 有没有什么办法可以判断一个字符串是那种代码类型? Java Python 或者 js 之类?](https://www.v2ex.com/t/810474)
+* [2021-10-25  [Apple] 新款 mbp M1 pro/max 媒体解禁啦，快去看测评吧](https://www.v2ex.com/t/810472)
+* [2021-10-25  [MacBook Pro] 钟文泽： 14 寸 MacBook Pro 评测](https://www.v2ex.com/t/810471)
+* [2021-10-25  [推广] 相约第二年，继续送苹果！](https://www.v2ex.com/t/810470)
+* [2021-10-25  [MacBook Pro] 似乎还是挺香的，可我买不起](https://www.v2ex.com/t/810469)
+* [2021-10-25  [宽带症候群] [持续更新] 南京 2000M 宽带安装记录](https://www.v2ex.com/t/810468)
+* [2021-10-25  [问与答] electron 和 pyqt5/pyside6 在性能、体积、代码安全性上，差别大吗？ 有朋友踩过坑吗](https://www.v2ex.com/t/810467)
+* [2021-10-25  [iPhone] 求手机壳推荐](https://www.v2ex.com/t/810465)
 * [2021-10-25  [macOS] Mac 的 “Redo”（重做）快捷键不能用了，我以为只有我这样，最近听同事说他的也这样](https://www.v2ex.com/t/810464)
 * [2021-10-25  [问与答] 反诈法中的“批量账号、网络地址自动切换系统”指什么？对于爬虫业务是否会有影响](https://www.v2ex.com/t/810462)
 * [2021-10-25  [Diablo II] 最近（2021 年 10 月末）暗黑 2 重制版的这个排队问题是 PC 版独有的还是主机版本也一样？](https://www.v2ex.com/t/810461)
