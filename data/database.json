@@ -28,6 +28,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "SharePlay、Apple ProRes 齐登场，iOS 15.1 值得关注的 6 个更新",
+                "link": "https://sspai.com/post/69441",
+                "published": "2021-10-26"
+            },
+            {
                 "title": "沿海地区的山珍漫游指南：盘点家乡那些奇怪的美食",
                 "link": "https://sspai.com/post/69479",
                 "published": "2021-10-26"
@@ -153,13 +158,113 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[React] 又一款 Readhub 移动客户端",
+                "link": "https://www.v2ex.com/t/810685",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[MySQL] Mysql 中的 JSON 字段如何清洗出来？",
+                "link": "https://www.v2ex.com/t/810684",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 公司要做一个短期项目，需要用到 2020ipad pro，有什么合适的租赁平台吗",
+                "link": "https://www.v2ex.com/t/810683",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 是错觉吗？ AirPods3 的低音比 AirPods Pro 还要强个不少？",
+                "link": "https://www.v2ex.com/t/810682",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[酷工作] 需要精通的 Terraform 的专家，有项目，感兴趣的联系。shizhanpaiedu",
+                "link": "https://www.v2ex.com/t/810681",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] M1 的 monterey 最新版 还是不支持空间音频？",
+                "link": "https://www.v2ex.com/t/810680",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] M1 的机器升级到 macOS Monterey 续航尿崩。",
+                "link": "https://www.v2ex.com/t/810678",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 装机配置咨询，预算 1w5， 3080Ti 单主机，打游戏和玩 VR 用，大神看看合理吗？",
+                "link": "https://www.v2ex.com/t/810677",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[酷工作] [上海腾讯游戏内推] Golang、 Java 、C++、Scala 相关的大佬可以考虑下",
+                "link": "https://www.v2ex.com/t/810676",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] macos12 的 bug 还是挺多的",
+                "link": "https://www.v2ex.com/t/810675",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] 如何从 vscode 打开 finder 的时候不新建一个 finder 窗口？",
+                "link": "https://www.v2ex.com/t/810674",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[宽带症候群] 其实，你的大部分远程访问需求，都可以用端口映射解决",
+                "link": "https://www.v2ex.com/t/810671",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[宽带症候群] 再懒一点：能把 avahi 默认的 .local 修改成更短的 .as 或者 .n 吗？",
+                "link": "https://www.v2ex.com/t/810670",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 你们体验了 homepod 无损播放吗？",
+                "link": "https://www.v2ex.com/t/810669",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[分享发现] 升级了 macOS Money，备忘录支持标签了，假如备忘录支持 md 和双链，可以秒杀市面上绝大部分笔记 app。",
+                "link": "https://www.v2ex.com/t/810665",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 3000 元以内预算手机推荐",
+                "link": "https://www.v2ex.com/t/810664",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] istat menus 似乎无法识别新款 mbp 的温度",
+                "link": "https://www.v2ex.com/t/810663",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[酷工作] [深圳][社招内推] 道创智能 - Python 后端工程师 14K-24K（还有 PLC 机械等其他岗位）",
+                "link": "https://www.v2ex.com/t/810662",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[北京] 求租北京海淀区 3000 平米-20000 平米的场地",
+                "link": "https://www.v2ex.com/t/810659",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[程序员] 基于 golang+uniapp 开发的一套微信小程序电商系统",
+                "link": "https://www.v2ex.com/t/810658",
+                "published": "2021-10-26"
+            },
             {
                 "title": "[MacBook Pro] Xcode 编译速度 16'MBP ( M1max 64G ) 对比 Mac pro (2019 12 核至强) 快 51.4%",
                 "link": "https://www.v2ex.com/t/810657",
@@ -3976,7 +4081,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 20
     },
     {
         "id": 3,
