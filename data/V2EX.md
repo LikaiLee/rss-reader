@@ -1,6 +1,17 @@
 # V2EX
 
 
+* [2021-10-26  [程序员] 一个聚合接口，如何才能优化时延](https://www.v2ex.com/t/810773)
+* [2021-10-26  [macOS] Mac 上微信支持自动登录了](https://www.v2ex.com/t/810772)
+* [2021-10-26  [PHP] 想找一个 PHP 的验证码库](https://www.v2ex.com/t/810770)
+* [2021-10-26  [Apple] 升到 macOS 12.0.1 后， TotalFinder 这款 Finder 插件不能用了](https://www.v2ex.com/t/810769)
+* [2021-10-26  [macOS] [Reddit] Monterey 相较 Big Sur 运行效率显著提升](https://www.v2ex.com/t/810768)
+* [2021-10-26  [macOS] macOS 有没有能让一个屏幕在逻辑上分成两个独立屏幕的软件](https://www.v2ex.com/t/810767)
+* [2021-10-26  [macOS] Macbook air M1 版本升级 macOS 12.01 时提示准备更新时出错](https://www.v2ex.com/t/810766)
+* [2021-10-26  [Steam] 米哈游的原神将来有没有可能上 steam？](https://www.v2ex.com/t/810765)
+* [2021-10-26  [.NET] 如何做一个.NET 破解程序.exe？不用 dnSpy 手动](https://www.v2ex.com/t/810764)
+* [2021-10-26  [问与答] 求问 MBP2021 的 GPU 运算](https://www.v2ex.com/t/810763)
+* [2021-10-26  [iOS] 一直不明白左上角的应用跳转有什么用](https://www.v2ex.com/t/810745)
 * [2021-10-26  [酷工作] [远程] StreamNative 多岗位招聘内推](https://www.v2ex.com/t/810761)
 * [2021-10-26  [分享发现] 为什么要弃掉 CSDN? 带你看看一个涨粉上万的技巧](https://www.v2ex.com/t/810759)
 * [2021-10-26  [Apple] 21 款 M1 MAX MacBook Pro 渲染测试对比（8K RAW ， H.265）](https://www.v2ex.com/t/810758)

@@ -181,6 +181,61 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 一个聚合接口，如何才能优化时延",
+                "link": "https://www.v2ex.com/t/810773",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] Mac 上微信支持自动登录了",
+                "link": "https://www.v2ex.com/t/810772",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[PHP] 想找一个 PHP 的验证码库",
+                "link": "https://www.v2ex.com/t/810770",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 升到 macOS 12.0.1 后， TotalFinder 这款 Finder 插件不能用了",
+                "link": "https://www.v2ex.com/t/810769",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] [Reddit] Monterey 相较 Big Sur 运行效率显著提升",
+                "link": "https://www.v2ex.com/t/810768",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] macOS 有没有能让一个屏幕在逻辑上分成两个独立屏幕的软件",
+                "link": "https://www.v2ex.com/t/810767",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] Macbook air M1 版本升级 macOS 12.01 时提示准备更新时出错",
+                "link": "https://www.v2ex.com/t/810766",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Steam] 米哈游的原神将来有没有可能上 steam？",
+                "link": "https://www.v2ex.com/t/810765",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[.NET] 如何做一个.NET 破解程序.exe？不用 dnSpy 手动",
+                "link": "https://www.v2ex.com/t/810764",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 求问 MBP2021 的 GPU 运算",
+                "link": "https://www.v2ex.com/t/810763",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[iOS] 一直不明白左上角的应用跳转有什么用",
+                "link": "https://www.v2ex.com/t/810745",
+                "published": "2021-10-26"
+            },
+            {
                 "title": "[酷工作] [远程] StreamNative 多岗位招聘内推",
                 "link": "https://www.v2ex.com/t/810761",
                 "published": "2021-10-26"
@@ -4396,7 +4451,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 12
+        "new_feeds": 11
     },
     {
         "id": 3,
