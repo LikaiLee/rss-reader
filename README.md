@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+20】
+* [少数派](#少数派) 【+2】
+* [V2EX](#V2EX) 【+10】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -27,6 +27,8 @@
     </summary>
 
 
+* [【2021-10-26】 具透 | Chrome 和 Edge 95 稳定版更新，它们都有哪些新功能？](https://sspai.com/post/69509)
+* [【2021-10-25】 新款 AirPods 首发体验：新外观、新功能，时隔 5 年的全新升级](https://sspai.com/post/69504)
 * [【2021-10-26】 SharePlay、Apple ProRes 齐登场，iOS 15.1 值得关注的 6 个更新](https://sspai.com/post/69441)
 * [【2021-10-26】 沿海地区的山珍漫游指南：盘点家乡那些奇怪的美食](https://sspai.com/post/69479)
 * [【2021-10-26】 派早报：新款 MacBook Pro、AirPods 正式发售，荣耀 Play5 活力版正式发布等](https://sspai.com/post/69514)
@@ -35,8 +37,6 @@
 * [【2021-10-25】 钱包未动，算盘先行：2021 年新 MacBook Pro 选购指南](https://sspai.com/post/69507)
 * [【2021-10-25】 城市漫步指南：维斯马，一座平凡却难以被取代的城市](https://sspai.com/post/68529)
 * [【2021-10-25】 每天有多少玩家教任天堂做产品？|「世界主宰」的掌机之路 · 叁](https://sspai.com/post/69478)
-* [【2021-10-25】 派早报：索尼推出全画幅微单相机 Alpha 7 IV、大疆将于月底举行发布会等](https://sspai.com/post/69494)
-* [【2021-10-24】 挑一本好看的 2022 年日历，迎接充满希望的虎年](https://sspai.com/post/69434)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-26】 [React] 又一款 Readhub 移动客户端](https://www.v2ex.com/t/810685)
-* [【2021-10-26】 [MySQL] Mysql 中的 JSON 字段如何清洗出来？](https://www.v2ex.com/t/810684)
-* [【2021-10-26】 [问与答] 公司要做一个短期项目，需要用到 2020ipad pro，有什么合适的租赁平台吗](https://www.v2ex.com/t/810683)
-* [【2021-10-26】 [Apple] 是错觉吗？ AirPods3 的低音比 AirPods Pro 还要强个不少？](https://www.v2ex.com/t/810682)
-* [【2021-10-26】 [酷工作] 需要精通的 Terraform 的专家，有项目，感兴趣的联系。shizhanpaiedu](https://www.v2ex.com/t/810681)
-* [【2021-10-26】 [macOS] M1 的 monterey 最新版 还是不支持空间音频？](https://www.v2ex.com/t/810680)
-* [【2021-10-26】 [macOS] M1 的机器升级到 macOS Monterey 续航尿崩。](https://www.v2ex.com/t/810678)
-* [【2021-10-26】 [问与答] 装机配置咨询，预算 1w5， 3080Ti 单主机，打游戏和玩 VR 用，大神看看合理吗？](https://www.v2ex.com/t/810677)
-* [【2021-10-26】 [酷工作] [上海腾讯游戏内推] Golang、 Java 、C++、Scala 相关的大佬可以考虑下](https://www.v2ex.com/t/810676)
-* [【2021-10-26】 [macOS] macos12 的 bug 还是挺多的](https://www.v2ex.com/t/810675)
+* [【2021-10-26】 [Apple] 好像 Monterey 修复了 M1 连接外置显示器闪屏/不间断条纹的问题](https://www.v2ex.com/t/810698)
+* [【2021-10-26】 [Chrome] Windows 平台 Chrome 如何实现平滑缩放和平滑滚动效果？](https://www.v2ex.com/t/810697)
+* [【2021-10-26】 [Apple] 2021 年 10 月 26 日 11:40 「AirPods 3 代」到货了。上海。](https://www.v2ex.com/t/810696)
+* [【2021-10-26】 [Apple] 2021 年 10 月 26 日，推荐入 mba m1 咩？](https://www.v2ex.com/t/810695)
+* [【2021-10-26】 [macOS] MacOS 指定不同应用打开网页所使用的 APP](https://www.v2ex.com/t/810692)
+* [【2021-10-26】 [分享发现] 安利个网站，每当静不下心时可以试试](https://www.v2ex.com/t/810691)
+* [【2021-10-26】 [深圳] 南山农批市场附近，距离南山科技园 5 个公交站，有卫浴和飘窗，独门独户单间 2000 元个人转租](https://www.v2ex.com/t/810690)
+* [【2021-10-26】 [macOS]  给苹果点赞，原来 Safari 支持双击顶部全屏](https://www.v2ex.com/t/810689)
+* [【2021-10-26】 [宽带症候群] 迫于上网，求推荐一个路由器](https://www.v2ex.com/t/810688)
+* [【2021-10-26】 [成都] 成都还有 955 的小公司嘛](https://www.v2ex.com/t/810686)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-26 08:23:56
+:alarm_clock: 更新时间: 2021-10-26 09:19:55

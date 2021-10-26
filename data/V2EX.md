@@ -1,6 +1,16 @@
 # V2EX
 
 
+* [2021-10-26  [Apple] 好像 Monterey 修复了 M1 连接外置显示器闪屏/不间断条纹的问题](https://www.v2ex.com/t/810698)
+* [2021-10-26  [Chrome] Windows 平台 Chrome 如何实现平滑缩放和平滑滚动效果？](https://www.v2ex.com/t/810697)
+* [2021-10-26  [Apple] 2021 年 10 月 26 日 11:40 「AirPods 3 代」到货了。上海。](https://www.v2ex.com/t/810696)
+* [2021-10-26  [Apple] 2021 年 10 月 26 日，推荐入 mba m1 咩？](https://www.v2ex.com/t/810695)
+* [2021-10-26  [macOS] MacOS 指定不同应用打开网页所使用的 APP](https://www.v2ex.com/t/810692)
+* [2021-10-26  [分享发现] 安利个网站，每当静不下心时可以试试](https://www.v2ex.com/t/810691)
+* [2021-10-26  [深圳] 南山农批市场附近，距离南山科技园 5 个公交站，有卫浴和飘窗，独门独户单间 2000 元个人转租](https://www.v2ex.com/t/810690)
+* [2021-10-26  [macOS]  给苹果点赞，原来 Safari 支持双击顶部全屏](https://www.v2ex.com/t/810689)
+* [2021-10-26  [宽带症候群] 迫于上网，求推荐一个路由器](https://www.v2ex.com/t/810688)
+* [2021-10-26  [成都] 成都还有 955 的小公司嘛](https://www.v2ex.com/t/810686)
 * [2021-10-26  [React] 又一款 Readhub 移动客户端](https://www.v2ex.com/t/810685)
 * [2021-10-26  [MySQL] Mysql 中的 JSON 字段如何清洗出来？](https://www.v2ex.com/t/810684)
 * [2021-10-26  [问与答] 公司要做一个短期项目，需要用到 2020ipad pro，有什么合适的租赁平台吗](https://www.v2ex.com/t/810683)

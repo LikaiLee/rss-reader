@@ -28,6 +28,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透 | Chrome 和 Edge 95 稳定版更新，它们都有哪些新功能？",
+                "link": "https://sspai.com/post/69509",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "新款 AirPods 首发体验：新外观、新功能，时隔 5 年的全新升级",
+                "link": "https://sspai.com/post/69504",
+                "published": "2021-10-25"
+            },
+            {
                 "title": "SharePlay、Apple ProRes 齐登场，iOS 15.1 值得关注的 6 个更新",
                 "link": "https://sspai.com/post/69441",
                 "published": "2021-10-26"
@@ -158,13 +168,63 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] 好像 Monterey 修复了 M1 连接外置显示器闪屏/不间断条纹的问题",
+                "link": "https://www.v2ex.com/t/810698",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Chrome] Windows 平台 Chrome 如何实现平滑缩放和平滑滚动效果？",
+                "link": "https://www.v2ex.com/t/810697",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 2021 年 10 月 26 日 11:40 「AirPods 3 代」到货了。上海。",
+                "link": "https://www.v2ex.com/t/810696",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 2021 年 10 月 26 日，推荐入 mba m1 咩？",
+                "link": "https://www.v2ex.com/t/810695",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] MacOS 指定不同应用打开网页所使用的 APP",
+                "link": "https://www.v2ex.com/t/810692",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[分享发现] 安利个网站，每当静不下心时可以试试",
+                "link": "https://www.v2ex.com/t/810691",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[深圳] 南山农批市场附近，距离南山科技园 5 个公交站，有卫浴和飘窗，独门独户单间 2000 元个人转租",
+                "link": "https://www.v2ex.com/t/810690",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS]  给苹果点赞，原来 Safari 支持双击顶部全屏",
+                "link": "https://www.v2ex.com/t/810689",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[宽带症候群] 迫于上网，求推荐一个路由器",
+                "link": "https://www.v2ex.com/t/810688",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[成都] 成都还有 955 的小公司嘛",
+                "link": "https://www.v2ex.com/t/810686",
+                "published": "2021-10-26"
+            },
             {
                 "title": "[React] 又一款 Readhub 移动客户端",
                 "link": "https://www.v2ex.com/t/810685",
@@ -4081,7 +4141,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 20
+        "new_feeds": 10
     },
     {
         "id": 3,
