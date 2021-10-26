@@ -153,13 +153,113 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 2021 年香港投连险（比如保诚雋賦）靠谱吗，现在买值得吗？",
+                "link": "https://www.v2ex.com/t/810640",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] monterey beta 12 升级正式版 卡在剩余大约 52 分钟",
+                "link": "https://www.v2ex.com/t/810639",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[分享发现] 储户 28 亿存款被渤海银行挪用",
+                "link": "https://www.v2ex.com/t/810638",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] 有没有朋友日常使用 mac 上的多用户, 来分享分享使用感受吧",
+                "link": "https://www.v2ex.com/t/810637",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] eGPU 用户们，未来何去何从？",
+                "link": "https://www.v2ex.com/t/810636",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] 升级 12.0.1 后， moom 无法使用了？",
+                "link": "https://www.v2ex.com/t/810635",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 关于戴森 V11 吸头问题",
+                "link": "https://www.v2ex.com/t/810634",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[宽带症候群] 运营商收回公网 IP 的原因之一",
+                "link": "https://www.v2ex.com/t/810633",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 求推荐有线薄膜键盘+鼠标",
+                "link": "https://www.v2ex.com/t/810632",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[生活] 还是上车了",
+                "link": "https://www.v2ex.com/t/810631",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[程序员] 低代码是真火了，夸得官方都不好意思了",
+                "link": "https://www.v2ex.com/t/810630",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[MacBook Pro] 各位，新版 macbook pro 的 magsafe 接口和旧版的兼容吗？",
+                "link": "https://www.v2ex.com/t/810629",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 制作 Bad Apple 字符画（用于在终端里播放），有没有具体思路？",
+                "link": "https://www.v2ex.com/t/810628",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[MacBook Pro] 2021 款的 MacBook pro 选择自动隐藏顶部菜单栏是什么效果?",
+                "link": "https://www.v2ex.com/t/810627",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[ WATCH] 疑似存在 Apple Watch Pro 版本：油管博主在文件发现 Watch Pro logo",
+                "link": "https://www.v2ex.com/t/810626",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 为什么信仰灯没有回归呢？",
+                "link": "https://www.v2ex.com/t/810625",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] 更新到 Monterey 正式版之后的 BUG",
+                "link": "https://www.v2ex.com/t/810622",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[MacBook Pro] Macbook Pro M1 MAX 开箱分享（附跑分）",
+                "link": "https://www.v2ex.com/t/810621",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[iPhone] 关于充电速度",
+                "link": "https://www.v2ex.com/t/810619",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[分享发现] 发现字节开源了一个 Semi Design，这是要对标 Ant Design?",
+                "link": "https://www.v2ex.com/t/810618",
+                "published": "2021-10-26"
+            },
             {
                 "title": "[Apple] 拿到手的朋友，新 MBP 1/2/4/8T 的硬盘速度差别大吗？",
                 "link": "https://www.v2ex.com/t/810616",
@@ -3821,7 +3921,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 20
     },
     {
         "id": 3,
