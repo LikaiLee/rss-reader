@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
 * [V2EX](#V2EX) 【+1】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-26】 [宽带症候群] 气死咯，南天 pon Stick 10G 模块 LOID 注册不上，湖南湘潭电信](https://www.v2ex.com/t/810806)
 * [【2021-10-26】 [宽带症候群] 气死咯，南天 ONU Stick 10G 模块 LOID 注册不上，湖南湘潭电信](https://www.v2ex.com/t/810806)
 * [【2021-10-26】 [MacBook Pro] 我也发个 64+4T 的佛系开箱吧](https://www.v2ex.com/t/810805)
 * [【2021-10-26】 [Apple] 17 年底购买的 macbook pro, 如今蝶式键盘反馈出问题，还可以免费更换吗， 19 年已经换过一次 C 面](https://www.v2ex.com/t/810804)
@@ -55,7 +56,6 @@
 * [【2021-10-26】 [宽带症候群] 华为光猫 udm 进程高断网](https://www.v2ex.com/t/810800)
 * [【2021-10-26】 [宽带症候群] 南宁国家级互联网骨干直联点 好像已经建成了 电信访问移动已经本地交换了 不需要去到广州了](https://www.v2ex.com/t/810799)
 * [【2021-10-26】 [RSS] iOS 端 NetsNewsWire 无法订阅 https://www.solidot.org/index.rss，求解？](https://www.v2ex.com/t/810798)
-* [【2021-10-26】 [Apple] macos12 修复了一个可能不常留意的 BUG](https://www.v2ex.com/t/810797)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -65,6 +65,7 @@
     </summary>
 
 
+* [【2021-10-26】 游戏系统拆解：明日方舟 / Game system: Arknights](http://zhuanlan.zhihu.com/p/413367446?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-26】 走好科学“退煤”路，助力实现“双碳”目标](http://zhuanlan.zhihu.com/p/425647032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-26】 彻底干掉了前摄的小米MIX，未来在何方？](http://zhuanlan.zhihu.com/p/425793169?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-25】 纪念志愿军抗美援朝出国作战 71 周年，哪些「最可爱的人」的故事让你记忆深刻？](http://www.zhihu.com/question/494388383/answer/2188254476?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -74,7 +75,6 @@
 * [【2021-10-25】 如何看待李云迪在被通报嫖娼后，李云迪母校四川音乐学院火速摘掉「李云迪钢琴工作室」牌子？](http://www.zhihu.com/question/493886418/answer/2187693027?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-23】 如今「网红打卡地」泛滥，褪下滤镜后还有哪些值得一去的旅行目的地？](http://www.zhihu.com/question/491721079/answer/2167443272?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-22】 媒体评价李云迪被拘是「自作孽不可活」，其音乐家协会会员被取消，广州城市形象代言人被终止，他彻底糊了吗？](http://www.zhihu.com/question/493814225/answer/2182923238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-10-22】 为什么汽车不能设计成快撞车就自动刹车？](http://www.zhihu.com/question/20498808/answer/2183501118?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-26 18:23:01
+:alarm_clock: 更新时间: 2021-10-26 19:14:19

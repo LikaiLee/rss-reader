@@ -181,6 +181,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[宽带症候群] 气死咯，南天 pon Stick 10G 模块 LOID 注册不上，湖南湘潭电信",
+                "link": "https://www.v2ex.com/t/810806",
+                "published": "2021-10-26"
+            },
+            {
                 "title": "[宽带症候群] 气死咯，南天 ONU Stick 10G 模块 LOID 注册不上，湖南湘潭电信",
                 "link": "https://www.v2ex.com/t/810806",
                 "published": "2021-10-26"
@@ -4604,6 +4609,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "游戏系统拆解：明日方舟 / Game system: Arknights",
+                "link": "http://zhuanlan.zhihu.com/p/413367446?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-26"
+            },
+            {
                 "title": "走好科学“退煤”路，助力实现“双碳”目标",
                 "link": "http://zhuanlan.zhihu.com/p/425647032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2021-10-26"
@@ -4959,6 +4969,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
