@@ -181,6 +181,66 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[酷工作] [远程] StreamNative 多岗位招聘内推",
+                "link": "https://www.v2ex.com/t/810761",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[分享发现] 为什么要弃掉 CSDN? 带你看看一个涨粉上万的技巧",
+                "link": "https://www.v2ex.com/t/810759",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 21 款 M1 MAX MacBook Pro 渲染测试对比（8K RAW ， H.265）",
+                "link": "https://www.v2ex.com/t/810758",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 想问一下为何 nginx 缓存不生效",
+                "link": "https://www.v2ex.com/t/810755",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] AirPods 3 体验",
+                "link": "https://www.v2ex.com/t/810754",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] macos screen sharing app 是不是用了一些私有技术做 VNC/RFB 了？",
+                "link": "https://www.v2ex.com/t/810752",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 单只 homepod 的朋友，升到 15.1 之后记得把全景声关了...",
+                "link": "https://www.v2ex.com/t/810751",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[服务器] 服务器不能 ping GitHub 怎么解决",
+                "link": "https://www.v2ex.com/t/810749",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 梳理新款 macbook pro 14/16 争议点，劝一劝那些为黑而黑的 mikywei 们",
+                "link": "https://www.v2ex.com/t/810747",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[NGINX] 如何盡量關閉 Nginx 的所有快取",
+                "link": "https://www.v2ex.com/t/810746",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[iPhone] 一直不明白左上角的应用跳转有什么用",
+                "link": "https://www.v2ex.com/t/810745",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[分享发现] QQ 消息 风控/限制",
+                "link": "https://www.v2ex.com/t/810744",
+                "published": "2021-10-26"
+            },
+            {
                 "title": "[iOS] 最新的 15.1 更完后， FaceTime 拨打的时候会音爆一下",
                 "link": "https://www.v2ex.com/t/810743",
                 "published": "2021-10-26"
@@ -4336,7 +4396,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 13
+        "new_feeds": 12
     },
     {
         "id": 3,
