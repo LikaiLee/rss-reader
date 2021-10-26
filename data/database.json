@@ -181,6 +181,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] 我也发个 64+4T 的佛系开箱吧",
+                "link": "https://www.v2ex.com/t/810805",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 17 年底购买的 macbook pro, 如今蝶式键盘反馈出问题，还可以免费更换吗， 19 年已经换过一次 C 面",
+                "link": "https://www.v2ex.com/t/810804",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[奇思妙想] 突发奇想， 2021 MacBook Pro 刘海左右内容，让 App 自定义拓展就完美了",
+                "link": "https://www.v2ex.com/t/810803",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 马后炮而论， M1 Macbook Air 是否成为一代经典？",
+                "link": "https://www.v2ex.com/t/810802",
+                "published": "2021-10-26"
+            },
+            {
                 "title": "[Windows] 更新 win11 后， sandboxie 内打不开资源管理器了",
                 "link": "https://www.v2ex.com/t/810801",
                 "published": "2021-10-26"
@@ -4571,7 +4591,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 14
+        "new_feeds": 4
     },
     {
         "id": 3,

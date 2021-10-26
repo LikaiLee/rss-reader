@@ -1,6 +1,10 @@
 # V2EX
 
 
+* [2021-10-26  [MacBook Pro] 我也发个 64+4T 的佛系开箱吧](https://www.v2ex.com/t/810805)
+* [2021-10-26  [Apple] 17 年底购买的 macbook pro, 如今蝶式键盘反馈出问题，还可以免费更换吗， 19 年已经换过一次 C 面](https://www.v2ex.com/t/810804)
+* [2021-10-26  [奇思妙想] 突发奇想， 2021 MacBook Pro 刘海左右内容，让 App 自定义拓展就完美了](https://www.v2ex.com/t/810803)
+* [2021-10-26  [Apple] 马后炮而论， M1 Macbook Air 是否成为一代经典？](https://www.v2ex.com/t/810802)
 * [2021-10-26  [Windows] 更新 win11 后， sandboxie 内打不开资源管理器了](https://www.v2ex.com/t/810801)
 * [2021-10-26  [宽带症候群] 华为光猫 udm 进程高断网](https://www.v2ex.com/t/810800)
 * [2021-10-26  [宽带症候群] 南宁国家级互联网骨干直联点 好像已经建成了 电信访问移动已经本地交换了 不需要去到广州了](https://www.v2ex.com/t/810799)
