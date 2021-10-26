@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+22】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+11】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-26】 沿海地区的山珍漫游指南：盘点家乡那些奇怪的美食](https://sspai.com/post/69479)
 * [【2021-10-26】 派早报：新款 MacBook Pro、AirPods 正式发售，荣耀 Play5 活力版正式发布等](https://sspai.com/post/69514)
 * [【2021-10-25】 新款 AirPods 首发体验：新外观、新功能，史上最大的一次升级](https://sspai.com/post/69504)
 * [【2021-10-25】 派评 | 近期值得关注的 App](https://sspai.com/post/69506)
@@ -36,7 +37,6 @@
 * [【2021-10-25】 派早报：索尼推出全画幅微单相机 Alpha 7 IV、大疆将于月底举行发布会等](https://sspai.com/post/69494)
 * [【2021-10-24】 挑一本好看的 2022 年日历，迎接充满希望的虎年](https://sspai.com/post/69434)
 * [【2021-10-24】 咖啡怎么喝出风味？教你如何在家做感官训练](https://sspai.com/post/69487)
-* [【2021-10-23】 你也可以轻松修复老照片——看 AI 如何让它们焕发新生](https://sspai.com/post/69472)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-26】 [酷工作] [快手] 持续内推移动端， Android 、iOS 均有职位，欢迎咨询](https://www.v2ex.com/t/810604)
-* [【2021-10-26】 [SONY] 索尼发布新一代拍照智能手机 Xperia PRO-I](https://www.v2ex.com/t/810603)
-* [【2021-10-26】 [程序员] 有没有大佬做过日志回放功能的，有好的点子吗！ 真心提问](https://www.v2ex.com/t/810602)
-* [【2021-10-26】 [Apple] 有没有大佬测试下 Dota2 的游玩效果，画质帧率散热什么的](https://www.v2ex.com/t/810601)
-* [【2021-10-26】 [Apple] 各位大佬，实在是遇到难题了， Safari 地址栏输入某些内容的时候卡顿](https://www.v2ex.com/t/810600)
-* [【2021-10-26】 [iPad] 还有多少人跟我一样在蹲 iPad mini 蜂窝...](https://www.v2ex.com/t/810599)
-* [【2021-10-26】 [Apple] 看了 macbook pro 评测视频](https://www.v2ex.com/t/810598)
-* [【2021-10-26】 [程序员] 请教下大佬们 web Ar 相关的问题](https://www.v2ex.com/t/810597)
-* [【2021-10-26】 [问与答] 支付方案求助](https://www.v2ex.com/t/810596)
-* [【2021-10-26】 [分享创造] 识字、学算术，真是太不容易了。](https://www.v2ex.com/t/810595)
+* [【2021-10-26】 [Apple] 拿到手的朋友，新 MBP 1/2/4/8T 的硬盘速度差别大吗？](https://www.v2ex.com/t/810616)
+* [【2021-10-26】 [问与答] 如何预览单色显示屏的效果？](https://www.v2ex.com/t/810615)
+* [【2021-10-26】 [分享创造] 2022 法定假期日历订阅 🏝](https://www.v2ex.com/t/810614)
+* [【2021-10-26】 [Apple] 苹果🍎真"坑"](https://www.v2ex.com/t/810613)
+* [【2021-10-26】 [Apple] 似乎是 Apple 想在 macOS 上发力游戏的一个证据](https://www.v2ex.com/t/810611)
+* [【2021-10-26】 [Apple] 新款 mbp GPU 那么强，那么现在有什么大型游戏可以玩](https://www.v2ex.com/t/810610)
+* [【2021-10-26】 [MacBook Pro] 看了几个开箱，发现刘海是真的不能忍](https://www.v2ex.com/t/810609)
+* [【2021-10-26】 [MacBook Pro] macbook 能否像手机那样开启节能模式呢？](https://www.v2ex.com/t/810608)
+* [【2021-10-26】 [酷工作] [赴日] 对日外包开发公司招人啦~~~](https://www.v2ex.com/t/810607)
+* [【2021-10-26】 [Apple] MacOS Monterey 正式版 软件兼容情况及 Bug 汇总](https://www.v2ex.com/t/810606)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-26 04:26:05
+:alarm_clock: 更新时间: 2021-10-26 05:17:49

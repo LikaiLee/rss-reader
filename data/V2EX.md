@@ -1,6 +1,17 @@
 # V2EX
 
 
+* [2021-10-26  [Apple] 拿到手的朋友，新 MBP 1/2/4/8T 的硬盘速度差别大吗？](https://www.v2ex.com/t/810616)
+* [2021-10-26  [问与答] 如何预览单色显示屏的效果？](https://www.v2ex.com/t/810615)
+* [2021-10-26  [分享创造] 2022 法定假期日历订阅 🏝](https://www.v2ex.com/t/810614)
+* [2021-10-26  [Apple] 苹果🍎真"坑"](https://www.v2ex.com/t/810613)
+* [2021-10-26  [Apple] 似乎是 Apple 想在 macOS 上发力游戏的一个证据](https://www.v2ex.com/t/810611)
+* [2021-10-26  [Apple] 新款 mbp GPU 那么强，那么现在有什么大型游戏可以玩](https://www.v2ex.com/t/810610)
+* [2021-10-26  [MacBook Pro] 看了几个开箱，发现刘海是真的不能忍](https://www.v2ex.com/t/810609)
+* [2021-10-26  [MacBook Pro] macbook 能否像手机那样开启节能模式呢？](https://www.v2ex.com/t/810608)
+* [2021-10-26  [酷工作] [赴日] 对日外包开发公司招人啦~~~](https://www.v2ex.com/t/810607)
+* [2021-10-26  [Apple] MacOS Monterey 正式版 软件兼容情况及 Bug 汇总](https://www.v2ex.com/t/810606)
+* [2021-10-26  [微信] 我有个微信联系人，我给她备注了 WQQ 的中文名，输入 WQ 能出来，输入 WQQ 出不来，你说这是什么鬼？](https://www.v2ex.com/t/810605)
 * [2021-10-26  [酷工作] [快手] 持续内推移动端， Android 、iOS 均有职位，欢迎咨询](https://www.v2ex.com/t/810604)
 * [2021-10-26  [SONY] 索尼发布新一代拍照智能手机 Xperia PRO-I](https://www.v2ex.com/t/810603)
 * [2021-10-26  [程序员] 有没有大佬做过日志回放功能的，有好的点子吗！ 真心提问](https://www.v2ex.com/t/810602)
