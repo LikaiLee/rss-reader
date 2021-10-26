@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+9】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+30】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-26】 派早报：新款 MacBook Pro、AirPods 正式发售，荣耀 Play5 活力版正式发布等](https://sspai.com/post/69514)
 * [【2021-10-25】 新款 AirPods 首发体验：新外观、新功能，史上最大的一次升级](https://sspai.com/post/69504)
 * [【2021-10-25】 派评 | 近期值得关注的 App](https://sspai.com/post/69506)
 * [【2021-10-25】 钱包未动，算盘先行：2021 年新 MacBook Pro 选购指南](https://sspai.com/post/69507)
@@ -36,7 +37,6 @@
 * [【2021-10-24】 挑一本好看的 2022 年日历，迎接充满希望的虎年](https://sspai.com/post/69434)
 * [【2021-10-24】 咖啡怎么喝出风味？教你如何在家做感官训练](https://sspai.com/post/69487)
 * [【2021-10-23】 你也可以轻松修复老照片——看 AI 如何让它们焕发新生](https://sspai.com/post/69472)
-* [【2021-10-23】 如果着火了，地铁怎样保证我们的安全？](https://sspai.com/post/69234)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,17 +46,17 @@
     </summary>
 
 
-* [【2021-10-26】 [问与答] macos 下有用键盘方便控制鼠标的 app 么？](https://www.v2ex.com/t/810522)
-* [【2021-10-26】 [程序员] 为什么帖子会 302 重定向了，是内容触发什么了吗？](https://www.v2ex.com/t/810521)
-* [【2021-10-26】 [程序员] 带哥们求推荐一款笔记本，目前选了几款很纠结](https://www.v2ex.com/t/810519)
-* [【2021-10-26】 [程序员] 个人博客数据库选 MariaDB 还是 PostgreSQL 好呢？，我用 typecho](https://www.v2ex.com/t/810518)
-* [【2021-10-26】 [Apple] cleaner than cleaner](https://www.v2ex.com/t/810517)
-* [【2021-10-26】 [问与答] 问个知识付费相关的问题：
-我买了个网课，然后自己学习之后，又把学习笔记（里面可能有很多课程的内容），放到了网上，这样属于侵权吗？有相关的法律条文吗](https://www.v2ex.com/t/810515)
-* [【2021-10-26】 [分享发现] 支付宝首页的各种卡片可以关掉啦！](https://www.v2ex.com/t/810512)
-* [【2021-10-26】 [推广] 盖楼抽奖｜写了一个极客时间返现网站｜抽 40 人的鸡腿钱](https://www.v2ex.com/t/810511)
-* [【2021-10-25】 [Android] 截图色差，同一张截图，手机和电脑显示色调不一样，以及 Windows 照片查看器报错](https://www.v2ex.com/t/810510)
-* [【2021-10-25】 [MacBook Pro] 24 core GPU 512g ssd 和 16 core GPU 1t ssd 怎么选？](https://www.v2ex.com/t/810509)
+* [【2021-10-26】 [SSH] 请教一下，关于 SSH 指纹使用代理会发生变化？](https://www.v2ex.com/t/810558)
+* [【2021-10-26】 [程序员] 新款 mbp 好虽好，但更像是为图像影音编辑人员准备的！](https://www.v2ex.com/t/810557)
+* [【2021-10-26】 [酷工作] [北京] [上市美企] Sr.
+Android/iOS Engineer](https://www.v2ex.com/t/810555)
+* [【2021-10-26】 [程序员] 求推荐人力资源管理模板，开源免费的那种](https://www.v2ex.com/t/810552)
+* [【2021-10-26】 [程序员] 日文 OCR 问题](https://www.v2ex.com/t/810551)
+* [【2021-10-26】 [iDev] 香港开发者帐号付费问题](https://www.v2ex.com/t/810550)
+* [【2021-10-26】 [iDev] 疑问, iOS15 设置界面的广告是原生的吗](https://www.v2ex.com/t/810549)
+* [【2021-10-26】 [程序员] 关于 Java 调用命令行的问题](https://www.v2ex.com/t/810548)
+* [【2021-10-26】 [问与答] 下载 B 站的 4k 视频](https://www.v2ex.com/t/810547)
+* [【2021-10-26】 [Apple] Apple Notes 更新后， Bear 还有存在的意义吗？](https://www.v2ex.com/t/810546)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-26 01:02:58
+:alarm_clock: 更新时间: 2021-10-26 02:30:25

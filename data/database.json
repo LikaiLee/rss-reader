@@ -28,6 +28,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：新款 MacBook Pro、AirPods 正式发售，荣耀 Play5 活力版正式发布等",
+                "link": "https://sspai.com/post/69514",
+                "published": "2021-10-26"
+            },
+            {
                 "title": "新款 AirPods 首发体验：新外观、新功能，史上最大的一次升级",
                 "link": "https://sspai.com/post/69504",
                 "published": "2021-10-25"
@@ -143,13 +148,163 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[SSH] 请教一下，关于 SSH 指纹使用代理会发生变化？",
+                "link": "https://www.v2ex.com/t/810558",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[程序员] 新款 mbp 好虽好，但更像是为图像影音编辑人员准备的！",
+                "link": "https://www.v2ex.com/t/810557",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[酷工作] [北京] [上市美企] Sr.\nAndroid/iOS Engineer",
+                "link": "https://www.v2ex.com/t/810555",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[程序员] 求推荐人力资源管理模板，开源免费的那种",
+                "link": "https://www.v2ex.com/t/810552",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[程序员] 日文 OCR 问题",
+                "link": "https://www.v2ex.com/t/810551",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[iDev] 香港开发者帐号付费问题",
+                "link": "https://www.v2ex.com/t/810550",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[iDev] 疑问, iOS15 设置界面的广告是原生的吗",
+                "link": "https://www.v2ex.com/t/810549",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[程序员] 关于 Java 调用命令行的问题",
+                "link": "https://www.v2ex.com/t/810548",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 下载 B 站的 4k 视频",
+                "link": "https://www.v2ex.com/t/810547",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] Apple Notes 更新后， Bear 还有存在的意义吗？",
+                "link": "https://www.v2ex.com/t/810546",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[罗技] 鼠友们:我的 G304 鼠标指针偶尔会飞,装了官方驱动问题还会有,你们遇到过这种情况吗？",
+                "link": "https://www.v2ex.com/t/810545",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] mbp 有物流信息的来打个卡",
+                "link": "https://www.v2ex.com/t/810543",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Go 编程语言] 请教彦祖，如何根据用户请求 URI 返回不同的文件内容呢",
+                "link": "https://www.v2ex.com/t/810542",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 21‘ MBP16 定制版到货",
+                "link": "https://www.v2ex.com/t/810541",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[投资] 只炒指数基金怎么最大化获利？",
+                "link": "https://www.v2ex.com/t/810540",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] iOS15.1 来了，同播共享应该可以用了",
+                "link": "https://www.v2ex.com/t/810539",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 这句话对吗：外观选 air，性能选 pro",
+                "link": "https://www.v2ex.com/t/810538",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[奇思妙想] 2022 年放假安排来了！",
+                "link": "https://www.v2ex.com/t/810537",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] Spotify 国内 Visa 没法用，有没有靠谱的上车渠道？",
+                "link": "https://www.v2ex.com/t/810536",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[酷工作] 西安 UE4 开发",
+                "link": "https://www.v2ex.com/t/810535",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] MacBook Pro 可以直营店线下取货了，部分型号现货",
+                "link": "https://www.v2ex.com/t/810534",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] M1 max Anandtech 测评链接 https://www.anandtech.com/show/17024/apple-m1-max-performance-review",
+                "link": "https://www.v2ex.com/t/810532",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] iPhone AirPlay 到 macOS Monterey 非常流畅、非常跟手，画质和延时比肩华为的多屏协同",
+                "link": "https://www.v2ex.com/t/810531",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 求找回一个科技信息类网站",
+                "link": "https://www.v2ex.com/t/810530",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 更新了 MacOS Monterey，感觉牛爆了",
+                "link": "https://www.v2ex.com/t/810529",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[职场话题] 有人用过成都市的劳动纠纷多元化解平台吗？",
+                "link": "https://www.v2ex.com/t/810527",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[MacBook Pro] 适合程序员的新款 MacBook Pro，究竟选哪一款",
+                "link": "https://www.v2ex.com/t/810526",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 各大人脸识别 SDK 有能支持 HTML5 实时摄像头认证的吗？",
+                "link": "https://www.v2ex.com/t/810525",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 谁知道 WeChat 海外域名都有哪些",
+                "link": "https://www.v2ex.com/t/810524",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[推广] 有没有美国的朋友需要购买毛毯之类的家居用品，我们在做促销",
+                "link": "https://www.v2ex.com/t/810523",
+                "published": "2021-10-26"
+            },
             {
                 "title": "[问与答] macos 下有用键盘方便控制鼠标的 app 么？",
                 "link": "https://www.v2ex.com/t/810522",
@@ -3406,7 +3561,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 30
     },
     {
         "id": 3,
