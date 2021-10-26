@@ -168,13 +168,103 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[iPhone] wechat 转区的规则是不是改了",
+                "link": "https://www.v2ex.com/t/810719",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] 请教在最新系统下安装旧版本虚拟机的正确方式",
+                "link": "https://www.v2ex.com/t/810717",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] 更新 Xcode 到现在",
+                "link": "https://www.v2ex.com/t/810716",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[全球工单系统] 红鱼 rubyfish 的 DOH 服务持续 503",
+                "link": "https://www.v2ex.com/t/810715",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 非原装的 AirPods 2，到哪里去修？",
+                "link": "https://www.v2ex.com/t/810714",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] 删除 ABC 英文输入法后有办法在系统登录画面默认鼠须管为默认输入法吗？",
+                "link": "https://www.v2ex.com/t/810712",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[酷工作] [北京小米内推]求 Golang/ PHP 大佬投递",
+                "link": "https://www.v2ex.com/t/810711",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 最近有人在苹果教育商店下单吗，都收到资格审核邮件没？",
+                "link": "https://www.v2ex.com/t/810710",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 为什么菜栏单和刘海高度不相同？！",
+                "link": "https://www.v2ex.com/t/810709",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[音乐] 用 airpods 听无损一点用都没有吗？",
+                "link": "https://www.v2ex.com/t/810708",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] topnotch.app 这个网址为新 mbp 隐藏刘海的解决方案好用么？",
+                "link": "https://www.v2ex.com/t/810707",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[分享发现] 再发一遍，我不是骗子钓鱼！",
+                "link": "https://www.v2ex.com/t/810706",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 16 寸 M1 MAX 32G 1T 标款体验",
+                "link": "https://www.v2ex.com/t/810705",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 关于鸿蒙 os 分布式软总线的问题",
+                "link": "https://www.v2ex.com/t/810703",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[微软] 微软 HR 够恶心的",
+                "link": "https://www.v2ex.com/t/810702",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[分享创造] 19 岁，删掉了我 5 年的项目，写了她",
+                "link": "https://www.v2ex.com/t/810701",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Coding] 2021 腾讯数字生态大会重磅来袭",
+                "link": "https://www.v2ex.com/t/810700",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] AirPods 3 已到货，说说个人感受",
+                "link": "https://www.v2ex.com/t/810699",
+                "published": "2021-10-26"
+            },
             {
                 "title": "[Apple] 好像 Monterey 修复了 M1 连接外置显示器闪屏/不间断条纹的问题",
                 "link": "https://www.v2ex.com/t/810698",
@@ -4141,7 +4231,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 18
     },
     {
         "id": 3,
