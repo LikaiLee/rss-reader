@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+7】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+13】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-26】 [问与答] 这个开源软件有大佬用过么](https://www.v2ex.com/t/810725)
-* [【2021-10-26】 [问与答] 这种是诈骗吗？](https://www.v2ex.com/t/810724)
-* [【2021-10-26】 [Apple] MacBook Pro 到底选银色还是深空灰？哪个会掉色？](https://www.v2ex.com/t/810722)
-* [【2021-10-26】 [Apple] macbook Pro 14/16 512Gb 在路上，麻烦到手的测试一下读写速度，想取消掉换个 1T 版本，标的速度最高可达 7.4GB/s 是拿 8T 版本测试的， 1T 好像能跑到 5G 多，不知道 512 的能跑到多少？](https://www.v2ex.com/t/810721)
-* [【2021-10-26】 [Apple] Monterey 的这个手机向 mac 投屏，还挺流畅的，延时也极低](https://www.v2ex.com/t/810720)
-* [【2021-10-26】 [微信] wechat 转区的规则是不是改了](https://www.v2ex.com/t/810719)
-* [【2021-10-26】 [MacBook Pro] 16 寸 M1 MAX 32G 1T 标款体验](https://www.v2ex.com/t/810705)
-* [【2021-10-26】 [iPhone] wechat 转区的规则是不是改了](https://www.v2ex.com/t/810719)
-* [【2021-10-26】 [macOS] 请教在最新系统下安装旧版本虚拟机的正确方式](https://www.v2ex.com/t/810717)
-* [【2021-10-26】 [macOS] 更新 Xcode 到现在](https://www.v2ex.com/t/810716)
+* [【2021-10-26】 [iOS] 最新的 15.1 更完后， FaceTime 拨打的时候会音爆一下](https://www.v2ex.com/t/810743)
+* [【2021-10-26】 [广州] 广州周边位置还有没潜力比较好的楼盘可以上车？](https://www.v2ex.com/t/810742)
+* [【2021-10-26】 [iPad] 各位用蜂窝版 iPad 的朋友，有什么好的运营商流量 SIM 卡推荐（中国大陆）](https://www.v2ex.com/t/810741)
+* [【2021-10-26】 [问与答] 青龙面板是什么东西？](https://www.v2ex.com/t/810740)
+* [【2021-10-26】 [全球工单系统] 支付宝 地区设置为海外后，首页管理功能缺失](https://www.v2ex.com/t/810739)
+* [【2021-10-26】 [酷工作] [远程！]｜ [句子互动] 机器学习工程师实习生[200 元～ 500 元+/天]](https://www.v2ex.com/t/810738)
+* [【2021-10-26】 [问与答] GitHub 上可以搜索含有通配符的内容吗？](https://www.v2ex.com/t/810736)
+* [【2021-10-26】 [macOS] macOS 12 鼠标移到屏幕右下角，会弹出一个快速备忘录小窗](https://www.v2ex.com/t/810735)
+* [【2021-10-26】 [iOS] 请问 ios15.0.2 有什么通病？](https://www.v2ex.com/t/810733)
+* [【2021-10-26】 [.NET] 客户端雷达图实现](https://www.v2ex.com/t/810732)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-26 11:16:26
+:alarm_clock: 更新时间: 2021-10-26 12:31:38
