@@ -181,6 +181,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[宽带症候群] 气死咯，南天 ONU Stick 10G 模块 LOID 注册不上，湖南湘潭电信",
+                "link": "https://www.v2ex.com/t/810806",
+                "published": "2021-10-26"
+            },
+            {
                 "title": "[MacBook Pro] 我也发个 64+4T 的佛系开箱吧",
                 "link": "https://www.v2ex.com/t/810805",
                 "published": "2021-10-26"
@@ -4591,7 +4596,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 3,

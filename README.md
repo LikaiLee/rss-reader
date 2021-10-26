@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+4】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-26】 [宽带症候群] 气死咯，南天 ONU Stick 10G 模块 LOID 注册不上，湖南湘潭电信](https://www.v2ex.com/t/810806)
 * [【2021-10-26】 [MacBook Pro] 我也发个 64+4T 的佛系开箱吧](https://www.v2ex.com/t/810805)
 * [【2021-10-26】 [Apple] 17 年底购买的 macbook pro, 如今蝶式键盘反馈出问题，还可以免费更换吗， 19 年已经换过一次 C 面](https://www.v2ex.com/t/810804)
 * [【2021-10-26】 [奇思妙想] 突发奇想， 2021 MacBook Pro 刘海左右内容，让 App 自定义拓展就完美了](https://www.v2ex.com/t/810803)
@@ -55,7 +56,6 @@
 * [【2021-10-26】 [宽带症候群] 南宁国家级互联网骨干直联点 好像已经建成了 电信访问移动已经本地交换了 不需要去到广州了](https://www.v2ex.com/t/810799)
 * [【2021-10-26】 [RSS] iOS 端 NetsNewsWire 无法订阅 https://www.solidot.org/index.rss，求解？](https://www.v2ex.com/t/810798)
 * [【2021-10-26】 [Apple] macos12 修复了一个可能不常留意的 BUG](https://www.v2ex.com/t/810797)
-* [【2021-10-26】 [电影] 能让朋友照片模仿视频中动作的 APP](https://www.v2ex.com/t/810796)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-26 17:23:18
+:alarm_clock: 更新时间: 2021-10-26 18:23:01

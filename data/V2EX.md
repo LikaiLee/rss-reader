@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-10-26  [宽带症候群] 气死咯，南天 ONU Stick 10G 模块 LOID 注册不上，湖南湘潭电信](https://www.v2ex.com/t/810806)
 * [2021-10-26  [MacBook Pro] 我也发个 64+4T 的佛系开箱吧](https://www.v2ex.com/t/810805)
 * [2021-10-26  [Apple] 17 年底购买的 macbook pro, 如今蝶式键盘反馈出问题，还可以免费更换吗， 19 年已经换过一次 C 面](https://www.v2ex.com/t/810804)
 * [2021-10-26  [奇思妙想] 突发奇想， 2021 MacBook Pro 刘海左右内容，让 App 自定义拓展就完美了](https://www.v2ex.com/t/810803)
