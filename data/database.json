@@ -181,6 +181,56 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[微信] Windows10 微信可以自动登录了\n\n微信版本： 3.4.038",
+                "link": "https://www.v2ex.com/t/810787",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[iOS] iOS/iPadOS 设备在路由器显示的名称很奇怪，与手机上设置的不一样。",
+                "link": "https://www.v2ex.com/t/810786",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] Monterey 好像修复了 19 年 16 寸的爆音问题",
+                "link": "https://www.v2ex.com/t/810784",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 哪款团队协作软件最适合跨国成员的使用？企微/钉钉/Teams/飞书/Slack ...",
+                "link": "https://www.v2ex.com/t/810783",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[宽带症候群] IPv6 隧道都是通过服务器中转的吗",
+                "link": "https://www.v2ex.com/t/810782",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] yoga14s 如何通过雷电 4 接口外接 2k 显示器？",
+                "link": "https://www.v2ex.com/t/810781",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[奇思妙想] 如果给游戏的开发者们换成 3 年前的设备， chrome 开发者换成 2G 内存的 PC，这个世界会不会变的更美好一些",
+                "link": "https://www.v2ex.com/t/810780",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 请教大家：新 Mac Book Pro 14 寸哪款包包比较合适",
+                "link": "https://www.v2ex.com/t/810778",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[分享创造] [共享] 2022 中国大陆法定节假日",
+                "link": "https://www.v2ex.com/t/810777",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[微信] 微信能支持 ios 的 deep link 跳转到公众号吗",
+                "link": "https://www.v2ex.com/t/810776",
+                "published": "2021-10-26"
+            },
+            {
                 "title": "[程序员] 一个聚合接口，如何才能优化时延",
                 "link": "https://www.v2ex.com/t/810773",
                 "published": "2021-10-26"
@@ -4451,7 +4501,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 10
     },
     {
         "id": 3,
