@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-10-26  [职场话题] CSIG 史上最恶心校招](https://www.v2ex.com/t/810809)
+* [2021-10-26  [Apple] 🇰🇷限制 Find My 查找功能的使用](https://www.v2ex.com/t/810808)
 * [2021-10-26  [宽带症候群] 气死咯，南天 pon Stick 10G 模块 LOID 注册不上，湖南湘潭电信](https://www.v2ex.com/t/810806)
 * [2021-10-26  [宽带症候群] 气死咯，南天 ONU Stick 10G 模块 LOID 注册不上，湖南湘潭电信](https://www.v2ex.com/t/810806)
 * [2021-10-26  [MacBook Pro] 我也发个 64+4T 的佛系开箱吧](https://www.v2ex.com/t/810805)

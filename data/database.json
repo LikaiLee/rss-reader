@@ -181,6 +181,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[职场话题] CSIG 史上最恶心校招",
+                "link": "https://www.v2ex.com/t/810809",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 🇰🇷限制 Find My 查找功能的使用",
+                "link": "https://www.v2ex.com/t/810808",
+                "published": "2021-10-26"
+            },
+            {
                 "title": "[宽带症候群] 气死咯，南天 pon Stick 10G 模块 LOID 注册不上，湖南湘潭电信",
                 "link": "https://www.v2ex.com/t/810806",
                 "published": "2021-10-26"
@@ -4601,7 +4611,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 3,
