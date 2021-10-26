@@ -1,6 +1,24 @@
 # V2EX
 
 
+* [2021-10-26  [Apple] 新 MacBook Pro 16 真的厚了很多吗，数据说话。](https://www.v2ex.com/t/810581)
+* [2021-10-26  [问与答] 作为程序员，现在购买 19 款 16 寸 i7macbookpro 是否可行？](https://www.v2ex.com/t/810579)
+* [2021-10-26  [macOS] 升级 macOS Monterey 后显示器 Type-c 无法供电，有返乡供电的显示器的谨慎升级](https://www.v2ex.com/t/810578)
+* [2021-10-26  [宽带症候群] 家里的宽带测速只有特定节点才能跑满](https://www.v2ex.com/t/810577)
+* [2021-10-26  [Windows] 升级 win11 后， ctrl+shift+esc 呼不出任务管理器了？](https://www.v2ex.com/t/810576)
+* [2021-10-26  [推广] 当项目经理让我负责数据展示功能开发，我的内心为什么是拒绝的？](https://www.v2ex.com/t/810575)
+* [2021-10-26  [酷工作] [上海][社招内推] 莉莉丝游戏 后端开发工程师（内部平台方向）Go/ Java [其他岗位也可内推]](https://www.v2ex.com/t/810574)
+* [2021-10-26  [MacBook Pro] MBP 换机请教](https://www.v2ex.com/t/810573)
+* [2021-10-26  [酷工作] [远程] 极狐 GitLab 热招产品经理和安全专家等岗位！](https://www.v2ex.com/t/810572)
+* [2021-10-26  [问与答] 问一个可以实现单页分享的功能，或者目录分享功能的网站，](https://www.v2ex.com/t/810571)
+* [2021-10-26  [酷工作] Senior Business Intelligence Analyst，地点：上海，薪水福利特别棒](https://www.v2ex.com/t/810570)
+* [2021-10-26  [问与答] 给 alipay hk 充值](https://www.v2ex.com/t/810569)
+* [2021-10-26  [问与答] oppo 小游戏 防沉迷系统 到底是游戏中心自动触发还是需要开发人员接入？](https://www.v2ex.com/t/810568)
+* [2021-10-26  [iPhone] 电脑连手机热点，访问百度， google 浏览器提示您的连接不是私密连接](https://www.v2ex.com/t/810565)
+* [2021-10-26  [iPad] iPad Slide Over 多任务手势冲突问题](https://www.v2ex.com/t/810561)
+* [2021-10-26  [MacBook Pro] 求打醒，买 14 寸 MBP 的 24GPU M1MAX 会不会有坑？](https://www.v2ex.com/t/810560)
+* [2021-10-26  [Edge] 有没有觉得 Edge 的收藏夹栏的字体变大了？](https://www.v2ex.com/t/810559)
+* [2021-10-26  [MacBook Pro] 新款 mbp 好虽好，但更像是为图像影音编辑人员准备的！](https://www.v2ex.com/t/810557)
 * [2021-10-26  [SSH] 请教一下，关于 SSH 指纹使用代理会发生变化？](https://www.v2ex.com/t/810558)
 * [2021-10-26  [程序员] 新款 mbp 好虽好，但更像是为图像影音编辑人员准备的！](https://www.v2ex.com/t/810557)
 * [2021-10-26  [酷工作] [北京] [上市美企] Sr.

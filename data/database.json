@@ -148,13 +148,103 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] 新 MacBook Pro 16 真的厚了很多吗，数据说话。",
+                "link": "https://www.v2ex.com/t/810581",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 作为程序员，现在购买 19 款 16 寸 i7macbookpro 是否可行？",
+                "link": "https://www.v2ex.com/t/810579",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[macOS] 升级 macOS Monterey 后显示器 Type-c 无法供电，有返乡供电的显示器的谨慎升级",
+                "link": "https://www.v2ex.com/t/810578",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[宽带症候群] 家里的宽带测速只有特定节点才能跑满",
+                "link": "https://www.v2ex.com/t/810577",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Windows] 升级 win11 后， ctrl+shift+esc 呼不出任务管理器了？",
+                "link": "https://www.v2ex.com/t/810576",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[推广] 当项目经理让我负责数据展示功能开发，我的内心为什么是拒绝的？",
+                "link": "https://www.v2ex.com/t/810575",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[酷工作] [上海][社招内推] 莉莉丝游戏 后端开发工程师（内部平台方向）Go/ Java [其他岗位也可内推]",
+                "link": "https://www.v2ex.com/t/810574",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[MacBook Pro] MBP 换机请教",
+                "link": "https://www.v2ex.com/t/810573",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[酷工作] [远程] 极狐 GitLab 热招产品经理和安全专家等岗位！",
+                "link": "https://www.v2ex.com/t/810572",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 问一个可以实现单页分享的功能，或者目录分享功能的网站，",
+                "link": "https://www.v2ex.com/t/810571",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[酷工作] Senior Business Intelligence Analyst，地点：上海，薪水福利特别棒",
+                "link": "https://www.v2ex.com/t/810570",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 给 alipay hk 充值",
+                "link": "https://www.v2ex.com/t/810569",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] oppo 小游戏 防沉迷系统 到底是游戏中心自动触发还是需要开发人员接入？",
+                "link": "https://www.v2ex.com/t/810568",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[iPhone] 电脑连手机热点，访问百度， google 浏览器提示您的连接不是私密连接",
+                "link": "https://www.v2ex.com/t/810565",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[iPad] iPad Slide Over 多任务手势冲突问题",
+                "link": "https://www.v2ex.com/t/810561",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[MacBook Pro] 求打醒，买 14 寸 MBP 的 24GPU M1MAX 会不会有坑？",
+                "link": "https://www.v2ex.com/t/810560",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Edge] 有没有觉得 Edge 的收藏夹栏的字体变大了？",
+                "link": "https://www.v2ex.com/t/810559",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[MacBook Pro] 新款 mbp 好虽好，但更像是为图像影音编辑人员准备的！",
+                "link": "https://www.v2ex.com/t/810557",
+                "published": "2021-10-26"
+            },
             {
                 "title": "[SSH] 请教一下，关于 SSH 指纹使用代理会发生变化？",
                 "link": "https://www.v2ex.com/t/810558",
@@ -3561,7 +3651,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 30
+        "new_feeds": 18
     },
     {
         "id": 3,
