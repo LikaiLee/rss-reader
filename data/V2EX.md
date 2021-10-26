@@ -1,6 +1,13 @@
 # V2EX
 
 
+* [2021-10-26  [问与答] 这个开源软件有大佬用过么](https://www.v2ex.com/t/810725)
+* [2021-10-26  [问与答] 这种是诈骗吗？](https://www.v2ex.com/t/810724)
+* [2021-10-26  [Apple] MacBook Pro 到底选银色还是深空灰？哪个会掉色？](https://www.v2ex.com/t/810722)
+* [2021-10-26  [Apple] macbook Pro 14/16 512Gb 在路上，麻烦到手的测试一下读写速度，想取消掉换个 1T 版本，标的速度最高可达 7.4GB/s 是拿 8T 版本测试的， 1T 好像能跑到 5G 多，不知道 512 的能跑到多少？](https://www.v2ex.com/t/810721)
+* [2021-10-26  [Apple] Monterey 的这个手机向 mac 投屏，还挺流畅的，延时也极低](https://www.v2ex.com/t/810720)
+* [2021-10-26  [微信] wechat 转区的规则是不是改了](https://www.v2ex.com/t/810719)
+* [2021-10-26  [MacBook Pro] 16 寸 M1 MAX 32G 1T 标款体验](https://www.v2ex.com/t/810705)
 * [2021-10-26  [iPhone] wechat 转区的规则是不是改了](https://www.v2ex.com/t/810719)
 * [2021-10-26  [macOS] 请教在最新系统下安装旧版本虚拟机的正确方式](https://www.v2ex.com/t/810717)
 * [2021-10-26  [macOS] 更新 Xcode 到现在](https://www.v2ex.com/t/810716)

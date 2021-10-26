@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+18】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-26】 macOS Monterey 正式版来了，升级之后试试这些新变化](https://sspai.com/post/68745)
 * [【2021-10-26】 具透 | Chrome 和 Edge 95 稳定版更新，它们都有哪些新功能？](https://sspai.com/post/69509)
 * [【2021-10-25】 新款 AirPods 首发体验：新外观、新功能，时隔 5 年的全新升级](https://sspai.com/post/69504)
 * [【2021-10-26】 SharePlay、Apple ProRes 齐登场，iOS 15.1 值得关注的 6 个更新](https://sspai.com/post/69441)
@@ -36,7 +37,6 @@
 * [【2021-10-25】 派评 | 近期值得关注的 App](https://sspai.com/post/69506)
 * [【2021-10-25】 钱包未动，算盘先行：2021 年新 MacBook Pro 选购指南](https://sspai.com/post/69507)
 * [【2021-10-25】 城市漫步指南：维斯马，一座平凡却难以被取代的城市](https://sspai.com/post/68529)
-* [【2021-10-25】 每天有多少玩家教任天堂做产品？|「世界主宰」的掌机之路 · 叁](https://sspai.com/post/69478)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,16 @@
     </summary>
 
 
+* [【2021-10-26】 [问与答] 这个开源软件有大佬用过么](https://www.v2ex.com/t/810725)
+* [【2021-10-26】 [问与答] 这种是诈骗吗？](https://www.v2ex.com/t/810724)
+* [【2021-10-26】 [Apple] MacBook Pro 到底选银色还是深空灰？哪个会掉色？](https://www.v2ex.com/t/810722)
+* [【2021-10-26】 [Apple] macbook Pro 14/16 512Gb 在路上，麻烦到手的测试一下读写速度，想取消掉换个 1T 版本，标的速度最高可达 7.4GB/s 是拿 8T 版本测试的， 1T 好像能跑到 5G 多，不知道 512 的能跑到多少？](https://www.v2ex.com/t/810721)
+* [【2021-10-26】 [Apple] Monterey 的这个手机向 mac 投屏，还挺流畅的，延时也极低](https://www.v2ex.com/t/810720)
+* [【2021-10-26】 [微信] wechat 转区的规则是不是改了](https://www.v2ex.com/t/810719)
+* [【2021-10-26】 [MacBook Pro] 16 寸 M1 MAX 32G 1T 标款体验](https://www.v2ex.com/t/810705)
 * [【2021-10-26】 [iPhone] wechat 转区的规则是不是改了](https://www.v2ex.com/t/810719)
 * [【2021-10-26】 [macOS] 请教在最新系统下安装旧版本虚拟机的正确方式](https://www.v2ex.com/t/810717)
 * [【2021-10-26】 [macOS] 更新 Xcode 到现在](https://www.v2ex.com/t/810716)
-* [【2021-10-26】 [全球工单系统] 红鱼 rubyfish 的 DOH 服务持续 503](https://www.v2ex.com/t/810715)
-* [【2021-10-26】 [Apple] 非原装的 AirPods 2，到哪里去修？](https://www.v2ex.com/t/810714)
-* [【2021-10-26】 [macOS] 删除 ABC 英文输入法后有办法在系统登录画面默认鼠须管为默认输入法吗？](https://www.v2ex.com/t/810712)
-* [【2021-10-26】 [酷工作] [北京小米内推]求 Golang/ PHP 大佬投递](https://www.v2ex.com/t/810711)
-* [【2021-10-26】 [Apple] 最近有人在苹果教育商店下单吗，都收到资格审核邮件没？](https://www.v2ex.com/t/810710)
-* [【2021-10-26】 [Apple] 为什么菜栏单和刘海高度不相同？！](https://www.v2ex.com/t/810709)
-* [【2021-10-26】 [音乐] 用 airpods 听无损一点用都没有吗？](https://www.v2ex.com/t/810708)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-26 10:22:11
+:alarm_clock: 更新时间: 2021-10-26 11:16:26

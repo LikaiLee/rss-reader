@@ -28,6 +28,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "macOS Monterey 正式版来了，升级之后试试这些新变化",
+                "link": "https://sspai.com/post/68745",
+                "published": "2021-10-26"
+            },
+            {
                 "title": "具透 | Chrome 和 Edge 95 稳定版更新，它们都有哪些新功能？",
                 "link": "https://sspai.com/post/69509",
                 "published": "2021-10-26"
@@ -168,13 +173,48 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 这个开源软件有大佬用过么",
+                "link": "https://www.v2ex.com/t/810725",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 这种是诈骗吗？",
+                "link": "https://www.v2ex.com/t/810724",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] MacBook Pro 到底选银色还是深空灰？哪个会掉色？",
+                "link": "https://www.v2ex.com/t/810722",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] macbook Pro 14/16 512Gb 在路上，麻烦到手的测试一下读写速度，想取消掉换个 1T 版本，标的速度最高可达 7.4GB/s 是拿 8T 版本测试的， 1T 好像能跑到 5G 多，不知道 512 的能跑到多少？",
+                "link": "https://www.v2ex.com/t/810721",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] Monterey 的这个手机向 mac 投屏，还挺流畅的，延时也极低",
+                "link": "https://www.v2ex.com/t/810720",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[微信] wechat 转区的规则是不是改了",
+                "link": "https://www.v2ex.com/t/810719",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[MacBook Pro] 16 寸 M1 MAX 32G 1T 标款体验",
+                "link": "https://www.v2ex.com/t/810705",
+                "published": "2021-10-26"
+            },
             {
                 "title": "[iPhone] wechat 转区的规则是不是改了",
                 "link": "https://www.v2ex.com/t/810719",
@@ -4231,7 +4271,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 18
+        "new_feeds": 7
     },
     {
         "id": 3,
