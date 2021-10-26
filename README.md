@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+10】
+* [V2EX](#V2EX) 【+14】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,18 +46,16 @@
     </summary>
 
 
-* [【2021-10-26】 [微信] Windows10 微信可以自动登录了
-
-微信版本： 3.4.038](https://www.v2ex.com/t/810787)
-* [【2021-10-26】 [iOS] iOS/iPadOS 设备在路由器显示的名称很奇怪，与手机上设置的不一样。](https://www.v2ex.com/t/810786)
-* [【2021-10-26】 [macOS] Monterey 好像修复了 19 年 16 寸的爆音问题](https://www.v2ex.com/t/810784)
-* [【2021-10-26】 [问与答] 哪款团队协作软件最适合跨国成员的使用？企微/钉钉/Teams/飞书/Slack ...](https://www.v2ex.com/t/810783)
-* [【2021-10-26】 [宽带症候群] IPv6 隧道都是通过服务器中转的吗](https://www.v2ex.com/t/810782)
-* [【2021-10-26】 [问与答] yoga14s 如何通过雷电 4 接口外接 2k 显示器？](https://www.v2ex.com/t/810781)
-* [【2021-10-26】 [奇思妙想] 如果给游戏的开发者们换成 3 年前的设备， chrome 开发者换成 2G 内存的 PC，这个世界会不会变的更美好一些](https://www.v2ex.com/t/810780)
-* [【2021-10-26】 [Apple] 请教大家：新 Mac Book Pro 14 寸哪款包包比较合适](https://www.v2ex.com/t/810778)
-* [【2021-10-26】 [分享创造] [共享] 2022 中国大陆法定节假日](https://www.v2ex.com/t/810777)
-* [【2021-10-26】 [微信] 微信能支持 ios 的 deep link 跳转到公众号吗](https://www.v2ex.com/t/810776)
+* [【2021-10-26】 [Windows] 更新 win11 后， sandboxie 内打不开资源管理器了](https://www.v2ex.com/t/810801)
+* [【2021-10-26】 [宽带症候群] 华为光猫 udm 进程高断网](https://www.v2ex.com/t/810800)
+* [【2021-10-26】 [宽带症候群] 南宁国家级互联网骨干直联点 好像已经建成了 电信访问移动已经本地交换了 不需要去到广州了](https://www.v2ex.com/t/810799)
+* [【2021-10-26】 [RSS] iOS 端 NetsNewsWire 无法订阅 https://www.solidot.org/index.rss，求解？](https://www.v2ex.com/t/810798)
+* [【2021-10-26】 [Apple] macos12 修复了一个可能不常留意的 BUG](https://www.v2ex.com/t/810797)
+* [【2021-10-26】 [电影] 能让朋友照片模仿视频中动作的 APP](https://www.v2ex.com/t/810796)
+* [【2021-10-26】 [游戏主机] 2021 双 11,求一款能玩主流游戏的 最好能装黑果 的 主机 配置和显示器](https://www.v2ex.com/t/810795)
+* [【2021-10-26】 [分享创造] 网页版 HTTP 服务器，无需工具即可开启本地 HTTP 服务](https://www.v2ex.com/t/810794)
+* [【2021-10-26】 [职场话题] [南通]曝光一家公司，提出辞职老板不结算工资，还说“那你去报警劳动仲裁，我还没见过世面吗？跟我来这套”](https://www.v2ex.com/t/810793)
+* [【2021-10-26】 [Apple] AMD 10 年前的遗憾，苹果做到了](https://www.v2ex.com/t/810792)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-26 15:21:02
+:alarm_clock: 更新时间: 2021-10-26 16:30:18
