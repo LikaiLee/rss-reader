@@ -156,6 +156,116 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[酷工作] [快手] 持续内推移动端， Android 、iOS 均有职位，欢迎咨询",
+                "link": "https://www.v2ex.com/t/810604",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[SONY] 索尼发布新一代拍照智能手机 Xperia PRO-I",
+                "link": "https://www.v2ex.com/t/810603",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[程序员] 有没有大佬做过日志回放功能的，有好的点子吗！ 真心提问",
+                "link": "https://www.v2ex.com/t/810602",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 有没有大佬测试下 Dota2 的游玩效果，画质帧率散热什么的",
+                "link": "https://www.v2ex.com/t/810601",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 各位大佬，实在是遇到难题了， Safari 地址栏输入某些内容的时候卡顿",
+                "link": "https://www.v2ex.com/t/810600",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[iPad] 还有多少人跟我一样在蹲 iPad mini 蜂窝...",
+                "link": "https://www.v2ex.com/t/810599",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 看了 macbook pro 评测视频",
+                "link": "https://www.v2ex.com/t/810598",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[程序员] 请教下大佬们 web Ar 相关的问题",
+                "link": "https://www.v2ex.com/t/810597",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 支付方案求助",
+                "link": "https://www.v2ex.com/t/810596",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[分享创造] 识字、学算术，真是太不容易了。",
+                "link": "https://www.v2ex.com/t/810595",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[MacBook Pro] 有大佬测试一下 M1 Pro/Max 在 Dota 2 和 CSGO 的 FPS 吗？",
+                "link": "https://www.v2ex.com/t/810594",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[奇思妙想] 能不能做一款字幕众包写协作网站啊",
+                "link": "https://www.v2ex.com/t/810593",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[罗技] 买了一套逻辑 MK850，哇的一声哭了出来。",
+                "link": "https://www.v2ex.com/t/810592",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] 录音用的麦克风",
+                "link": "https://www.v2ex.com/t/810591",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[分享发现] 微信聊天记录搜索，匹配规则这么弱？",
+                "link": "https://www.v2ex.com/t/810590",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Coding] DevOps 时代的高效测试之路",
+                "link": "https://www.v2ex.com/t/810589",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[宽带症候群] 家宽公网 ipv4 政策 学到了新名词 半固定 ip",
+                "link": "https://www.v2ex.com/t/810588",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] iOS15.1 的「指南针」疑似关闭了中国大陆用户查看坐标和海拔的功能",
+                "link": "https://www.v2ex.com/t/810587",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[MacBook Pro] 2021 款 MacBook Pro 16 寸内胆包有没有好的推荐",
+                "link": "https://www.v2ex.com/t/810585",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[问与答] WireGuard 访问不通 3389 端口，求赐教",
+                "link": "https://www.v2ex.com/t/810584",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[Apple] 新的 mbp 到手的感觉，丑，厚的莫名其妙",
+                "link": "https://www.v2ex.com/t/810583",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "[MacBook Pro] 新 MacBook Pro 16 真的厚了很多吗？数据说话。",
+                "link": "https://www.v2ex.com/t/810581",
+                "published": "2021-10-26"
+            },
+            {
                 "title": "[Apple] 新 MacBook Pro 16 真的厚了很多吗，数据说话。",
                 "link": "https://www.v2ex.com/t/810581",
                 "published": "2021-10-26"
@@ -3651,13 +3761,23 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 18
+        "new_feeds": 22
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "走好科学“退煤”路，助力实现“双碳”目标",
+                "link": "http://zhuanlan.zhihu.com/p/425647032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-26"
+            },
+            {
+                "title": "彻底干掉了前摄的小米MIX，未来在何方？",
+                "link": "http://zhuanlan.zhihu.com/p/425793169?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-26"
+            },
             {
                 "title": "纪念志愿军抗美援朝出国作战 71 周年，哪些「最可爱的人」的故事让你记忆深刻？",
                 "link": "http://www.zhihu.com/question/494388383/answer/2188254476?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -4004,6 +4124,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     }
 ]
