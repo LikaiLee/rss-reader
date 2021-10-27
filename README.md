@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+4】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-27】 [Apple] 关于续航，有没有 14 寸高配尤其是 M1Max 到货的， M1Pro 高配到货也可以](https://www.v2ex.com/t/811112)
 * [【2021-10-27】 [问与答] 迫于纠结 U2720qm 还是 UP850](https://www.v2ex.com/t/811111)
 * [【2021-10-27】 [问与答] 超级菜逼学 Python 遇到的问题，请各位大佬指教，希望别笑话我](https://www.v2ex.com/t/811110)
 * [【2021-10-27】 [iPhone] 快捷指令里的“接收屏幕内容”有什么用？](https://www.v2ex.com/t/811109)
@@ -55,7 +56,6 @@
 * [【2021-10-27】 [macOS] MAS 里的网易云音乐仍是 Intel 版本，并未适配 M1](https://www.v2ex.com/t/811105)
 * [【2021-10-27】 [分享发现] 知乎这个可能是评论数最多的答案，打开评论区直接报 500 了](https://www.v2ex.com/t/811104)
 * [【2021-10-27】 [Apple] 解决 Monterey 的 Safari 在代理下打开部分网页异常的问题](https://www.v2ex.com/t/811103)
-* [【2021-10-27】 [分享创造] 分享一个自己写了 3 年的 App： X-Reader 多功能阅读器，《免费送码》。](https://www.v2ex.com/t/811102)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 18:23:20
+:alarm_clock: 更新时间: 2021-10-27 19:15:42
