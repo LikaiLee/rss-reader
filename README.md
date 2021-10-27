@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+16】
+* [V2EX](#V2EX) 【+10】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,19 +46,16 @@
     </summary>
 
 
-* [【2021-10-27】 [问与答] 如何隐藏真实 ip 用 vultr 建的 windows 依然被认出真实 ip](https://www.v2ex.com/t/811067)
-* [【2021-10-27】 [问与答] chrome 这能隐藏掉吗](https://www.v2ex.com/t/811065)
-* [【2021-10-27】 [职场话题] [offer 选择] 吉利 base 杭州 信息工程部 应届校招 Java 开发 offer 能接吗？
-吉利加班是不是很猛啊？还有蓝海计划？
-还有一个金蝶 深圳的 月薪比吉利多两三千
-应该怎么选？家是江苏的 最好是近点？](https://www.v2ex.com/t/811064)
-* [【2021-10-27】 [Apple] iPad mini 6 蜂窝](https://www.v2ex.com/t/811063)
-* [【2021-10-27】 [职场话题] 打不开北京健康宝，不能入住酒店，今天这么冷啊！](https://www.v2ex.com/t/811062)
-* [【2021-10-27】 [生活] 网络电台](https://www.v2ex.com/t/811061)
-* [【2021-10-27】 [Windows] Windows10 的多桌面有什么使用场合？](https://www.v2ex.com/t/811060)
-* [【2021-10-27】 [Python] 请问~~maya 提取 fbx 的骨骼节点的 matrix 和 houdini 提取的都是一样的值，为什么转换成四元数以后就不同了呢？](https://www.v2ex.com/t/811059)
-* [【2021-10-27】 [GitHub Copilot] GitHub Copilot 上午发了个邮件通告: 已开启技术测试预览](https://www.v2ex.com/t/811058)
-* [【2021-10-27】 [问与答] yoga16s 价格预估？](https://www.v2ex.com/t/811057)
+* [【2021-10-27】 [项目管理] 发现 PMP 培训机构发来的教材是盗版的](https://www.v2ex.com/t/811079)
+* [【2021-10-27】 [酷工作] PHP 远程全职](https://www.v2ex.com/t/811078)
+* [【2021-10-27】 [macOS] 发现一个 Final Cut Pro 的特性，不知道其他地方会不会有](https://www.v2ex.com/t/811076)
+* [【2021-10-27】 [Apple] Android 开发分享下 M1 MAX Macbook 简单体验一天的感受](https://www.v2ex.com/t/811074)
+* [【2021-10-27】 [macOS] M1 OSX12 成功开启 HiDPI](https://www.v2ex.com/t/811073)
+* [【2021-10-27】 [职场话题] 外企面试有感](https://www.v2ex.com/t/811072)
+* [【2021-10-27】 [职场话题] xdm 们 来个亚马逊 Java 面经啊 加急](https://www.v2ex.com/t/811071)
+* [【2021-10-27】 [Apple] m1 mac 无法识别 nvme 硬盘盒](https://www.v2ex.com/t/811070)
+* [【2021-10-27】 [酷工作] [西安/武汉] [腾讯云] 日志服务高级研发工程师（ Java 后台、大数据）（CSIG 全资子公司）](https://www.v2ex.com/t/811069)
+* [【2021-10-27】 [问与答] 论如何悄无声息地查看微信公众号文章，抵制“*位朋友读过”](https://www.v2ex.com/t/811068)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -87,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 12:32:15
+:alarm_clock: 更新时间: 2021-10-27 13:24:58

@@ -1,6 +1,16 @@
 # V2EX
 
 
+* [2021-10-27  [项目管理] 发现 PMP 培训机构发来的教材是盗版的](https://www.v2ex.com/t/811079)
+* [2021-10-27  [酷工作] PHP 远程全职](https://www.v2ex.com/t/811078)
+* [2021-10-27  [macOS] 发现一个 Final Cut Pro 的特性，不知道其他地方会不会有](https://www.v2ex.com/t/811076)
+* [2021-10-27  [Apple] Android 开发分享下 M1 MAX Macbook 简单体验一天的感受](https://www.v2ex.com/t/811074)
+* [2021-10-27  [macOS] M1 OSX12 成功开启 HiDPI](https://www.v2ex.com/t/811073)
+* [2021-10-27  [职场话题] 外企面试有感](https://www.v2ex.com/t/811072)
+* [2021-10-27  [职场话题] xdm 们 来个亚马逊 Java 面经啊 加急](https://www.v2ex.com/t/811071)
+* [2021-10-27  [Apple] m1 mac 无法识别 nvme 硬盘盒](https://www.v2ex.com/t/811070)
+* [2021-10-27  [酷工作] [西安/武汉] [腾讯云] 日志服务高级研发工程师（ Java 后台、大数据）（CSIG 全资子公司）](https://www.v2ex.com/t/811069)
+* [2021-10-27  [问与答] 论如何悄无声息地查看微信公众号文章，抵制“*位朋友读过”](https://www.v2ex.com/t/811068)
 * [2021-10-27  [问与答] 如何隐藏真实 ip 用 vultr 建的 windows 依然被认出真实 ip](https://www.v2ex.com/t/811067)
 * [2021-10-27  [问与答] chrome 这能隐藏掉吗](https://www.v2ex.com/t/811065)
 * [2021-10-27  [职场话题] [offer 选择] 吉利 base 杭州 信息工程部 应届校招 Java 开发 offer 能接吗？
