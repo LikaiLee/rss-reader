@@ -1,6 +1,19 @@
 # V2EX
 
 
+* [2021-10-27  [宽带症候群] 湖南省会现在联通和电信到底哪家强？](https://www.v2ex.com/t/810976)
+* [2021-10-27  [微信] 微信 PC 版内置的浏览器无法打开任何 url。。。](https://www.v2ex.com/t/810975)
+* [2021-10-27  [问与答] 2021 年末， npm yarn pnpm 哪个更好呢？](https://www.v2ex.com/t/810974)
+* [2021-10-27  [程序员] 疑问贴：大佬们在什么情况下，会考虑数据库字段存 json](https://www.v2ex.com/t/810973)
+* [2021-10-27  [macOS] 苹果该统一下 macOS Monterey 「触发角」的逻辑了](https://www.v2ex.com/t/810972)
+* [2021-10-27  [反馈] 收不到验证码](https://www.v2ex.com/t/810970)
+* [2021-10-27  [Apple] 2019 款 16 寸 mbp:i9+64G+8T 官网 trade in 7400 元](https://www.v2ex.com/t/810968)
+* [2021-10-27  [问与答] 关于账号的问题](https://www.v2ex.com/t/810966)
+* [2021-10-27  [生活] 湖南码农老哥看过来](https://www.v2ex.com/t/810964)
+* [2021-10-27  [Apple] 探讨两种产品“WPS”and"Office""](https://www.v2ex.com/t/810963)
+* [2021-10-27  [Apple] 不懂就问， M1/M1X 芯片的 MacBook 直装 Windows，目前困难点在哪？](https://www.v2ex.com/t/810962)
+* [2021-10-27  [分享发现] 发现一个有意思的小程序](https://www.v2ex.com/t/810951)
+* [2021-10-27  [知乎] 如何看待 steam 上因为”刚买完第二天就打折“而给差评的玩家？](https://www.v2ex.com/t/810930)
 * [2021-10-27  [Apple] iphone13 pro 续航不行啊](https://www.v2ex.com/t/810960)
 * [2021-10-27  [iOS] IOS 有没有比较好的识别条形码的工具 并且支持后续接口逻辑的（快捷指令自带的扫描条形码功能识别度太低了，不好用）（打通扫码-识别-存入 notion 数据表格）](https://www.v2ex.com/t/810959)
 * [2021-10-27  [问与答] [SpringBoot] 对开启 debug 模式后放在 Threadlocal 对象中 HttpServletRequest#getInputStream() 无法获取的疑问](https://www.v2ex.com/t/810958)

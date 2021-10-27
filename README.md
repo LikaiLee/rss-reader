@@ -4,8 +4,8 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+22】
-* [知乎每日精选](#知乎每日精选)
+* [V2EX](#V2EX) 【+13】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-27】 [Apple] iphone13 pro 续航不行啊](https://www.v2ex.com/t/810960)
-* [【2021-10-27】 [iOS] IOS 有没有比较好的识别条形码的工具 并且支持后续接口逻辑的（快捷指令自带的扫描条形码功能识别度太低了，不好用）（打通扫码-识别-存入 notion 数据表格）](https://www.v2ex.com/t/810959)
-* [【2021-10-27】 [问与答] [SpringBoot] 对开启 debug 模式后放在 Threadlocal 对象中 HttpServletRequest#getInputStream() 无法获取的疑问](https://www.v2ex.com/t/810958)
-* [【2021-10-27】 [问与答] 家人们， AirPods 2 左耳声音小](https://www.v2ex.com/t/810957)
-* [【2021-10-27】 [问与答] 为什么复制 PDF 中的 subjectiv-ity，结果会是 subjectivity？](https://www.v2ex.com/t/810955)
-* [【2021-10-27】 [Xcode] M1 MacBook Pro， Xcode 启动时必须得卡一下，请问有解决方法么](https://www.v2ex.com/t/810954)
-* [【2021-10-27】 [iOS] 港澳台区 AppStore 的 bilibili 更新 3.0.3 了，无广告、新增直播](https://www.v2ex.com/t/810953)
-* [【2021-10-27】 [MacBook Pro] [搬运工] MacBook Pro 2021 M1 Xcode Benchmark](https://www.v2ex.com/t/810952)
-* [【2021-10-27】 [分享创造] 发现一个有意思的小程序](https://www.v2ex.com/t/810951)
-* [【2021-10-27】 [Apple] [javaer]丐版 2021 14 mpb 的一些实机测试结果](https://www.v2ex.com/t/810950)
+* [【2021-10-27】 [宽带症候群] 湖南省会现在联通和电信到底哪家强？](https://www.v2ex.com/t/810976)
+* [【2021-10-27】 [微信] 微信 PC 版内置的浏览器无法打开任何 url。。。](https://www.v2ex.com/t/810975)
+* [【2021-10-27】 [问与答] 2021 年末， npm yarn pnpm 哪个更好呢？](https://www.v2ex.com/t/810974)
+* [【2021-10-27】 [程序员] 疑问贴：大佬们在什么情况下，会考虑数据库字段存 json](https://www.v2ex.com/t/810973)
+* [【2021-10-27】 [macOS] 苹果该统一下 macOS Monterey 「触发角」的逻辑了](https://www.v2ex.com/t/810972)
+* [【2021-10-27】 [反馈] 收不到验证码](https://www.v2ex.com/t/810970)
+* [【2021-10-27】 [Apple] 2019 款 16 寸 mbp:i9+64G+8T 官网 trade in 7400 元](https://www.v2ex.com/t/810968)
+* [【2021-10-27】 [问与答] 关于账号的问题](https://www.v2ex.com/t/810966)
+* [【2021-10-27】 [生活] 湖南码农老哥看过来](https://www.v2ex.com/t/810964)
+* [【2021-10-27】 [Apple] 探讨两种产品“WPS”and"Office""](https://www.v2ex.com/t/810963)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -65,6 +65,7 @@
     </summary>
 
 
+* [【2021-10-27】 一箭一星！快舟一号甲火箭成功完成11次发射履约](http://zhuanlan.zhihu.com/p/426350021?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-26】 游戏系统拆解：明日方舟 / Game system: Arknights](http://zhuanlan.zhihu.com/p/413367446?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-26】 走好科学“退煤”路，助力实现“双碳”目标](http://zhuanlan.zhihu.com/p/425647032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-26】 彻底干掉了前摄的小米MIX，未来在何方？](http://zhuanlan.zhihu.com/p/425793169?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -74,7 +75,6 @@
 * [【2021-10-25】 纪念志愿军抗美援朝出国作战 71 周年，哪些「最可爱的人」的故事让你记忆深刻？](http://www.zhihu.com/question/494388383/answer/2187792783?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-25】 如何看待李云迪在被通报嫖娼后，李云迪母校四川音乐学院火速摘掉「李云迪钢琴工作室」牌子？](http://www.zhihu.com/question/493886418/answer/2187693027?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-23】 如今「网红打卡地」泛滥，褪下滤镜后还有哪些值得一去的旅行目的地？](http://www.zhihu.com/question/491721079/answer/2167443272?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-10-22】 媒体评价李云迪被拘是「自作孽不可活」，其音乐家协会会员被取消，广州城市形象代言人被终止，他彻底糊了吗？](http://www.zhihu.com/question/493814225/answer/2182923238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 06:23:53
+:alarm_clock: 更新时间: 2021-10-27 07:19:17
