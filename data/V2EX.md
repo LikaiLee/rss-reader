@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-10-27  [MacBook Pro] 新 Macbook 屏幕素质怎么样呢？和 iPad pro 12.9 比，光晕和偏绿问题解决了吗？](https://www.v2ex.com/t/811117)
+* [2021-10-27  [互联网] 有没有了解淘宝上那些打折充电费的是怎么操作的？](https://www.v2ex.com/t/811094)
 * [2021-10-27  [硬件] 迫于纠结 U2720qm 还是 UP850](https://www.v2ex.com/t/811111)
 * [2021-10-27  [Apple] V 友们,这个网站可以看各个软件对 M1 系列芯片的适配情况. 开发工具,浏览器,等都有信息](https://www.v2ex.com/t/811116)
 * [2021-10-27  [MacBook Pro] 新版 MacBook pro 14 喇叭有爆音](https://www.v2ex.com/t/811115)

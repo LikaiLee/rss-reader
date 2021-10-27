@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+1】
+* [V2EX](#V2EX) 【+2】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,6 +46,8 @@
     </summary>
 
 
+* [【2021-10-27】 [MacBook Pro] 新 Macbook 屏幕素质怎么样呢？和 iPad pro 12.9 比，光晕和偏绿问题解决了吗？](https://www.v2ex.com/t/811117)
+* [【2021-10-27】 [互联网] 有没有了解淘宝上那些打折充电费的是怎么操作的？](https://www.v2ex.com/t/811094)
 * [【2021-10-27】 [硬件] 迫于纠结 U2720qm 还是 UP850](https://www.v2ex.com/t/811111)
 * [【2021-10-27】 [Apple] V 友们,这个网站可以看各个软件对 M1 系列芯片的适配情况. 开发工具,浏览器,等都有信息](https://www.v2ex.com/t/811116)
 * [【2021-10-27】 [MacBook Pro] 新版 MacBook pro 14 喇叭有爆音](https://www.v2ex.com/t/811115)
@@ -54,8 +56,6 @@
 * [【2021-10-27】 [问与答] 迫于纠结 U2720qm 还是 UP850](https://www.v2ex.com/t/811111)
 * [【2021-10-27】 [问与答] 超级菜逼学 Python 遇到的问题，请各位大佬指教，希望别笑话我](https://www.v2ex.com/t/811110)
 * [【2021-10-27】 [iPhone] 快捷指令里的“接收屏幕内容”有什么用？](https://www.v2ex.com/t/811109)
-* [【2021-10-27】 [Windows] wsa 如何配合 ssr 科学上网啊](https://www.v2ex.com/t/811108)
-* [【2021-10-27】 [怀旧游戏] Sprite Catalog](https://www.v2ex.com/t/811107)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 21:17:03
+:alarm_clock: 更新时间: 2021-10-27 22:19:57

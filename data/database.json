@@ -206,6 +206,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] 新 Macbook 屏幕素质怎么样呢？和 iPad pro 12.9 比，光晕和偏绿问题解决了吗？",
+                "link": "https://www.v2ex.com/t/811117",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[互联网] 有没有了解淘宝上那些打折充电费的是怎么操作的？",
+                "link": "https://www.v2ex.com/t/811094",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "[硬件] 迫于纠结 U2720qm 还是 UP850",
                 "link": "https://www.v2ex.com/t/811111",
                 "published": "2021-10-27"
@@ -5861,7 +5871,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 3,
