@@ -206,6 +206,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[怀旧游戏] Sprite Catalog",
+                "link": "https://www.v2ex.com/t/811107",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "[Apple] 有前端大佬买了 m1 max 没，辛苦讲下体验，之前用过 m1 更好",
                 "link": "https://www.v2ex.com/t/811106",
                 "published": "2021-10-27"
@@ -5811,7 +5816,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 1
     },
     {
         "id": 3,

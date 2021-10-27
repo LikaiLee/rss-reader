@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-10-27  [怀旧游戏] Sprite Catalog](https://www.v2ex.com/t/811107)
 * [2021-10-27  [Apple] 有前端大佬买了 m1 max 没，辛苦讲下体验，之前用过 m1 更好](https://www.v2ex.com/t/811106)
 * [2021-10-27  [macOS] MAS 里的网易云音乐仍是 Intel 版本，并未适配 M1](https://www.v2ex.com/t/811105)
 * [2021-10-27  [分享发现] 知乎这个可能是评论数最多的答案，打开评论区直接报 500 了](https://www.v2ex.com/t/811104)
