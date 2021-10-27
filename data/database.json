@@ -198,13 +198,93 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 如何隐藏真实 ip 用 vultr 建的 windows 依然被认出真实 ip",
+                "link": "https://www.v2ex.com/t/811067",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] chrome 这能隐藏掉吗",
+                "link": "https://www.v2ex.com/t/811065",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[职场话题] [offer 选择] 吉利 base 杭州 信息工程部 应届校招 Java 开发 offer 能接吗？\n吉利加班是不是很猛啊？还有蓝海计划？\n还有一个金蝶 深圳的 月薪比吉利多两三千\n应该怎么选？家是江苏的 最好是近点？",
+                "link": "https://www.v2ex.com/t/811064",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] iPad mini 6 蜂窝",
+                "link": "https://www.v2ex.com/t/811063",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[职场话题] 打不开北京健康宝，不能入住酒店，今天这么冷啊！",
+                "link": "https://www.v2ex.com/t/811062",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[生活] 网络电台",
+                "link": "https://www.v2ex.com/t/811061",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Windows] Windows10 的多桌面有什么使用场合？",
+                "link": "https://www.v2ex.com/t/811060",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Python] 请问~~maya 提取 fbx 的骨骼节点的 matrix 和 houdini 提取的都是一样的值，为什么转换成四元数以后就不同了呢？",
+                "link": "https://www.v2ex.com/t/811059",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[GitHub Copilot] GitHub Copilot 上午发了个邮件通告: 已开启技术测试预览",
+                "link": "https://www.v2ex.com/t/811058",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] yoga16s 价格预估？",
+                "link": "https://www.v2ex.com/t/811057",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 升级 Monterey 之后外接显示器唤醒会出现右下角很暗",
+                "link": "https://www.v2ex.com/t/811056",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[iOS] 手机是 13promax 更新了最新的 15.1 在运行 qq 时候异常发烫 分析数据里面显示 cpu90",
+                "link": "https://www.v2ex.com/t/811055",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[职场话题] 选 offer 求建议",
+                "link": "https://www.v2ex.com/t/811054",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[随想] 互联网时代的个人该如何生存？",
+                "link": "https://www.v2ex.com/t/811053",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 求问： visual assist 的 find references 和 reshaper 的 find all usages 是一码事么？",
+                "link": "https://www.v2ex.com/t/811052",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] YouTube 播放与 CPU 的功耗疑问",
+                "link": "https://www.v2ex.com/t/811051",
+                "published": "2021-10-27"
+            },
             {
                 "title": "[程序员] 互联网黑话 JS 实现",
                 "link": "https://www.v2ex.com/t/811050",
@@ -5561,7 +5641,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 16
     },
     {
         "id": 3,
