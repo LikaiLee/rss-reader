@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+1】
+* [V2EX](#V2EX) 【+3】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,6 +46,9 @@
     </summary>
 
 
+* [【2021-10-27】 [Apple] V 友们,这个网站可以看各个软件对 M1 系列芯片的适配情况. 开发工具,浏览器,等都有信息](https://www.v2ex.com/t/811116)
+* [【2021-10-27】 [MacBook Pro] 新版 MacBook pro 14 喇叭有爆音](https://www.v2ex.com/t/811115)
+* [【2021-10-27】 [游戏] 链游中的王者荣耀终于来了，我最近 5 天着迷这款 thetan arena 游戏了](https://www.v2ex.com/t/811114)
 * [【2021-10-27】 [Apple] 关于续航，有没有 14 寸高配尤其是 M1Max 到货的， M1Pro 高配到货也可以](https://www.v2ex.com/t/811112)
 * [【2021-10-27】 [问与答] 迫于纠结 U2720qm 还是 UP850](https://www.v2ex.com/t/811111)
 * [【2021-10-27】 [问与答] 超级菜逼学 Python 遇到的问题，请各位大佬指教，希望别笑话我](https://www.v2ex.com/t/811110)
@@ -53,9 +56,6 @@
 * [【2021-10-27】 [Windows] wsa 如何配合 ssr 科学上网啊](https://www.v2ex.com/t/811108)
 * [【2021-10-27】 [怀旧游戏] Sprite Catalog](https://www.v2ex.com/t/811107)
 * [【2021-10-27】 [Apple] 有前端大佬买了 m1 max 没，辛苦讲下体验，之前用过 m1 更好](https://www.v2ex.com/t/811106)
-* [【2021-10-27】 [macOS] MAS 里的网易云音乐仍是 Intel 版本，并未适配 M1](https://www.v2ex.com/t/811105)
-* [【2021-10-27】 [分享发现] 知乎这个可能是评论数最多的答案，打开评论区直接报 500 了](https://www.v2ex.com/t/811104)
-* [【2021-10-27】 [Apple] 解决 Monterey 的 Safari 在代理下打开部分网页异常的问题](https://www.v2ex.com/t/811103)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 19:15:42
+:alarm_clock: 更新时间: 2021-10-27 20:20:40

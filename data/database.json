@@ -206,6 +206,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] V 友们,这个网站可以看各个软件对 M1 系列芯片的适配情况. 开发工具,浏览器,等都有信息",
+                "link": "https://www.v2ex.com/t/811116",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MacBook Pro] 新版 MacBook pro 14 喇叭有爆音",
+                "link": "https://www.v2ex.com/t/811115",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[游戏] 链游中的王者荣耀终于来了，我最近 5 天着迷这款 thetan arena 游戏了",
+                "link": "https://www.v2ex.com/t/811114",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "[Apple] 关于续航，有没有 14 寸高配尤其是 M1Max 到货的， M1Pro 高配到货也可以",
                 "link": "https://www.v2ex.com/t/811112",
                 "published": "2021-10-27"
@@ -5841,7 +5856,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 3,
