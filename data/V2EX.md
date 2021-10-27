@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-10-27  [硬件] 迫于纠结 U2720qm 还是 UP850](https://www.v2ex.com/t/811111)
 * [2021-10-27  [Apple] V 友们,这个网站可以看各个软件对 M1 系列芯片的适配情况. 开发工具,浏览器,等都有信息](https://www.v2ex.com/t/811116)
 * [2021-10-27  [MacBook Pro] 新版 MacBook pro 14 喇叭有爆音](https://www.v2ex.com/t/811115)
 * [2021-10-27  [游戏] 链游中的王者荣耀终于来了，我最近 5 天着迷这款 thetan arena 游戏了](https://www.v2ex.com/t/811114)

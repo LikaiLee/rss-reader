@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+3】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-27】 [硬件] 迫于纠结 U2720qm 还是 UP850](https://www.v2ex.com/t/811111)
 * [【2021-10-27】 [Apple] V 友们,这个网站可以看各个软件对 M1 系列芯片的适配情况. 开发工具,浏览器,等都有信息](https://www.v2ex.com/t/811116)
 * [【2021-10-27】 [MacBook Pro] 新版 MacBook pro 14 喇叭有爆音](https://www.v2ex.com/t/811115)
 * [【2021-10-27】 [游戏] 链游中的王者荣耀终于来了，我最近 5 天着迷这款 thetan arena 游戏了](https://www.v2ex.com/t/811114)
@@ -55,7 +56,6 @@
 * [【2021-10-27】 [iPhone] 快捷指令里的“接收屏幕内容”有什么用？](https://www.v2ex.com/t/811109)
 * [【2021-10-27】 [Windows] wsa 如何配合 ssr 科学上网啊](https://www.v2ex.com/t/811108)
 * [【2021-10-27】 [怀旧游戏] Sprite Catalog](https://www.v2ex.com/t/811107)
-* [【2021-10-27】 [Apple] 有前端大佬买了 m1 max 没，辛苦讲下体验，之前用过 m1 更好](https://www.v2ex.com/t/811106)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 20:20:40
+:alarm_clock: 更新时间: 2021-10-27 21:17:03

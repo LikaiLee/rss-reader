@@ -206,6 +206,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[硬件] 迫于纠结 U2720qm 还是 UP850",
+                "link": "https://www.v2ex.com/t/811111",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "[Apple] V 友们,这个网站可以看各个软件对 M1 系列芯片的适配情况. 开发工具,浏览器,等都有信息",
                 "link": "https://www.v2ex.com/t/811116",
                 "published": "2021-10-27"
@@ -5856,7 +5861,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 3,
