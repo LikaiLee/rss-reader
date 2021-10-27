@@ -206,6 +206,61 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 有哪些支持定时开关的恒温水壶？",
+                "link": "https://www.v2ex.com/t/811091",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 明年 iPhone 会换上 miniLED 吗",
+                "link": "https://www.v2ex.com/t/811090",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MacBook Pro] 自行更换了 NVME SSD 的 2015 款 Macbook Pro 无法升级 Monterey",
+                "link": "https://www.v2ex.com/t/811088",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 为什么 M1 Max 的功耗控制可以如此优秀？",
+                "link": "https://www.v2ex.com/t/811087",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 有同学弃用 pro xdr，嫌光不柔和的吗？",
+                "link": "https://www.v2ex.com/t/811086",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 在各种桌面操作系统上（Windows、MacOS、 Linux ）上，各有哪些手段可以使软件开机自启动？",
+                "link": "https://www.v2ex.com/t/811085",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 分享一段乔布斯的话，关于苹果的封闭与开放",
+                "link": "https://www.v2ex.com/t/811084",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[酷工作] 🔥🔥有没有想来 [思科中国] 的 ，三十多个岗位招人 [杭州/上海/合肥/苏州]",
+                "link": "https://www.v2ex.com/t/811083",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[程序员] 请教大佬，一个微服务 API 返回数据合理性问题",
+                "link": "https://www.v2ex.com/t/811082",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] Monterey 12.0.1 似乎修好了一些 external display 的问题",
+                "link": "https://www.v2ex.com/t/811081",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MacBook Pro] Apple Store 常备 14 英寸 M1 MAX 64GB 2TB 配置",
+                "link": "https://www.v2ex.com/t/811080",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "[项目管理] 发现 PMP 培训机构发来的教材是盗版的",
                 "link": "https://www.v2ex.com/t/811079",
                 "published": "2021-10-27"
@@ -5691,7 +5746,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 11
     },
     {
         "id": 3,

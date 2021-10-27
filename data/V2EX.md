@@ -1,6 +1,17 @@
 # V2EX
 
 
+* [2021-10-27  [问与答] 有哪些支持定时开关的恒温水壶？](https://www.v2ex.com/t/811091)
+* [2021-10-27  [Apple] 明年 iPhone 会换上 miniLED 吗](https://www.v2ex.com/t/811090)
+* [2021-10-27  [MacBook Pro] 自行更换了 NVME SSD 的 2015 款 Macbook Pro 无法升级 Monterey](https://www.v2ex.com/t/811088)
+* [2021-10-27  [Apple] 为什么 M1 Max 的功耗控制可以如此优秀？](https://www.v2ex.com/t/811087)
+* [2021-10-27  [Apple] 有同学弃用 pro xdr，嫌光不柔和的吗？](https://www.v2ex.com/t/811086)
+* [2021-10-27  [问与答] 在各种桌面操作系统上（Windows、MacOS、 Linux ）上，各有哪些手段可以使软件开机自启动？](https://www.v2ex.com/t/811085)
+* [2021-10-27  [Apple] 分享一段乔布斯的话，关于苹果的封闭与开放](https://www.v2ex.com/t/811084)
+* [2021-10-27  [酷工作] 🔥🔥有没有想来 [思科中国] 的 ，三十多个岗位招人 [杭州/上海/合肥/苏州]](https://www.v2ex.com/t/811083)
+* [2021-10-27  [程序员] 请教大佬，一个微服务 API 返回数据合理性问题](https://www.v2ex.com/t/811082)
+* [2021-10-27  [Apple] Monterey 12.0.1 似乎修好了一些 external display 的问题](https://www.v2ex.com/t/811081)
+* [2021-10-27  [MacBook Pro] Apple Store 常备 14 英寸 M1 MAX 64GB 2TB 配置](https://www.v2ex.com/t/811080)
 * [2021-10-27  [项目管理] 发现 PMP 培训机构发来的教材是盗版的](https://www.v2ex.com/t/811079)
 * [2021-10-27  [酷工作] PHP 远程全职](https://www.v2ex.com/t/811078)
 * [2021-10-27  [macOS] 发现一个 Final Cut Pro 的特性，不知道其他地方会不会有](https://www.v2ex.com/t/811076)
