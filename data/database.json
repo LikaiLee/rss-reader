@@ -28,6 +28,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "使用 iPhone 13 Pro 半个月，重新思考「创新」的维度和边界",
+                "link": "https://sspai.com/post/69241",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "不止双链笔记，这五种思路带你用好 Logseq",
                 "link": "https://sspai.com/post/69503",
                 "published": "2021-10-27"
@@ -183,13 +188,143 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[ WATCH] 升级系统后手表不能解锁手机和笔记本了",
+                "link": "https://www.v2ex.com/t/811005",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 各位彦祖、祖贤，如何改善长时间颓废的状态",
+                "link": "https://www.v2ex.com/t/811004",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 继：公司不发工资不给离职怎么办？寻求有经验的帮助",
+                "link": "https://www.v2ex.com/t/811003",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 连入一些 wifi 前，要同意一个证书，这是干啥的？同意后， https 还安全么？",
+                "link": "https://www.v2ex.com/t/811002",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[酷工作] Teams 这个在线状态到底怎么算的",
+                "link": "https://www.v2ex.com/t/811001",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[iPhone] 想买 13mini…",
+                "link": "https://www.v2ex.com/t/811000",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MacBook Pro] 请教 mac book pro 修理问题",
+                "link": "https://www.v2ex.com/t/810999",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[分享创造] WGestures 2 for Windows",
+                "link": "https://www.v2ex.com/t/810998",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 机械革命 code10 10 月 26 日没有发布吗？",
+                "link": "https://www.v2ex.com/t/810997",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[硬件] 现在安卓手机应该怎么选呢？",
+                "link": "https://www.v2ex.com/t/810996",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] Setapp 家庭组 3 年车龄司机招乘客",
+                "link": "https://www.v2ex.com/t/810995",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 有没有根据关键词生成句子的算法模型？",
+                "link": "https://www.v2ex.com/t/810994",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] 2021 年 10 月了，请问 M1 SSD 过量写入这个问题还有吗？",
+                "link": "https://www.v2ex.com/t/810993",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[程序员] csdn 是真的恶心",
+                "link": "https://www.v2ex.com/t/810991",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 新版 14/16 MBP 有人测试过 Java IDEA 开发编译速度么，和 M1 对比提升有多大",
+                "link": "https://www.v2ex.com/t/810990",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] Monterey 的 Apple Books 实在令人失望",
+                "link": "https://www.v2ex.com/t/810989",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[酷工作] [上海] 阿里巴巴 P5/P6/P7 招聘，这里有不一样的阿里，聊几句心里话",
+                "link": "https://www.v2ex.com/t/810988",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] 无法升级到 Monterey，求助！",
+                "link": "https://www.v2ex.com/t/810986",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[酷工作] 万声音乐集团 招聘 [安卓开发] [产品经理] [设计师] [北京/深圳] [20~40K]",
+                "link": "https://www.v2ex.com/t/810985",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 双 11 想选购显示屏做双屏或者三屏 Setup，大家有推荐的吗？",
+                "link": "https://www.v2ex.com/t/810984",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] 关于 macOS 11.6.1 外接显示器 Type-c 无法充电",
+                "link": "https://www.v2ex.com/t/810983",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[京东] 买联想电脑去官网买还是京东买？",
+                "link": "https://www.v2ex.com/t/810982",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[iCloud] 有人知道在国内怎么使用 icloud+的专项代理吗",
+                "link": "https://www.v2ex.com/t/810981",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[深圳] 求租，西乡附近两房一厅， 60 平以上",
+                "link": "https://www.v2ex.com/t/810980",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[全球工单系统] V2ex 打不开了",
+                "link": "https://www.v2ex.com/t/810979",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[宽带症候群] FCC 吊销中国电信在美运营牌照 限期 60 天停业",
+                "link": "https://www.v2ex.com/t/810978",
+                "published": "2021-10-27"
+            },
             {
                 "title": "[宽带症候群] 湖南省会现在联通和电信到底哪家强？",
                 "link": "https://www.v2ex.com/t/810976",
@@ -5226,7 +5361,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 13
+        "new_feeds": 26
     },
     {
         "id": 3,
@@ -5599,6 +5734,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
