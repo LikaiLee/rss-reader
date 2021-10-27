@@ -186,6 +186,91 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 能推荐一些你觉得有意思的与计算机相关的书籍吗？",
+                "link": "https://www.v2ex.com/t/810924",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[程序员] 有人举报过公司 996 吗",
+                "link": "https://www.v2ex.com/t/810923",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[iOS] iOS 15.1 升级后日历 app 很卡顿",
+                "link": "https://www.v2ex.com/t/810922",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 关于苹果产品几个显而易见的废话，主要是 2021 款的 MBP",
+                "link": "https://www.v2ex.com/t/810921",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 27 寸 5K 屏 ProMotion miniLED 多少钱能接受？",
+                "link": "https://www.v2ex.com/t/810918",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[酷工作] [杭州]络叶科技招募 Ruby 工程师 / 算法工程师 / UI 设计师",
+                "link": "https://www.v2ex.com/t/810917",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 如何通过 applescript 运行终端命令",
+                "link": "https://www.v2ex.com/t/810916",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[生活] iPad 上的微信可以折叠微信群+置底了。",
+                "link": "https://www.v2ex.com/t/810914",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[生活] 现在想看个 2D 电影挺难的",
+                "link": "https://www.v2ex.com/t/810911",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[酷工作] [杭州] 阿里巴巴天猫优品招聘 P5， P6（工作六年以内的同学）",
+                "link": "https://www.v2ex.com/t/810910",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 京东买的 14 寸 macbook pro，今日到货，开箱发现坏点，该如何处理？",
+                "link": "https://www.v2ex.com/t/810908",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[程序员] 这个 GEO 场景是用 Lua 还是 redisTemplate？",
+                "link": "https://www.v2ex.com/t/810906",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MacBook Pro] MacBook Pro 14/16 可以自己拓展加存储内存?",
+                "link": "https://www.v2ex.com/t/810905",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] ios15 消息的隐式推送去哪儿了？",
+                "link": "https://www.v2ex.com/t/810902",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 新系统解决了我多年蓝牙鼠标卡顿问题",
+                "link": "https://www.v2ex.com/t/810900",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[求职] 上海浦东这边有没有需要行政岗或者产品运营之类的 帮我女朋友找个活干干",
+                "link": "https://www.v2ex.com/t/810899",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MacBook Pro] 12k 19 款 mbp，值嘛",
+                "link": "https://www.v2ex.com/t/810898",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "[推广] 灵光一闪！帮你使用 Vue，搞定无法解决的“动态挂载”",
                 "link": "https://www.v2ex.com/t/810897",
                 "published": "2021-10-27"
@@ -4926,7 +5011,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 17
     },
     {
         "id": 3,

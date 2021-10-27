@@ -1,6 +1,23 @@
 # V2EX
 
 
+* [2021-10-27  [程序员] 能推荐一些你觉得有意思的与计算机相关的书籍吗？](https://www.v2ex.com/t/810924)
+* [2021-10-27  [程序员] 有人举报过公司 996 吗](https://www.v2ex.com/t/810923)
+* [2021-10-27  [iOS] iOS 15.1 升级后日历 app 很卡顿](https://www.v2ex.com/t/810922)
+* [2021-10-27  [Apple] 关于苹果产品几个显而易见的废话，主要是 2021 款的 MBP](https://www.v2ex.com/t/810921)
+* [2021-10-27  [Apple] 27 寸 5K 屏 ProMotion miniLED 多少钱能接受？](https://www.v2ex.com/t/810918)
+* [2021-10-27  [酷工作] [杭州]络叶科技招募 Ruby 工程师 / 算法工程师 / UI 设计师](https://www.v2ex.com/t/810917)
+* [2021-10-27  [Apple] 如何通过 applescript 运行终端命令](https://www.v2ex.com/t/810916)
+* [2021-10-27  [生活] iPad 上的微信可以折叠微信群+置底了。](https://www.v2ex.com/t/810914)
+* [2021-10-27  [生活] 现在想看个 2D 电影挺难的](https://www.v2ex.com/t/810911)
+* [2021-10-27  [酷工作] [杭州] 阿里巴巴天猫优品招聘 P5， P6（工作六年以内的同学）](https://www.v2ex.com/t/810910)
+* [2021-10-27  [问与答] 京东买的 14 寸 macbook pro，今日到货，开箱发现坏点，该如何处理？](https://www.v2ex.com/t/810908)
+* [2021-10-27  [程序员] 这个 GEO 场景是用 Lua 还是 redisTemplate？](https://www.v2ex.com/t/810906)
+* [2021-10-27  [MacBook Pro] MacBook Pro 14/16 可以自己拓展加存储内存?](https://www.v2ex.com/t/810905)
+* [2021-10-27  [Apple] ios15 消息的隐式推送去哪儿了？](https://www.v2ex.com/t/810902)
+* [2021-10-27  [Apple] 新系统解决了我多年蓝牙鼠标卡顿问题](https://www.v2ex.com/t/810900)
+* [2021-10-27  [求职] 上海浦东这边有没有需要行政岗或者产品运营之类的 帮我女朋友找个活干干](https://www.v2ex.com/t/810899)
+* [2021-10-27  [MacBook Pro] 12k 19 款 mbp，值嘛](https://www.v2ex.com/t/810898)
 * [2021-10-27  [推广] 灵光一闪！帮你使用 Vue，搞定无法解决的“动态挂载”](https://www.v2ex.com/t/810897)
 * [2021-10-27  [Android] 小米 10S 对比小米 Civi](https://www.v2ex.com/t/810895)
 * [2021-10-27  [问与答] 关于 Python 线程和协程上的一点小问题](https://www.v2ex.com/t/810893)

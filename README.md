@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+11】
+* [V2EX](#V2EX) 【+17】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-27】 [推广] 灵光一闪！帮你使用 Vue，搞定无法解决的“动态挂载”](https://www.v2ex.com/t/810897)
-* [【2021-10-27】 [Android] 小米 10S 对比小米 Civi](https://www.v2ex.com/t/810895)
-* [【2021-10-27】 [问与答] 关于 Python 线程和协程上的一点小问题](https://www.v2ex.com/t/810893)
-* [【2021-10-27】 [Homebrew] homebrew 移除了对 mojave 的支持，结果现在安装啥都得编译安装，有的要几个小时才编译完，愁死了](https://www.v2ex.com/t/810892)
-* [【2021-10-27】 [问与答] 一个诡异的外接显示器刷新率的问题](https://www.v2ex.com/t/810891)
-* [【2021-10-27】 [macOS] MacOS Monterey 新出的 Passwords，大家觉得怎么样？](https://www.v2ex.com/t/810889)
-* [【2021-10-27】 [Apple] 16" m1 pro 16g 用了一晚，那个屏真毒到我了](https://www.v2ex.com/t/810888)
-* [【2021-10-27】 [职场话题] 大伙给点建议](https://www.v2ex.com/t/810887)
-* [【2021-10-27】 [程序员] 有没有开源的 sql 审计平台，并且需要支持 sqlserver](https://www.v2ex.com/t/810884)
-* [【2021-10-27】 [Apple] iMac 上安装的 Windows 为什么这么卡](https://www.v2ex.com/t/810883)
+* [【2021-10-27】 [程序员] 能推荐一些你觉得有意思的与计算机相关的书籍吗？](https://www.v2ex.com/t/810924)
+* [【2021-10-27】 [程序员] 有人举报过公司 996 吗](https://www.v2ex.com/t/810923)
+* [【2021-10-27】 [iOS] iOS 15.1 升级后日历 app 很卡顿](https://www.v2ex.com/t/810922)
+* [【2021-10-27】 [Apple] 关于苹果产品几个显而易见的废话，主要是 2021 款的 MBP](https://www.v2ex.com/t/810921)
+* [【2021-10-27】 [Apple] 27 寸 5K 屏 ProMotion miniLED 多少钱能接受？](https://www.v2ex.com/t/810918)
+* [【2021-10-27】 [酷工作] [杭州]络叶科技招募 Ruby 工程师 / 算法工程师 / UI 设计师](https://www.v2ex.com/t/810917)
+* [【2021-10-27】 [Apple] 如何通过 applescript 运行终端命令](https://www.v2ex.com/t/810916)
+* [【2021-10-27】 [生活] iPad 上的微信可以折叠微信群+置底了。](https://www.v2ex.com/t/810914)
+* [【2021-10-27】 [生活] 现在想看个 2D 电影挺难的](https://www.v2ex.com/t/810911)
+* [【2021-10-27】 [酷工作] [杭州] 阿里巴巴天猫优品招聘 P5， P6（工作六年以内的同学）](https://www.v2ex.com/t/810910)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 03:21:06
+:alarm_clock: 更新时间: 2021-10-27 04:26:20
