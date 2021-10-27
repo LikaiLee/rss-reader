@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+9】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+23】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-27】 [分享发现] “真假程序员”有奖趣味答题活动，参加有福利哦](https://www.v2ex.com/t/811019)
-* [【2021-10-27】 [macOS] 如何解决 MacBook 温度过高问题？](https://www.v2ex.com/t/811018)
-* [【2021-10-27】 [Docker] 想在软路由里面运行 1-2 个 Docker 服务 硬盘容量只有 15G 安装什么系统？](https://www.v2ex.com/t/811016)
-* [【2021-10-27】 [iOS] 记录一个 iOS 短信的 BUG（可能是），双卡情况下发送给运营商的短信指令被“篡改”](https://www.v2ex.com/t/811015)
-* [【2021-10-27】 [分享创造] 新型博客产品，读者可付费订阅](https://www.v2ex.com/t/811014)
-* [【2021-10-27】 [Apple] 绝了！新 mbp 还有比刘海更恶心的地方！](https://www.v2ex.com/t/811012)
-* [【2021-10-27】 [酷工作] 🔥[新加坡] [技术移民]知名大型互联网公司，招移动端（iOS,安卓），前端，后端开发（不限开发语言），大数据开发， DevOps 或 SRE 等各类工程师，各方向技术专家及技术负责人（P7-P9)，个税低，没有 996，中文视频面试。](https://www.v2ex.com/t/811011)
-* [【2021-10-27】 [程序员] 有大佬分享一下 Mac Monterey 如何配置 phpmyadmin 吗？ Monterey 取消了内置的 PHP 自己原先用的好好的 phpmyadmin 现在不能用了](https://www.v2ex.com/t/811010)
-* [【2021-10-27】 [酷工作] [ 杭州 ] 大侠来呀， web 前端，国企，招 1 人， 3-5 年](https://www.v2ex.com/t/811009)
-* [【2021-10-27】 [ WATCH] 升级系统后手表不能解锁手机和笔记本了](https://www.v2ex.com/t/811005)
+* [【2021-10-27】 [Apple] 刘海是额外增加屏幕使用面积了吗？我认为不这样](https://www.v2ex.com/t/811041)
+* [【2021-10-27】 [优惠信息] HomeKit 官方认证、智能 LED、支持天猫精灵、小爱、小度、Amazon、原价 99，现五折](https://www.v2ex.com/t/811039)
+* [【2021-10-27】 [分享发现] 住房公积金可以在小程序中转移了](https://www.v2ex.com/t/811037)
+* [【2021-10-27】 [全球工单系统] jcenter 彻底废了吗？](https://www.v2ex.com/t/811036)
+* [【2021-10-27】 [宽带症候群] 为什么无法从大陆 DNS 获取到 swcdn.apple.com 大陆地区的 CDN 地址？](https://www.v2ex.com/t/811035)
+* [【2021-10-27】 [CSS] 很久没接触前端了，目前最先进的 CSS 库或解决方案是什么？](https://www.v2ex.com/t/811034)
+* [【2021-10-27】 [MacBook Pro] 一个小技巧，帮你看清刘海下的内容！](https://www.v2ex.com/t/811031)
+* [【2021-10-27】 [酷工作] WE ARE HIRING! [杭州][福利外企] 微策略软件招 Web 前端， C++，测试工程师， 16-40K， 13 薪，资金另算，各种福利不打折扣](https://www.v2ex.com/t/811030)
+* [【2021-10-27】 [问与答] 为啥家里电脑上的 chrom 浏览器不能打开谷歌应用商店，公司的电脑就行？谢答！](https://www.v2ex.com/t/811029)
+* [【2021-10-27】 [上海] 转租 | 12 号线 [虹梅路站] 漕河泾附近](https://www.v2ex.com/t/811028)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 09:19:36
+:alarm_clock: 更新时间: 2021-10-27 10:22:07

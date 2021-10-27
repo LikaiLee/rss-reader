@@ -193,13 +193,128 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] 刘海是额外增加屏幕使用面积了吗？我认为不这样",
+                "link": "https://www.v2ex.com/t/811041",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[优惠信息] HomeKit 官方认证、智能 LED、支持天猫精灵、小爱、小度、Amazon、原价 99，现五折",
+                "link": "https://www.v2ex.com/t/811039",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[分享发现] 住房公积金可以在小程序中转移了",
+                "link": "https://www.v2ex.com/t/811037",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[全球工单系统] jcenter 彻底废了吗？",
+                "link": "https://www.v2ex.com/t/811036",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[宽带症候群] 为什么无法从大陆 DNS 获取到 swcdn.apple.com 大陆地区的 CDN 地址？",
+                "link": "https://www.v2ex.com/t/811035",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[CSS] 很久没接触前端了，目前最先进的 CSS 库或解决方案是什么？",
+                "link": "https://www.v2ex.com/t/811034",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MacBook Pro] 一个小技巧，帮你看清刘海下的内容！",
+                "link": "https://www.v2ex.com/t/811031",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[酷工作] WE ARE HIRING! [杭州][福利外企] 微策略软件招 Web 前端， C++，测试工程师， 16-40K， 13 薪，资金另算，各种福利不打折扣",
+                "link": "https://www.v2ex.com/t/811030",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 为啥家里电脑上的 chrom 浏览器不能打开谷歌应用商店，公司的电脑就行？谢答！",
+                "link": "https://www.v2ex.com/t/811029",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[上海] 转租 | 12 号线 [虹梅路站] 漕河泾附近",
+                "link": "https://www.v2ex.com/t/811028",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] 第一次用 Mac，请教下环境变量问题",
+                "link": "https://www.v2ex.com/t/811027",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[杭州] 因学校研究生专业实践要求，需要一名有软件类、电子信息类的高级职称的工程师做校外合作导师，特发帖寻找。回报为浙大校外导师聘书以及 1000 元导师指导费",
+                "link": "https://www.v2ex.com/t/811026",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[上海] 迫于跑路，转租(上海嘉定)",
+                "link": "https://www.v2ex.com/t/811025",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[生活] 关于垃圾桶的思考",
+                "link": "https://www.v2ex.com/t/811024",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[分享发现] 希望所有做桌面（Windows or macOS）应用程序的开发者都学习一下 Adobe，出一个后台进程说明，对于软件洁癖患者很有帮助",
+                "link": "https://www.v2ex.com/t/811023",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[职场话题] 遭遇裁员 劳动仲裁失败 求助",
+                "link": "https://www.v2ex.com/t/811022",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 做自媒体拍摄视频租设备+摄影师+影棚大概要 2000+一天，有没有什么平替的方案呀？",
+                "link": "https://www.v2ex.com/t/811021",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MacBook] 不懂就问， air 和 pro",
+                "link": "https://www.v2ex.com/t/811020",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[推广] “真假程序员”有奖趣味答题活动，参加有福利哦",
+                "link": "https://www.v2ex.com/t/811019",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[生活] 各位彦祖、祖贤，如何改善长时间颓废的状态",
+                "link": "https://www.v2ex.com/t/811004",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[职场话题] 继：公司不发工资不给离职怎么办？寻求有经验的帮助",
+                "link": "https://www.v2ex.com/t/811003",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] Teams 这个在线状态到底怎么算的",
+                "link": "https://www.v2ex.com/t/811001",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[全球工单系统] csdn 是真的恶心",
+                "link": "https://www.v2ex.com/t/810991",
+                "published": "2021-10-27"
+            },
             {
                 "title": "[分享发现] “真假程序员”有奖趣味答题活动，参加有福利哦",
                 "link": "https://www.v2ex.com/t/811019",
@@ -5411,7 +5526,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 23
     },
     {
         "id": 3,
@@ -5789,6 +5904,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
