@@ -28,6 +28,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：索尼发布新一代微单手机 Xperia PRO-I、高通推出新款骁龙处理器",
+                "link": "https://sspai.com/post/69527",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "macOS Monterey 正式版来了，升级之后试试这些新变化",
                 "link": "https://sspai.com/post/68745",
                 "published": "2021-10-26"
@@ -173,13 +178,213 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[职场话题] 请教下工作的选择问题？",
+                "link": "https://www.v2ex.com/t/810877",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[生活] 求推荐方便清洁的空气炸锅",
+                "link": "https://www.v2ex.com/t/810876",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 一个小问题， apple watch 表盘里的默认城市为何为桐城？",
+                "link": "https://www.v2ex.com/t/810874",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Google] Pixel 6 已到货，不支持人脸解锁",
+                "link": "https://www.v2ex.com/t/810872",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[程序员] Electron 哪个较新的版本比较稳定，适合线上大规模部署？",
+                "link": "https://www.v2ex.com/t/810871",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 新 mac 的刘海可以隐藏吗?",
+                "link": "https://www.v2ex.com/t/810869",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 最新版的谷歌 ncr 怎么配置",
+                "link": "https://www.v2ex.com/t/810865",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 售价 60 元的 Apple 取卡针，我怎么在苹果官网找不到啊",
+                "link": "https://www.v2ex.com/t/810863",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[职场话题] 周经贴：被裁员的 N+1 是如何计算的？",
+                "link": "https://www.v2ex.com/t/810862",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 永动机？ mbp 可以自己给自己充电？",
+                "link": "https://www.v2ex.com/t/810861",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] M1 Max tensorflow metal 跑分",
+                "link": "https://www.v2ex.com/t/810860",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] 升级到 Monterey，应用秒开了！",
+                "link": "https://www.v2ex.com/t/810859",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[CSS] CSS aspect-ratio 的浏览器支持",
+                "link": "https://www.v2ex.com/t/810858",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Android] android 第三方应用可以不使用系统 hosts 吗，想拦截百度输入法上传文件",
+                "link": "https://www.v2ex.com/t/810857",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] safari 全屏模式下鼠标碰到屏幕左侧会弹出书签边栏",
+                "link": "https://www.v2ex.com/t/810856",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[分享创造] [送码] KfExplorer -- 一款 Apche Kafka 管理工具(现已上架 AppStore)",
+                "link": "https://www.v2ex.com/t/810855",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[设计] 新入行设计师攒经验和作品，免费接 5 个 UI/UX 设计项目",
+                "link": "https://www.v2ex.com/t/810852",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？",
+                "link": "https://www.v2ex.com/t/810851",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 最近 app 出现摇一摇跳转广告，如何解决？",
+                "link": "https://www.v2ex.com/t/810850",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 来测测你的电影阅片量",
+                "link": "https://www.v2ex.com/t/810849",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] Sidecar 随航功能会影响 wifi",
+                "link": "https://www.v2ex.com/t/810846",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[程序员] 推荐一款帮助 markdown 用户快速写文档的工具： url2md",
+                "link": "https://www.v2ex.com/t/810845",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[奇思妙想] 大家买的等待最久的东西是什么",
+                "link": "https://www.v2ex.com/t/810844",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[微信] 请教各位大佬转区失败问题",
+                "link": "https://www.v2ex.com/t/810843",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 国外很多媒体人都说：苹果逐渐由设计优先切换到实用优先了",
+                "link": "https://www.v2ex.com/t/810842",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[程序员] 感觉程序员越来越像当代的绣娘了。",
+                "link": "https://www.v2ex.com/t/810841",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] yoga14s vs thinkbook 14p",
+                "link": "https://www.v2ex.com/t/810840",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[JavaScript] 有没有帮助实现本地顺序执行任务的 queue？",
+                "link": "https://www.v2ex.com/t/810839",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[互联网] 垃圾 360，都 21 年了，安装 360 还跟踩💩一样恶心",
+                "link": "https://www.v2ex.com/t/810838",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] Monterey 升级过后梯子失效了。",
+                "link": "https://www.v2ex.com/t/810837",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] 用 SwiftUI 写了一个 Youtube-dl 的 GUI，各位大佬看看",
+                "link": "https://www.v2ex.com/t/810836",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[iOS] 为什么关闭小宇宙的蜂窝网络，它仍然可以联网",
+                "link": "https://www.v2ex.com/t/810835",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Windows] Win11 添加同名蓝牙设备",
+                "link": "https://www.v2ex.com/t/810834",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] Monterey 对比 Big Sur 内存占用小了？",
+                "link": "https://www.v2ex.com/t/810833",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[程序员] 有没有自动根据 PSD 设计图生成 css 的工具？",
+                "link": "https://www.v2ex.com/t/810831",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] javaw.exe 一直在占用大量的 CPU 和内存",
+                "link": "https://www.v2ex.com/t/810830",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 新款 14 寸 mac 到了，有一点让我极其震撼～",
+                "link": "https://www.v2ex.com/t/810829",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] ios 和 MacOS 升级到最新，均踩雷，以后再也不敢了。",
+                "link": "https://www.v2ex.com/t/810828",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 我升级了 Mac OS Monterey",
+                "link": "https://www.v2ex.com/t/810825",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[生活] 不知道大家平时都用什么杯子泡茶？",
+                "link": "https://www.v2ex.com/t/810818",
+                "published": "2021-10-27"
+            },
             {
                 "title": "[MacBook Pro] 今天到手 16 寸 Pro 对于刘海的疑惑",
                 "link": "https://www.v2ex.com/t/810822",
@@ -4666,7 +4871,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 40
     },
     {
         "id": 3,

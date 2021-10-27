@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+10】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+40】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-27】 派早报：索尼发布新一代微单手机 Xperia PRO-I、高通推出新款骁龙处理器](https://sspai.com/post/69527)
 * [【2021-10-26】 macOS Monterey 正式版来了，升级之后试试这些新变化](https://sspai.com/post/68745)
 * [【2021-10-26】 具透 | Chrome 和 Edge 95 稳定版更新，它们都有哪些新功能？](https://sspai.com/post/69509)
 * [【2021-10-25】 新款 AirPods 首发体验：新外观、新功能，时隔 5 年的全新升级](https://sspai.com/post/69504)
@@ -36,7 +37,6 @@
 * [【2021-10-25】 新款 AirPods 首发体验：新外观、新功能，史上最大的一次升级](https://sspai.com/post/69504)
 * [【2021-10-25】 派评 | 近期值得关注的 App](https://sspai.com/post/69506)
 * [【2021-10-25】 钱包未动，算盘先行：2021 年新 MacBook Pro 选购指南](https://sspai.com/post/69507)
-* [【2021-10-25】 城市漫步指南：维斯马，一座平凡却难以被取代的城市](https://sspai.com/post/68529)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-27】 [MacBook Pro] 今天到手 16 寸 Pro 对于刘海的疑惑](https://www.v2ex.com/t/810822)
-* [【2021-10-27】 [问与答] PDF 转 word](https://www.v2ex.com/t/810821)
-* [【2021-10-27】 [问与答] Websocket 每次建立连接比 HTTP 慢， tcp 开销大吗？](https://www.v2ex.com/t/810820)
-* [【2021-10-27】 [问与答] 撸代码，选 14 寸 yoga14s 外接显示器还是小新 pro16 不外接显示器？](https://www.v2ex.com/t/810819)
-* [【2021-10-27】 [问与答] 不知道大家平时都用什么杯子泡茶？](https://www.v2ex.com/t/810818)
-* [【2021-10-27】 [分享创造] 找出非 Mac App Store 的应用并替换它](https://www.v2ex.com/t/810817)
-* [【2021-10-27】 [问与答] google play 总是自己修改软件更新设置要怎么办](https://www.v2ex.com/t/810816)
-* [【2021-10-27】 [MacBook Pro] 大家的 MacBook Pro 屏幕里进过异物吗？比如小虫子...](https://www.v2ex.com/t/810815)
-* [【2021-10-27】 [MacBook Pro] 有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814)
-* [【2021-10-27】 [微信] <del>macos 微信这是偷偷摸摸干嘛呢？</del>](https://www.v2ex.com/t/810813)
+* [【2021-10-27】 [职场话题] 请教下工作的选择问题？](https://www.v2ex.com/t/810877)
+* [【2021-10-27】 [生活] 求推荐方便清洁的空气炸锅](https://www.v2ex.com/t/810876)
+* [【2021-10-27】 [问与答] 一个小问题， apple watch 表盘里的默认城市为何为桐城？](https://www.v2ex.com/t/810874)
+* [【2021-10-27】 [Google] Pixel 6 已到货，不支持人脸解锁](https://www.v2ex.com/t/810872)
+* [【2021-10-27】 [程序员] Electron 哪个较新的版本比较稳定，适合线上大规模部署？](https://www.v2ex.com/t/810871)
+* [【2021-10-27】 [Apple] 新 mac 的刘海可以隐藏吗?](https://www.v2ex.com/t/810869)
+* [【2021-10-27】 [问与答] 最新版的谷歌 ncr 怎么配置](https://www.v2ex.com/t/810865)
+* [【2021-10-27】 [Apple] 售价 60 元的 Apple 取卡针，我怎么在苹果官网找不到啊](https://www.v2ex.com/t/810863)
+* [【2021-10-27】 [职场话题] 周经贴：被裁员的 N+1 是如何计算的？](https://www.v2ex.com/t/810862)
+* [【2021-10-27】 [Apple] 永动机？ mbp 可以自己给自己充电？](https://www.v2ex.com/t/810861)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 01:02:37
+:alarm_clock: 更新时间: 2021-10-27 02:30:21
