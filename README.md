@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+23】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+6】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-27】 信步寻幽，自我策展：我的阅读技术史](https://sspai.com/post/69136)
 * [【2021-10-27】 疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事](https://sspai.com/post/69533)
 * [【2021-10-27】 使用 iPhone 13 Pro 半个月，重新思考「创新」的维度和边界](https://sspai.com/post/69241)
 * [【2021-10-27】 不止双链笔记，这五种思路带你用好 Logseq](https://sspai.com/post/69503)
@@ -36,7 +37,6 @@
 * [【2021-10-25】 新款 AirPods 首发体验：新外观、新功能，时隔 5 年的全新升级](https://sspai.com/post/69504)
 * [【2021-10-26】 SharePlay、Apple ProRes 齐登场，iOS 15.1 值得关注的 6 个更新](https://sspai.com/post/69441)
 * [【2021-10-26】 沿海地区的山珍漫游指南：盘点家乡那些奇怪的美食](https://sspai.com/post/69479)
-* [【2021-10-26】 派早报：新款 MacBook Pro、AirPods 正式发售，荣耀 Play5 活力版正式发布等](https://sspai.com/post/69514)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,16 @@
     </summary>
 
 
+* [【2021-10-27】 [程序员] 互联网黑话 JS 实现](https://www.v2ex.com/t/811050)
+* [【2021-10-27】 [MySQL] 今日遇到的神奇的 sql 优化问题](https://www.v2ex.com/t/811049)
+* [【2021-10-27】 [问与答] 怎么克制收集低端“性价比”产品的习惯？](https://www.v2ex.com/t/811047)
+* [【2021-10-27】 [MacBook Pro] 凑热闹发个 MBP14 的体验，新进风口割手](https://www.v2ex.com/t/811046)
+* [【2021-10-27】 [酷工作] [杭州][外企][内推]杭州微策略软件招聘研发和测试](https://www.v2ex.com/t/811045)
+* [【2021-10-27】 [问与答] 作为开发环境的话，有什么 VPS 或者云服务器推荐吗？](https://www.v2ex.com/t/811043)
 * [【2021-10-27】 [Apple] 刘海是额外增加屏幕使用面积了吗？我认为不这样](https://www.v2ex.com/t/811041)
 * [【2021-10-27】 [优惠信息] HomeKit 官方认证、智能 LED、支持天猫精灵、小爱、小度、Amazon、原价 99，现五折](https://www.v2ex.com/t/811039)
 * [【2021-10-27】 [分享发现] 住房公积金可以在小程序中转移了](https://www.v2ex.com/t/811037)
 * [【2021-10-27】 [全球工单系统] jcenter 彻底废了吗？](https://www.v2ex.com/t/811036)
-* [【2021-10-27】 [宽带症候群] 为什么无法从大陆 DNS 获取到 swcdn.apple.com 大陆地区的 CDN 地址？](https://www.v2ex.com/t/811035)
-* [【2021-10-27】 [CSS] 很久没接触前端了，目前最先进的 CSS 库或解决方案是什么？](https://www.v2ex.com/t/811034)
-* [【2021-10-27】 [MacBook Pro] 一个小技巧，帮你看清刘海下的内容！](https://www.v2ex.com/t/811031)
-* [【2021-10-27】 [酷工作] WE ARE HIRING! [杭州][福利外企] 微策略软件招 Web 前端， C++，测试工程师， 16-40K， 13 薪，资金另算，各种福利不打折扣](https://www.v2ex.com/t/811030)
-* [【2021-10-27】 [问与答] 为啥家里电脑上的 chrom 浏览器不能打开谷歌应用商店，公司的电脑就行？谢答！](https://www.v2ex.com/t/811029)
-* [【2021-10-27】 [上海] 转租 | 12 号线 [虹梅路站] 漕河泾附近](https://www.v2ex.com/t/811028)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 10:22:07
+:alarm_clock: 更新时间: 2021-10-27 11:16:34

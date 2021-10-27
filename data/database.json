@@ -28,6 +28,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "信步寻幽，自我策展：我的阅读技术史",
+                "link": "https://sspai.com/post/69136",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事",
                 "link": "https://sspai.com/post/69533",
                 "published": "2021-10-27"
@@ -193,13 +198,43 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[程序员] 互联网黑话 JS 实现",
+                "link": "https://www.v2ex.com/t/811050",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MySQL] 今日遇到的神奇的 sql 优化问题",
+                "link": "https://www.v2ex.com/t/811049",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 怎么克制收集低端“性价比”产品的习惯？",
+                "link": "https://www.v2ex.com/t/811047",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MacBook Pro] 凑热闹发个 MBP14 的体验，新进风口割手",
+                "link": "https://www.v2ex.com/t/811046",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[酷工作] [杭州][外企][内推]杭州微策略软件招聘研发和测试",
+                "link": "https://www.v2ex.com/t/811045",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 作为开发环境的话，有什么 VPS 或者云服务器推荐吗？",
+                "link": "https://www.v2ex.com/t/811043",
+                "published": "2021-10-27"
+            },
             {
                 "title": "[Apple] 刘海是额外增加屏幕使用面积了吗？我认为不这样",
                 "link": "https://www.v2ex.com/t/811041",
@@ -5526,7 +5561,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 23
+        "new_feeds": 6
     },
     {
         "id": 3,
