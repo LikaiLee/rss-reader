@@ -1,6 +1,16 @@
 # V2EX
 
 
+* [2021-10-27  [MacBook Pro] 今天到手 16 寸 Pro 对于刘海的疑惑](https://www.v2ex.com/t/810822)
+* [2021-10-27  [问与答] PDF 转 word](https://www.v2ex.com/t/810821)
+* [2021-10-27  [问与答] Websocket 每次建立连接比 HTTP 慢， tcp 开销大吗？](https://www.v2ex.com/t/810820)
+* [2021-10-27  [问与答] 撸代码，选 14 寸 yoga14s 外接显示器还是小新 pro16 不外接显示器？](https://www.v2ex.com/t/810819)
+* [2021-10-27  [问与答] 不知道大家平时都用什么杯子泡茶？](https://www.v2ex.com/t/810818)
+* [2021-10-27  [分享创造] 找出非 Mac App Store 的应用并替换它](https://www.v2ex.com/t/810817)
+* [2021-10-27  [问与答] google play 总是自己修改软件更新设置要怎么办](https://www.v2ex.com/t/810816)
+* [2021-10-27  [MacBook Pro] 大家的 MacBook Pro 屏幕里进过异物吗？比如小虫子...](https://www.v2ex.com/t/810815)
+* [2021-10-27  [MacBook Pro] 有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814)
+* [2021-10-27  [微信] <del>macos 微信这是偷偷摸摸干嘛呢？</del>](https://www.v2ex.com/t/810813)
 * [2021-10-26  [macOS] 升级完 Monterey，系统释放了不少硬盘空间](https://www.v2ex.com/t/810810)
 * [2021-10-26  [职场话题] CSIG 史上最恶心校招](https://www.v2ex.com/t/810809)
 * [2021-10-26  [Apple] 🇰🇷限制 Find My 查找功能的使用](https://www.v2ex.com/t/810808)

@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX)
+* [V2EX](#V2EX) 【+10】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-26】 [macOS] 升级完 Monterey，系统释放了不少硬盘空间](https://www.v2ex.com/t/810810)
-* [【2021-10-26】 [职场话题] CSIG 史上最恶心校招](https://www.v2ex.com/t/810809)
-* [【2021-10-26】 [Apple] 🇰🇷限制 Find My 查找功能的使用](https://www.v2ex.com/t/810808)
-* [【2021-10-26】 [宽带症候群] 气死咯，南天 pon Stick 10G 模块 LOID 注册不上，湖南湘潭电信](https://www.v2ex.com/t/810806)
-* [【2021-10-26】 [宽带症候群] 气死咯，南天 ONU Stick 10G 模块 LOID 注册不上，湖南湘潭电信](https://www.v2ex.com/t/810806)
-* [【2021-10-26】 [MacBook Pro] 我也发个 64+4T 的佛系开箱吧](https://www.v2ex.com/t/810805)
-* [【2021-10-26】 [Apple] 17 年底购买的 macbook pro, 如今蝶式键盘反馈出问题，还可以免费更换吗， 19 年已经换过一次 C 面](https://www.v2ex.com/t/810804)
-* [【2021-10-26】 [奇思妙想] 突发奇想， 2021 MacBook Pro 刘海左右内容，让 App 自定义拓展就完美了](https://www.v2ex.com/t/810803)
-* [【2021-10-26】 [Apple] 马后炮而论， M1 Macbook Air 是否成为一代经典？](https://www.v2ex.com/t/810802)
-* [【2021-10-26】 [Windows] 更新 win11 后， sandboxie 内打不开资源管理器了](https://www.v2ex.com/t/810801)
+* [【2021-10-27】 [MacBook Pro] 今天到手 16 寸 Pro 对于刘海的疑惑](https://www.v2ex.com/t/810822)
+* [【2021-10-27】 [问与答] PDF 转 word](https://www.v2ex.com/t/810821)
+* [【2021-10-27】 [问与答] Websocket 每次建立连接比 HTTP 慢， tcp 开销大吗？](https://www.v2ex.com/t/810820)
+* [【2021-10-27】 [问与答] 撸代码，选 14 寸 yoga14s 外接显示器还是小新 pro16 不外接显示器？](https://www.v2ex.com/t/810819)
+* [【2021-10-27】 [问与答] 不知道大家平时都用什么杯子泡茶？](https://www.v2ex.com/t/810818)
+* [【2021-10-27】 [分享创造] 找出非 Mac App Store 的应用并替换它](https://www.v2ex.com/t/810817)
+* [【2021-10-27】 [问与答] google play 总是自己修改软件更新设置要怎么办](https://www.v2ex.com/t/810816)
+* [【2021-10-27】 [MacBook Pro] 大家的 MacBook Pro 屏幕里进过异物吗？比如小虫子...](https://www.v2ex.com/t/810815)
+* [【2021-10-27】 [MacBook Pro] 有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814)
+* [【2021-10-27】 [微信] <del>macos 微信这是偷偷摸摸干嘛呢？</del>](https://www.v2ex.com/t/810813)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-26 23:20:13
+:alarm_clock: 更新时间: 2021-10-27 01:02:37
