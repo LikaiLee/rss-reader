@@ -1,6 +1,10 @@
 # V2EX
 
 
+* [2021-10-27  [问与答] 迫于纠结 U2720qm 还是 UP850](https://www.v2ex.com/t/811111)
+* [2021-10-27  [问与答] 超级菜逼学 Python 遇到的问题，请各位大佬指教，希望别笑话我](https://www.v2ex.com/t/811110)
+* [2021-10-27  [iPhone] 快捷指令里的“接收屏幕内容”有什么用？](https://www.v2ex.com/t/811109)
+* [2021-10-27  [Windows] wsa 如何配合 ssr 科学上网啊](https://www.v2ex.com/t/811108)
 * [2021-10-27  [怀旧游戏] Sprite Catalog](https://www.v2ex.com/t/811107)
 * [2021-10-27  [Apple] 有前端大佬买了 m1 max 没，辛苦讲下体验，之前用过 m1 更好](https://www.v2ex.com/t/811106)
 * [2021-10-27  [macOS] MAS 里的网易云音乐仍是 Intel 版本，并未适配 M1](https://www.v2ex.com/t/811105)

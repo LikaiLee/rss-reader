@@ -206,6 +206,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 迫于纠结 U2720qm 还是 UP850",
+                "link": "https://www.v2ex.com/t/811111",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 超级菜逼学 Python 遇到的问题，请各位大佬指教，希望别笑话我",
+                "link": "https://www.v2ex.com/t/811110",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[iPhone] 快捷指令里的“接收屏幕内容”有什么用？",
+                "link": "https://www.v2ex.com/t/811109",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Windows] wsa 如何配合 ssr 科学上网啊",
+                "link": "https://www.v2ex.com/t/811108",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "[怀旧游戏] Sprite Catalog",
                 "link": "https://www.v2ex.com/t/811107",
                 "published": "2021-10-27"
@@ -5816,7 +5836,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 3,
