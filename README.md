@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+7】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+22】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,17 +46,16 @@
     </summary>
 
 
-* [【2021-10-27】 [问与答] 破于无法发挥 M1 Max 的性能，有什么入门门槛低的技能可以学习](https://www.v2ex.com/t/810935)
-* [【2021-10-27】 [iPad] 升级 15.02 系统后 Apple pencil bug](https://www.v2ex.com/t/810932)
-* [【2021-10-27】 [酷工作] [远程][全职] 国际化元宇宙/数字收藏类初创项目，欢迎有激情的小伙伴加入，前端/后端/全栈/智能合约/自荐职位
-（102721 更新岗位信息）](https://www.v2ex.com/t/810931)
-* [【2021-10-27】 [Steam] 如何看待 steam 上因为”刚买完第二天就打折“而给差评的玩家？](https://www.v2ex.com/t/810930)
-* [【2021-10-27】 [Apple] 程序员论坛就该有程序员论坛的样子，看看这位老哥的 Apple Silicon 评测](https://www.v2ex.com/t/810928)
-* [【2021-10-27】 [生活] 有关社会人际关系的感悟](https://www.v2ex.com/t/810927)
-* [【2021-10-27】 [投资] 空头策略](https://www.v2ex.com/t/810926)
-* [【2021-10-27】 [程序员] 能推荐一些你觉得有意思的与计算机相关的书籍吗？](https://www.v2ex.com/t/810924)
-* [【2021-10-27】 [程序员] 有人举报过公司 996 吗](https://www.v2ex.com/t/810923)
-* [【2021-10-27】 [iOS] iOS 15.1 升级后日历 app 很卡顿](https://www.v2ex.com/t/810922)
+* [【2021-10-27】 [Apple] iphone13 pro 续航不行啊](https://www.v2ex.com/t/810960)
+* [【2021-10-27】 [iOS] IOS 有没有比较好的识别条形码的工具 并且支持后续接口逻辑的（快捷指令自带的扫描条形码功能识别度太低了，不好用）（打通扫码-识别-存入 notion 数据表格）](https://www.v2ex.com/t/810959)
+* [【2021-10-27】 [问与答] [SpringBoot] 对开启 debug 模式后放在 Threadlocal 对象中 HttpServletRequest#getInputStream() 无法获取的疑问](https://www.v2ex.com/t/810958)
+* [【2021-10-27】 [问与答] 家人们， AirPods 2 左耳声音小](https://www.v2ex.com/t/810957)
+* [【2021-10-27】 [问与答] 为什么复制 PDF 中的 subjectiv-ity，结果会是 subjectivity？](https://www.v2ex.com/t/810955)
+* [【2021-10-27】 [Xcode] M1 MacBook Pro， Xcode 启动时必须得卡一下，请问有解决方法么](https://www.v2ex.com/t/810954)
+* [【2021-10-27】 [iOS] 港澳台区 AppStore 的 bilibili 更新 3.0.3 了，无广告、新增直播](https://www.v2ex.com/t/810953)
+* [【2021-10-27】 [MacBook Pro] [搬运工] MacBook Pro 2021 M1 Xcode Benchmark](https://www.v2ex.com/t/810952)
+* [【2021-10-27】 [分享创造] 发现一个有意思的小程序](https://www.v2ex.com/t/810951)
+* [【2021-10-27】 [Apple] [javaer]丐版 2021 14 mpb 的一些实机测试结果](https://www.v2ex.com/t/810950)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 05:17:50
+:alarm_clock: 更新时间: 2021-10-27 06:23:53

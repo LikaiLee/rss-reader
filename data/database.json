@@ -183,13 +183,123 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] iphone13 pro 续航不行啊",
+                "link": "https://www.v2ex.com/t/810960",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[iOS] IOS 有没有比较好的识别条形码的工具 并且支持后续接口逻辑的（快捷指令自带的扫描条形码功能识别度太低了，不好用）（打通扫码-识别-存入 notion 数据表格）",
+                "link": "https://www.v2ex.com/t/810959",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] [SpringBoot] 对开启 debug 模式后放在 Threadlocal 对象中 HttpServletRequest#getInputStream() 无法获取的疑问",
+                "link": "https://www.v2ex.com/t/810958",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 家人们， AirPods 2 左耳声音小",
+                "link": "https://www.v2ex.com/t/810957",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 为什么复制 PDF 中的 subjectiv-ity，结果会是 subjectivity？",
+                "link": "https://www.v2ex.com/t/810955",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Xcode] M1 MacBook Pro， Xcode 启动时必须得卡一下，请问有解决方法么",
+                "link": "https://www.v2ex.com/t/810954",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[iOS] 港澳台区 AppStore 的 bilibili 更新 3.0.3 了，无广告、新增直播",
+                "link": "https://www.v2ex.com/t/810953",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MacBook Pro] [搬运工] MacBook Pro 2021 M1 Xcode Benchmark",
+                "link": "https://www.v2ex.com/t/810952",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[分享创造] 发现一个有意思的小程序",
+                "link": "https://www.v2ex.com/t/810951",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] [javaer]丐版 2021 14 mpb 的一些实机测试结果",
+                "link": "https://www.v2ex.com/t/810950",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MacBook Pro] 刘海还是有那么一点不方便的地方 图标多的话是会被隐藏的 我猜后续还是会从软件层面解决这个问题",
+                "link": "https://www.v2ex.com/t/810948",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[分享创造] 基于 React、materialUI 开发的 EPUB 电子书 web 阅读器",
+                "link": "https://www.v2ex.com/t/810947",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] 每次启动 macOS，百度网盘都会有后台进程",
+                "link": "https://www.v2ex.com/t/810945",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[路由器] 最近选购路由器，原本 ax86u 都觉得贵的老婆，因为颜值看中了威联通 QHora-301W。。。",
+                "link": "https://www.v2ex.com/t/810943",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 那个 DTK 退还之后获得的 $500 优惠券是一次性的？",
+                "link": "https://www.v2ex.com/t/810942",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] MacPorts 适配 Monterey 啦",
+                "link": "https://www.v2ex.com/t/810940",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 这 iPhone 壁纸挺好看的，哪里可以下载到原图",
+                "link": "https://www.v2ex.com/t/810939",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Windows] Windows 10 IoT Enterprise LTSC 2021 has gone RTM for OEMs",
+                "link": "https://www.v2ex.com/t/810938",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[MacBook Pro] 北京直营店归来, 内存确实有点担忧",
+                "link": "https://www.v2ex.com/t/810937",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[杭州] 全新未拆封 iPhone 13 256G 黑色， 6500，杭州面交",
+                "link": "https://www.v2ex.com/t/810936",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[职场话题] 有人举报过公司 996 吗",
+                "link": "https://www.v2ex.com/t/810923",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[京东] 京东买的 14 寸 macbook pro，今日到货，开箱发现坏点，该如何处理？",
+                "link": "https://www.v2ex.com/t/810908",
+                "published": "2021-10-27"
+            },
             {
                 "title": "[问与答] 破于无法发挥 M1 Max 的性能，有什么入门门槛低的技能可以学习",
                 "link": "https://www.v2ex.com/t/810935",
@@ -5051,7 +5161,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 22
     },
     {
         "id": 3,

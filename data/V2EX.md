@@ -1,6 +1,28 @@
 # V2EX
 
 
+* [2021-10-27  [Apple] iphone13 pro 续航不行啊](https://www.v2ex.com/t/810960)
+* [2021-10-27  [iOS] IOS 有没有比较好的识别条形码的工具 并且支持后续接口逻辑的（快捷指令自带的扫描条形码功能识别度太低了，不好用）（打通扫码-识别-存入 notion 数据表格）](https://www.v2ex.com/t/810959)
+* [2021-10-27  [问与答] [SpringBoot] 对开启 debug 模式后放在 Threadlocal 对象中 HttpServletRequest#getInputStream() 无法获取的疑问](https://www.v2ex.com/t/810958)
+* [2021-10-27  [问与答] 家人们， AirPods 2 左耳声音小](https://www.v2ex.com/t/810957)
+* [2021-10-27  [问与答] 为什么复制 PDF 中的 subjectiv-ity，结果会是 subjectivity？](https://www.v2ex.com/t/810955)
+* [2021-10-27  [Xcode] M1 MacBook Pro， Xcode 启动时必须得卡一下，请问有解决方法么](https://www.v2ex.com/t/810954)
+* [2021-10-27  [iOS] 港澳台区 AppStore 的 bilibili 更新 3.0.3 了，无广告、新增直播](https://www.v2ex.com/t/810953)
+* [2021-10-27  [MacBook Pro] [搬运工] MacBook Pro 2021 M1 Xcode Benchmark](https://www.v2ex.com/t/810952)
+* [2021-10-27  [分享创造] 发现一个有意思的小程序](https://www.v2ex.com/t/810951)
+* [2021-10-27  [Apple] [javaer]丐版 2021 14 mpb 的一些实机测试结果](https://www.v2ex.com/t/810950)
+* [2021-10-27  [MacBook Pro] 刘海还是有那么一点不方便的地方 图标多的话是会被隐藏的 我猜后续还是会从软件层面解决这个问题](https://www.v2ex.com/t/810948)
+* [2021-10-27  [分享创造] 基于 React、materialUI 开发的 EPUB 电子书 web 阅读器](https://www.v2ex.com/t/810947)
+* [2021-10-27  [macOS] 每次启动 macOS，百度网盘都会有后台进程](https://www.v2ex.com/t/810945)
+* [2021-10-27  [路由器] 最近选购路由器，原本 ax86u 都觉得贵的老婆，因为颜值看中了威联通 QHora-301W。。。](https://www.v2ex.com/t/810943)
+* [2021-10-27  [Apple] 那个 DTK 退还之后获得的 $500 优惠券是一次性的？](https://www.v2ex.com/t/810942)
+* [2021-10-27  [macOS] MacPorts 适配 Monterey 啦](https://www.v2ex.com/t/810940)
+* [2021-10-27  [问与答] 这 iPhone 壁纸挺好看的，哪里可以下载到原图](https://www.v2ex.com/t/810939)
+* [2021-10-27  [Windows] Windows 10 IoT Enterprise LTSC 2021 has gone RTM for OEMs](https://www.v2ex.com/t/810938)
+* [2021-10-27  [MacBook Pro] 北京直营店归来, 内存确实有点担忧](https://www.v2ex.com/t/810937)
+* [2021-10-27  [杭州] 全新未拆封 iPhone 13 256G 黑色， 6500，杭州面交](https://www.v2ex.com/t/810936)
+* [2021-10-27  [职场话题] 有人举报过公司 996 吗](https://www.v2ex.com/t/810923)
+* [2021-10-27  [京东] 京东买的 14 寸 macbook pro，今日到货，开箱发现坏点，该如何处理？](https://www.v2ex.com/t/810908)
 * [2021-10-27  [问与答] 破于无法发挥 M1 Max 的性能，有什么入门门槛低的技能可以学习](https://www.v2ex.com/t/810935)
 * [2021-10-27  [iPad] 升级 15.02 系统后 Apple pencil bug](https://www.v2ex.com/t/810932)
 * [2021-10-27  [酷工作] [远程][全职] 国际化元宇宙/数字收藏类初创项目，欢迎有激情的小伙伴加入，前端/后端/全栈/智能合约/自荐职位
