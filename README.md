@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+6】
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,16 +46,16 @@
     </summary>
 
 
+* [【2021-10-27】 [Apple] 有前端大佬买了 m1 max 没，辛苦讲下体验，之前用过 m1 更好](https://www.v2ex.com/t/811106)
+* [【2021-10-27】 [macOS] MAS 里的网易云音乐仍是 Intel 版本，并未适配 M1](https://www.v2ex.com/t/811105)
+* [【2021-10-27】 [分享发现] 知乎这个可能是评论数最多的答案，打开评论区直接报 500 了](https://www.v2ex.com/t/811104)
+* [【2021-10-27】 [Apple] 解决 Monterey 的 Safari 在代理下打开部分网页异常的问题](https://www.v2ex.com/t/811103)
+* [【2021-10-27】 [分享创造] 分享一个自己写了 3 年的 App： X-Reader 多功能阅读器，《免费送码》。](https://www.v2ex.com/t/811102)
+* [【2021-10-27】 [求职] [求职] 9 年后端（ Java / Go），求一份全职工作（远程 / 北京望京地区）](https://www.v2ex.com/t/811101)
+* [【2021-10-27】 [酷工作] [上海] 企服 SaaS 公司(天使轮)招聘 Web 前端/ Java 后端工程师](https://www.v2ex.com/t/811100)
 * [【2021-10-27】 [问与答] macOS 的企业微信是不是有内存泄漏](https://www.v2ex.com/t/811099)
 * [【2021-10-27】 [MacBook Pro] MacBook Pro 14-inch M1 Max 简单体验](https://www.v2ex.com/t/811097)
 * [【2021-10-27】 [MacBook Pro] 16 寸 M1M 32G 1T SSD 测速写 5.6G 读 5.3G](https://www.v2ex.com/t/811095)
-* [【2021-10-27】 [问与答] 有没有了解淘宝上那些打折充电费的是怎么操作的？](https://www.v2ex.com/t/811094)
-* [【2021-10-27】 [MacBook Pro] 用过 MacBook Pro 的时间机器么，全盘备份一般要多大内存，想入手 1TB 的版本，不想外接固态](https://www.v2ex.com/t/811093)
-* [【2021-10-27】 [微信] 小程序数据绑定问题，麻烦各位提供一下思路](https://www.v2ex.com/t/811092)
-* [【2021-10-27】 [问与答] 有哪些支持定时开关的恒温水壶？](https://www.v2ex.com/t/811091)
-* [【2021-10-27】 [Apple] 明年 iPhone 会换上 miniLED 吗](https://www.v2ex.com/t/811090)
-* [【2021-10-27】 [MacBook Pro] 自行更换了 NVME SSD 的 2015 款 Macbook Pro 无法升级 Monterey](https://www.v2ex.com/t/811088)
-* [【2021-10-27】 [Apple] 为什么 M1 Max 的功耗控制可以如此优秀？](https://www.v2ex.com/t/811087)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 15:21:42
+:alarm_clock: 更新时间: 2021-10-27 16:30:33

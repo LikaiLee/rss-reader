@@ -206,6 +206,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 有前端大佬买了 m1 max 没，辛苦讲下体验，之前用过 m1 更好",
+                "link": "https://www.v2ex.com/t/811106",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] MAS 里的网易云音乐仍是 Intel 版本，并未适配 M1",
+                "link": "https://www.v2ex.com/t/811105",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[分享发现] 知乎这个可能是评论数最多的答案，打开评论区直接报 500 了",
+                "link": "https://www.v2ex.com/t/811104",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 解决 Monterey 的 Safari 在代理下打开部分网页异常的问题",
+                "link": "https://www.v2ex.com/t/811103",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[分享创造] 分享一个自己写了 3 年的 App： X-Reader 多功能阅读器，《免费送码》。",
+                "link": "https://www.v2ex.com/t/811102",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[求职] [求职] 9 年后端（ Java / Go），求一份全职工作（远程 / 北京望京地区）",
+                "link": "https://www.v2ex.com/t/811101",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[酷工作] [上海] 企服 SaaS 公司(天使轮)招聘 Web 前端/ Java 后端工程师",
+                "link": "https://www.v2ex.com/t/811100",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "[问与答] macOS 的企业微信是不是有内存泄漏",
                 "link": "https://www.v2ex.com/t/811099",
                 "published": "2021-10-27"
@@ -5776,7 +5811,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 7
     },
     {
         "id": 3,
