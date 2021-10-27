@@ -178,13 +178,68 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[推广] 灵光一闪！帮你使用 Vue，搞定无法解决的“动态挂载”",
+                "link": "https://www.v2ex.com/t/810897",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Android] 小米 10S 对比小米 Civi",
+                "link": "https://www.v2ex.com/t/810895",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 关于 Python 线程和协程上的一点小问题",
+                "link": "https://www.v2ex.com/t/810893",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Homebrew] homebrew 移除了对 mojave 的支持，结果现在安装啥都得编译安装，有的要几个小时才编译完，愁死了",
+                "link": "https://www.v2ex.com/t/810892",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[问与答] 一个诡异的外接显示器刷新率的问题",
+                "link": "https://www.v2ex.com/t/810891",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] MacOS Monterey 新出的 Passwords，大家觉得怎么样？",
+                "link": "https://www.v2ex.com/t/810889",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 16\" m1 pro 16g 用了一晚，那个屏真毒到我了",
+                "link": "https://www.v2ex.com/t/810888",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[职场话题] 大伙给点建议",
+                "link": "https://www.v2ex.com/t/810887",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[程序员] 有没有开源的 sql 审计平台，并且需要支持 sqlserver",
+                "link": "https://www.v2ex.com/t/810884",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] iMac 上安装的 Windows 为什么这么卡",
+                "link": "https://www.v2ex.com/t/810883",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] Monterey 感觉不错",
+                "link": "https://www.v2ex.com/t/810879",
+                "published": "2021-10-27"
+            },
             {
                 "title": "[职场话题] 请教下工作的选择问题？",
                 "link": "https://www.v2ex.com/t/810877",
@@ -4871,7 +4926,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 40
+        "new_feeds": 11
     },
     {
         "id": 3,
