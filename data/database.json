@@ -28,6 +28,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不止双链笔记，这五种思路带你用好 Logseq",
+                "link": "https://sspai.com/post/69503",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "派早报：索尼发布新一代微单手机 Xperia PRO-I、高通推出新款骁龙处理器",
                 "link": "https://sspai.com/post/69527",
                 "published": "2021-10-27"
@@ -178,13 +183,48 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 破于无法发挥 M1 Max 的性能，有什么入门门槛低的技能可以学习",
+                "link": "https://www.v2ex.com/t/810935",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[iPad] 升级 15.02 系统后 Apple pencil bug",
+                "link": "https://www.v2ex.com/t/810932",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[酷工作] [远程][全职] 国际化元宇宙/数字收藏类初创项目，欢迎有激情的小伙伴加入，前端/后端/全栈/智能合约/自荐职位\n（102721 更新岗位信息）",
+                "link": "https://www.v2ex.com/t/810931",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Steam] 如何看待 steam 上因为”刚买完第二天就打折“而给差评的玩家？",
+                "link": "https://www.v2ex.com/t/810930",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[Apple] 程序员论坛就该有程序员论坛的样子，看看这位老哥的 Apple Silicon 评测",
+                "link": "https://www.v2ex.com/t/810928",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[生活] 有关社会人际关系的感悟",
+                "link": "https://www.v2ex.com/t/810927",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[投资] 空头策略",
+                "link": "https://www.v2ex.com/t/810926",
+                "published": "2021-10-27"
+            },
             {
                 "title": "[程序员] 能推荐一些你觉得有意思的与计算机相关的书籍吗？",
                 "link": "https://www.v2ex.com/t/810924",
@@ -5011,7 +5051,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 17
+        "new_feeds": 7
     },
     {
         "id": 3,

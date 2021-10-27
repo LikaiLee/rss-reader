@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+17】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-27】 不止双链笔记，这五种思路带你用好 Logseq](https://sspai.com/post/69503)
 * [【2021-10-27】 派早报：索尼发布新一代微单手机 Xperia PRO-I、高通推出新款骁龙处理器](https://sspai.com/post/69527)
 * [【2021-10-26】 macOS Monterey 正式版来了，升级之后试试这些新变化](https://sspai.com/post/68745)
 * [【2021-10-26】 具透 | Chrome 和 Edge 95 稳定版更新，它们都有哪些新功能？](https://sspai.com/post/69509)
@@ -36,7 +37,6 @@
 * [【2021-10-26】 派早报：新款 MacBook Pro、AirPods 正式发售，荣耀 Play5 活力版正式发布等](https://sspai.com/post/69514)
 * [【2021-10-25】 新款 AirPods 首发体验：新外观、新功能，史上最大的一次升级](https://sspai.com/post/69504)
 * [【2021-10-25】 派评 | 近期值得关注的 App](https://sspai.com/post/69506)
-* [【2021-10-25】 钱包未动，算盘先行：2021 年新 MacBook Pro 选购指南](https://sspai.com/post/69507)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,17 @@
     </summary>
 
 
+* [【2021-10-27】 [问与答] 破于无法发挥 M1 Max 的性能，有什么入门门槛低的技能可以学习](https://www.v2ex.com/t/810935)
+* [【2021-10-27】 [iPad] 升级 15.02 系统后 Apple pencil bug](https://www.v2ex.com/t/810932)
+* [【2021-10-27】 [酷工作] [远程][全职] 国际化元宇宙/数字收藏类初创项目，欢迎有激情的小伙伴加入，前端/后端/全栈/智能合约/自荐职位
+（102721 更新岗位信息）](https://www.v2ex.com/t/810931)
+* [【2021-10-27】 [Steam] 如何看待 steam 上因为”刚买完第二天就打折“而给差评的玩家？](https://www.v2ex.com/t/810930)
+* [【2021-10-27】 [Apple] 程序员论坛就该有程序员论坛的样子，看看这位老哥的 Apple Silicon 评测](https://www.v2ex.com/t/810928)
+* [【2021-10-27】 [生活] 有关社会人际关系的感悟](https://www.v2ex.com/t/810927)
+* [【2021-10-27】 [投资] 空头策略](https://www.v2ex.com/t/810926)
 * [【2021-10-27】 [程序员] 能推荐一些你觉得有意思的与计算机相关的书籍吗？](https://www.v2ex.com/t/810924)
 * [【2021-10-27】 [程序员] 有人举报过公司 996 吗](https://www.v2ex.com/t/810923)
 * [【2021-10-27】 [iOS] iOS 15.1 升级后日历 app 很卡顿](https://www.v2ex.com/t/810922)
-* [【2021-10-27】 [Apple] 关于苹果产品几个显而易见的废话，主要是 2021 款的 MBP](https://www.v2ex.com/t/810921)
-* [【2021-10-27】 [Apple] 27 寸 5K 屏 ProMotion miniLED 多少钱能接受？](https://www.v2ex.com/t/810918)
-* [【2021-10-27】 [酷工作] [杭州]络叶科技招募 Ruby 工程师 / 算法工程师 / UI 设计师](https://www.v2ex.com/t/810917)
-* [【2021-10-27】 [Apple] 如何通过 applescript 运行终端命令](https://www.v2ex.com/t/810916)
-* [【2021-10-27】 [生活] iPad 上的微信可以折叠微信群+置底了。](https://www.v2ex.com/t/810914)
-* [【2021-10-27】 [生活] 现在想看个 2D 电影挺难的](https://www.v2ex.com/t/810911)
-* [【2021-10-27】 [酷工作] [杭州] 阿里巴巴天猫优品招聘 P5， P6（工作六年以内的同学）](https://www.v2ex.com/t/810910)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-27 04:26:20
+:alarm_clock: 更新时间: 2021-10-27 05:17:50
