@@ -4,8 +4,8 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+7】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [V2EX](#V2EX) 【+3】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -46,6 +46,9 @@
     </summary>
 
 
+* [【2021-10-28】 [macOS] 请教如何为脚本赋予 Full Disk Access 权限](https://www.v2ex.com/t/811359)
+* [【2021-10-28】 [Apple] 刘海可以忍受，但新 mbp 的这个好难忍受](https://www.v2ex.com/t/811357)
+* [【2021-10-28】 [机械键盘] 有大佬买这款键盘吗？看某东都卖断货了 [HHKB HYBRID TYPE-S 25 周年雪白限定配色纪念版]](https://www.v2ex.com/t/811356)
 * [【2021-10-28】 [macOS] 电脑上的 iOS 更新提醒怎么关闭？](https://www.v2ex.com/t/811355)
 * [【2021-10-28】 [上海] 迫于太胖，有靠谱游泳教练推荐码？](https://www.v2ex.com/t/811353)
 * [【2021-10-28】 [iDev] 新 app 上架 AppStore 反复被拒](https://www.v2ex.com/t/811351)
@@ -53,9 +56,6 @@
 * [【2021-10-28】 [macOS] 关于刘海目前知道的](https://www.v2ex.com/t/811347)
 * [【2021-10-28】 [职场话题] Web 高性能指南——如何优化网络](https://www.v2ex.com/t/811346)
 * [【2021-10-28】 [问与答] 大家有了解 epam 这家公司的吗？](https://www.v2ex.com/t/811345)
-* [【2021-10-28】 [酷工作] 大家有了解 epam 这家公司的吗？](https://www.v2ex.com/t/811345)
-* [【2021-10-28】 [Android] 利用 wireguard 和 scrcpy 远程控制 Android 手机](https://www.v2ex.com/t/811344)
-* [【2021-10-28】 [Coding] CODING 助力江苏高速信息实现组织敏捷与研发敏捷，领跑智慧交通新基建](https://www.v2ex.com/t/811343)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-28 12:31:52
+:alarm_clock: 更新时间: 2021-10-28 13:24:32

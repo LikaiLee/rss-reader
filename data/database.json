@@ -236,6 +236,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[macOS] 请教如何为脚本赋予 Full Disk Access 权限",
+                "link": "https://www.v2ex.com/t/811359",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 刘海可以忍受，但新 mbp 的这个好难忍受",
+                "link": "https://www.v2ex.com/t/811357",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[机械键盘] 有大佬买这款键盘吗？看某东都卖断货了 [HHKB HYBRID TYPE-S 25 周年雪白限定配色纪念版]",
+                "link": "https://www.v2ex.com/t/811356",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "[macOS] 电脑上的 iOS 更新提醒怎么关闭？",
                 "link": "https://www.v2ex.com/t/811355",
                 "published": "2021-10-28"
@@ -6771,7 +6786,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 3
     },
     {
         "id": 3,
@@ -7179,6 +7194,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

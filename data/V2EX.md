@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-10-28  [macOS] 请教如何为脚本赋予 Full Disk Access 权限](https://www.v2ex.com/t/811359)
+* [2021-10-28  [Apple] 刘海可以忍受，但新 mbp 的这个好难忍受](https://www.v2ex.com/t/811357)
+* [2021-10-28  [机械键盘] 有大佬买这款键盘吗？看某东都卖断货了 [HHKB HYBRID TYPE-S 25 周年雪白限定配色纪念版]](https://www.v2ex.com/t/811356)
 * [2021-10-28  [macOS] 电脑上的 iOS 更新提醒怎么关闭？](https://www.v2ex.com/t/811355)
 * [2021-10-28  [上海] 迫于太胖，有靠谱游泳教练推荐码？](https://www.v2ex.com/t/811353)
 * [2021-10-28  [iDev] 新 app 上架 AppStore 反复被拒](https://www.v2ex.com/t/811351)
