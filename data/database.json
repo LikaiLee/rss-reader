@@ -236,6 +236,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Windows] 升级到 Windows 11 之后 Windows Security 窗口一打开就崩溃",
+                "link": "https://www.v2ex.com/t/811394",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[JetBrains] Jetbrains 对标 vscode 的远程开发功能来了",
+                "link": "https://www.v2ex.com/t/811333",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "[MacBook] 有人遇到过新 MacBook pro 漏电吗？",
                 "link": "https://www.v2ex.com/t/811393",
                 "published": "2021-10-28"
@@ -6931,7 +6941,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 3,

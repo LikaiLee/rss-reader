@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-10-28  [Windows] 升级到 Windows 11 之后 Windows Security 窗口一打开就崩溃](https://www.v2ex.com/t/811394)
+* [2021-10-28  [JetBrains] Jetbrains 对标 vscode 的远程开发功能来了](https://www.v2ex.com/t/811333)
 * [2021-10-28  [MacBook] 有人遇到过新 MacBook pro 漏电吗？](https://www.v2ex.com/t/811393)
 * [2021-10-28  [Apple] 有没有觉得 MacBook 出风口硌手的？](https://www.v2ex.com/t/811392)
 * [2021-10-28  [Apple] 程序员 M1 Pro 10+14 和 10+16 怎么选？差价 1000](https://www.v2ex.com/t/811391)
