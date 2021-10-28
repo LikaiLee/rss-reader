@@ -236,6 +236,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 又用 SwiftUI 写了一个小工具——静态路由小助手",
+                "link": "https://www.v2ex.com/t/811376",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 不懂就问，不符合 Windows11 要求的设备安装 Windows11 会怎么？",
+                "link": "https://www.v2ex.com/t/811375",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[视频技术] 为什么 iPhone 上的 mp4 上传到服务器以后变成了 mov?",
+                "link": "https://www.v2ex.com/t/811373",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[生活] 当地的 police 用普通手机号码联系我.....",
+                "link": "https://www.v2ex.com/t/811372",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 服务器总是被黑，有没有什么好办法",
+                "link": "https://www.v2ex.com/t/811371",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "[小米] 红米笔记本恶评如潮啊....",
                 "link": "https://www.v2ex.com/t/811370",
                 "published": "2021-10-28"
@@ -6826,7 +6851,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 5
     },
     {
         "id": 3,

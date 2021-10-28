@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-10-28  [Apple] 又用 SwiftUI 写了一个小工具——静态路由小助手](https://www.v2ex.com/t/811376)
+* [2021-10-28  [问与答] 不懂就问，不符合 Windows11 要求的设备安装 Windows11 会怎么？](https://www.v2ex.com/t/811375)
+* [2021-10-28  [视频技术] 为什么 iPhone 上的 mp4 上传到服务器以后变成了 mov?](https://www.v2ex.com/t/811373)
+* [2021-10-28  [生活] 当地的 police 用普通手机号码联系我.....](https://www.v2ex.com/t/811372)
+* [2021-10-28  [问与答] 服务器总是被黑，有没有什么好办法](https://www.v2ex.com/t/811371)
 * [2021-10-28  [小米] 红米笔记本恶评如潮啊....](https://www.v2ex.com/t/811370)
 * [2021-10-28  [macOS] 如何彻底清理 macOS 某个系统应用（如图书）的所有设置和文件？升级 Monterey 之后用 Apple Books 打开 ePub 电子书默认背景是黑色，怎样更改都无效，每次都会跳回黑色](https://www.v2ex.com/t/811369)
 * [2021-10-28  [macOS] macOS 设备使用采集卡会闪屏，有人遇到过吗？该怎么解决呢？](https://www.v2ex.com/t/811368)
