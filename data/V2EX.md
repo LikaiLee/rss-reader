@@ -1,6 +1,12 @@
 # V2EX
 
 
+* [2021-10-28  [分享发现] 终于有人说出来了，我们周围很多出名的“美食小吃”都是冒牌的](https://www.v2ex.com/t/811382)
+* [2021-10-28  [程序员] 有推荐的开源团队协作工具吗？](https://www.v2ex.com/t/811381)
+* [2021-10-28  [iPhone] iMessage 为何压缩我的视频？](https://www.v2ex.com/t/811380)
+* [2021-10-28  [问与答] 买笔记本，原装 win11 还是 win10，哪个好？](https://www.v2ex.com/t/811379)
+* [2021-10-28  [程序员] 为什么 TCP 的 payload 是通过 IP 的总长度-IP 的头部长度-TCP 的头部长度 得到？ UDP 却不是？](https://www.v2ex.com/t/811378)
+* [2021-10-28  [Chrome] 手机端的 chrome 浏览器， 多用户根本是摆设吧](https://www.v2ex.com/t/811377)
 * [2021-10-28  [Apple] 又用 SwiftUI 写了一个小工具——静态路由小助手](https://www.v2ex.com/t/811376)
 * [2021-10-28  [问与答] 不懂就问，不符合 Windows11 要求的设备安装 Windows11 会怎么？](https://www.v2ex.com/t/811375)
 * [2021-10-28  [视频技术] 为什么 iPhone 上的 mp4 上传到服务器以后变成了 mov?](https://www.v2ex.com/t/811373)
