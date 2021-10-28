@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
-* [V2EX](#V2EX) 【+24】
-* [知乎每日精选](#知乎每日精选)
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+7】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -46,16 +46,16 @@
     </summary>
 
 
+* [【2021-10-28】 [酷工作] 大家有了解 epam 这家公司的吗？](https://www.v2ex.com/t/811345)
+* [【2021-10-28】 [Android] 利用 wireguard 和 scrcpy 远程控制 Android 手机](https://www.v2ex.com/t/811344)
+* [【2021-10-28】 [Coding] CODING 助力江苏高速信息实现组织敏捷与研发敏捷，领跑智慧交通新基建](https://www.v2ex.com/t/811343)
+* [【2021-10-28】 [职场话题] 传统服务端想跳游戏服务端真的太难了](https://www.v2ex.com/t/811342)
+* [【2021-10-28】 [问与答] win11 的原生安卓有人用过了吗？](https://www.v2ex.com/t/811337)
+* [【2021-10-28】 [GitHub] GitHub 这个新功能真不错](https://www.v2ex.com/t/811336)
+* [【2021-10-28】 [Apple] 大家觉得还会有 Low-End 的 MacBook Pro 更新吗？](https://www.v2ex.com/t/811335)
 * [【2021-10-28】 [macOS] monterey 比 bigsur 费电](https://www.v2ex.com/t/811334)
 * [【2021-10-28】 [程序员] Jetbrains 对标 vscode 的远程开发功能来了](https://www.v2ex.com/t/811333)
 * [【2021-10-28】 [分享发现] 大家来赢键盘啦](https://www.v2ex.com/t/811332)
-* [【2021-10-28】 [酷工作] [北京] [武汉] 洛凯科技 商业化后端开发 直招](https://www.v2ex.com/t/811330)
-* [【2021-10-28】 [macOS] Monterey 系统下面为何浏览器里 ua 的系统版本仍然是 10.15.7](https://www.v2ex.com/t/811329)
-* [【2021-10-28】 [Flutter] flutter 下 protobuf 编解码的问题，卡好几天。](https://www.v2ex.com/t/811328)
-* [【2021-10-28】 [酷工作] [上海-浦东-世纪大道] Autodesk 欧特全职招聘高级 Android 开发](https://www.v2ex.com/t/811327)
-* [【2021-10-28】 [Google] Google Voice 回收政策再升级](https://www.v2ex.com/t/811326)
-* [【2021-10-28】 [问与答] dockerfile 单行 env 设置多个值问题](https://www.v2ex.com/t/811325)
-* [【2021-10-28】 [Firefox] 有没有觉得 Firefox 默认的英文字体过于紧凑了点，有没有什么好看的英文字体推荐](https://www.v2ex.com/t/811324)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -65,6 +65,7 @@
     </summary>
 
 
+* [【2021-10-28】 Vergil 的收刀是否是相对论性的?](http://zhuanlan.zhihu.com/p/426477668?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-28】 武汉国家航天产业基地下线的首批火箭「快舟•​新洲」号成功发射，对我国商业航天的发展有何意义？](http://www.zhihu.com/question/494934851/answer/2193891517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-28】 国产动画《猫之茗》开播，你感觉如何？](http://www.zhihu.com/question/494397661/answer/2192713099?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-28】 「致敬可爱的人」中学生写下103封信寄往边关，边防战士的生活是什么样？你还听过哪些关于军人的暖心故事？](http://www.zhihu.com/question/494851886/answer/2193248332?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -74,7 +75,6 @@
 * [【2021-10-26】 游戏系统拆解：明日方舟 / Game system: Arknights](http://zhuanlan.zhihu.com/p/413367446?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-26】 走好科学“退煤”路，助力实现“双碳”目标](http://zhuanlan.zhihu.com/p/425647032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-26】 彻底干掉了前摄的小米MIX，未来在何方？](http://zhuanlan.zhihu.com/p/425793169?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-10-25】 纪念志愿军抗美援朝出国作战 71 周年，哪些「最可爱的人」的故事让你记忆深刻？](http://www.zhihu.com/question/494388383/answer/2188254476?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-28 10:22:10
+:alarm_clock: 更新时间: 2021-10-28 11:16:37

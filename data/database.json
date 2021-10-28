@@ -228,13 +228,48 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[酷工作] 大家有了解 epam 这家公司的吗？",
+                "link": "https://www.v2ex.com/t/811345",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Android] 利用 wireguard 和 scrcpy 远程控制 Android 手机",
+                "link": "https://www.v2ex.com/t/811344",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Coding] CODING 助力江苏高速信息实现组织敏捷与研发敏捷，领跑智慧交通新基建",
+                "link": "https://www.v2ex.com/t/811343",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[职场话题] 传统服务端想跳游戏服务端真的太难了",
+                "link": "https://www.v2ex.com/t/811342",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] win11 的原生安卓有人用过了吗？",
+                "link": "https://www.v2ex.com/t/811337",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[GitHub] GitHub 这个新功能真不错",
+                "link": "https://www.v2ex.com/t/811336",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 大家觉得还会有 Low-End 的 MacBook Pro 更新吗？",
+                "link": "https://www.v2ex.com/t/811335",
+                "published": "2021-10-28"
+            },
             {
                 "title": "[macOS] monterey 比 bigsur 费电",
                 "link": "https://www.v2ex.com/t/811334",
@@ -6701,13 +6736,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 24
+        "new_feeds": 7
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "Vergil 的收刀是否是相对论性的?",
+                "link": "http://zhuanlan.zhihu.com/p/426477668?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-28"
+            },
             {
                 "title": "武汉国家航天产业基地下线的首批火箭「快舟•​新洲」号成功发射，对我国商业航天的发展有何意义？",
                 "link": "http://www.zhihu.com/question/494934851/answer/2193891517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -7099,6 +7139,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

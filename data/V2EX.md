@@ -1,6 +1,13 @@
 # V2EX
 
 
+* [2021-10-28  [酷工作] 大家有了解 epam 这家公司的吗？](https://www.v2ex.com/t/811345)
+* [2021-10-28  [Android] 利用 wireguard 和 scrcpy 远程控制 Android 手机](https://www.v2ex.com/t/811344)
+* [2021-10-28  [Coding] CODING 助力江苏高速信息实现组织敏捷与研发敏捷，领跑智慧交通新基建](https://www.v2ex.com/t/811343)
+* [2021-10-28  [职场话题] 传统服务端想跳游戏服务端真的太难了](https://www.v2ex.com/t/811342)
+* [2021-10-28  [问与答] win11 的原生安卓有人用过了吗？](https://www.v2ex.com/t/811337)
+* [2021-10-28  [GitHub] GitHub 这个新功能真不错](https://www.v2ex.com/t/811336)
+* [2021-10-28  [Apple] 大家觉得还会有 Low-End 的 MacBook Pro 更新吗？](https://www.v2ex.com/t/811335)
 * [2021-10-28  [macOS] monterey 比 bigsur 费电](https://www.v2ex.com/t/811334)
 * [2021-10-28  [程序员] Jetbrains 对标 vscode 的远程开发功能来了](https://www.v2ex.com/t/811333)
 * [2021-10-28  [分享发现] 大家来赢键盘啦](https://www.v2ex.com/t/811332)
