@@ -28,6 +28,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "当我说起「音质」的时候，我想说什么",
+                "link": "https://sspai.com/post/69542",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "iOS 15 自带的「一起听」好不好用？SharePlay 上手体验",
+                "link": "https://sspai.com/post/69512",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "让文件更好找：我的元数据文件命名法",
                 "link": "https://sspai.com/post/69524",
                 "published": "2021-10-28"
@@ -208,13 +218,83 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[iOS] IOS APP 内如何在连接局域网 wifi 时, 强制使用移动网络访问 http 请求",
+                "link": "https://www.v2ex.com/t/811295",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[酷工作] [杭州/求贤][ACE 游戏社] 绝不 996/游戏前后端岗位/寻找喜爱游戏的有缘人[20~35k]",
+                "link": "https://www.v2ex.com/t/811294",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] safari 上哪个拓展的拦截最好用？",
+                "link": "https://www.v2ex.com/t/811293",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] arm 原生游戏博德之门 3 m1 max 帧数",
+                "link": "https://www.v2ex.com/t/811292",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[JavaScript] 被方括号引用搞懵逼了",
+                "link": "https://www.v2ex.com/t/811291",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[淘宝] BlueStacks 使用手机淘宝，跳转详情页报错",
+                "link": "https://www.v2ex.com/t/811290",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[macOS] 求助，启动代理删不干净",
+                "link": "https://www.v2ex.com/t/811289",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Go 编程语言] Go 终于要搞泛型了 (1.18 版本)",
+                "link": "https://www.v2ex.com/t/811288",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[搜索引擎优化] 被百度收录的网站,加了 robots.txt 禁止搜寻引擎收录的代码后网站还在?",
+                "link": "https://www.v2ex.com/t/811286",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[前端开发] 微信录音接口 PCM 格式文件编码方式",
+                "link": "https://www.v2ex.com/t/811285",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 最新 macos 系统有通知 bug",
+                "link": "https://www.v2ex.com/t/811284",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[酷工作] [深圳] [腾讯音乐] 全民 K 歌国际版 WeSing 急招前端开发 T8 及以上，开发直招！",
+                "link": "https://www.v2ex.com/t/811281",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[macOS] Monterey 系统多了一个 Intel 进程，大家和我一样吗？",
+                "link": "https://www.v2ex.com/t/811280",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Elasticsearch] 使用 cancal 异步 es 数据延迟太大怎么办",
+                "link": "https://www.v2ex.com/t/811278",
+                "published": "2021-10-28"
+            },
             {
                 "title": "[Edge] Edge 调试模式下无法通过鼠标选中元素了",
                 "link": "https://www.v2ex.com/t/811276",
@@ -6436,7 +6516,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 19
+        "new_feeds": 14
     },
     {
         "id": 3,
