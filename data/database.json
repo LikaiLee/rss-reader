@@ -206,6 +206,66 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 找大佬教我怎么打开 raw 文件",
+                "link": "https://www.v2ex.com/t/811132",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 有在某宝定制 MacbookPro2021 已经发货的吗?",
+                "link": "https://www.v2ex.com/t/811130",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[iPad] 教育优惠时凑热闹买的 iPad pro，发现除了看视频真的用不上",
+                "link": "https://www.v2ex.com/t/811128",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 订阅 Apple One 后，购买设备赠送的免费服务会有 Credit 给吗？",
+                "link": "https://www.v2ex.com/t/811127",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] Win11 更新后，有什么小工具可以得到类似于 Win10 开始菜单软件分类功能的软件吗？",
+                "link": "https://www.v2ex.com/t/811126",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] Safari 不同步怎么回事？",
+                "link": "https://www.v2ex.com/t/811125",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[宽带症候群] 一大早北京联通公网地址没了",
+                "link": "https://www.v2ex.com/t/811124",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[iDev] App Store 审核说我的 App 山寨抄袭我开源代码的 App 并拒绝了版本更新",
+                "link": "https://www.v2ex.com/t/811123",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] 前端应该算是目前程序员里最简单且收入不低以及压力比较小的工作了",
+                "link": "https://www.v2ex.com/t/811122",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 收到学校要求下架学生服务相关的小程序",
+                "link": "https://www.v2ex.com/t/811121",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 新 MBP 瀏海基本完美解決",
+                "link": "https://www.v2ex.com/t/811120",
+                "published": "2021-10-27"
+            },
+            {
+                "title": "[macOS] macOS Monterey 快了很多",
+                "link": "https://www.v2ex.com/t/811119",
+                "published": "2021-10-27"
+            },
+            {
                 "title": "[MacBook Pro] 新 Macbook 屏幕素质怎么样呢？和 iPad pro 12.9 比，光晕和偏绿问题解决了吗？",
                 "link": "https://www.v2ex.com/t/811117",
                 "published": "2021-10-27"
@@ -5871,7 +5931,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 12
     },
     {
         "id": 3,

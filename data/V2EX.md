@@ -1,6 +1,18 @@
 # V2EX
 
 
+* [2021-10-28  [程序员] 找大佬教我怎么打开 raw 文件](https://www.v2ex.com/t/811132)
+* [2021-10-28  [Apple] 有在某宝定制 MacbookPro2021 已经发货的吗?](https://www.v2ex.com/t/811130)
+* [2021-10-28  [iPad] 教育优惠时凑热闹买的 iPad pro，发现除了看视频真的用不上](https://www.v2ex.com/t/811128)
+* [2021-10-28  [Apple] 订阅 Apple One 后，购买设备赠送的免费服务会有 Credit 给吗？](https://www.v2ex.com/t/811127)
+* [2021-10-28  [问与答] Win11 更新后，有什么小工具可以得到类似于 Win10 开始菜单软件分类功能的软件吗？](https://www.v2ex.com/t/811126)
+* [2021-10-28  [问与答] Safari 不同步怎么回事？](https://www.v2ex.com/t/811125)
+* [2021-10-28  [宽带症候群] 一大早北京联通公网地址没了](https://www.v2ex.com/t/811124)
+* [2021-10-28  [iDev] App Store 审核说我的 App 山寨抄袭我开源代码的 App 并拒绝了版本更新](https://www.v2ex.com/t/811123)
+* [2021-10-28  [程序员] 前端应该算是目前程序员里最简单且收入不低以及压力比较小的工作了](https://www.v2ex.com/t/811122)
+* [2021-10-28  [问与答] 收到学校要求下架学生服务相关的小程序](https://www.v2ex.com/t/811121)
+* [2021-10-27  [Apple] 新 MBP 瀏海基本完美解決](https://www.v2ex.com/t/811120)
+* [2021-10-27  [macOS] macOS Monterey 快了很多](https://www.v2ex.com/t/811119)
 * [2021-10-27  [MacBook Pro] 新 Macbook 屏幕素质怎么样呢？和 iPad pro 12.9 比，光晕和偏绿问题解决了吗？](https://www.v2ex.com/t/811117)
 * [2021-10-27  [互联网] 有没有了解淘宝上那些打折充电费的是怎么操作的？](https://www.v2ex.com/t/811094)
 * [2021-10-27  [硬件] 迫于纠结 U2720qm 还是 UP850](https://www.v2ex.com/t/811111)
