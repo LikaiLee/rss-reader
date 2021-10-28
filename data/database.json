@@ -208,13 +208,98 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[macOS] macOS Monterey 的全量升级包去哪里下载？",
+                "link": "https://www.v2ex.com/t/811251",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] Ant Design Vue 里面使用 a-form 等标签的时候提示红色波浪线，找不到定义，但是 npm run serve 的时候浏览器里面又能显示出样式",
+                "link": "https://www.v2ex.com/t/811250",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 没人讨论 AirPods3 有电流声？",
+                "link": "https://www.v2ex.com/t/811249",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] ====数据库选型的问题====",
+                "link": "https://www.v2ex.com/t/811248",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 大法电视把杜比视界识别成 hdr10",
+                "link": "https://www.v2ex.com/t/811246",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] office 文档预览 app",
+                "link": "https://www.v2ex.com/t/811245",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Windows] 明显感觉 windows11 上网浏览不爽。双系统，上午下午分别用 Windows11 的 Edge 及 ArchLinux KDE plasma firefox 浏览同一文章。",
+                "link": "https://www.v2ex.com/t/811244",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[职场话题] 国企的劳务外包能去么，除了五险一金基数，其他待遇都一样",
+                "link": "https://www.v2ex.com/t/811243",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 不是学生跟教师直接直接买 macbook",
+                "link": "https://www.v2ex.com/t/811242",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[macOS] 更新 12.0.1 后，缩略图显示异常",
+                "link": "https://www.v2ex.com/t/811241",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[酷工作] Android 小伙伴在哪里～急需 Android 工程师*4",
+                "link": "https://www.v2ex.com/t/811240",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] macOS12 上面为什么 AirPodsPro 显示空间音频不可用",
+                "link": "https://www.v2ex.com/t/811239",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Windows] 据说 Windows 11 的系统内置应用中大量使用了 Webview，不知道是不是真的？",
+                "link": "https://www.v2ex.com/t/811238",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] 为什么程序员到一定年纪开始关注管理相关的内容，不再在技术上深入下去？",
+                "link": "https://www.v2ex.com/t/811237",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 给旧笔记本升级 ssd， 970evoplus 和 nm620 怎么选？",
+                "link": "https://www.v2ex.com/t/811234",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[生活] 到目前为止，有没有做过很让你后悔的决定？",
+                "link": "https://www.v2ex.com/t/811231",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] 读取 CSV 遇到乱码 大家有什么好的解决方案吗？",
+                "link": "https://www.v2ex.com/t/811229",
+                "published": "2021-10-28"
+            },
             {
                 "title": "[问与答] 现在问 ikev2 的客户端是不是有点太晚？",
                 "link": "https://www.v2ex.com/t/811224",
@@ -6256,13 +6341,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 17
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "国产动画《猫之茗》开播，你感觉如何？",
+                "link": "http://www.zhihu.com/question/494397661/answer/2192713099?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-28"
+            },
             {
                 "title": "「致敬可爱的人」中学生写下103封信寄往边关，边防战士的生活是什么样？你还听过哪些关于军人的暖心故事？",
                 "link": "http://www.zhihu.com/question/494851886/answer/2193248332?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -6644,6 +6734,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
