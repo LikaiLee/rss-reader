@@ -216,6 +216,101 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Edge] Edge 调试模式下无法通过鼠标选中元素了",
+                "link": "https://www.v2ex.com/t/811276",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] 有点急，公司核查住宿补贴，该怎么应对。愿给予一定报酬给有解决办法的老哥",
+                "link": "https://www.v2ex.com/t/811274",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 通过 Windows RDP 远程控制理论上是否能被监控？",
+                "link": "https://www.v2ex.com/t/811273",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 大家有一边考研一边工作的经历吗？",
+                "link": "https://www.v2ex.com/t/811272",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[AirPods] airpods 2 代 公司送的，京东买的。没有拆封\n最好深圳西乡面交\nV: IvanYang00000",
+                "link": "https://www.v2ex.com/t/811271",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Go 编程语言] 目标是全栈开发一个游戏，目前只会后端写 golang，会一点 C++。应该怎么继续入门啊？大家有推荐的路线吗",
+                "link": "https://www.v2ex.com/t/811270",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Java] 泛型限定问题",
+                "link": "https://www.v2ex.com/t/811268",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[MacBook Pro] 现在下单定制的话都要排到一个月往后了",
+                "link": "https://www.v2ex.com/t/811267",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[macOS] 更新 Mac monterey 出现的几个问题",
+                "link": "https://www.v2ex.com/t/811266",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 卡爆了，点一下就是转圈圈",
+                "link": "https://www.v2ex.com/t/811265",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[iOS] iOS 影视类上架需要版权怎么搞？",
+                "link": "https://www.v2ex.com/t/811264",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Windows] 今天公司系统（大面积）异常的卡，资源占用根本不大，是不是阿三又在搞什么东西啊，有相同情况的吗？",
+                "link": "https://www.v2ex.com/t/811263",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[职场话题] 秋招 offer 求比较",
+                "link": "https://www.v2ex.com/t/811262",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[全球工单系统] 淘宝无法使用，提示访问被拒绝，请不要使用代理软件或 VPN。",
+                "link": "https://www.v2ex.com/t/811261",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 推荐下 mpb 配件",
+                "link": "https://www.v2ex.com/t/811259",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] mpv 怎么在命令行播放 mpv://play 链接到问题",
+                "link": "https://www.v2ex.com/t/811258",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 小米 MIX4 3599 或 一加 9 Pro 3349，哪个值得买？",
+                "link": "https://www.v2ex.com/t/811257",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[MongoDB] mongodb 查询问题",
+                "link": "https://www.v2ex.com/t/811256",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[生活] 想买一个空气炸锅",
+                "link": "https://www.v2ex.com/t/811255",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "[macOS] macOS Monterey 的全量升级包去哪里下载？",
                 "link": "https://www.v2ex.com/t/811251",
                 "published": "2021-10-28"
@@ -6341,7 +6436,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 17
+        "new_feeds": 19
     },
     {
         "id": 3,
@@ -6734,6 +6829,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
