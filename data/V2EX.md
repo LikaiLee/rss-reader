@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-10-28  [Apple] xdm， M1 Mac 7 个月读取 283TB 是什么情况？](https://www.v2ex.com/t/811395)
 * [2021-10-28  [Windows] 升级到 Windows 11 之后 Windows Security 窗口一打开就崩溃](https://www.v2ex.com/t/811394)
 * [2021-10-28  [JetBrains] Jetbrains 对标 vscode 的远程开发功能来了](https://www.v2ex.com/t/811333)
 * [2021-10-28  [MacBook] 有人遇到过新 MacBook pro 漏电吗？](https://www.v2ex.com/t/811393)

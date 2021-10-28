@@ -236,6 +236,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] xdm， M1 Mac 7 个月读取 283TB 是什么情况？",
+                "link": "https://www.v2ex.com/t/811395",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "[Windows] 升级到 Windows 11 之后 Windows Security 窗口一打开就崩溃",
                 "link": "https://www.v2ex.com/t/811394",
                 "published": "2021-10-28"
@@ -6941,7 +6946,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 3,

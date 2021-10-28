@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-28】 [Apple] xdm， M1 Mac 7 个月读取 283TB 是什么情况？](https://www.v2ex.com/t/811395)
 * [【2021-10-28】 [Windows] 升级到 Windows 11 之后 Windows Security 窗口一打开就崩溃](https://www.v2ex.com/t/811394)
 * [【2021-10-28】 [JetBrains] Jetbrains 对标 vscode 的远程开发功能来了](https://www.v2ex.com/t/811333)
 * [【2021-10-28】 [MacBook] 有人遇到过新 MacBook pro 漏电吗？](https://www.v2ex.com/t/811393)
@@ -55,7 +56,6 @@
 * [【2021-10-28】 [程序员] 学通信的为什么看不起计算机的？](https://www.v2ex.com/t/811389)
 * [【2021-10-28】 [北京] 房东直租-昌平 13、5 号线立水桥地铁佳运园 2 室 1 厅精装南北通透 202111 月 13 号周末可搬家](https://www.v2ex.com/t/811388)
 * [【2021-10-28】 [职场话题] 秋招 Offer 选择求助](https://www.v2ex.com/t/811387)
-* [【2021-10-28】 [问与答] 小弟问一个在 docker 中开发 vue 热加载失效的问题](https://www.v2ex.com/t/811386)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-28 22:19:05
+:alarm_clock: 更新时间: 2021-10-28 23:20:21
