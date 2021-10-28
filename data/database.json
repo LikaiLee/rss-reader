@@ -236,6 +236,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook] 有人遇到过新 MacBook pro 漏电吗？",
+                "link": "https://www.v2ex.com/t/811393",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 有没有觉得 MacBook 出风口硌手的？",
+                "link": "https://www.v2ex.com/t/811392",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "[Apple] 程序员 M1 Pro 10+14 和 10+16 怎么选？差价 1000",
                 "link": "https://www.v2ex.com/t/811391",
                 "published": "2021-10-28"
@@ -6921,7 +6931,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 3,
