@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,6 +46,7 @@
     </summary>
 
 
+* [【2021-10-28】 [Apple] 程序员 M1 Pro 10+14 和 10+16 怎么选？差价 1000](https://www.v2ex.com/t/811391)
 * [【2021-10-28】 [MacBook Pro] Mac 有线接入网络，还可以「互联互通」吗？](https://www.v2ex.com/t/811390)
 * [【2021-10-28】 [程序员] 学通信的为什么看不起计算机的？](https://www.v2ex.com/t/811389)
 * [【2021-10-28】 [北京] 房东直租-昌平 13、5 号线立水桥地铁佳运园 2 室 1 厅精装南北通透 202111 月 13 号周末可搬家](https://www.v2ex.com/t/811388)
@@ -55,7 +56,6 @@
 * [【2021-10-28】 [宽带症候群] 上海电信突然变成假公网 ip 了](https://www.v2ex.com/t/811383)
 * [【2021-10-28】 [分享发现] 终于有人说出来了，我们周围很多出名的“美食小吃”都是冒牌的](https://www.v2ex.com/t/811382)
 * [【2021-10-28】 [程序员] 有推荐的开源团队协作工具吗？](https://www.v2ex.com/t/811381)
-* [【2021-10-28】 [iPhone] iMessage 为何压缩我的视频？](https://www.v2ex.com/t/811380)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-28 18:23:17
+:alarm_clock: 更新时间: 2021-10-28 19:15:49

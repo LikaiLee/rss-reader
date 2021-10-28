@@ -236,6 +236,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 程序员 M1 Pro 10+14 和 10+16 怎么选？差价 1000",
+                "link": "https://www.v2ex.com/t/811391",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "[MacBook Pro] Mac 有线接入网络，还可以「互联互通」吗？",
                 "link": "https://www.v2ex.com/t/811390",
                 "published": "2021-10-28"
@@ -6916,7 +6921,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 3,
