@@ -236,6 +236,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[macOS] 电脑上的 iOS 更新提醒怎么关闭？",
+                "link": "https://www.v2ex.com/t/811355",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[上海] 迫于太胖，有靠谱游泳教练推荐码？",
+                "link": "https://www.v2ex.com/t/811353",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[iDev] 新 app 上架 AppStore 反复被拒",
+                "link": "https://www.v2ex.com/t/811351",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 多个新闻网站通用爬虫解决方案？",
+                "link": "https://www.v2ex.com/t/811350",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[macOS] 关于刘海目前知道的",
+                "link": "https://www.v2ex.com/t/811347",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[职场话题] Web 高性能指南——如何优化网络",
+                "link": "https://www.v2ex.com/t/811346",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 大家有了解 epam 这家公司的吗？",
+                "link": "https://www.v2ex.com/t/811345",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "[酷工作] 大家有了解 epam 这家公司的吗？",
                 "link": "https://www.v2ex.com/t/811345",
                 "published": "2021-10-28"
@@ -6743,6 +6778,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "国产动画《猫之茗》开播，你感觉如何？",
+                "link": "http://www.zhihu.com/question/494397661/answer/2194079203?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-28"
+            },
             {
                 "title": "Vergil 的收刀是否是相对论性的?",
                 "link": "http://zhuanlan.zhihu.com/p/426477668?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
