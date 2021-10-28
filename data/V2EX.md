@@ -1,6 +1,23 @@
 # V2EX
 
 
+* [2021-10-28  [Apple] AppStore 搜索不到饿了么](https://www.v2ex.com/t/811216)
+* [2021-10-28  [问与答] 这个比赛有大佬在参加吗？第二题过不去了](https://www.v2ex.com/t/811213)
+* [2021-10-28  [Apple] 因为偶尔需要 win 系统，请问 pd 怎么买便宜](https://www.v2ex.com/t/811212)
+* [2021-10-28  [Elasticsearch] 如何设计正文+评论在 Elasticsearch 中的存储模式？](https://www.v2ex.com/t/811211)
+* [2021-10-28  [职场话题] 秋招卷中卷，但是薪资出乎意料，体感倒挂也挺严重的](https://www.v2ex.com/t/811210)
+* [2021-10-28  [程序员] 有应用混沌工程的朋友吗？](https://www.v2ex.com/t/811209)
+* [2021-10-28  [Apple] Monterey 可以显示 YDKB 键盘的电量了](https://www.v2ex.com/t/811207)
+* [2021-10-28  [问与答] 公司网禁了远程桌面？怎么破解](https://www.v2ex.com/t/811206)
+* [2021-10-28  [Apple] M1 MAX MBP16 游戏性能功耗简单测](https://www.v2ex.com/t/811202)
+* [2021-10-28  [MacBook Pro] 薄了 0.1mm 的视觉效果是真的震撼](https://www.v2ex.com/t/811201)
+* [2021-10-28  [macOS] 如果你在重新登录 Apple ID 后无法使用 Apple Pay for Mac](https://www.v2ex.com/t/811200)
+* [2021-10-28  [macOS] 让你的刘海迅速消失](https://www.v2ex.com/t/811199)
+* [2021-10-28  [MacBook Pro] 14 英寸的 hdmi 接口很松](https://www.v2ex.com/t/811198)
+* [2021-10-28  [程序员] 有没有 excel 转 html table 代码的工具？](https://www.v2ex.com/t/811197)
+* [2021-10-28  [分享创造] 再发一次骗个⭐️：一个工作在网络层用户态的 TCP/IP 协议栈。](https://www.v2ex.com/t/811196)
+* [2021-10-28  [机械键盘] 求推荐一把办公室用的机械键盘或静电容键盘](https://www.v2ex.com/t/811195)
+* [2021-10-28  [问与答] 各位大佬来指点下！](https://www.v2ex.com/t/811194)
 * [2021-10-28  [职场话题] 大家有维权成功得案例吗？](https://www.v2ex.com/t/811191)
 * [2021-10-28  [macOS] 不想升级 macos，就没法升级 music app](https://www.v2ex.com/t/811189)
 * [2021-10-28  [iPhone] iPhone 锁屏状态下如何禁用下拉调出搜索功能](https://www.v2ex.com/t/811188)

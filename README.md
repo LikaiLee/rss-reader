@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+14】
+* [V2EX](#V2EX) 【+17】
 * [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-28】 [职场话题] 大家有维权成功得案例吗？](https://www.v2ex.com/t/811191)
-* [【2021-10-28】 [macOS] 不想升级 macos，就没法升级 music app](https://www.v2ex.com/t/811189)
-* [【2021-10-28】 [iPhone] iPhone 锁屏状态下如何禁用下拉调出搜索功能](https://www.v2ex.com/t/811188)
-* [【2021-10-28】 [硬件] 心血来潮想买个 mp4 播放器，有推荐的吗](https://www.v2ex.com/t/811187)
-* [【2021-10-28】 [iOS] IOS 有没有快捷的方法一键开关 APP 的消息通知的？](https://www.v2ex.com/t/811184)
-* [【2021-10-28】 [macOS] 如果能真的参考 touchbar 的设计，搞一下刘海区域也不错](https://www.v2ex.com/t/811183)
-* [【2021-10-28】 [问与答] 借助 tail 和 grep 这类命令，有没有办法实现『输出最邻近末尾的包含 xxx 字符串的行之后的所有行』的功能？](https://www.v2ex.com/t/811182)
-* [【2021-10-28】 [北京] 代友转发：北京亦庄经海路马驹桥国风美仑三居室出租](https://www.v2ex.com/t/811181)
-* [【2021-10-28】 [Nintendo Switch] Switch Online 高级会员值不值得买？](https://www.v2ex.com/t/811180)
-* [【2021-10-28】 [问与答] 为什么 iOS 某些情况下输入两个减号`-`会自动合并成连接号`—` ？](https://www.v2ex.com/t/811178)
+* [【2021-10-28】 [Apple] AppStore 搜索不到饿了么](https://www.v2ex.com/t/811216)
+* [【2021-10-28】 [问与答] 这个比赛有大佬在参加吗？第二题过不去了](https://www.v2ex.com/t/811213)
+* [【2021-10-28】 [Apple] 因为偶尔需要 win 系统，请问 pd 怎么买便宜](https://www.v2ex.com/t/811212)
+* [【2021-10-28】 [Elasticsearch] 如何设计正文+评论在 Elasticsearch 中的存储模式？](https://www.v2ex.com/t/811211)
+* [【2021-10-28】 [职场话题] 秋招卷中卷，但是薪资出乎意料，体感倒挂也挺严重的](https://www.v2ex.com/t/811210)
+* [【2021-10-28】 [程序员] 有应用混沌工程的朋友吗？](https://www.v2ex.com/t/811209)
+* [【2021-10-28】 [Apple] Monterey 可以显示 YDKB 键盘的电量了](https://www.v2ex.com/t/811207)
+* [【2021-10-28】 [问与答] 公司网禁了远程桌面？怎么破解](https://www.v2ex.com/t/811206)
+* [【2021-10-28】 [Apple] M1 MAX MBP16 游戏性能功耗简单测](https://www.v2ex.com/t/811202)
+* [【2021-10-28】 [MacBook Pro] 薄了 0.1mm 的视觉效果是真的震撼](https://www.v2ex.com/t/811201)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -65,6 +65,7 @@
     </summary>
 
 
+* [【2021-10-28】 「致敬可爱的人」中学生写下103封信寄往边关，边防战士的生活是什么样？你还听过哪些关于军人的暖心故事？](http://www.zhihu.com/question/494851886/answer/2193248332?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-28】 10月28日更新公告](http://zhuanlan.zhihu.com/p/426518890?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-27】 军服是国威军威的标志和象征。你有没有见过非法使用军服仿制品的行为？守护戎装有哪些必要性？](http://www.zhihu.com/question/494871604/answer/2192001757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-27】 一箭一星！快舟一号甲火箭成功完成11次发射履约](http://zhuanlan.zhihu.com/p/426350021?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -74,7 +75,6 @@
 * [【2021-10-25】 纪念志愿军抗美援朝出国作战 71 周年，哪些「最可爱的人」的故事让你记忆深刻？](http://www.zhihu.com/question/494388383/answer/2188254476?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-25】 独家！大量在韩中国人民志愿军烈士遗骸搜寻鉴定细节曝光！](http://zhuanlan.zhihu.com/p/425560601?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-25】 纪念志愿军抗美援朝出国作战 71 周年，哪些「最可爱的人」的故事让你记忆深刻？](http://www.zhihu.com/question/494388383/answer/2188237268?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-10-25】 纪念志愿军抗美援朝出国作战 71 周年，哪些「最可爱的人」的故事让你记忆深刻？](http://www.zhihu.com/question/494388383/answer/2187792783?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-28 03:21:02
+:alarm_clock: 更新时间: 2021-10-28 04:25:56
