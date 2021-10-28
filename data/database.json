@@ -28,6 +28,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：大疆发布 Action 2 相机、Intel 推出 12 代酷睿处理器、Android 12L 预览版发布等",
+                "link": "https://sspai.com/post/69546",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "信步寻幽，自我策展：我的阅读技术史",
                 "link": "https://sspai.com/post/69136",
                 "published": "2021-10-27"
@@ -198,13 +203,143 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] hue kudu impala hdfs hadoop 到底是啥啊？",
+                "link": "https://www.v2ex.com/t/811171",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] iterm2 配置好的主题配色能应用到 ssh 后么",
+                "link": "https://www.v2ex.com/t/811169",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[macOS] Safari 15.1 版本是去掉了单独布局的标签页颜色吗？",
+                "link": "https://www.v2ex.com/t/811167",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 求助：如何使用 macbook 给 iPhone 下载软件？",
+                "link": "https://www.v2ex.com/t/811166",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[MacBook Pro] Macbook Pro 雷电 4 最大充电功率多少？",
+                "link": "https://www.v2ex.com/t/811165",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] AirPods3 越南产的品控也太差了",
+                "link": "https://www.v2ex.com/t/811164",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[微信] 听闻微信开发者文档很差",
+                "link": "https://www.v2ex.com/t/811162",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] 请教大佬们，如何在一台没有 mysql 环境的 Linux 上发起远程 sql 查询命令？",
+                "link": "https://www.v2ex.com/t/811158",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 魔都的苹果实体店里有新款 Macbook Pro 的展示机了吗？",
+                "link": "https://www.v2ex.com/t/811157",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 刚到定制版的 airprods3，原来还要升级 ios15.1 才能用[Emm]",
+                "link": "https://www.v2ex.com/t/811156",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 13p 续航翻车",
+                "link": "https://www.v2ex.com/t/811155",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Cloudflare] 请教， workers 如何中转 WebSocket",
+                "link": "https://www.v2ex.com/t/811154",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[macOS] 关于 macOS 12.0.1 上的 Safari 15.1",
+                "link": "https://www.v2ex.com/t/811150",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[酷工作] [深圳] [朴朴超市] [社招内推] 朴朴科技社招 Java 、前端、产品等岗位",
+                "link": "https://www.v2ex.com/t/811148",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[MacBook Pro] 刚换新电脑，之前都是用的 win10，最近也搜了很多，但还是求推荐下 mac 上好用的软件！",
+                "link": "https://www.v2ex.com/t/811147",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 那么问题来了,21 款的 16 寸 mbp 应该买哪种拓展坞?",
+                "link": "https://www.v2ex.com/t/811146",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[酷工作] [广州荔枝-965-15 薪-内推] 中级 Android 开发-技术中心",
+                "link": "https://www.v2ex.com/t/811145",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] apple watch 提前一周发货了",
+                "link": "https://www.v2ex.com/t/811144",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[北京] 北京霍营回龙观地区寻求租房三居室+主卧队友",
+                "link": "https://www.v2ex.com/t/811143",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] iOS 15 日历不显示新添加的生日。",
+                "link": "https://www.v2ex.com/t/811142",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[MySQL] MySQL 如何高效实现多条件查询，根据查询条件满足次数排序？",
+                "link": "https://www.v2ex.com/t/811141",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] IOS 14.8.1 发布了",
+                "link": "https://www.v2ex.com/t/811140",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Charles] iPhone (with Mac) 使用 Charles 抓包问题请教",
+                "link": "https://www.v2ex.com/t/811139",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 现在普通开发者的 Win32 应用能上架 Win11 应用商店了吗？",
+                "link": "https://www.v2ex.com/t/811136",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 淘宝港版 13 pro max 是否可以入手？",
+                "link": "https://www.v2ex.com/t/811135",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 撸代码，镜面屏还是雾面屏好？",
+                "link": "https://www.v2ex.com/t/811133",
+                "published": "2021-10-28"
+            },
             {
                 "title": "[程序员] 找大佬教我怎么打开 raw 文件",
                 "link": "https://www.v2ex.com/t/811132",
@@ -5931,7 +6066,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 12
+        "new_feeds": 26
     },
     {
         "id": 3,

@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+12】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+26】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-28】 派早报：大疆发布 Action 2 相机、Intel 推出 12 代酷睿处理器、Android 12L 预览版发布等](https://sspai.com/post/69546)
 * [【2021-10-27】 信步寻幽，自我策展：我的阅读技术史](https://sspai.com/post/69136)
 * [【2021-10-27】 疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事](https://sspai.com/post/69533)
 * [【2021-10-27】 使用 iPhone 13 Pro 半个月，重新思考「创新」的维度和边界](https://sspai.com/post/69241)
@@ -36,7 +37,6 @@
 * [【2021-10-26】 具透 | Chrome 和 Edge 95 稳定版更新，它们都有哪些新功能？](https://sspai.com/post/69509)
 * [【2021-10-25】 新款 AirPods 首发体验：新外观、新功能，时隔 5 年的全新升级](https://sspai.com/post/69504)
 * [【2021-10-26】 SharePlay、Apple ProRes 齐登场，iOS 15.1 值得关注的 6 个更新](https://sspai.com/post/69441)
-* [【2021-10-26】 沿海地区的山珍漫游指南：盘点家乡那些奇怪的美食](https://sspai.com/post/69479)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-28】 [程序员] 找大佬教我怎么打开 raw 文件](https://www.v2ex.com/t/811132)
-* [【2021-10-28】 [Apple] 有在某宝定制 MacbookPro2021 已经发货的吗?](https://www.v2ex.com/t/811130)
-* [【2021-10-28】 [iPad] 教育优惠时凑热闹买的 iPad pro，发现除了看视频真的用不上](https://www.v2ex.com/t/811128)
-* [【2021-10-28】 [Apple] 订阅 Apple One 后，购买设备赠送的免费服务会有 Credit 给吗？](https://www.v2ex.com/t/811127)
-* [【2021-10-28】 [问与答] Win11 更新后，有什么小工具可以得到类似于 Win10 开始菜单软件分类功能的软件吗？](https://www.v2ex.com/t/811126)
-* [【2021-10-28】 [问与答] Safari 不同步怎么回事？](https://www.v2ex.com/t/811125)
-* [【2021-10-28】 [宽带症候群] 一大早北京联通公网地址没了](https://www.v2ex.com/t/811124)
-* [【2021-10-28】 [iDev] App Store 审核说我的 App 山寨抄袭我开源代码的 App 并拒绝了版本更新](https://www.v2ex.com/t/811123)
-* [【2021-10-28】 [程序员] 前端应该算是目前程序员里最简单且收入不低以及压力比较小的工作了](https://www.v2ex.com/t/811122)
-* [【2021-10-28】 [问与答] 收到学校要求下架学生服务相关的小程序](https://www.v2ex.com/t/811121)
+* [【2021-10-28】 [问与答] hue kudu impala hdfs hadoop 到底是啥啊？](https://www.v2ex.com/t/811171)
+* [【2021-10-28】 [程序员] iterm2 配置好的主题配色能应用到 ssh 后么](https://www.v2ex.com/t/811169)
+* [【2021-10-28】 [macOS] Safari 15.1 版本是去掉了单独布局的标签页颜色吗？](https://www.v2ex.com/t/811167)
+* [【2021-10-28】 [Apple] 求助：如何使用 macbook 给 iPhone 下载软件？](https://www.v2ex.com/t/811166)
+* [【2021-10-28】 [MacBook Pro] Macbook Pro 雷电 4 最大充电功率多少？](https://www.v2ex.com/t/811165)
+* [【2021-10-28】 [Apple] AirPods3 越南产的品控也太差了](https://www.v2ex.com/t/811164)
+* [【2021-10-28】 [微信] 听闻微信开发者文档很差](https://www.v2ex.com/t/811162)
+* [【2021-10-28】 [程序员] 请教大佬们，如何在一台没有 mysql 环境的 Linux 上发起远程 sql 查询命令？](https://www.v2ex.com/t/811158)
+* [【2021-10-28】 [Apple] 魔都的苹果实体店里有新款 Macbook Pro 的展示机了吗？](https://www.v2ex.com/t/811157)
+* [【2021-10-28】 [Apple] 刚到定制版的 airprods3，原来还要升级 ios15.1 才能用[Emm]](https://www.v2ex.com/t/811156)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-28 01:03:37
+:alarm_clock: 更新时间: 2021-10-28 02:31:09
