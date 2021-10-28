@@ -1,6 +1,14 @@
 # V2EX
 
 
+* [2021-10-28  [小米] 红米笔记本恶评如潮啊....](https://www.v2ex.com/t/811370)
+* [2021-10-28  [macOS] 如何彻底清理 macOS 某个系统应用（如图书）的所有设置和文件？升级 Monterey 之后用 Apple Books 打开 ePub 电子书默认背景是黑色，怎样更改都无效，每次都会跳回黑色](https://www.v2ex.com/t/811369)
+* [2021-10-28  [macOS] macOS 设备使用采集卡会闪屏，有人遇到过吗？该怎么解决呢？](https://www.v2ex.com/t/811368)
+* [2021-10-28  [MacBook Pro] 打算退了 Macbook Pro](https://www.v2ex.com/t/811367)
+* [2021-10-28  [Apple] 向大家请教一个线上付款，线下拿货可以直接 Trade In 吗](https://www.v2ex.com/t/811366)
+* [2021-10-28  [程序员] 发现了个很奇怪的现象，关于 parallelStream 的](https://www.v2ex.com/t/811364)
+* [2021-10-28  [分享创造] NxShell 终端工具优化半年再与您相见](https://www.v2ex.com/t/811363)
+* [2021-10-28  [问与答] 新浪微博反爬 封掉 huginn 的问题](https://www.v2ex.com/t/811361)
 * [2021-10-28  [macOS] 请教如何为脚本赋予 Full Disk Access 权限](https://www.v2ex.com/t/811359)
 * [2021-10-28  [Apple] 刘海可以忍受，但新 mbp 的这个好难忍受](https://www.v2ex.com/t/811357)
 * [2021-10-28  [机械键盘] 有大佬买这款键盘吗？看某东都卖断货了 [HHKB HYBRID TYPE-S 25 周年雪白限定配色纪念版]](https://www.v2ex.com/t/811356)

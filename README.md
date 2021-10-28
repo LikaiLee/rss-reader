@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+3】
+* [V2EX](#V2EX) 【+8】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -46,16 +46,16 @@
     </summary>
 
 
+* [【2021-10-28】 [小米] 红米笔记本恶评如潮啊....](https://www.v2ex.com/t/811370)
+* [【2021-10-28】 [macOS] 如何彻底清理 macOS 某个系统应用（如图书）的所有设置和文件？升级 Monterey 之后用 Apple Books 打开 ePub 电子书默认背景是黑色，怎样更改都无效，每次都会跳回黑色](https://www.v2ex.com/t/811369)
+* [【2021-10-28】 [macOS] macOS 设备使用采集卡会闪屏，有人遇到过吗？该怎么解决呢？](https://www.v2ex.com/t/811368)
+* [【2021-10-28】 [MacBook Pro] 打算退了 Macbook Pro](https://www.v2ex.com/t/811367)
+* [【2021-10-28】 [Apple] 向大家请教一个线上付款，线下拿货可以直接 Trade In 吗](https://www.v2ex.com/t/811366)
+* [【2021-10-28】 [程序员] 发现了个很奇怪的现象，关于 parallelStream 的](https://www.v2ex.com/t/811364)
+* [【2021-10-28】 [分享创造] NxShell 终端工具优化半年再与您相见](https://www.v2ex.com/t/811363)
+* [【2021-10-28】 [问与答] 新浪微博反爬 封掉 huginn 的问题](https://www.v2ex.com/t/811361)
 * [【2021-10-28】 [macOS] 请教如何为脚本赋予 Full Disk Access 权限](https://www.v2ex.com/t/811359)
 * [【2021-10-28】 [Apple] 刘海可以忍受，但新 mbp 的这个好难忍受](https://www.v2ex.com/t/811357)
-* [【2021-10-28】 [机械键盘] 有大佬买这款键盘吗？看某东都卖断货了 [HHKB HYBRID TYPE-S 25 周年雪白限定配色纪念版]](https://www.v2ex.com/t/811356)
-* [【2021-10-28】 [macOS] 电脑上的 iOS 更新提醒怎么关闭？](https://www.v2ex.com/t/811355)
-* [【2021-10-28】 [上海] 迫于太胖，有靠谱游泳教练推荐码？](https://www.v2ex.com/t/811353)
-* [【2021-10-28】 [iDev] 新 app 上架 AppStore 反复被拒](https://www.v2ex.com/t/811351)
-* [【2021-10-28】 [问与答] 多个新闻网站通用爬虫解决方案？](https://www.v2ex.com/t/811350)
-* [【2021-10-28】 [macOS] 关于刘海目前知道的](https://www.v2ex.com/t/811347)
-* [【2021-10-28】 [职场话题] Web 高性能指南——如何优化网络](https://www.v2ex.com/t/811346)
-* [【2021-10-28】 [问与答] 大家有了解 epam 这家公司的吗？](https://www.v2ex.com/t/811345)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-28 13:24:32
+:alarm_clock: 更新时间: 2021-10-28 14:18:39

@@ -236,6 +236,46 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[小米] 红米笔记本恶评如潮啊....",
+                "link": "https://www.v2ex.com/t/811370",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[macOS] 如何彻底清理 macOS 某个系统应用（如图书）的所有设置和文件？升级 Monterey 之后用 Apple Books 打开 ePub 电子书默认背景是黑色，怎样更改都无效，每次都会跳回黑色",
+                "link": "https://www.v2ex.com/t/811369",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[macOS] macOS 设备使用采集卡会闪屏，有人遇到过吗？该怎么解决呢？",
+                "link": "https://www.v2ex.com/t/811368",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[MacBook Pro] 打算退了 Macbook Pro",
+                "link": "https://www.v2ex.com/t/811367",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] 向大家请教一个线上付款，线下拿货可以直接 Trade In 吗",
+                "link": "https://www.v2ex.com/t/811366",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] 发现了个很奇怪的现象，关于 parallelStream 的",
+                "link": "https://www.v2ex.com/t/811364",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[分享创造] NxShell 终端工具优化半年再与您相见",
+                "link": "https://www.v2ex.com/t/811363",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 新浪微博反爬 封掉 huginn 的问题",
+                "link": "https://www.v2ex.com/t/811361",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "[macOS] 请教如何为脚本赋予 Full Disk Access 权限",
                 "link": "https://www.v2ex.com/t/811359",
                 "published": "2021-10-28"
@@ -6786,7 +6826,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 8
     },
     {
         "id": 3,
