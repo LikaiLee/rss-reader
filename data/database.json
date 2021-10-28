@@ -218,13 +218,68 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] 关于这次官网下单的 MBP",
+                "link": "https://www.v2ex.com/t/811310",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[机械键盘] 有没有适合 mac 的无线短轴机械键盘, 预算 600 以下",
+                "link": "https://www.v2ex.com/t/811308",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] 想问一下 IntelliJ 家编辑器有没有文件头尾的快捷键？",
+                "link": "https://www.v2ex.com/t/811306",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 微信又被封了，绑定了 gv 号，这回貌似解封不了了，主力微信号",
+                "link": "https://www.v2ex.com/t/811304",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Chrome] Chrome 插件开发的一点小问题",
+                "link": "https://www.v2ex.com/t/811303",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[酷工作] [幸识] 2021 年 1 月第七名的社交软件招 Java iOS Android，来，赶在 B 轮前上车",
+                "link": "https://www.v2ex.com/t/811302",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[分享发现] 分享有趣、入门级的开源项目《HelloGitHub》第 67 期",
+                "link": "https://www.v2ex.com/t/811300",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] 适配多软件的主题 / 配色方案",
+                "link": "https://www.v2ex.com/t/811299",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Apple] macOS 12.0.1 新 MBP16 为什么连接 AirPods pro 显示空间音频不可用啊，有 v 友遇到吗",
+                "link": "https://www.v2ex.com/t/811298",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Python] 用 requests 抓取网页长时间没有返回超时是什么原因",
+                "link": "https://www.v2ex.com/t/811297",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[分享创造] 酷瓜云课堂 v1.4.7 发布，国产开源尺度最大的知识付费类项目",
+                "link": "https://www.v2ex.com/t/811296",
+                "published": "2021-10-28"
+            },
             {
                 "title": "[iOS] IOS APP 内如何在连接局域网 wifi 时, 强制使用移动网络访问 http 请求",
                 "link": "https://www.v2ex.com/t/811295",
@@ -6516,13 +6571,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 14
+        "new_feeds": 11
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "武汉国家航天产业基地下线的首批火箭「快舟•​新洲」号成功发射，对我国商业航天的发展有何意义？",
+                "link": "http://www.zhihu.com/question/494934851/answer/2193891517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-28"
+            },
             {
                 "title": "国产动画《猫之茗》开播，你感觉如何？",
                 "link": "http://www.zhihu.com/question/494397661/answer/2192713099?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -6909,6 +6969,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

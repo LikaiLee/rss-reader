@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
-* [V2EX](#V2EX) 【+14】
-* [知乎每日精选](#知乎每日精选)
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+11】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -46,16 +46,16 @@
     </summary>
 
 
-* [【2021-10-28】 [iOS] IOS APP 内如何在连接局域网 wifi 时, 强制使用移动网络访问 http 请求](https://www.v2ex.com/t/811295)
-* [【2021-10-28】 [酷工作] [杭州/求贤][ACE 游戏社] 绝不 996/游戏前后端岗位/寻找喜爱游戏的有缘人[20~35k]](https://www.v2ex.com/t/811294)
-* [【2021-10-28】 [Apple] safari 上哪个拓展的拦截最好用？](https://www.v2ex.com/t/811293)
-* [【2021-10-28】 [Apple] arm 原生游戏博德之门 3 m1 max 帧数](https://www.v2ex.com/t/811292)
-* [【2021-10-28】 [JavaScript] 被方括号引用搞懵逼了](https://www.v2ex.com/t/811291)
-* [【2021-10-28】 [淘宝] BlueStacks 使用手机淘宝，跳转详情页报错](https://www.v2ex.com/t/811290)
-* [【2021-10-28】 [macOS] 求助，启动代理删不干净](https://www.v2ex.com/t/811289)
-* [【2021-10-28】 [Go 编程语言] Go 终于要搞泛型了 (1.18 版本)](https://www.v2ex.com/t/811288)
-* [【2021-10-28】 [搜索引擎优化] 被百度收录的网站,加了 robots.txt 禁止搜寻引擎收录的代码后网站还在?](https://www.v2ex.com/t/811286)
-* [【2021-10-28】 [前端开发] 微信录音接口 PCM 格式文件编码方式](https://www.v2ex.com/t/811285)
+* [【2021-10-28】 [Apple] 关于这次官网下单的 MBP](https://www.v2ex.com/t/811310)
+* [【2021-10-28】 [机械键盘] 有没有适合 mac 的无线短轴机械键盘, 预算 600 以下](https://www.v2ex.com/t/811308)
+* [【2021-10-28】 [程序员] 想问一下 IntelliJ 家编辑器有没有文件头尾的快捷键？](https://www.v2ex.com/t/811306)
+* [【2021-10-28】 [问与答] 微信又被封了，绑定了 gv 号，这回貌似解封不了了，主力微信号](https://www.v2ex.com/t/811304)
+* [【2021-10-28】 [Chrome] Chrome 插件开发的一点小问题](https://www.v2ex.com/t/811303)
+* [【2021-10-28】 [酷工作] [幸识] 2021 年 1 月第七名的社交软件招 Java iOS Android，来，赶在 B 轮前上车](https://www.v2ex.com/t/811302)
+* [【2021-10-28】 [分享发现] 分享有趣、入门级的开源项目《HelloGitHub》第 67 期](https://www.v2ex.com/t/811300)
+* [【2021-10-28】 [程序员] 适配多软件的主题 / 配色方案](https://www.v2ex.com/t/811299)
+* [【2021-10-28】 [Apple] macOS 12.0.1 新 MBP16 为什么连接 AirPods pro 显示空间音频不可用啊，有 v 友遇到吗](https://www.v2ex.com/t/811298)
+* [【2021-10-28】 [Python] 用 requests 抓取网页长时间没有返回超时是什么原因](https://www.v2ex.com/t/811297)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -65,6 +65,7 @@
     </summary>
 
 
+* [【2021-10-28】 武汉国家航天产业基地下线的首批火箭「快舟•​新洲」号成功发射，对我国商业航天的发展有何意义？](http://www.zhihu.com/question/494934851/answer/2193891517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-28】 国产动画《猫之茗》开播，你感觉如何？](http://www.zhihu.com/question/494397661/answer/2192713099?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-28】 「致敬可爱的人」中学生写下103封信寄往边关，边防战士的生活是什么样？你还听过哪些关于军人的暖心故事？](http://www.zhihu.com/question/494851886/answer/2193248332?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-28】 10月28日更新公告](http://zhuanlan.zhihu.com/p/426518890?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -74,7 +75,6 @@
 * [【2021-10-26】 走好科学“退煤”路，助力实现“双碳”目标](http://zhuanlan.zhihu.com/p/425647032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-26】 彻底干掉了前摄的小米MIX，未来在何方？](http://zhuanlan.zhihu.com/p/425793169?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-25】 纪念志愿军抗美援朝出国作战 71 周年，哪些「最可爱的人」的故事让你记忆深刻？](http://www.zhihu.com/question/494388383/answer/2188254476?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-10-25】 独家！大量在韩中国人民志愿军烈士遗骸搜寻鉴定细节曝光！](http://zhuanlan.zhihu.com/p/425560601?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-28 08:23:26
+:alarm_clock: 更新时间: 2021-10-28 09:19:52

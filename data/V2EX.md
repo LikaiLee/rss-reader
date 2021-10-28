@@ -1,6 +1,17 @@
 # V2EX
 
 
+* [2021-10-28  [Apple] 关于这次官网下单的 MBP](https://www.v2ex.com/t/811310)
+* [2021-10-28  [机械键盘] 有没有适合 mac 的无线短轴机械键盘, 预算 600 以下](https://www.v2ex.com/t/811308)
+* [2021-10-28  [程序员] 想问一下 IntelliJ 家编辑器有没有文件头尾的快捷键？](https://www.v2ex.com/t/811306)
+* [2021-10-28  [问与答] 微信又被封了，绑定了 gv 号，这回貌似解封不了了，主力微信号](https://www.v2ex.com/t/811304)
+* [2021-10-28  [Chrome] Chrome 插件开发的一点小问题](https://www.v2ex.com/t/811303)
+* [2021-10-28  [酷工作] [幸识] 2021 年 1 月第七名的社交软件招 Java iOS Android，来，赶在 B 轮前上车](https://www.v2ex.com/t/811302)
+* [2021-10-28  [分享发现] 分享有趣、入门级的开源项目《HelloGitHub》第 67 期](https://www.v2ex.com/t/811300)
+* [2021-10-28  [程序员] 适配多软件的主题 / 配色方案](https://www.v2ex.com/t/811299)
+* [2021-10-28  [Apple] macOS 12.0.1 新 MBP16 为什么连接 AirPods pro 显示空间音频不可用啊，有 v 友遇到吗](https://www.v2ex.com/t/811298)
+* [2021-10-28  [Python] 用 requests 抓取网页长时间没有返回超时是什么原因](https://www.v2ex.com/t/811297)
+* [2021-10-28  [分享创造] 酷瓜云课堂 v1.4.7 发布，国产开源尺度最大的知识付费类项目](https://www.v2ex.com/t/811296)
 * [2021-10-28  [iOS] IOS APP 内如何在连接局域网 wifi 时, 强制使用移动网络访问 http 请求](https://www.v2ex.com/t/811295)
 * [2021-10-28  [酷工作] [杭州/求贤][ACE 游戏社] 绝不 996/游戏前后端岗位/寻找喜爱游戏的有缘人[20~35k]](https://www.v2ex.com/t/811294)
 * [2021-10-28  [Apple] safari 上哪个拓展的拦截最好用？](https://www.v2ex.com/t/811293)
