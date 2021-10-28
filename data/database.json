@@ -28,6 +28,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "让文件更好找：我的元数据文件命名法",
+                "link": "https://sspai.com/post/69524",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "派早报：大疆发布 Action 2 相机、Intel 推出 12 代酷睿处理器、Android 12L 预览版发布等",
                 "link": "https://sspai.com/post/69546",
                 "published": "2021-10-28"
@@ -203,13 +208,43 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 现在问 ikev2 的客户端是不是有点太晚？",
+                "link": "https://www.v2ex.com/t/811224",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 手机侧键经常卡主,你们有没有遇到这个问题?",
+                "link": "https://www.v2ex.com/t/811223",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] 所谓的设计系统",
+                "link": "https://www.v2ex.com/t/811221",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Windows] 吐槽一下 Windows， 今天的更新不像一个稳重的系统该做的事",
+                "link": "https://www.v2ex.com/t/811220",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 求一个能同时收发 网易，谷歌，微软 exchange 的邮箱客户端",
+                "link": "https://www.v2ex.com/t/811219",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[生活] 我发现自己多看看美女，帅哥，韩剧，可以有效驱使自己改善自我形象和居住环境",
+                "link": "https://www.v2ex.com/t/811218",
+                "published": "2021-10-28"
+            },
             {
                 "title": "[Apple] AppStore 搜索不到饿了么",
                 "link": "https://www.v2ex.com/t/811216",
@@ -6221,7 +6256,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 17
+        "new_feeds": 6
     },
     {
         "id": 3,
@@ -6609,6 +6644,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

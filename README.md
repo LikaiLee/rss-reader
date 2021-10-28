@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+17】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+6】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -27,6 +27,7 @@
     </summary>
 
 
+* [【2021-10-28】 让文件更好找：我的元数据文件命名法](https://sspai.com/post/69524)
 * [【2021-10-28】 派早报：大疆发布 Action 2 相机、Intel 推出 12 代酷睿处理器、Android 12L 预览版发布等](https://sspai.com/post/69546)
 * [【2021-10-27】 信步寻幽，自我策展：我的阅读技术史](https://sspai.com/post/69136)
 * [【2021-10-27】 疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事](https://sspai.com/post/69533)
@@ -36,7 +37,6 @@
 * [【2021-10-26】 macOS Monterey 正式版来了，升级之后试试这些新变化](https://sspai.com/post/68745)
 * [【2021-10-26】 具透 | Chrome 和 Edge 95 稳定版更新，它们都有哪些新功能？](https://sspai.com/post/69509)
 * [【2021-10-25】 新款 AirPods 首发体验：新外观、新功能，时隔 5 年的全新升级](https://sspai.com/post/69504)
-* [【2021-10-26】 SharePlay、Apple ProRes 齐登场，iOS 15.1 值得关注的 6 个更新](https://sspai.com/post/69441)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +46,16 @@
     </summary>
 
 
+* [【2021-10-28】 [问与答] 现在问 ikev2 的客户端是不是有点太晚？](https://www.v2ex.com/t/811224)
+* [【2021-10-28】 [问与答] 手机侧键经常卡主,你们有没有遇到这个问题?](https://www.v2ex.com/t/811223)
+* [【2021-10-28】 [程序员] 所谓的设计系统](https://www.v2ex.com/t/811221)
+* [【2021-10-28】 [Windows] 吐槽一下 Windows， 今天的更新不像一个稳重的系统该做的事](https://www.v2ex.com/t/811220)
+* [【2021-10-28】 [问与答] 求一个能同时收发 网易，谷歌，微软 exchange 的邮箱客户端](https://www.v2ex.com/t/811219)
+* [【2021-10-28】 [生活] 我发现自己多看看美女，帅哥，韩剧，可以有效驱使自己改善自我形象和居住环境](https://www.v2ex.com/t/811218)
 * [【2021-10-28】 [Apple] AppStore 搜索不到饿了么](https://www.v2ex.com/t/811216)
 * [【2021-10-28】 [问与答] 这个比赛有大佬在参加吗？第二题过不去了](https://www.v2ex.com/t/811213)
 * [【2021-10-28】 [Apple] 因为偶尔需要 win 系统，请问 pd 怎么买便宜](https://www.v2ex.com/t/811212)
 * [【2021-10-28】 [Elasticsearch] 如何设计正文+评论在 Elasticsearch 中的存储模式？](https://www.v2ex.com/t/811211)
-* [【2021-10-28】 [职场话题] 秋招卷中卷，但是薪资出乎意料，体感倒挂也挺严重的](https://www.v2ex.com/t/811210)
-* [【2021-10-28】 [程序员] 有应用混沌工程的朋友吗？](https://www.v2ex.com/t/811209)
-* [【2021-10-28】 [Apple] Monterey 可以显示 YDKB 键盘的电量了](https://www.v2ex.com/t/811207)
-* [【2021-10-28】 [问与答] 公司网禁了远程桌面？怎么破解](https://www.v2ex.com/t/811206)
-* [【2021-10-28】 [Apple] M1 MAX MBP16 游戏性能功耗简单测](https://www.v2ex.com/t/811202)
-* [【2021-10-28】 [MacBook Pro] 薄了 0.1mm 的视觉效果是真的震撼](https://www.v2ex.com/t/811201)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +84,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-28 04:25:56
+:alarm_clock: 更新时间: 2021-10-28 05:17:57
