@@ -236,6 +236,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] Mac 有线接入网络，还可以「互联互通」吗？",
+                "link": "https://www.v2ex.com/t/811390",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] 学通信的为什么看不起计算机的？",
+                "link": "https://www.v2ex.com/t/811389",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "[北京] 房东直租-昌平 13、5 号线立水桥地铁佳运园 2 室 1 厅精装南北通透 202111 月 13 号周末可搬家",
                 "link": "https://www.v2ex.com/t/811388",
                 "published": "2021-10-28"
@@ -6906,7 +6916,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 3,
