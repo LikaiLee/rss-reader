@@ -28,6 +28,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新玩意 081｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/69560",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "追求速度、挑战自我：在这些游戏里感受竞速的魅力",
+                "link": "https://sspai.com/post/68934",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "当我说起「音质」的时候，我想说什么",
                 "link": "https://sspai.com/post/69542",
                 "published": "2021-10-28"
@@ -218,13 +228,133 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[macOS] monterey 比 bigsur 费电",
+                "link": "https://www.v2ex.com/t/811334",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] Jetbrains 对标 vscode 的远程开发功能来了",
+                "link": "https://www.v2ex.com/t/811333",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[分享发现] 大家来赢键盘啦",
+                "link": "https://www.v2ex.com/t/811332",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[酷工作] [北京] [武汉] 洛凯科技 商业化后端开发 直招",
+                "link": "https://www.v2ex.com/t/811330",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[macOS] Monterey 系统下面为何浏览器里 ua 的系统版本仍然是 10.15.7",
+                "link": "https://www.v2ex.com/t/811329",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Flutter] flutter 下 protobuf 编解码的问题，卡好几天。",
+                "link": "https://www.v2ex.com/t/811328",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[酷工作] [上海-浦东-世纪大道] Autodesk 欧特全职招聘高级 Android 开发",
+                "link": "https://www.v2ex.com/t/811327",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Google] Google Voice 回收政策再升级",
+                "link": "https://www.v2ex.com/t/811326",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] dockerfile 单行 env 设置多个值问题",
+                "link": "https://www.v2ex.com/t/811325",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Firefox] 有没有觉得 Firefox 默认的英文字体过于紧凑了点，有没有什么好看的英文字体推荐",
+                "link": "https://www.v2ex.com/t/811324",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[分享发现] 83 行代码挑战赛",
+                "link": "https://www.v2ex.com/t/811323",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[程序员] Raft Consensus Algorithm - matchIndex[]的作用是什么？",
+                "link": "https://www.v2ex.com/t/811322",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Vue.js] navigator.geolocation.getCurrentPosition 没有反应，请教一下如何解决？",
+                "link": "https://www.v2ex.com/t/811321",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[iPhone] 你们的 iPhone 都发货了吗",
+                "link": "https://www.v2ex.com/t/811320",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[优惠信息] 双十一良心云钜惠 HK USA CN2 服务器仅需 12 元一个月",
+                "link": "https://www.v2ex.com/t/811319",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[分享发现] 注册会员\t559988",
+                "link": "https://www.v2ex.com/t/811318",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[iPad] 大学生想买 iPad 的妙控键盘，有点问题想问",
+                "link": "https://www.v2ex.com/t/811317",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 求各个坛友推荐一下各个厂商的云服",
+                "link": "https://www.v2ex.com/t/811316",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[ WATCH] Apple Watch 6 在长袖/外套穿着下非常容易误触(?)",
+                "link": "https://www.v2ex.com/t/811315",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[问与答] 自由职业者怎么强迫自己工作满 8 小时？",
+                "link": "https://www.v2ex.com/t/811314",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Java] 请教一下 Java 的 LinkedHashMap 的逻辑为什么有一部分要写在父类 HashMap 里",
+                "link": "https://www.v2ex.com/t/811313",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Go 编程语言] 关于 go 布尔默认值问题",
+                "link": "https://www.v2ex.com/t/811312",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[macOS] 请教 monterey 执行快捷指令报错",
+                "link": "https://www.v2ex.com/t/811311",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[微信] 微信又被封了，绑定了 gv 号，这回貌似解封不了了，主力微信号",
+                "link": "https://www.v2ex.com/t/811304",
+                "published": "2021-10-28"
+            },
             {
                 "title": "[Apple] 关于这次官网下单的 MBP",
                 "link": "https://www.v2ex.com/t/811310",
@@ -6571,7 +6701,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 24
     },
     {
         "id": 3,
@@ -6969,6 +7099,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
