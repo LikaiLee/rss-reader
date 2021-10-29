@@ -266,6 +266,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Java] 会计专业 2022 毕业，自学 Java 能找到多少 K 工作",
+                "link": "https://www.v2ex.com/t/811654",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[macOS] 老款苹果电脑升级 Monterey 失败的可以试试 OCLP",
+                "link": "https://www.v2ex.com/t/811653",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "[Apple] 新 MacBook Pro 14 寸，用 Firefox 看直播会发热， Chrome 和 Safari 就很凉",
                 "link": "https://www.v2ex.com/t/811652",
                 "published": "2021-10-29"
@@ -7881,7 +7891,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 2
     },
     {
         "id": 3,

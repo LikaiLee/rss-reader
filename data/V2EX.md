@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-10-29  [Java] 会计专业 2022 毕业，自学 Java 能找到多少 K 工作](https://www.v2ex.com/t/811654)
+* [2021-10-29  [macOS] 老款苹果电脑升级 Monterey 失败的可以试试 OCLP](https://www.v2ex.com/t/811653)
 * [2021-10-29  [Apple] 新 MacBook Pro 14 寸，用 Firefox 看直播会发热， Chrome 和 Safari 就很凉](https://www.v2ex.com/t/811652)
 * [2021-10-29  [MacBook Pro] 新的 MBP14/16 的外接显示器有必要也高刷吗](https://www.v2ex.com/t/811650)
 * [2021-10-29  [MySQL] Mysql 数据库迁移](https://www.v2ex.com/t/811648)

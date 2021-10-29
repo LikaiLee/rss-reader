@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+7】
+* [V2EX](#V2EX) 【+2】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,8 @@
     </summary>
 
 
+* [【2021-10-29】 [Java] 会计专业 2022 毕业，自学 Java 能找到多少 K 工作](https://www.v2ex.com/t/811654)
+* [【2021-10-29】 [macOS] 老款苹果电脑升级 Monterey 失败的可以试试 OCLP](https://www.v2ex.com/t/811653)
 * [【2021-10-29】 [Apple] 新 MacBook Pro 14 寸，用 Firefox 看直播会发热， Chrome 和 Safari 就很凉](https://www.v2ex.com/t/811652)
 * [【2021-10-29】 [MacBook Pro] 新的 MBP14/16 的外接显示器有必要也高刷吗](https://www.v2ex.com/t/811650)
 * [【2021-10-29】 [MySQL] Mysql 数据库迁移](https://www.v2ex.com/t/811648)
@@ -55,8 +57,6 @@
 * [【2021-10-29】 [Google] 六亲不认的谷歌 Gmail](https://www.v2ex.com/t/811644)
 * [【2021-10-29】 [Apple] chrome 常开 50 多个页面， PD 装 win 11 也会常开，新 MBP 的 32G 够用？需要上 64G 么？](https://www.v2ex.com/t/811643)
 * [【2021-10-29】 [程序员] 前后分离单页应用中有没有服务端调用前端执行的实践？](https://www.v2ex.com/t/811638)
-* [【2021-10-29】 [虚拟现实] 《千与千寻》水上列车之旅 VR 版](https://www.v2ex.com/t/811637)
-* [【2021-10-29】 [Apple] 美区 ID 收到了 Apple 的中国大陆隐私保护法邮件是怎么回事](https://www.v2ex.com/t/811636)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-29 16:30:34
+:alarm_clock: 更新时间: 2021-10-29 17:21:55
