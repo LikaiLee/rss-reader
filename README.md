@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+13】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+12】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-10-29】 [深圳] 11 月 14 日 深圳 | 程序员相亲交友派对（线下）](https://www.v2ex.com/t/811578)
-* [【2021-10-29】 [Android] 有没有大佬知道 com.council.pd2.SDKManager 这个东西是什么吗](https://www.v2ex.com/t/811577)
-* [【2021-10-29】 [Windows] Windows 11 上的微软拼音输入栏上的表情符号按钮可以隐藏吗？](https://www.v2ex.com/t/811576)
-* [【2021-10-29】 [程序员] 开源协议的修改源码应该怎么理解？](https://www.v2ex.com/t/811574)
-* [【2021-10-29】 [小米] 关于米家网管联动智能门锁的问题~](https://www.v2ex.com/t/811572)
-* [【2021-10-29】 [上海] 8 号线市光路附近招一个室友](https://www.v2ex.com/t/811569)
-* [【2021-10-29】 [Apple] Safari 15.1 在有系统代理的情况下无法连接 WebSocket？](https://www.v2ex.com/t/811568)
-* [【2021-10-29】 [问与答] 在 data url 中使用 base64 的 url safe 变体是合法的吗？](https://www.v2ex.com/t/811567)
-* [【2021-10-29】 [酷工作] [新加坡外企] 知名金融科技公司-- Java 开发--WEB 前端--Node 工程师--Flutter 工程師--测试，等等多个岗位](https://www.v2ex.com/t/811565)
-* [【2021-10-29】 [程序员] 10 月日常开发使用](https://www.v2ex.com/t/811564)
+* [【2021-10-29】 [酷工作] [内推-上海/北京] 1065 电商公司, 躲卷人的好去处，欢迎各位加入🔥](https://www.v2ex.com/t/811594)
+* [【2021-10-29】 [程序员] conan 使用 qt6 的 Could not find the Qt platform plugin "windows" 问题](https://www.v2ex.com/t/811593)
+* [【2021-10-29】 [问与答] 有用过被窝家装的朋友吗？怎么样](https://www.v2ex.com/t/811590)
+* [【2021-10-29】 [酷工作] [深圳] [DJI-大疆创新] [C++软件开发、嵌入式、测试开发、感知控制机器人算法] 核心部门大量 HC 招聘！](https://www.v2ex.com/t/811589)
+* [【2021-10-29】 [酷工作] 🔥🔥🔥[新加坡] [技术移民]上市互联网公司，招移动端（iOS,安卓），前端，后端开发（不限开发语言），大数据开发， DevOps 或 SRE 等各类工程师，各方向技术专家及技术负责人（P7-P9)，个税低，没有 996，中文视频面试。](https://www.v2ex.com/t/811588)
+* [【2021-10-29】 [MacBook] 纠结买 14 寸 16g + 512g 还是 32g + 1t MacBook Pro](https://www.v2ex.com/t/811587)
+* [【2021-10-29】 [iPhone] Apple Pay 添加不了银行卡什么原因？](https://www.v2ex.com/t/811586)
+* [【2021-10-29】 [全球工单系统] 京东网页顶部的搜索输入框快捷键 shift+s 跟 Win11 的 shift+win+s(截图功能)起冲突了](https://www.v2ex.com/t/811585)
+* [【2021-10-29】 [程序员] 不用各平台写技术博客，自己搭建网站写自己的技术博客有啥好处的](https://www.v2ex.com/t/811583)
+* [【2021-10-29】 [软件] fantastical 有人用的没？](https://www.v2ex.com/t/811582)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-29 09:19:32
+:alarm_clock: 更新时间: 2021-10-29 10:22:32

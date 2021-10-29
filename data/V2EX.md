@@ -1,6 +1,18 @@
 # V2EX
 
 
+* [2021-10-29  [酷工作] [内推-上海/北京] 1065 电商公司, 躲卷人的好去处，欢迎各位加入🔥](https://www.v2ex.com/t/811594)
+* [2021-10-29  [程序员] conan 使用 qt6 的 Could not find the Qt platform plugin "windows" 问题](https://www.v2ex.com/t/811593)
+* [2021-10-29  [问与答] 有用过被窝家装的朋友吗？怎么样](https://www.v2ex.com/t/811590)
+* [2021-10-29  [酷工作] [深圳] [DJI-大疆创新] [C++软件开发、嵌入式、测试开发、感知控制机器人算法] 核心部门大量 HC 招聘！](https://www.v2ex.com/t/811589)
+* [2021-10-29  [酷工作] 🔥🔥🔥[新加坡] [技术移民]上市互联网公司，招移动端（iOS,安卓），前端，后端开发（不限开发语言），大数据开发， DevOps 或 SRE 等各类工程师，各方向技术专家及技术负责人（P7-P9)，个税低，没有 996，中文视频面试。](https://www.v2ex.com/t/811588)
+* [2021-10-29  [MacBook] 纠结买 14 寸 16g + 512g 还是 32g + 1t MacBook Pro](https://www.v2ex.com/t/811587)
+* [2021-10-29  [iPhone] Apple Pay 添加不了银行卡什么原因？](https://www.v2ex.com/t/811586)
+* [2021-10-29  [全球工单系统] 京东网页顶部的搜索输入框快捷键 shift+s 跟 Win11 的 shift+win+s(截图功能)起冲突了](https://www.v2ex.com/t/811585)
+* [2021-10-29  [程序员] 不用各平台写技术博客，自己搭建网站写自己的技术博客有啥好处的](https://www.v2ex.com/t/811583)
+* [2021-10-29  [软件] fantastical 有人用的没？](https://www.v2ex.com/t/811582)
+* [2021-10-29  [程序员] 请教一个 tp5 路由的设置问题、](https://www.v2ex.com/t/811580)
+* [2021-10-29  [硬件] 有鉴别矿卡的路子吗？](https://www.v2ex.com/t/811557)
 * [2021-10-29  [深圳] 11 月 14 日 深圳 | 程序员相亲交友派对（线下）](https://www.v2ex.com/t/811578)
 * [2021-10-29  [Android] 有没有大佬知道 com.council.pd2.SDKManager 这个东西是什么吗](https://www.v2ex.com/t/811577)
 * [2021-10-29  [Windows] Windows 11 上的微软拼音输入栏上的表情符号按钮可以隐藏吗？](https://www.v2ex.com/t/811576)
