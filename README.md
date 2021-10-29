@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+12】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+15】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-10-29】 瞎玩菌的游戏周报：《神秘海域》电影公布预告、开罗游戏事件后续等](https://sspai.com/post/69557)
 * [【2021-10-29】 iPad Pro 又何必非要成为「MacBook Lite」](https://sspai.com/post/69548)
 * [【2021-10-29】 派早报：尼康发布 Z 9 全画幅微单相机、Apple 公布完全碳中计划最新状况等](https://sspai.com/post/69564)
 * [【2021-10-28】 新玩意 081｜少数派的编辑们最近买了啥？](https://sspai.com/post/69560)
@@ -37,7 +38,6 @@
 * [【2021-10-28】 让文件更好找：我的元数据文件命名法](https://sspai.com/post/69524)
 * [【2021-10-28】 派早报：大疆发布 Action 2 相机、Intel 推出 12 代酷睿处理器、Android 12L 预览版发布等](https://sspai.com/post/69546)
 * [【2021-10-27】 信步寻幽，自我策展：我的阅读技术史](https://sspai.com/post/69136)
-* [【2021-10-27】 疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事](https://sspai.com/post/69533)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-10-29】 [分享发现] 十几年前，有个像素游戏网站，叫什么哈什么 hotel，有人记得名字和地址吗？](https://www.v2ex.com/t/811538)
-* [【2021-10-29】 [问与答] 大佬们 有玩音响得不 预算一万 求推荐](https://www.v2ex.com/t/811537)
-* [【2021-10-29】 [游戏] 真女神转生哪一作最好玩？](https://www.v2ex.com/t/811536)
-* [【2021-10-29】 [Apple] 朋友们，关于 2021 MacBook pro，你们都下单了哪个尺寸和什么配置呢？](https://www.v2ex.com/t/811535)
-* [【2021-10-29】 [问与答] 老哥们看下这是什么黑科技啊](https://www.v2ex.com/t/811534)
-* [【2021-10-29】 [问与答] 请问谷歌开发者，收款的账号是不是一定要和注册时候一致？](https://www.v2ex.com/t/811533)
-* [【2021-10-29】 [深圳] [西丽办公室转租] 西丽大学城创客小镇 48 平米一楼办公室](https://www.v2ex.com/t/811532)
-* [【2021-10-29】 [问与答] 手持 XR 的兄弟卡不卡](https://www.v2ex.com/t/811531)
-* [【2021-10-29】 [webpack] webpack 现在依然不能自动支持 tree-shaking，来优化引入的包么？](https://www.v2ex.com/t/811530)
-* [【2021-10-29】 [Kubernetes] 老问题，现在流行什么方法管理多个环境下的 k8s 项目](https://www.v2ex.com/t/811528)
+* [【2021-10-29】 [Python] pycharm 的日志文件窗口中文乱码问题](https://www.v2ex.com/t/811558)
+* [【2021-10-29】 [程序员] 有鉴别矿卡的路子吗？](https://www.v2ex.com/t/811557)
+* [【2021-10-29】 [问与答] 树莓派新发布的 Zero 2 W 大家有啥想法？](https://www.v2ex.com/t/811556)
+* [【2021-10-29】 [分享发现] M1 终于可以开启 2K 显示器 hidpi](https://www.v2ex.com/t/811555)
+* [【2021-10-29】 [推广] 案例 | 省去繁琐简历筛选，「微伴助手」选择 ShowMeBug 在线笔试提高人才精准度](https://www.v2ex.com/t/811552)
+* [【2021-10-29】 [问与答] 国考报名结束了，马上要江苏省考报名](https://www.v2ex.com/t/811550)
+* [【2021-10-29】 [分享创造] 从零开始实现一个图片裁剪工具](https://www.v2ex.com/t/811549)
+* [【2021-10-29】 [酷工作] 建了一个面试群，反响不错，建了几个更精准的群](https://www.v2ex.com/t/811547)
+* [【2021-10-29】 [问与答] uniapp 可以接入过第三方广告么？](https://www.v2ex.com/t/811545)
+* [【2021-10-29】 [程序员] 现在还有做爬虫的小伙伴吗?](https://www.v2ex.com/t/811544)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-29 07:19:24
+:alarm_clock: 更新时间: 2021-10-29 08:24:12

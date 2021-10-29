@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "瞎玩菌的游戏周报：《神秘海域》电影公布预告、开罗游戏事件后续等",
+                "link": "https://sspai.com/post/69557",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "iPad Pro 又何必非要成为「MacBook Lite」",
                 "link": "https://sspai.com/post/69548",
                 "published": "2021-10-29"
@@ -243,13 +248,88 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Python] pycharm 的日志文件窗口中文乱码问题",
+                "link": "https://www.v2ex.com/t/811558",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] 有鉴别矿卡的路子吗？",
+                "link": "https://www.v2ex.com/t/811557",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 树莓派新发布的 Zero 2 W 大家有啥想法？",
+                "link": "https://www.v2ex.com/t/811556",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[分享发现] M1 终于可以开启 2K 显示器 hidpi",
+                "link": "https://www.v2ex.com/t/811555",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[推广] 案例 | 省去繁琐简历筛选，「微伴助手」选择 ShowMeBug 在线笔试提高人才精准度",
+                "link": "https://www.v2ex.com/t/811552",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 国考报名结束了，马上要江苏省考报名",
+                "link": "https://www.v2ex.com/t/811550",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[分享创造] 从零开始实现一个图片裁剪工具",
+                "link": "https://www.v2ex.com/t/811549",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[酷工作] 建了一个面试群，反响不错，建了几个更精准的群",
+                "link": "https://www.v2ex.com/t/811547",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] uniapp 可以接入过第三方广告么？",
+                "link": "https://www.v2ex.com/t/811545",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] 现在还有做爬虫的小伙伴吗?",
+                "link": "https://www.v2ex.com/t/811544",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 各位有没有升降桌推荐",
+                "link": "https://www.v2ex.com/t/811543",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Android] 老哥们看下这是什么黑科技啊，虚拟机下面可以监听微信吗?",
+                "link": "https://www.v2ex.com/t/811542",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[酷工作] 求贤若渴-上海/深圳/北京｜｜ Golang 基础设施开发工程师/数据分析师",
+                "link": "https://www.v2ex.com/t/811541",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 想买个升降桌腿自己定制桌面, 有推荐的吗?",
+                "link": "https://www.v2ex.com/t/811540",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] 有没有小公司用的密码管理平台？",
+                "link": "https://www.v2ex.com/t/811539",
+                "published": "2021-10-29"
+            },
             {
                 "title": "[分享发现] 十几年前，有个像素游戏网站，叫什么哈什么 hotel，有人记得名字和地址吗？",
                 "link": "https://www.v2ex.com/t/811538",
@@ -7491,7 +7571,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 12
+        "new_feeds": 15
     },
     {
         "id": 3,
