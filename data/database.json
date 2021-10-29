@@ -266,6 +266,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 开机后远程过程调用失败，这个谁碰见过？",
+                "link": "https://www.v2ex.com/t/811619",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] 澳门买 M1 MAX 版 Macbook，可以国内信用卡分期么？",
+                "link": "https://www.v2ex.com/t/811616",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "[问与答] 互联网法院起诉，请问京东商城的运营方公司全称是？",
                 "link": "https://www.v2ex.com/t/811614",
                 "published": "2021-10-29"
@@ -7786,7 +7796,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 3,
