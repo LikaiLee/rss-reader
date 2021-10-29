@@ -266,6 +266,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 新 MacBook Pro 14 寸，用 Firefox 看直播会发热， Chrome 和 Safari 就很凉",
+                "link": "https://www.v2ex.com/t/811652",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[MacBook Pro] 新的 MBP14/16 的外接显示器有必要也高刷吗",
+                "link": "https://www.v2ex.com/t/811650",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[MySQL] Mysql 数据库迁移",
+                "link": "https://www.v2ex.com/t/811648",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Python] 自定义 Socket 接收 HTTP 请求，丢失请求体",
+                "link": "https://www.v2ex.com/t/811647",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[微信] Linux 下使用虚拟机登录微信, 然后被永久封禁了",
+                "link": "https://www.v2ex.com/t/811646",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Google] 六亲不认的谷歌 Gmail",
+                "link": "https://www.v2ex.com/t/811644",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] chrome 常开 50 多个页面， PD 装 win 11 也会常开，新 MBP 的 32G 够用？需要上 64G 么？",
+                "link": "https://www.v2ex.com/t/811643",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "[程序员] 前后分离单页应用中有没有服务端调用前端执行的实践？",
                 "link": "https://www.v2ex.com/t/811638",
                 "published": "2021-10-29"
@@ -7846,7 +7881,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 7
     },
     {
         "id": 3,

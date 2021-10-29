@@ -1,6 +1,13 @@
 # V2EX
 
 
+* [2021-10-29  [Apple] 新 MacBook Pro 14 寸，用 Firefox 看直播会发热， Chrome 和 Safari 就很凉](https://www.v2ex.com/t/811652)
+* [2021-10-29  [MacBook Pro] 新的 MBP14/16 的外接显示器有必要也高刷吗](https://www.v2ex.com/t/811650)
+* [2021-10-29  [MySQL] Mysql 数据库迁移](https://www.v2ex.com/t/811648)
+* [2021-10-29  [Python] 自定义 Socket 接收 HTTP 请求，丢失请求体](https://www.v2ex.com/t/811647)
+* [2021-10-29  [微信] Linux 下使用虚拟机登录微信, 然后被永久封禁了](https://www.v2ex.com/t/811646)
+* [2021-10-29  [Google] 六亲不认的谷歌 Gmail](https://www.v2ex.com/t/811644)
+* [2021-10-29  [Apple] chrome 常开 50 多个页面， PD 装 win 11 也会常开，新 MBP 的 32G 够用？需要上 64G 么？](https://www.v2ex.com/t/811643)
 * [2021-10-29  [程序员] 前后分离单页应用中有没有服务端调用前端执行的实践？](https://www.v2ex.com/t/811638)
 * [2021-10-29  [虚拟现实] 《千与千寻》水上列车之旅 VR 版](https://www.v2ex.com/t/811637)
 * [2021-10-29  [Apple] 美区 ID 收到了 Apple 的中国大陆隐私保护法邮件是怎么回事](https://www.v2ex.com/t/811636)
