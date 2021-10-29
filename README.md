@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+8】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-10-29】 [程序员] 前后分离单页应用中有没有服务端调用前端执行的实践？](https://www.v2ex.com/t/811638)
+* [【2021-10-29】 [虚拟现实] 《千与千寻》水上列车之旅 VR 版](https://www.v2ex.com/t/811637)
+* [【2021-10-29】 [Apple] 美区 ID 收到了 Apple 的中国大陆隐私保护法邮件是怎么回事](https://www.v2ex.com/t/811636)
+* [【2021-10-29】 [macOS] mac 自带截屏软件将截图保存到剪切板之后，如何从剪切板保存到访达？](https://www.v2ex.com/t/811634)
+* [【2021-10-29】 [宽带症候群] 最近油管好慢啊](https://www.v2ex.com/t/811633)
+* [【2021-10-29】 [macOS] 想问一下， homebrew 安装的 Python 是 x64 版本还是 arm 版本呢？](https://www.v2ex.com/t/811632)
+* [【2021-10-29】 [分享发现] 开源正在吞噬世界：前 Firebase 投资者共同领导了开源替代方案的 1000 万美元种子轮融资](https://www.v2ex.com/t/811630)
+* [【2021-10-29】 [App Store] ios 商店居然有假软件...](https://www.v2ex.com/t/811626)
 * [【2021-10-29】 [问与答] 怎么检索，工作用的常学习的一些公众号，下载了历年文章， wold 和 html 的拷贝各一份。](https://www.v2ex.com/t/811627)
 * [【2021-10-29】 [分享发现] ios 商店居然有假软件...](https://www.v2ex.com/t/811626)
-* [【2021-10-29】 [问与答] 开机后远程过程调用失败，这个谁碰见过？](https://www.v2ex.com/t/811619)
-* [【2021-10-29】 [Apple] 澳门买 M1 MAX 版 Macbook，可以国内信用卡分期么？](https://www.v2ex.com/t/811616)
-* [【2021-10-29】 [问与答] 互联网法院起诉，请问京东商城的运营方公司全称是？](https://www.v2ex.com/t/811614)
-* [【2021-10-29】 [Steam] 赛博朋克 2077 没玩过 出售](https://www.v2ex.com/t/811612)
-* [【2021-10-29】 [生活] 自如把实名信息放在外链上](https://www.v2ex.com/t/811611)
-* [【2021-10-29】 [Apple] iphone13p finder 备份失败，用 10.15，开始点了备份就一直卡住不动，没有任何提示，](https://www.v2ex.com/t/811609)
-* [【2021-10-29】 [Java] 求个 Java 工具类（计算两个时间内的自然周数）](https://www.v2ex.com/t/811606)
-* [【2021-10-29】 [推广] 家里还保留有 DVD 光盘吗？想做备份的童鞋请进](https://www.v2ex.com/t/811603)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-29 14:18:18
+:alarm_clock: 更新时间: 2021-10-29 15:21:05
