@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-10-29  [分享发现] 啥玩意，又搞什么元宇宙的概念](https://www.v2ex.com/t/811661)
+* [2021-10-29  [问与答] 问一个 C++构造函数中括号的问题](https://www.v2ex.com/t/811660)
 * [2021-10-29  [酷工作] 22 届找日常实习，全职， Node.js/C++/Go](https://www.v2ex.com/t/811659)
 * [2021-10-29  [macOS] Homebrew 的维护者脾气这么臭的吗？](https://www.v2ex.com/t/811658)
 * [2021-10-29  [Android] 垃圾小米 11，气死](https://www.v2ex.com/t/811657)

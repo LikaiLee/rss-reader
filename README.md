@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX)
+* [V2EX](#V2EX) 【+2】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,8 @@
     </summary>
 
 
+* [【2021-10-29】 [分享发现] 啥玩意，又搞什么元宇宙的概念](https://www.v2ex.com/t/811661)
+* [【2021-10-29】 [问与答] 问一个 C++构造函数中括号的问题](https://www.v2ex.com/t/811660)
 * [【2021-10-29】 [酷工作] 22 届找日常实习，全职， Node.js/C++/Go](https://www.v2ex.com/t/811659)
 * [【2021-10-29】 [macOS] Homebrew 的维护者脾气这么臭的吗？](https://www.v2ex.com/t/811658)
 * [【2021-10-29】 [Android] 垃圾小米 11，气死](https://www.v2ex.com/t/811657)
@@ -55,8 +57,6 @@
 * [【2021-10-29】 [macOS] 老款苹果电脑升级 Monterey 失败的可以试试 OCLP](https://www.v2ex.com/t/811653)
 * [【2021-10-29】 [Apple] 新 MacBook Pro 14 寸，用 Firefox 看直播会发热， Chrome 和 Safari 就很凉](https://www.v2ex.com/t/811652)
 * [【2021-10-29】 [MacBook Pro] 新的 MBP14/16 的外接显示器有必要也高刷吗](https://www.v2ex.com/t/811650)
-* [【2021-10-29】 [MySQL] Mysql 数据库迁移](https://www.v2ex.com/t/811648)
-* [【2021-10-29】 [Python] 自定义 Socket 接收 HTTP 请求，丢失请求体](https://www.v2ex.com/t/811647)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-29 19:14:28
+:alarm_clock: 更新时间: 2021-10-29 20:20:24
