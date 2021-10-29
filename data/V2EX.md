@@ -1,6 +1,17 @@
 # V2EX
 
 
+* [2021-10-29  [Java] 使用 myeclipse 实现登录注册功能时发生 Java .lang.ClassNotFoundException.ClassNotFoundException(String s)错误，](https://www.v2ex.com/t/811406)
+* [2021-10-29  [PHP] onedrive 转化成 web 网盘，有没有推荐？](https://www.v2ex.com/t/811404)
+* [2021-10-29  [Cloudflare] Cloudflare 已经支持单独针对 CDN 设置的 Cache-Control 头部](https://www.v2ex.com/t/811403)
+* [2021-10-29  [Python] Python 官方 2021 年开发者调查](https://www.v2ex.com/t/811400)
+* [2021-10-29  [ WATCH] Apple Watch 升级系统后续航尿崩](https://www.v2ex.com/t/811398)
+* [2021-10-29  [Apple] MacBook Pro14 背包推荐](https://www.v2ex.com/t/811397)
+* [2021-10-28  [小米] 找一个远程看小米手环心率的 API](https://www.v2ex.com/t/811396)
+* [2021-10-28  [MacBook Pro] 有没有觉得 MacBook 出风口硌手的？](https://www.v2ex.com/t/811392)
+* [2021-10-28  [Docker] 小弟问一个在 docker 中开发 vue 热加载失效的问题](https://www.v2ex.com/t/811386)
+* [2021-10-28  [Windows] 买笔记本，原装 win11 还是 win10，哪个好？](https://www.v2ex.com/t/811379)
+* [2021-10-28  [微博] 新浪微博反爬 封掉 huginn 的问题](https://www.v2ex.com/t/811361)
 * [2021-10-28  [Apple] xdm， M1 Mac 7 个月读取 283TB 是什么情况？](https://www.v2ex.com/t/811395)
 * [2021-10-28  [Windows] 升级到 Windows 11 之后 Windows Security 窗口一打开就崩溃](https://www.v2ex.com/t/811394)
 * [2021-10-28  [JetBrains] Jetbrains 对标 vscode 的远程开发功能来了](https://www.v2ex.com/t/811333)

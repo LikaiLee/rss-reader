@@ -236,6 +236,61 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Java] 使用 myeclipse 实现登录注册功能时发生 Java .lang.ClassNotFoundException.ClassNotFoundException(String s)错误，",
+                "link": "https://www.v2ex.com/t/811406",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[PHP] onedrive 转化成 web 网盘，有没有推荐？",
+                "link": "https://www.v2ex.com/t/811404",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Cloudflare] Cloudflare 已经支持单独针对 CDN 设置的 Cache-Control 头部",
+                "link": "https://www.v2ex.com/t/811403",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Python] Python 官方 2021 年开发者调查",
+                "link": "https://www.v2ex.com/t/811400",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[ WATCH] Apple Watch 升级系统后续航尿崩",
+                "link": "https://www.v2ex.com/t/811398",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] MacBook Pro14 背包推荐",
+                "link": "https://www.v2ex.com/t/811397",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[小米] 找一个远程看小米手环心率的 API",
+                "link": "https://www.v2ex.com/t/811396",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[MacBook Pro] 有没有觉得 MacBook 出风口硌手的？",
+                "link": "https://www.v2ex.com/t/811392",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Docker] 小弟问一个在 docker 中开发 vue 热加载失效的问题",
+                "link": "https://www.v2ex.com/t/811386",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[Windows] 买笔记本，原装 win11 还是 win10，哪个好？",
+                "link": "https://www.v2ex.com/t/811379",
+                "published": "2021-10-28"
+            },
+            {
+                "title": "[微博] 新浪微博反爬 封掉 huginn 的问题",
+                "link": "https://www.v2ex.com/t/811361",
+                "published": "2021-10-28"
+            },
+            {
                 "title": "[Apple] xdm， M1 Mac 7 个月读取 283TB 是什么情况？",
                 "link": "https://www.v2ex.com/t/811395",
                 "published": "2021-10-28"
@@ -6946,7 +7001,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 11
     },
     {
         "id": 3,
