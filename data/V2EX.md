@@ -1,6 +1,10 @@
 # V2EX
 
 
+* [2021-10-29  [酷工作] 22 届找日常实习，全职， Node.js/C++/Go](https://www.v2ex.com/t/811659)
+* [2021-10-29  [macOS] Homebrew 的维护者脾气这么臭的吗？](https://www.v2ex.com/t/811658)
+* [2021-10-29  [Android] 垃圾小米 11，气死](https://www.v2ex.com/t/811657)
+* [2021-10-29  [Apple] iMac 27 做开发](https://www.v2ex.com/t/811656)
 * [2021-10-29  [Java] 会计专业 2022 毕业，自学 Java 能找到多少 K 工作](https://www.v2ex.com/t/811654)
 * [2021-10-29  [macOS] 老款苹果电脑升级 Monterey 失败的可以试试 OCLP](https://www.v2ex.com/t/811653)
 * [2021-10-29  [Apple] 新 MacBook Pro 14 寸，用 Firefox 看直播会发热， Chrome 和 Safari 就很凉](https://www.v2ex.com/t/811652)
