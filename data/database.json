@@ -258,13 +258,43 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 互联网法院起诉，请问京东商城的运营方公司全称是？",
+                "link": "https://www.v2ex.com/t/811614",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Steam] 赛博朋克 2077 没玩过 出售",
+                "link": "https://www.v2ex.com/t/811612",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[生活] 自如把实名信息放在外链上",
+                "link": "https://www.v2ex.com/t/811611",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] iphone13p finder 备份失败，用 10.15，开始点了备份就一直卡住不动，没有任何提示，",
+                "link": "https://www.v2ex.com/t/811609",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Java] 求个 Java 工具类（计算两个时间内的自然周数）",
+                "link": "https://www.v2ex.com/t/811606",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[推广] 家里还保留有 DVD 光盘吗？想做备份的童鞋请进",
+                "link": "https://www.v2ex.com/t/811603",
+                "published": "2021-10-29"
+            },
             {
                 "title": "[程序员] 求个 Java 工具类（计算两个时间内的自然周数）",
                 "link": "https://www.v2ex.com/t/811606",
@@ -7756,7 +7786,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 6
     },
     {
         "id": 3,
@@ -8174,6 +8204,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+10】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+6】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-10-29】 [问与答] 互联网法院起诉，请问京东商城的运营方公司全称是？](https://www.v2ex.com/t/811614)
+* [【2021-10-29】 [Steam] 赛博朋克 2077 没玩过 出售](https://www.v2ex.com/t/811612)
+* [【2021-10-29】 [生活] 自如把实名信息放在外链上](https://www.v2ex.com/t/811611)
+* [【2021-10-29】 [Apple] iphone13p finder 备份失败，用 10.15，开始点了备份就一直卡住不动，没有任何提示，](https://www.v2ex.com/t/811609)
+* [【2021-10-29】 [Java] 求个 Java 工具类（计算两个时间内的自然周数）](https://www.v2ex.com/t/811606)
+* [【2021-10-29】 [推广] 家里还保留有 DVD 光盘吗？想做备份的童鞋请进](https://www.v2ex.com/t/811603)
 * [【2021-10-29】 [程序员] 求个 Java 工具类（计算两个时间内的自然周数）](https://www.v2ex.com/t/811606)
 * [【2021-10-29】 [问与答] 寻找一个智能图片自动裁剪工具](https://www.v2ex.com/t/811605)
 * [【2021-10-29】 [San Francisco] 有人用过 ach 转账吗](https://www.v2ex.com/t/811604)
 * [【2021-10-29】 [分享发现] 家里还保留有 DVD 光盘吗？想做备份的童鞋请进](https://www.v2ex.com/t/811603)
-* [【2021-10-29】 [Apple] Safari 15.1 下，你们看 bilibli 的直播，别人发的弹幕持续更新么？我只能看到自己发的弹幕，新发的弹幕看不到，得刷新页面](https://www.v2ex.com/t/811602)
-* [【2021-10-29】 [程序员] 高性能 MySQL 学习 10 月](https://www.v2ex.com/t/811600)
-* [【2021-10-29】 [Apple] u1s1,M1 芯片的速度和功耗对于绝大多数程序员而言已经绰绰有余了吧？](https://www.v2ex.com/t/811598)
-* [【2021-10-29】 [Coding] CODING —— 云原生时代的研发工具领跑者](https://www.v2ex.com/t/811597)
-* [【2021-10-29】 [问与答] 闲鱼买家拒绝支付 1 万多的 iPhone 手机钱，该如何高效有效解决？](https://www.v2ex.com/t/811596)
-* [【2021-10-29】 [程序员] 如何把 utf8 汉字转 16 进制格式](https://www.v2ex.com/t/811595)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-29 11:16:48
+:alarm_clock: 更新时间: 2021-10-29 12:31:46
