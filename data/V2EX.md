@@ -1,6 +1,19 @@
 # V2EX
 
 
+* [2021-10-29  [深圳] 11 月 14 日 深圳 | 程序员相亲交友派对（线下）](https://www.v2ex.com/t/811578)
+* [2021-10-29  [Android] 有没有大佬知道 com.council.pd2.SDKManager 这个东西是什么吗](https://www.v2ex.com/t/811577)
+* [2021-10-29  [Windows] Windows 11 上的微软拼音输入栏上的表情符号按钮可以隐藏吗？](https://www.v2ex.com/t/811576)
+* [2021-10-29  [程序员] 开源协议的修改源码应该怎么理解？](https://www.v2ex.com/t/811574)
+* [2021-10-29  [小米] 关于米家网管联动智能门锁的问题~](https://www.v2ex.com/t/811572)
+* [2021-10-29  [上海] 8 号线市光路附近招一个室友](https://www.v2ex.com/t/811569)
+* [2021-10-29  [Apple] Safari 15.1 在有系统代理的情况下无法连接 WebSocket？](https://www.v2ex.com/t/811568)
+* [2021-10-29  [问与答] 在 data url 中使用 base64 的 url safe 变体是合法的吗？](https://www.v2ex.com/t/811567)
+* [2021-10-29  [酷工作] [新加坡外企] 知名金融科技公司-- Java 开发--WEB 前端--Node 工程师--Flutter 工程師--测试，等等多个岗位](https://www.v2ex.com/t/811565)
+* [2021-10-29  [程序员] 10 月日常开发使用](https://www.v2ex.com/t/811564)
+* [2021-10-29  [酷工作] [内推 pdd] 前端、 Java 、数据分析、机器学习、算法、cocos 等海量职位](https://www.v2ex.com/t/811562)
+* [2021-10-29  [问与答] 为啥很多网站的多语言版本极少数有中文](https://www.v2ex.com/t/811560)
+* [2021-10-29  [上海] 上海的程序员交流群（技术、求职、生活）- TG](https://www.v2ex.com/t/811559)
 * [2021-10-29  [Python] pycharm 的日志文件窗口中文乱码问题](https://www.v2ex.com/t/811558)
 * [2021-10-29  [程序员] 有鉴别矿卡的路子吗？](https://www.v2ex.com/t/811557)
 * [2021-10-29  [问与答] 树莓派新发布的 Zero 2 W 大家有啥想法？](https://www.v2ex.com/t/811556)

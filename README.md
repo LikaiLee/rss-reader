@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+15】
+* [V2EX](#V2EX) 【+13】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-10-29】 双十一购物季，这些笔记本电脑值得你的关注](https://sspai.com/post/69569)
 * [【2021-10-29】 瞎玩菌的游戏周报：《神秘海域》电影公布预告、开罗游戏事件后续等](https://sspai.com/post/69557)
 * [【2021-10-29】 iPad Pro 又何必非要成为「MacBook Lite」](https://sspai.com/post/69548)
 * [【2021-10-29】 派早报：尼康发布 Z 9 全画幅微单相机、Apple 公布完全碳中计划最新状况等](https://sspai.com/post/69564)
@@ -37,7 +38,6 @@
 * [【2021-10-28】 iOS 15 自带的「一起听」好不好用？SharePlay 上手体验](https://sspai.com/post/69512)
 * [【2021-10-28】 让文件更好找：我的元数据文件命名法](https://sspai.com/post/69524)
 * [【2021-10-28】 派早报：大疆发布 Action 2 相机、Intel 推出 12 代酷睿处理器、Android 12L 预览版发布等](https://sspai.com/post/69546)
-* [【2021-10-27】 信步寻幽，自我策展：我的阅读技术史](https://sspai.com/post/69136)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-10-29】 [Python] pycharm 的日志文件窗口中文乱码问题](https://www.v2ex.com/t/811558)
-* [【2021-10-29】 [程序员] 有鉴别矿卡的路子吗？](https://www.v2ex.com/t/811557)
-* [【2021-10-29】 [问与答] 树莓派新发布的 Zero 2 W 大家有啥想法？](https://www.v2ex.com/t/811556)
-* [【2021-10-29】 [分享发现] M1 终于可以开启 2K 显示器 hidpi](https://www.v2ex.com/t/811555)
-* [【2021-10-29】 [推广] 案例 | 省去繁琐简历筛选，「微伴助手」选择 ShowMeBug 在线笔试提高人才精准度](https://www.v2ex.com/t/811552)
-* [【2021-10-29】 [问与答] 国考报名结束了，马上要江苏省考报名](https://www.v2ex.com/t/811550)
-* [【2021-10-29】 [分享创造] 从零开始实现一个图片裁剪工具](https://www.v2ex.com/t/811549)
-* [【2021-10-29】 [酷工作] 建了一个面试群，反响不错，建了几个更精准的群](https://www.v2ex.com/t/811547)
-* [【2021-10-29】 [问与答] uniapp 可以接入过第三方广告么？](https://www.v2ex.com/t/811545)
-* [【2021-10-29】 [程序员] 现在还有做爬虫的小伙伴吗?](https://www.v2ex.com/t/811544)
+* [【2021-10-29】 [深圳] 11 月 14 日 深圳 | 程序员相亲交友派对（线下）](https://www.v2ex.com/t/811578)
+* [【2021-10-29】 [Android] 有没有大佬知道 com.council.pd2.SDKManager 这个东西是什么吗](https://www.v2ex.com/t/811577)
+* [【2021-10-29】 [Windows] Windows 11 上的微软拼音输入栏上的表情符号按钮可以隐藏吗？](https://www.v2ex.com/t/811576)
+* [【2021-10-29】 [程序员] 开源协议的修改源码应该怎么理解？](https://www.v2ex.com/t/811574)
+* [【2021-10-29】 [小米] 关于米家网管联动智能门锁的问题~](https://www.v2ex.com/t/811572)
+* [【2021-10-29】 [上海] 8 号线市光路附近招一个室友](https://www.v2ex.com/t/811569)
+* [【2021-10-29】 [Apple] Safari 15.1 在有系统代理的情况下无法连接 WebSocket？](https://www.v2ex.com/t/811568)
+* [【2021-10-29】 [问与答] 在 data url 中使用 base64 的 url safe 变体是合法的吗？](https://www.v2ex.com/t/811567)
+* [【2021-10-29】 [酷工作] [新加坡外企] 知名金融科技公司-- Java 开发--WEB 前端--Node 工程师--Flutter 工程師--测试，等等多个岗位](https://www.v2ex.com/t/811565)
+* [【2021-10-29】 [程序员] 10 月日常开发使用](https://www.v2ex.com/t/811564)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-29 08:24:12
+:alarm_clock: 更新时间: 2021-10-29 09:19:32
