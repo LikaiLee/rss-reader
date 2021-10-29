@@ -25,7 +25,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
@@ -238,13 +238,133 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 迫于媳妇想要投影仪需求",
+                "link": "https://www.v2ex.com/t/811478",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] 如何识别声音中的语速、情绪、自信以及亲合度等信息？",
+                "link": "https://www.v2ex.com/t/811477",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[macOS] 如何屏蔽使用 Safari 浏览知乎时的短视频",
+                "link": "https://www.v2ex.com/t/811476",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[健康] 我的朋友跟我说她得了癌症",
+                "link": "https://www.v2ex.com/t/811475",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 请问各位觉得该网页显示那一边看的舒适",
+                "link": "https://www.v2ex.com/t/811471",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[macOS] 目前发现刘海屏唯一不好的地方，菜单栏很多图标不显示了。",
+                "link": "https://www.v2ex.com/t/811469",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[优惠信息] 良心云超级钜惠双十一活动，买一送一，你敢买我敢送",
+                "link": "https://www.v2ex.com/t/811468",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[iOS] apple pay 地铁卡无法充值, 提示 `未完成付款` 求助",
+                "link": "https://www.v2ex.com/t/811466",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[微信] 微信通过左滑删除聊天的方式删除了聊天记录如何恢复？",
+                "link": "https://www.v2ex.com/t/811465",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] 网页版刘海去除，明年新 air 畅想",
+                "link": "https://www.v2ex.com/t/811464",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] facebook 重命名为 META 了？",
+                "link": "https://www.v2ex.com/t/811463",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[MacBook Pro] Macbook Pro 16 寸丐版 16G 内存 [极限] 测试",
+                "link": "https://www.v2ex.com/t/811461",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Windows] Intel 的 U 什么时候再能 7 纳米?12 还是 10 纳米是来搞笑的吗",
+                "link": "https://www.v2ex.com/t/811460",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 看了攻略，第二题终于过了，键盘到手，有兴趣的老哥可以一试",
+                "link": "https://www.v2ex.com/t/811459",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] MacBook Pro 2021 14， cmd+触控板单点后台打开链接异常，前两次无反应，第三次才打开，已开启「轻点来点按」设置，普通轻点打开链接正常， cmd+按下打开正常",
+                "link": "https://www.v2ex.com/t/811458",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 无端猜想，如果使用技术手段模拟一切数据到国外，健康码会变红吗？",
+                "link": "https://www.v2ex.com/t/811457",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[职场话题] 秋招 Offer 选择 百度 v.s 美团",
+                "link": "https://www.v2ex.com/t/811456",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] [记录分享] 记录下自己在培训班日常、学习、吐槽",
+                "link": "https://www.v2ex.com/t/811455",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Windows] 七彩虹主板不能开启 TPM2.0",
+                "link": "https://www.v2ex.com/t/811454",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 美团 iOS 为什么在古董手机上这么卡",
+                "link": "https://www.v2ex.com/t/811453",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] 观望了好长时间，有点想买 m1 air, 果然还是看脸",
+                "link": "https://www.v2ex.com/t/811452",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[分享发现] 我觉得有一个判断低端廉价笔记本的简单方法...",
+                "link": "https://www.v2ex.com/t/811451",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[云计算] 国内有没有 www.boce.com 上面 DNS 查询、劫持检测的商业服务，支持定时全网检测并告警的？",
+                "link": "https://www.v2ex.com/t/811449",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] M1 Max GPU 性能测试终极指南 1.0",
+                "link": "https://www.v2ex.com/t/811448",
+                "published": "2021-10-29"
+            },
             {
                 "title": "[程序员] 开源图数据库公司 Nebula Graph（https://github.com/vesoft-inc/nebula）招资深云服务开发工程师/初中级前端工程师",
                 "link": "https://www.v2ex.com/t/811446",
@@ -7146,7 +7266,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 27
+        "new_feeds": 24
     },
     {
         "id": 3,
