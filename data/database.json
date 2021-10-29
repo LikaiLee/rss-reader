@@ -243,13 +243,63 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[macOS] Safari 二指返回手势狂卡的 bug 哪位兄弟有解法没？",
+                "link": "https://www.v2ex.com/t/811524",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 不懂就问，同等价位的投影仪灯泡机和 LED 的有什么区别？",
+                "link": "https://www.v2ex.com/t/811523",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] 这么几天下来，新的 mbp 的几个问题，有没有遇到或能解决的？",
+                "link": "https://www.v2ex.com/t/811522",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Python] Python 如何利用多线程能力呢？",
+                "link": "https://www.v2ex.com/t/811521",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[数据库] 数据分析、挖掘、大数据的问题请求大佬解答",
+                "link": "https://www.v2ex.com/t/811520",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 这种效果的视频是这么做出来的呢",
+                "link": "https://www.v2ex.com/t/811519",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 有条数据库字段，经常被不同地方修改，该怎么保证原子性？",
+                "link": "https://www.v2ex.com/t/811518",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[游戏] 帝国时代 4 值得入手吗",
+                "link": "https://www.v2ex.com/t/811516",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[macOS] 敢问大佬们苹果官网的官翻 Mac 有人买过吗？有坑之类的吗？",
+                "link": "https://www.v2ex.com/t/811510",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] MacBook Pro 14\" (M1 Pro 8+14/16) 的一些测试",
+                "link": "https://www.v2ex.com/t/811506",
+                "published": "2021-10-29"
+            },
             {
                 "title": "[macOS] 购买教育 Pro App 套装后续会被验证吗？",
                 "link": "https://www.v2ex.com/t/811505",
@@ -7381,7 +7431,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 10
     },
     {
         "id": 3,
@@ -7794,6 +7844,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
