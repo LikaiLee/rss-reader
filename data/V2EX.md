@@ -1,6 +1,16 @@
 # V2EX
 
 
+* [2021-10-29  [程序员] 求个 Java 工具类（计算两个时间内的自然周数）](https://www.v2ex.com/t/811606)
+* [2021-10-29  [问与答] 寻找一个智能图片自动裁剪工具](https://www.v2ex.com/t/811605)
+* [2021-10-29  [San Francisco] 有人用过 ach 转账吗](https://www.v2ex.com/t/811604)
+* [2021-10-29  [分享发现] 家里还保留有 DVD 光盘吗？想做备份的童鞋请进](https://www.v2ex.com/t/811603)
+* [2021-10-29  [Apple] Safari 15.1 下，你们看 bilibli 的直播，别人发的弹幕持续更新么？我只能看到自己发的弹幕，新发的弹幕看不到，得刷新页面](https://www.v2ex.com/t/811602)
+* [2021-10-29  [程序员] 高性能 MySQL 学习 10 月](https://www.v2ex.com/t/811600)
+* [2021-10-29  [Apple] u1s1,M1 芯片的速度和功耗对于绝大多数程序员而言已经绰绰有余了吧？](https://www.v2ex.com/t/811598)
+* [2021-10-29  [Coding] CODING —— 云原生时代的研发工具领跑者](https://www.v2ex.com/t/811597)
+* [2021-10-29  [问与答] 闲鱼买家拒绝支付 1 万多的 iPhone 手机钱，该如何高效有效解决？](https://www.v2ex.com/t/811596)
+* [2021-10-29  [程序员] 如何把 utf8 汉字转 16 进制格式](https://www.v2ex.com/t/811595)
 * [2021-10-29  [酷工作] [内推-上海/北京] 1065 电商公司, 躲卷人的好去处，欢迎各位加入🔥](https://www.v2ex.com/t/811594)
 * [2021-10-29  [程序员] conan 使用 qt6 的 Could not find the Qt platform plugin "windows" 问题](https://www.v2ex.com/t/811593)
 * [2021-10-29  [问与答] 有用过被窝家装的朋友吗？怎么样](https://www.v2ex.com/t/811590)

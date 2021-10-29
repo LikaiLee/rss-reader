@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "本周看什么丨最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/69571",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "双十一购物季，这些笔记本电脑值得你的关注",
                 "link": "https://sspai.com/post/69569",
                 "published": "2021-10-29"
@@ -253,13 +258,63 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[程序员] 求个 Java 工具类（计算两个时间内的自然周数）",
+                "link": "https://www.v2ex.com/t/811606",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 寻找一个智能图片自动裁剪工具",
+                "link": "https://www.v2ex.com/t/811605",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[San Francisco] 有人用过 ach 转账吗",
+                "link": "https://www.v2ex.com/t/811604",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[分享发现] 家里还保留有 DVD 光盘吗？想做备份的童鞋请进",
+                "link": "https://www.v2ex.com/t/811603",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] Safari 15.1 下，你们看 bilibli 的直播，别人发的弹幕持续更新么？我只能看到自己发的弹幕，新发的弹幕看不到，得刷新页面",
+                "link": "https://www.v2ex.com/t/811602",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] 高性能 MySQL 学习 10 月",
+                "link": "https://www.v2ex.com/t/811600",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] u1s1,M1 芯片的速度和功耗对于绝大多数程序员而言已经绰绰有余了吧？",
+                "link": "https://www.v2ex.com/t/811598",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Coding] CODING —— 云原生时代的研发工具领跑者",
+                "link": "https://www.v2ex.com/t/811597",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 闲鱼买家拒绝支付 1 万多的 iPhone 手机钱，该如何高效有效解决？",
+                "link": "https://www.v2ex.com/t/811596",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] 如何把 utf8 汉字转 16 进制格式",
+                "link": "https://www.v2ex.com/t/811595",
+                "published": "2021-10-29"
+            },
             {
                 "title": "[酷工作] [内推-上海/北京] 1065 电商公司, 躲卷人的好去处，欢迎各位加入🔥",
                 "link": "https://www.v2ex.com/t/811594",
@@ -7701,13 +7756,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 12
+        "new_feeds": 10
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "如何评价国产动画《一人之下》第四季第七集？",
+                "link": "http://www.zhihu.com/question/495115983/answer/2195507303?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-29"
+            },
             {
                 "title": "「致敬可爱的人」中学生写下103封信寄往边关，边防战士的生活是什么样？你还听过哪些关于军人的暖心故事？",
                 "link": "http://www.zhihu.com/question/494851886/answer/2195199722?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -8114,6 +8174,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
