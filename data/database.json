@@ -251,6 +251,66 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享发现] 十几年前，有个像素游戏网站，叫什么哈什么 hotel，有人记得名字和地址吗？",
+                "link": "https://www.v2ex.com/t/811538",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 大佬们 有玩音响得不 预算一万 求推荐",
+                "link": "https://www.v2ex.com/t/811537",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[游戏] 真女神转生哪一作最好玩？",
+                "link": "https://www.v2ex.com/t/811536",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] 朋友们，关于 2021 MacBook pro，你们都下单了哪个尺寸和什么配置呢？",
+                "link": "https://www.v2ex.com/t/811535",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 老哥们看下这是什么黑科技啊",
+                "link": "https://www.v2ex.com/t/811534",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 请问谷歌开发者，收款的账号是不是一定要和注册时候一致？",
+                "link": "https://www.v2ex.com/t/811533",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[深圳] [西丽办公室转租] 西丽大学城创客小镇 48 平米一楼办公室",
+                "link": "https://www.v2ex.com/t/811532",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 手持 XR 的兄弟卡不卡",
+                "link": "https://www.v2ex.com/t/811531",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[webpack] webpack 现在依然不能自动支持 tree-shaking，来优化引入的包么？",
+                "link": "https://www.v2ex.com/t/811530",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Kubernetes] 老问题，现在流行什么方法管理多个环境下的 k8s 项目",
+                "link": "https://www.v2ex.com/t/811528",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 能否做到屏蔽某个钉钉群 @所有人的提醒",
+                "link": "https://www.v2ex.com/t/811527",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[MacBook Pro] 这么几天下来，新的 mbp 的几个问题，有没有遇到或能解决的？",
+                "link": "https://www.v2ex.com/t/811522",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "[macOS] Safari 二指返回手势狂卡的 bug 哪位兄弟有解法没？",
                 "link": "https://www.v2ex.com/t/811524",
                 "published": "2021-10-29"
@@ -7431,7 +7491,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 12
     },
     {
         "id": 3,
