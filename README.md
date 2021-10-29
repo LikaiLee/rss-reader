@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,7 @@
     </summary>
 
 
+* [【2021-10-29】 [求职] 22 届找日常实习，全职， Node.js/C++/Go](https://www.v2ex.com/t/811659)
 * [【2021-10-29】 [问与答] 遇到一个 VS Code 的问题，大半夜的整个人心态都不好了](https://www.v2ex.com/t/811663)
 * [【2021-10-29】 [问与答] 多屏(2+)配置显卡相关的疑问](https://www.v2ex.com/t/811662)
 * [【2021-10-29】 [分享发现] 啥玩意，又搞什么元宇宙的概念](https://www.v2ex.com/t/811661)
@@ -56,7 +57,6 @@
 * [【2021-10-29】 [Android] 垃圾小米 11，气死](https://www.v2ex.com/t/811657)
 * [【2021-10-29】 [Apple] iMac 27 做开发](https://www.v2ex.com/t/811656)
 * [【2021-10-29】 [Java] 会计专业 2022 毕业，自学 Java 能找到多少 K 工作](https://www.v2ex.com/t/811654)
-* [【2021-10-29】 [macOS] 老款苹果电脑升级 Monterey 失败的可以试试 OCLP](https://www.v2ex.com/t/811653)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-29 21:16:56
+:alarm_clock: 更新时间: 2021-10-29 22:19:31
