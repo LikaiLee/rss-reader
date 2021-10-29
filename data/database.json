@@ -266,6 +266,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[iMac] 2021/10 开倒车买了一台 iMac 27'",
+                "link": "https://www.v2ex.com/t/811665",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 群晖上的 SSD 缓存对降低硬盘噪音有帮助吗",
+                "link": "https://www.v2ex.com/t/811664",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "[求职] 22 届找日常实习，全职， Node.js/C++/Go",
                 "link": "https://www.v2ex.com/t/811659",
                 "published": "2021-10-29"
@@ -7936,7 +7946,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 3,
