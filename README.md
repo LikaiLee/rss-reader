@@ -47,6 +47,8 @@
     </summary>
 
 
+* [【2021-10-29】 [问与答] 怎么检索，工作用的常学习的一些公众号，下载了历年文章， wold 和 html 的拷贝各一份。](https://www.v2ex.com/t/811627)
+* [【2021-10-29】 [分享发现] ios 商店居然有假软件...](https://www.v2ex.com/t/811626)
 * [【2021-10-29】 [问与答] 开机后远程过程调用失败，这个谁碰见过？](https://www.v2ex.com/t/811619)
 * [【2021-10-29】 [Apple] 澳门买 M1 MAX 版 Macbook，可以国内信用卡分期么？](https://www.v2ex.com/t/811616)
 * [【2021-10-29】 [问与答] 互联网法院起诉，请问京东商城的运营方公司全称是？](https://www.v2ex.com/t/811614)
@@ -55,8 +57,6 @@
 * [【2021-10-29】 [Apple] iphone13p finder 备份失败，用 10.15，开始点了备份就一直卡住不动，没有任何提示，](https://www.v2ex.com/t/811609)
 * [【2021-10-29】 [Java] 求个 Java 工具类（计算两个时间内的自然周数）](https://www.v2ex.com/t/811606)
 * [【2021-10-29】 [推广] 家里还保留有 DVD 光盘吗？想做备份的童鞋请进](https://www.v2ex.com/t/811603)
-* [【2021-10-29】 [程序员] 求个 Java 工具类（计算两个时间内的自然周数）](https://www.v2ex.com/t/811606)
-* [【2021-10-29】 [问与答] 寻找一个智能图片自动裁剪工具](https://www.v2ex.com/t/811605)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-29 13:24:47
+:alarm_clock: 更新时间: 2021-10-29 14:18:18

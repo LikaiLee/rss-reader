@@ -266,6 +266,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 怎么检索，工作用的常学习的一些公众号，下载了历年文章， wold 和 html 的拷贝各一份。",
+                "link": "https://www.v2ex.com/t/811627",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[分享发现] ios 商店居然有假软件...",
+                "link": "https://www.v2ex.com/t/811626",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "[问与答] 开机后远程过程调用失败，这个谁碰见过？",
                 "link": "https://www.v2ex.com/t/811619",
                 "published": "2021-10-29"
