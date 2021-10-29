@@ -2,9 +2,9 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+11】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+27】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -15,6 +15,7 @@
     </summary>
 
 
+* [【2021-10-29】 科技爱好者周刊（第 181 期）：移动支付应该怎么设计？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html)
 * [【2021-10-22】 科技爱好者周刊（第 180 期）：你想住在中国哪里？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html)
 * [【2021-10-15】 科技爱好者周刊（第 179 期）：AR 技术的打开方式](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html)
 * [【2021-10-08】 科技爱好者周刊（第 178 期）：家庭太阳能发电的春天](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html)
@@ -27,6 +28,7 @@
     </summary>
 
 
+* [【2021-10-29】 派早报：尼康发布 Z 9 全画幅微单相机、Apple 公布完全碳中计划最新状况等](https://sspai.com/post/69564)
 * [【2021-10-28】 新玩意 081｜少数派的编辑们最近买了啥？](https://sspai.com/post/69560)
 * [【2021-10-28】 追求速度、挑战自我：在这些游戏里感受竞速的魅力](https://sspai.com/post/68934)
 * [【2021-10-28】 当我说起「音质」的时候，我想说什么](https://sspai.com/post/69542)
@@ -36,7 +38,6 @@
 * [【2021-10-27】 信步寻幽，自我策展：我的阅读技术史](https://sspai.com/post/69136)
 * [【2021-10-27】 疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事](https://sspai.com/post/69533)
 * [【2021-10-27】 使用 iPhone 13 Pro 半个月，重新思考「创新」的维度和边界](https://sspai.com/post/69241)
-* [【2021-10-27】 不止双链笔记，这五种思路带你用好 Logseq](https://sspai.com/post/69503)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -46,16 +47,16 @@
     </summary>
 
 
-* [【2021-10-29】 [Java] 使用 myeclipse 实现登录注册功能时发生 Java .lang.ClassNotFoundException.ClassNotFoundException(String s)错误，](https://www.v2ex.com/t/811406)
-* [【2021-10-29】 [PHP] onedrive 转化成 web 网盘，有没有推荐？](https://www.v2ex.com/t/811404)
-* [【2021-10-29】 [Cloudflare] Cloudflare 已经支持单独针对 CDN 设置的 Cache-Control 头部](https://www.v2ex.com/t/811403)
-* [【2021-10-29】 [Python] Python 官方 2021 年开发者调查](https://www.v2ex.com/t/811400)
-* [【2021-10-29】 [ WATCH] Apple Watch 升级系统后续航尿崩](https://www.v2ex.com/t/811398)
-* [【2021-10-29】 [Apple] MacBook Pro14 背包推荐](https://www.v2ex.com/t/811397)
-* [【2021-10-28】 [小米] 找一个远程看小米手环心率的 API](https://www.v2ex.com/t/811396)
-* [【2021-10-28】 [MacBook Pro] 有没有觉得 MacBook 出风口硌手的？](https://www.v2ex.com/t/811392)
-* [【2021-10-28】 [Docker] 小弟问一个在 docker 中开发 vue 热加载失效的问题](https://www.v2ex.com/t/811386)
-* [【2021-10-28】 [Windows] 买笔记本，原装 win11 还是 win10，哪个好？](https://www.v2ex.com/t/811379)
+* [【2021-10-29】 [程序员] 开源图数据库公司 Nebula Graph（https://github.com/vesoft-inc/nebula）招资深云服务开发工程师/初中级前端工程师](https://www.v2ex.com/t/811446)
+* [【2021-10-29】 [分享创造] WIP: 漫画汉化的自动化](https://www.v2ex.com/t/811445)
+* [【2021-10-29】 [全球工单系统] 偷偷上传用户机密文件， WPS 真流氓](https://www.v2ex.com/t/811444)
+* [【2021-10-29】 [问与答] 求助帖](https://www.v2ex.com/t/811443)
+* [【2021-10-29】 [Go 编程语言] Go 官方 2021 年开发者调查](https://www.v2ex.com/t/811442)
+* [【2021-10-29】 [生活] 请教一下请/找月嫂的经验](https://www.v2ex.com/t/811441)
+* [【2021-10-29】 [京东] 98 折出 4000 京东卡](https://www.v2ex.com/t/811440)
+* [【2021-10-29】 [macOS] MacBook Pro M1 Pro 16 寸基本款， Arcade 游戏测试贴](https://www.v2ex.com/t/811438)
+* [【2021-10-29】 [问与答] 感觉最近一打开脉脉看到的都是字节裁员相关帖，字节最近怎么这么招黑？](https://www.v2ex.com/t/811437)
+* [【2021-10-29】 [上海] 租房 16 号线 [惠南站] 附近](https://www.v2ex.com/t/811436)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -84,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-29 01:02:32
+:alarm_clock: 更新时间: 2021-10-29 02:31:07

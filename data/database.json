@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 181 期）：移动支付应该怎么设计？",
+                "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "科技爱好者周刊（第 180 期）：你想住在中国哪里？",
                 "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html",
                 "published": "2021-10-22"
@@ -20,13 +25,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派早报：尼康发布 Z 9 全画幅微单相机、Apple 公布完全碳中计划最新状况等",
+                "link": "https://sspai.com/post/69564",
+                "published": "2021-10-29"
+            },
             {
                 "title": "新玩意 081｜少数派的编辑们最近买了啥？",
                 "link": "https://sspai.com/post/69560",
@@ -228,13 +238,148 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[程序员] 开源图数据库公司 Nebula Graph（https://github.com/vesoft-inc/nebula）招资深云服务开发工程师/初中级前端工程师",
+                "link": "https://www.v2ex.com/t/811446",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[分享创造] WIP: 漫画汉化的自动化",
+                "link": "https://www.v2ex.com/t/811445",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[全球工单系统] 偷偷上传用户机密文件， WPS 真流氓",
+                "link": "https://www.v2ex.com/t/811444",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 求助帖",
+                "link": "https://www.v2ex.com/t/811443",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Go 编程语言] Go 官方 2021 年开发者调查",
+                "link": "https://www.v2ex.com/t/811442",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[生活] 请教一下请/找月嫂的经验",
+                "link": "https://www.v2ex.com/t/811441",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[京东] 98 折出 4000 京东卡",
+                "link": "https://www.v2ex.com/t/811440",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[macOS] MacBook Pro M1 Pro 16 寸基本款， Arcade 游戏测试贴",
+                "link": "https://www.v2ex.com/t/811438",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 感觉最近一打开脉脉看到的都是字节裁员相关帖，字节最近怎么这么招黑？",
+                "link": "https://www.v2ex.com/t/811437",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[上海] 租房 16 号线 [惠南站] 附近",
+                "link": "https://www.v2ex.com/t/811436",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[王者荣耀] 再见了，王者荣耀， 1621 天",
+                "link": "https://www.v2ex.com/t/811435",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] Monterey 有没有办法让 Mac 的勿扰模式和手机的分开",
+                "link": "https://www.v2ex.com/t/811434",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] Python 格式化数字，最多保留两位小数点，小数点末尾为 0 则删除，怎么写好？",
+                "link": "https://www.v2ex.com/t/811433",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] Intel AC 3160 无线网卡蓝牙不可用",
+                "link": "https://www.v2ex.com/t/811432",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] 我佛了， mac 原生解决刘海的方式真的让人没想到",
+                "link": "https://www.v2ex.com/t/811431",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 有哪位大佬知道如何实现 Android webview 的 JavascriptInterface 返回 Promise",
+                "link": "https://www.v2ex.com/t/811429",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[macOS] 更新到 macOS Monterey 遇到了两个小问题",
+                "link": "https://www.v2ex.com/t/811428",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] iMessage 同步的短信，无法同步删除怎么办？",
+                "link": "https://www.v2ex.com/t/811427",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] 大家公司对提交代码都有什么限制要求，好奇了解下？",
+                "link": "https://www.v2ex.com/t/811425",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[信息安全] 收到条阿里云的告警，看不懂是做什么用的，请教一下",
+                "link": "https://www.v2ex.com/t/811424",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[iOS] iOS 15.1 这两个 bug 可是把我恶心坏了。",
+                "link": "https://www.v2ex.com/t/811422",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[职场话题] 各位有过被拖欠工资的经历么？求教怎么正确维权",
+                "link": "https://www.v2ex.com/t/811420",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[iPhone] 通讯录应用和提醒事项应用占用空间异常，无法删除",
+                "link": "https://www.v2ex.com/t/811419",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[MacBook Pro] 偶尔可能用 Mac 玩玩游戏，这 24GPU 和 32GPU 怎么选？",
+                "link": "https://www.v2ex.com/t/811415",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] macOS Monterey 支持第三方显示器可变刷新率",
+                "link": "https://www.v2ex.com/t/811413",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] 周末计划去丹阳眼镜城配几个眼镜，各位有没有啥建议",
+                "link": "https://www.v2ex.com/t/811411",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] 吐槽刘海",
+                "link": "https://www.v2ex.com/t/811407",
+                "published": "2021-10-29"
+            },
             {
                 "title": "[Java] 使用 myeclipse 实现登录注册功能时发生 Java .lang.ClassNotFoundException.ClassNotFoundException(String s)错误，",
                 "link": "https://www.v2ex.com/t/811406",
@@ -7001,7 +7146,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 27
     },
     {
         "id": 3,
