@@ -47,6 +47,8 @@
     </summary>
 
 
+* [【2021-10-29】 [问与答] 遇到一个 VS Code 的问题，大半夜的整个人心态都不好了](https://www.v2ex.com/t/811663)
+* [【2021-10-29】 [问与答] 多屏(2+)配置显卡相关的疑问](https://www.v2ex.com/t/811662)
 * [【2021-10-29】 [分享发现] 啥玩意，又搞什么元宇宙的概念](https://www.v2ex.com/t/811661)
 * [【2021-10-29】 [问与答] 问一个 C++构造函数中括号的问题](https://www.v2ex.com/t/811660)
 * [【2021-10-29】 [酷工作] 22 届找日常实习，全职， Node.js/C++/Go](https://www.v2ex.com/t/811659)
@@ -55,8 +57,6 @@
 * [【2021-10-29】 [Apple] iMac 27 做开发](https://www.v2ex.com/t/811656)
 * [【2021-10-29】 [Java] 会计专业 2022 毕业，自学 Java 能找到多少 K 工作](https://www.v2ex.com/t/811654)
 * [【2021-10-29】 [macOS] 老款苹果电脑升级 Monterey 失败的可以试试 OCLP](https://www.v2ex.com/t/811653)
-* [【2021-10-29】 [Apple] 新 MacBook Pro 14 寸，用 Firefox 看直播会发热， Chrome 和 Safari 就很凉](https://www.v2ex.com/t/811652)
-* [【2021-10-29】 [MacBook Pro] 新的 MBP14/16 的外接显示器有必要也高刷吗](https://www.v2ex.com/t/811650)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-29 20:20:24
+:alarm_clock: 更新时间: 2021-10-29 21:16:56

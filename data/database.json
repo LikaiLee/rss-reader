@@ -266,6 +266,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 遇到一个 VS Code 的问题，大半夜的整个人心态都不好了",
+                "link": "https://www.v2ex.com/t/811663",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 多屏(2+)配置显卡相关的疑问",
+                "link": "https://www.v2ex.com/t/811662",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "[分享发现] 啥玩意，又搞什么元宇宙的概念",
                 "link": "https://www.v2ex.com/t/811661",
                 "published": "2021-10-29"
