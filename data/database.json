@@ -246,6 +246,61 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[ WATCH] 国行 iOS15.2 可以看见 watch 的 ECG 功能了？",
+                "link": "https://www.v2ex.com/t/811492",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[全球工单系统] iPad 微信的搜索功能已经废了",
+                "link": "https://www.v2ex.com/t/811491",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[分享创造] 做了一个自建文件服务器",
+                "link": "https://www.v2ex.com/t/811490",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[公司运营] 请问各位 ICP 经营许可证是自己办还是找代办方便呢",
+                "link": "https://www.v2ex.com/t/811489",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 撸代码，小新 pro14 锐龙 r5-5600 集显， 2.8k 镜面屏， 5258，值得买吗？",
+                "link": "https://www.v2ex.com/t/811487",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 又有爬虫公司（胖球数据）被抓了，团队 23 人被一锅端。各位现在在做爬虫的心情如何",
+                "link": "https://www.v2ex.com/t/811486",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] 搁那吵年纪大了要转管理，好像谁不想转似的，关键要有那个管理职位给我转啊",
+                "link": "https://www.v2ex.com/t/811485",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[MacBook Pro] 满血 PRO 比 残血 24 核心 MAX 性能低多少？",
+                "link": "https://www.v2ex.com/t/811483",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[宽带症候群] 請教 NAT 相關問題",
+                "link": "https://www.v2ex.com/t/811481",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[Apple] 2021 款 MBP Xcode 表现",
+                "link": "https://www.v2ex.com/t/811479",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[硬件] 我觉得有一个判断低端廉价笔记本的简单方法...",
+                "link": "https://www.v2ex.com/t/811451",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "[问与答] 迫于媳妇想要投影仪需求",
                 "link": "https://www.v2ex.com/t/811478",
                 "published": "2021-10-29"
@@ -7266,7 +7321,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 24
+        "new_feeds": 11
     },
     {
         "id": 3,
