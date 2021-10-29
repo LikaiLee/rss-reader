@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "iPad Pro 又何必非要成为「MacBook Lite」",
+                "link": "https://sspai.com/post/69548",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "派早报：尼康发布 Z 9 全画幅微单相机、Apple 公布完全碳中计划最新状况等",
                 "link": "https://sspai.com/post/69564",
                 "published": "2021-10-29"
@@ -238,13 +243,68 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[macOS] 购买教育 Pro App 套装后续会被验证吗？",
+                "link": "https://www.v2ex.com/t/811505",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[宽带症候群] 求教上海联通宽带没资源的问题",
+                "link": "https://www.v2ex.com/t/811504",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[京东] 官网要等一个月，京东 12 免息上车了",
+                "link": "https://www.v2ex.com/t/811503",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[iPhone] 这几天的 iPhone13 pro max 都是从哪买的",
+                "link": "https://www.v2ex.com/t/811502",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] 两张升降桌子同步升降方案",
+                "link": "https://www.v2ex.com/t/811501",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[MacBook Pro] incase icon 系列 13 寸的版本，可以塞进去新款 14 寸 MacBook Pro 嘛？",
+                "link": "https://www.v2ex.com/t/811500",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] 为啥美区 ID 会收到 《PRC 个人信息保护法》的邮件？",
+                "link": "https://www.v2ex.com/t/811498",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[问与答] uniapp H5 版本可以接入第三方的广告么?",
+                "link": "https://www.v2ex.com/t/811497",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[DotA] 新英雄「玛西」发布，要…要不客户端再安装起来？",
+                "link": "https://www.v2ex.com/t/811496",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[程序员] 有没有某种方法可以让摄像头不联网，但仍然可以看到视频？就是说，有没有局域网摄像头？",
+                "link": "https://www.v2ex.com/t/811494",
+                "published": "2021-10-29"
+            },
+            {
+                "title": "[iPhone] 关于系统自带邮箱 APP 登录 163 账户， 163 已发送邮件的同步问题。",
+                "link": "https://www.v2ex.com/t/811493",
+                "published": "2021-10-29"
+            },
             {
                 "title": "[ WATCH] 国行 iOS15.2 可以看见 watch 的 ECG 功能了？",
                 "link": "https://www.v2ex.com/t/811492",
@@ -7329,6 +7389,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "「致敬可爱的人」中学生写下103封信寄往边关，边防战士的生活是什么样？你还听过哪些关于军人的暖心故事？",
+                "link": "http://www.zhihu.com/question/494851886/answer/2195199722?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "国产动画《猫之茗》开播，你感觉如何？",
                 "link": "http://www.zhihu.com/question/494397661/answer/2194079203?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2021-10-28"
@@ -7729,6 +7794,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
