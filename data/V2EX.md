@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-10-30  [Apple] apple watch 更新到 8.1 后洗手监测失效？](https://www.v2ex.com/t/811669)
+* [2021-10-30  [macOS] macOS Monterey Time Machine 恢复问题](https://www.v2ex.com/t/811668)
+* [2021-10-29  [MacBook Pro] 似乎 16 寸 Max 比 Pro 的续航要少很多呀](https://www.v2ex.com/t/811666)
 * [2021-10-29  [iMac] 2021/10 开倒车买了一台 iMac 27'](https://www.v2ex.com/t/811665)
 * [2021-10-29  [问与答] 群晖上的 SSD 缓存对降低硬盘噪音有帮助吗](https://www.v2ex.com/t/811664)
 * [2021-10-29  [求职] 22 届找日常实习，全职， Node.js/C++/Go](https://www.v2ex.com/t/811659)
