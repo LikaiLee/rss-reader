@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+3】
+* [V2EX](#V2EX) 【+13】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-10-30】 [Apple] apple watch 更新到 8.1 后洗手监测失效？](https://www.v2ex.com/t/811669)
-* [【2021-10-30】 [macOS] macOS Monterey Time Machine 恢复问题](https://www.v2ex.com/t/811668)
-* [【2021-10-29】 [MacBook Pro] 似乎 16 寸 Max 比 Pro 的续航要少很多呀](https://www.v2ex.com/t/811666)
-* [【2021-10-29】 [iMac] 2021/10 开倒车买了一台 iMac 27'](https://www.v2ex.com/t/811665)
-* [【2021-10-29】 [问与答] 群晖上的 SSD 缓存对降低硬盘噪音有帮助吗](https://www.v2ex.com/t/811664)
-* [【2021-10-29】 [求职] 22 届找日常实习，全职， Node.js/C++/Go](https://www.v2ex.com/t/811659)
-* [【2021-10-29】 [问与答] 遇到一个 VS Code 的问题，大半夜的整个人心态都不好了](https://www.v2ex.com/t/811663)
-* [【2021-10-29】 [问与答] 多屏(2+)配置显卡相关的疑问](https://www.v2ex.com/t/811662)
-* [【2021-10-29】 [分享发现] 啥玩意，又搞什么元宇宙的概念](https://www.v2ex.com/t/811661)
-* [【2021-10-29】 [问与答] 问一个 C++构造函数中括号的问题](https://www.v2ex.com/t/811660)
+* [【2021-10-30】 [程序员] youtube 看视频忽然有一段时间不能跳过广告，只能观看完，这是什么情况呢？](https://www.v2ex.com/t/811683)
+* [【2021-10-30】 [问与答] esxi7.0b 升 7.0U3 失败，求助](https://www.v2ex.com/t/811682)
+* [【2021-10-30】 [问与答] 有没有类似 eNSP 的图形化网络仿真软件？](https://www.v2ex.com/t/811681)
+* [【2021-10-30】 [随想] 我在培训班的一天](https://www.v2ex.com/t/811679)
+* [【2021-10-30】 [分享发现] 请各位老哥不要再宣传所谓的 google voice 永久保号了，误人子弟](https://www.v2ex.com/t/811678)
+* [【2021-10-30】 [程序员] 大家写代码都用什么字体？](https://www.v2ex.com/t/811677)
+* [【2021-10-30】 [问与答] win11 推送了，现在 win11 好用吗？可以更新吗？](https://www.v2ex.com/t/811676)
+* [【2021-10-30】 [问与答] 我的 Apple Music 为什么听相声的时候是快进 30 秒？](https://www.v2ex.com/t/811675)
+* [【2021-10-30】 [杭州] 杭州的程序员交流群（技术、求职、生活）](https://www.v2ex.com/t/811674)
+* [【2021-10-30】 [问与答] 我的 MBA m1 好像涂层脱落了](https://www.v2ex.com/t/811673)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-30 01:01:55
+:alarm_clock: 更新时间: 2021-10-30 02:31:16
