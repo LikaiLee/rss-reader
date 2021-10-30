@@ -271,6 +271,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 新 MBP 14 寸刘海遮挡菜单栏图标问题，面对刘海 Bartender4 也爱莫能助了",
+                "link": "https://www.v2ex.com/t/811738",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Apple] 联动隔壁，有人 14 寸 M1Max 款收到货了吗，想知道续航和标准 14 寸差多少",
+                "link": "https://www.v2ex.com/t/811736",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[PlayStation 5] PS5 如何连接 LG ultrafine 5k 显示器，实现至少 4k60hz 的效果",
+                "link": "https://www.v2ex.com/t/811735",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Python] pyarmor 加密的 Python 脚本，影响运行效率吗？",
+                "link": "https://www.v2ex.com/t/811734",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 有啥第三方 onedrive 客户端上传支持断点续传的啊",
+                "link": "https://www.v2ex.com/t/811733",
+                "published": "2021-10-30"
+            },
+            {
                 "title": "[Windows] 有没有 windows11 arm 能用的网盘挂载软件",
                 "link": "https://www.v2ex.com/t/811732",
                 "published": "2021-10-30"
@@ -8221,13 +8246,23 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 5
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "2021 年 10 月国内有哪些「秋日限定」美景？",
+                "link": "http://www.zhihu.com/question/491188382/answer/2160132383?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "蔡澜「尽量地学习、尽量地经历、尽量地旅游、尽量地吃好东西、人生就比较美好一点」，你做到了哪一个？",
+                "link": "http://www.zhihu.com/question/494470638/answer/2195551588?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-10-30"
+            },
             {
                 "title": "如何评价国产动画《一人之下》第四季第七集？",
                 "link": "http://www.zhihu.com/question/495115983/answer/2195507303?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -8639,6 +8674,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     }
 ]

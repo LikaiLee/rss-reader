@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-10-30  [Apple] 新 MBP 14 寸刘海遮挡菜单栏图标问题，面对刘海 Bartender4 也爱莫能助了](https://www.v2ex.com/t/811738)
+* [2021-10-30  [Apple] 联动隔壁，有人 14 寸 M1Max 款收到货了吗，想知道续航和标准 14 寸差多少](https://www.v2ex.com/t/811736)
+* [2021-10-30  [PlayStation 5] PS5 如何连接 LG ultrafine 5k 显示器，实现至少 4k60hz 的效果](https://www.v2ex.com/t/811735)
+* [2021-10-30  [Python] pyarmor 加密的 Python 脚本，影响运行效率吗？](https://www.v2ex.com/t/811734)
+* [2021-10-30  [问与答] 有啥第三方 onedrive 客户端上传支持断点续传的啊](https://www.v2ex.com/t/811733)
 * [2021-10-30  [Windows] 有没有 windows11 arm 能用的网盘挂载软件](https://www.v2ex.com/t/811732)
 * [2021-10-30  [问与答] 大家试试看看苹果商店 ipadmini6 购买页面是否正常](https://www.v2ex.com/t/811731)
 * [2021-10-30  [分享创造] 一个 基于 cloudflare workers 和 vue ssr 的网络访问计数器](https://www.v2ex.com/t/811729)
