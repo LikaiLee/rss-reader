@@ -281,6 +281,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享创造] 小作品：写了一个完全用 POSIX Shell 实现的迷你 JSON 解析器",
+                "link": "https://www.v2ex.com/t/811831",
+                "published": "2021-10-30"
+            },
+            {
                 "title": "[酷工作] [物联网] [web] [嵌入式] 寻长期合作开发伙伴，已有项目",
                 "link": "https://www.v2ex.com/t/811830",
                 "published": "2021-10-30"
