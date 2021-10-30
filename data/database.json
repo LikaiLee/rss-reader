@@ -281,6 +281,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[电影] 觉得沙丘不好看",
+                "link": "https://www.v2ex.com/t/811829",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[分享发现] 淘宝的隐私搜集恐怖如斯",
+                "link": "https://www.v2ex.com/t/811828",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 求推荐一个头戴式游戏用双插头耳机",
+                "link": "https://www.v2ex.com/t/811827",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[职场话题] 求教公积金知识",
+                "link": "https://www.v2ex.com/t/811826",
+                "published": "2021-10-30"
+            },
+            {
                 "title": "[MacBook Pro] 请问第三方升级 RAM 体验如何呢？",
                 "link": "https://www.v2ex.com/t/811825",
                 "published": "2021-10-30"
@@ -8546,7 +8566,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 3,

@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+4】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-10-30】 [电影] 觉得沙丘不好看](https://www.v2ex.com/t/811829)
+* [【2021-10-30】 [分享发现] 淘宝的隐私搜集恐怖如斯](https://www.v2ex.com/t/811828)
+* [【2021-10-30】 [问与答] 求推荐一个头戴式游戏用双插头耳机](https://www.v2ex.com/t/811827)
+* [【2021-10-30】 [职场话题] 求教公积金知识](https://www.v2ex.com/t/811826)
 * [【2021-10-30】 [MacBook Pro] 请问第三方升级 RAM 体验如何呢？](https://www.v2ex.com/t/811825)
 * [【2021-10-30】 [Firefox] Firefox 会不定期把新标签页重设为火狐搜索起始页](https://www.v2ex.com/t/811824)
 * [【2021-10-30】 [MacBook Pro] Bartender4.1.12 版，优化 new MacBook Pro 支持](https://www.v2ex.com/t/811823)
 * [【2021-10-30】 [健康] 大家每日的手机屏幕时间是多久？](https://www.v2ex.com/t/811822)
 * [【2021-10-30】 [Apple] 13 和 13mini 怎么选择](https://www.v2ex.com/t/811820)
 * [【2021-10-30】 [问与答] 有什么好用的可以模拟机械运动机制的软件，类似 AutoCAD](https://www.v2ex.com/t/811819)
-* [【2021-10-30】 [问与答] ERP 实施顾问招聘](https://www.v2ex.com/t/811818)
-* [【2021-10-30】 [Python] 请教个问题， Python 如何禁用函数](https://www.v2ex.com/t/811817)
-* [【2021-10-30】 [问与答] 有做过医院 his 系统的 v 友吗？](https://www.v2ex.com/t/811815)
-* [【2021-10-30】 [问与答] Fabric 2.x 高吞吐量如何实现？](https://www.v2ex.com/t/811813)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-30 17:22:01
+:alarm_clock: 更新时间: 2021-10-30 18:22:33
