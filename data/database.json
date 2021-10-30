@@ -33,6 +33,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "译文 | Tensor 之意不在「酒」：Google Silicon 团队专访，为你揭开定制芯片的秘密",
+                "link": "https://sspai.com/post/69572",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "不到 200 元就能买到的好物，它让我的 iPad Pro 终于可以「物尽其用」",
+                "link": "https://sspai.com/post/69548",
+                "published": "2021-10-29"
+            },
+            {
                 "title": "快到年底了，首批「适老化」应用能帮老人用好手机吗？",
                 "link": "https://sspai.com/post/69521",
                 "published": "2021-10-30"
@@ -263,13 +273,53 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[分享创造] longurl，一个开源的短地址服务。",
+                "link": "https://www.v2ex.com/t/811752",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[macOS] 一个蓝牙音箱如何在 Mac 和 iPad 之间快速切换连接？",
+                "link": "https://www.v2ex.com/t/811751",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[macOS] 升级了 Monterey 之后， Bitwarden 的 Safari 扩展不见了",
+                "link": "https://www.v2ex.com/t/811750",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[分享创造] 写了个新前端 UI 库玩具",
+                "link": "https://www.v2ex.com/t/811749",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[分享发现] zinit 作者出于未知原因清空了其 GitHub 账号的绝大部份仓库,建议另寻其他框架使用",
+                "link": "https://www.v2ex.com/t/811747",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[全球工单系统] 小米社区前端- -用不下去了哈，救救孩子",
+                "link": "https://www.v2ex.com/t/811746",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Apple] 升级 Monterey 之后电脑变卡了",
+                "link": "https://www.v2ex.com/t/811744",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 新款 mbp 安装 Python 集成 anaconda 是 arm 版吗？",
+                "link": "https://www.v2ex.com/t/811739",
+                "published": "2021-10-30"
+            },
             {
                 "title": "[Apple] 新 MBP 14 寸刘海遮挡菜单栏图标问题，面对刘海 Bartender4 也爱莫能助了",
                 "link": "https://www.v2ex.com/t/811738",
@@ -8246,7 +8296,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 8
     },
     {
         "id": 3,
@@ -8674,6 +8724,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     }
 ]

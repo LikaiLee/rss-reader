@@ -1,6 +1,14 @@
 # V2EX
 
 
+* [2021-10-30  [分享创造] longurl，一个开源的短地址服务。](https://www.v2ex.com/t/811752)
+* [2021-10-30  [macOS] 一个蓝牙音箱如何在 Mac 和 iPad 之间快速切换连接？](https://www.v2ex.com/t/811751)
+* [2021-10-30  [macOS] 升级了 Monterey 之后， Bitwarden 的 Safari 扩展不见了](https://www.v2ex.com/t/811750)
+* [2021-10-30  [分享创造] 写了个新前端 UI 库玩具](https://www.v2ex.com/t/811749)
+* [2021-10-30  [分享发现] zinit 作者出于未知原因清空了其 GitHub 账号的绝大部份仓库,建议另寻其他框架使用](https://www.v2ex.com/t/811747)
+* [2021-10-30  [全球工单系统] 小米社区前端- -用不下去了哈，救救孩子](https://www.v2ex.com/t/811746)
+* [2021-10-30  [Apple] 升级 Monterey 之后电脑变卡了](https://www.v2ex.com/t/811744)
+* [2021-10-30  [问与答] 新款 mbp 安装 Python 集成 anaconda 是 arm 版吗？](https://www.v2ex.com/t/811739)
 * [2021-10-30  [Apple] 新 MBP 14 寸刘海遮挡菜单栏图标问题，面对刘海 Bartender4 也爱莫能助了](https://www.v2ex.com/t/811738)
 * [2021-10-30  [Apple] 联动隔壁，有人 14 寸 M1Max 款收到货了吗，想知道续航和标准 14 寸差多少](https://www.v2ex.com/t/811736)
 * [2021-10-30  [PlayStation 5] PS5 如何连接 LG ultrafine 5k 显示器，实现至少 4k60hz 的效果](https://www.v2ex.com/t/811735)
