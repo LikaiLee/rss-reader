@@ -1,6 +1,12 @@
 # V2EX
 
 
+* [2021-10-30  [MacBook Pro] 今天去摸了新款 14 寸和 16 寸，除了大和重，感觉很好啊](https://www.v2ex.com/t/811803)
+* [2021-10-30  [Apple] 说一下 airpods 3 感受](https://www.v2ex.com/t/811802)
+* [2021-10-30  [Apple] MAX 能跑机器学习吗？](https://www.v2ex.com/t/811800)
+* [2021-10-30  [问与答] 有没有可以规划下个月预算的记账软件？](https://www.v2ex.com/t/811799)
+* [2021-10-30  [Android] 怎么给安卓内置的 “Files” app 创建一个启动图标？](https://www.v2ex.com/t/811797)
+* [2021-10-30  [分享创造] 搞了一个 emo 小社区](https://www.v2ex.com/t/811795)
 * [2021-10-30  [NAS] 求教 raid5 阵列的 nas 用千兆局域网够吗？](https://www.v2ex.com/t/811792)
 * [2021-10-30  [问与答] 同样的 URL,同样 GET 参数,同样 headers, 在浏览器里能正常请求, 在 postman 里却一直处于 pending 状态](https://www.v2ex.com/t/811791)
 * [2021-10-30  [微信] 关于微信每次登录时的验证身份一直处于加载状态，请问大家是否有遇到过这个问题？到底是什么原因？](https://www.v2ex.com/t/811790)
