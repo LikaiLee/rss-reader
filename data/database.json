@@ -281,6 +281,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[生活] v2 买的苹果到了，开箱。",
+                "link": "https://www.v2ex.com/t/811775",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[英雄联盟] 没猜错的话，今天就是 S11 总决赛了吧",
+                "link": "https://www.v2ex.com/t/811774",
+                "published": "2021-10-30"
+            },
+            {
                 "title": "[问与答] 身无一技之长,打算学习一技之长，决定学习 Python 金融需要学到什么程度？ Python 对金融有什么用？",
                 "link": "https://www.v2ex.com/t/811771",
                 "published": "2021-10-30"
@@ -8366,7 +8376,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 2
     },
     {
         "id": 3,

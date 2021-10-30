@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+7】
+* [V2EX](#V2EX) 【+2】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,8 @@
     </summary>
 
 
+* [【2021-10-30】 [生活] v2 买的苹果到了，开箱。](https://www.v2ex.com/t/811775)
+* [【2021-10-30】 [英雄联盟] 没猜错的话，今天就是 S11 总决赛了吧](https://www.v2ex.com/t/811774)
 * [【2021-10-30】 [问与答] 身无一技之长,打算学习一技之长，决定学习 Python 金融需要学到什么程度？ Python 对金融有什么用？](https://www.v2ex.com/t/811771)
 * [【2021-10-30】 [奇思妙想] 有没有想过为啥找不到对象](https://www.v2ex.com/t/811768)
 * [【2021-10-30】 [北京] 今年北漂过年可以返乡吗？好像因为冬奥会的缘故，返乡会有影响](https://www.v2ex.com/t/811767)
@@ -55,8 +57,6 @@
 * [【2021-10-30】 [问与答] 出一些叮咚买菜联名的 vip](https://www.v2ex.com/t/811764)
 * [【2021-10-30】 [Apple] 大佬们 别抢 翻新 air 了。穷 b 一直蹲都蹲不到了](https://www.v2ex.com/t/811762)
 * [【2021-10-30】 [宽带症候群] 最近路由器日志一直有一些访问 183.57.48.48:7512 的超时记录，查了一下好像是腾讯的机房？这个国内的直连也会连不上吗？江苏电信。](https://www.v2ex.com/t/811759)
-* [【2021-10-30】 [Java] nacos 现在是不是不支持 m1 啊](https://www.v2ex.com/t/811758)
-* [【2021-10-30】 [问与答] LG 27UN880 这款显示器 mac 外接怎么样呢？](https://www.v2ex.com/t/811757)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-30 10:21:18
+:alarm_clock: 更新时间: 2021-10-30 11:16:11
