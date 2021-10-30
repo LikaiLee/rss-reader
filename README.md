@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+13】
+* [V2EX](#V2EX) 【+8】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-10-30】 [Apple] 电池健康 78%，是否需要更换？](https://www.v2ex.com/t/811695)
+* [【2021-10-30】 [全球工单系统] 币安客户端至今没适配 iPad](https://www.v2ex.com/t/811694)
+* [【2021-10-30】 [硬件] 没人关注吗? Raspberry Pi Zero 2 W 发布了](https://www.v2ex.com/t/811693)
+* [【2021-10-30】 [问与答] 深圳燃油车指标中标后续流程的一些疑惑，请大佬解惑](https://www.v2ex.com/t/811689)
+* [【2021-10-30】 [程序员] 求推荐 ai 中台的公众号或者书籍](https://www.v2ex.com/t/811688)
+* [【2021-10-30】 [服务器] 服务器中了 aspx 的木马，从站点入侵到服务器](https://www.v2ex.com/t/811687)
+* [【2021-10-30】 [程序员] 有没有刷 pt 的大佬，遇到一个奇怪的事情。qb 下载一直等待中。只有馒头站会这样。其他站种子正常下载](https://www.v2ex.com/t/811686)
+* [【2021-10-30】 [生活] 想给妈妈找个活干，请 V 友支招](https://www.v2ex.com/t/811685)
 * [【2021-10-30】 [程序员] youtube 看视频忽然有一段时间不能跳过广告，只能观看完，这是什么情况呢？](https://www.v2ex.com/t/811683)
 * [【2021-10-30】 [问与答] esxi7.0b 升 7.0U3 失败，求助](https://www.v2ex.com/t/811682)
-* [【2021-10-30】 [问与答] 有没有类似 eNSP 的图形化网络仿真软件？](https://www.v2ex.com/t/811681)
-* [【2021-10-30】 [随想] 我在培训班的一天](https://www.v2ex.com/t/811679)
-* [【2021-10-30】 [分享发现] 请各位老哥不要再宣传所谓的 google voice 永久保号了，误人子弟](https://www.v2ex.com/t/811678)
-* [【2021-10-30】 [程序员] 大家写代码都用什么字体？](https://www.v2ex.com/t/811677)
-* [【2021-10-30】 [问与答] win11 推送了，现在 win11 好用吗？可以更新吗？](https://www.v2ex.com/t/811676)
-* [【2021-10-30】 [问与答] 我的 Apple Music 为什么听相声的时候是快进 30 秒？](https://www.v2ex.com/t/811675)
-* [【2021-10-30】 [杭州] 杭州的程序员交流群（技术、求职、生活）](https://www.v2ex.com/t/811674)
-* [【2021-10-30】 [问与答] 我的 MBA m1 好像涂层脱落了](https://www.v2ex.com/t/811673)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-30 02:31:16
+:alarm_clock: 更新时间: 2021-10-30 03:21:07

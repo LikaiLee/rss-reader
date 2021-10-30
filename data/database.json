@@ -266,6 +266,46 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 电池健康 78%，是否需要更换？",
+                "link": "https://www.v2ex.com/t/811695",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[全球工单系统] 币安客户端至今没适配 iPad",
+                "link": "https://www.v2ex.com/t/811694",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[硬件] 没人关注吗? Raspberry Pi Zero 2 W 发布了",
+                "link": "https://www.v2ex.com/t/811693",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 深圳燃油车指标中标后续流程的一些疑惑，请大佬解惑",
+                "link": "https://www.v2ex.com/t/811689",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[程序员] 求推荐 ai 中台的公众号或者书籍",
+                "link": "https://www.v2ex.com/t/811688",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[服务器] 服务器中了 aspx 的木马，从站点入侵到服务器",
+                "link": "https://www.v2ex.com/t/811687",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[程序员] 有没有刷 pt 的大佬，遇到一个奇怪的事情。qb 下载一直等待中。只有馒头站会这样。其他站种子正常下载",
+                "link": "https://www.v2ex.com/t/811686",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[生活] 想给妈妈找个活干，请 V 友支招",
+                "link": "https://www.v2ex.com/t/811685",
+                "published": "2021-10-30"
+            },
+            {
                 "title": "[程序员] youtube 看视频忽然有一段时间不能跳过广告，只能观看完，这是什么情况呢？",
                 "link": "https://www.v2ex.com/t/811683",
                 "published": "2021-10-30"
@@ -8026,7 +8066,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 13
+        "new_feeds": 8
     },
     {
         "id": 3,
