@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "快到年底了，首批「适老化」应用能帮老人用好手机吗？",
+                "link": "https://sspai.com/post/69521",
+                "published": "2021-10-30"
+            },
+            {
                 "title": "本周看什么丨最近值得一看的 7 部作品",
                 "link": "https://sspai.com/post/69571",
                 "published": "2021-10-29"
@@ -258,13 +263,73 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[职场话题] 北京 20k*16（税前），一年能存到多少钱？",
+                "link": "https://www.v2ex.com/t/811709",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Apple] 「翻车」m1pro 新机划痕",
+                "link": "https://www.v2ex.com/t/811708",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Apple] m1 能玩帝国时代 4 吗？",
+                "link": "https://www.v2ex.com/t/811706",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Linux] 2021 年 10 月，在 Ubuntu Linux 上如何使用微信 ？",
+                "link": "https://www.v2ex.com/t/811705",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[程序员] 求推荐一个可以二次开发的，跨平台的截屏库。",
+                "link": "https://www.v2ex.com/t/811704",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Google] 被 google drive 恶心到了，竟然无法移除存储在共享云端硬盘中的文件",
+                "link": "https://www.v2ex.com/t/811703",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[优惠信息] 京东会员现在开通只要 99，可以选择开卡礼品，如果选择 30 红包相当于 69 开卡一年，还可以冲啊",
+                "link": "https://www.v2ex.com/t/811702",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[职场话题] offer 比较选择：携程 VS 小米",
+                "link": "https://www.v2ex.com/t/811700",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[生活] 瞌睡越来越多了",
+                "link": "https://www.v2ex.com/t/811698",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 有没有用过 LG UL650 的兄弟说说这个显示器咋样？",
+                "link": "https://www.v2ex.com/t/811697",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] v2ex 某个用户详细页面打开是空白",
+                "link": "https://www.v2ex.com/t/811696",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Raspberry Pi] 没人关注吗? Raspberry Pi Zero 2 W 发布了",
+                "link": "https://www.v2ex.com/t/811693",
+                "published": "2021-10-30"
+            },
             {
                 "title": "[Apple] 电池健康 78%，是否需要更换？",
                 "link": "https://www.v2ex.com/t/811695",
@@ -8066,7 +8131,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 12
     },
     {
         "id": 3,

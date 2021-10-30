@@ -1,6 +1,18 @@
 # V2EX
 
 
+* [2021-10-30  [职场话题] 北京 20k*16（税前），一年能存到多少钱？](https://www.v2ex.com/t/811709)
+* [2021-10-30  [Apple] 「翻车」m1pro 新机划痕](https://www.v2ex.com/t/811708)
+* [2021-10-30  [Apple] m1 能玩帝国时代 4 吗？](https://www.v2ex.com/t/811706)
+* [2021-10-30  [Linux] 2021 年 10 月，在 Ubuntu Linux 上如何使用微信 ？](https://www.v2ex.com/t/811705)
+* [2021-10-30  [程序员] 求推荐一个可以二次开发的，跨平台的截屏库。](https://www.v2ex.com/t/811704)
+* [2021-10-30  [Google] 被 google drive 恶心到了，竟然无法移除存储在共享云端硬盘中的文件](https://www.v2ex.com/t/811703)
+* [2021-10-30  [优惠信息] 京东会员现在开通只要 99，可以选择开卡礼品，如果选择 30 红包相当于 69 开卡一年，还可以冲啊](https://www.v2ex.com/t/811702)
+* [2021-10-30  [职场话题] offer 比较选择：携程 VS 小米](https://www.v2ex.com/t/811700)
+* [2021-10-30  [生活] 瞌睡越来越多了](https://www.v2ex.com/t/811698)
+* [2021-10-30  [问与答] 有没有用过 LG UL650 的兄弟说说这个显示器咋样？](https://www.v2ex.com/t/811697)
+* [2021-10-30  [问与答] v2ex 某个用户详细页面打开是空白](https://www.v2ex.com/t/811696)
+* [2021-10-30  [Raspberry Pi] 没人关注吗? Raspberry Pi Zero 2 W 发布了](https://www.v2ex.com/t/811693)
 * [2021-10-30  [Apple] 电池健康 78%，是否需要更换？](https://www.v2ex.com/t/811695)
 * [2021-10-30  [全球工单系统] 币安客户端至今没适配 iPad](https://www.v2ex.com/t/811694)
 * [2021-10-30  [硬件] 没人关注吗? Raspberry Pi Zero 2 W 发布了](https://www.v2ex.com/t/811693)
