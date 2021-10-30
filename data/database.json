@@ -281,6 +281,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[优惠信息] PDD 百亿补贴 索尼 WF-1000XM4 1324 元",
+                "link": "https://www.v2ex.com/t/811782",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[电影] 今天看了黄轩、杨子珊主演的《乌海》",
+                "link": "https://www.v2ex.com/t/811780",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[JavaScript] js 正则表达式怎么匹配 |",
+                "link": "https://www.v2ex.com/t/811778",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[电影] 今年的 007 真是又无聊又老土",
+                "link": "https://www.v2ex.com/t/811777",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[分享创造] [独立作品] 比译(v0.3.2) Linux 版发布，已支持三大桌面平台。",
+                "link": "https://www.v2ex.com/t/811776",
+                "published": "2021-10-30"
+            },
+            {
                 "title": "[生活] v2 买的苹果到了，开箱。",
                 "link": "https://www.v2ex.com/t/811775",
                 "published": "2021-10-30"
@@ -8376,7 +8401,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     },
     {
         "id": 3,

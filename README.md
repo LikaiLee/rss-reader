@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+5】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-10-30】 [优惠信息] PDD 百亿补贴 索尼 WF-1000XM4 1324 元](https://www.v2ex.com/t/811782)
+* [【2021-10-30】 [电影] 今天看了黄轩、杨子珊主演的《乌海》](https://www.v2ex.com/t/811780)
+* [【2021-10-30】 [JavaScript] js 正则表达式怎么匹配 |](https://www.v2ex.com/t/811778)
+* [【2021-10-30】 [电影] 今年的 007 真是又无聊又老土](https://www.v2ex.com/t/811777)
+* [【2021-10-30】 [分享创造] [独立作品] 比译(v0.3.2) Linux 版发布，已支持三大桌面平台。](https://www.v2ex.com/t/811776)
 * [【2021-10-30】 [生活] v2 买的苹果到了，开箱。](https://www.v2ex.com/t/811775)
 * [【2021-10-30】 [英雄联盟] 没猜错的话，今天就是 S11 总决赛了吧](https://www.v2ex.com/t/811774)
 * [【2021-10-30】 [问与答] 身无一技之长,打算学习一技之长，决定学习 Python 金融需要学到什么程度？ Python 对金融有什么用？](https://www.v2ex.com/t/811771)
 * [【2021-10-30】 [奇思妙想] 有没有想过为啥找不到对象](https://www.v2ex.com/t/811768)
 * [【2021-10-30】 [北京] 今年北漂过年可以返乡吗？好像因为冬奥会的缘故，返乡会有影响](https://www.v2ex.com/t/811767)
-* [【2021-10-30】 [Vue.js] 朋友们，有关于 vue3 全局错误异步错误捕获的示例吗](https://www.v2ex.com/t/811766)
-* [【2021-10-30】 [音乐] 草东没有派对鼓手蔡忆凡去世](https://www.v2ex.com/t/811765)
-* [【2021-10-30】 [问与答] 出一些叮咚买菜联名的 vip](https://www.v2ex.com/t/811764)
-* [【2021-10-30】 [Apple] 大佬们 别抢 翻新 air 了。穷 b 一直蹲都蹲不到了](https://www.v2ex.com/t/811762)
-* [【2021-10-30】 [宽带症候群] 最近路由器日志一直有一些访问 183.57.48.48:7512 的超时记录，查了一下好像是腾讯的机房？这个国内的直连也会连不上吗？江苏电信。](https://www.v2ex.com/t/811759)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-30 11:16:11
+:alarm_clock: 更新时间: 2021-10-30 12:30:02
