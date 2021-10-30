@@ -281,6 +281,46 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] Fabric 2.x 高吞吐量如何实现？",
+                "link": "https://www.v2ex.com/t/811813",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[MacBook Pro] 想问下近几天下单 mac pro 2021 的 v 友都是预计什么时间送达？",
+                "link": "https://www.v2ex.com/t/811812",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Apple] 双十一，有什么苹果生态的周边配件值得推荐的么",
+                "link": "https://www.v2ex.com/t/811810",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[MacBook Pro] MacBook pro m1 粉屏问题",
+                "link": "https://www.v2ex.com/t/811808",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Apple] 付费 App 协议添加银行账户 CNAPS 代码无效如何解决？",
+                "link": "https://www.v2ex.com/t/811807",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] M2 黑苹果网卡有什么推荐吗",
+                "link": "https://www.v2ex.com/t/811806",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 求推双肩电脑包，笔记本 13-14 英寸",
+                "link": "https://www.v2ex.com/t/811805",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 有没有私有部署的静态资源托管的服务？",
+                "link": "https://www.v2ex.com/t/811804",
+                "published": "2021-10-30"
+            },
+            {
                 "title": "[MacBook Pro] 今天去摸了新款 14 寸和 16 寸，除了大和重，感觉很好啊",
                 "link": "https://www.v2ex.com/t/811803",
                 "published": "2021-10-30"
@@ -8461,7 +8501,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 8
     },
     {
         "id": 3,
