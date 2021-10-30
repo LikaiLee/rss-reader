@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-10-30  [MacBook Pro] 请问第三方升级 RAM 体验如何呢？](https://www.v2ex.com/t/811825)
+* [2021-10-30  [Firefox] Firefox 会不定期把新标签页重设为火狐搜索起始页](https://www.v2ex.com/t/811824)
 * [2021-10-30  [MacBook Pro] Bartender4.1.12 版，优化 new MacBook Pro 支持](https://www.v2ex.com/t/811823)
 * [2021-10-30  [健康] 大家每日的手机屏幕时间是多久？](https://www.v2ex.com/t/811822)
 * [2021-10-30  [Apple] 13 和 13mini 怎么选择](https://www.v2ex.com/t/811820)
