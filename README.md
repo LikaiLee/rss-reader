@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+12】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+9】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-10-30】 [微信] 欧盟的 wechat 已经开始出现广告](https://www.v2ex.com/t/811722)
+* [【2021-10-30】 [问与答] 升级 MacOS 后，电脑连不上 Airpods 了](https://www.v2ex.com/t/811721)
+* [【2021-10-30】 [Android] 求问 5.0 后各 Android 版本中的 ART 虚拟机 GC 都分别采取了什么策略?](https://www.v2ex.com/t/811719)
+* [【2021-10-30】 [问与答] 这段密文 是用什么算法加密的？](https://www.v2ex.com/t/811718)
+* [【2021-10-30】 [深圳] 深圳的程序猿交流群（技术、工作、生活）](https://www.v2ex.com/t/811717)
+* [【2021-10-30】 [AirPods] AirPods pro 自己断开配对？！](https://www.v2ex.com/t/811715)
+* [【2021-10-30】 [AirPods] AirPods pro 有必要买带 magsafe 的吗？](https://www.v2ex.com/t/811714)
+* [【2021-10-30】 [Apple] 来电阻止与身份识别 为什么拦截的电话不在通话记录显示 而勿扰模式可以显示](https://www.v2ex.com/t/811713)
+* [【2021-10-30】 [游戏] Steam 万圣节特卖了，求推荐~](https://www.v2ex.com/t/811712)
 * [【2021-10-30】 [职场话题] 北京 20k*16（税前），一年能存到多少钱？](https://www.v2ex.com/t/811709)
-* [【2021-10-30】 [Apple] 「翻车」m1pro 新机划痕](https://www.v2ex.com/t/811708)
-* [【2021-10-30】 [Apple] m1 能玩帝国时代 4 吗？](https://www.v2ex.com/t/811706)
-* [【2021-10-30】 [Linux] 2021 年 10 月，在 Ubuntu Linux 上如何使用微信 ？](https://www.v2ex.com/t/811705)
-* [【2021-10-30】 [程序员] 求推荐一个可以二次开发的，跨平台的截屏库。](https://www.v2ex.com/t/811704)
-* [【2021-10-30】 [Google] 被 google drive 恶心到了，竟然无法移除存储在共享云端硬盘中的文件](https://www.v2ex.com/t/811703)
-* [【2021-10-30】 [优惠信息] 京东会员现在开通只要 99，可以选择开卡礼品，如果选择 30 红包相当于 69 开卡一年，还可以冲啊](https://www.v2ex.com/t/811702)
-* [【2021-10-30】 [职场话题] offer 比较选择：携程 VS 小米](https://www.v2ex.com/t/811700)
-* [【2021-10-30】 [生活] 瞌睡越来越多了](https://www.v2ex.com/t/811698)
-* [【2021-10-30】 [问与答] 有没有用过 LG UL650 的兄弟说说这个显示器咋样？](https://www.v2ex.com/t/811697)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-30 04:25:49
+:alarm_clock: 更新时间: 2021-10-30 05:17:24

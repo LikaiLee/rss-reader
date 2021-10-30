@@ -1,6 +1,15 @@
 # V2EX
 
 
+* [2021-10-30  [微信] 欧盟的 wechat 已经开始出现广告](https://www.v2ex.com/t/811722)
+* [2021-10-30  [问与答] 升级 MacOS 后，电脑连不上 Airpods 了](https://www.v2ex.com/t/811721)
+* [2021-10-30  [Android] 求问 5.0 后各 Android 版本中的 ART 虚拟机 GC 都分别采取了什么策略?](https://www.v2ex.com/t/811719)
+* [2021-10-30  [问与答] 这段密文 是用什么算法加密的？](https://www.v2ex.com/t/811718)
+* [2021-10-30  [深圳] 深圳的程序猿交流群（技术、工作、生活）](https://www.v2ex.com/t/811717)
+* [2021-10-30  [AirPods] AirPods pro 自己断开配对？！](https://www.v2ex.com/t/811715)
+* [2021-10-30  [AirPods] AirPods pro 有必要买带 magsafe 的吗？](https://www.v2ex.com/t/811714)
+* [2021-10-30  [Apple] 来电阻止与身份识别 为什么拦截的电话不在通话记录显示 而勿扰模式可以显示](https://www.v2ex.com/t/811713)
+* [2021-10-30  [游戏] Steam 万圣节特卖了，求推荐~](https://www.v2ex.com/t/811712)
 * [2021-10-30  [职场话题] 北京 20k*16（税前），一年能存到多少钱？](https://www.v2ex.com/t/811709)
 * [2021-10-30  [Apple] 「翻车」m1pro 新机划痕](https://www.v2ex.com/t/811708)
 * [2021-10-30  [Apple] m1 能玩帝国时代 4 吗？](https://www.v2ex.com/t/811706)

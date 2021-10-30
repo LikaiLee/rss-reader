@@ -263,13 +263,58 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[微信] 欧盟的 wechat 已经开始出现广告",
+                "link": "https://www.v2ex.com/t/811722",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 升级 MacOS 后，电脑连不上 Airpods 了",
+                "link": "https://www.v2ex.com/t/811721",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Android] 求问 5.0 后各 Android 版本中的 ART 虚拟机 GC 都分别采取了什么策略?",
+                "link": "https://www.v2ex.com/t/811719",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 这段密文 是用什么算法加密的？",
+                "link": "https://www.v2ex.com/t/811718",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[深圳] 深圳的程序猿交流群（技术、工作、生活）",
+                "link": "https://www.v2ex.com/t/811717",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[AirPods] AirPods pro 自己断开配对？！",
+                "link": "https://www.v2ex.com/t/811715",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[AirPods] AirPods pro 有必要买带 magsafe 的吗？",
+                "link": "https://www.v2ex.com/t/811714",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Apple] 来电阻止与身份识别 为什么拦截的电话不在通话记录显示 而勿扰模式可以显示",
+                "link": "https://www.v2ex.com/t/811713",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[游戏] Steam 万圣节特卖了，求推荐~",
+                "link": "https://www.v2ex.com/t/811712",
+                "published": "2021-10-30"
+            },
             {
                 "title": "[职场话题] 北京 20k*16（税前），一年能存到多少钱？",
                 "link": "https://www.v2ex.com/t/811709",
@@ -8131,7 +8176,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 12
+        "new_feeds": 9
     },
     {
         "id": 3,
