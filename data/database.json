@@ -281,6 +281,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] Bartender4.1.12 版，优化 new MacBook Pro 支持",
+                "link": "https://www.v2ex.com/t/811823",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[健康] 大家每日的手机屏幕时间是多久？",
+                "link": "https://www.v2ex.com/t/811822",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Apple] 13 和 13mini 怎么选择",
+                "link": "https://www.v2ex.com/t/811820",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 有什么好用的可以模拟机械运动机制的软件，类似 AutoCAD",
+                "link": "https://www.v2ex.com/t/811819",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] ERP 实施顾问招聘",
+                "link": "https://www.v2ex.com/t/811818",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Python] 请教个问题， Python 如何禁用函数",
+                "link": "https://www.v2ex.com/t/811817",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 有做过医院 his 系统的 v 友吗？",
+                "link": "https://www.v2ex.com/t/811815",
+                "published": "2021-10-30"
+            },
+            {
                 "title": "[问与答] Fabric 2.x 高吞吐量如何实现？",
                 "link": "https://www.v2ex.com/t/811813",
                 "published": "2021-10-30"
@@ -8501,7 +8536,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 7
     },
     {
         "id": 3,

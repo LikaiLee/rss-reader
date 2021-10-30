@@ -1,6 +1,13 @@
 # V2EX
 
 
+* [2021-10-30  [MacBook Pro] Bartender4.1.12 版，优化 new MacBook Pro 支持](https://www.v2ex.com/t/811823)
+* [2021-10-30  [健康] 大家每日的手机屏幕时间是多久？](https://www.v2ex.com/t/811822)
+* [2021-10-30  [Apple] 13 和 13mini 怎么选择](https://www.v2ex.com/t/811820)
+* [2021-10-30  [问与答] 有什么好用的可以模拟机械运动机制的软件，类似 AutoCAD](https://www.v2ex.com/t/811819)
+* [2021-10-30  [问与答] ERP 实施顾问招聘](https://www.v2ex.com/t/811818)
+* [2021-10-30  [Python] 请教个问题， Python 如何禁用函数](https://www.v2ex.com/t/811817)
+* [2021-10-30  [问与答] 有做过医院 his 系统的 v 友吗？](https://www.v2ex.com/t/811815)
 * [2021-10-30  [问与答] Fabric 2.x 高吞吐量如何实现？](https://www.v2ex.com/t/811813)
 * [2021-10-30  [MacBook Pro] 想问下近几天下单 mac pro 2021 的 v 友都是预计什么时间送达？](https://www.v2ex.com/t/811812)
 * [2021-10-30  [Apple] 双十一，有什么苹果生态的周边配件值得推荐的么](https://www.v2ex.com/t/811810)

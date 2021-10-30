@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+8】
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-10-30】 [MacBook Pro] Bartender4.1.12 版，优化 new MacBook Pro 支持](https://www.v2ex.com/t/811823)
+* [【2021-10-30】 [健康] 大家每日的手机屏幕时间是多久？](https://www.v2ex.com/t/811822)
+* [【2021-10-30】 [Apple] 13 和 13mini 怎么选择](https://www.v2ex.com/t/811820)
+* [【2021-10-30】 [问与答] 有什么好用的可以模拟机械运动机制的软件，类似 AutoCAD](https://www.v2ex.com/t/811819)
+* [【2021-10-30】 [问与答] ERP 实施顾问招聘](https://www.v2ex.com/t/811818)
+* [【2021-10-30】 [Python] 请教个问题， Python 如何禁用函数](https://www.v2ex.com/t/811817)
+* [【2021-10-30】 [问与答] 有做过医院 his 系统的 v 友吗？](https://www.v2ex.com/t/811815)
 * [【2021-10-30】 [问与答] Fabric 2.x 高吞吐量如何实现？](https://www.v2ex.com/t/811813)
 * [【2021-10-30】 [MacBook Pro] 想问下近几天下单 mac pro 2021 的 v 友都是预计什么时间送达？](https://www.v2ex.com/t/811812)
 * [【2021-10-30】 [Apple] 双十一，有什么苹果生态的周边配件值得推荐的么](https://www.v2ex.com/t/811810)
-* [【2021-10-30】 [MacBook Pro] MacBook pro m1 粉屏问题](https://www.v2ex.com/t/811808)
-* [【2021-10-30】 [Apple] 付费 App 协议添加银行账户 CNAPS 代码无效如何解决？](https://www.v2ex.com/t/811807)
-* [【2021-10-30】 [问与答] M2 黑苹果网卡有什么推荐吗](https://www.v2ex.com/t/811806)
-* [【2021-10-30】 [问与答] 求推双肩电脑包，笔记本 13-14 英寸](https://www.v2ex.com/t/811805)
-* [【2021-10-30】 [问与答] 有没有私有部署的静态资源托管的服务？](https://www.v2ex.com/t/811804)
-* [【2021-10-30】 [MacBook Pro] 今天去摸了新款 14 寸和 16 寸，除了大和重，感觉很好啊](https://www.v2ex.com/t/811803)
-* [【2021-10-30】 [Apple] 说一下 airpods 3 感受](https://www.v2ex.com/t/811802)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-30 15:20:03
+:alarm_clock: 更新时间: 2021-10-30 16:29:22
