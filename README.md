@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+5】
+* [V2EX](#V2EX) 【+6】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-10-30】 [NAS] 求教 raid5 阵列的 nas 用千兆局域网够吗？](https://www.v2ex.com/t/811792)
+* [【2021-10-30】 [问与答] 同样的 URL,同样 GET 参数,同样 headers, 在浏览器里能正常请求, 在 postman 里却一直处于 pending 状态](https://www.v2ex.com/t/811791)
+* [【2021-10-30】 [微信] 关于微信每次登录时的验证身份一直处于加载状态，请问大家是否有遇到过这个问题？到底是什么原因？](https://www.v2ex.com/t/811790)
+* [【2021-10-30】 [京东] 京东的店铺会员怎么退？](https://www.v2ex.com/t/811787)
+* [【2021-10-30】 [全球工单系统] 淘宝虚拟充值类工单直接带出用户真实姓名？](https://www.v2ex.com/t/811786)
+* [【2021-10-30】 [Apple] Apple 与中国土木工程集团有限公司是什么关系呢？](https://www.v2ex.com/t/811783)
 * [【2021-10-30】 [优惠信息] PDD 百亿补贴 索尼 WF-1000XM4 1324 元](https://www.v2ex.com/t/811782)
 * [【2021-10-30】 [电影] 今天看了黄轩、杨子珊主演的《乌海》](https://www.v2ex.com/t/811780)
 * [【2021-10-30】 [JavaScript] js 正则表达式怎么匹配 |](https://www.v2ex.com/t/811778)
 * [【2021-10-30】 [电影] 今年的 007 真是又无聊又老土](https://www.v2ex.com/t/811777)
-* [【2021-10-30】 [分享创造] [独立作品] 比译(v0.3.2) Linux 版发布，已支持三大桌面平台。](https://www.v2ex.com/t/811776)
-* [【2021-10-30】 [生活] v2 买的苹果到了，开箱。](https://www.v2ex.com/t/811775)
-* [【2021-10-30】 [英雄联盟] 没猜错的话，今天就是 S11 总决赛了吧](https://www.v2ex.com/t/811774)
-* [【2021-10-30】 [问与答] 身无一技之长,打算学习一技之长，决定学习 Python 金融需要学到什么程度？ Python 对金融有什么用？](https://www.v2ex.com/t/811771)
-* [【2021-10-30】 [奇思妙想] 有没有想过为啥找不到对象](https://www.v2ex.com/t/811768)
-* [【2021-10-30】 [北京] 今年北漂过年可以返乡吗？好像因为冬奥会的缘故，返乡会有影响](https://www.v2ex.com/t/811767)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-30 12:30:02
+:alarm_clock: 更新时间: 2021-10-30 13:22:31
