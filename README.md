@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+4】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,7 @@
     </summary>
 
 
+* [【2021-10-30】 [酷工作] [物联网] [web] [嵌入式] 寻长期合作开发伙伴，已有项目](https://www.v2ex.com/t/811830)
 * [【2021-10-30】 [电影] 觉得沙丘不好看](https://www.v2ex.com/t/811829)
 * [【2021-10-30】 [分享发现] 淘宝的隐私搜集恐怖如斯](https://www.v2ex.com/t/811828)
 * [【2021-10-30】 [问与答] 求推荐一个头戴式游戏用双插头耳机](https://www.v2ex.com/t/811827)
@@ -56,7 +57,6 @@
 * [【2021-10-30】 [MacBook Pro] Bartender4.1.12 版，优化 new MacBook Pro 支持](https://www.v2ex.com/t/811823)
 * [【2021-10-30】 [健康] 大家每日的手机屏幕时间是多久？](https://www.v2ex.com/t/811822)
 * [【2021-10-30】 [Apple] 13 和 13mini 怎么选择](https://www.v2ex.com/t/811820)
-* [【2021-10-30】 [问与答] 有什么好用的可以模拟机械运动机制的软件，类似 AutoCAD](https://www.v2ex.com/t/811819)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-30 18:22:33
+:alarm_clock: 更新时间: 2021-10-30 19:15:02
