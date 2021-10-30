@@ -271,6 +271,51 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Windows] 有没有 windows11 arm 能用的网盘挂载软件",
+                "link": "https://www.v2ex.com/t/811732",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 大家试试看看苹果商店 ipadmini6 购买页面是否正常",
+                "link": "https://www.v2ex.com/t/811731",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[分享创造] 一个 基于 cloudflare workers 和 vue ssr 的网络访问计数器",
+                "link": "https://www.v2ex.com/t/811729",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[生活] 突然觉得自己在生活中，是越来越累了。",
+                "link": "https://www.v2ex.com/t/811728",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Android] 老生常谈 -- Android FFmpeg 动态库的编译问题轻松搞定",
+                "link": "https://www.v2ex.com/t/811727",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[生活] 物业公司禁止非小区业主家长进入小区内公立小学合法吗？",
+                "link": "https://www.v2ex.com/t/811726",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[问与答] 想把公司代码与个人的隔离，把公司所有的东西塞进 docker 中是否可行？",
+                "link": "https://www.v2ex.com/t/811725",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[Apple] 用 SwitchResX 选择一个 16:10 的分辨率，就可以完全屏蔽刘海儿了",
+                "link": "https://www.v2ex.com/t/811724",
+                "published": "2021-10-30"
+            },
+            {
+                "title": "[微信] 深圳的程序猿交流群（技术、工作、生活）",
+                "link": "https://www.v2ex.com/t/811717",
+                "published": "2021-10-30"
+            },
+            {
                 "title": "[微信] 欧盟的 wechat 已经开始出现广告",
                 "link": "https://www.v2ex.com/t/811722",
                 "published": "2021-10-30"
