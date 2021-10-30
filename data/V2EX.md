@@ -1,6 +1,13 @@
 # V2EX
 
 
+* [2021-10-30  [宽带症候群] 最近路由器日志一直有一些访问 183.57.48.48:7512 的超时记录，查了一下好像是腾讯的机房？这个国内的直连也会连不上吗？江苏电信。](https://www.v2ex.com/t/811759)
+* [2021-10-30  [Java] nacos 现在是不是不支持 m1 啊](https://www.v2ex.com/t/811758)
+* [2021-10-30  [问与答] LG 27UN880 这款显示器 mac 外接怎么样呢？](https://www.v2ex.com/t/811757)
+* [2021-10-30  [程序员] 请教一个问题，根据经纬度查询最近的店铺还要根据名称模糊匹配](https://www.v2ex.com/t/811756)
+* [2021-10-30  [Visual Studio Code] 在 vscode 中用 org mode](https://www.v2ex.com/t/811755)
+* [2021-10-30  [MacBook Pro] Python 做数值计算，新款 mbp 安装 anaconda 是 arm 版吗？](https://www.v2ex.com/t/811754)
+* [2021-10-30  [NAS] 四盘位硬盘盒，有推荐的吗？](https://www.v2ex.com/t/811753)
 * [2021-10-30  [分享创造] longurl，一个开源的短地址服务。](https://www.v2ex.com/t/811752)
 * [2021-10-30  [macOS] 一个蓝牙音箱如何在 Mac 和 iPad 之间快速切换连接？](https://www.v2ex.com/t/811751)
 * [2021-10-30  [macOS] 升级了 Monterey 之后， Bitwarden 的 Safari 扩展不见了](https://www.v2ex.com/t/811750)
