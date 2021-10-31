@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-10-31  [Mac mini] 想给 Mac Mini 买个 24 寸 4K 屏，想请各位老哥推荐](https://www.v2ex.com/t/811863)
+* [2021-10-31  [问与答] 跨国公司配的远程 win10 电脑如何压榨一下](https://www.v2ex.com/t/811861)
+* [2021-10-31  [深圳] 求取租房建议，工作在科兴](https://www.v2ex.com/t/811857)
 * [2021-10-31  [分享创造] 用 Python 的朋友快来，开源 pipyuan，快速修改 pip 的源，类似 node 里的 nrm](https://www.v2ex.com/t/811854)
 * [2021-10-31  [硬件] 跨设备复制文本的鼠标有哪些？(最好是不走局域网的，存在鼠标内的)](https://www.v2ex.com/t/811853)
 * [2021-10-31  [Apple] apple watch ecg 使用技巧，可以构成 6 联导](https://www.v2ex.com/t/811850)
