@@ -1,6 +1,12 @@
 # V2EX
 
 
+* [2021-10-31  [MacBook Pro] 刚去把 mbp 2018 的键盘换新](https://www.v2ex.com/t/811903)
+* [2021-10-31  [Apple] 有人遇到 macOS Monterey Safari 地址栏输入中文卡顿的问题吗？](https://www.v2ex.com/t/811902)
+* [2021-10-31  [Linux] logstash 主要占用哪些资源](https://www.v2ex.com/t/811901)
+* [2021-10-31  [互联网] 阿里系软件的网页版已经开始反人类了](https://www.v2ex.com/t/811900)
+* [2021-10-31  [问与答] 美光/英睿达（Crucial）笔记本内存 CT16G4SFRA266 和 CT2K16G4SFRA266 有什么区别吗？](https://www.v2ex.com/t/811898)
+* [2021-10-31  [问与答] 诸君用高德打车的多吗，感觉自己好久没有用滴滴打车了。](https://www.v2ex.com/t/811897)
 * [2021-10-31  [问与答] 求助帖：养猫之后经常咳嗽](https://www.v2ex.com/t/811895)
 * [2021-10-31  [问与答] 有现成的自建短网址,并且去除 ref 的方案吗](https://www.v2ex.com/t/811893)
 * [2021-10-31  [宽带症候群] IPLC 是啥意思？](https://www.v2ex.com/t/811891)

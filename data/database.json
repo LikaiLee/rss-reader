@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "老款 iPhone 也能拍「微距」：专业相机应用 Halide 更新",
+                "link": "https://sspai.com/post/69371",
+                "published": "2021-10-31"
+            },
+            {
                 "title": "看什么 · 特别篇丨在万圣节看恐怖片才是正经事",
                 "link": "https://sspai.com/post/69583",
                 "published": "2021-10-31"
@@ -278,13 +283,43 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[MacBook Pro] 刚去把 mbp 2018 的键盘换新",
+                "link": "https://www.v2ex.com/t/811903",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[Apple] 有人遇到 macOS Monterey Safari 地址栏输入中文卡顿的问题吗？",
+                "link": "https://www.v2ex.com/t/811902",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[Linux] logstash 主要占用哪些资源",
+                "link": "https://www.v2ex.com/t/811901",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[互联网] 阿里系软件的网页版已经开始反人类了",
+                "link": "https://www.v2ex.com/t/811900",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] 美光/英睿达（Crucial）笔记本内存 CT16G4SFRA266 和 CT2K16G4SFRA266 有什么区别吗？",
+                "link": "https://www.v2ex.com/t/811898",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] 诸君用高德打车的多吗，感觉自己好久没有用滴滴打车了。",
+                "link": "https://www.v2ex.com/t/811897",
+                "published": "2021-10-31"
+            },
             {
                 "title": "[问与答] 求助帖：养猫之后经常咳嗽",
                 "link": "https://www.v2ex.com/t/811895",
@@ -8786,7 +8821,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 6
     },
     {
         "id": 3,
