@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+3】
+* [V2EX](#V2EX) 【+4】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-10-31】 [Docker] [求助] docker nginx 404 Not Found 问题](https://www.v2ex.com/t/811981)
+* [【2021-10-31】 [问与答] 有什么办法申请阿里云免费的 ecs 主机吗？比如赞助？或者别的？](https://www.v2ex.com/t/811980)
+* [【2021-10-31】 [Node.js] 巨石应用解决方案 ❌ 📦](https://www.v2ex.com/t/811979)
+* [【2021-10-31】 [程序员] 工作上遇到“能用就行”，唯唯诺诺的指导人(小组长)，大家一般怎么办](https://www.v2ex.com/t/811978)
 * [【2021-10-31】 [硬件] 选一套开发板： Arduino、树莓派、PYNQ、pyboard，还有一些国产开发版性价比也不错， IDE 配套方面各有优劣，想是做些物联网和 AI 方面的应用，哪个板更合适些？](https://www.v2ex.com/t/811976)
 * [【2021-10-31】 [酷工作] [米哈游] [上海、新加坡、蒙特利尔、日本、韩国、美国] 11 月最新岗位~](https://www.v2ex.com/t/811975)
 * [【2021-10-31】 [天黑以后] 20211101 午夜俱乐部](https://www.v2ex.com/t/811974)
 * [【2021-10-31】 [程序员] 有没有熬夜小组？](https://www.v2ex.com/t/811973)
 * [【2021-10-31】 [问与答] 请问 window 上有什么好用的番茄钟，带生产力报告的](https://www.v2ex.com/t/811972)
 * [【2021-10-31】 [问与答] 求推荐个双屏显示器支架，爱格升除外，太贵了](https://www.v2ex.com/t/811971)
-* [【2021-10-31】 [问与答] 有没有一键发布脸书 推特 Instagram 的免费网站？](https://www.v2ex.com/t/811968)
-* [【2021-10-31】 [程序员] 在制定大三至大四的规划，欢迎分享建议](https://www.v2ex.com/t/811967)
-* [【2021-10-31】 [微信] 在微信打开链接真是折磨](https://www.v2ex.com/t/811966)
-* [【2021-10-31】 [问与答] 显示器会阻止主板自检，如何解决？](https://www.v2ex.com/t/811964)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-31 17:22:11
+:alarm_clock: 更新时间: 2021-10-31 18:22:29
