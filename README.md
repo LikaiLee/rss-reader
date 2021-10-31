@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+3】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+5】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-10-31】 看什么 · 特别篇丨在万圣节看恐怖片才是正经事](https://sspai.com/post/69583)
 * [【2021-10-30】 译文 | Tensor 之意不在「酒」：Google Silicon 团队专访，为你揭开定制芯片的秘密](https://sspai.com/post/69572)
 * [【2021-10-29】 不到 200 元就能买到的好物，它让我的 iPad Pro 终于可以「物尽其用」](https://sspai.com/post/69548)
 * [【2021-10-30】 快到年底了，首批「适老化」应用能帮老人用好手机吗？](https://sspai.com/post/69521)
@@ -37,7 +38,6 @@
 * [【2021-10-29】 iPad Pro 又何必非要成为「MacBook Lite」](https://sspai.com/post/69548)
 * [【2021-10-29】 派早报：尼康发布 Z 9 全画幅微单相机、Apple 公布完全碳中计划最新状况等](https://sspai.com/post/69564)
 * [【2021-10-28】 新玩意 081｜少数派的编辑们最近买了啥？](https://sspai.com/post/69560)
-* [【2021-10-28】 追求速度、挑战自我：在这些游戏里感受竞速的魅力](https://sspai.com/post/68934)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-10-31】 [MacBook Pro] 有买 mbp14 寸标配的朋友吗](https://www.v2ex.com/t/811870)
+* [【2021-10-31】 [iCloud] icloud 用美区，订阅与购买用国区](https://www.v2ex.com/t/811869)
+* [【2021-10-31】 [Apple] 关于 Macbook Pro 2011 款扩展 SSD 的想法](https://www.v2ex.com/t/811868)
+* [【2021-10-31】 [Apple] 苹果官网教育商店买 MacBook，钱突然退回来了，订单没变化](https://www.v2ex.com/t/811867)
+* [【2021-10-31】 [NAS] 威联通 453dmini 支持从 u 盘启动吗？](https://www.v2ex.com/t/811864)
 * [【2021-10-31】 [Mac mini] 想给 Mac Mini 买个 24 寸 4K 屏，想请各位老哥推荐](https://www.v2ex.com/t/811863)
 * [【2021-10-31】 [问与答] 跨国公司配的远程 win10 电脑如何压榨一下](https://www.v2ex.com/t/811861)
 * [【2021-10-31】 [深圳] 求取租房建议，工作在科兴](https://www.v2ex.com/t/811857)
 * [【2021-10-31】 [分享创造] 用 Python 的朋友快来，开源 pipyuan，快速修改 pip 的源，类似 node 里的 nrm](https://www.v2ex.com/t/811854)
 * [【2021-10-31】 [硬件] 跨设备复制文本的鼠标有哪些？(最好是不走局域网的，存在鼠标内的)](https://www.v2ex.com/t/811853)
-* [【2021-10-31】 [Apple] apple watch ecg 使用技巧，可以构成 6 联导](https://www.v2ex.com/t/811850)
-* [【2021-10-31】 [问与答] 有没有方便的办法解决越狱后的签名问题](https://www.v2ex.com/t/811848)
-* [【2021-10-31】 [问与答] 求建议： nuc11 还是迎广组装？](https://www.v2ex.com/t/811846)
-* [【2021-10-31】 [IPFS] IPFS 技术有人了解吗？](https://www.v2ex.com/t/811843)
-* [【2021-10-31】 [Apple] m1 pro 上使用 surge3 的朋友有没有，安装扩展程序输入密码后一直请求密码，好像没有安装成功的样子](https://www.v2ex.com/t/811844)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-31 04:25:55
+:alarm_clock: 更新时间: 2021-10-31 05:17:28

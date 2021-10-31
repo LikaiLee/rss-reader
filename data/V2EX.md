@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-10-31  [MacBook Pro] 有买 mbp14 寸标配的朋友吗](https://www.v2ex.com/t/811870)
+* [2021-10-31  [iCloud] icloud 用美区，订阅与购买用国区](https://www.v2ex.com/t/811869)
+* [2021-10-31  [Apple] 关于 Macbook Pro 2011 款扩展 SSD 的想法](https://www.v2ex.com/t/811868)
+* [2021-10-31  [Apple] 苹果官网教育商店买 MacBook，钱突然退回来了，订单没变化](https://www.v2ex.com/t/811867)
+* [2021-10-31  [NAS] 威联通 453dmini 支持从 u 盘启动吗？](https://www.v2ex.com/t/811864)
 * [2021-10-31  [Mac mini] 想给 Mac Mini 买个 24 寸 4K 屏，想请各位老哥推荐](https://www.v2ex.com/t/811863)
 * [2021-10-31  [问与答] 跨国公司配的远程 win10 电脑如何压榨一下](https://www.v2ex.com/t/811861)
 * [2021-10-31  [深圳] 求取租房建议，工作在科兴](https://www.v2ex.com/t/811857)

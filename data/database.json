@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "看什么 · 特别篇丨在万圣节看恐怖片才是正经事",
+                "link": "https://sspai.com/post/69583",
+                "published": "2021-10-31"
+            },
+            {
                 "title": "译文 | Tensor 之意不在「酒」：Google Silicon 团队专访，为你揭开定制芯片的秘密",
                 "link": "https://sspai.com/post/69572",
                 "published": "2021-10-30"
@@ -273,13 +278,38 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[MacBook Pro] 有买 mbp14 寸标配的朋友吗",
+                "link": "https://www.v2ex.com/t/811870",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[iCloud] icloud 用美区，订阅与购买用国区",
+                "link": "https://www.v2ex.com/t/811869",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[Apple] 关于 Macbook Pro 2011 款扩展 SSD 的想法",
+                "link": "https://www.v2ex.com/t/811868",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[Apple] 苹果官网教育商店买 MacBook，钱突然退回来了，订单没变化",
+                "link": "https://www.v2ex.com/t/811867",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[NAS] 威联通 453dmini 支持从 u 盘启动吗？",
+                "link": "https://www.v2ex.com/t/811864",
+                "published": "2021-10-31"
+            },
             {
                 "title": "[Mac mini] 想给 Mac Mini 买个 24 寸 4K 屏，想请各位老哥推荐",
                 "link": "https://www.v2ex.com/t/811863",
@@ -8671,7 +8701,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 3,
