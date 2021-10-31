@@ -1,6 +1,15 @@
 # V2EX
 
 
+* [2021-10-31  [问与答] 腾讯云 CLB 涨价了，成本翻了几十倍，有什么替代方法吗？](https://www.v2ex.com/t/811925)
+* [2021-10-31  [ WATCH] Apple Watch Series 7 Nike 版 45 毫米是停产了吗？苹果官网已经无法购买了。。。](https://www.v2ex.com/t/811924)
+* [2021-10-31  [macOS] 升级 Monterey 之后旧版 pkg 装不了了，有没有办法强制安装？](https://www.v2ex.com/t/811923)
+* [2021-10-31  [优惠信息] 日亚 SanDisk CZ880 1TB 镇店之宝活动，含税 840](https://www.v2ex.com/t/811922)
+* [2021-10-31  [MacBook Pro] 今天一冲动去门店自提了 Macbook pro 14，然后 19 年 16 寸闲置了](https://www.v2ex.com/t/811921)
+* [2021-10-31  [Apple] Apple Watch 上的微信总是发不出消息怎么破?](https://www.v2ex.com/t/811920)
+* [2021-10-31  [Haskell] GHC 9.2 发布了](https://www.v2ex.com/t/811919)
+* [2021-10-31  [GitHub] Github 万圣节彩蛋](https://www.v2ex.com/t/811918)
+* [2021-10-31  [Visual Studio Code] 大家来讨论一下使用 vscode 和 goland 做 go 开发的感受](https://www.v2ex.com/t/811917)
 * [2021-10-31  [macOS] macOS12 续航崩了](https://www.v2ex.com/t/811916)
 * [2021-10-31  [问与答] 2021 年快过去了（仅剩两个月），截至目前，你们的股票（基金）收益怎么样了？欢迎畅所欲言](https://www.v2ex.com/t/811914)
 * [2021-10-31  [分享创造] CSS 代码演示工具](https://www.v2ex.com/t/811913)
