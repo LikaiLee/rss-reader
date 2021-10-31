@@ -1,6 +1,12 @@
 # V2EX
 
 
+* [2021-10-31  [分享创造] 用 Python 的朋友快来，开源 pipyuan，快速修改 pip 的源，类似 node 里的 nrm](https://www.v2ex.com/t/811854)
+* [2021-10-31  [硬件] 跨设备复制文本的鼠标有哪些？(最好是不走局域网的，存在鼠标内的)](https://www.v2ex.com/t/811853)
+* [2021-10-31  [Apple] apple watch ecg 使用技巧，可以构成 6 联导](https://www.v2ex.com/t/811850)
+* [2021-10-31  [问与答] 有没有方便的办法解决越狱后的签名问题](https://www.v2ex.com/t/811848)
+* [2021-10-31  [问与答] 求建议： nuc11 还是迎广组装？](https://www.v2ex.com/t/811846)
+* [2021-10-31  [IPFS] IPFS 技术有人了解吗？](https://www.v2ex.com/t/811843)
 * [2021-10-31  [Apple] m1 pro 上使用 surge3 的朋友有没有，安装扩展程序输入密码后一直请求密码，好像没有安装成功的样子](https://www.v2ex.com/t/811844)
 * [2021-10-31  [分享发现] IPFS 技术有人了解吗？](https://www.v2ex.com/t/811843)
 * [2021-10-31  [酷工作] 华为 OD 招聘软件测试工程师，多地 base 可选](https://www.v2ex.com/t/811842)
