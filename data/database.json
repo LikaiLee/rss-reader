@@ -291,6 +291,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[硬件] 选一套开发板： Arduino、树莓派、PYNQ、pyboard，还有一些国产开发版性价比也不错， IDE 配套方面各有优劣，想是做些物联网和 AI 方面的应用，哪个板更合适些？",
+                "link": "https://www.v2ex.com/t/811976",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[酷工作] [米哈游] [上海、新加坡、蒙特利尔、日本、韩国、美国] 11 月最新岗位~",
+                "link": "https://www.v2ex.com/t/811975",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[天黑以后] 20211101 午夜俱乐部",
+                "link": "https://www.v2ex.com/t/811974",
+                "published": "2021-10-31"
+            },
+            {
                 "title": "[程序员] 有没有熬夜小组？",
                 "link": "https://www.v2ex.com/t/811973",
                 "published": "2021-10-31"
@@ -9081,7 +9096,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 3
     },
     {
         "id": 3,
