@@ -283,13 +283,38 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[酷工作] [上海] [ 约战竞技场] [语音业务] 20-30K+分红，找前端 WEB 软件工程师小伙伴",
+                "link": "https://www.v2ex.com/t/811910",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[Apple] 如何正确的给 13pm 充电。",
+                "link": "https://www.v2ex.com/t/811907",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[香港] 有低门槛香港开户的渠道吗",
+                "link": "https://www.v2ex.com/t/811906",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[程序员] win32api.keybd_event 如何实现长按？",
+                "link": "https://www.v2ex.com/t/811905",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[产品经理茶话会] 社区是很无聊的产品，大家不要浪费时间了",
+                "link": "https://www.v2ex.com/t/811885",
+                "published": "2021-10-31"
+            },
             {
                 "title": "[MacBook Pro] 刚去把 mbp 2018 的键盘换新",
                 "link": "https://www.v2ex.com/t/811903",
@@ -8821,7 +8846,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 3,

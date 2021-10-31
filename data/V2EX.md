@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-10-31  [酷工作] [上海] [ 约战竞技场] [语音业务] 20-30K+分红，找前端 WEB 软件工程师小伙伴](https://www.v2ex.com/t/811910)
+* [2021-10-31  [Apple] 如何正确的给 13pm 充电。](https://www.v2ex.com/t/811907)
+* [2021-10-31  [香港] 有低门槛香港开户的渠道吗](https://www.v2ex.com/t/811906)
+* [2021-10-31  [程序员] win32api.keybd_event 如何实现长按？](https://www.v2ex.com/t/811905)
+* [2021-10-31  [产品经理茶话会] 社区是很无聊的产品，大家不要浪费时间了](https://www.v2ex.com/t/811885)
 * [2021-10-31  [MacBook Pro] 刚去把 mbp 2018 的键盘换新](https://www.v2ex.com/t/811903)
 * [2021-10-31  [Apple] 有人遇到 macOS Monterey Safari 地址栏输入中文卡顿的问题吗？](https://www.v2ex.com/t/811902)
 * [2021-10-31  [Linux] logstash 主要占用哪些资源](https://www.v2ex.com/t/811901)
