@@ -281,6 +281,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 你们购买(内购)过哪些 macOS 软件或 iOS App",
+                "link": "https://www.v2ex.com/t/811834",
+                "published": "2021-10-31"
+            },
+            {
                 "title": "[分享创造] 小作品：写了一个完全用 POSIX Shell 实现的迷你 JSON 解析器",
                 "link": "https://www.v2ex.com/t/811831",
                 "published": "2021-10-30"
@@ -8576,7 +8581,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 3,

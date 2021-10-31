@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-10-31  [Apple] 你们购买(内购)过哪些 macOS 软件或 iOS App](https://www.v2ex.com/t/811834)
 * [2021-10-30  [分享创造] 小作品：写了一个完全用 POSIX Shell 实现的迷你 JSON 解析器](https://www.v2ex.com/t/811831)
 * [2021-10-30  [酷工作] [物联网] [web] [嵌入式] 寻长期合作开发伙伴，已有项目](https://www.v2ex.com/t/811830)
 * [2021-10-30  [电影] 觉得沙丘不好看](https://www.v2ex.com/t/811829)
