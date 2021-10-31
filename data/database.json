@@ -291,6 +291,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[macOS] macOS12 续航崩了",
+                "link": "https://www.v2ex.com/t/811916",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] 2021 年快过去了（仅剩两个月），截至目前，你们的股票（基金）收益怎么样了？欢迎畅所欲言",
+                "link": "https://www.v2ex.com/t/811914",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[分享创造] CSS 代码演示工具",
+                "link": "https://www.v2ex.com/t/811913",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] 各位有什么已经加入购物车准备付款的好物分享吗",
+                "link": "https://www.v2ex.com/t/811911",
+                "published": "2021-10-31"
+            },
+            {
                 "title": "[酷工作] [上海] [ 约战竞技场] [语音业务] 20-30K+分红，找前端 WEB 软件工程师小伙伴",
                 "link": "https://www.v2ex.com/t/811910",
                 "published": "2021-10-31"
@@ -8846,7 +8866,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 3,
