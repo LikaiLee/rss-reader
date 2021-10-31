@@ -1,6 +1,15 @@
 # V2EX
 
 
+* [2021-10-31  [问与答] 有啥外设可以使 iPhone 同时连 2 个非 AirPods 耳机么？](https://www.v2ex.com/t/811962)
+* [2021-10-31  [分享发现] 灵光乍现，帮朋友把一幅画的中文介绍翻译成英文](https://www.v2ex.com/t/811961)
+* [2021-10-31  [macOS] m1 pro 的正常温度是多少](https://www.v2ex.com/t/811959)
+* [2021-10-31  [Android] 如何绕过 HSBC China（中国汇丰银行）的 root 检查？](https://www.v2ex.com/t/811958)
+* [2021-10-31  [Python] fastapi 收到一个 http 请求后，就创建一个新的 Thread，去执行一个机器学习模型代码，这块代码是我不懂也不可控的。我想知道有没有办法，可以控制杀死这个线程及所有相关的线程。](https://www.v2ex.com/t/811955)
+* [2021-10-31  [Apple] 原来 Applebot 就是 Googlebot，开眼了](https://www.v2ex.com/t/811954)
+* [2021-10-31  [JavaScript] 请教个 npm 组织创建的问题](https://www.v2ex.com/t/811953)
+* [2021-10-31  [Windows] OneDrive 自动把稳定版更新为预览版,导致同步出现问题](https://www.v2ex.com/t/811952)
+* [2021-10-31  [职场话题] 10 月份公司裁员，面试了几家不尽人意...](https://www.v2ex.com/t/811938)
 * [2021-10-31  [程序员] 怎么让 Swagger UI 展示 @ApiResponse 的多个 examples？](https://www.v2ex.com/t/811951)
 * [2021-10-31  [问与答] yoga14s 在 jd、天猫、官网都不缺货，值得买吗？](https://www.v2ex.com/t/811950)
 * [2021-10-31  [Go 编程语言] 我们公司要做一个 Golang 技能标准，大佬们来出出主意](https://www.v2ex.com/t/811948)

@@ -291,6 +291,51 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 有啥外设可以使 iPhone 同时连 2 个非 AirPods 耳机么？",
+                "link": "https://www.v2ex.com/t/811962",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[分享发现] 灵光乍现，帮朋友把一幅画的中文介绍翻译成英文",
+                "link": "https://www.v2ex.com/t/811961",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[macOS] m1 pro 的正常温度是多少",
+                "link": "https://www.v2ex.com/t/811959",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[Android] 如何绕过 HSBC China（中国汇丰银行）的 root 检查？",
+                "link": "https://www.v2ex.com/t/811958",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[Python] fastapi 收到一个 http 请求后，就创建一个新的 Thread，去执行一个机器学习模型代码，这块代码是我不懂也不可控的。我想知道有没有办法，可以控制杀死这个线程及所有相关的线程。",
+                "link": "https://www.v2ex.com/t/811955",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[Apple] 原来 Applebot 就是 Googlebot，开眼了",
+                "link": "https://www.v2ex.com/t/811954",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[JavaScript] 请教个 npm 组织创建的问题",
+                "link": "https://www.v2ex.com/t/811953",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[Windows] OneDrive 自动把稳定版更新为预览版,导致同步出现问题",
+                "link": "https://www.v2ex.com/t/811952",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[职场话题] 10 月份公司裁员，面试了几家不尽人意...",
+                "link": "https://www.v2ex.com/t/811938",
+                "published": "2021-10-31"
+            },
+            {
                 "title": "[程序员] 怎么让 Swagger UI 展示 @ApiResponse 的多个 examples？",
                 "link": "https://www.v2ex.com/t/811951",
                 "published": "2021-10-31"
@@ -8991,7 +9036,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 9
     },
     {
         "id": 3,
