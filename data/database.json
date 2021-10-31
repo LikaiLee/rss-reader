@@ -281,6 +281,51 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] m1 pro 上使用 surge3 的朋友有没有，安装扩展程序输入密码后一直请求密码，好像没有安装成功的样子",
+                "link": "https://www.v2ex.com/t/811844",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[分享发现] IPFS 技术有人了解吗？",
+                "link": "https://www.v2ex.com/t/811843",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[酷工作] 华为 OD 招聘软件测试工程师，多地 base 可选",
+                "link": "https://www.v2ex.com/t/811842",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[Apple] iPhone13pm 连接 airpods pro 异常",
+                "link": "https://www.v2ex.com/t/811841",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[Apple] 一个更改 Safari 收藏里图标的想法（Apple Touch Icon）",
+                "link": "https://www.v2ex.com/t/811840",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[职场话题] #OFFER 选择，各位请指教！",
+                "link": "https://www.v2ex.com/t/811839",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] app store 绕开大陆 ip 模式 如何修改",
+                "link": "https://www.v2ex.com/t/811838",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] IPTV 盒子频道之间音量大小不统一",
+                "link": "https://www.v2ex.com/t/811837",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[职场话题] offer 决赛圈，都开奖了",
+                "link": "https://www.v2ex.com/t/811836",
+                "published": "2021-10-31"
+            },
+            {
                 "title": "[Apple] 你们购买(内购)过哪些 macOS 软件或 iOS App",
                 "link": "https://www.v2ex.com/t/811834",
                 "published": "2021-10-31"
@@ -8581,7 +8626,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 9
     },
     {
         "id": 3,

@@ -1,6 +1,15 @@
 # V2EX
 
 
+* [2021-10-31  [Apple] m1 pro 上使用 surge3 的朋友有没有，安装扩展程序输入密码后一直请求密码，好像没有安装成功的样子](https://www.v2ex.com/t/811844)
+* [2021-10-31  [分享发现] IPFS 技术有人了解吗？](https://www.v2ex.com/t/811843)
+* [2021-10-31  [酷工作] 华为 OD 招聘软件测试工程师，多地 base 可选](https://www.v2ex.com/t/811842)
+* [2021-10-31  [Apple] iPhone13pm 连接 airpods pro 异常](https://www.v2ex.com/t/811841)
+* [2021-10-31  [Apple] 一个更改 Safari 收藏里图标的想法（Apple Touch Icon）](https://www.v2ex.com/t/811840)
+* [2021-10-31  [职场话题] #OFFER 选择，各位请指教！](https://www.v2ex.com/t/811839)
+* [2021-10-31  [问与答] app store 绕开大陆 ip 模式 如何修改](https://www.v2ex.com/t/811838)
+* [2021-10-31  [问与答] IPTV 盒子频道之间音量大小不统一](https://www.v2ex.com/t/811837)
+* [2021-10-31  [职场话题] offer 决赛圈，都开奖了](https://www.v2ex.com/t/811836)
 * [2021-10-31  [Apple] 你们购买(内购)过哪些 macOS 软件或 iOS App](https://www.v2ex.com/t/811834)
 * [2021-10-30  [分享创造] 小作品：写了一个完全用 POSIX Shell 实现的迷你 JSON 解析器](https://www.v2ex.com/t/811831)
 * [2021-10-30  [酷工作] [物联网] [web] [嵌入式] 寻长期合作开发伙伴，已有项目](https://www.v2ex.com/t/811830)
