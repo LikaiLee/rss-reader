@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+5】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+9】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-10-31】 [macOS] IDEA 打开文件经常卡死，这是 IDEA 的问题，还是 macOS 的问题](https://www.v2ex.com/t/811882)
+* [【2021-10-31】 [问与答] win10 内测版本,今天要过期了,听说可能以后会打不开,应该从哪个通道升 win11?或者能不能继续使用这个版本呢?](https://www.v2ex.com/t/811881)
+* [【2021-10-31】 [分享发现] 记录一次乌龙求婚](https://www.v2ex.com/t/811880)
+* [【2021-10-31】 [MacBook Pro] MacBook Pro 2021 16“ 屏幕光晕问题](https://www.v2ex.com/t/811879)
+* [【2021-10-31】 [问与答] 跑滴滴真的如众人说的很赚钱吗？](https://www.v2ex.com/t/811876)
+* [【2021-10-31】 [MacBook Pro] 有朋友测过 M1 Pro/Max 外接 4K 屏幕下的性能及续航吗](https://www.v2ex.com/t/811874)
+* [【2021-10-31】 [macOS] 为什么 mac 系统使用 du 命令统计根目录的大小，结果比电脑硬盘的大小还要大](https://www.v2ex.com/t/811873)
+* [【2021-10-31】 [问与答] 很迷茫，如何找到适合自己深耕的技术方向](https://www.v2ex.com/t/811872)
+* [【2021-10-31】 [问与答] 请问，这种图是用什么软件画的？](https://www.v2ex.com/t/811871)
 * [【2021-10-31】 [MacBook Pro] 有买 mbp14 寸标配的朋友吗](https://www.v2ex.com/t/811870)
-* [【2021-10-31】 [iCloud] icloud 用美区，订阅与购买用国区](https://www.v2ex.com/t/811869)
-* [【2021-10-31】 [Apple] 关于 Macbook Pro 2011 款扩展 SSD 的想法](https://www.v2ex.com/t/811868)
-* [【2021-10-31】 [Apple] 苹果官网教育商店买 MacBook，钱突然退回来了，订单没变化](https://www.v2ex.com/t/811867)
-* [【2021-10-31】 [NAS] 威联通 453dmini 支持从 u 盘启动吗？](https://www.v2ex.com/t/811864)
-* [【2021-10-31】 [Mac mini] 想给 Mac Mini 买个 24 寸 4K 屏，想请各位老哥推荐](https://www.v2ex.com/t/811863)
-* [【2021-10-31】 [问与答] 跨国公司配的远程 win10 电脑如何压榨一下](https://www.v2ex.com/t/811861)
-* [【2021-10-31】 [深圳] 求取租房建议，工作在科兴](https://www.v2ex.com/t/811857)
-* [【2021-10-31】 [分享创造] 用 Python 的朋友快来，开源 pipyuan，快速修改 pip 的源，类似 node 里的 nrm](https://www.v2ex.com/t/811854)
-* [【2021-10-31】 [硬件] 跨设备复制文本的鼠标有哪些？(最好是不走局域网的，存在鼠标内的)](https://www.v2ex.com/t/811853)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-31 05:17:28
+:alarm_clock: 更新时间: 2021-10-31 06:23:27

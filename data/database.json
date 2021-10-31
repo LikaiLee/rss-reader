@@ -278,13 +278,58 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[macOS] IDEA 打开文件经常卡死，这是 IDEA 的问题，还是 macOS 的问题",
+                "link": "https://www.v2ex.com/t/811882",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] win10 内测版本,今天要过期了,听说可能以后会打不开,应该从哪个通道升 win11?或者能不能继续使用这个版本呢?",
+                "link": "https://www.v2ex.com/t/811881",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[分享发现] 记录一次乌龙求婚",
+                "link": "https://www.v2ex.com/t/811880",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[MacBook Pro] MacBook Pro 2021 16“ 屏幕光晕问题",
+                "link": "https://www.v2ex.com/t/811879",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] 跑滴滴真的如众人说的很赚钱吗？",
+                "link": "https://www.v2ex.com/t/811876",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[MacBook Pro] 有朋友测过 M1 Pro/Max 外接 4K 屏幕下的性能及续航吗",
+                "link": "https://www.v2ex.com/t/811874",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[macOS] 为什么 mac 系统使用 du 命令统计根目录的大小，结果比电脑硬盘的大小还要大",
+                "link": "https://www.v2ex.com/t/811873",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] 很迷茫，如何找到适合自己深耕的技术方向",
+                "link": "https://www.v2ex.com/t/811872",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] 请问，这种图是用什么软件画的？",
+                "link": "https://www.v2ex.com/t/811871",
+                "published": "2021-10-31"
+            },
             {
                 "title": "[MacBook Pro] 有买 mbp14 寸标配的朋友吗",
                 "link": "https://www.v2ex.com/t/811870",
@@ -8701,7 +8746,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 9
     },
     {
         "id": 3,

@@ -1,6 +1,15 @@
 # V2EX
 
 
+* [2021-10-31  [macOS] IDEA 打开文件经常卡死，这是 IDEA 的问题，还是 macOS 的问题](https://www.v2ex.com/t/811882)
+* [2021-10-31  [问与答] win10 内测版本,今天要过期了,听说可能以后会打不开,应该从哪个通道升 win11?或者能不能继续使用这个版本呢?](https://www.v2ex.com/t/811881)
+* [2021-10-31  [分享发现] 记录一次乌龙求婚](https://www.v2ex.com/t/811880)
+* [2021-10-31  [MacBook Pro] MacBook Pro 2021 16“ 屏幕光晕问题](https://www.v2ex.com/t/811879)
+* [2021-10-31  [问与答] 跑滴滴真的如众人说的很赚钱吗？](https://www.v2ex.com/t/811876)
+* [2021-10-31  [MacBook Pro] 有朋友测过 M1 Pro/Max 外接 4K 屏幕下的性能及续航吗](https://www.v2ex.com/t/811874)
+* [2021-10-31  [macOS] 为什么 mac 系统使用 du 命令统计根目录的大小，结果比电脑硬盘的大小还要大](https://www.v2ex.com/t/811873)
+* [2021-10-31  [问与答] 很迷茫，如何找到适合自己深耕的技术方向](https://www.v2ex.com/t/811872)
+* [2021-10-31  [问与答] 请问，这种图是用什么软件画的？](https://www.v2ex.com/t/811871)
 * [2021-10-31  [MacBook Pro] 有买 mbp14 寸标配的朋友吗](https://www.v2ex.com/t/811870)
 * [2021-10-31  [iCloud] icloud 用美区，订阅与购买用国区](https://www.v2ex.com/t/811869)
 * [2021-10-31  [Apple] 关于 Macbook Pro 2011 款扩展 SSD 的想法](https://www.v2ex.com/t/811868)
