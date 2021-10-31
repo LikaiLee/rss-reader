@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX)
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,7 @@
     </summary>
 
 
+* [【2021-10-31】 [问与答] 各大云服务商的新用户优惠是按电话号码还是身份证来确认的是否为新用户的?](https://www.v2ex.com/t/811983)
 * [【2021-10-31】 [MacBook Pro] 在等 16 Max 发货，还是很担心长期合盖连显示器的电池寿命](https://www.v2ex.com/t/811982)
 * [【2021-10-31】 [Docker] [求助] docker nginx 404 Not Found 问题](https://www.v2ex.com/t/811981)
 * [【2021-10-31】 [问与答] 有什么办法申请阿里云免费的 ecs 主机吗？比如赞助？或者别的？](https://www.v2ex.com/t/811980)
@@ -56,7 +57,6 @@
 * [【2021-10-31】 [酷工作] [米哈游] [上海、新加坡、蒙特利尔、日本、韩国、美国] 11 月最新岗位~](https://www.v2ex.com/t/811975)
 * [【2021-10-31】 [天黑以后] 20211101 午夜俱乐部](https://www.v2ex.com/t/811974)
 * [【2021-10-31】 [程序员] 有没有熬夜小组？](https://www.v2ex.com/t/811973)
-* [【2021-10-31】 [问与答] 请问 window 上有什么好用的番茄钟，带生产力报告的](https://www.v2ex.com/t/811972)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-31 21:16:58
+:alarm_clock: 更新时间: 2021-10-31 22:19:10

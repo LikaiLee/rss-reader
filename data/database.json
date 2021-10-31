@@ -291,6 +291,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 各大云服务商的新用户优惠是按电话号码还是身份证来确认的是否为新用户的?",
+                "link": "https://www.v2ex.com/t/811983",
+                "published": "2021-10-31"
+            },
+            {
                 "title": "[MacBook Pro] 在等 16 Max 发货，还是很担心长期合盖连显示器的电池寿命",
                 "link": "https://www.v2ex.com/t/811982",
                 "published": "2021-10-31"
@@ -9121,7 +9126,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 3,
