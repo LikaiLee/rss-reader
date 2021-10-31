@@ -291,6 +291,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 有没有 daily update 的 NLP 信息流推荐啊",
+                "link": "https://www.v2ex.com/t/811934",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] 后端跑程序，写入一些日志，然后前端“实时”展示，比较好的方案是啥",
+                "link": "https://www.v2ex.com/t/811933",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[Apple] 新加坡教育优惠怎么验证？",
+                "link": "https://www.v2ex.com/t/811932",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] 13p 256 黑 在澳门银河会有现货吗？",
+                "link": "https://www.v2ex.com/t/811930",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[推广] [阿里云双十一大促开启] 2021 年最低价 0 点开启，来领券买买买了",
+                "link": "https://www.v2ex.com/t/811928",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] 关于 ESP32--蓝牙问题",
+                "link": "https://www.v2ex.com/t/811927",
+                "published": "2021-10-31"
+            },
+            {
+                "title": "[问与答] 求占地面积小的 ATX 机箱推荐",
+                "link": "https://www.v2ex.com/t/811926",
+                "published": "2021-10-31"
+            },
+            {
                 "title": "[问与答] 腾讯云 CLB 涨价了，成本翻了几十倍，有什么替代方法吗？",
                 "link": "https://www.v2ex.com/t/811925",
                 "published": "2021-10-31"
@@ -8911,7 +8946,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 7
     },
     {
         "id": 3,

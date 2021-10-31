@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+9】
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-10-31】 [程序员] 有没有 daily update 的 NLP 信息流推荐啊](https://www.v2ex.com/t/811934)
+* [【2021-10-31】 [问与答] 后端跑程序，写入一些日志，然后前端“实时”展示，比较好的方案是啥](https://www.v2ex.com/t/811933)
+* [【2021-10-31】 [Apple] 新加坡教育优惠怎么验证？](https://www.v2ex.com/t/811932)
+* [【2021-10-31】 [问与答] 13p 256 黑 在澳门银河会有现货吗？](https://www.v2ex.com/t/811930)
+* [【2021-10-31】 [推广] [阿里云双十一大促开启] 2021 年最低价 0 点开启，来领券买买买了](https://www.v2ex.com/t/811928)
+* [【2021-10-31】 [问与答] 关于 ESP32--蓝牙问题](https://www.v2ex.com/t/811927)
+* [【2021-10-31】 [问与答] 求占地面积小的 ATX 机箱推荐](https://www.v2ex.com/t/811926)
 * [【2021-10-31】 [问与答] 腾讯云 CLB 涨价了，成本翻了几十倍，有什么替代方法吗？](https://www.v2ex.com/t/811925)
 * [【2021-10-31】 [ WATCH] Apple Watch Series 7 Nike 版 45 毫米是停产了吗？苹果官网已经无法购买了。。。](https://www.v2ex.com/t/811924)
 * [【2021-10-31】 [macOS] 升级 Monterey 之后旧版 pkg 装不了了，有没有办法强制安装？](https://www.v2ex.com/t/811923)
-* [【2021-10-31】 [优惠信息] 日亚 SanDisk CZ880 1TB 镇店之宝活动，含税 840](https://www.v2ex.com/t/811922)
-* [【2021-10-31】 [MacBook Pro] 今天一冲动去门店自提了 Macbook pro 14，然后 19 年 16 寸闲置了](https://www.v2ex.com/t/811921)
-* [【2021-10-31】 [Apple] Apple Watch 上的微信总是发不出消息怎么破?](https://www.v2ex.com/t/811920)
-* [【2021-10-31】 [Haskell] GHC 9.2 发布了](https://www.v2ex.com/t/811919)
-* [【2021-10-31】 [GitHub] Github 万圣节彩蛋](https://www.v2ex.com/t/811918)
-* [【2021-10-31】 [Visual Studio Code] 大家来讨论一下使用 vscode 和 goland 做 go 开发的感受](https://www.v2ex.com/t/811917)
-* [【2021-10-31】 [macOS] macOS12 续航崩了](https://www.v2ex.com/t/811916)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-10-31 11:16:27
+:alarm_clock: 更新时间: 2021-10-31 12:30:26
