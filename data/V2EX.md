@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-10-31  [MacBook Pro] 在等 16 Max 发货，还是很担心长期合盖连显示器的电池寿命](https://www.v2ex.com/t/811982)
 * [2021-10-31  [Docker] [求助] docker nginx 404 Not Found 问题](https://www.v2ex.com/t/811981)
 * [2021-10-31  [问与答] 有什么办法申请阿里云免费的 ecs 主机吗？比如赞助？或者别的？](https://www.v2ex.com/t/811980)
 * [2021-10-31  [Node.js] 巨石应用解决方案 ❌ 📦](https://www.v2ex.com/t/811979)

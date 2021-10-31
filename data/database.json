@@ -291,6 +291,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] 在等 16 Max 发货，还是很担心长期合盖连显示器的电池寿命",
+                "link": "https://www.v2ex.com/t/811982",
+                "published": "2021-10-31"
+            },
+            {
                 "title": "[Docker] [求助] docker nginx 404 Not Found 问题",
                 "link": "https://www.v2ex.com/t/811981",
                 "published": "2021-10-31"
@@ -9116,7 +9121,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 3,
