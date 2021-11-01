@@ -336,6 +336,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] MacBook Pro 2021 14 寸 M1 Max 24 核 游戏及续航评测",
+                "link": "https://www.v2ex.com/t/812299",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 1Password 家庭车最后一个车位",
+                "link": "https://www.v2ex.com/t/812298",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 如何禁止 chrome/edge 指定插件自动更新？",
+                "link": "https://www.v2ex.com/t/812297",
+                "published": "2021-11-01"
+            },
+            {
                 "title": "[iOS] 订阅制，转，都可以转，但是 Notability 做的挺绝的",
                 "link": "https://www.v2ex.com/t/812296",
                 "published": "2021-11-01"
@@ -10351,7 +10366,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 3,

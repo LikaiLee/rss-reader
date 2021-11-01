@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-11-01  [MacBook Pro] MacBook Pro 2021 14 寸 M1 Max 24 核 游戏及续航评测](https://www.v2ex.com/t/812299)
+* [2021-11-01  [Apple] 1Password 家庭车最后一个车位](https://www.v2ex.com/t/812298)
+* [2021-11-01  [问与答] 如何禁止 chrome/edge 指定插件自动更新？](https://www.v2ex.com/t/812297)
 * [2021-11-01  [iOS] 订阅制，转，都可以转，但是 Notability 做的挺绝的](https://www.v2ex.com/t/812296)
 * [2021-11-01  [Vercel] vercel 限制使用代理软件访问？](https://www.v2ex.com/t/812295)
 * [2021-11-01  [问与答] iPad 有什么办法直接输入 HDMI 和网络？](https://www.v2ex.com/t/812293)

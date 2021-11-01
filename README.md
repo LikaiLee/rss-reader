@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX)
+* [V2EX](#V2EX) 【+3】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,9 @@
     </summary>
 
 
+* [【2021-11-01】 [MacBook Pro] MacBook Pro 2021 14 寸 M1 Max 24 核 游戏及续航评测](https://www.v2ex.com/t/812299)
+* [【2021-11-01】 [Apple] 1Password 家庭车最后一个车位](https://www.v2ex.com/t/812298)
+* [【2021-11-01】 [问与答] 如何禁止 chrome/edge 指定插件自动更新？](https://www.v2ex.com/t/812297)
 * [【2021-11-01】 [iOS] 订阅制，转，都可以转，但是 Notability 做的挺绝的](https://www.v2ex.com/t/812296)
 * [【2021-11-01】 [Vercel] vercel 限制使用代理软件访问？](https://www.v2ex.com/t/812295)
 * [【2021-11-01】 [问与答] iPad 有什么办法直接输入 HDMI 和网络？](https://www.v2ex.com/t/812293)
@@ -54,9 +57,6 @@
 * [【2021-11-01】 [Markdown] VLOOK 12！全面增强 Typora 编辑时特性，实用好用的 Markdown 主题包和增强插件](https://www.v2ex.com/t/812290)
 * [【2021-11-01】 [程序员] 究竟哪个是最适合 serverless 的语言和后端框架](https://www.v2ex.com/t/812287)
 * [【2021-11-01】 [Apple] [单纯好奇] 新版 macbook pro 用电源线分别连接磁吸充电口和雷电口，自己给自己充电?](https://www.v2ex.com/t/812286)
-* [【2021-11-01】 [Web Dev] 是否有效果接近 Apple 在线文档查看器的 Web 程序？](https://www.v2ex.com/t/812285)
-* [【2021-11-01】 [macOS] Parallels Desktop 17 双十一 7 折抢先购！](https://www.v2ex.com/t/812284)
-* [【2021-11-01】 [路由器] 不懂就问：在主路由和旁路由中间加上交换机，和旁路由直接连在主路由上有何不同吗？](https://www.v2ex.com/t/812282)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-01 19:16:15
+:alarm_clock: 更新时间: 2021-11-01 20:20:53
