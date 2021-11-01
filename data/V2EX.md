@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-11-01  [JavaScript] 请教一下，前端项目上，大家怎么调试引入的第三方的包的？](https://www.v2ex.com/t/812306)
+* [2021-11-01  [Go 编程语言] Goland 开源许可证一年到期还能续吗？](https://www.v2ex.com/t/812305)
+* [2021-11-01  [Kubernetes] 2021 版 Kubernetes 11 大开源利器](https://www.v2ex.com/t/812304)
 * [2021-11-01  [酷工作] 🚀🚀🚀 硅谷 Top 50 Startups 🔥🔥🔥100%远程+期权+双休+四周年假+各种福利补贴🌟🌟🌟](https://www.v2ex.com/t/812302)
 * [2021-11-01  [问与答] 迫于老年人记忆力,请问 Python 里两个判断可以有一个返回值吗？](https://www.v2ex.com/t/812301)
 * [2021-11-01  [MacBook Pro] MacBook Pro 2021 14 寸 M1 Max 24 核 游戏及续航评测](https://www.v2ex.com/t/812299)

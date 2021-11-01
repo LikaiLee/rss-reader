@@ -336,6 +336,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[JavaScript] 请教一下，前端项目上，大家怎么调试引入的第三方的包的？",
+                "link": "https://www.v2ex.com/t/812306",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Go 编程语言] Goland 开源许可证一年到期还能续吗？",
+                "link": "https://www.v2ex.com/t/812305",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Kubernetes] 2021 版 Kubernetes 11 大开源利器",
+                "link": "https://www.v2ex.com/t/812304",
+                "published": "2021-11-01"
+            },
+            {
                 "title": "[酷工作] 🚀🚀🚀 硅谷 Top 50 Startups 🔥🔥🔥100%远程+期权+双休+四周年假+各种福利补贴🌟🌟🌟",
                 "link": "https://www.v2ex.com/t/812302",
                 "published": "2021-11-01"
@@ -10376,7 +10391,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 3,
