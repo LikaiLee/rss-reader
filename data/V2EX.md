@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-11-01  [问与答] 良心云新用户 请问双十一怎么买最划算啊 有什么方案吗](https://www.v2ex.com/t/812291)
+* [2021-11-01  [Markdown] VLOOK 12！全面增强 Typora 编辑时特性，实用好用的 Markdown 主题包和增强插件](https://www.v2ex.com/t/812290)
 * [2021-11-01  [程序员] 究竟哪个是最适合 serverless 的语言和后端框架](https://www.v2ex.com/t/812287)
 * [2021-11-01  [Apple] [单纯好奇] 新版 macbook pro 用电源线分别连接磁吸充电口和雷电口，自己给自己充电?](https://www.v2ex.com/t/812286)
 * [2021-11-01  [Web Dev] 是否有效果接近 Apple 在线文档查看器的 Web 程序？](https://www.v2ex.com/t/812285)

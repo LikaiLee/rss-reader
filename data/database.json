@@ -336,6 +336,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 良心云新用户 请问双十一怎么买最划算啊 有什么方案吗",
+                "link": "https://www.v2ex.com/t/812291",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Markdown] VLOOK 12！全面增强 Typora 编辑时特性，实用好用的 Markdown 主题包和增强插件",
+                "link": "https://www.v2ex.com/t/812290",
+                "published": "2021-11-01"
+            },
+            {
                 "title": "[程序员] 究竟哪个是最适合 serverless 的语言和后端框架",
                 "link": "https://www.v2ex.com/t/812287",
                 "published": "2021-11-01"
@@ -10326,7 +10336,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 2
     },
     {
         "id": 3,
