@@ -326,6 +326,101 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[iPhone] 怎么防止 ios 音乐 app 自动清理文件",
+                "link": "https://www.v2ex.com/t/812228",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[求职] [求职] [广州] 四年 Java 后端开发",
+                "link": "https://www.v2ex.com/t/812226",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[iPhone] ios15.1 日历无法显示 通讯录中的生日",
+                "link": "https://www.v2ex.com/t/812225",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[投资] 想做副业或者转行的朋友可以点进来看一下，一个月赚一两万不太难。",
+                "link": "https://www.v2ex.com/t/812224",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] Java 后端，接私活，请问该怎么接",
+                "link": "https://www.v2ex.com/t/812223",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 在阿里云买了台服务器，在腾讯云买了个域名。",
+                "link": "https://www.v2ex.com/t/812221",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 换手机，二手 iPhone 12 和全新 13 选哪个",
+                "link": "https://www.v2ex.com/t/812220",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[酷工作] [广州荔枝-965-15 薪-内推] 高级 IOS 开发工程师",
+                "link": "https://www.v2ex.com/t/812219",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[iPhone] 你们有没有遇到 iOS15 后不开$ss Safari 无法打开网页？",
+                "link": "https://www.v2ex.com/t/812218",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 如何设计删除商品价格",
+                "link": "https://www.v2ex.com/t/812217",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Grafana] 大佬们，这条 promql 怎么写哇",
+                "link": "https://www.v2ex.com/t/812216",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[分享发现] 准备配的主机，往大神提提意见建议",
+                "link": "https://www.v2ex.com/t/812215",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[前端开发] 从 16 个方向逐步搭建基于 vue3 的前端架构",
+                "link": "https://www.v2ex.com/t/812214",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Electron] Chrome Extension 有办法和 Electron \"通信\"吗",
+                "link": "https://www.v2ex.com/t/812213",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 这波双 11，你买了什么电子产品？",
+                "link": "https://www.v2ex.com/t/812212",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[iOS] 和小伙伴开发了一个小工具 - 如期，避免囤货 浪费，会提醒临期过期。",
+                "link": "https://www.v2ex.com/t/812211",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[iPhone] iOS 15.1 低电量模式 bug?",
+                "link": "https://www.v2ex.com/t/812210",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[分享发现] 破案了， CSDN 越来越恶心是因为来了某搜索引擎的高管",
+                "link": "https://www.v2ex.com/t/812209",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[macOS] MacOS\n更新最新的 12.01 后链接 VPN 后无法访问外网 \n只能微信和钉钉的收发\ndns 用的 114.114.114.114\n有大神帮忙解决一下吗",
+                "link": "https://www.v2ex.com/t/812208",
+                "published": "2021-11-01"
+            },
+            {
                 "title": "[程序员] 发几个西安 thoughtworks 澳洲业务线内推坑",
                 "link": "https://www.v2ex.com/t/812205",
                 "published": "2021-11-01"
@@ -10001,7 +10096,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 21
+        "new_feeds": 19
     },
     {
         "id": 3,
