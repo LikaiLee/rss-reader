@@ -301,6 +301,66 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] Hi 有小米的朋友吗,小米 pad 5 是否有计划送测 Netflix 做认证呀?",
+                "link": "https://www.v2ex.com/t/812154",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] macOS 连接 airpods，播放 Apple Music 的时候，出现俩耳机输出，这有啥区别呢？如图",
+                "link": "https://www.v2ex.com/t/812152",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] netty 作为客户端如何同步接收消息",
+                "link": "https://www.v2ex.com/t/812151",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[macOS] Monterey 下，在访达中使用 command+双击无法在新标签页打开文件夹",
+                "link": "https://www.v2ex.com/t/812150",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[iPhone] ios 15.2 最新 beta 版本 bug",
+                "link": "https://www.v2ex.com/t/812149",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 大家有经常用 VR 眼镜的吗？体验如何？",
+                "link": "https://www.v2ex.com/t/812148",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 月常：你在用的编辑器主题/配色？",
+                "link": "https://www.v2ex.com/t/812147",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[宽带症候群] 求推荐没有无线功能的硬路由器",
+                "link": "https://www.v2ex.com/t/812145",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 新 MBP14 寸 M1 选购及转码问题",
+                "link": "https://www.v2ex.com/t/812144",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[摄影] 摄影先提升技术还是设备？",
+                "link": "https://www.v2ex.com/t/812143",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 水果全家桶多口充电器问题",
+                "link": "https://www.v2ex.com/t/812142",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[全球工单系统] Foxmail 再也不修 bug 了么？",
+                "link": "https://www.v2ex.com/t/812140",
+                "published": "2021-11-01"
+            },
+            {
                 "title": "[硬件] 蚂蚁电竞的 4k 144Hz 49 寸带鱼屏能买吗？",
                 "link": "https://www.v2ex.com/t/812138",
                 "published": "2021-11-01"
@@ -9731,7 +9791,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 20
+        "new_feeds": 12
     },
     {
         "id": 3,
