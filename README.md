@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+19】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-01】 派评 | 近期值得关注的 App](https://sspai.com/post/69623)
 * [【2021-11-01】 如何更好地保护手机数据隐私？这 10 款 App 你可能用得上](https://sspai.com/post/69618)
 * [【2021-11-01】 互联网广告机器的新戏法：Google FLoC 科普](https://sspai.com/post/69617)
 * [【2021-11-01】 做好个人数据与隐私防护，从这份检查清单开始](https://sspai.com/post/56066)
@@ -37,7 +38,6 @@
 * [【2021-11-01】 派早报：个人信息保护法正式施行、微软成为全球市值最高的公司等](https://sspai.com/post/69605)
 * [【2021-10-31】 老款 iPhone 也能拍「微距」：专业相机应用 Halide 更新](https://sspai.com/post/69371)
 * [【2021-10-31】 看什么 · 特别篇丨在万圣节看恐怖片才是正经事](https://sspai.com/post/69583)
-* [【2021-10-30】 译文 | Tensor 之意不在「酒」：Google Silicon 团队专访，为你揭开定制芯片的秘密](https://sspai.com/post/69572)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-11-01】 [酷工作] Base 广州黄埔 CVTE 招聘 Flutter 开发](https://www.v2ex.com/t/812237)
+* [【2021-11-01】 [Apple] AirPods 要不要买 AC](https://www.v2ex.com/t/812235)
+* [【2021-11-01】 [成都] 成都有没有比较好的设计坑位， ui ux，求大佬推荐](https://www.v2ex.com/t/812233)
+* [【2021-11-01】 [酷工作] [上海 HC] #元宇宙#智能虚拟人#UGC+GPT-3#硅谷创业团队#寻找前端 Flutter/数据工程师👨🏻‍💻](https://www.v2ex.com/t/812232)
+* [【2021-11-01】 [macOS] ADguard 影响 mac 隔空投送功能](https://www.v2ex.com/t/812231)
+* [【2021-11-01】 [Python] M1 芯片的 Mac 笔记本用 Python 是否有老包无法调用的问题？](https://www.v2ex.com/t/812229)
+* [【2021-11-01】 [西安] 发几个西安 thoughtworks 澳洲业务线内推坑](https://www.v2ex.com/t/812205)
 * [【2021-11-01】 [iPhone] 怎么防止 ios 音乐 app 自动清理文件](https://www.v2ex.com/t/812228)
 * [【2021-11-01】 [求职] [求职] [广州] 四年 Java 后端开发](https://www.v2ex.com/t/812226)
 * [【2021-11-01】 [iPhone] ios15.1 日历无法显示 通讯录中的生日](https://www.v2ex.com/t/812225)
-* [【2021-11-01】 [投资] 想做副业或者转行的朋友可以点进来看一下，一个月赚一两万不太难。](https://www.v2ex.com/t/812224)
-* [【2021-11-01】 [程序员] Java 后端，接私活，请问该怎么接](https://www.v2ex.com/t/812223)
-* [【2021-11-01】 [问与答] 在阿里云买了台服务器，在腾讯云买了个域名。](https://www.v2ex.com/t/812221)
-* [【2021-11-01】 [Apple] 换手机，二手 iPhone 12 和全新 13 选哪个](https://www.v2ex.com/t/812220)
-* [【2021-11-01】 [酷工作] [广州荔枝-965-15 薪-内推] 高级 IOS 开发工程师](https://www.v2ex.com/t/812219)
-* [【2021-11-01】 [iPhone] 你们有没有遇到 iOS15 后不开$ss Safari 无法打开网页？](https://www.v2ex.com/t/812218)
-* [【2021-11-01】 [问与答] 如何设计删除商品价格](https://www.v2ex.com/t/812217)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-01 10:22:46
+:alarm_clock: 更新时间: 2021-11-01 11:16:43
