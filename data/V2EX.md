@@ -1,6 +1,17 @@
 # V2EX
 
 
+* [2021-11-01  [问与答] 求一个网络解决方案](https://www.v2ex.com/t/812280)
+* [2021-11-01  [NGINX] MacOS - brew 里运行 nginx 和直接运行 nginx ，有什么区别吗？](https://www.v2ex.com/t/812279)
+* [2021-11-01  [Apple] Mac 系统网络添加 L2TP 后连接成功却无法访问内网](https://www.v2ex.com/t/812278)
+* [2021-11-01  [问与答] 看了几天暗黑模式的网页，发现视力有点模糊，有没有相同经历的？](https://www.v2ex.com/t/812277)
+* [2021-11-01  [DNS] 阿里的公共 DNS 地址](https://www.v2ex.com/t/812276)
+* [2021-11-01  [iPhone] 退役下来的 iPhone 7P 有啥用](https://www.v2ex.com/t/812274)
+* [2021-11-01  [问与答] 弱电到客厅只有一根网线怎么处理？](https://www.v2ex.com/t/812273)
+* [2021-11-01  [Apple] Mac 下有什么还用的 ssh 工具吗](https://www.v2ex.com/t/812272)
+* [2021-11-01  [程序员] 刚刚接触 vue 麻烦问一个 bug](https://www.v2ex.com/t/812271)
+* [2021-11-01  [宽带症候群] 上海联通换电信的第一天，想他](https://www.v2ex.com/t/812270)
+* [2021-11-01  [macOS] 才发现 jitouch 已经开源了](https://www.v2ex.com/t/812268)
 * [2021-11-01  [生活] 感觉生活好单调](https://www.v2ex.com/t/812264)
 * [2021-11-01  [MacBook Pro] 2019 MBP16 升级 Monterey 后 盒盖发热严重](https://www.v2ex.com/t/812263)
 * [2021-11-01  [奇思妙想] 厕所的故事](https://www.v2ex.com/t/812262)
