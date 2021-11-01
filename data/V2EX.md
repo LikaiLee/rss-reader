@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-11-01  [iOS] 订阅制，转，都可以转，但是 Notability 做的挺绝的](https://www.v2ex.com/t/812296)
+* [2021-11-01  [Vercel] vercel 限制使用代理软件访问？](https://www.v2ex.com/t/812295)
+* [2021-11-01  [问与答] iPad 有什么办法直接输入 HDMI 和网络？](https://www.v2ex.com/t/812293)
 * [2021-11-01  [问与答] 良心云新用户 请问双十一怎么买最划算啊 有什么方案吗](https://www.v2ex.com/t/812291)
 * [2021-11-01  [Markdown] VLOOK 12！全面增强 Typora 编辑时特性，实用好用的 Markdown 主题包和增强插件](https://www.v2ex.com/t/812290)
 * [2021-11-01  [程序员] 究竟哪个是最适合 serverless 的语言和后端框架](https://www.v2ex.com/t/812287)

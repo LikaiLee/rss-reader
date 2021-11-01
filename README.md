@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+3】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,9 @@
     </summary>
 
 
+* [【2021-11-01】 [iOS] 订阅制，转，都可以转，但是 Notability 做的挺绝的](https://www.v2ex.com/t/812296)
+* [【2021-11-01】 [Vercel] vercel 限制使用代理软件访问？](https://www.v2ex.com/t/812295)
+* [【2021-11-01】 [问与答] iPad 有什么办法直接输入 HDMI 和网络？](https://www.v2ex.com/t/812293)
 * [【2021-11-01】 [问与答] 良心云新用户 请问双十一怎么买最划算啊 有什么方案吗](https://www.v2ex.com/t/812291)
 * [【2021-11-01】 [Markdown] VLOOK 12！全面增强 Typora 编辑时特性，实用好用的 Markdown 主题包和增强插件](https://www.v2ex.com/t/812290)
 * [【2021-11-01】 [程序员] 究竟哪个是最适合 serverless 的语言和后端框架](https://www.v2ex.com/t/812287)
@@ -54,9 +57,6 @@
 * [【2021-11-01】 [Web Dev] 是否有效果接近 Apple 在线文档查看器的 Web 程序？](https://www.v2ex.com/t/812285)
 * [【2021-11-01】 [macOS] Parallels Desktop 17 双十一 7 折抢先购！](https://www.v2ex.com/t/812284)
 * [【2021-11-01】 [路由器] 不懂就问：在主路由和旁路由中间加上交换机，和旁路由直接连在主路由上有何不同吗？](https://www.v2ex.com/t/812282)
-* [【2021-11-01】 [问与答] scrapy 怎么管理大量的 spider 啊？](https://www.v2ex.com/t/812281)
-* [【2021-11-01】 [Vue.js] 刚刚接触 vue 麻烦问一个 bug](https://www.v2ex.com/t/812271)
-* [【2021-11-01】 [问与答] 求一个网络解决方案](https://www.v2ex.com/t/812280)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-01 17:25:22
+:alarm_clock: 更新时间: 2021-11-01 18:23:55
