@@ -288,13 +288,93 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[程序员] github copilot 这个有人开始用了吗？",
+                "link": "https://www.v2ex.com/t/812072",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[分享创造] Hellohao 图像托管程序(图床) 重构版前后端分离开源项目",
+                "link": "https://www.v2ex.com/t/812070",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] AirPods 3 使用一周的感受",
+                "link": "https://www.v2ex.com/t/812069",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 怎么换绑 88vip 的饿了么？",
+                "link": "https://www.v2ex.com/t/812067",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 亲测 Mac 一直插电用就不会有电池损耗",
+                "link": "https://www.v2ex.com/t/812066",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[微信] Google Play 版微信无故被封",
+                "link": "https://www.v2ex.com/t/812065",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] 360 浏览器真垃圾，「强制极速模式」功能还得跟它合作才有效",
+                "link": "https://www.v2ex.com/t/812064",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 迫于显卡， 1000w 电源求推荐",
+                "link": "https://www.v2ex.com/t/812063",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 在做测验系统中统计用户的答题时长时，如何防止用户用类似 postman 的方式去调用接口修改自己的答题时长（用户用自己的 token）",
+                "link": "https://www.v2ex.com/t/812062",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 求猫猫铲屎指南！求双十一猫猫囤货指南！",
+                "link": "https://www.v2ex.com/t/812059",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] js 能不能实现避免被 chrome、Firefox 扩展监听网页数据？",
+                "link": "https://www.v2ex.com/t/812058",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[全球工单系统] 百度网盘安装在 Program Files 目录系统限制读写权限后退出，无法正常使用",
+                "link": "https://www.v2ex.com/t/812057",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[推广] 腾讯云双 11 活动， 125 轻量 48 元/1 年起，续费 2 折起，可领代金券",
+                "link": "https://www.v2ex.com/t/812055",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[macOS]  macOS 系统降级后，微信不能自动登录",
+                "link": "https://www.v2ex.com/t/812051",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 现在有能用的 V2EX 安卓客户端吗",
+                "link": "https://www.v2ex.com/t/812050",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[编程] 有没有可以从两段 音频/视频 中，提取相同部分的项目？",
+                "link": "https://www.v2ex.com/t/812049",
+                "published": "2021-11-01"
+            },
             {
                 "title": "[程序员] 迫于颈椎痛不欲生，求推荐一款好用的人体工学椅.",
                 "link": "https://www.v2ex.com/t/812048",
@@ -9366,7 +9446,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 36
+        "new_feeds": 16
     },
     {
         "id": 3,
