@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-11-01  [问与答] 公积金贷款后，去新城市工作还能用新城市的公积金还款吗？](https://www.v2ex.com/t/812246)
+* [2021-11-01  [程序员] goland， pycharm 这些装了 vim 插件后，要怎么才能自定义 vim 的配置？](https://www.v2ex.com/t/812243)
+* [2021-11-01  [分享创造] 和小伙伴开发了 iOS 的 app - 如期，避免囤货 浪费，会提醒临期过期。](https://www.v2ex.com/t/812241)
+* [2021-11-01  [Chrome] Chrome 红了?](https://www.v2ex.com/t/812240)
+* [2021-11-01  [宽带症候群] 玩了下光纤熔接、冷接，还是挺有意思的哈哈](https://www.v2ex.com/t/812238)
 * [2021-11-01  [酷工作] Base 广州黄埔 CVTE 招聘 Flutter 开发](https://www.v2ex.com/t/812237)
 * [2021-11-01  [Apple] AirPods 要不要买 AC](https://www.v2ex.com/t/812235)
 * [2021-11-01  [成都] 成都有没有比较好的设计坑位， ui ux，求大佬推荐](https://www.v2ex.com/t/812233)
