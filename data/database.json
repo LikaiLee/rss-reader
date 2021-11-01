@@ -301,6 +301,106 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[硬件] 蚂蚁电竞的 4k 144Hz 49 寸带鱼屏能买吗？",
+                "link": "https://www.v2ex.com/t/812138",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] 请教一下， mac 上有类似飞鸽或者飞球的内网通讯工具吗",
+                "link": "https://www.v2ex.com/t/812137",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] 对于大多数程序员而言，努力的方向是否应该是高效编程而非高质量编程？",
+                "link": "https://www.v2ex.com/t/812136",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 想买 13pro，什么渠道合适呀",
+                "link": "https://www.v2ex.com/t/812135",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 16 寸 m1 pro mac 无法登陆 qq，一直超时",
+                "link": "https://www.v2ex.com/t/812132",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] Oracle Cloud 扣款成功，但还是注册失败，怎么搞？",
+                "link": "https://www.v2ex.com/t/812131",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 安卓装了微信 V8.0.15，突然给我提示说安装了 non-official app，封号了，怎么解决？",
+                "link": "https://www.v2ex.com/t/812130",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] 豆瓣登陆如何绕过手机验证码呀？",
+                "link": "https://www.v2ex.com/t/812127",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] [有趣] 使用 wget+proxy 能被 netfilter.org 识别到但是 curl 不会",
+                "link": "https://www.v2ex.com/t/812126",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[支付宝] 前两天，在支付宝被骗了 50 元... [常走湿鞋系列]",
+                "link": "https://www.v2ex.com/t/812125",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[macOS] 软件种类里的 Apple 和 Universal 有什么区别吗",
+                "link": "https://www.v2ex.com/t/812124",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 现在入手 M1 的 Mac Mini 合适么？",
+                "link": "https://www.v2ex.com/t/812123",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] Java web 想转游戏开发有前途吗？",
+                "link": "https://www.v2ex.com/t/812122",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 末代 16 寸 Intel Macbook Pro，不外接显示器的话噪音有多糟？",
+                "link": "https://www.v2ex.com/t/812121",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[分享发现] 手不用放桌面上也能用的鼠标",
+                "link": "https://www.v2ex.com/t/812120",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[MacBook Pro] 14 寸满血 M1 max 续航不行吗？",
+                "link": "https://www.v2ex.com/t/812119",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[电影] 想念布鲁斯南了",
+                "link": "https://www.v2ex.com/t/812118",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[ WATCH] 没有每月挑战奖章",
+                "link": "https://www.v2ex.com/t/812117",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Singapore] 问下 V2 的朋友,新加坡的生活环境怎么样",
+                "link": "https://www.v2ex.com/t/812108",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[信息安全] 公司服务器被攻击了！",
+                "link": "https://www.v2ex.com/t/812098",
+                "published": "2021-11-01"
+            },
+            {
                 "title": "[Apple] AirPods3 简单试戴体验",
                 "link": "https://www.v2ex.com/t/812116",
                 "published": "2021-11-01"
@@ -9631,7 +9731,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 22
+        "new_feeds": 20
     },
     {
         "id": 3,
