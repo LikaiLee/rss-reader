@@ -33,6 +33,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "如何更好地保护手机数据隐私？这 10 款 App 你可能用得上",
+                "link": "https://sspai.com/post/69618",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "互联网广告机器的新戏法：Google FLoC 科普",
+                "link": "https://sspai.com/post/69617",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "做好个人数据与隐私防护，从这份检查清单开始",
+                "link": "https://sspai.com/post/56066",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "今天开始，与你息息相关：个人信息保护法亮点详解",
+                "link": "https://sspai.com/post/69615",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "个人信息保护法正式施行，隐私安全新篇章由此开启",
+                "link": "https://sspai.com/post/69609",
+                "published": "2021-11-01"
+            },
+            {
                 "title": "为你带来 1 款「迷你」新周边以及 10+ 款新 iPhone 用得上的配件",
                 "link": "https://sspai.com/post/69592",
                 "published": "2021-11-01"
@@ -293,13 +318,93 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 5
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[程序员] Vite 真快啊 ESBuild 真强",
+                "link": "https://www.v2ex.com/t/812178",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] 氚云的开放接口，一言难尽",
+                "link": "https://www.v2ex.com/t/812176",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[机械键盘] ikbc 无线键盘卡顿到让人抓狂，再也不买这个牌子了，顺便问下有什么耐用的键盘推荐不",
+                "link": "https://www.v2ex.com/t/812173",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[MacBook Pro] MacBook Pro 无法使用 Dell Display Manager？",
+                "link": "https://www.v2ex.com/t/812172",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 怎么实现全局代理， TCP 和 UDP 都需要",
+                "link": "https://www.v2ex.com/t/812171",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[酷工作] [10k-20k]100%远程+双休+期权+各种福利 招募全职中/高级全栈工程师",
+                "link": "https://www.v2ex.com/t/812169",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 感觉这开放的 dns 数据还不错，老铁们用过吗？",
+                "link": "https://www.v2ex.com/t/812168",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 一个线上小程序，运行的好好的，早上还能审核通过发布，下午就不能审核通过了。",
+                "link": "https://www.v2ex.com/t/812167",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Visual Studio Code] VS Code Java 更新 – 全新 Gradle for Java 插件，更方便的代码操作, 1.0 语言支持发布",
+                "link": "https://www.v2ex.com/t/812165",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[iOS] 请教， iOS14 后的时钟小组件，是如何突破秒/分 的限制的？",
+                "link": "https://www.v2ex.com/t/812164",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] V2EX 新的 API",
+                "link": "https://www.v2ex.com/t/812163",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 新的 16 或者 14 寸 MBP，可以自行扩展存储空间么？",
+                "link": "https://www.v2ex.com/t/812162",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[MacBook Pro] 新 MBP， 16 gb 与 32 gb 内存真的区别不大吗？",
+                "link": "https://www.v2ex.com/t/812160",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[酷工作] [上海] 新产品上线了，招 Golang 后端小伙伴！",
+                "link": "https://www.v2ex.com/t/812159",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 了解电压电流计算的大佬帮忙看下我这样算对不对",
+                "link": "https://www.v2ex.com/t/812157",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[推广] 腾讯云阿里云双 11 活动开始了，超多优惠等你来！",
+                "link": "https://www.v2ex.com/t/812156",
+                "published": "2021-11-01"
+            },
             {
                 "title": "[问与答] Hi 有小米的朋友吗,小米 pad 5 是否有计划送测 Netflix 做认证呀?",
                 "link": "https://www.v2ex.com/t/812154",
@@ -9791,7 +9896,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 12
+        "new_feeds": 16
     },
     {
         "id": 3,

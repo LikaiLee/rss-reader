@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+12】
+* [少数派](#少数派) 【+5】
+* [V2EX](#V2EX) 【+16】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,16 +28,16 @@
     </summary>
 
 
+* [【2021-11-01】 如何更好地保护手机数据隐私？这 10 款 App 你可能用得上](https://sspai.com/post/69618)
+* [【2021-11-01】 互联网广告机器的新戏法：Google FLoC 科普](https://sspai.com/post/69617)
+* [【2021-11-01】 做好个人数据与隐私防护，从这份检查清单开始](https://sspai.com/post/56066)
+* [【2021-11-01】 今天开始，与你息息相关：个人信息保护法亮点详解](https://sspai.com/post/69615)
+* [【2021-11-01】 个人信息保护法正式施行，隐私安全新篇章由此开启](https://sspai.com/post/69609)
 * [【2021-11-01】 为你带来 1 款「迷你」新周边以及 10+ 款新 iPhone 用得上的配件](https://sspai.com/post/69592)
 * [【2021-11-01】 派早报：个人信息保护法正式施行、微软成为全球市值最高的公司等](https://sspai.com/post/69605)
 * [【2021-10-31】 老款 iPhone 也能拍「微距」：专业相机应用 Halide 更新](https://sspai.com/post/69371)
 * [【2021-10-31】 看什么 · 特别篇丨在万圣节看恐怖片才是正经事](https://sspai.com/post/69583)
 * [【2021-10-30】 译文 | Tensor 之意不在「酒」：Google Silicon 团队专访，为你揭开定制芯片的秘密](https://sspai.com/post/69572)
-* [【2021-10-29】 不到 200 元就能买到的好物，它让我的 iPad Pro 终于可以「物尽其用」](https://sspai.com/post/69548)
-* [【2021-10-30】 快到年底了，首批「适老化」应用能帮老人用好手机吗？](https://sspai.com/post/69521)
-* [【2021-10-29】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/69571)
-* [【2021-10-29】 双十一购物季，这些笔记本电脑值得你的关注](https://sspai.com/post/69569)
-* [【2021-10-29】 瞎玩菌的游戏周报：《神秘海域》电影公布预告、开罗游戏事件后续等](https://sspai.com/post/69557)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-01】 [问与答] Hi 有小米的朋友吗,小米 pad 5 是否有计划送测 Netflix 做认证呀?](https://www.v2ex.com/t/812154)
-* [【2021-11-01】 [Apple] macOS 连接 airpods，播放 Apple Music 的时候，出现俩耳机输出，这有啥区别呢？如图](https://www.v2ex.com/t/812152)
-* [【2021-11-01】 [程序员] netty 作为客户端如何同步接收消息](https://www.v2ex.com/t/812151)
-* [【2021-11-01】 [macOS] Monterey 下，在访达中使用 command+双击无法在新标签页打开文件夹](https://www.v2ex.com/t/812150)
-* [【2021-11-01】 [iPhone] ios 15.2 最新 beta 版本 bug](https://www.v2ex.com/t/812149)
-* [【2021-11-01】 [问与答] 大家有经常用 VR 眼镜的吗？体验如何？](https://www.v2ex.com/t/812148)
-* [【2021-11-01】 [问与答] 月常：你在用的编辑器主题/配色？](https://www.v2ex.com/t/812147)
-* [【2021-11-01】 [宽带症候群] 求推荐没有无线功能的硬路由器](https://www.v2ex.com/t/812145)
-* [【2021-11-01】 [问与答] 新 MBP14 寸 M1 选购及转码问题](https://www.v2ex.com/t/812144)
-* [【2021-11-01】 [摄影] 摄影先提升技术还是设备？](https://www.v2ex.com/t/812143)
+* [【2021-11-01】 [程序员] Vite 真快啊 ESBuild 真强](https://www.v2ex.com/t/812178)
+* [【2021-11-01】 [程序员] 氚云的开放接口，一言难尽](https://www.v2ex.com/t/812176)
+* [【2021-11-01】 [机械键盘] ikbc 无线键盘卡顿到让人抓狂，再也不买这个牌子了，顺便问下有什么耐用的键盘推荐不](https://www.v2ex.com/t/812173)
+* [【2021-11-01】 [MacBook Pro] MacBook Pro 无法使用 Dell Display Manager？](https://www.v2ex.com/t/812172)
+* [【2021-11-01】 [问与答] 怎么实现全局代理， TCP 和 UDP 都需要](https://www.v2ex.com/t/812171)
+* [【2021-11-01】 [酷工作] [10k-20k]100%远程+双休+期权+各种福利 招募全职中/高级全栈工程师](https://www.v2ex.com/t/812169)
+* [【2021-11-01】 [问与答] 感觉这开放的 dns 数据还不错，老铁们用过吗？](https://www.v2ex.com/t/812168)
+* [【2021-11-01】 [问与答] 一个线上小程序，运行的好好的，早上还能审核通过发布，下午就不能审核通过了。](https://www.v2ex.com/t/812167)
+* [【2021-11-01】 [Visual Studio Code] VS Code Java 更新 – 全新 Gradle for Java 插件，更方便的代码操作, 1.0 语言支持发布](https://www.v2ex.com/t/812165)
+* [【2021-11-01】 [iOS] 请教， iOS14 后的时钟小组件，是如何突破秒/分 的限制的？](https://www.v2ex.com/t/812164)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-01 07:19:50
+:alarm_clock: 更新时间: 2021-11-01 08:23:58

@@ -1,6 +1,22 @@
 # V2EX
 
 
+* [2021-11-01  [程序员] Vite 真快啊 ESBuild 真强](https://www.v2ex.com/t/812178)
+* [2021-11-01  [程序员] 氚云的开放接口，一言难尽](https://www.v2ex.com/t/812176)
+* [2021-11-01  [机械键盘] ikbc 无线键盘卡顿到让人抓狂，再也不买这个牌子了，顺便问下有什么耐用的键盘推荐不](https://www.v2ex.com/t/812173)
+* [2021-11-01  [MacBook Pro] MacBook Pro 无法使用 Dell Display Manager？](https://www.v2ex.com/t/812172)
+* [2021-11-01  [问与答] 怎么实现全局代理， TCP 和 UDP 都需要](https://www.v2ex.com/t/812171)
+* [2021-11-01  [酷工作] [10k-20k]100%远程+双休+期权+各种福利 招募全职中/高级全栈工程师](https://www.v2ex.com/t/812169)
+* [2021-11-01  [问与答] 感觉这开放的 dns 数据还不错，老铁们用过吗？](https://www.v2ex.com/t/812168)
+* [2021-11-01  [问与答] 一个线上小程序，运行的好好的，早上还能审核通过发布，下午就不能审核通过了。](https://www.v2ex.com/t/812167)
+* [2021-11-01  [Visual Studio Code] VS Code Java 更新 – 全新 Gradle for Java 插件，更方便的代码操作, 1.0 语言支持发布](https://www.v2ex.com/t/812165)
+* [2021-11-01  [iOS] 请教， iOS14 后的时钟小组件，是如何突破秒/分 的限制的？](https://www.v2ex.com/t/812164)
+* [2021-11-01  [程序员] V2EX 新的 API](https://www.v2ex.com/t/812163)
+* [2021-11-01  [Apple] 新的 16 或者 14 寸 MBP，可以自行扩展存储空间么？](https://www.v2ex.com/t/812162)
+* [2021-11-01  [MacBook Pro] 新 MBP， 16 gb 与 32 gb 内存真的区别不大吗？](https://www.v2ex.com/t/812160)
+* [2021-11-01  [酷工作] [上海] 新产品上线了，招 Golang 后端小伙伴！](https://www.v2ex.com/t/812159)
+* [2021-11-01  [问与答] 了解电压电流计算的大佬帮忙看下我这样算对不对](https://www.v2ex.com/t/812157)
+* [2021-11-01  [推广] 腾讯云阿里云双 11 活动开始了，超多优惠等你来！](https://www.v2ex.com/t/812156)
 * [2021-11-01  [问与答] Hi 有小米的朋友吗,小米 pad 5 是否有计划送测 Netflix 做认证呀?](https://www.v2ex.com/t/812154)
 * [2021-11-01  [Apple] macOS 连接 airpods，播放 Apple Music 的时候，出现俩耳机输出，这有啥区别呢？如图](https://www.v2ex.com/t/812152)
 * [2021-11-01  [程序员] netty 作为客户端如何同步接收消息](https://www.v2ex.com/t/812151)
