@@ -318,13 +318,118 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[程序员] 发几个西安 thoughtworks 澳洲业务线内推坑",
+                "link": "https://www.v2ex.com/t/812205",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[C] 在外网看到一个比较好玩的问题，一下没反应过来。",
+                "link": "https://www.v2ex.com/t/812204",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[分享发现] 百度在浏览器中频繁调用应用商店，特烦！",
+                "link": "https://www.v2ex.com/t/812203",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 还有人用 Fortran 吗，编译问题求教",
+                "link": "https://www.v2ex.com/t/812202",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[macOS] M1 降级只能通过 u 盘或者备份，不能通过网络安装吗",
+                "link": "https://www.v2ex.com/t/812200",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[酷工作] [955wlb][杭州][微策略]前端招聘",
+                "link": "https://www.v2ex.com/t/812199",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] pd 虚拟机每年都要 300 多么？最便宜的时候多少钱",
+                "link": "https://www.v2ex.com/t/812197",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[生活] 没有老人帮忙养小孩真是辛苦",
+                "link": "https://www.v2ex.com/t/812196",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Python] 询问大佬们一个 shell 脚本的问题",
+                "link": "https://www.v2ex.com/t/812195",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[macOS] 更新 macos monterey12.0.1 版本后，多了一个程序，类似安装包的东西，这个东西有个问号，而且无法删除，求怎么删除，看着好难受",
+                "link": "https://www.v2ex.com/t/812193",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] cors-rfc1918 偶然踩坑 chrome 实施的新的安全策略",
+                "link": "https://www.v2ex.com/t/812192",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[分享创造] 开源一款 iOS AI 相机 App：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等",
+                "link": "https://www.v2ex.com/t/812191",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 我打算建立一个个人网站，大家给点建议",
+                "link": "https://www.v2ex.com/t/812190",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Go 编程语言] golang map 并发读写竞争问题",
+                "link": "https://www.v2ex.com/t/812189",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Visual Studio Code] VS Code Java 更新 – 全新 Gradle for Java 插件，更方便的代码操作, 1.0 语言支持发布!",
+                "link": "https://www.v2ex.com/t/812188",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Android] android 手机有没有办法在来电的时候同时显示联系人和来电号码？",
+                "link": "https://www.v2ex.com/t/812186",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[MacBook Pro] 新款菜单栏的逻辑果然是固定高度，跟我预想的一样",
+                "link": "https://www.v2ex.com/t/812185",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 想问下各位城市里或者小区里有没有小区服务",
+                "link": "https://www.v2ex.com/t/812184",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 求推荐 Steam 适配手柄的休闲游戏，在 AppleTV 上连电视玩～",
+                "link": "https://www.v2ex.com/t/812183",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[macOS] Safari 怎么同时打开多个收藏夹页面？",
+                "link": "https://www.v2ex.com/t/812182",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[macOS] MacBook Pro 2015 更新 Monterey 提示“未找到更新”",
+                "link": "https://www.v2ex.com/t/812179",
+                "published": "2021-11-01"
+            },
             {
                 "title": "[程序员] Vite 真快啊 ESBuild 真强",
                 "link": "https://www.v2ex.com/t/812178",
@@ -9896,7 +10001,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 16
+        "new_feeds": 21
     },
     {
         "id": 3,

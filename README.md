@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
-* [V2EX](#V2EX) 【+16】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+21】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-01】 [程序员] Vite 真快啊 ESBuild 真强](https://www.v2ex.com/t/812178)
-* [【2021-11-01】 [程序员] 氚云的开放接口，一言难尽](https://www.v2ex.com/t/812176)
-* [【2021-11-01】 [机械键盘] ikbc 无线键盘卡顿到让人抓狂，再也不买这个牌子了，顺便问下有什么耐用的键盘推荐不](https://www.v2ex.com/t/812173)
-* [【2021-11-01】 [MacBook Pro] MacBook Pro 无法使用 Dell Display Manager？](https://www.v2ex.com/t/812172)
-* [【2021-11-01】 [问与答] 怎么实现全局代理， TCP 和 UDP 都需要](https://www.v2ex.com/t/812171)
-* [【2021-11-01】 [酷工作] [10k-20k]100%远程+双休+期权+各种福利 招募全职中/高级全栈工程师](https://www.v2ex.com/t/812169)
-* [【2021-11-01】 [问与答] 感觉这开放的 dns 数据还不错，老铁们用过吗？](https://www.v2ex.com/t/812168)
-* [【2021-11-01】 [问与答] 一个线上小程序，运行的好好的，早上还能审核通过发布，下午就不能审核通过了。](https://www.v2ex.com/t/812167)
-* [【2021-11-01】 [Visual Studio Code] VS Code Java 更新 – 全新 Gradle for Java 插件，更方便的代码操作, 1.0 语言支持发布](https://www.v2ex.com/t/812165)
-* [【2021-11-01】 [iOS] 请教， iOS14 后的时钟小组件，是如何突破秒/分 的限制的？](https://www.v2ex.com/t/812164)
+* [【2021-11-01】 [程序员] 发几个西安 thoughtworks 澳洲业务线内推坑](https://www.v2ex.com/t/812205)
+* [【2021-11-01】 [C] 在外网看到一个比较好玩的问题，一下没反应过来。](https://www.v2ex.com/t/812204)
+* [【2021-11-01】 [分享发现] 百度在浏览器中频繁调用应用商店，特烦！](https://www.v2ex.com/t/812203)
+* [【2021-11-01】 [问与答] 还有人用 Fortran 吗，编译问题求教](https://www.v2ex.com/t/812202)
+* [【2021-11-01】 [macOS] M1 降级只能通过 u 盘或者备份，不能通过网络安装吗](https://www.v2ex.com/t/812200)
+* [【2021-11-01】 [酷工作] [955wlb][杭州][微策略]前端招聘](https://www.v2ex.com/t/812199)
+* [【2021-11-01】 [Apple] pd 虚拟机每年都要 300 多么？最便宜的时候多少钱](https://www.v2ex.com/t/812197)
+* [【2021-11-01】 [生活] 没有老人帮忙养小孩真是辛苦](https://www.v2ex.com/t/812196)
+* [【2021-11-01】 [Python] 询问大佬们一个 shell 脚本的问题](https://www.v2ex.com/t/812195)
+* [【2021-11-01】 [macOS] 更新 macos monterey12.0.1 版本后，多了一个程序，类似安装包的东西，这个东西有个问号，而且无法删除，求怎么删除，看着好难受](https://www.v2ex.com/t/812193)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-01 08:23:58
+:alarm_clock: 更新时间: 2021-11-01 09:20:37
