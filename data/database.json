@@ -336,6 +336,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 究竟哪个是最适合 serverless 的语言和后端框架",
+                "link": "https://www.v2ex.com/t/812287",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] [单纯好奇] 新版 macbook pro 用电源线分别连接磁吸充电口和雷电口，自己给自己充电?",
+                "link": "https://www.v2ex.com/t/812286",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Web Dev] 是否有效果接近 Apple 在线文档查看器的 Web 程序？",
+                "link": "https://www.v2ex.com/t/812285",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[macOS] Parallels Desktop 17 双十一 7 折抢先购！",
+                "link": "https://www.v2ex.com/t/812284",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[路由器] 不懂就问：在主路由和旁路由中间加上交换机，和旁路由直接连在主路由上有何不同吗？",
+                "link": "https://www.v2ex.com/t/812282",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] scrapy 怎么管理大量的 spider 啊？",
+                "link": "https://www.v2ex.com/t/812281",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Vue.js] 刚刚接触 vue 麻烦问一个 bug",
+                "link": "https://www.v2ex.com/t/812271",
+                "published": "2021-11-01"
+            },
+            {
                 "title": "[问与答] 求一个网络解决方案",
                 "link": "https://www.v2ex.com/t/812280",
                 "published": "2021-11-01"
@@ -10291,7 +10326,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 7
     },
     {
         "id": 3,

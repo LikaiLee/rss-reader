@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+11】
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-11-01】 [程序员] 究竟哪个是最适合 serverless 的语言和后端框架](https://www.v2ex.com/t/812287)
+* [【2021-11-01】 [Apple] [单纯好奇] 新版 macbook pro 用电源线分别连接磁吸充电口和雷电口，自己给自己充电?](https://www.v2ex.com/t/812286)
+* [【2021-11-01】 [Web Dev] 是否有效果接近 Apple 在线文档查看器的 Web 程序？](https://www.v2ex.com/t/812285)
+* [【2021-11-01】 [macOS] Parallels Desktop 17 双十一 7 折抢先购！](https://www.v2ex.com/t/812284)
+* [【2021-11-01】 [路由器] 不懂就问：在主路由和旁路由中间加上交换机，和旁路由直接连在主路由上有何不同吗？](https://www.v2ex.com/t/812282)
+* [【2021-11-01】 [问与答] scrapy 怎么管理大量的 spider 啊？](https://www.v2ex.com/t/812281)
+* [【2021-11-01】 [Vue.js] 刚刚接触 vue 麻烦问一个 bug](https://www.v2ex.com/t/812271)
 * [【2021-11-01】 [问与答] 求一个网络解决方案](https://www.v2ex.com/t/812280)
 * [【2021-11-01】 [NGINX] MacOS - brew 里运行 nginx 和直接运行 nginx ，有什么区别吗？](https://www.v2ex.com/t/812279)
 * [【2021-11-01】 [Apple] Mac 系统网络添加 L2TP 后连接成功却无法访问内网](https://www.v2ex.com/t/812278)
-* [【2021-11-01】 [问与答] 看了几天暗黑模式的网页，发现视力有点模糊，有没有相同经历的？](https://www.v2ex.com/t/812277)
-* [【2021-11-01】 [DNS] 阿里的公共 DNS 地址](https://www.v2ex.com/t/812276)
-* [【2021-11-01】 [iPhone] 退役下来的 iPhone 7P 有啥用](https://www.v2ex.com/t/812274)
-* [【2021-11-01】 [问与答] 弱电到客厅只有一根网线怎么处理？](https://www.v2ex.com/t/812273)
-* [【2021-11-01】 [Apple] Mac 下有什么还用的 ssh 工具吗](https://www.v2ex.com/t/812272)
-* [【2021-11-01】 [程序员] 刚刚接触 vue 麻烦问一个 bug](https://www.v2ex.com/t/812271)
-* [【2021-11-01】 [宽带症候群] 上海联通换电信的第一天，想他](https://www.v2ex.com/t/812270)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-01 15:21:27
+:alarm_clock: 更新时间: 2021-11-01 16:29:37
