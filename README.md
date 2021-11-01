@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-01】 全新配色来了 ，正是入手的好时机：HomePod mini 体验分享](https://sspai.com/post/69624)
 * [【2021-11-01】 派评 | 近期值得关注的 App](https://sspai.com/post/69623)
 * [【2021-11-01】 如何更好地保护手机数据隐私？这 10 款 App 你可能用得上](https://sspai.com/post/69618)
 * [【2021-11-01】 互联网广告机器的新戏法：Google FLoC 科普](https://sspai.com/post/69617)
@@ -37,7 +38,6 @@
 * [【2021-11-01】 为你带来 1 款「迷你」新周边以及 10+ 款新 iPhone 用得上的配件](https://sspai.com/post/69592)
 * [【2021-11-01】 派早报：个人信息保护法正式施行、微软成为全球市值最高的公司等](https://sspai.com/post/69605)
 * [【2021-10-31】 老款 iPhone 也能拍「微距」：专业相机应用 Halide 更新](https://sspai.com/post/69371)
-* [【2021-10-31】 看什么 · 特别篇丨在万圣节看恐怖片才是正经事](https://sspai.com/post/69583)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-11-01】 [生活] 感觉生活好单调](https://www.v2ex.com/t/812264)
+* [【2021-11-01】 [MacBook Pro] 2019 MBP16 升级 Monterey 后 盒盖发热严重](https://www.v2ex.com/t/812263)
+* [【2021-11-01】 [奇思妙想] 厕所的故事](https://www.v2ex.com/t/812262)
+* [【2021-11-01】 [程序员] Vue3+Vite+TS 进行开发，一个组件里面引入别的组件的时候， VueRouter 提示 The requested module does not provide an export named 'default'](https://www.v2ex.com/t/812261)
+* [【2021-11-01】 [Apple] 彦祖们，我应该买 MacBook Pro 14' 还是 16' ？](https://www.v2ex.com/t/812257)
+* [【2021-11-01】 [问与答] 有支持两步验证的免费密码管理软件吗？](https://www.v2ex.com/t/812256)
+* [【2021-11-01】 [iOS] 怎么防止 ios 音乐 app 自动清理文件](https://www.v2ex.com/t/812228)
 * [【2021-11-01】 [Windows] 更新 windows11 后外放声音很小](https://www.v2ex.com/t/812254)
 * [【2021-11-01】 [酷工作] [美资大数据外企] 招聘前端/后端/大数据高级开发/架构师](https://www.v2ex.com/t/812253)
 * [【2021-11-01】 [酷工作] [远程/全职] Flutter/Golang/Mysql DBA/区块链开发/数值](https://www.v2ex.com/t/812252)
-* [【2021-11-01】 [硬件] 求推荐 低于 4000 的轻薄办公本](https://www.v2ex.com/t/812251)
-* [【2021-11-01】 [问与答] 核芯显卡和 CPU 抢电, 怎么办?](https://www.v2ex.com/t/812250)
-* [【2021-11-01】 [职场话题] 有老哥了解百度运维部吗？](https://www.v2ex.com/t/812249)
-* [【2021-11-01】 [iPhone] 苹果 13， 128G， 5427 入手，香吗](https://www.v2ex.com/t/812248)
-* [【2021-11-01】 [问与答] 公积金贷款后，去新城市工作还能用新城市的公积金还款吗？](https://www.v2ex.com/t/812246)
-* [【2021-11-01】 [程序员] goland， pycharm 这些装了 vim 插件后，要怎么才能自定义 vim 的配置？](https://www.v2ex.com/t/812243)
-* [【2021-11-01】 [分享创造] 和小伙伴开发了 iOS 的 app - 如期，避免囤货 浪费，会提醒临期过期。](https://www.v2ex.com/t/812241)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-01 13:25:31
+:alarm_clock: 更新时间: 2021-11-01 14:18:45

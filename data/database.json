@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "全新配色来了 ，正是入手的好时机：HomePod mini 体验分享",
+                "link": "https://sspai.com/post/69624",
+                "published": "2021-11-01"
+            },
+            {
                 "title": "派评 | 近期值得关注的 App",
                 "link": "https://sspai.com/post/69623",
                 "published": "2021-11-01"
@@ -323,13 +328,48 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[生活] 感觉生活好单调",
+                "link": "https://www.v2ex.com/t/812264",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[MacBook Pro] 2019 MBP16 升级 Monterey 后 盒盖发热严重",
+                "link": "https://www.v2ex.com/t/812263",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[奇思妙想] 厕所的故事",
+                "link": "https://www.v2ex.com/t/812262",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] Vue3+Vite+TS 进行开发，一个组件里面引入别的组件的时候， VueRouter 提示 The requested module does not provide an export named 'default'",
+                "link": "https://www.v2ex.com/t/812261",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 彦祖们，我应该买 MacBook Pro 14' 还是 16' ？",
+                "link": "https://www.v2ex.com/t/812257",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 有支持两步验证的免费密码管理软件吗？",
+                "link": "https://www.v2ex.com/t/812256",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[iOS] 怎么防止 ios 音乐 app 自动清理文件",
+                "link": "https://www.v2ex.com/t/812228",
+                "published": "2021-11-01"
+            },
             {
                 "title": "[Windows] 更新 windows11 后外放声音很小",
                 "link": "https://www.v2ex.com/t/812254",

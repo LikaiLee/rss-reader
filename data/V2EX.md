@@ -1,6 +1,13 @@
 # V2EX
 
 
+* [2021-11-01  [生活] 感觉生活好单调](https://www.v2ex.com/t/812264)
+* [2021-11-01  [MacBook Pro] 2019 MBP16 升级 Monterey 后 盒盖发热严重](https://www.v2ex.com/t/812263)
+* [2021-11-01  [奇思妙想] 厕所的故事](https://www.v2ex.com/t/812262)
+* [2021-11-01  [程序员] Vue3+Vite+TS 进行开发，一个组件里面引入别的组件的时候， VueRouter 提示 The requested module does not provide an export named 'default'](https://www.v2ex.com/t/812261)
+* [2021-11-01  [Apple] 彦祖们，我应该买 MacBook Pro 14' 还是 16' ？](https://www.v2ex.com/t/812257)
+* [2021-11-01  [问与答] 有支持两步验证的免费密码管理软件吗？](https://www.v2ex.com/t/812256)
+* [2021-11-01  [iOS] 怎么防止 ios 音乐 app 自动清理文件](https://www.v2ex.com/t/812228)
 * [2021-11-01  [Windows] 更新 windows11 后外放声音很小](https://www.v2ex.com/t/812254)
 * [2021-11-01  [酷工作] [美资大数据外企] 招聘前端/后端/大数据高级开发/架构师](https://www.v2ex.com/t/812253)
 * [2021-11-01  [酷工作] [远程/全职] Flutter/Golang/Mysql DBA/区块链开发/数值](https://www.v2ex.com/t/812252)
