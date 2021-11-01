@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：个人信息保护法正式施行、微软成为全球市值最高的公司等",
+                "link": "https://sspai.com/post/69605",
+                "published": "2021-11-01"
+            },
+            {
                 "title": "老款 iPhone 也能拍「微距」：专业相机应用 Halide 更新",
                 "link": "https://sspai.com/post/69371",
                 "published": "2021-10-31"
@@ -283,13 +288,193 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[程序员] 迫于颈椎痛不欲生，求推荐一款好用的人体工学椅.",
+                "link": "https://www.v2ex.com/t/812048",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[分享创造] 这里有星际 2 的玩家吗？做了个星际 2 排行榜",
+                "link": "https://www.v2ex.com/t/812047",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] AMD 的 CPU 现在使用会有什么 BUG 吗？",
+                "link": "https://www.v2ex.com/t/812044",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[git] 请问如何 在 github 上 把别人 还未合并 的 PR，合并到自己的 fork 上？",
+                "link": "https://www.v2ex.com/t/812043",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[NAS] 双十一购入威联通 453dmini nas, 亏没亏",
+                "link": "https://www.v2ex.com/t/812042",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[分享创造] A lite way to chat, discuss in real time.",
+                "link": "https://www.v2ex.com/t/812041",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[生活] 家装电线选什么品牌呢？",
+                "link": "https://www.v2ex.com/t/812039",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[macOS] mac 的触摸板和鼠标的“滚动方向：自然”选项是一起的？",
+                "link": "https://www.v2ex.com/t/812038",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Linux] 银河 kylin 如何安装 suricata。",
+                "link": "https://www.v2ex.com/t/812037",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[reddit] reddit 的回复数对不上是被过滤了吗？",
+                "link": "https://www.v2ex.com/t/812034",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[MacBook Pro] MBP 14 屏幕翻车",
+                "link": "https://www.v2ex.com/t/812033",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[支付宝] 昨天被支付宝客服威胁改资料",
+                "link": "https://www.v2ex.com/t/812030",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[硬件] 双 11 有什么显示器推荐？",
+                "link": "https://www.v2ex.com/t/812029",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 你们的 iPhone 用什么无线充电板，求推荐一个",
+                "link": "https://www.v2ex.com/t/812028",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[分享发现] Electron 桌面应用的代码签名搞定了，分享下给大家",
+                "link": "https://www.v2ex.com/t/812026",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[微信] iPhone 微信双开求助",
+                "link": "https://www.v2ex.com/t/812025",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Android] 音频变速 | libsonic 开源库的介绍与实践",
+                "link": "https://www.v2ex.com/t/812024",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 请问下， jetbrains 全家桶一年当中有优惠日期节点吗？",
+                "link": "https://www.v2ex.com/t/812023",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[macOS] 新款 M1 pro 16 寸 Monterey 系统，控制中心占用内存过大",
+                "link": "https://www.v2ex.com/t/812022",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 用华强北技术把 19 款 16 寸内存升级到 64G 了",
+                "link": "https://www.v2ex.com/t/812021",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[MacBook Pro] 2021mbp 内存真是占用疯狂",
+                "link": "https://www.v2ex.com/t/812019",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 求助大佬们：有没有支持公众号、知乎、豆瓣日记、bilibili 专栏发文的 Markdown 编辑器？",
+                "link": "https://www.v2ex.com/t/812018",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 升级 Monterey 之后遇到一个诡异的 bug",
+                "link": "https://www.v2ex.com/t/812016",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 年常一问,今年黑五有啥推荐买的咩?",
+                "link": "https://www.v2ex.com/t/812015",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 15.1 系统，微信现在不读相册，改为每次读定位了吗",
+                "link": "https://www.v2ex.com/t/812014",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 贴上了 Apple Watch 7 贴膜，跟大家分享下下",
+                "link": "https://www.v2ex.com/t/812013",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 三亚免税店，现在可以购买新版 14 寸 Macbook pro 吗？ 丐版",
+                "link": "https://www.v2ex.com/t/812011",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[Apple] 升级 Monterey 之后 M1 MBA 功耗变高",
+                "link": "https://www.v2ex.com/t/812009",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[程序员] C++ 求职招聘群",
+                "link": "https://www.v2ex.com/t/812008",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[生活] 降温了，鼻炎患者或者过来人能进来交流一下病情吗",
+                "link": "https://www.v2ex.com/t/812006",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[反馈] 点击桌面版给帖子赞成和反对的按钮无反应，该功能是下架了吗？",
+                "link": "https://www.v2ex.com/t/812004",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 双十一，大家有没有宝物分享",
+                "link": "https://www.v2ex.com/t/812003",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[ WATCH] 大家的十一月挑战是什么？",
+                "link": "https://www.v2ex.com/t/812002",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 分享 2021 双十一你认为超值的东西？",
+                "link": "https://www.v2ex.com/t/812001",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[酷工作] 外包项目找安卓",
+                "link": "https://www.v2ex.com/t/811999",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 现在注册公司有什么简单低成本的方式吗？",
+                "link": "https://www.v2ex.com/t/811998",
+                "published": "2021-11-01"
+            },
             {
                 "title": "[问与答] 三亚免税店，现在可以购买新版 14 寸 Macbook pro，丐版",
                 "link": "https://www.v2ex.com/t/811997",
@@ -9181,7 +9366,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 36
     },
     {
         "id": 3,
