@@ -336,6 +336,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[酷工作] 🚀🚀🚀 硅谷 Top 50 Startups 🔥🔥🔥100%远程+期权+双休+四周年假+各种福利补贴🌟🌟🌟",
+                "link": "https://www.v2ex.com/t/812302",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 迫于老年人记忆力,请问 Python 里两个判断可以有一个返回值吗？",
+                "link": "https://www.v2ex.com/t/812301",
+                "published": "2021-11-01"
+            },
+            {
                 "title": "[MacBook Pro] MacBook Pro 2021 14 寸 M1 Max 24 核 游戏及续航评测",
                 "link": "https://www.v2ex.com/t/812299",
                 "published": "2021-11-01"
@@ -10366,7 +10376,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 3,

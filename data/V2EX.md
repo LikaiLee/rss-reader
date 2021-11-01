@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-11-01  [酷工作] 🚀🚀🚀 硅谷 Top 50 Startups 🔥🔥🔥100%远程+期权+双休+四周年假+各种福利补贴🌟🌟🌟](https://www.v2ex.com/t/812302)
+* [2021-11-01  [问与答] 迫于老年人记忆力,请问 Python 里两个判断可以有一个返回值吗？](https://www.v2ex.com/t/812301)
 * [2021-11-01  [MacBook Pro] MacBook Pro 2021 14 寸 M1 Max 24 核 游戏及续航评测](https://www.v2ex.com/t/812299)
 * [2021-11-01  [Apple] 1Password 家庭车最后一个车位](https://www.v2ex.com/t/812298)
 * [2021-11-01  [问与答] 如何禁止 chrome/edge 指定插件自动更新？](https://www.v2ex.com/t/812297)
