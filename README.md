@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+16】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+14】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-01】 为你带来 1 款「迷你」新周边以及 10+ 款新 iPhone 用得上的配件](https://sspai.com/post/69592)
 * [【2021-11-01】 派早报：个人信息保护法正式施行、微软成为全球市值最高的公司等](https://sspai.com/post/69605)
 * [【2021-10-31】 老款 iPhone 也能拍「微距」：专业相机应用 Halide 更新](https://sspai.com/post/69371)
 * [【2021-10-31】 看什么 · 特别篇丨在万圣节看恐怖片才是正经事](https://sspai.com/post/69583)
@@ -37,7 +38,6 @@
 * [【2021-10-29】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/69571)
 * [【2021-10-29】 双十一购物季，这些笔记本电脑值得你的关注](https://sspai.com/post/69569)
 * [【2021-10-29】 瞎玩菌的游戏周报：《神秘海域》电影公布预告、开罗游戏事件后续等](https://sspai.com/post/69557)
-* [【2021-10-29】 iPad Pro 又何必非要成为「MacBook Lite」](https://sspai.com/post/69548)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-01】 [程序员] github copilot 这个有人开始用了吗？](https://www.v2ex.com/t/812072)
-* [【2021-11-01】 [分享创造] Hellohao 图像托管程序(图床) 重构版前后端分离开源项目](https://www.v2ex.com/t/812070)
-* [【2021-11-01】 [Apple] AirPods 3 使用一周的感受](https://www.v2ex.com/t/812069)
-* [【2021-11-01】 [问与答] 怎么换绑 88vip 的饿了么？](https://www.v2ex.com/t/812067)
-* [【2021-11-01】 [Apple] 亲测 Mac 一直插电用就不会有电池损耗](https://www.v2ex.com/t/812066)
-* [【2021-11-01】 [微信] Google Play 版微信无故被封](https://www.v2ex.com/t/812065)
-* [【2021-11-01】 [程序员] 360 浏览器真垃圾，「强制极速模式」功能还得跟它合作才有效](https://www.v2ex.com/t/812064)
-* [【2021-11-01】 [问与答] 迫于显卡， 1000w 电源求推荐](https://www.v2ex.com/t/812063)
-* [【2021-11-01】 [问与答] 在做测验系统中统计用户的答题时长时，如何防止用户用类似 postman 的方式去调用接口修改自己的答题时长（用户用自己的 token）](https://www.v2ex.com/t/812062)
-* [【2021-11-01】 [问与答] 求猫猫铲屎指南！求双十一猫猫囤货指南！](https://www.v2ex.com/t/812059)
+* [【2021-11-01】 [问与答] VMware 中国商店是不是没了，总是跳转到美国商店](https://www.v2ex.com/t/812091)
+* [【2021-11-01】 [酷工作] 老板下场发红包啦🧧 推荐你身边的 Base 上海的技术大牛，加入 Wiredcraft 极客团队👏 无门槛💰8888 元推荐奖励等你来拿哦](https://www.v2ex.com/t/812089)
+* [【2021-11-01】 [哔哩哔哩] bilibili 压制工具压制后视频从竖屏变横屏](https://www.v2ex.com/t/812088)
+* [【2021-11-01】 [问与答] 我们的小孩真的需要上幼儿园吗？](https://www.v2ex.com/t/812085)
+* [【2021-11-01】 [程序员] 职级对标：互联网公司研发岗薪酬排行榜](https://www.v2ex.com/t/812083)
+* [【2021-11-01】 [问与答] 升级到安卓 12 的 Pixel5 能有办法用 5G 了么？](https://www.v2ex.com/t/812082)
+* [【2021-11-01】 [生活] 第一次出现焦虑症](https://www.v2ex.com/t/812081)
+* [【2021-11-01】 [Java] java8 println() 奇怪的问题](https://www.v2ex.com/t/812080)
+* [【2021-11-01】 [问与答] 双 11 2020M1 MBA 16+256/512 有没有好车啊 pdd 也行](https://www.v2ex.com/t/812079)
+* [【2021-11-01】 [问与答] 迫于即将接猫猫回家，有没有 HomeKit 摄像头推荐一下！](https://www.v2ex.com/t/812077)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-01 03:21:20
+:alarm_clock: 更新时间: 2021-11-01 04:26:25
