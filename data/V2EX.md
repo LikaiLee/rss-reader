@@ -1,6 +1,17 @@
 # V2EX
 
 
+* [2021-11-01  [问与答] 三亚免税店，现在可以购买新版 14 寸 Macbook pro，丐版](https://www.v2ex.com/t/811997)
+* [2021-11-01  [问与答] 准备双十一买电视，老哥们来点建议](https://www.v2ex.com/t/811995)
+* [2021-11-01  [问与答] 传说一级消防证挂靠后，一年能给 6-7 万，不知真假，有没有大佬了解的，求普及](https://www.v2ex.com/t/811994)
+* [2021-11-01  [MacBook Pro] 2021 M1 要不要听取别人的建议](https://www.v2ex.com/t/811993)
+* [2021-11-01  [问与答] 手机做主机使用是否可行？](https://www.v2ex.com/t/811992)
+* [2021-11-01  [ WATCH] 你们的 watch7 在支付宝上收能量和养小鸡会闪退吗?](https://www.v2ex.com/t/811991)
+* [2021-11-01  [Apple] 最新 2021Macbook pro 16 寸 m1pro 致命缺陷](https://www.v2ex.com/t/811989)
+* [2021-10-31  [宽带症候群] 上 10M 下 100M 和上 100M 下 10M 的宽带能否聚合](https://www.v2ex.com/t/811987)
+* [2021-10-31  [Apple] iOS 微信会拦截你在微信 App 内的截图，在使用微信快捷发送图片功能时候需要额外注意](https://www.v2ex.com/t/811986)
+* [2021-10-31  [程序员] xmake v2.5.9 发布，改进 C++20 模块，并支持 Nim, Keil MDK 和 Unity Build](https://www.v2ex.com/t/811985)
+* [2021-10-31  [iPhone] 大家是怎么解决多 eSIM 的需求？](https://www.v2ex.com/t/811984)
 * [2021-10-31  [问与答] 各大云服务商的新用户优惠是按电话号码还是身份证来确认的是否为新用户的?](https://www.v2ex.com/t/811983)
 * [2021-10-31  [MacBook Pro] 在等 16 Max 发货，还是很担心长期合盖连显示器的电池寿命](https://www.v2ex.com/t/811982)
 * [2021-10-31  [Docker] [求助] docker nginx 404 Not Found 问题](https://www.v2ex.com/t/811981)
