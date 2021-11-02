@@ -348,13 +348,33 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[职场话题] Offer 对比 求大佬们给个建议",
+                "link": "https://www.v2ex.com/t/812521",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[浏览器] chrome 的功能:\"复制指向突出显示的内容的链接\",也太恶心了,新版本还没办法关",
+                "link": "https://www.v2ex.com/t/812520",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Apple] Notability 无耻之极，老用户的一年订阅也是“假”订阅",
+                "link": "https://www.v2ex.com/t/812518",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[MacBook Pro] Macbook Pro16 寸的计划经济",
+                "link": "https://www.v2ex.com/t/812517",
+                "published": "2021-11-02"
+            },
             {
                 "title": "[MacBook] 全屏刘海显示菜单栏很舒服，可是。。。",
                 "link": "https://www.v2ex.com/t/812513",
@@ -11136,7 +11156,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 17
+        "new_feeds": 4
     },
     {
         "id": 3,
@@ -11579,6 +11599,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     }
 ]

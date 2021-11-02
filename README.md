@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+17】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+4】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -47,6 +47,10 @@
     </summary>
 
 
+* [【2021-11-02】 [职场话题] Offer 对比 求大佬们给个建议](https://www.v2ex.com/t/812521)
+* [【2021-11-02】 [浏览器] chrome 的功能:"复制指向突出显示的内容的链接",也太恶心了,新版本还没办法关](https://www.v2ex.com/t/812520)
+* [【2021-11-02】 [Apple] Notability 无耻之极，老用户的一年订阅也是“假”订阅](https://www.v2ex.com/t/812518)
+* [【2021-11-02】 [MacBook Pro] Macbook Pro16 寸的计划经济](https://www.v2ex.com/t/812517)
 * [【2021-11-02】 [MacBook] 全屏刘海显示菜单栏很舒服，可是。。。](https://www.v2ex.com/t/812513)
 * [【2021-11-02】 [酷工作] 上海叠纸，海量职位，速来！校招，社招都有哦！
 待遇好，福利棒，全额补充公积金，免费早餐， base16！](https://www.v2ex.com/t/812512)
@@ -54,10 +58,6 @@
 * [【2021-11-02】 [酷工作] Seattle Fast-growing Startup -- PIPE17 is HIRING ! Back-end Engineer 不要犹豫，在这工作很带劲儿！](https://www.v2ex.com/t/812510)
 * [【2021-11-02】 [硬件] 预算 2k 以下有显示器推荐吗？](https://www.v2ex.com/t/812509)
 * [【2021-11-02】 [Vue.js] 不会现在还有人要兼容 ie9 吧,分享下 vite 打包 vue2 兼容到 ie9 的方法](https://www.v2ex.com/t/812508)
-* [【2021-11-02】 [问与答] 又要屯粮？只谈 how 不谈 why](https://www.v2ex.com/t/812507)
-* [【2021-11-02】 [React] 请教一下，如何拖动一个 bar，来 resize 上下两个区域？](https://www.v2ex.com/t/812506)
-* [【2021-11-02】 [游戏开发] 玩了几天链游后，我思考了 3 个问题。也许区块链游戏可能是游戏开发者的另外一个蓝海](https://www.v2ex.com/t/812505)
-* [【2021-11-02】 [程序员] APUE 第二版中有哪些概念是过时的？](https://www.v2ex.com/t/812504)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-02 09:19:51
+:alarm_clock: 更新时间: 2021-11-02 10:22:08
