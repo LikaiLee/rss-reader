@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-11-02  [Apple] 感觉 AirPods 系列的查找功能就是个摆设……](https://www.v2ex.com/t/812593)
+* [2021-11-02  [Blender] Blender Studio 的 2021 新电影 Sprite Fright](https://www.v2ex.com/t/812592)
+* [2021-11-02  [MacBook Pro] 记录一次在美国找 genius bar 的体验，专业程度令人大跌眼镜](https://www.v2ex.com/t/812591)
 * [2021-11-02  [分享发现] 发现微软拼音输入法的一个小彩蛋](https://www.v2ex.com/t/812590)
 * [2021-11-02  [macOS] Monterey Quicklook 双击现不再打开文件(?)](https://www.v2ex.com/t/812589)
 * [2021-11-02  [分享发现] 给大学时自己的忠告建议?](https://www.v2ex.com/t/812588)

@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+1】
+* [V2EX](#V2EX) 【+3】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,9 @@
     </summary>
 
 
+* [【2021-11-02】 [Apple] 感觉 AirPods 系列的查找功能就是个摆设……](https://www.v2ex.com/t/812593)
+* [【2021-11-02】 [Blender] Blender Studio 的 2021 新电影 Sprite Fright](https://www.v2ex.com/t/812592)
+* [【2021-11-02】 [MacBook Pro] 记录一次在美国找 genius bar 的体验，专业程度令人大跌眼镜](https://www.v2ex.com/t/812591)
 * [【2021-11-02】 [分享发现] 发现微软拼音输入法的一个小彩蛋](https://www.v2ex.com/t/812590)
 * [【2021-11-02】 [macOS] Monterey Quicklook 双击现不再打开文件(?)](https://www.v2ex.com/t/812589)
 * [【2021-11-02】 [分享发现] 给大学时自己的忠告建议?](https://www.v2ex.com/t/812588)
@@ -54,9 +57,6 @@
 * [【2021-11-02】 [程序员] UUID 4 的重复概率是多少？](https://www.v2ex.com/t/812585)
 * [【2021-11-02】 [MacBook] 14' M1 Pro 日常工作情境小测（Angular、Unity）](https://www.v2ex.com/t/812583)
 * [【2021-11-02】 [硬件] computer-1](https://www.v2ex.com/t/812582)
-* [【2021-11-02】 [Android] Android12 升级](https://www.v2ex.com/t/812581)
-* [【2021-11-02】 [Apple] 新出的 Beats 耳机好牛啊](https://www.v2ex.com/t/812580)
-* [【2021-11-02】 [iOS] Notability 免费替代品 Collanote](https://www.v2ex.com/t/812578)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-02 21:17:21
+:alarm_clock: 更新时间: 2021-11-02 22:19:54

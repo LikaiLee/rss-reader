@@ -356,6 +356,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 感觉 AirPods 系列的查找功能就是个摆设……",
+                "link": "https://www.v2ex.com/t/812593",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Blender] Blender Studio 的 2021 新电影 Sprite Fright",
+                "link": "https://www.v2ex.com/t/812592",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[MacBook Pro] 记录一次在美国找 genius bar 的体验，专业程度令人大跌眼镜",
+                "link": "https://www.v2ex.com/t/812591",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "[分享发现] 发现微软拼音输入法的一个小彩蛋",
                 "link": "https://www.v2ex.com/t/812590",
                 "published": "2021-11-02"
@@ -11401,7 +11416,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 3,
