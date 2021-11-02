@@ -4,8 +4,8 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+20】
-* [知乎每日精选](#知乎每日精选)
+* [V2EX](#V2EX) 【+17】
+* [知乎每日精选](#知乎每日精选) 【+2】
 
 ## 文章链接
 
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-02】 想挑一台微单，除了双十一的好价你还需要了解什么？](https://sspai.com/post/69635)
 * [【2021-11-02】 知名 iPad 创作工具大更新，你可以在 Procreate 中进行 3D 绘画了](https://sspai.com/post/69630)
 * [【2021-11-02】 考物阁 01 | 我买了一块号称「世界最薄」的折叠键盘](https://sspai.com/post/69537)
 * [【2021-11-02】 派早报：Beats Fit Pro 正式公布，Google 将修复 Pixel 6 Pro 屏幕闪烁问题等](https://sspai.com/post/69631)
@@ -37,7 +38,6 @@
 * [【2021-11-01】 互联网广告机器的新戏法：Google FLoC 科普](https://sspai.com/post/69617)
 * [【2021-11-01】 做好个人数据与隐私防护，从这份检查清单开始](https://sspai.com/post/56066)
 * [【2021-11-01】 今天开始，与你息息相关：个人信息保护法亮点详解](https://sspai.com/post/69615)
-* [【2021-11-01】 个人信息保护法正式施行，隐私安全新篇章由此开启](https://sspai.com/post/69609)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,17 @@
     </summary>
 
 
-* [【2021-11-02】 [问与答] 看到最近有矿渣锐角云，捡垃圾拿来做 Linux 二奶机可好？](https://www.v2ex.com/t/812494)
-* [【2021-11-02】 [macOS] 请问 mac 切换程序会出现外放没声音,或者休眠也没声音是硬件问题还是软件问题](https://www.v2ex.com/t/812491)
-* [【2021-11-02】 [问与答] 微信群定时发信息功能，用的 wechaty 微信小秘书出问题了，还有类似的工具吗](https://www.v2ex.com/t/812490)
-* [【2021-11-02】 [问与答] 问一下站长大大。我可以在交易区发一个我的众筹的宣传不。](https://www.v2ex.com/t/812489)
-* [【2021-11-02】 [问与答] 人在北京望京，有驾校推荐吗？](https://www.v2ex.com/t/812488)
-* [【2021-11-02】 [问与答] Tabby 里 ProxyCommand 怎么用](https://www.v2ex.com/t/812487)
-* [【2021-11-02】 [问与答] 今天在多处看到发个人战备应急包，商务部喊储备物资，这是有什么情况吗？](https://www.v2ex.com/t/812486)
-* [【2021-11-02】 [北京] 迫于北漂，北京的宝子们，留一句对新晋北漂的忠告叭~~](https://www.v2ex.com/t/812485)
-* [【2021-11-02】 [macOS] Mac 端 Safari 老是限制 b 站的自动播放。](https://www.v2ex.com/t/812484)
-* [【2021-11-02】 [京东] 拼多多上买 iPhone13 质量有保证吗，比京东、天猫优惠还多，想买又不敢买，求指教](https://www.v2ex.com/t/812483)
+* [【2021-11-02】 [MacBook] 全屏刘海显示菜单栏很舒服，可是。。。](https://www.v2ex.com/t/812513)
+* [【2021-11-02】 [酷工作] 上海叠纸，海量职位，速来！校招，社招都有哦！
+待遇好，福利棒，全额补充公积金，免费早餐， base16！](https://www.v2ex.com/t/812512)
+* [【2021-11-02】 [酷工作] [Base 广州番禺][公司：经传多赢][岗位：数据库工程师][薪资： 10～ 15K， 13 薪， 15 薪， 17 薪三档，季度绩效]](https://www.v2ex.com/t/812511)
+* [【2021-11-02】 [酷工作] Seattle Fast-growing Startup -- PIPE17 is HIRING ! Back-end Engineer 不要犹豫，在这工作很带劲儿！](https://www.v2ex.com/t/812510)
+* [【2021-11-02】 [硬件] 预算 2k 以下有显示器推荐吗？](https://www.v2ex.com/t/812509)
+* [【2021-11-02】 [Vue.js] 不会现在还有人要兼容 ie9 吧,分享下 vite 打包 vue2 兼容到 ie9 的方法](https://www.v2ex.com/t/812508)
+* [【2021-11-02】 [问与答] 又要屯粮？只谈 how 不谈 why](https://www.v2ex.com/t/812507)
+* [【2021-11-02】 [React] 请教一下，如何拖动一个 bar，来 resize 上下两个区域？](https://www.v2ex.com/t/812506)
+* [【2021-11-02】 [游戏开发] 玩了几天链游后，我思考了 3 个问题。也许区块链游戏可能是游戏开发者的另外一个蓝海](https://www.v2ex.com/t/812505)
+* [【2021-11-02】 [程序员] APUE 第二版中有哪些概念是过时的？](https://www.v2ex.com/t/812504)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -66,6 +67,8 @@
     </summary>
 
 
+* [【2021-11-02】 中国实现连续丰收 18 年，你如何看待这一喜讯？「中国饭碗」到底有多硬？](http://www.zhihu.com/question/496056671/answer/2202456757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-11-02】 如何评价国产动画《识夜描银》？](http://www.zhihu.com/question/489702836/answer/2202420660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-02】 我国首部「个人信息保护法」实施，买卖个人信息最高可判七年，个人信息包括什么？这部法律有哪些积极意义？](http://www.zhihu.com/question/495846558/answer/2201845815?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-30】 2021 年 10 月国内有哪些「秋日限定」美景？](http://www.zhihu.com/question/491188382/answer/2160132383?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-30】 蔡澜「尽量地学习、尽量地经历、尽量地旅游、尽量地吃好东西、人生就比较美好一点」，你做到了哪一个？](http://www.zhihu.com/question/494470638/answer/2195551588?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -74,8 +77,6 @@
 * [【2021-10-28】 国产动画《猫之茗》开播，你感觉如何？](http://www.zhihu.com/question/494397661/answer/2194079203?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-28】 Vergil 的收刀是否是相对论性的?](http://zhuanlan.zhihu.com/p/426477668?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-28】 武汉国家航天产业基地下线的首批火箭「快舟•​新洲」号成功发射，对我国商业航天的发展有何意义？](http://www.zhihu.com/question/494934851/answer/2193891517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-10-28】 国产动画《猫之茗》开播，你感觉如何？](http://www.zhihu.com/question/494397661/answer/2192713099?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-10-28】 「致敬可爱的人」中学生写下103封信寄往边关，边防战士的生活是什么样？你还听过哪些关于军人的暖心故事？](http://www.zhihu.com/question/494851886/answer/2193248332?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -85,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-02 08:24:07
+:alarm_clock: 更新时间: 2021-11-02 09:19:51

@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "想挑一台微单，除了双十一的好价你还需要了解什么？",
+                "link": "https://sspai.com/post/69635",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "知名 iPad 创作工具大更新，你可以在 Procreate 中进行 3D 绘画了",
                 "link": "https://sspai.com/post/69630",
                 "published": "2021-11-02"
@@ -350,6 +355,91 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[MacBook] 全屏刘海显示菜单栏很舒服，可是。。。",
+                "link": "https://www.v2ex.com/t/812513",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[酷工作] 上海叠纸，海量职位，速来！校招，社招都有哦！\n待遇好，福利棒，全额补充公积金，免费早餐， base16！",
+                "link": "https://www.v2ex.com/t/812512",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[酷工作] [Base 广州番禺][公司：经传多赢][岗位：数据库工程师][薪资： 10～ 15K， 13 薪， 15 薪， 17 薪三档，季度绩效]",
+                "link": "https://www.v2ex.com/t/812511",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[酷工作] Seattle Fast-growing Startup -- PIPE17 is HIRING ! Back-end Engineer 不要犹豫，在这工作很带劲儿！",
+                "link": "https://www.v2ex.com/t/812510",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[硬件] 预算 2k 以下有显示器推荐吗？",
+                "link": "https://www.v2ex.com/t/812509",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Vue.js] 不会现在还有人要兼容 ie9 吧,分享下 vite 打包 vue2 兼容到 ie9 的方法",
+                "link": "https://www.v2ex.com/t/812508",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 又要屯粮？只谈 how 不谈 why",
+                "link": "https://www.v2ex.com/t/812507",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[React] 请教一下，如何拖动一个 bar，来 resize 上下两个区域？",
+                "link": "https://www.v2ex.com/t/812506",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[游戏开发] 玩了几天链游后，我思考了 3 个问题。也许区块链游戏可能是游戏开发者的另外一个蓝海",
+                "link": "https://www.v2ex.com/t/812505",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] APUE 第二版中有哪些概念是过时的？",
+                "link": "https://www.v2ex.com/t/812504",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[macOS] 问一下目前 macos12.0.1 通用控制的细节",
+                "link": "https://www.v2ex.com/t/812503",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] Type-C 口的电脑充电器能给手机充电么？（同事试过，可以冲进去，但是不是很不安全？）",
+                "link": "https://www.v2ex.com/t/812502",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[职场话题] offer 决赛圈，大佬们提提意见吧",
+                "link": "https://www.v2ex.com/t/812501",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 换 CPU、主板、硬盘，可以用 diskgenius 迁移系统盘而不重装系统吗？",
+                "link": "https://www.v2ex.com/t/812500",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[JavaScript] crypto-js 的完全看不懂",
+                "link": "https://www.v2ex.com/t/812499",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] 资源的读写比例为 2:1，是否有必要加缓存呢？",
+                "link": "https://www.v2ex.com/t/812498",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Apple] 单卡 iPhone +iwatch 蜂窝版 可以实现双卡用户的需求吗",
+                "link": "https://www.v2ex.com/t/812497",
+                "published": "2021-11-02"
+            },
             {
                 "title": "[问与答] 看到最近有矿渣锐角云，捡垃圾拿来做 Linux 二奶机可好？",
                 "link": "https://www.v2ex.com/t/812494",
@@ -11046,13 +11136,23 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 20
+        "new_feeds": 17
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "中国实现连续丰收 18 年，你如何看待这一喜讯？「中国饭碗」到底有多硬？",
+                "link": "http://www.zhihu.com/question/496056671/answer/2202456757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "如何评价国产动画《识夜描银》？",
+                "link": "http://www.zhihu.com/question/489702836/answer/2202420660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-02"
+            },
             {
                 "title": "我国首部「个人信息保护法」实施，买卖个人信息最高可判七年，个人信息包括什么？这部法律有哪些积极意义？",
                 "link": "http://www.zhihu.com/question/495846558/answer/2201845815?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -11479,6 +11579,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     }
 ]
