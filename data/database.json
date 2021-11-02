@@ -336,6 +336,61 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[SONY] 65X95J 上车了 大佬们有啥玩机技巧啊",
+                "link": "https://www.v2ex.com/t/812317",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[macOS] Alfred monterey 无法打开",
+                "link": "https://www.v2ex.com/t/812316",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[分享创造] 无废话 Docker 快速上手教程",
+                "link": "https://www.v2ex.com/t/812315",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] 建行 app 登录新手机无解了",
+                "link": "https://www.v2ex.com/t/812314",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[macOS] Mac 版 Edge 浏览器，有办法使用 Mac 系统的“密码”功能自动填充密码和 2FA 二次验证吗",
+                "link": "https://www.v2ex.com/t/812313",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] cisco anyconnect vpn 客户端记录登录账户与密码方案？",
+                "link": "https://www.v2ex.com/t/812312",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[游戏] 送一个龙腾世纪审判的码（烂橘子）",
+                "link": "https://www.v2ex.com/t/812311",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 2021 年末，如何证明自己当前不是生活在元宇宙当中？",
+                "link": "https://www.v2ex.com/t/812310",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[中州韻] 借宝地咨询下手机上同文输入法的 alt 键锁定设置",
+                "link": "https://www.v2ex.com/t/812309",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[反馈] v2ex 新版发帖文本框，无法使用 macos 默认快捷键移动光标",
+                "link": "https://www.v2ex.com/t/812308",
+                "published": "2021-11-01"
+            },
+            {
+                "title": "[问与答] 求分享，能用快捷键切换高亮颜色的 pdf 阅读器",
+                "link": "https://www.v2ex.com/t/812307",
+                "published": "2021-11-01"
+            },
+            {
                 "title": "[JavaScript] 请教一下，前端项目上，大家怎么调试引入的第三方的包的？",
                 "link": "https://www.v2ex.com/t/812306",
                 "published": "2021-11-01"
@@ -10391,7 +10446,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 11
     },
     {
         "id": 3,

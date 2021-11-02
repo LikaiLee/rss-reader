@@ -1,6 +1,17 @@
 # V2EX
 
 
+* [2021-11-02  [SONY] 65X95J 上车了 大佬们有啥玩机技巧啊](https://www.v2ex.com/t/812317)
+* [2021-11-02  [macOS] Alfred monterey 无法打开](https://www.v2ex.com/t/812316)
+* [2021-11-02  [分享创造] 无废话 Docker 快速上手教程](https://www.v2ex.com/t/812315)
+* [2021-11-02  [程序员] 建行 app 登录新手机无解了](https://www.v2ex.com/t/812314)
+* [2021-11-02  [macOS] Mac 版 Edge 浏览器，有办法使用 Mac 系统的“密码”功能自动填充密码和 2FA 二次验证吗](https://www.v2ex.com/t/812313)
+* [2021-11-02  [问与答] cisco anyconnect vpn 客户端记录登录账户与密码方案？](https://www.v2ex.com/t/812312)
+* [2021-11-02  [游戏] 送一个龙腾世纪审判的码（烂橘子）](https://www.v2ex.com/t/812311)
+* [2021-11-02  [问与答] 2021 年末，如何证明自己当前不是生活在元宇宙当中？](https://www.v2ex.com/t/812310)
+* [2021-11-02  [中州韻] 借宝地咨询下手机上同文输入法的 alt 键锁定设置](https://www.v2ex.com/t/812309)
+* [2021-11-01  [反馈] v2ex 新版发帖文本框，无法使用 macos 默认快捷键移动光标](https://www.v2ex.com/t/812308)
+* [2021-11-01  [问与答] 求分享，能用快捷键切换高亮颜色的 pdf 阅读器](https://www.v2ex.com/t/812307)
 * [2021-11-01  [JavaScript] 请教一下，前端项目上，大家怎么调试引入的第三方的包的？](https://www.v2ex.com/t/812306)
 * [2021-11-01  [Go 编程语言] Goland 开源许可证一年到期还能续吗？](https://www.v2ex.com/t/812305)
 * [2021-11-01  [Kubernetes] 2021 版 Kubernetes 11 大开源利器](https://www.v2ex.com/t/812304)
