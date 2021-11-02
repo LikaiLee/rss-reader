@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "考物阁 01 | 我买了一块号称「世界最薄」的折叠键盘",
+                "link": "https://sspai.com/post/69537",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "派早报：Beats Fit Pro 正式公布，Google 将修复 Pixel 6 Pro 屏幕闪烁问题等",
                 "link": "https://sspai.com/post/69631",
                 "published": "2021-11-02"
@@ -333,13 +338,33 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[全球工单系统] 车来了不断在后台要求获取我的位置",
+                "link": "https://www.v2ex.com/t/812426",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 想给老婆买个戴森吹风机，请问彦祖们双 11 有优惠吗？",
+                "link": "https://www.v2ex.com/t/812424",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[MacBook Pro] 关于低电量模式的一些思考",
+                "link": "https://www.v2ex.com/t/812423",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[游戏开发] pygame 正式支持 M1 Mac 了，现在 Python 可以开发除了 ios 外的所有平台游戏了",
+                "link": "https://www.v2ex.com/t/812422",
+                "published": "2021-11-02"
+            },
             {
                 "title": "[NAS] 双十一跟风买了 453d mini，手里的老弱病残硬盘怎样搭配才好？",
                 "link": "https://www.v2ex.com/t/812420",
@@ -10751,7 +10776,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 15
+        "new_feeds": 4
     },
     {
         "id": 3,
