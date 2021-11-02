@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+9】
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-11-02】 [程序员] fail2ban 设置了提醒邮件，却只能收到 stop 的提醒](https://www.v2ex.com/t/812561)
+* [【2021-11-02】 [酷工作] [全职远程] DevOps 研发工程师/20-40K/中美大牛团队/灵活办公](https://www.v2ex.com/t/812560)
+* [【2021-11-02】 [云计算] 双十一，国内云厂商有性价比高的服务器活动么](https://www.v2ex.com/t/812559)
+* [【2021-11-02】 [问与答] 美版 iphone13 怎么买](https://www.v2ex.com/t/812557)
+* [【2021-11-02】 [MacBook Pro] 为何重复发短信说 11 月 24 日发货](https://www.v2ex.com/t/812556)
+* [【2021-11-02】 [问与答] 华为云这 2 年老是搞免费的 AI 培训，他们的目的是什么？培养潜在客户吗](https://www.v2ex.com/t/812554)
+* [【2021-11-02】 [Windows] Windows 如何设置在开机不解锁的情况下，软件正常自启？](https://www.v2ex.com/t/812553)
 * [【2021-11-02】 [区块链] 兴业 I 类卡，卖 BUSD 收了 2 万 CNY，转进余额宝说限额](https://www.v2ex.com/t/812551)
 * [【2021-11-02】 [Apple] 支付宝生活号 [Apple 专区] Apple Music 免费两个月订阅兑换 已订阅的未来两个月不会扣费](https://www.v2ex.com/t/812550)
 * [【2021-11-02】 [程序员] 计网自顶向下 路由选择环路的疑问？](https://www.v2ex.com/t/812549)
-* [【2021-11-02】 [宽带症候群] 强，抽风了？](https://www.v2ex.com/t/812548)
-* [【2021-11-02】 [分享创造] 新产品：线上计时付费咨询产品「相问」，来体验和提建议吧！](https://www.v2ex.com/t/812547)
-* [【2021-11-02】 [问与答] 关于保健品 move free 的实际效果](https://www.v2ex.com/t/812546)
-* [【2021-11-02】 [问与答] 有没有 V 友在华为银河麒麟的 PC 上成功运行过 kettle 程序](https://www.v2ex.com/t/812545)
-* [【2021-11-02】 [优惠信息] YouTube Premium 美区一年车 30/位](https://www.v2ex.com/t/812544)
-* [【2021-11-02】 [分享创造] 一个可以刷 Instagram 的 VS Code 扩展, 无需科学](https://www.v2ex.com/t/812543)
-* [【2021-11-02】 [Java] Java 有什么优雅的方式动态实例化子类吗](https://www.v2ex.com/t/812542)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-02 13:24:37
+:alarm_clock: 更新时间: 2021-11-02 14:18:20
