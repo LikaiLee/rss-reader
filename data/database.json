@@ -356,6 +356,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享发现] 发现微软拼音输入法的一个小彩蛋",
+                "link": "https://www.v2ex.com/t/812590",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "[macOS] Monterey Quicklook 双击现不再打开文件(?)",
                 "link": "https://www.v2ex.com/t/812589",
                 "published": "2021-11-02"

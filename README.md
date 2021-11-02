@@ -47,6 +47,7 @@
     </summary>
 
 
+* [【2021-11-02】 [分享发现] 发现微软拼音输入法的一个小彩蛋](https://www.v2ex.com/t/812590)
 * [【2021-11-02】 [macOS] Monterey Quicklook 双击现不再打开文件(?)](https://www.v2ex.com/t/812589)
 * [【2021-11-02】 [分享发现] 给大学时自己的忠告建议?](https://www.v2ex.com/t/812588)
 * [【2021-11-02】 [macOS] Monterey bug，“开发者工具”图标 miss](https://www.v2ex.com/t/812586)
@@ -56,7 +57,6 @@
 * [【2021-11-02】 [Android] Android12 升级](https://www.v2ex.com/t/812581)
 * [【2021-11-02】 [Apple] 新出的 Beats 耳机好牛啊](https://www.v2ex.com/t/812580)
 * [【2021-11-02】 [iOS] Notability 免费替代品 Collanote](https://www.v2ex.com/t/812578)
-* [【2021-11-02】 [职场话题] 年末裸辞了，找不到工作就去死](https://www.v2ex.com/t/812577)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-02 20:20:51
+:alarm_clock: 更新时间: 2021-11-02 21:17:21
