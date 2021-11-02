@@ -356,6 +356,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享发现] 给大学时自己的忠告建议?",
+                "link": "https://www.v2ex.com/t/812588",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[macOS] Monterey bug，“开发者工具”图标 miss",
+                "link": "https://www.v2ex.com/t/812586",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "[程序员] UUID 4 的重复概率是多少？",
                 "link": "https://www.v2ex.com/t/812585",
                 "published": "2021-11-02"
@@ -11381,7 +11391,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 3,

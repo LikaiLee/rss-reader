@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-11-02  [分享发现] 给大学时自己的忠告建议?](https://www.v2ex.com/t/812588)
+* [2021-11-02  [macOS] Monterey bug，“开发者工具”图标 miss](https://www.v2ex.com/t/812586)
 * [2021-11-02  [程序员] UUID 4 的重复概率是多少？](https://www.v2ex.com/t/812585)
 * [2021-11-02  [MacBook] 14' M1 Pro 日常工作情境小测（Angular、Unity）](https://www.v2ex.com/t/812583)
 * [2021-11-02  [硬件] computer-1](https://www.v2ex.com/t/812582)
