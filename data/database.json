@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Beats Fit Pro 正式公布，Google 将修复 Pixel 6 Pro 屏幕闪烁问题等",
+                "link": "https://sspai.com/post/69631",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "全新配色来了 ，正是入手的好时机：HomePod mini 体验分享",
                 "link": "https://sspai.com/post/69624",
                 "published": "2021-11-01"
@@ -328,13 +333,153 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[硬件] 机器人 Arduino 树莓派",
+                "link": "https://www.v2ex.com/t/812363",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[摄影] 新手求推荐相机, 目前很想买黑卡 7, 便携+索尼大法, 但是似乎需要修图调色",
+                "link": "https://www.v2ex.com/t/812362",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[iPad] 今天更新了买了好久没有用的 notability，竟然把所有买断用户改为了订阅用户",
+                "link": "https://www.v2ex.com/t/812361",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] 多线程事务可行吗？",
+                "link": "https://www.v2ex.com/t/812359",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[健康] 关于老爸住院",
+                "link": "https://www.v2ex.com/t/812358",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[职场话题] 字节跳动限制员工工作时间不能超过 10AM-7PM",
+                "link": "https://www.v2ex.com/t/812357",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Apple] iPhone 电池健康显示“维修”，点进去最大容量 86%，爱思沙漏 79.5%，什么情况？",
+                "link": "https://www.v2ex.com/t/812356",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 商务部鼓励家庭储存生活必需品，啥情况啊",
+                "link": "https://www.v2ex.com/t/812355",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[分享发现] 我已经成为牛肉干的代言人了，现在搞活动，必须送牛肉干。",
+                "link": "https://www.v2ex.com/t/812354",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[求职] 大专大龄求职这么难吗",
+                "link": "https://www.v2ex.com/t/812352",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[成都] 天府三街求租套二，整租，预算 3000 以内",
+                "link": "https://www.v2ex.com/t/812349",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[酷工作] [北京][劳雷工业][社招]20~35K，客户端工程师， C++/C#，无人智能控制和测绘后处理方向",
+                "link": "https://www.v2ex.com/t/812347",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[宽带症候群] 个人有办法找运营商办正规物联网卡吗？",
+                "link": "https://www.v2ex.com/t/812346",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[成都] 成都有做 Chromium 二次开发的朋友吗",
+                "link": "https://www.v2ex.com/t/812344",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 如何防止反编译 jar 包？？最安全的方法",
+                "link": "https://www.v2ex.com/t/812343",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[分享发现] 这是支付宝的 Feature ?",
+                "link": "https://www.v2ex.com/t/812341",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] 请教一下，如何用 js 合并连续的相同的 span",
+                "link": "https://www.v2ex.com/t/812340",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[优惠信息] 双十一[腾讯云一折起]2 核 4G6M 三年仅 168 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价][有海外特惠]良心云",
+                "link": "https://www.v2ex.com/t/812339",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[职场话题] offer 求大佬们给个建议",
+                "link": "https://www.v2ex.com/t/812338",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 大家有什么类似于文档在线管理系统，用来做知识库方面的开源框架推荐嘛？",
+                "link": "https://www.v2ex.com/t/812336",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[广州] 广州黄埔泊寓科学城店复式公寓个人转租",
+                "link": "https://www.v2ex.com/t/812335",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] 终于找到了 macos 切换程序的最佳方式",
+                "link": "https://www.v2ex.com/t/812330",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[分享发现] 马斯克发了个《七步诗》的推",
+                "link": "https://www.v2ex.com/t/812326",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[苏州] 没人吗？来，房价论一波",
+                "link": "https://www.v2ex.com/t/812325",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Go 编程语言] 请问， go 语言里有没有类似 Python ray 这样的分布式框架？",
+                "link": "https://www.v2ex.com/t/812322",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Apple] 收到<个人信息保护法>是不是意味着美区 ID 和云上贵州没差别了…",
+                "link": "https://www.v2ex.com/t/812320",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[长沙] 长沙买房问题",
+                "link": "https://www.v2ex.com/t/812319",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 求笔记本电脑推荐，后端开发，谢谢！",
+                "link": "https://www.v2ex.com/t/812318",
+                "published": "2021-11-02"
+            },
             {
                 "title": "[SONY] 65X95J 上车了 大佬们有啥玩机技巧啊",
                 "link": "https://www.v2ex.com/t/812317",
@@ -10446,7 +10591,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 28
     },
     {
         "id": 3,

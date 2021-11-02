@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+11】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+28】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-02】 派早报：Beats Fit Pro 正式公布，Google 将修复 Pixel 6 Pro 屏幕闪烁问题等](https://sspai.com/post/69631)
 * [【2021-11-01】 全新配色来了 ，正是入手的好时机：HomePod mini 体验分享](https://sspai.com/post/69624)
 * [【2021-11-01】 派评 | 近期值得关注的 App](https://sspai.com/post/69623)
 * [【2021-11-01】 如何更好地保护手机数据隐私？这 10 款 App 你可能用得上](https://sspai.com/post/69618)
@@ -37,7 +38,6 @@
 * [【2021-11-01】 个人信息保护法正式施行，隐私安全新篇章由此开启](https://sspai.com/post/69609)
 * [【2021-11-01】 为你带来 1 款「迷你」新周边以及 10+ 款新 iPhone 用得上的配件](https://sspai.com/post/69592)
 * [【2021-11-01】 派早报：个人信息保护法正式施行、微软成为全球市值最高的公司等](https://sspai.com/post/69605)
-* [【2021-10-31】 老款 iPhone 也能拍「微距」：专业相机应用 Halide 更新](https://sspai.com/post/69371)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-02】 [SONY] 65X95J 上车了 大佬们有啥玩机技巧啊](https://www.v2ex.com/t/812317)
-* [【2021-11-02】 [macOS] Alfred monterey 无法打开](https://www.v2ex.com/t/812316)
-* [【2021-11-02】 [分享创造] 无废话 Docker 快速上手教程](https://www.v2ex.com/t/812315)
-* [【2021-11-02】 [程序员] 建行 app 登录新手机无解了](https://www.v2ex.com/t/812314)
-* [【2021-11-02】 [macOS] Mac 版 Edge 浏览器，有办法使用 Mac 系统的“密码”功能自动填充密码和 2FA 二次验证吗](https://www.v2ex.com/t/812313)
-* [【2021-11-02】 [问与答] cisco anyconnect vpn 客户端记录登录账户与密码方案？](https://www.v2ex.com/t/812312)
-* [【2021-11-02】 [游戏] 送一个龙腾世纪审判的码（烂橘子）](https://www.v2ex.com/t/812311)
-* [【2021-11-02】 [问与答] 2021 年末，如何证明自己当前不是生活在元宇宙当中？](https://www.v2ex.com/t/812310)
-* [【2021-11-02】 [中州韻] 借宝地咨询下手机上同文输入法的 alt 键锁定设置](https://www.v2ex.com/t/812309)
-* [【2021-11-01】 [反馈] v2ex 新版发帖文本框，无法使用 macos 默认快捷键移动光标](https://www.v2ex.com/t/812308)
+* [【2021-11-02】 [硬件] 机器人 Arduino 树莓派](https://www.v2ex.com/t/812363)
+* [【2021-11-02】 [摄影] 新手求推荐相机, 目前很想买黑卡 7, 便携+索尼大法, 但是似乎需要修图调色](https://www.v2ex.com/t/812362)
+* [【2021-11-02】 [iPad] 今天更新了买了好久没有用的 notability，竟然把所有买断用户改为了订阅用户](https://www.v2ex.com/t/812361)
+* [【2021-11-02】 [程序员] 多线程事务可行吗？](https://www.v2ex.com/t/812359)
+* [【2021-11-02】 [健康] 关于老爸住院](https://www.v2ex.com/t/812358)
+* [【2021-11-02】 [职场话题] 字节跳动限制员工工作时间不能超过 10AM-7PM](https://www.v2ex.com/t/812357)
+* [【2021-11-02】 [Apple] iPhone 电池健康显示“维修”，点进去最大容量 86%，爱思沙漏 79.5%，什么情况？](https://www.v2ex.com/t/812356)
+* [【2021-11-02】 [问与答] 商务部鼓励家庭储存生活必需品，啥情况啊](https://www.v2ex.com/t/812355)
+* [【2021-11-02】 [分享发现] 我已经成为牛肉干的代言人了，现在搞活动，必须送牛肉干。](https://www.v2ex.com/t/812354)
+* [【2021-11-02】 [求职] 大专大龄求职这么难吗](https://www.v2ex.com/t/812352)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-02 01:06:47
+:alarm_clock: 更新时间: 2021-11-02 02:33:09
