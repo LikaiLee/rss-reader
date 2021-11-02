@@ -356,6 +356,51 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Java] Java 有什么优雅的方式动态实例化子类吗",
+                "link": "https://www.v2ex.com/t/812542",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[优惠信息] YouTube Red 会员车位一个",
+                "link": "https://www.v2ex.com/t/812539",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[2021] 一个股票阈值预警自动通知微信公众号的组件",
+                "link": "https://www.v2ex.com/t/812537",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Python] 使用 concurrent.futures 多进程， 如何在进程中更新一个公共全局变量？",
+                "link": "https://www.v2ex.com/t/812536",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Java] spring boot 实现多数据源 JdbcTemplate 的内部缓存怎么解决？",
+                "link": "https://www.v2ex.com/t/812535",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 有懂阿里云解析服务的么？为何阿里的 ns 服务器不根据不能返回最快的服务器",
+                "link": "https://www.v2ex.com/t/812534",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[酷工作] [长沙] 深信服云桌面产品研发部内推",
+                "link": "https://www.v2ex.com/t/812533",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[酷工作] [全职远程] Python 后端工程师/40-60K/中美大牛团队/灵活办公",
+                "link": "https://www.v2ex.com/t/812531",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] 社交共同好友要怎么现在比较好，现在想到用 neo4j 实现，成本有点大",
+                "link": "https://www.v2ex.com/t/812530",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "[问与答] 大家在实践 GTD 流程的时候会把明确意义和组织整理分开来做吗？",
                 "link": "https://www.v2ex.com/t/812529",
                 "published": "2021-11-02"
@@ -11176,7 +11221,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 9
     },
     {
         "id": 3,
