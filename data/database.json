@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "知名 iPad 创作工具大更新，你可以在 Procreate 中进行 3D 绘画了",
+                "link": "https://sspai.com/post/69630",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "考物阁 01 | 我买了一块号称「世界最薄」的折叠键盘",
                 "link": "https://sspai.com/post/69537",
                 "published": "2021-11-02"
@@ -338,13 +343,113 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 看到最近有矿渣锐角云，捡垃圾拿来做 Linux 二奶机可好？",
+                "link": "https://www.v2ex.com/t/812494",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[macOS] 请问 mac 切换程序会出现外放没声音,或者休眠也没声音是硬件问题还是软件问题",
+                "link": "https://www.v2ex.com/t/812491",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 微信群定时发信息功能，用的 wechaty 微信小秘书出问题了，还有类似的工具吗",
+                "link": "https://www.v2ex.com/t/812490",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 问一下站长大大。我可以在交易区发一个我的众筹的宣传不。",
+                "link": "https://www.v2ex.com/t/812489",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 人在北京望京，有驾校推荐吗？",
+                "link": "https://www.v2ex.com/t/812488",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] Tabby 里 ProxyCommand 怎么用",
+                "link": "https://www.v2ex.com/t/812487",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 今天在多处看到发个人战备应急包，商务部喊储备物资，这是有什么情况吗？",
+                "link": "https://www.v2ex.com/t/812486",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[北京] 迫于北漂，北京的宝子们，留一句对新晋北漂的忠告叭~~",
+                "link": "https://www.v2ex.com/t/812485",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[macOS] Mac 端 Safari 老是限制 b 站的自动播放。",
+                "link": "https://www.v2ex.com/t/812484",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[京东] 拼多多上买 iPhone13 质量有保证吗，比京东、天猫优惠还多，想买又不敢买，求指教",
+                "link": "https://www.v2ex.com/t/812483",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[成都] 成都冬天没有太阳，要抑郁了怎么办？",
+                "link": "https://www.v2ex.com/t/812482",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 在 Windows 上打开一个二进制文件进行解析，我该用 c++的 api 还是 Windows 提供的 win32api 啊",
+                "link": "https://www.v2ex.com/t/812481",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] sdkman 下载 jdk 速度太慢，怎么破有没有国内的源可以用",
+                "link": "https://www.v2ex.com/t/812480",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[青岛] 小青岛都没人来讨论了么",
+                "link": "https://www.v2ex.com/t/812479",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 请问 iOS 怎样将摄像头的画面显示到电脑上？",
+                "link": "https://www.v2ex.com/t/812478",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 网上存照片的好地方？",
+                "link": "https://www.v2ex.com/t/812476",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[酷工作] [长沙-前端开发工程师-实习岗]",
+                "link": "https://www.v2ex.com/t/812475",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 想在最短的时间内下, 给大量 tcp 连接发送数据, 有哪些最佳实践?",
+                "link": "https://www.v2ex.com/t/812474",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] 2021 款 mac pro 值得买吗？",
+                "link": "https://www.v2ex.com/t/812472",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[macOS] 更新 monterey 后，微信开发者工具和 edge 浏览器访问接口返回 403，响应头包含 Server:AirTunes",
+                "link": "https://www.v2ex.com/t/812471",
+                "published": "2021-11-02"
+            },
             {
                 "title": "[macOS] chrome 变卡的原因是？",
                 "link": "https://www.v2ex.com/t/812470",
@@ -10941,7 +11046,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 12
+        "new_feeds": 20
     },
     {
         "id": 3,

@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+12】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+20】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-02】 知名 iPad 创作工具大更新，你可以在 Procreate 中进行 3D 绘画了](https://sspai.com/post/69630)
 * [【2021-11-02】 考物阁 01 | 我买了一块号称「世界最薄」的折叠键盘](https://sspai.com/post/69537)
 * [【2021-11-02】 派早报：Beats Fit Pro 正式公布，Google 将修复 Pixel 6 Pro 屏幕闪烁问题等](https://sspai.com/post/69631)
 * [【2021-11-01】 全新配色来了 ，正是入手的好时机：HomePod mini 体验分享](https://sspai.com/post/69624)
@@ -37,7 +38,6 @@
 * [【2021-11-01】 做好个人数据与隐私防护，从这份检查清单开始](https://sspai.com/post/56066)
 * [【2021-11-01】 今天开始，与你息息相关：个人信息保护法亮点详解](https://sspai.com/post/69615)
 * [【2021-11-01】 个人信息保护法正式施行，隐私安全新篇章由此开启](https://sspai.com/post/69609)
-* [【2021-11-01】 为你带来 1 款「迷你」新周边以及 10+ 款新 iPhone 用得上的配件](https://sspai.com/post/69592)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-02】 [macOS] chrome 变卡的原因是？](https://www.v2ex.com/t/812470)
-* [【2021-11-02】 [推广] 上海-招商信用卡-可预约上门办理](https://www.v2ex.com/t/812469)
-* [【2021-11-02】 [问与答] 关于中央空调还是普通空调的选择问题](https://www.v2ex.com/t/812468)
-* [【2021-11-02】 [问与答] Oculus Quest2 有没有玩过 VR 的大佬能教教我这玩意怎么入门](https://www.v2ex.com/t/812467)
-* [【2021-11-02】 [Microsoft Azure] 求推荐比较便宜推荐 Seafile（开源云盘）部署虚拟机方案](https://www.v2ex.com/t/812466)
-* [【2021-11-02】 [React] 20 年前的 React Server Components](https://www.v2ex.com/t/812465)
-* [【2021-11-02】 [区块链] 刚才把 3w 的股票全卖了，换成了 shib](https://www.v2ex.com/t/812464)
-* [【2021-11-02】 [macOS] 求助 sos mac 上面好用的播放器](https://www.v2ex.com/t/812463)
-* [【2021-11-02】 [Windows] win11 具体哪个更新能让资源管理器变流畅？](https://www.v2ex.com/t/812462)
-* [【2021-11-02】 [程序员] 小组长因为预算问题不想购买第三方 API，让我写爬虫。](https://www.v2ex.com/t/812461)
+* [【2021-11-02】 [问与答] 看到最近有矿渣锐角云，捡垃圾拿来做 Linux 二奶机可好？](https://www.v2ex.com/t/812494)
+* [【2021-11-02】 [macOS] 请问 mac 切换程序会出现外放没声音,或者休眠也没声音是硬件问题还是软件问题](https://www.v2ex.com/t/812491)
+* [【2021-11-02】 [问与答] 微信群定时发信息功能，用的 wechaty 微信小秘书出问题了，还有类似的工具吗](https://www.v2ex.com/t/812490)
+* [【2021-11-02】 [问与答] 问一下站长大大。我可以在交易区发一个我的众筹的宣传不。](https://www.v2ex.com/t/812489)
+* [【2021-11-02】 [问与答] 人在北京望京，有驾校推荐吗？](https://www.v2ex.com/t/812488)
+* [【2021-11-02】 [问与答] Tabby 里 ProxyCommand 怎么用](https://www.v2ex.com/t/812487)
+* [【2021-11-02】 [问与答] 今天在多处看到发个人战备应急包，商务部喊储备物资，这是有什么情况吗？](https://www.v2ex.com/t/812486)
+* [【2021-11-02】 [北京] 迫于北漂，北京的宝子们，留一句对新晋北漂的忠告叭~~](https://www.v2ex.com/t/812485)
+* [【2021-11-02】 [macOS] Mac 端 Safari 老是限制 b 站的自动播放。](https://www.v2ex.com/t/812484)
+* [【2021-11-02】 [京东] 拼多多上买 iPhone13 质量有保证吗，比京东、天猫优惠还多，想买又不敢买，求指教](https://www.v2ex.com/t/812483)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-02 07:19:02
+:alarm_clock: 更新时间: 2021-11-02 08:24:07
