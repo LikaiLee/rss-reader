@@ -346,6 +346,66 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[macOS] chrome 变卡的原因是？",
+                "link": "https://www.v2ex.com/t/812470",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[推广] 上海-招商信用卡-可预约上门办理",
+                "link": "https://www.v2ex.com/t/812469",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 关于中央空调还是普通空调的选择问题",
+                "link": "https://www.v2ex.com/t/812468",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] Oculus Quest2 有没有玩过 VR 的大佬能教教我这玩意怎么入门",
+                "link": "https://www.v2ex.com/t/812467",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Microsoft Azure] 求推荐比较便宜推荐 Seafile（开源云盘）部署虚拟机方案",
+                "link": "https://www.v2ex.com/t/812466",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[React] 20 年前的 React Server Components",
+                "link": "https://www.v2ex.com/t/812465",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[区块链] 刚才把 3w 的股票全卖了，换成了 shib",
+                "link": "https://www.v2ex.com/t/812464",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[macOS] 求助 sos mac 上面好用的播放器",
+                "link": "https://www.v2ex.com/t/812463",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Windows] win11 具体哪个更新能让资源管理器变流畅？",
+                "link": "https://www.v2ex.com/t/812462",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] 小组长因为预算问题不想购买第三方 API，让我写爬虫。",
+                "link": "https://www.v2ex.com/t/812461",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] 对接平台部署在内网，现通过一台 windows 连入内网，要怎么进行远程开发",
+                "link": "https://www.v2ex.com/t/812459",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[酷工作] 各位大佬我来发个内推，我在小鹏汽车等你",
+                "link": "https://www.v2ex.com/t/812456",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "[Apple] M1 Macbook Air 使用不到半年电池就提示维修",
                 "link": "https://www.v2ex.com/t/812455",
                 "published": "2021-11-02"
@@ -10881,7 +10941,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 21
+        "new_feeds": 12
     },
     {
         "id": 3,
@@ -11314,6 +11374,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

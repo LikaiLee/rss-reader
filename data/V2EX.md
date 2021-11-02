@@ -1,6 +1,18 @@
 # V2EX
 
 
+* [2021-11-02  [macOS] chrome 变卡的原因是？](https://www.v2ex.com/t/812470)
+* [2021-11-02  [推广] 上海-招商信用卡-可预约上门办理](https://www.v2ex.com/t/812469)
+* [2021-11-02  [问与答] 关于中央空调还是普通空调的选择问题](https://www.v2ex.com/t/812468)
+* [2021-11-02  [问与答] Oculus Quest2 有没有玩过 VR 的大佬能教教我这玩意怎么入门](https://www.v2ex.com/t/812467)
+* [2021-11-02  [Microsoft Azure] 求推荐比较便宜推荐 Seafile（开源云盘）部署虚拟机方案](https://www.v2ex.com/t/812466)
+* [2021-11-02  [React] 20 年前的 React Server Components](https://www.v2ex.com/t/812465)
+* [2021-11-02  [区块链] 刚才把 3w 的股票全卖了，换成了 shib](https://www.v2ex.com/t/812464)
+* [2021-11-02  [macOS] 求助 sos mac 上面好用的播放器](https://www.v2ex.com/t/812463)
+* [2021-11-02  [Windows] win11 具体哪个更新能让资源管理器变流畅？](https://www.v2ex.com/t/812462)
+* [2021-11-02  [程序员] 小组长因为预算问题不想购买第三方 API，让我写爬虫。](https://www.v2ex.com/t/812461)
+* [2021-11-02  [程序员] 对接平台部署在内网，现通过一台 windows 连入内网，要怎么进行远程开发](https://www.v2ex.com/t/812459)
+* [2021-11-02  [酷工作] 各位大佬我来发个内推，我在小鹏汽车等你](https://www.v2ex.com/t/812456)
 * [2021-11-02  [Apple] M1 Macbook Air 使用不到半年电池就提示维修](https://www.v2ex.com/t/812455)
 * [2021-11-02  [Go 编程语言] 有没有哪个 golang web 框架支持谷歌 api 这个规范的 (https://xxx.com/v1/api:method)](https://www.v2ex.com/t/812454)
 * [2021-11-02  [Go 编程语言] golang 一个函数返回不同的结构体有比较优雅的实现吗](https://www.v2ex.com/t/812453)
