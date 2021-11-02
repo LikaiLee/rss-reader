@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-11-02  [程序员] UUID 4 的重复概率是多少？](https://www.v2ex.com/t/812585)
 * [2021-11-02  [MacBook] 14' M1 Pro 日常工作情境小测（Angular、Unity）](https://www.v2ex.com/t/812583)
 * [2021-11-02  [硬件] computer-1](https://www.v2ex.com/t/812582)
 * [2021-11-02  [Android] Android12 升级](https://www.v2ex.com/t/812581)

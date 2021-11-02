@@ -356,6 +356,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] UUID 4 的重复概率是多少？",
+                "link": "https://www.v2ex.com/t/812585",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "[MacBook] 14' M1 Pro 日常工作情境小测（Angular、Unity）",
                 "link": "https://www.v2ex.com/t/812583",
                 "published": "2021-11-02"
@@ -11376,7 +11381,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 3,
