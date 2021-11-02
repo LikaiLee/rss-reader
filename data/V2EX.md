@@ -1,6 +1,23 @@
 # V2EX
 
 
+* [2021-11-02  [iPhone] 试出一个拼多多抢到的 iPhone 13 pro 银色 256 国行全新未拆，只限上海， 8798 出](https://www.v2ex.com/t/812396)
+* [2021-11-02  [Apple] Macbook 的几个小疑问](https://www.v2ex.com/t/812395)
+* [2021-11-02  [分享创造] 可能是最好的 Hyperledger Fabric 入门项目](https://www.v2ex.com/t/812394)
+* [2021-11-02  [程序员] iPhone 滴滴企业版一直后台耗电](https://www.v2ex.com/t/812393)
+* [2021-11-02  [Java] 大家看下这条推特的评论](https://www.v2ex.com/t/812391)
+* [2021-11-02  [问与答] 关于路由上 dns 分流的一些想法和疑问。](https://www.v2ex.com/t/812387)
+* [2021-11-02  [MacBook Pro] HHKB 可以不碰到任何按键，完美的放在 2021 MacBook Pro 14 键盘上吗？](https://www.v2ex.com/t/812385)
+* [2021-11-02  [服务器] Dell EMC R240 服务器加装内存条](https://www.v2ex.com/t/812380)
+* [2021-11-02  [Apple] 请教一下关于 watch 版本的微信发送小信号的问题](https://www.v2ex.com/t/812379)
+* [2021-11-02  [Surface] Drawboard PDF 大改版之后，有什么替代品吗？](https://www.v2ex.com/t/812377)
+* [2021-11-02  [互联网] 百度输入法这是收费了吗?](https://www.v2ex.com/t/812376)
+* [2021-11-02  [MacBook Pro] 头炸， M1Pro 乞丐版用 Xcode 混编还是会卡死， 劝退用回 M1 的 Air 好了，又不是不能用](https://www.v2ex.com/t/812375)
+* [2021-11-02  [程序员] Windows 上的 Clion 遇到了一个奇怪的问题](https://www.v2ex.com/t/812371)
+* [2021-11-02  [Apple] iPad mini5 换 mini6 是不是没什么必要](https://www.v2ex.com/t/812370)
+* [2021-11-02  [问与答] 为啥我的建行信用卡提额这么难？](https://www.v2ex.com/t/812369)
+* [2021-11-02  [Apple] 想在 M1 max 上玩游戏时选择 PD 还是选择 CrossOver](https://www.v2ex.com/t/812368)
+* [2021-11-02  [推广] 我已经成为牛肉干的代言人了，现在搞活动，必须送牛肉干。](https://www.v2ex.com/t/812354)
 * [2021-11-02  [硬件] 机器人 Arduino 树莓派](https://www.v2ex.com/t/812363)
 * [2021-11-02  [摄影] 新手求推荐相机, 目前很想买黑卡 7, 便携+索尼大法, 但是似乎需要修图调色](https://www.v2ex.com/t/812362)
 * [2021-11-02  [iPad] 今天更新了买了好久没有用的 notability，竟然把所有买断用户改为了订阅用户](https://www.v2ex.com/t/812361)

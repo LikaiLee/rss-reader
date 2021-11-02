@@ -333,13 +333,98 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[iPhone] 试出一个拼多多抢到的 iPhone 13 pro 银色 256 国行全新未拆，只限上海， 8798 出",
+                "link": "https://www.v2ex.com/t/812396",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Apple] Macbook 的几个小疑问",
+                "link": "https://www.v2ex.com/t/812395",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[分享创造] 可能是最好的 Hyperledger Fabric 入门项目",
+                "link": "https://www.v2ex.com/t/812394",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] iPhone 滴滴企业版一直后台耗电",
+                "link": "https://www.v2ex.com/t/812393",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Java] 大家看下这条推特的评论",
+                "link": "https://www.v2ex.com/t/812391",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 关于路由上 dns 分流的一些想法和疑问。",
+                "link": "https://www.v2ex.com/t/812387",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[MacBook Pro] HHKB 可以不碰到任何按键，完美的放在 2021 MacBook Pro 14 键盘上吗？",
+                "link": "https://www.v2ex.com/t/812385",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[服务器] Dell EMC R240 服务器加装内存条",
+                "link": "https://www.v2ex.com/t/812380",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Apple] 请教一下关于 watch 版本的微信发送小信号的问题",
+                "link": "https://www.v2ex.com/t/812379",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Surface] Drawboard PDF 大改版之后，有什么替代品吗？",
+                "link": "https://www.v2ex.com/t/812377",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[互联网] 百度输入法这是收费了吗?",
+                "link": "https://www.v2ex.com/t/812376",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[MacBook Pro] 头炸， M1Pro 乞丐版用 Xcode 混编还是会卡死， 劝退用回 M1 的 Air 好了，又不是不能用",
+                "link": "https://www.v2ex.com/t/812375",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] Windows 上的 Clion 遇到了一个奇怪的问题",
+                "link": "https://www.v2ex.com/t/812371",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Apple] iPad mini5 换 mini6 是不是没什么必要",
+                "link": "https://www.v2ex.com/t/812370",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 为啥我的建行信用卡提额这么难？",
+                "link": "https://www.v2ex.com/t/812369",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Apple] 想在 M1 max 上玩游戏时选择 PD 还是选择 CrossOver",
+                "link": "https://www.v2ex.com/t/812368",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[推广] 我已经成为牛肉干的代言人了，现在搞活动，必须送牛肉干。",
+                "link": "https://www.v2ex.com/t/812354",
+                "published": "2021-11-02"
+            },
             {
                 "title": "[硬件] 机器人 Arduino 树莓派",
                 "link": "https://www.v2ex.com/t/812363",
@@ -10591,7 +10676,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 28
+        "new_feeds": 17
     },
     {
         "id": 3,
