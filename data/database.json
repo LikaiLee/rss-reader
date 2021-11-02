@@ -356,6 +356,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook] 14' M1 Pro 日常工作情境小测（Angular、Unity）",
+                "link": "https://www.v2ex.com/t/812583",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[硬件] computer-1",
+                "link": "https://www.v2ex.com/t/812582",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "[Android] Android12 升级",
                 "link": "https://www.v2ex.com/t/812581",
                 "published": "2021-11-02"
@@ -11366,7 +11376,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 3,

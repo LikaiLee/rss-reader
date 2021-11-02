@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-11-02  [MacBook] 14' M1 Pro 日常工作情境小测（Angular、Unity）](https://www.v2ex.com/t/812583)
+* [2021-11-02  [硬件] computer-1](https://www.v2ex.com/t/812582)
 * [2021-11-02  [Android] Android12 升级](https://www.v2ex.com/t/812581)
 * [2021-11-02  [Apple] 新出的 Beats 耳机好牛啊](https://www.v2ex.com/t/812580)
 * [2021-11-02  [iOS] Notability 免费替代品 Collanote](https://www.v2ex.com/t/812578)

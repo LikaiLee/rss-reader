@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+6】
+* [V2EX](#V2EX) 【+2】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,8 @@
     </summary>
 
 
+* [【2021-11-02】 [MacBook] 14' M1 Pro 日常工作情境小测（Angular、Unity）](https://www.v2ex.com/t/812583)
+* [【2021-11-02】 [硬件] computer-1](https://www.v2ex.com/t/812582)
 * [【2021-11-02】 [Android] Android12 升级](https://www.v2ex.com/t/812581)
 * [【2021-11-02】 [Apple] 新出的 Beats 耳机好牛啊](https://www.v2ex.com/t/812580)
 * [【2021-11-02】 [iOS] Notability 免费替代品 Collanote](https://www.v2ex.com/t/812578)
@@ -55,8 +57,6 @@
 * [【2021-11-02】 [问与答] 有感于 Notability 改订阅制行为，你的 APP 年费有多少？](https://www.v2ex.com/t/812575)
 * [【2021-11-02】 [macOS] 如何重置 macos 终端设置](https://www.v2ex.com/t/812574)
 * [【2021-11-02】 [问与答] 有必要把预定的 yoga14s 换成 16s 吗？](https://www.v2ex.com/t/812573)
-* [【2021-11-02】 [职场话题] 派遣性质的政企项目有必要呆下去吗？](https://www.v2ex.com/t/812571)
-* [【2021-11-02】 [问与答] Notability 的用户量有多少，为何改订阅制行为会变成这么大的热点？](https://www.v2ex.com/t/812570)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-02 16:31:14
+:alarm_clock: 更新时间: 2021-11-02 17:24:21
