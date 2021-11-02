@@ -1,6 +1,12 @@
 # V2EX
 
 
+* [2021-11-02  [Android] Android12 升级](https://www.v2ex.com/t/812581)
+* [2021-11-02  [Apple] 新出的 Beats 耳机好牛啊](https://www.v2ex.com/t/812580)
+* [2021-11-02  [iOS] Notability 免费替代品 Collanote](https://www.v2ex.com/t/812578)
+* [2021-11-02  [职场话题] 年末裸辞了，找不到工作就去死](https://www.v2ex.com/t/812577)
+* [2021-11-02  [酷工作] [抖音]IES 大前端团队内推](https://www.v2ex.com/t/812576)
+* [2021-11-02  [问与答] 有感于 Notability 改订阅制行为，你的 APP 年费有多少？](https://www.v2ex.com/t/812575)
 * [2021-11-02  [macOS] 如何重置 macos 终端设置](https://www.v2ex.com/t/812574)
 * [2021-11-02  [问与答] 有必要把预定的 yoga14s 换成 16s 吗？](https://www.v2ex.com/t/812573)
 * [2021-11-02  [职场话题] 派遣性质的政企项目有必要呆下去吗？](https://www.v2ex.com/t/812571)

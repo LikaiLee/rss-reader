@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+7】
+* [V2EX](#V2EX) 【+6】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-11-02】 [Android] Android12 升级](https://www.v2ex.com/t/812581)
+* [【2021-11-02】 [Apple] 新出的 Beats 耳机好牛啊](https://www.v2ex.com/t/812580)
+* [【2021-11-02】 [iOS] Notability 免费替代品 Collanote](https://www.v2ex.com/t/812578)
+* [【2021-11-02】 [职场话题] 年末裸辞了，找不到工作就去死](https://www.v2ex.com/t/812577)
+* [【2021-11-02】 [酷工作] [抖音]IES 大前端团队内推](https://www.v2ex.com/t/812576)
+* [【2021-11-02】 [问与答] 有感于 Notability 改订阅制行为，你的 APP 年费有多少？](https://www.v2ex.com/t/812575)
 * [【2021-11-02】 [macOS] 如何重置 macos 终端设置](https://www.v2ex.com/t/812574)
 * [【2021-11-02】 [问与答] 有必要把预定的 yoga14s 换成 16s 吗？](https://www.v2ex.com/t/812573)
 * [【2021-11-02】 [职场话题] 派遣性质的政企项目有必要呆下去吗？](https://www.v2ex.com/t/812571)
 * [【2021-11-02】 [问与答] Notability 的用户量有多少，为何改订阅制行为会变成这么大的热点？](https://www.v2ex.com/t/812570)
-* [【2021-11-02】 [生活] 生活小感触：没有调查就没有发言权](https://www.v2ex.com/t/812568)
-* [【2021-11-02】 [iPhone] ios nplayer plus 预览显示 bug](https://www.v2ex.com/t/812566)
-* [【2021-11-02】 [程序员] 前两天发了公司裁员后找工作经历，现在上班两天](https://www.v2ex.com/t/812564)
-* [【2021-11-02】 [程序员] fail2ban 设置了提醒邮件，却只能收到 stop 的提醒](https://www.v2ex.com/t/812561)
-* [【2021-11-02】 [酷工作] [全职远程] DevOps 研发工程师/20-40K/中美大牛团队/灵活办公](https://www.v2ex.com/t/812560)
-* [【2021-11-02】 [云计算] 双十一，国内云厂商有性价比高的服务器活动么](https://www.v2ex.com/t/812559)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-02 15:21:17
+:alarm_clock: 更新时间: 2021-11-02 16:31:14
