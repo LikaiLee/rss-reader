@@ -338,13 +338,118 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] M1 Macbook Air 使用不到半年电池就提示维修",
+                "link": "https://www.v2ex.com/t/812455",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Go 编程语言] 有没有哪个 golang web 框架支持谷歌 api 这个规范的 (https://xxx.com/v1/api:method)",
+                "link": "https://www.v2ex.com/t/812454",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Go 编程语言] golang 一个函数返回不同的结构体有比较优雅的实现吗",
+                "link": "https://www.v2ex.com/t/812453",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] 带反向充电功能的显示器使用的 C to C 线有什么特殊的吗",
+                "link": "https://www.v2ex.com/t/812452",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Windows] 请问 Windows 下同时支持磁力链接和电驴链接的下载软件是什么？",
+                "link": "https://www.v2ex.com/t/812451",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] discuzQ 怎么样？",
+                "link": "https://www.v2ex.com/t/812450",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 多看阅读是黄了么？",
+                "link": "https://www.v2ex.com/t/812449",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 问个找打的问题 现在买房是 49 年入国军吗？",
+                "link": "https://www.v2ex.com/t/812448",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[酷工作] [招聘帖，帮内推] 杭州金融软件公司招资深 C# Office 开发",
+                "link": "https://www.v2ex.com/t/812447",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 有没有这样一个简单的工具(开源项目)",
+                "link": "https://www.v2ex.com/t/812446",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Kubernetes] k8s 中 pod 的 request 资源是共享的还是独占的",
+                "link": "https://www.v2ex.com/t/812443",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Apple] M1 Pro/Max 能轻松搞定 swiftUI 吗…",
+                "link": "https://www.v2ex.com/t/812441",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 有人用过联通小萌卡的吗?",
+                "link": "https://www.v2ex.com/t/812440",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[分享创造] Stay iOS safari 开源插件（App 跳转 自动展开 去恶意广告）",
+                "link": "https://www.v2ex.com/t/812439",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Python] 问问大家一个关于类变量初始化引发的关于 IDE 错误提示的问题",
+                "link": "https://www.v2ex.com/t/812436",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 双十一想买一个笔记本，用来玩英雄联盟和做前端开发，预算在 4500 - 6000；求推荐",
+                "link": "https://www.v2ex.com/t/812435",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 百度网盘会员 178/年",
+                "link": "https://www.v2ex.com/t/812433",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 求一个在网页(html 页面)上，添加文字标记、线条标记的工具",
+                "link": "https://www.v2ex.com/t/812432",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Apple] 19 款 macbookpro 升级 Mac OS Monterey 后突然黑屏后关机无法在开机了有人遇到过吗",
+                "link": "https://www.v2ex.com/t/812431",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[全球工单系统] b 站的投票弹窗可以关闭吗？",
+                "link": "https://www.v2ex.com/t/812430",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[分享创造] 做了个简单的 LC 跳转站，解决了已知 LC 题目 id 但依旧难以直达题目页面的痛点",
+                "link": "https://www.v2ex.com/t/812429",
+                "published": "2021-11-02"
+            },
             {
                 "title": "[全球工单系统] 车来了不断在后台要求获取我的位置",
                 "link": "https://www.v2ex.com/t/812426",
@@ -10776,13 +10881,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 21
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "我国首部「个人信息保护法」实施，买卖个人信息最高可判七年，个人信息包括什么？这部法律有哪些积极意义？",
+                "link": "http://www.zhihu.com/question/495846558/answer/2201845815?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-02"
+            },
             {
                 "title": "2021 年 10 月国内有哪些「秋日限定」美景？",
                 "link": "http://www.zhihu.com/question/491188382/answer/2160132383?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -11204,6 +11314,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
