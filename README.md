@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-11-02】 [macOS] 如何重置 macos 终端设置](https://www.v2ex.com/t/812574)
+* [【2021-11-02】 [问与答] 有必要把预定的 yoga14s 换成 16s 吗？](https://www.v2ex.com/t/812573)
+* [【2021-11-02】 [职场话题] 派遣性质的政企项目有必要呆下去吗？](https://www.v2ex.com/t/812571)
+* [【2021-11-02】 [问与答] Notability 的用户量有多少，为何改订阅制行为会变成这么大的热点？](https://www.v2ex.com/t/812570)
+* [【2021-11-02】 [生活] 生活小感触：没有调查就没有发言权](https://www.v2ex.com/t/812568)
+* [【2021-11-02】 [iPhone] ios nplayer plus 预览显示 bug](https://www.v2ex.com/t/812566)
+* [【2021-11-02】 [程序员] 前两天发了公司裁员后找工作经历，现在上班两天](https://www.v2ex.com/t/812564)
 * [【2021-11-02】 [程序员] fail2ban 设置了提醒邮件，却只能收到 stop 的提醒](https://www.v2ex.com/t/812561)
 * [【2021-11-02】 [酷工作] [全职远程] DevOps 研发工程师/20-40K/中美大牛团队/灵活办公](https://www.v2ex.com/t/812560)
 * [【2021-11-02】 [云计算] 双十一，国内云厂商有性价比高的服务器活动么](https://www.v2ex.com/t/812559)
-* [【2021-11-02】 [问与答] 美版 iphone13 怎么买](https://www.v2ex.com/t/812557)
-* [【2021-11-02】 [MacBook Pro] 为何重复发短信说 11 月 24 日发货](https://www.v2ex.com/t/812556)
-* [【2021-11-02】 [问与答] 华为云这 2 年老是搞免费的 AI 培训，他们的目的是什么？培养潜在客户吗](https://www.v2ex.com/t/812554)
-* [【2021-11-02】 [Windows] Windows 如何设置在开机不解锁的情况下，软件正常自启？](https://www.v2ex.com/t/812553)
-* [【2021-11-02】 [区块链] 兴业 I 类卡，卖 BUSD 收了 2 万 CNY，转进余额宝说限额](https://www.v2ex.com/t/812551)
-* [【2021-11-02】 [Apple] 支付宝生活号 [Apple 专区] Apple Music 免费两个月订阅兑换 已订阅的未来两个月不会扣费](https://www.v2ex.com/t/812550)
-* [【2021-11-02】 [程序员] 计网自顶向下 路由选择环路的疑问？](https://www.v2ex.com/t/812549)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-02 14:18:20
+:alarm_clock: 更新时间: 2021-11-02 15:21:17

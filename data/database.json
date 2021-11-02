@@ -356,6 +356,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[macOS] 如何重置 macos 终端设置",
+                "link": "https://www.v2ex.com/t/812574",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] 有必要把预定的 yoga14s 换成 16s 吗？",
+                "link": "https://www.v2ex.com/t/812573",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[职场话题] 派遣性质的政企项目有必要呆下去吗？",
+                "link": "https://www.v2ex.com/t/812571",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[问与答] Notability 的用户量有多少，为何改订阅制行为会变成这么大的热点？",
+                "link": "https://www.v2ex.com/t/812570",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[生活] 生活小感触：没有调查就没有发言权",
+                "link": "https://www.v2ex.com/t/812568",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[iPhone] ios nplayer plus 预览显示 bug",
+                "link": "https://www.v2ex.com/t/812566",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[程序员] 前两天发了公司裁员后找工作经历，现在上班两天",
+                "link": "https://www.v2ex.com/t/812564",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "[程序员] fail2ban 设置了提醒邮件，却只能收到 stop 的提醒",
                 "link": "https://www.v2ex.com/t/812561",
                 "published": "2021-11-02"
