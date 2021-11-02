@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,7 @@
     </summary>
 
 
+* [【2021-11-02】 [macOS] Monterey Quicklook 双击现不再打开文件(?)](https://www.v2ex.com/t/812589)
 * [【2021-11-02】 [分享发现] 给大学时自己的忠告建议?](https://www.v2ex.com/t/812588)
 * [【2021-11-02】 [macOS] Monterey bug，“开发者工具”图标 miss](https://www.v2ex.com/t/812586)
 * [【2021-11-02】 [程序员] UUID 4 的重复概率是多少？](https://www.v2ex.com/t/812585)
@@ -56,7 +57,6 @@
 * [【2021-11-02】 [Apple] 新出的 Beats 耳机好牛啊](https://www.v2ex.com/t/812580)
 * [【2021-11-02】 [iOS] Notability 免费替代品 Collanote](https://www.v2ex.com/t/812578)
 * [【2021-11-02】 [职场话题] 年末裸辞了，找不到工作就去死](https://www.v2ex.com/t/812577)
-* [【2021-11-02】 [酷工作] [抖音]IES 大前端团队内推](https://www.v2ex.com/t/812576)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-02 19:15:43
+:alarm_clock: 更新时间: 2021-11-02 20:20:51

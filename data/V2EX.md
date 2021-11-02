@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-11-02  [macOS] Monterey Quicklook 双击现不再打开文件(?)](https://www.v2ex.com/t/812589)
 * [2021-11-02  [分享发现] 给大学时自己的忠告建议?](https://www.v2ex.com/t/812588)
 * [2021-11-02  [macOS] Monterey bug，“开发者工具”图标 miss](https://www.v2ex.com/t/812586)
 * [2021-11-02  [程序员] UUID 4 的重复概率是多少？](https://www.v2ex.com/t/812585)
