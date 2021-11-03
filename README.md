@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+15】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+17】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-03】 Windows 与 iOS 的跨平台协作方案：Dell Mobile Connect](https://sspai.com/post/69525)
 * [【2021-11-03】 能扫能拖的洗地机怎么选：聊聊那些值得你了解的优缺点](https://sspai.com/post/69486)
 * [【2021-11-03】 派早报：联想推出多款笔记本新品、摩托罗拉 G51 正式发布](https://sspai.com/post/69645)
 * [【2021-11-02】 想挑一台微单，除了双十一的好价你还需要了解什么？](https://sspai.com/post/69635)
@@ -37,7 +38,6 @@
 * [【2021-11-01】 全新配色来了 ，正是入手的好时机：HomePod mini 体验分享](https://sspai.com/post/69624)
 * [【2021-11-01】 派评 | 近期值得关注的 App](https://sspai.com/post/69623)
 * [【2021-11-01】 如何更好地保护手机数据隐私？这 10 款 App 你可能用得上](https://sspai.com/post/69618)
-* [【2021-11-01】 互联网广告机器的新戏法：Google FLoC 科普](https://sspai.com/post/69617)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-03】 [汽车] 新能源怎么选？](https://www.v2ex.com/t/812743)
-* [【2021-11-03】 [Apple] 求求天选之子张小龙出个微信专用手机](https://www.v2ex.com/t/812742)
-* [【2021-11-03】 [问与答] U 盘文件系统如何选择？](https://www.v2ex.com/t/812739)
-* [【2021-11-03】 [酷工作] 前端-校招 offer 选择](https://www.v2ex.com/t/812738)
-* [【2021-11-03】 [Linux] 一个 Linux 磁盘空间管理问题请教大家](https://www.v2ex.com/t/812737)
-* [【2021-11-03】 [分享发现] 家庭应急物资储备建议清单收集](https://www.v2ex.com/t/812736)
-* [【2021-11-03】 [程序员] [求助] 需要登陆的账号密码都对了，但是由于是在新设备登录的，发送给手机短信验证码，手机号又不在我这里，有什么办法绕过短信验证呢？ 并且 这种检测是基于什么实现的呀？ IEMI?串号？](https://www.v2ex.com/t/812735)
-* [【2021-11-03】 [问与答] 如何用数据手段判断一个岗位是否饱和，需要哪些信息？](https://www.v2ex.com/t/812734)
-* [【2021-11-03】 [Apple] mbp 的 apple care 快到期了,可是一次没用过](https://www.v2ex.com/t/812732)
-* [【2021-11-03】 [问与答] 有没有那种长文介绍技术的公众号或者网站呢](https://www.v2ex.com/t/812727)
+* [【2021-11-03】 [Apple] M1 的 Android 模拟器现在是个什么情况](https://www.v2ex.com/t/812768)
+* [【2021-11-03】 [程序员] 小红伞删除了我的文件，隔离区确是空的，怎么恢复](https://www.v2ex.com/t/812766)
+* [【2021-11-03】 [Java] 有没有生产环境大规模机器 GCLOG 实时分析/JVM 内存分析工具或者最佳实践？](https://www.v2ex.com/t/812765)
+* [【2021-11-03】 [问与答] 为什么天猫超市不给放快递柜？](https://www.v2ex.com/t/812764)
+* [【2021-11-03】 [分享创造] 求一个开源的导购网站程序，最好是 ugc 模式的](https://www.v2ex.com/t/812761)
+* [【2021-11-03】 [酷工作] [杭州] “东南亚菜鸟” Shipper 大力招募： Java Backend Leader， Test Engineer Leader， SRE， PM， HC 多多，机不可失，速来！](https://www.v2ex.com/t/812760)
+* [【2021-11-03】 [问与答] 大家有好玩的 discord 的 server 推荐吗](https://www.v2ex.com/t/812759)
+* [【2021-11-03】 [机械键盘] 键盘选择， TTC or 阿米洛静电容](https://www.v2ex.com/t/812758)
+* [【2021-11-03】 [问与答] 在北京的朋友们租过车吗？](https://www.v2ex.com/t/812757)
+* [【2021-11-03】 [问与答] 咨询外包一个 Logo 及首页设计](https://www.v2ex.com/t/812752)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-03 07:19:07
+:alarm_clock: 更新时间: 2021-11-03 08:23:44

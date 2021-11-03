@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Windows 与 iOS 的跨平台协作方案：Dell Mobile Connect",
+                "link": "https://sspai.com/post/69525",
+                "published": "2021-11-03"
+            },
+            {
                 "title": "能扫能拖的洗地机怎么选：聊聊那些值得你了解的优缺点",
                 "link": "https://sspai.com/post/69486",
                 "published": "2021-11-03"
@@ -358,13 +363,98 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] M1 的 Android 模拟器现在是个什么情况",
+                "link": "https://www.v2ex.com/t/812768",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[程序员] 小红伞删除了我的文件，隔离区确是空的，怎么恢复",
+                "link": "https://www.v2ex.com/t/812766",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Java] 有没有生产环境大规模机器 GCLOG 实时分析/JVM 内存分析工具或者最佳实践？",
+                "link": "https://www.v2ex.com/t/812765",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 为什么天猫超市不给放快递柜？",
+                "link": "https://www.v2ex.com/t/812764",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[分享创造] 求一个开源的导购网站程序，最好是 ugc 模式的",
+                "link": "https://www.v2ex.com/t/812761",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[酷工作] [杭州] “东南亚菜鸟” Shipper 大力招募： Java Backend Leader， Test Engineer Leader， SRE， PM， HC 多多，机不可失，速来！",
+                "link": "https://www.v2ex.com/t/812760",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 大家有好玩的 discord 的 server 推荐吗",
+                "link": "https://www.v2ex.com/t/812759",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[机械键盘] 键盘选择， TTC or 阿米洛静电容",
+                "link": "https://www.v2ex.com/t/812758",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 在北京的朋友们租过车吗？",
+                "link": "https://www.v2ex.com/t/812757",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 咨询外包一个 Logo 及首页设计",
+                "link": "https://www.v2ex.com/t/812752",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[酷工作] [上海] [英伟达 Nvidia] [CUDA 开发工程师]",
+                "link": "https://www.v2ex.com/t/812751",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[宽带症候群] 今天发现 广州电信游戏宽带突然被砍了一半上传",
+                "link": "https://www.v2ex.com/t/812750",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] MacBook mail.app 登录 Gmail 问题",
+                "link": "https://www.v2ex.com/t/812749",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] AlibabaProtect 已经无法禁止启动了，火绒也对其无效",
+                "link": "https://www.v2ex.com/t/812747",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[前端开发] 制作一个 figma 类似的设计器，前端一个人一般需要多久？",
+                "link": "https://www.v2ex.com/t/812745",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] Apple watch S7，某些特定配色缺货啊",
+                "link": "https://www.v2ex.com/t/812744",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[职场话题] 前端-校招 offer 选择",
+                "link": "https://www.v2ex.com/t/812738",
+                "published": "2021-11-03"
+            },
             {
                 "title": "[汽车] 新能源怎么选？",
                 "link": "https://www.v2ex.com/t/812743",
@@ -11991,7 +12081,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 15
+        "new_feeds": 17
     },
     {
         "id": 3,
