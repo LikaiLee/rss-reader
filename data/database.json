@@ -381,6 +381,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[macOS] Macbook Pro 外接 4K 显示器字体阴影问题",
+                "link": "https://www.v2ex.com/t/812889",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Python] Python 怎么在项目文件里隐藏自己的 API 密钥？",
+                "link": "https://www.v2ex.com/t/812886",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[iPhone] 有抢到京东 13 pm 的 v 友么",
+                "link": "https://www.v2ex.com/t/812884",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] Logitech Option 这一类驱动，耗电吗？",
+                "link": "https://www.v2ex.com/t/812882",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[随想] 有人玩美服的 WOW 怀旧服吗？",
+                "link": "https://www.v2ex.com/t/812880",
+                "published": "2021-11-03"
+            },
+            {
                 "title": "[MacBook Pro] 12.1 Beta 版好像已经解决了内存泄漏问题",
                 "link": "https://www.v2ex.com/t/812878",
                 "published": "2021-11-03"
@@ -12526,7 +12551,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 14
+        "new_feeds": 5
     },
     {
         "id": 3,

@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-11-03  [macOS] Macbook Pro 外接 4K 显示器字体阴影问题](https://www.v2ex.com/t/812889)
+* [2021-11-03  [Python] Python 怎么在项目文件里隐藏自己的 API 密钥？](https://www.v2ex.com/t/812886)
+* [2021-11-03  [iPhone] 有抢到京东 13 pm 的 v 友么](https://www.v2ex.com/t/812884)
+* [2021-11-03  [问与答] Logitech Option 这一类驱动，耗电吗？](https://www.v2ex.com/t/812882)
+* [2021-11-03  [随想] 有人玩美服的 WOW 怀旧服吗？](https://www.v2ex.com/t/812880)
 * [2021-11-03  [MacBook Pro] 12.1 Beta 版好像已经解决了内存泄漏问题](https://www.v2ex.com/t/812878)
 * [2021-11-03  [宽带症候群] 联通的光猫可以拆掉天线吗？](https://www.v2ex.com/t/812877)
 * [2021-11-03  [Windows] WIN11 开机运行时间长了后系统变卡顿，有没有人遇到这问题，怎么解决](https://www.v2ex.com/t/812876)
