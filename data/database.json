@@ -353,13 +353,83 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[推广] 中国历史实体集",
+                "link": "https://www.v2ex.com/t/812682",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Telegram] TG 他来了他来了 宇宙全栈交流群",
+                "link": "https://www.v2ex.com/t/812681",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[随想] 有没有喜欢在冬天用冷水冲澡的？",
+                "link": "https://www.v2ex.com/t/812680",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[随想] 成功的在公司弄了个游戏机房......",
+                "link": "https://www.v2ex.com/t/812679",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 2021 年还有人用阿里巴巴的 iconfont 吗？",
+                "link": "https://www.v2ex.com/t/812678",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[macOS] macbook 显示器关闭后再开启 夜览失效",
+                "link": "https://www.v2ex.com/t/812677",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[程序员] 转发招聘:嵌入式开发、初级，高级工程师。",
+                "link": "https://www.v2ex.com/t/812676",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[分享发现] Xshell 付费方式的详细说明",
+                "link": "https://www.v2ex.com/t/812675",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[API] 同一个网站的两个 API 请求，一个可以正常返回，一个报 404，请求大佬帮忙看看",
+                "link": "https://www.v2ex.com/t/812673",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[全球工单系统] 联通的大王卡公众号「王卡助手」用户数据错乱，可看到其他人用户信息",
+                "link": "https://www.v2ex.com/t/812671",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Electron] teams 要放弃 Electron",
+                "link": "https://www.v2ex.com/t/812670",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Google] 想注册一个 GV 号或者其他的海外手机号用于买币",
+                "link": "https://www.v2ex.com/t/812649",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[C++] 求问一个问题",
+                "link": "https://www.v2ex.com/t/812648",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[区块链] 区块链到底是啥，为啥有人在写代码，搞开发，有人在做科研，发论文，还有人在炒币，之前以为是一个平台上几件无关的事，刚刚看到有个炒币的人也在研究合约代码，我懵了",
+                "link": "https://www.v2ex.com/t/812646",
+                "published": "2021-11-03"
+            },
             {
                 "title": "[推广] 在纯 JaveScript 中实现报表导出：从“PDF”到“JPG”",
                 "link": "https://www.v2ex.com/t/812669",
@@ -11716,13 +11786,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 20
+        "new_feeds": 14
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "「人武部给预备役退伍军人发召回短信」系谣言，伪造散播涉军谣言将会受到什么处罚？",
+                "link": "http://www.zhihu.com/question/496304840/answer/2203847145?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-03"
+            },
             {
                 "title": "《沙丘》原著粉如何评价电影版《沙丘》？",
                 "link": "http://www.zhihu.com/question/493552121/answer/2192864483?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
