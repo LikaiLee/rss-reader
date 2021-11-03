@@ -356,6 +356,131 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 想看王伟了，问下大家王伟的作者名字叫啥啊，我记得豆瓣上也有他的文章",
+                "link": "https://www.v2ex.com/t/812643",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[职场话题] 校招 Offer 决赛圈，求指点",
+                "link": "https://www.v2ex.com/t/812642",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[macOS] 现在买 MacBook Pro M1 pro 版做开发，还有什么坑不？",
+                "link": "https://www.v2ex.com/t/812641",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[酷工作] [深圳][内推][13～ 20K,保底 13 薪]TVC Shop Manager",
+                "link": "https://www.v2ex.com/t/812640",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[投资] 昨天把股票全清了",
+                "link": "https://www.v2ex.com/t/812639",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[汽车] 新能源车牌排队，大家排多少？",
+                "link": "https://www.v2ex.com/t/812638",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Java] 各位 Java 彦祖，想转 Java 要学些什么啊？",
+                "link": "https://www.v2ex.com/t/812637",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[汽车] 各位大佬，关于买车",
+                "link": "https://www.v2ex.com/t/812636",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Firefox] 已更新 Firefox 94",
+                "link": "https://www.v2ex.com/t/812635",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] Notability 投降文中的阴阳笔法",
+                "link": "https://www.v2ex.com/t/812634",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[北京] 朝南次卧,房东阿姨直租无中介费！北京丰台区六里桥地铁站附近-莲怡园一区招室友",
+                "link": "https://www.v2ex.com/t/812633",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 求推荐可以私有化部署的开源/免费 企业级 IM",
+                "link": "https://www.v2ex.com/t/812631",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[职场话题] 旁边的同事情商低得一怎么办？",
+                "link": "https://www.v2ex.com/t/812630",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] 实测 16 寸乞丐版 M1 Pro 在 Dota2 中的表现",
+                "link": "https://www.v2ex.com/t/812627",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[SONY] 不懂就问，所有索尼耳机通话都有电流声吗？",
+                "link": "https://www.v2ex.com/t/812626",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[职场话题] 技术经理的主要职责是什么",
+                "link": "https://www.v2ex.com/t/812623",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[macOS] 任务管理器里的磁盘读写统计里包括内存读写量吗",
+                "link": "https://www.v2ex.com/t/812621",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 这个类似图谱的图是用什么技术做的呢？",
+                "link": "https://www.v2ex.com/t/812619",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] Notability surrendered.",
+                "link": "https://www.v2ex.com/t/812618",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 最近 Windows 每天都会报文件系统损坏错误……",
+                "link": "https://www.v2ex.com/t/812617",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Java] 接口访问次数多了变慢是 tomcat 限制还是服务器 cpu 限制？",
+                "link": "https://www.v2ex.com/t/812615",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[汽车] 各位大佬上雅阁纯油还是雅阁混动？",
+                "link": "https://www.v2ex.com/t/812614",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[程序员] 多个服务访问同一个数据库时，如何组织代码？",
+                "link": "https://www.v2ex.com/t/812613",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[优惠信息] 双 11[腾讯云 1 折起]2 核 4G6M 三年仅 168 四核 8G5M 三年 798[新老老身份都可上车][有香港海外等特惠][腾讯云官方特价][有海外特惠]良心云",
+                "link": "https://www.v2ex.com/t/812612",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[酷工作] [深圳] [朴朴超市] [社招内推] 朴朴科技社招 Java 、前端、产品等岗位",
+                "link": "https://www.v2ex.com/t/812611",
+                "published": "2021-11-03"
+            },
+            {
                 "title": "[问与答] Win11 如何去除 C 盘文件的只读模式",
                 "link": "https://www.v2ex.com/t/812610",
                 "published": "2021-11-03"
@@ -11486,7 +11611,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 14
+        "new_feeds": 25
     },
     {
         "id": 3,
