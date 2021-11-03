@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+17】
+* [V2EX](#V2EX) 【+19】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-03】 如果你昨天买了索尼相机，那今天一定得来看看这份索尼镜头选购指南](https://sspai.com/post/67033)
 * [【2021-11-03】 Windows 与 iOS 的跨平台协作方案：Dell Mobile Connect](https://sspai.com/post/69525)
 * [【2021-11-03】 能扫能拖的洗地机怎么选：聊聊那些值得你了解的优缺点](https://sspai.com/post/69486)
 * [【2021-11-03】 派早报：联想推出多款笔记本新品、摩托罗拉 G51 正式发布](https://sspai.com/post/69645)
@@ -37,7 +38,6 @@
 * [【2021-11-02】 派早报：Beats Fit Pro 正式公布，Google 将修复 Pixel 6 Pro 屏幕闪烁问题等](https://sspai.com/post/69631)
 * [【2021-11-01】 全新配色来了 ，正是入手的好时机：HomePod mini 体验分享](https://sspai.com/post/69624)
 * [【2021-11-01】 派评 | 近期值得关注的 App](https://sspai.com/post/69623)
-* [【2021-11-01】 如何更好地保护手机数据隐私？这 10 款 App 你可能用得上](https://sspai.com/post/69618)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-03】 [Apple] M1 的 Android 模拟器现在是个什么情况](https://www.v2ex.com/t/812768)
-* [【2021-11-03】 [程序员] 小红伞删除了我的文件，隔离区确是空的，怎么恢复](https://www.v2ex.com/t/812766)
-* [【2021-11-03】 [Java] 有没有生产环境大规模机器 GCLOG 实时分析/JVM 内存分析工具或者最佳实践？](https://www.v2ex.com/t/812765)
-* [【2021-11-03】 [问与答] 为什么天猫超市不给放快递柜？](https://www.v2ex.com/t/812764)
-* [【2021-11-03】 [分享创造] 求一个开源的导购网站程序，最好是 ugc 模式的](https://www.v2ex.com/t/812761)
-* [【2021-11-03】 [酷工作] [杭州] “东南亚菜鸟” Shipper 大力招募： Java Backend Leader， Test Engineer Leader， SRE， PM， HC 多多，机不可失，速来！](https://www.v2ex.com/t/812760)
-* [【2021-11-03】 [问与答] 大家有好玩的 discord 的 server 推荐吗](https://www.v2ex.com/t/812759)
-* [【2021-11-03】 [机械键盘] 键盘选择， TTC or 阿米洛静电容](https://www.v2ex.com/t/812758)
-* [【2021-11-03】 [问与答] 在北京的朋友们租过车吗？](https://www.v2ex.com/t/812757)
-* [【2021-11-03】 [问与答] 咨询外包一个 Logo 及首页设计](https://www.v2ex.com/t/812752)
+* [【2021-11-03】 [机械键盘] HHKB 全球出货量 60w 把 难以置信](https://www.v2ex.com/t/812794)
+* [【2021-11-03】 [问与答] vscode 无法跳转了怎么办？](https://www.v2ex.com/t/812793)
+* [【2021-11-03】 [问与答] 求推荐一款好用的记账软件，双十一剁手后想回顾看看战况](https://www.v2ex.com/t/812791)
+* [【2021-11-03】 [Python] 求助一个线性回归模型预测的问题](https://www.v2ex.com/t/812790)
+* [【2021-11-03】 [服务器] 亚马逊云有类似七牛图片基础处理的服务吗？比如缩略、裁剪、瘦身之类的功能：](https://www.v2ex.com/t/812789)
+* [【2021-11-03】 [iCloud] Apple Music + iCloud 2T 家庭共享招人](https://www.v2ex.com/t/812788)
+* [【2021-11-03】 [Apple] 12 年 MBP 用户的碎碎念](https://www.v2ex.com/t/812787)
+* [【2021-11-03】 [Windows] 关于 win10 中复制一串字符串后再粘贴结果不一致 bug](https://www.v2ex.com/t/812786)
+* [【2021-11-03】 [分享创造] 跨平台代理调试工具 iProxy 支持 Linux 了](https://www.v2ex.com/t/812785)
+* [【2021-11-03】 [职场话题] 人生中灰暗的一天](https://www.v2ex.com/t/812784)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-03 08:23:44
+:alarm_clock: 更新时间: 2021-11-03 09:20:03

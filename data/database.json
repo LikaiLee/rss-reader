@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "如果你昨天买了索尼相机，那今天一定得来看看这份索尼镜头选购指南",
+                "link": "https://sspai.com/post/67033",
+                "published": "2021-11-03"
+            },
+            {
                 "title": "Windows 与 iOS 的跨平台协作方案：Dell Mobile Connect",
                 "link": "https://sspai.com/post/69525",
                 "published": "2021-11-03"
@@ -370,6 +375,101 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[机械键盘] HHKB 全球出货量 60w 把 难以置信",
+                "link": "https://www.v2ex.com/t/812794",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] vscode 无法跳转了怎么办？",
+                "link": "https://www.v2ex.com/t/812793",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 求推荐一款好用的记账软件，双十一剁手后想回顾看看战况",
+                "link": "https://www.v2ex.com/t/812791",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Python] 求助一个线性回归模型预测的问题",
+                "link": "https://www.v2ex.com/t/812790",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[服务器] 亚马逊云有类似七牛图片基础处理的服务吗？比如缩略、裁剪、瘦身之类的功能：",
+                "link": "https://www.v2ex.com/t/812789",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[iCloud] Apple Music + iCloud 2T 家庭共享招人",
+                "link": "https://www.v2ex.com/t/812788",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] 12 年 MBP 用户的碎碎念",
+                "link": "https://www.v2ex.com/t/812787",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Windows] 关于 win10 中复制一串字符串后再粘贴结果不一致 bug",
+                "link": "https://www.v2ex.com/t/812786",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[分享创造] 跨平台代理调试工具 iProxy 支持 Linux 了",
+                "link": "https://www.v2ex.com/t/812785",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[职场话题] 人生中灰暗的一天",
+                "link": "https://www.v2ex.com/t/812784",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 如果未来几年内一定发生战争，该怎么进行生活和职业规划？",
+                "link": "https://www.v2ex.com/t/812782",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[MacBook Pro] mbp 13 寸 用什么外接显示器 字体才不会发虚呢？",
+                "link": "https://www.v2ex.com/t/812781",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[iPadOS] 更新 iPadOS15.1 后，苹果公司删除了 iPad8 代之前照片中“实况文本”的支持，各位有什么看法？",
+                "link": "https://www.v2ex.com/t/812780",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] 书接上文，买了一个二手 iPhone 11 感受了 LCD 屏后，把 13PM 出了",
+                "link": "https://www.v2ex.com/t/812779",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[互联网] 有类似于 blockly 这样的工具吗，这个是 JS 写的",
+                "link": "https://www.v2ex.com/t/812777",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[MySQL] mysql 读写分离作用大不大？",
+                "link": "https://www.v2ex.com/t/812776",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[分享创造] 迫于今日大事件导致我服务器被封，我写了个 Serverless 的 PyPi Mirror",
+                "link": "https://www.v2ex.com/t/812774",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[程序员] 有同学接私活，车窗抛物视频识别这类的么",
+                "link": "https://www.v2ex.com/t/812772",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Node.js] npm owner add 添加用户失败",
+                "link": "https://www.v2ex.com/t/812771",
+                "published": "2021-11-03"
+            },
             {
                 "title": "[Apple] M1 的 Android 模拟器现在是个什么情况",
                 "link": "https://www.v2ex.com/t/812768",
@@ -12081,7 +12181,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 17
+        "new_feeds": 19
     },
     {
         "id": 3,
