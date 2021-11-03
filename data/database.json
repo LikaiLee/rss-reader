@@ -356,6 +356,76 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] Win11 如何去除 C 盘文件的只读模式",
+                "link": "https://www.v2ex.com/t/812610",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Python] 求助大佬，为什么用 requests 库的同一份代码，平台不一样，结果也不一样",
+                "link": "https://www.v2ex.com/t/812609",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[酷工作] [成都]华西医院罕见病研究院后端开发实习生招聘",
+                "link": "https://www.v2ex.com/t/812607",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[硬件] 我这配置还能干啥？",
+                "link": "https://www.v2ex.com/t/812606",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[酷工作] [深圳/成都/西安] 华为云大前端团队等你来",
+                "link": "https://www.v2ex.com/t/812605",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 大家每日的手机屏幕时间和电脑屏幕时间各是多久？",
+                "link": "https://www.v2ex.com/t/812603",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Vue.js] 初学 vue, 无意中学到了一个很有意思的方法",
+                "link": "https://www.v2ex.com/t/812602",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Linux] 请小伙伴有偿开发 Linux 应用程序 (c++ 和 Python )",
+                "link": "https://www.v2ex.com/t/812601",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[JavaScript] js 如何实现访问网页，填写信息，并点击按钮，返回相关值",
+                "link": "https://www.v2ex.com/t/812600",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 小米手机忘记锁屏密码了，还有得救吗？",
+                "link": "https://www.v2ex.com/t/812599",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[iOS] Notability 投降了，老用户 lifetime access",
+                "link": "https://www.v2ex.com/t/812598",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[宽带症候群] 主路由遇到了性能问题 改为主路由+AP 可以解决么?",
+                "link": "https://www.v2ex.com/t/812597",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[macOS] Mac Source Ports",
+                "link": "https://www.v2ex.com/t/812596",
+                "published": "2021-11-02"
+            },
+            {
+                "title": "[Apple] 升级 Monterey 后，触控板点选经常不灵光。",
+                "link": "https://www.v2ex.com/t/812595",
+                "published": "2021-11-02"
+            },
+            {
                 "title": "[Apple] 感觉 AirPods 系列的查找功能就是个摆设……",
                 "link": "https://www.v2ex.com/t/812593",
                 "published": "2021-11-02"
@@ -11416,7 +11486,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 14
     },
     {
         "id": 3,

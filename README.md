@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX)
+* [V2EX](#V2EX) 【+14】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-02】 [Apple] 感觉 AirPods 系列的查找功能就是个摆设……](https://www.v2ex.com/t/812593)
-* [【2021-11-02】 [Blender] Blender Studio 的 2021 新电影 Sprite Fright](https://www.v2ex.com/t/812592)
-* [【2021-11-02】 [MacBook Pro] 记录一次在美国找 genius bar 的体验，专业程度令人大跌眼镜](https://www.v2ex.com/t/812591)
-* [【2021-11-02】 [分享发现] 发现微软拼音输入法的一个小彩蛋](https://www.v2ex.com/t/812590)
-* [【2021-11-02】 [macOS] Monterey Quicklook 双击现不再打开文件(?)](https://www.v2ex.com/t/812589)
-* [【2021-11-02】 [分享发现] 给大学时自己的忠告建议?](https://www.v2ex.com/t/812588)
-* [【2021-11-02】 [macOS] Monterey bug，“开发者工具”图标 miss](https://www.v2ex.com/t/812586)
-* [【2021-11-02】 [程序员] UUID 4 的重复概率是多少？](https://www.v2ex.com/t/812585)
-* [【2021-11-02】 [MacBook] 14' M1 Pro 日常工作情境小测（Angular、Unity）](https://www.v2ex.com/t/812583)
-* [【2021-11-02】 [硬件] computer-1](https://www.v2ex.com/t/812582)
+* [【2021-11-03】 [问与答] Win11 如何去除 C 盘文件的只读模式](https://www.v2ex.com/t/812610)
+* [【2021-11-03】 [Python] 求助大佬，为什么用 requests 库的同一份代码，平台不一样，结果也不一样](https://www.v2ex.com/t/812609)
+* [【2021-11-03】 [酷工作] [成都]华西医院罕见病研究院后端开发实习生招聘](https://www.v2ex.com/t/812607)
+* [【2021-11-03】 [硬件] 我这配置还能干啥？](https://www.v2ex.com/t/812606)
+* [【2021-11-03】 [酷工作] [深圳/成都/西安] 华为云大前端团队等你来](https://www.v2ex.com/t/812605)
+* [【2021-11-03】 [问与答] 大家每日的手机屏幕时间和电脑屏幕时间各是多久？](https://www.v2ex.com/t/812603)
+* [【2021-11-03】 [Vue.js] 初学 vue, 无意中学到了一个很有意思的方法](https://www.v2ex.com/t/812602)
+* [【2021-11-03】 [Linux] 请小伙伴有偿开发 Linux 应用程序 (c++ 和 Python )](https://www.v2ex.com/t/812601)
+* [【2021-11-03】 [JavaScript] js 如何实现访问网页，填写信息，并点击按钮，返回相关值](https://www.v2ex.com/t/812600)
+* [【2021-11-03】 [问与答] 小米手机忘记锁屏密码了，还有得救吗？](https://www.v2ex.com/t/812599)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-02 23:20:21
+:alarm_clock: 更新时间: 2021-11-03 01:03:32
