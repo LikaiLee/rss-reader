@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 | 一键制作安装介质，这个小工具让你绕开限制升级 Windows 11",
+                "link": "https://sspai.com/post/69580",
+                "published": "2021-11-03"
+            },
+            {
                 "title": "如果你昨天买了索尼相机，那今天一定得来看看这份索尼镜头选购指南",
                 "link": "https://sspai.com/post/67033",
                 "published": "2021-11-03"
@@ -368,13 +373,78 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[宽带症候群] 四川电信今天下午每隔十分钟更换一次公网 ip",
+                "link": "https://www.v2ex.com/t/812828",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[电影] 关于没有脚的鸟，我终于找到出处了，出自王家卫的《阿飞正传》",
+                "link": "https://www.v2ex.com/t/812827",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[上海] 徐汇网红游戏公司大量招大佬😜",
+                "link": "https://www.v2ex.com/t/812826",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[酷工作] [北京] AppAnnie 招聘 Staff DevOPS Engineer（可远程）",
+                "link": "https://www.v2ex.com/t/812824",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Linux] 订阅制买断制，不如开源软件自愿捐款制",
+                "link": "https://www.v2ex.com/t/812823",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 美本 cs 大三对未来的规划",
+                "link": "https://www.v2ex.com/t/812822",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[汽车] 有哪个 App 在 CarPlay 或安卓车机 App 可以显示歌词的？",
+                "link": "https://www.v2ex.com/t/812821",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[酷工作] 招聘 Python 后端高级工程师",
+                "link": "https://www.v2ex.com/t/812820",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[程序员] Ideavim multiple-cursors 无法用 Ctrl + [ 退出",
+                "link": "https://www.v2ex.com/t/812819",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[macOS] Magic Mouse / Magic Trackpad 妙控板/妙控鼠标 鼠标漂移问题的解决方案",
+                "link": "https://www.v2ex.com/t/812818",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Java] spring-boot 如何引入同一个包多个版本",
+                "link": "https://www.v2ex.com/t/812817",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Java] 《深入理解 Java 虚拟机》里面的这两句话怎么理解啊？",
+                "link": "https://www.v2ex.com/t/812816",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] iOS 15 Siri 史诗级增强: 现在 Siri 可以关闭全部闹钟了",
+                "link": "https://www.v2ex.com/t/812815",
+                "published": "2021-11-03"
+            },
             {
                 "title": "[程序员] 你们对准备转行的程序员的有哪些建议",
                 "link": "https://www.v2ex.com/t/812813",
@@ -12256,7 +12326,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 15
+        "new_feeds": 13
     },
     {
         "id": 3,

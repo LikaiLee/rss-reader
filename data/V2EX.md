@@ -1,6 +1,19 @@
 # V2EX
 
 
+* [2021-11-03  [宽带症候群] 四川电信今天下午每隔十分钟更换一次公网 ip](https://www.v2ex.com/t/812828)
+* [2021-11-03  [电影] 关于没有脚的鸟，我终于找到出处了，出自王家卫的《阿飞正传》](https://www.v2ex.com/t/812827)
+* [2021-11-03  [上海] 徐汇网红游戏公司大量招大佬😜](https://www.v2ex.com/t/812826)
+* [2021-11-03  [酷工作] [北京] AppAnnie 招聘 Staff DevOPS Engineer（可远程）](https://www.v2ex.com/t/812824)
+* [2021-11-03  [Linux] 订阅制买断制，不如开源软件自愿捐款制](https://www.v2ex.com/t/812823)
+* [2021-11-03  [问与答] 美本 cs 大三对未来的规划](https://www.v2ex.com/t/812822)
+* [2021-11-03  [汽车] 有哪个 App 在 CarPlay 或安卓车机 App 可以显示歌词的？](https://www.v2ex.com/t/812821)
+* [2021-11-03  [酷工作] 招聘 Python 后端高级工程师](https://www.v2ex.com/t/812820)
+* [2021-11-03  [程序员] Ideavim multiple-cursors 无法用 Ctrl + [ 退出](https://www.v2ex.com/t/812819)
+* [2021-11-03  [macOS] Magic Mouse / Magic Trackpad 妙控板/妙控鼠标 鼠标漂移问题的解决方案](https://www.v2ex.com/t/812818)
+* [2021-11-03  [Java] spring-boot 如何引入同一个包多个版本](https://www.v2ex.com/t/812817)
+* [2021-11-03  [Java] 《深入理解 Java 虚拟机》里面的这两句话怎么理解啊？](https://www.v2ex.com/t/812816)
+* [2021-11-03  [Apple] iOS 15 Siri 史诗级增强: 现在 Siri 可以关闭全部闹钟了](https://www.v2ex.com/t/812815)
 * [2021-11-03  [程序员] 你们对准备转行的程序员的有哪些建议](https://www.v2ex.com/t/812813)
 * [2021-11-03  [程序员] 开发速度最快的 Web 框架？](https://www.v2ex.com/t/812812)
 * [2021-11-03  [微信] WeiXin 转 WeChat 可能的情况](https://www.v2ex.com/t/812811)

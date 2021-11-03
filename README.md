@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+15】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+13】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-03】 App+1 | 一键制作安装介质，这个小工具让你绕开限制升级 Windows 11](https://sspai.com/post/69580)
 * [【2021-11-03】 如果你昨天买了索尼相机，那今天一定得来看看这份索尼镜头选购指南](https://sspai.com/post/67033)
 * [【2021-11-03】 Windows 与 iOS 的跨平台协作方案：Dell Mobile Connect](https://sspai.com/post/69525)
 * [【2021-11-03】 能扫能拖的洗地机怎么选：聊聊那些值得你了解的优缺点](https://sspai.com/post/69486)
@@ -37,7 +38,6 @@
 * [【2021-11-02】 考物阁 01 | 我买了一块号称「世界最薄」的折叠键盘](https://sspai.com/post/69537)
 * [【2021-11-02】 派早报：Beats Fit Pro 正式公布，Google 将修复 Pixel 6 Pro 屏幕闪烁问题等](https://sspai.com/post/69631)
 * [【2021-11-01】 全新配色来了 ，正是入手的好时机：HomePod mini 体验分享](https://sspai.com/post/69624)
-* [【2021-11-01】 派评 | 近期值得关注的 App](https://sspai.com/post/69623)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-03】 [程序员] 你们对准备转行的程序员的有哪些建议](https://www.v2ex.com/t/812813)
-* [【2021-11-03】 [程序员] 开发速度最快的 Web 框架？](https://www.v2ex.com/t/812812)
-* [【2021-11-03】 [微信] WeiXin 转 WeChat 可能的情况](https://www.v2ex.com/t/812811)
-* [【2021-11-03】 [云计算] 腾讯云的 CLB 价格涨了 10 倍....](https://www.v2ex.com/t/812810)
-* [【2021-11-03】 [互联网] 大家有没有觉得我们现在的互联网其实是不自由的？我们现在很容易被互联网公司巨头垄断和控制](https://www.v2ex.com/t/812809)
-* [【2021-11-03】 [问与答] 请教一下浏览器字体问题](https://www.v2ex.com/t/812807)
-* [【2021-11-03】 [程序员] 关于 Nginx 和 Swagger UI 的问题](https://www.v2ex.com/t/812805)
-* [【2021-11-03】 [北京] 喜欢小猫的进，免费领养小猫咪！](https://www.v2ex.com/t/812804)
-* [【2021-11-03】 [问与答] 老革命遇到新问题，关于局域网内传输文件速度的问题](https://www.v2ex.com/t/812803)
-* [【2021-11-03】 [程序员] 如何防止手机 App 获得 SIM 卡上的信息（如手机号、归属地）](https://www.v2ex.com/t/812801)
+* [【2021-11-03】 [宽带症候群] 四川电信今天下午每隔十分钟更换一次公网 ip](https://www.v2ex.com/t/812828)
+* [【2021-11-03】 [电影] 关于没有脚的鸟，我终于找到出处了，出自王家卫的《阿飞正传》](https://www.v2ex.com/t/812827)
+* [【2021-11-03】 [上海] 徐汇网红游戏公司大量招大佬😜](https://www.v2ex.com/t/812826)
+* [【2021-11-03】 [酷工作] [北京] AppAnnie 招聘 Staff DevOPS Engineer（可远程）](https://www.v2ex.com/t/812824)
+* [【2021-11-03】 [Linux] 订阅制买断制，不如开源软件自愿捐款制](https://www.v2ex.com/t/812823)
+* [【2021-11-03】 [问与答] 美本 cs 大三对未来的规划](https://www.v2ex.com/t/812822)
+* [【2021-11-03】 [汽车] 有哪个 App 在 CarPlay 或安卓车机 App 可以显示歌词的？](https://www.v2ex.com/t/812821)
+* [【2021-11-03】 [酷工作] 招聘 Python 后端高级工程师](https://www.v2ex.com/t/812820)
+* [【2021-11-03】 [程序员] Ideavim multiple-cursors 无法用 Ctrl + [ 退出](https://www.v2ex.com/t/812819)
+* [【2021-11-03】 [macOS] Magic Mouse / Magic Trackpad 妙控板/妙控鼠标 鼠标漂移问题的解决方案](https://www.v2ex.com/t/812818)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-03 10:21:57
+:alarm_clock: 更新时间: 2021-11-03 11:16:40
