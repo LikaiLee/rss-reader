@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+14】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+8】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-03】 能扫能拖的洗地机怎么选：聊聊那些值得你了解的优缺点](https://sspai.com/post/69486)
 * [【2021-11-03】 派早报：联想推出多款笔记本新品、摩托罗拉 G51 正式发布](https://sspai.com/post/69645)
 * [【2021-11-02】 想挑一台微单，除了双十一的好价你还需要了解什么？](https://sspai.com/post/69635)
 * [【2021-11-02】 知名 iPad 创作工具大更新，你可以在 Procreate 中进行 3D 绘画了](https://sspai.com/post/69630)
@@ -37,7 +38,6 @@
 * [【2021-11-01】 派评 | 近期值得关注的 App](https://sspai.com/post/69623)
 * [【2021-11-01】 如何更好地保护手机数据隐私？这 10 款 App 你可能用得上](https://sspai.com/post/69618)
 * [【2021-11-01】 互联网广告机器的新戏法：Google FLoC 科普](https://sspai.com/post/69617)
-* [【2021-11-01】 做好个人数据与隐私防护，从这份检查清单开始](https://sspai.com/post/56066)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-11-03】 [优惠信息] 十一月最新|服务器开车，阿里云免费领一年服务器，](https://www.v2ex.com/t/812696)
+* [【2021-11-03】 [投资] 微牛证券是要倒闭了吗？](https://www.v2ex.com/t/812694)
+* [【2021-11-03】 [程序员] 请教各位帅哥: 安卓开发问题: TXT 电子书如何识别并记忆阅读的段落位置?](https://www.v2ex.com/t/812693)
+* [【2021-11-03】 [Apple] 麻了， ios15.1 夜间耗电 30%是什么情况](https://www.v2ex.com/t/812692)
+* [【2021-11-03】 [Apple] [降价了 Goodnote] 25 块（3.99 刀）的 goodnote 它来了！](https://www.v2ex.com/t/812691)
+* [【2021-11-03】 [宽带症候群] 光猫 - 路由器（开启 NAT）vs 光猫 - 路由器（纯 AP）](https://www.v2ex.com/t/812688)
+* [【2021-11-03】 [路由器] 有线 mesh 组网，求路由器推荐](https://www.v2ex.com/t/812687)
+* [【2021-11-03】 [分享发现] Goodnotes 促销降价了，只要 25](https://www.v2ex.com/t/812684)
 * [【2021-11-03】 [推广] 中国历史实体集](https://www.v2ex.com/t/812682)
 * [【2021-11-03】 [Telegram] TG 他来了他来了 宇宙全栈交流群](https://www.v2ex.com/t/812681)
-* [【2021-11-03】 [随想] 有没有喜欢在冬天用冷水冲澡的？](https://www.v2ex.com/t/812680)
-* [【2021-11-03】 [随想] 成功的在公司弄了个游戏机房......](https://www.v2ex.com/t/812679)
-* [【2021-11-03】 [问与答] 2021 年还有人用阿里巴巴的 iconfont 吗？](https://www.v2ex.com/t/812678)
-* [【2021-11-03】 [macOS] macbook 显示器关闭后再开启 夜览失效](https://www.v2ex.com/t/812677)
-* [【2021-11-03】 [程序员] 转发招聘:嵌入式开发、初级，高级工程师。](https://www.v2ex.com/t/812676)
-* [【2021-11-03】 [分享发现] Xshell 付费方式的详细说明](https://www.v2ex.com/t/812675)
-* [【2021-11-03】 [API] 同一个网站的两个 API 请求，一个可以正常返回，一个报 404，请求大佬帮忙看看](https://www.v2ex.com/t/812673)
-* [【2021-11-03】 [全球工单系统] 联通的大王卡公众号「王卡助手」用户数据错乱，可看到其他人用户信息](https://www.v2ex.com/t/812671)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-03 04:26:14
+:alarm_clock: 更新时间: 2021-11-03 05:17:46

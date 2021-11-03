@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "能扫能拖的洗地机怎么选：聊聊那些值得你了解的优缺点",
+                "link": "https://sspai.com/post/69486",
+                "published": "2021-11-03"
+            },
+            {
                 "title": "派早报：联想推出多款笔记本新品、摩托罗拉 G51 正式发布",
                 "link": "https://sspai.com/post/69645",
                 "published": "2021-11-03"
@@ -353,13 +358,53 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[优惠信息] 十一月最新|服务器开车，阿里云免费领一年服务器，",
+                "link": "https://www.v2ex.com/t/812696",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[投资] 微牛证券是要倒闭了吗？",
+                "link": "https://www.v2ex.com/t/812694",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[程序员] 请教各位帅哥: 安卓开发问题: TXT 电子书如何识别并记忆阅读的段落位置?",
+                "link": "https://www.v2ex.com/t/812693",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] 麻了， ios15.1 夜间耗电 30%是什么情况",
+                "link": "https://www.v2ex.com/t/812692",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] [降价了 Goodnote] 25 块（3.99 刀）的 goodnote 它来了！",
+                "link": "https://www.v2ex.com/t/812691",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[宽带症候群] 光猫 - 路由器（开启 NAT）vs 光猫 - 路由器（纯 AP）",
+                "link": "https://www.v2ex.com/t/812688",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[路由器] 有线 mesh 组网，求路由器推荐",
+                "link": "https://www.v2ex.com/t/812687",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[分享发现] Goodnotes 促销降价了，只要 25",
+                "link": "https://www.v2ex.com/t/812684",
+                "published": "2021-11-03"
+            },
             {
                 "title": "[推广] 中国历史实体集",
                 "link": "https://www.v2ex.com/t/812682",
@@ -11786,7 +11831,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 14
+        "new_feeds": 8
     },
     {
         "id": 3,
@@ -12239,6 +12284,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
