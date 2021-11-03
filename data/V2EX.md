@@ -1,6 +1,23 @@
 # V2EX
 
 
+* [2021-11-03  [问与答] 关于 vivaldi 使用中的一些问题求解？](https://www.v2ex.com/t/812719)
+* [2021-11-03  [问与答] 迫于刷机，美区的 Paypal 二次验证丢了，有操作空间吗](https://www.v2ex.com/t/812717)
+* [2021-11-03  [Apple] 千万别更新 notability，更新后还是 1 年的订阅](https://www.v2ex.com/t/812716)
+* [2021-11-03  [Google] Google 即将为多数帐号自动开启两步验证](https://www.v2ex.com/t/812715)
+* [2021-11-03  [程序员] 你们阿里邮箱还能登录吗](https://www.v2ex.com/t/812714)
+* [2021-11-03  [Apple] goodNote5 今日半价](https://www.v2ex.com/t/812712)
+* [2021-11-03  [推广] 腾讯云阿里云双十一惊爆价来了](https://www.v2ex.com/t/812709)
+* [2021-11-03  [Apple] GoodNote 笑着降价了 25 人民币迎接某笔记的难民。](https://www.v2ex.com/t/812708)
+* [2021-11-03  [Apple] 关于 iOS 字体上方缺失一像素的 feature](https://www.v2ex.com/t/812707)
+* [2021-11-03  [职场话题] 请问满一年辞职和快满一年辞职，在招聘的时候 hr 眼里差别大吗？](https://www.v2ex.com/t/812706)
+* [2021-11-03  [Apple] AirPods Pro 降噪效果变差，要不要一起起诉 Apple？](https://www.v2ex.com/t/812705)
+* [2021-11-03  [酷工作] [字节跳动-北京] 急招-后端开发工程师-研发质效-实习生](https://www.v2ex.com/t/812704)
+* [2021-11-03  [问与答] xtrafinder 在 mac 12 上不能用了](https://www.v2ex.com/t/812701)
+* [2021-11-03  [iPadOS] iPados 15.1 照片 无法使用 文字识别](https://www.v2ex.com/t/812700)
+* [2021-11-03  [酷工作] [上海]句子控招聘前端、Golang、iOS 开发工程师和实习生](https://www.v2ex.com/t/812699)
+* [2021-11-03  [分享发现] 雅虎停止为中国大陆提供服务](https://www.v2ex.com/t/812698)
+* [2021-11-03  [Apple] 当初 paste 改订阅制咋没有人喷](https://www.v2ex.com/t/812697)
 * [2021-11-03  [优惠信息] 十一月最新|服务器开车，阿里云免费领一年服务器，](https://www.v2ex.com/t/812696)
 * [2021-11-03  [投资] 微牛证券是要倒闭了吗？](https://www.v2ex.com/t/812694)
 * [2021-11-03  [程序员] 请教各位帅哥: 安卓开发问题: TXT 电子书如何识别并记忆阅读的段落位置?](https://www.v2ex.com/t/812693)

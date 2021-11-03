@@ -358,13 +358,98 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 关于 vivaldi 使用中的一些问题求解？",
+                "link": "https://www.v2ex.com/t/812719",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 迫于刷机，美区的 Paypal 二次验证丢了，有操作空间吗",
+                "link": "https://www.v2ex.com/t/812717",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] 千万别更新 notability，更新后还是 1 年的订阅",
+                "link": "https://www.v2ex.com/t/812716",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Google] Google 即将为多数帐号自动开启两步验证",
+                "link": "https://www.v2ex.com/t/812715",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[程序员] 你们阿里邮箱还能登录吗",
+                "link": "https://www.v2ex.com/t/812714",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] goodNote5 今日半价",
+                "link": "https://www.v2ex.com/t/812712",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[推广] 腾讯云阿里云双十一惊爆价来了",
+                "link": "https://www.v2ex.com/t/812709",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] GoodNote 笑着降价了 25 人民币迎接某笔记的难民。",
+                "link": "https://www.v2ex.com/t/812708",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] 关于 iOS 字体上方缺失一像素的 feature",
+                "link": "https://www.v2ex.com/t/812707",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[职场话题] 请问满一年辞职和快满一年辞职，在招聘的时候 hr 眼里差别大吗？",
+                "link": "https://www.v2ex.com/t/812706",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] AirPods Pro 降噪效果变差，要不要一起起诉 Apple？",
+                "link": "https://www.v2ex.com/t/812705",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[酷工作] [字节跳动-北京] 急招-后端开发工程师-研发质效-实习生",
+                "link": "https://www.v2ex.com/t/812704",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] xtrafinder 在 mac 12 上不能用了",
+                "link": "https://www.v2ex.com/t/812701",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[iPadOS] iPados 15.1 照片 无法使用 文字识别",
+                "link": "https://www.v2ex.com/t/812700",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[酷工作] [上海]句子控招聘前端、Golang、iOS 开发工程师和实习生",
+                "link": "https://www.v2ex.com/t/812699",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[分享发现] 雅虎停止为中国大陆提供服务",
+                "link": "https://www.v2ex.com/t/812698",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[Apple] 当初 paste 改订阅制咋没有人喷",
+                "link": "https://www.v2ex.com/t/812697",
+                "published": "2021-11-03"
+            },
             {
                 "title": "[优惠信息] 十一月最新|服务器开车，阿里云免费领一年服务器，",
                 "link": "https://www.v2ex.com/t/812696",
@@ -11831,13 +11916,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 17
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "日本新冠确诊断崖式下降，全球日增确诊下降超 50％，可能是德尔塔病毒在「自我灭绝」，疫情会自动消失吗？",
+                "link": "http://www.zhihu.com/question/496005316/answer/2203014101?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-03"
+            },
             {
                 "title": "「人武部给预备役退伍军人发召回短信」系谣言，伪造散播涉军谣言将会受到什么处罚？",
                 "link": "http://www.zhihu.com/question/496304840/answer/2203847145?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -12284,6 +12374,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

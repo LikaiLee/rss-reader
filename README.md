@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+8】
-* [知乎每日精选](#知乎每日精选)
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+17】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-03】 [优惠信息] 十一月最新|服务器开车，阿里云免费领一年服务器，](https://www.v2ex.com/t/812696)
-* [【2021-11-03】 [投资] 微牛证券是要倒闭了吗？](https://www.v2ex.com/t/812694)
-* [【2021-11-03】 [程序员] 请教各位帅哥: 安卓开发问题: TXT 电子书如何识别并记忆阅读的段落位置?](https://www.v2ex.com/t/812693)
-* [【2021-11-03】 [Apple] 麻了， ios15.1 夜间耗电 30%是什么情况](https://www.v2ex.com/t/812692)
-* [【2021-11-03】 [Apple] [降价了 Goodnote] 25 块（3.99 刀）的 goodnote 它来了！](https://www.v2ex.com/t/812691)
-* [【2021-11-03】 [宽带症候群] 光猫 - 路由器（开启 NAT）vs 光猫 - 路由器（纯 AP）](https://www.v2ex.com/t/812688)
-* [【2021-11-03】 [路由器] 有线 mesh 组网，求路由器推荐](https://www.v2ex.com/t/812687)
-* [【2021-11-03】 [分享发现] Goodnotes 促销降价了，只要 25](https://www.v2ex.com/t/812684)
-* [【2021-11-03】 [推广] 中国历史实体集](https://www.v2ex.com/t/812682)
-* [【2021-11-03】 [Telegram] TG 他来了他来了 宇宙全栈交流群](https://www.v2ex.com/t/812681)
+* [【2021-11-03】 [问与答] 关于 vivaldi 使用中的一些问题求解？](https://www.v2ex.com/t/812719)
+* [【2021-11-03】 [问与答] 迫于刷机，美区的 Paypal 二次验证丢了，有操作空间吗](https://www.v2ex.com/t/812717)
+* [【2021-11-03】 [Apple] 千万别更新 notability，更新后还是 1 年的订阅](https://www.v2ex.com/t/812716)
+* [【2021-11-03】 [Google] Google 即将为多数帐号自动开启两步验证](https://www.v2ex.com/t/812715)
+* [【2021-11-03】 [程序员] 你们阿里邮箱还能登录吗](https://www.v2ex.com/t/812714)
+* [【2021-11-03】 [Apple] goodNote5 今日半价](https://www.v2ex.com/t/812712)
+* [【2021-11-03】 [推广] 腾讯云阿里云双十一惊爆价来了](https://www.v2ex.com/t/812709)
+* [【2021-11-03】 [Apple] GoodNote 笑着降价了 25 人民币迎接某笔记的难民。](https://www.v2ex.com/t/812708)
+* [【2021-11-03】 [Apple] 关于 iOS 字体上方缺失一像素的 feature](https://www.v2ex.com/t/812707)
+* [【2021-11-03】 [职场话题] 请问满一年辞职和快满一年辞职，在招聘的时候 hr 眼里差别大吗？](https://www.v2ex.com/t/812706)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -66,6 +66,7 @@
     </summary>
 
 
+* [【2021-11-03】 日本新冠确诊断崖式下降，全球日增确诊下降超 50％，可能是德尔塔病毒在「自我灭绝」，疫情会自动消失吗？](http://www.zhihu.com/question/496005316/answer/2203014101?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-03】 「人武部给预备役退伍军人发召回短信」系谣言，伪造散播涉军谣言将会受到什么处罚？](http://www.zhihu.com/question/496304840/answer/2203847145?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-03】 《沙丘》原著粉如何评价电影版《沙丘》？](http://www.zhihu.com/question/493552121/answer/2192864483?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-02】 中国实现连续丰收 18 年，你如何看待这一喜讯？「中国饭碗」到底有多硬？](http://www.zhihu.com/question/496056671/answer/2202456757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -75,7 +76,6 @@
 * [【2021-10-30】 蔡澜「尽量地学习、尽量地经历、尽量地旅游、尽量地吃好东西、人生就比较美好一点」，你做到了哪一个？](http://www.zhihu.com/question/494470638/answer/2195551588?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-29】 如何评价国产动画《一人之下》第四季第七集？](http://www.zhihu.com/question/495115983/answer/2195507303?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-29】 「致敬可爱的人」中学生写下103封信寄往边关，边防战士的生活是什么样？你还听过哪些关于军人的暖心故事？](http://www.zhihu.com/question/494851886/answer/2195199722?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-10-28】 国产动画《猫之茗》开播，你感觉如何？](http://www.zhihu.com/question/494397661/answer/2194079203?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-03 05:17:46
+:alarm_clock: 更新时间: 2021-11-03 06:23:40
