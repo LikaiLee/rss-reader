@@ -381,6 +381,46 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 真是给 AM 整吐了 macOS 一直无法更新云端资料库到本地 提示 [现在无法更新妙选的结果 一个内部服务器错误发生]",
+                "link": "https://www.v2ex.com/t/812864",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[酷工作] [杭州] String 招聘后端数据架构师！",
+                "link": "https://www.v2ex.com/t/812862",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[JavaScript] 前端动画效果有什么推荐的教程或者书可以学习吗？",
+                "link": "https://www.v2ex.com/t/812861",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[MacBook Pro] MagSafe2 与 MagSafe3",
+                "link": "https://www.v2ex.com/t/812860",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[程序员] 下班回家后，发现我的小爱音箱正在放电影，一切是那么诡异",
+                "link": "https://www.v2ex.com/t/812859",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[分享创造] 这阵子不知道吃啥了，干脆写了个吃啥的转盘小程序 嘿嘿",
+                "link": "https://www.v2ex.com/t/812856",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 求一款手机浏览器能用审查元素的软件",
+                "link": "https://www.v2ex.com/t/812854",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[生活] 吐槽下，老婆走路时掉了手机",
+                "link": "https://www.v2ex.com/t/812853",
+                "published": "2021-11-03"
+            },
+            {
                 "title": "[问与答] 除了滴答清单，有哪些好用的待办清单类工具？",
                 "link": "https://www.v2ex.com/t/812852",
                 "published": "2021-11-03"
@@ -12416,7 +12456,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 8
     },
     {
         "id": 3,
