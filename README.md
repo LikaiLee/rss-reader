@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派)
 * [V2EX](#V2EX) 【+13】
 * [知乎每日精选](#知乎每日精选)
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-03】 [宽带症候群] 四川电信今天下午每隔十分钟更换一次公网 ip](https://www.v2ex.com/t/812828)
-* [【2021-11-03】 [电影] 关于没有脚的鸟，我终于找到出处了，出自王家卫的《阿飞正传》](https://www.v2ex.com/t/812827)
-* [【2021-11-03】 [上海] 徐汇网红游戏公司大量招大佬😜](https://www.v2ex.com/t/812826)
-* [【2021-11-03】 [酷工作] [北京] AppAnnie 招聘 Staff DevOPS Engineer（可远程）](https://www.v2ex.com/t/812824)
-* [【2021-11-03】 [Linux] 订阅制买断制，不如开源软件自愿捐款制](https://www.v2ex.com/t/812823)
-* [【2021-11-03】 [问与答] 美本 cs 大三对未来的规划](https://www.v2ex.com/t/812822)
-* [【2021-11-03】 [汽车] 有哪个 App 在 CarPlay 或安卓车机 App 可以显示歌词的？](https://www.v2ex.com/t/812821)
-* [【2021-11-03】 [酷工作] 招聘 Python 后端高级工程师](https://www.v2ex.com/t/812820)
-* [【2021-11-03】 [程序员] Ideavim multiple-cursors 无法用 Ctrl + [ 退出](https://www.v2ex.com/t/812819)
-* [【2021-11-03】 [macOS] Magic Mouse / Magic Trackpad 妙控板/妙控鼠标 鼠标漂移问题的解决方案](https://www.v2ex.com/t/812818)
+* [【2021-11-03】 [NAS] 群晖 Drive 能保存文件的 32 个以上历史版本吗？](https://www.v2ex.com/t/812847)
+* [【2021-11-03】 [分享发现] [阿里云盘] 最全奥特曼大合集！](https://www.v2ex.com/t/812846)
+* [【2021-11-03】 [路由器] 双十一有软路由推荐吗？](https://www.v2ex.com/t/812845)
+* [【2021-11-03】 [问与答] 群晖 NAS 搭建私有邮箱服务器，并在 iOS 邮件 app 登陆时的邮件主动推送问题](https://www.v2ex.com/t/812844)
+* [【2021-11-03】 [职场话题] 校招 Offer 决赛圈，求各位前辈指点](https://www.v2ex.com/t/812842)
+* [【2021-11-03】 [PlayStation 5] 血缘、只狼、魂 3，先入一款试水的情况下，大家推荐哪一款？](https://www.v2ex.com/t/812841)
+* [【2021-11-03】 [问与答] 给一家公司定制开发了一个小程序，反复改了好几版，客户一直不确认，如何处理？](https://www.v2ex.com/t/812840)
+* [【2021-11-03】 [全球工单系统] 微软的产品文档页面出现了奇奇怪怪的字符](https://www.v2ex.com/t/812837)
+* [【2021-11-03】 [Apple] 有用 iPad 玩文明 6 的哥么？](https://www.v2ex.com/t/812835)
+* [【2021-11-03】 [上海] 求租房子](https://www.v2ex.com/t/812834)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-03 11:16:40
+:alarm_clock: 更新时间: 2021-11-03 12:31:40
