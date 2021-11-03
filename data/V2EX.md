@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-11-03  [Apple] M1 Mac 玩原神的效果怎么样？](https://www.v2ex.com/t/812894)
 * [2021-11-03  [Kubernetes] 我在我的 k8s 集群里跑了一个 Minecraft 服务器](https://www.v2ex.com/t/812893)
 * [2021-11-03  [宽带症候群] 为什么互相 ping 的延迟不一样？](https://www.v2ex.com/t/812892)
 * [2021-11-03  [World of Warcraft] 有人玩美服的 WOW 怀旧服吗？](https://www.v2ex.com/t/812880)

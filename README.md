@@ -47,6 +47,7 @@
     </summary>
 
 
+* [【2021-11-03】 [Apple] M1 Mac 玩原神的效果怎么样？](https://www.v2ex.com/t/812894)
 * [【2021-11-03】 [Kubernetes] 我在我的 k8s 集群里跑了一个 Minecraft 服务器](https://www.v2ex.com/t/812893)
 * [【2021-11-03】 [宽带症候群] 为什么互相 ping 的延迟不一样？](https://www.v2ex.com/t/812892)
 * [【2021-11-03】 [World of Warcraft] 有人玩美服的 WOW 怀旧服吗？](https://www.v2ex.com/t/812880)
@@ -56,7 +57,6 @@
 * [【2021-11-03】 [问与答] Logitech Option 这一类驱动，耗电吗？](https://www.v2ex.com/t/812882)
 * [【2021-11-03】 [随想] 有人玩美服的 WOW 怀旧服吗？](https://www.v2ex.com/t/812880)
 * [【2021-11-03】 [MacBook Pro] 12.1 Beta 版好像已经解决了内存泄漏问题](https://www.v2ex.com/t/812878)
-* [【2021-11-03】 [宽带症候群] 联通的光猫可以拆掉天线吗？](https://www.v2ex.com/t/812877)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-03 22:18:54
+:alarm_clock: 更新时间: 2021-11-03 23:19:24

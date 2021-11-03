@@ -381,6 +381,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] M1 Mac 玩原神的效果怎么样？",
+                "link": "https://www.v2ex.com/t/812894",
+                "published": "2021-11-03"
+            },
+            {
                 "title": "[Kubernetes] 我在我的 k8s 集群里跑了一个 Minecraft 服务器",
                 "link": "https://www.v2ex.com/t/812893",
                 "published": "2021-11-03"
