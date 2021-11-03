@@ -381,6 +381,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 除了滴答清单，有哪些好用的待办清单类工具？",
+                "link": "https://www.v2ex.com/t/812852",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[AirPods] AirPods 3，唉",
+                "link": "https://www.v2ex.com/t/812851",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[酷工作] [深圳高新园] Cloud Ace 招聘谷歌云工程师",
+                "link": "https://www.v2ex.com/t/812850",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[程序员] 群晖 NAS 搭建私有邮箱服务器，并在 iOS 自带的邮件 APP 上实现邮件主动推送",
+                "link": "https://www.v2ex.com/t/812849",
+                "published": "2021-11-03"
+            },
+            {
+                "title": "[问与答] 求解一个数学坐标系问题",
+                "link": "https://www.v2ex.com/t/812848",
+                "published": "2021-11-03"
+            },
+            {
                 "title": "[NAS] 群晖 Drive 能保存文件的 32 个以上历史版本吗？",
                 "link": "https://www.v2ex.com/t/812847",
                 "published": "2021-11-03"
@@ -12391,7 +12416,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 13
+        "new_feeds": 5
     },
     {
         "id": 3,
