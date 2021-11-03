@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+19】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+15】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-03】 [机械键盘] HHKB 全球出货量 60w 把 难以置信](https://www.v2ex.com/t/812794)
-* [【2021-11-03】 [问与答] vscode 无法跳转了怎么办？](https://www.v2ex.com/t/812793)
-* [【2021-11-03】 [问与答] 求推荐一款好用的记账软件，双十一剁手后想回顾看看战况](https://www.v2ex.com/t/812791)
-* [【2021-11-03】 [Python] 求助一个线性回归模型预测的问题](https://www.v2ex.com/t/812790)
-* [【2021-11-03】 [服务器] 亚马逊云有类似七牛图片基础处理的服务吗？比如缩略、裁剪、瘦身之类的功能：](https://www.v2ex.com/t/812789)
-* [【2021-11-03】 [iCloud] Apple Music + iCloud 2T 家庭共享招人](https://www.v2ex.com/t/812788)
-* [【2021-11-03】 [Apple] 12 年 MBP 用户的碎碎念](https://www.v2ex.com/t/812787)
-* [【2021-11-03】 [Windows] 关于 win10 中复制一串字符串后再粘贴结果不一致 bug](https://www.v2ex.com/t/812786)
-* [【2021-11-03】 [分享创造] 跨平台代理调试工具 iProxy 支持 Linux 了](https://www.v2ex.com/t/812785)
-* [【2021-11-03】 [职场话题] 人生中灰暗的一天](https://www.v2ex.com/t/812784)
+* [【2021-11-03】 [程序员] 你们对准备转行的程序员的有哪些建议](https://www.v2ex.com/t/812813)
+* [【2021-11-03】 [程序员] 开发速度最快的 Web 框架？](https://www.v2ex.com/t/812812)
+* [【2021-11-03】 [微信] WeiXin 转 WeChat 可能的情况](https://www.v2ex.com/t/812811)
+* [【2021-11-03】 [云计算] 腾讯云的 CLB 价格涨了 10 倍....](https://www.v2ex.com/t/812810)
+* [【2021-11-03】 [互联网] 大家有没有觉得我们现在的互联网其实是不自由的？我们现在很容易被互联网公司巨头垄断和控制](https://www.v2ex.com/t/812809)
+* [【2021-11-03】 [问与答] 请教一下浏览器字体问题](https://www.v2ex.com/t/812807)
+* [【2021-11-03】 [程序员] 关于 Nginx 和 Swagger UI 的问题](https://www.v2ex.com/t/812805)
+* [【2021-11-03】 [北京] 喜欢小猫的进，免费领养小猫咪！](https://www.v2ex.com/t/812804)
+* [【2021-11-03】 [问与答] 老革命遇到新问题，关于局域网内传输文件速度的问题](https://www.v2ex.com/t/812803)
+* [【2021-11-03】 [程序员] 如何防止手机 App 获得 SIM 卡上的信息（如手机号、归属地）](https://www.v2ex.com/t/812801)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-03 09:20:03
+:alarm_clock: 更新时间: 2021-11-03 10:21:57
