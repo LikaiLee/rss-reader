@@ -403,13 +403,98 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Java] Spring controller 的两个问题",
+                "link": "https://www.v2ex.com/t/813135",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] csdn 被攻击了还是我被劫持了？",
+                "link": "https://www.v2ex.com/t/813133",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[macOS] 用群晖做 time machine 不会自动删除旧备份？",
+                "link": "https://www.v2ex.com/t/813132",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] V2EX 手机登网页没有发帖功能吗？",
+                "link": "https://www.v2ex.com/t/813131",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[macOS] 准备卖掉 macbook 笔记本，请问如何彻底格式化系统？？",
+                "link": "https://www.v2ex.com/t/813130",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[酷工作] 招聘汇总：开发类岗位-上海/新加坡/香港/远程",
+                "link": "https://www.v2ex.com/t/813129",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Windows] Windows 11 下， Edge 的 tab 栏 在聚焦和非聚焦下似乎使用了两种不同的字体",
+                "link": "https://www.v2ex.com/t/813127",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[macOS] 升级到 macOS Monterey 后 Type-C 链接显示器无法反向充电",
+                "link": "https://www.v2ex.com/t/813126",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[求职] [深圳] 求职意向： ETL/BI 工程师",
+                "link": "https://www.v2ex.com/t/813125",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 有做过牙齿矫正的吗？能说说体验和感受吗",
+                "link": "https://www.v2ex.com/t/813124",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[酷工作] 推广一下自己做的网站，专注于介绍内推日本互联网大厂工作机会",
+                "link": "https://www.v2ex.com/t/813122",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Mac mini] 退了 14 寸 M1 Pro，咸鱼了个 M1 Mac mini",
+                "link": "https://www.v2ex.com/t/813121",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Go 编程语言] 有没有成熟一些 golang 的 mqtt broker 开源项目介绍",
+                "link": "https://www.v2ex.com/t/813120",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 有没有快速搜索 cheat sheet 的软件",
+                "link": "https://www.v2ex.com/t/813118",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 各位推荐几家美西小鸡提供商吧",
+                "link": "https://www.v2ex.com/t/813117",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[随想] 对中文互联网有点失望怎么办？",
+                "link": "https://www.v2ex.com/t/813112",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[推广] 鉴于生活压力，准备供应一些自家的盘锦蟹田大米，有老哥需要订购的吗？",
+                "link": "https://www.v2ex.com/t/813076",
+                "published": "2021-11-04"
+            },
             {
                 "title": "[问与答] 对中文互联网有点失望怎么办？",
                 "link": "https://www.v2ex.com/t/813112",
@@ -13401,7 +13486,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 17
     },
     {
         "id": 3,

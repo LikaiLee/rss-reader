@@ -1,6 +1,23 @@
 # V2EX
 
 
+* [2021-11-04  [Java] Spring controller 的两个问题](https://www.v2ex.com/t/813135)
+* [2021-11-04  [问与答] csdn 被攻击了还是我被劫持了？](https://www.v2ex.com/t/813133)
+* [2021-11-04  [macOS] 用群晖做 time machine 不会自动删除旧备份？](https://www.v2ex.com/t/813132)
+* [2021-11-04  [问与答] V2EX 手机登网页没有发帖功能吗？](https://www.v2ex.com/t/813131)
+* [2021-11-04  [macOS] 准备卖掉 macbook 笔记本，请问如何彻底格式化系统？？](https://www.v2ex.com/t/813130)
+* [2021-11-04  [酷工作] 招聘汇总：开发类岗位-上海/新加坡/香港/远程](https://www.v2ex.com/t/813129)
+* [2021-11-04  [Windows] Windows 11 下， Edge 的 tab 栏 在聚焦和非聚焦下似乎使用了两种不同的字体](https://www.v2ex.com/t/813127)
+* [2021-11-04  [macOS] 升级到 macOS Monterey 后 Type-C 链接显示器无法反向充电](https://www.v2ex.com/t/813126)
+* [2021-11-04  [求职] [深圳] 求职意向： ETL/BI 工程师](https://www.v2ex.com/t/813125)
+* [2021-11-04  [问与答] 有做过牙齿矫正的吗？能说说体验和感受吗](https://www.v2ex.com/t/813124)
+* [2021-11-04  [酷工作] 推广一下自己做的网站，专注于介绍内推日本互联网大厂工作机会](https://www.v2ex.com/t/813122)
+* [2021-11-04  [Mac mini] 退了 14 寸 M1 Pro，咸鱼了个 M1 Mac mini](https://www.v2ex.com/t/813121)
+* [2021-11-04  [Go 编程语言] 有没有成熟一些 golang 的 mqtt broker 开源项目介绍](https://www.v2ex.com/t/813120)
+* [2021-11-04  [问与答] 有没有快速搜索 cheat sheet 的软件](https://www.v2ex.com/t/813118)
+* [2021-11-04  [问与答] 各位推荐几家美西小鸡提供商吧](https://www.v2ex.com/t/813117)
+* [2021-11-04  [随想] 对中文互联网有点失望怎么办？](https://www.v2ex.com/t/813112)
+* [2021-11-04  [推广] 鉴于生活压力，准备供应一些自家的盘锦蟹田大米，有老哥需要订购的吗？](https://www.v2ex.com/t/813076)
 * [2021-11-04  [问与答] 对中文互联网有点失望怎么办？](https://www.v2ex.com/t/813112)
 * [2021-11-04  [问与答] 美西小鸡各位推荐几家靠谱的吧！](https://www.v2ex.com/t/813111)
 * [2021-11-04  [求职] 最近想找工作，发现招 Go 开发的还是少](https://www.v2ex.com/t/813109)
