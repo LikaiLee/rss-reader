@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新玩意 082｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/69673",
+                "published": "2021-11-04"
+            },
+            {
                 "title": "用硬苹果捏软柿子：M1 系列 Mac 虚拟 Windows 11 免费方法谈",
                 "link": "https://sspai.com/post/69659",
                 "published": "2021-11-04"
@@ -400,6 +405,66 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Ansible] 关于 AWX 执行 ansible 的原理不解的地方",
+                "link": "https://www.v2ex.com/t/813100",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[分享发现] 鱿鱼币闪崩",
+                "link": "https://www.v2ex.com/t/813099",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[CSS] 哎~~~ 如果跳楼能解决问题就好了... 这个 css/flex/scrollbar/resize，怎么那么烦人啊！",
+                "link": "https://www.v2ex.com/t/813097",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 正考虑 1password 是否续费，今天收到 3 年五折优惠，这是什么活动",
+                "link": "https://www.v2ex.com/t/813096",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[职场话题] 涨薪 1/3，全职变外包，值得吗？",
+                "link": "https://www.v2ex.com/t/813094",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Java] spring cloud gatway 性能真的那么差吗？还是我的用法不对",
+                "link": "https://www.v2ex.com/t/813093",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[程序员] 有人会写火狐的搜索插件吗?",
+                "link": "https://www.v2ex.com/t/813091",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Apple] iPad mini 6 国行蜂窝版过审",
+                "link": "https://www.v2ex.com/t/813090",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[iOS] ios 版本的 Surge 下一个版本支持 6 台设备了",
+                "link": "https://www.v2ex.com/t/813089",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[宽带症候群] 用广州联通的问下",
+                "link": "https://www.v2ex.com/t/813088",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 想自己配一台台式需要了解到什么程度",
+                "link": "https://www.v2ex.com/t/813087",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Java] 各位 Java 大佬好，先给大佬倒茶。关于 jdbc 与 mysql 交互问题",
+                "link": "https://www.v2ex.com/t/813086",
+                "published": "2021-11-04"
+            },
             {
                 "title": "[京东] 京东自营的价保这么难申请的吗",
                 "link": "https://www.v2ex.com/t/813085",
@@ -13286,7 +13351,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 14
+        "new_feeds": 12
     },
     {
         "id": 3,

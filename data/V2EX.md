@@ -1,6 +1,18 @@
 # V2EX
 
 
+* [2021-11-04  [Ansible] 关于 AWX 执行 ansible 的原理不解的地方](https://www.v2ex.com/t/813100)
+* [2021-11-04  [分享发现] 鱿鱼币闪崩](https://www.v2ex.com/t/813099)
+* [2021-11-04  [CSS] 哎~~~ 如果跳楼能解决问题就好了... 这个 css/flex/scrollbar/resize，怎么那么烦人啊！](https://www.v2ex.com/t/813097)
+* [2021-11-04  [问与答] 正考虑 1password 是否续费，今天收到 3 年五折优惠，这是什么活动](https://www.v2ex.com/t/813096)
+* [2021-11-04  [职场话题] 涨薪 1/3，全职变外包，值得吗？](https://www.v2ex.com/t/813094)
+* [2021-11-04  [Java] spring cloud gatway 性能真的那么差吗？还是我的用法不对](https://www.v2ex.com/t/813093)
+* [2021-11-04  [程序员] 有人会写火狐的搜索插件吗?](https://www.v2ex.com/t/813091)
+* [2021-11-04  [Apple] iPad mini 6 国行蜂窝版过审](https://www.v2ex.com/t/813090)
+* [2021-11-04  [iOS] ios 版本的 Surge 下一个版本支持 6 台设备了](https://www.v2ex.com/t/813089)
+* [2021-11-04  [宽带症候群] 用广州联通的问下](https://www.v2ex.com/t/813088)
+* [2021-11-04  [问与答] 想自己配一台台式需要了解到什么程度](https://www.v2ex.com/t/813087)
+* [2021-11-04  [Java] 各位 Java 大佬好，先给大佬倒茶。关于 jdbc 与 mysql 交互问题](https://www.v2ex.com/t/813086)
 * [2021-11-04  [京东] 京东自营的价保这么难申请的吗](https://www.v2ex.com/t/813085)
 * [2021-11-04  [Tesla] 单踏板真香，尤其堵车的时候](https://www.v2ex.com/t/813084)
 * [2021-11-04  [Windows] 安卓子系统的文件](https://www.v2ex.com/t/813083)
