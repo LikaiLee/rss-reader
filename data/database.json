@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 | 十年如一的老牌笔记应用：Notes Plus X 都有哪些新特性？",
+                "link": "https://sspai.com/post/69653",
+                "published": "2021-11-04"
+            },
+            {
                 "title": "派早报：微软公布 Office 新变化、Google 将强制开启两步验证等",
                 "link": "https://sspai.com/post/69662",
                 "published": "2021-11-04"
@@ -378,13 +383,53 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 有没有小伙伴一起拼 office365 家庭版啊",
+                "link": "https://www.v2ex.com/t/812989",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[iCloud] 新手机 iCloud 同步过来的健康数据和手表的健身记录只到今年 8 月份",
+                "link": "https://www.v2ex.com/t/812988",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[投资] 心情很差",
+                "link": "https://www.v2ex.com/t/812987",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[职场话题] 老哥们，跟大家求个事儿，关于裁员的问题",
+                "link": "https://www.v2ex.com/t/812985",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 国内有什么有意思的展会吗?",
+                "link": "https://www.v2ex.com/t/812984",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[酷工作] [上海] 人工智能实验室招聘 研究岗位以及 openmmlab 工具链开发,前端\\后端\\算法\\测试\\PM\\运营",
+                "link": "https://www.v2ex.com/t/812983",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[程序员] 就 CheckBox 还能玩这么多花活儿？",
+                "link": "https://www.v2ex.com/t/812982",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[程序员] 闲着没事用 Kotlin 写了个 Rust 风格的 Result",
+                "link": "https://www.v2ex.com/t/812981",
+                "published": "2021-11-04"
+            },
             {
                 "title": "[问与答] 为什么感觉近几年的很多新事物都是被人按着脑袋了解的？",
                 "link": "https://www.v2ex.com/t/812976",
@@ -12851,13 +12896,23 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 15
+        "new_feeds": 8
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "官宣：电视剧《和平之舟》定档央视一套黄金时间播出！",
+                "link": "http://zhuanlan.zhihu.com/p/428672087?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "中国当代年轻人是如何看待并认识抗美援朝战争？",
+                "link": "http://www.zhihu.com/question/421031649/answer/2205192080?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-04"
+            },
             {
                 "title": "日本新冠确诊断崖式下降，全球日增确诊下降超 50％，可能是德尔塔病毒在「自我灭绝」，疫情会自动消失吗？",
                 "link": "http://www.zhihu.com/question/496005316/answer/2203014101?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -13309,6 +13364,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     }
 ]

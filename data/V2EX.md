@@ -1,6 +1,14 @@
 # V2EX
 
 
+* [2021-11-04  [问与答] 有没有小伙伴一起拼 office365 家庭版啊](https://www.v2ex.com/t/812989)
+* [2021-11-04  [iCloud] 新手机 iCloud 同步过来的健康数据和手表的健身记录只到今年 8 月份](https://www.v2ex.com/t/812988)
+* [2021-11-04  [投资] 心情很差](https://www.v2ex.com/t/812987)
+* [2021-11-04  [职场话题] 老哥们，跟大家求个事儿，关于裁员的问题](https://www.v2ex.com/t/812985)
+* [2021-11-04  [问与答] 国内有什么有意思的展会吗?](https://www.v2ex.com/t/812984)
+* [2021-11-04  [酷工作] [上海] 人工智能实验室招聘 研究岗位以及 openmmlab 工具链开发,前端\后端\算法\测试\PM\运营](https://www.v2ex.com/t/812983)
+* [2021-11-04  [程序员] 就 CheckBox 还能玩这么多花活儿？](https://www.v2ex.com/t/812982)
+* [2021-11-04  [程序员] 闲着没事用 Kotlin 写了个 Rust 风格的 Result](https://www.v2ex.com/t/812981)
 * [2021-11-04  [问与答] 为什么感觉近几年的很多新事物都是被人按着脑袋了解的？](https://www.v2ex.com/t/812976)
 * [2021-11-04  [Xcode] macOS Monterey12.0.1 xcode 13.1 Simulator 打不开,卡死, 有一样的吗?](https://www.v2ex.com/t/812975)
 * [2021-11-04  [MacBook Pro] 2021 MBP 拓展坞推荐？](https://www.v2ex.com/t/812974)
