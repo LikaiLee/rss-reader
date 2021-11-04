@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+12】
+* [V2EX](#V2EX) 【+9】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-04】 翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了](https://sspai.com/post/69671)
 * [【2021-11-04】 新玩意 082｜少数派的编辑们最近买了啥？](https://sspai.com/post/69673)
 * [【2021-11-04】 用硬苹果捏软柿子：M1 系列 Mac 虚拟 Windows 11 免费方法谈](https://sspai.com/post/69659)
 * [【2021-11-04】 「基因检测」，新时代算命谱还是预言书？](https://sspai.com/post/69611)
@@ -37,7 +38,6 @@
 * [【2021-11-03】 如果你昨天买了索尼相机，那今天一定得来看看这份索尼镜头选购指南](https://sspai.com/post/67033)
 * [【2021-11-03】 Windows 与 iOS 的跨平台协作方案：Dell Mobile Connect](https://sspai.com/post/69525)
 * [【2021-11-03】 能扫能拖的洗地机怎么选：聊聊那些值得你了解的优缺点](https://sspai.com/post/69486)
-* [【2021-11-03】 派早报：联想推出多款笔记本新品、摩托罗拉 G51 正式发布](https://sspai.com/post/69645)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-11-04】 [问与答] 对中文互联网有点失望怎么办？](https://www.v2ex.com/t/813112)
+* [【2021-11-04】 [问与答] 美西小鸡各位推荐几家靠谱的吧！](https://www.v2ex.com/t/813111)
+* [【2021-11-04】 [求职] 最近想找工作，发现招 Go 开发的还是少](https://www.v2ex.com/t/813109)
+* [【2021-11-04】 [问与答] 今天是不是已经可以实现电影里带有芯片的扑克了？](https://www.v2ex.com/t/813108)
+* [【2021-11-04】 [程序员] 裸辞三个月的一些感想](https://www.v2ex.com/t/813107)
+* [【2021-11-04】 [分享发现] 这年头性别越来越难分辨了](https://www.v2ex.com/t/813106)
+* [【2021-11-04】 [云计算] Azure 应用程序服务价格](https://www.v2ex.com/t/813104)
+* [【2021-11-04】 [问与答] 电动滑板车怎么防盗?](https://www.v2ex.com/t/813103)
+* [【2021-11-04】 [MacBook Pro] m1 max 如何接 hdmi2.1 输出达到 4k 120hz？](https://www.v2ex.com/t/813101)
 * [【2021-11-04】 [Ansible] 关于 AWX 执行 ansible 的原理不解的地方](https://www.v2ex.com/t/813100)
-* [【2021-11-04】 [分享发现] 鱿鱼币闪崩](https://www.v2ex.com/t/813099)
-* [【2021-11-04】 [CSS] 哎~~~ 如果跳楼能解决问题就好了... 这个 css/flex/scrollbar/resize，怎么那么烦人啊！](https://www.v2ex.com/t/813097)
-* [【2021-11-04】 [问与答] 正考虑 1password 是否续费，今天收到 3 年五折优惠，这是什么活动](https://www.v2ex.com/t/813096)
-* [【2021-11-04】 [职场话题] 涨薪 1/3，全职变外包，值得吗？](https://www.v2ex.com/t/813094)
-* [【2021-11-04】 [Java] spring cloud gatway 性能真的那么差吗？还是我的用法不对](https://www.v2ex.com/t/813093)
-* [【2021-11-04】 [程序员] 有人会写火狐的搜索插件吗?](https://www.v2ex.com/t/813091)
-* [【2021-11-04】 [Apple] iPad mini 6 国行蜂窝版过审](https://www.v2ex.com/t/813090)
-* [【2021-11-04】 [iOS] ios 版本的 Surge 下一个版本支持 6 台设备了](https://www.v2ex.com/t/813089)
-* [【2021-11-04】 [宽带症候群] 用广州联通的问下](https://www.v2ex.com/t/813088)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-04 10:22:16
+:alarm_clock: 更新时间: 2021-11-04 11:16:34

@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了",
+                "link": "https://sspai.com/post/69671",
+                "published": "2021-11-04"
+            },
+            {
                 "title": "新玩意 082｜少数派的编辑们最近买了啥？",
                 "link": "https://sspai.com/post/69673",
                 "published": "2021-11-04"
@@ -405,6 +410,51 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 对中文互联网有点失望怎么办？",
+                "link": "https://www.v2ex.com/t/813112",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 美西小鸡各位推荐几家靠谱的吧！",
+                "link": "https://www.v2ex.com/t/813111",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[求职] 最近想找工作，发现招 Go 开发的还是少",
+                "link": "https://www.v2ex.com/t/813109",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 今天是不是已经可以实现电影里带有芯片的扑克了？",
+                "link": "https://www.v2ex.com/t/813108",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[程序员] 裸辞三个月的一些感想",
+                "link": "https://www.v2ex.com/t/813107",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[分享发现] 这年头性别越来越难分辨了",
+                "link": "https://www.v2ex.com/t/813106",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[云计算] Azure 应用程序服务价格",
+                "link": "https://www.v2ex.com/t/813104",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 电动滑板车怎么防盗?",
+                "link": "https://www.v2ex.com/t/813103",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[MacBook Pro] m1 max 如何接 hdmi2.1 输出达到 4k 120hz？",
+                "link": "https://www.v2ex.com/t/813101",
+                "published": "2021-11-04"
+            },
             {
                 "title": "[Ansible] 关于 AWX 执行 ansible 的原理不解的地方",
                 "link": "https://www.v2ex.com/t/813100",
@@ -13351,7 +13401,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 12
+        "new_feeds": 9
     },
     {
         "id": 3,
