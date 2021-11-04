@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+17】
+* [V2EX](#V2EX) 【+5】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-11-04】 [Vue.js] 宝贝回家公益技术项目招人了](https://www.v2ex.com/t/813141)
+* [【2021-11-04】 [问与答] 机器学习 loss1=CrossEntropyLoss(a*f1(x)+b*f2(x))和 loss2=a*CrossEntropyLoss(f1(x))+b*CrossEntropyLoss(f2(x))，这两个东西一样吗](https://www.v2ex.com/t/813140)
+* [【2021-11-04】 [酷工作] [全职远程] 招聘前后端工程师 和 Technical Lead](https://www.v2ex.com/t/813139)
+* [【2021-11-04】 [Telegram] Telegram 适配了 iOS 15 通知样式，那么微信呢？](https://www.v2ex.com/t/813138)
+* [【2021-11-04】 [Apple] 有人碰到过 13pro 主摄对焦对不上的问题吗？](https://www.v2ex.com/t/813136)
 * [【2021-11-04】 [Java] Spring controller 的两个问题](https://www.v2ex.com/t/813135)
 * [【2021-11-04】 [问与答] csdn 被攻击了还是我被劫持了？](https://www.v2ex.com/t/813133)
 * [【2021-11-04】 [macOS] 用群晖做 time machine 不会自动删除旧备份？](https://www.v2ex.com/t/813132)
 * [【2021-11-04】 [问与答] V2EX 手机登网页没有发帖功能吗？](https://www.v2ex.com/t/813131)
 * [【2021-11-04】 [macOS] 准备卖掉 macbook 笔记本，请问如何彻底格式化系统？？](https://www.v2ex.com/t/813130)
-* [【2021-11-04】 [酷工作] 招聘汇总：开发类岗位-上海/新加坡/香港/远程](https://www.v2ex.com/t/813129)
-* [【2021-11-04】 [Windows] Windows 11 下， Edge 的 tab 栏 在聚焦和非聚焦下似乎使用了两种不同的字体](https://www.v2ex.com/t/813127)
-* [【2021-11-04】 [macOS] 升级到 macOS Monterey 后 Type-C 链接显示器无法反向充电](https://www.v2ex.com/t/813126)
-* [【2021-11-04】 [求职] [深圳] 求职意向： ETL/BI 工程师](https://www.v2ex.com/t/813125)
-* [【2021-11-04】 [问与答] 有做过牙齿矫正的吗？能说说体验和感受吗](https://www.v2ex.com/t/813124)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-04 12:31:43
+:alarm_clock: 更新时间: 2021-11-04 13:24:37

@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-11-04  [Vue.js] 宝贝回家公益技术项目招人了](https://www.v2ex.com/t/813141)
+* [2021-11-04  [问与答] 机器学习 loss1=CrossEntropyLoss(a*f1(x)+b*f2(x))和 loss2=a*CrossEntropyLoss(f1(x))+b*CrossEntropyLoss(f2(x))，这两个东西一样吗](https://www.v2ex.com/t/813140)
+* [2021-11-04  [酷工作] [全职远程] 招聘前后端工程师 和 Technical Lead](https://www.v2ex.com/t/813139)
+* [2021-11-04  [Telegram] Telegram 适配了 iOS 15 通知样式，那么微信呢？](https://www.v2ex.com/t/813138)
+* [2021-11-04  [Apple] 有人碰到过 13pro 主摄对焦对不上的问题吗？](https://www.v2ex.com/t/813136)
 * [2021-11-04  [Java] Spring controller 的两个问题](https://www.v2ex.com/t/813135)
 * [2021-11-04  [问与答] csdn 被攻击了还是我被劫持了？](https://www.v2ex.com/t/813133)
 * [2021-11-04  [macOS] 用群晖做 time machine 不会自动删除旧备份？](https://www.v2ex.com/t/813132)

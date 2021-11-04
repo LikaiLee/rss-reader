@@ -411,6 +411,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Vue.js] 宝贝回家公益技术项目招人了",
+                "link": "https://www.v2ex.com/t/813141",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 机器学习 loss1=CrossEntropyLoss(a*f1(x)+b*f2(x))和 loss2=a*CrossEntropyLoss(f1(x))+b*CrossEntropyLoss(f2(x))，这两个东西一样吗",
+                "link": "https://www.v2ex.com/t/813140",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[酷工作] [全职远程] 招聘前后端工程师 和 Technical Lead",
+                "link": "https://www.v2ex.com/t/813139",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Telegram] Telegram 适配了 iOS 15 通知样式，那么微信呢？",
+                "link": "https://www.v2ex.com/t/813138",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Apple] 有人碰到过 13pro 主摄对焦对不上的问题吗？",
+                "link": "https://www.v2ex.com/t/813136",
+                "published": "2021-11-04"
+            },
+            {
                 "title": "[Java] Spring controller 的两个问题",
                 "link": "https://www.v2ex.com/t/813135",
                 "published": "2021-11-04"
@@ -13486,7 +13511,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 17
+        "new_feeds": 5
     },
     {
         "id": 3,
