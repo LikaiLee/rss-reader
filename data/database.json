@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "「基因检测」，新时代算命谱还是预言书？",
+                "link": "https://sspai.com/post/69611",
+                "published": "2021-11-04"
+            },
+            {
                 "title": "App+1 | 十年如一的老牌笔记应用：Notes Plus X 都有哪些新特性？",
                 "link": "https://sspai.com/post/69653",
                 "published": "2021-11-04"
@@ -383,13 +388,118 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[数据库] 能不能同时查询 mysql 和 oracle",
+                "link": "https://www.v2ex.com/t/813067",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Apple] AirPods3 vs AirPro 选哪个",
+                "link": "https://www.v2ex.com/t/813066",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Apple] 有 docker 教程讲解的特别新手的吗。就前端想用 docker 装装数据库 nginx 的程度",
+                "link": "https://www.v2ex.com/t/813065",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 请问在 Windows 如何删除\"~$\"开头的隐藏文件",
+                "link": "https://www.v2ex.com/t/813064",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 我在使用 apache http client 库发送 http 请求时，遇到了一个奇怪的问题",
+                "link": "https://www.v2ex.com/t/813063",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[程序员] 超极本电池突然损耗特别快是什么情况？",
+                "link": "https://www.v2ex.com/t/813062",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[酷工作] beBit [远程 UX 实习生招募]",
+                "link": "https://www.v2ex.com/t/813060",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Windows] Windows 11 在输入文字时是有 bug 吗？",
+                "link": "https://www.v2ex.com/t/813059",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Spotify] 话说有没有 spotify 的家庭车呢喵?",
+                "link": "https://www.v2ex.com/t/813058",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[MacBook Pro] 不服不行， Touch bar 确实没什么卵用",
+                "link": "https://www.v2ex.com/t/813056",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[深圳] AfterShip 招聘 SRE, DevOps ,IT, 安全工程师",
+                "link": "https://www.v2ex.com/t/813055",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[分享发现] Dune 2021 电影的剧本是用一个 DOS 软件写的",
+                "link": "https://www.v2ex.com/t/813054",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[全球工单系统] miui 怎么设置 app 没有声音 电话有声音",
+                "link": "https://www.v2ex.com/t/813053",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[酷工作] [杭州][社招] 微策略内推 C++ 开发",
+                "link": "https://www.v2ex.com/t/813052",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 求助，新买了 MacBook 16 ，顶配，强大的算力怎么能浪费一下呀？",
+                "link": "https://www.v2ex.com/t/813050",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Linux] 关于离线安装.deb 包的问题",
+                "link": "https://www.v2ex.com/t/813048",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[然而并没有] 所以苹果官网是被人黑了吗？",
+                "link": "https://www.v2ex.com/t/813047",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[程序员] 感觉今年代码能力直线提升",
+                "link": "https://www.v2ex.com/t/813046",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Apple] m1pro 安装 iOS 软件自动息屏，第三方输入法不能用",
+                "link": "https://www.v2ex.com/t/813042",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] mysql update 操作执行太慢是什么原因？",
+                "link": "https://www.v2ex.com/t/813041",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[职场话题] 现在值得去吗？",
+                "link": "https://www.v2ex.com/t/813032",
+                "published": "2021-11-04"
+            },
             {
                 "title": "[问与答] 摩托车骑行被逆行车撞到。车祸事件，请教 v 友！感激不尽",
                 "link": "https://www.v2ex.com/t/813040",
@@ -13101,7 +13211,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 24
+        "new_feeds": 21
     },
     {
         "id": 3,

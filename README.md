@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+24】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+21】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-04】 「基因检测」，新时代算命谱还是预言书？](https://sspai.com/post/69611)
 * [【2021-11-04】 App+1 | 十年如一的老牌笔记应用：Notes Plus X 都有哪些新特性？](https://sspai.com/post/69653)
 * [【2021-11-04】 派早报：微软公布 Office 新变化、Google 将强制开启两步验证等](https://sspai.com/post/69662)
 * [【2021-11-03】 App+1 | 一键制作安装介质，这个小工具让你绕开限制升级 Windows 11](https://sspai.com/post/69580)
@@ -37,7 +38,6 @@
 * [【2021-11-03】 派早报：联想推出多款笔记本新品、摩托罗拉 G51 正式发布](https://sspai.com/post/69645)
 * [【2021-11-02】 想挑一台微单，除了双十一的好价你还需要了解什么？](https://sspai.com/post/69635)
 * [【2021-11-02】 知名 iPad 创作工具大更新，你可以在 Procreate 中进行 3D 绘画了](https://sspai.com/post/69630)
-* [【2021-11-02】 考物阁 01 | 我买了一块号称「世界最薄」的折叠键盘](https://sspai.com/post/69537)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-04】 [问与答] 摩托车骑行被逆行车撞到。车祸事件，请教 v 友！感激不尽](https://www.v2ex.com/t/813040)
-* [【2021-11-04】 [Rust] 我们做的一个 crates.io 国内镜像： rsproxy](https://www.v2ex.com/t/813039)
-* [【2021-11-04】 [React] 放弃使用 useCallback 吧，我们有更好的方式](https://www.v2ex.com/t/813037)
-* [【2021-11-04】 [Apple] 测试了一下 M1 Macbook 的日常使用软件兼容性](https://www.v2ex.com/t/813036)
-* [【2021-11-04】 [分享发现] 发现了良心云的合作商赚钱的方法](https://www.v2ex.com/t/813035)
-* [【2021-11-04】 [问与答] 现在还有没有类似 wetool 之类的软件，可以查询是是否为僵尸好友的](https://www.v2ex.com/t/813034)
-* [【2021-11-04】 [分享发现] 为什么现在的电梯广告特别喜欢找个人（通常是年轻女性）对着屏幕外面大吼大叫？](https://www.v2ex.com/t/813033)
-* [【2021-11-04】 [酷工作] 现在值得去吗？](https://www.v2ex.com/t/813032)
-* [【2021-11-04】 [区块链] CFX 不懂就问](https://www.v2ex.com/t/813030)
-* [【2021-11-04】 [Apple] 吐槽 Apple 默认关闭系统应用的网络连接](https://www.v2ex.com/t/813029)
+* [【2021-11-04】 [数据库] 能不能同时查询 mysql 和 oracle](https://www.v2ex.com/t/813067)
+* [【2021-11-04】 [Apple] AirPods3 vs AirPro 选哪个](https://www.v2ex.com/t/813066)
+* [【2021-11-04】 [Apple] 有 docker 教程讲解的特别新手的吗。就前端想用 docker 装装数据库 nginx 的程度](https://www.v2ex.com/t/813065)
+* [【2021-11-04】 [问与答] 请问在 Windows 如何删除"~$"开头的隐藏文件](https://www.v2ex.com/t/813064)
+* [【2021-11-04】 [问与答] 我在使用 apache http client 库发送 http 请求时，遇到了一个奇怪的问题](https://www.v2ex.com/t/813063)
+* [【2021-11-04】 [程序员] 超极本电池突然损耗特别快是什么情况？](https://www.v2ex.com/t/813062)
+* [【2021-11-04】 [酷工作] beBit [远程 UX 实习生招募]](https://www.v2ex.com/t/813060)
+* [【2021-11-04】 [Windows] Windows 11 在输入文字时是有 bug 吗？](https://www.v2ex.com/t/813059)
+* [【2021-11-04】 [Spotify] 话说有没有 spotify 的家庭车呢喵?](https://www.v2ex.com/t/813058)
+* [【2021-11-04】 [MacBook Pro] 不服不行， Touch bar 确实没什么卵用](https://www.v2ex.com/t/813056)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-04 07:19:03
+:alarm_clock: 更新时间: 2021-11-04 08:23:30
