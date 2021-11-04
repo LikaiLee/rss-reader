@@ -411,6 +411,36 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 目前市面上流行的教育培训网站都是基于什么系统搭建的？",
+                "link": "https://www.v2ex.com/t/813165",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[区块链] 前几天卖掉股票买 shib 的朋友还好吗？",
+                "link": "https://www.v2ex.com/t/813164",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[MacBook Pro] 换了 21 款 14 寸 mbp， shift+点击的选中操作不好使了，有遇到同样情况的吗",
+                "link": "https://www.v2ex.com/t/813163",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[macOS] macbook pro 16 升级最新 macOS Monterey 后无法进入恢复模式，求支招",
+                "link": "https://www.v2ex.com/t/813162",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[macOS] 百度网盘后台自动占用，有办法关掉吗？",
+                "link": "https://www.v2ex.com/t/813161",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 首都 90 年摄影师转行做程序员是不是自寻死路啊？",
+                "link": "https://www.v2ex.com/t/813160",
+                "published": "2021-11-04"
+            },
+            {
                 "title": "[分享发现] 微软出了一个类似 Notion 的东西",
                 "link": "https://www.v2ex.com/t/813157",
                 "published": "2021-11-04"
@@ -13571,7 +13601,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 3,

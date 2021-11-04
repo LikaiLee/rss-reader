@@ -1,6 +1,12 @@
 # V2EX
 
 
+* [2021-11-04  [问与答] 目前市面上流行的教育培训网站都是基于什么系统搭建的？](https://www.v2ex.com/t/813165)
+* [2021-11-04  [区块链] 前几天卖掉股票买 shib 的朋友还好吗？](https://www.v2ex.com/t/813164)
+* [2021-11-04  [MacBook Pro] 换了 21 款 14 寸 mbp， shift+点击的选中操作不好使了，有遇到同样情况的吗](https://www.v2ex.com/t/813163)
+* [2021-11-04  [macOS] macbook pro 16 升级最新 macOS Monterey 后无法进入恢复模式，求支招](https://www.v2ex.com/t/813162)
+* [2021-11-04  [macOS] 百度网盘后台自动占用，有办法关掉吗？](https://www.v2ex.com/t/813161)
+* [2021-11-04  [问与答] 首都 90 年摄影师转行做程序员是不是自寻死路啊？](https://www.v2ex.com/t/813160)
 * [2021-11-04  [分享发现] 微软出了一个类似 Notion 的东西](https://www.v2ex.com/t/813157)
 * [2021-11-04  [分享创造] YuzuMarker 漫画汉化自动化 进展](https://www.v2ex.com/t/813156)
 * [2021-11-04  [问与答] V2EX 账号求助！](https://www.v2ex.com/t/813155)
