@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+7】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+20】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-04】 派早报：微软公布 Office 新变化、Google 将强制开启两步验证等](https://sspai.com/post/69662)
 * [【2021-11-03】 App+1 | 一键制作安装介质，这个小工具让你绕开限制升级 Windows 11](https://sspai.com/post/69580)
 * [【2021-11-03】 如果你昨天买了索尼相机，那今天一定得来看看这份索尼镜头选购指南](https://sspai.com/post/67033)
 * [【2021-11-03】 Windows 与 iOS 的跨平台协作方案：Dell Mobile Connect](https://sspai.com/post/69525)
@@ -37,7 +38,6 @@
 * [【2021-11-02】 知名 iPad 创作工具大更新，你可以在 Procreate 中进行 3D 绘画了](https://sspai.com/post/69630)
 * [【2021-11-02】 考物阁 01 | 我买了一块号称「世界最薄」的折叠键盘](https://sspai.com/post/69537)
 * [【2021-11-02】 派早报：Beats Fit Pro 正式公布，Google 将修复 Pixel 6 Pro 屏幕闪烁问题等](https://sspai.com/post/69631)
-* [【2021-11-01】 全新配色来了 ，正是入手的好时机：HomePod mini 体验分享](https://sspai.com/post/69624)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-04】 [问与答] 群晖 920 盘位分配疑问](https://www.v2ex.com/t/812903)
-* [【2021-11-04】 [问与答] 一亿个图片和 pdf 文件，单机，只新增不删除，怎么管理？](https://www.v2ex.com/t/812900)
-* [【2021-11-04】 [问与答] 请教一下 emby、Jeelyfin 的疑问](https://www.v2ex.com/t/812899)
-* [【2021-11-03】 [程序员] 各位千里眼: 请推荐能网购便宜的蔡司镜片 谢谢](https://www.v2ex.com/t/812897)
-* [【2021-11-03】 [Apple] 请问 ios 健康的睡眠显示是卧床时间不是睡眠时间是因为睡眠质量不好吗](https://www.v2ex.com/t/812896)
-* [【2021-11-03】 [问与答] 在谷歌搜索提交我的网站，提示无法重定向是为什么？](https://www.v2ex.com/t/812895)
-* [【2021-11-03】 [硬件] 下班回家后，发现我的小爱音箱正在放电影，一切是那么诡异](https://www.v2ex.com/t/812859)
-* [【2021-11-03】 [Apple] M1 Mac 玩原神的效果怎么样？](https://www.v2ex.com/t/812894)
-* [【2021-11-03】 [Kubernetes] 我在我的 k8s 集群里跑了一个 Minecraft 服务器](https://www.v2ex.com/t/812893)
-* [【2021-11-03】 [宽带症候群] 为什么互相 ping 的延迟不一样？](https://www.v2ex.com/t/812892)
+* [【2021-11-04】 [问与答] 迫于腾讯轻量香港天天没货 有没有脚本抢购？](https://www.v2ex.com/t/812936)
+* [【2021-11-04】 [macOS] [心得] 抹盘重装后，放弃了升级电脑的想法](https://www.v2ex.com/t/812933)
+* [【2021-11-04】 [宽带症候群] 家庭网络开启 IPV6，该怎么提升家庭网络安全。](https://www.v2ex.com/t/812932)
+* [【2021-11-04】 [硬件] 双十一家庭服务器攒机](https://www.v2ex.com/t/812931)
+* [【2021-11-04】 [问与答] 朋友们，有无高清无马的色色艺术壁纸](https://www.v2ex.com/t/812929)
+* [【2021-11-04】 [输入法] 微软拼音的中英文全角半角为什么是混乱的？](https://www.v2ex.com/t/812928)
+* [【2021-11-04】 [NAS] 群晖 DSM 7.0.1 媒体服务器有问题？](https://www.v2ex.com/t/812926)
+* [【2021-11-04】 [服务器] 阿里云专用的 mysql，和专门买台服务器自己搭 mysql，有什么区别吗](https://www.v2ex.com/t/812925)
+* [【2021-11-04】 [分享发现] segmentfault 离栈溢出还差什么？](https://www.v2ex.com/t/812924)
+* [【2021-11-04】 [Linux] Foliate](https://www.v2ex.com/t/812922)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-04 01:04:16
+:alarm_clock: 更新时间: 2021-11-04 02:32:39
