@@ -411,6 +411,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 分享一下我的家庭网络拓扑",
+                "link": "https://www.v2ex.com/t/813150",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 2021 年你还有 A 口充电器的需求吗？求推荐 2C 口的充电器",
+                "link": "https://www.v2ex.com/t/813148",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Google] GSuite 升级可以选择使用企业标准版 20 刀无限存储",
+                "link": "https://www.v2ex.com/t/813147",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[程序员] TCP 中，没有 SACK 能力的接收方，也会缓存 LastRcvd 之后的数据包吗？",
+                "link": "https://www.v2ex.com/t/813146",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[机械键盘] 客制化套件和轴体求推荐",
+                "link": "https://www.v2ex.com/t/813145",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[汽车] 15 以内落地各位有没有什么推荐的（不考虑纯电）",
+                "link": "https://www.v2ex.com/t/813144",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[分享发现] 感觉 Intel 的 12 代真是把牙膏挤爆了",
+                "link": "https://www.v2ex.com/t/813143",
+                "published": "2021-11-04"
+            },
+            {
                 "title": "[Vue.js] 宝贝回家公益技术项目招人了",
                 "link": "https://www.v2ex.com/t/813141",
                 "published": "2021-11-04"
@@ -13511,7 +13546,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 7
     },
     {
         "id": 3,

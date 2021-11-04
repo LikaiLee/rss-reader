@@ -1,6 +1,13 @@
 # V2EX
 
 
+* [2021-11-04  [程序员] 分享一下我的家庭网络拓扑](https://www.v2ex.com/t/813150)
+* [2021-11-04  [问与答] 2021 年你还有 A 口充电器的需求吗？求推荐 2C 口的充电器](https://www.v2ex.com/t/813148)
+* [2021-11-04  [Google] GSuite 升级可以选择使用企业标准版 20 刀无限存储](https://www.v2ex.com/t/813147)
+* [2021-11-04  [程序员] TCP 中，没有 SACK 能力的接收方，也会缓存 LastRcvd 之后的数据包吗？](https://www.v2ex.com/t/813146)
+* [2021-11-04  [机械键盘] 客制化套件和轴体求推荐](https://www.v2ex.com/t/813145)
+* [2021-11-04  [汽车] 15 以内落地各位有没有什么推荐的（不考虑纯电）](https://www.v2ex.com/t/813144)
+* [2021-11-04  [分享发现] 感觉 Intel 的 12 代真是把牙膏挤爆了](https://www.v2ex.com/t/813143)
 * [2021-11-04  [Vue.js] 宝贝回家公益技术项目招人了](https://www.v2ex.com/t/813141)
 * [2021-11-04  [问与答] 机器学习 loss1=CrossEntropyLoss(a*f1(x)+b*f2(x))和 loss2=a*CrossEntropyLoss(f1(x))+b*CrossEntropyLoss(f2(x))，这两个东西一样吗](https://www.v2ex.com/t/813140)
 * [2021-11-04  [酷工作] [全职远程] 招聘前后端工程师 和 Technical Lead](https://www.v2ex.com/t/813139)
