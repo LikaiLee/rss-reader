@@ -1,6 +1,21 @@
 # V2EX
 
 
+* [2021-11-04  [问与答] 为什么感觉近几年的很多新事物都是被人按着脑袋了解的？](https://www.v2ex.com/t/812976)
+* [2021-11-04  [Xcode] macOS Monterey12.0.1 xcode 13.1 Simulator 打不开,卡死, 有一样的吗?](https://www.v2ex.com/t/812975)
+* [2021-11-04  [MacBook Pro] 2021 MBP 拓展坞推荐？](https://www.v2ex.com/t/812974)
+* [2021-11-04  [问与答] 微信电脑版勾选 在该设备上自动登录后 手机上的聊天记录在电脑上为什么不显示了](https://www.v2ex.com/t/812971)
+* [2021-11-04  [Python] 如何遍历 dataframe 数据插入 pymysql 里?](https://www.v2ex.com/t/812970)
+* [2021-11-04  [分享发现] 见识了 Cloudflare 的稀烂客户服务支持](https://www.v2ex.com/t/812967)
+* [2021-11-04  [宽带症候群] 广州 CBD 区域电信 1000M 宽带还会限制 50 终端数，多了会掉线？](https://www.v2ex.com/t/812966)
+* [2021-11-04  [分享发现] 联通沃小号一年仅 48 元，走过路过不要错过[限时优惠]](https://www.v2ex.com/t/812965)
+* [2021-11-04  [分享发现] 发现 DoT 要比 DoH 稳定](https://www.v2ex.com/t/812964)
+* [2021-11-04  [推广] 5 个月 3.5K⭐，推荐一个跨语言的分布式事务框架 dtm](https://www.v2ex.com/t/812963)
+* [2021-11-04  [Google] Google One 手机备份总是失败](https://www.v2ex.com/t/812962)
+* [2021-11-04  [分享发现] 盲选自己看得顺眼的编程字体](https://www.v2ex.com/t/812961)
+* [2021-11-04  [酷工作] [上海张江] 强力的朋友来阅文集团写 SDK 吧](https://www.v2ex.com/t/812958)
+* [2021-11-04  [程序员] 使用 vmware 还是 docker 来搭建 Linux 实验环境？](https://www.v2ex.com/t/812956)
+* [2021-11-04  [问与答] 鉴于近期 Noteablilty 买断转订阅的事情，求推荐一些好用的买断制 app（macos、ios 都行）](https://www.v2ex.com/t/812955)
 * [2021-11-04  [问与答] 有没有大佬了解微软商店下载的 msixvc 文件怎么安装的？](https://www.v2ex.com/t/812953)
 * [2021-11-04  [问与答] 想问一下大家自己开发 APP 需要接广告 SDK 的时候使用的是谁家的？](https://www.v2ex.com/t/812952)
 * [2021-11-04  [程序员] 给家里老人买 iphone13 性价比高吗？](https://www.v2ex.com/t/812951)
