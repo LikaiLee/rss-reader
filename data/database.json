@@ -411,6 +411,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享发现] 微软出了一个类似 Notion 的东西",
+                "link": "https://www.v2ex.com/t/813157",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[分享创造] YuzuMarker 漫画汉化自动化 进展",
+                "link": "https://www.v2ex.com/t/813156",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] V2EX 账号求助！",
+                "link": "https://www.v2ex.com/t/813155",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 你们工作 2-3 年的时候都在做什么？开始带项目了吗？应该达到一个怎样的水平呢》",
+                "link": "https://www.v2ex.com/t/813154",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Go 编程语言] 一个不错的 go 博主 [go101]",
+                "link": "https://www.v2ex.com/t/813151",
+                "published": "2021-11-04"
+            },
+            {
                 "title": "[程序员] 分享一下我的家庭网络拓扑",
                 "link": "https://www.v2ex.com/t/813150",
                 "published": "2021-11-04"
@@ -13546,7 +13571,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 5
     },
     {
         "id": 3,

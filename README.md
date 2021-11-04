@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+7】
+* [V2EX](#V2EX) 【+5】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
+* [【2021-11-04】 [分享发现] 微软出了一个类似 Notion 的东西](https://www.v2ex.com/t/813157)
+* [【2021-11-04】 [分享创造] YuzuMarker 漫画汉化自动化 进展](https://www.v2ex.com/t/813156)
+* [【2021-11-04】 [问与答] V2EX 账号求助！](https://www.v2ex.com/t/813155)
+* [【2021-11-04】 [问与答] 你们工作 2-3 年的时候都在做什么？开始带项目了吗？应该达到一个怎样的水平呢》](https://www.v2ex.com/t/813154)
+* [【2021-11-04】 [Go 编程语言] 一个不错的 go 博主 [go101]](https://www.v2ex.com/t/813151)
 * [【2021-11-04】 [程序员] 分享一下我的家庭网络拓扑](https://www.v2ex.com/t/813150)
 * [【2021-11-04】 [问与答] 2021 年你还有 A 口充电器的需求吗？求推荐 2C 口的充电器](https://www.v2ex.com/t/813148)
 * [【2021-11-04】 [Google] GSuite 升级可以选择使用企业标准版 20 刀无限存储](https://www.v2ex.com/t/813147)
 * [【2021-11-04】 [程序员] TCP 中，没有 SACK 能力的接收方，也会缓存 LastRcvd 之后的数据包吗？](https://www.v2ex.com/t/813146)
 * [【2021-11-04】 [机械键盘] 客制化套件和轴体求推荐](https://www.v2ex.com/t/813145)
-* [【2021-11-04】 [汽车] 15 以内落地各位有没有什么推荐的（不考虑纯电）](https://www.v2ex.com/t/813144)
-* [【2021-11-04】 [分享发现] 感觉 Intel 的 12 代真是把牙膏挤爆了](https://www.v2ex.com/t/813143)
-* [【2021-11-04】 [Vue.js] 宝贝回家公益技术项目招人了](https://www.v2ex.com/t/813141)
-* [【2021-11-04】 [问与答] 机器学习 loss1=CrossEntropyLoss(a*f1(x)+b*f2(x))和 loss2=a*CrossEntropyLoss(f1(x))+b*CrossEntropyLoss(f2(x))，这两个东西一样吗](https://www.v2ex.com/t/813140)
-* [【2021-11-04】 [酷工作] [全职远程] 招聘前后端工程师 和 Technical Lead](https://www.v2ex.com/t/813139)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-04 14:18:34
+:alarm_clock: 更新时间: 2021-11-04 15:21:12
