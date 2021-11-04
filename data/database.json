@@ -411,6 +411,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[反馈] V2EX 账号求助！",
+                "link": "https://www.v2ex.com/t/813155",
+                "published": "2021-11-04"
+            },
+            {
                 "title": "[职场话题] 有关“斜杠”话题，表示焦虑",
                 "link": "https://www.v2ex.com/t/813174",
                 "published": "2021-11-04"
