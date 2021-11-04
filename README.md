@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+20】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+13】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-04】 [问与答] 迫于腾讯轻量香港天天没货 有没有脚本抢购？](https://www.v2ex.com/t/812936)
-* [【2021-11-04】 [macOS] [心得] 抹盘重装后，放弃了升级电脑的想法](https://www.v2ex.com/t/812933)
-* [【2021-11-04】 [宽带症候群] 家庭网络开启 IPV6，该怎么提升家庭网络安全。](https://www.v2ex.com/t/812932)
-* [【2021-11-04】 [硬件] 双十一家庭服务器攒机](https://www.v2ex.com/t/812931)
-* [【2021-11-04】 [问与答] 朋友们，有无高清无马的色色艺术壁纸](https://www.v2ex.com/t/812929)
-* [【2021-11-04】 [输入法] 微软拼音的中英文全角半角为什么是混乱的？](https://www.v2ex.com/t/812928)
-* [【2021-11-04】 [NAS] 群晖 DSM 7.0.1 媒体服务器有问题？](https://www.v2ex.com/t/812926)
-* [【2021-11-04】 [服务器] 阿里云专用的 mysql，和专门买台服务器自己搭 mysql，有什么区别吗](https://www.v2ex.com/t/812925)
-* [【2021-11-04】 [分享发现] segmentfault 离栈溢出还差什么？](https://www.v2ex.com/t/812924)
-* [【2021-11-04】 [Linux] Foliate](https://www.v2ex.com/t/812922)
+* [【2021-11-04】 [问与答] 有没有大佬了解微软商店下载的 msixvc 文件怎么安装的？](https://www.v2ex.com/t/812953)
+* [【2021-11-04】 [问与答] 想问一下大家自己开发 APP 需要接广告 SDK 的时候使用的是谁家的？](https://www.v2ex.com/t/812952)
+* [【2021-11-04】 [程序员] 给家里老人买 iphone13 性价比高吗？](https://www.v2ex.com/t/812951)
+* [【2021-11-04】 [问与答] 这种情况下怎么做端口转发](https://www.v2ex.com/t/812949)
+* [【2021-11-04】 [问与答] 关于我无法忍受同事的青轴键盘怒而买了某米蓝牙耳机结果还没用 10 个小时晚上回家洗刷的时候左耳机掉进下水道这件事](https://www.v2ex.com/t/812948)
+* [【2021-11-04】 [问与答] 强制 App 跳转登录该怎么解决？](https://www.v2ex.com/t/812946)
+* [【2021-11-04】 [问与答] GUGE 镜像站来一波](https://www.v2ex.com/t/812944)
+* [【2021-11-04】 [Apple] 自带邮件 app 添加 gmail 账户提示错误](https://www.v2ex.com/t/812943)
+* [【2021-11-04】 [路由器] 关于路由器和光猫多次同时损坏，辛苦大家帮忙出出主意。](https://www.v2ex.com/t/812942)
+* [【2021-11-04】 [Apple] 美区和国区同时存在两个家庭组的疑问](https://www.v2ex.com/t/812940)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-04 02:32:39
+:alarm_clock: 更新时间: 2021-11-04 03:20:53
