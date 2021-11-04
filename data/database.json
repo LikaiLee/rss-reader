@@ -33,6 +33,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "用硬苹果捏软柿子：M1 系列 Mac 虚拟 Windows 11 免费方法谈",
+                "link": "https://sspai.com/post/69659",
+                "published": "2021-11-04"
+            },
+            {
                 "title": "「基因检测」，新时代算命谱还是预言书？",
                 "link": "https://sspai.com/post/69611",
                 "published": "2021-11-04"
@@ -395,6 +400,76 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[京东] 京东自营的价保这么难申请的吗",
+                "link": "https://www.v2ex.com/t/813085",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Tesla] 单踏板真香，尤其堵车的时候",
+                "link": "https://www.v2ex.com/t/813084",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Windows] 安卓子系统的文件",
+                "link": "https://www.v2ex.com/t/813083",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Apple] MacBook Pro 硬盘读写只有 400 多，这是不是该换硬盘了",
+                "link": "https://www.v2ex.com/t/813082",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 领导介绍对象应该怎么处理比较好呢",
+                "link": "https://www.v2ex.com/t/813081",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[iPhone] XS 感觉在 iOS15 后有些力不从心了",
+                "link": "https://www.v2ex.com/t/813080",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[程序员] 应该怎么导出备份 QQ 聊天收藏？",
+                "link": "https://www.v2ex.com/t/813079",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Python] Python 如何搜索 hash/list 中的 json 数据",
+                "link": "https://www.v2ex.com/t/813078",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Apple] iphone13p 续航问题～",
+                "link": "https://www.v2ex.com/t/813075",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Apple] iOS 自定义短语与手机号输入的奇怪设定",
+                "link": "https://www.v2ex.com/t/813074",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 这种加油优惠卡片谁用过，买东西送的",
+                "link": "https://www.v2ex.com/t/813072",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[酷工作] [上海、北京、深圳、杭州] 字节跳动音乐团队客户端急招，参与抖音、Tiktok、Resso 等业务开发，共同成长",
+                "link": "https://www.v2ex.com/t/813071",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 前端是否有点卷？",
+                "link": "https://www.v2ex.com/t/813069",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[iPhone] 有没有应用可以查询 iPhone 机身内部的温度数据？",
+                "link": "https://www.v2ex.com/t/813068",
+                "published": "2021-11-04"
+            },
             {
                 "title": "[数据库] 能不能同时查询 mysql 和 oracle",
                 "link": "https://www.v2ex.com/t/813067",
@@ -13211,7 +13286,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 21
+        "new_feeds": 14
     },
     {
         "id": 3,

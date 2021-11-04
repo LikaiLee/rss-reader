@@ -1,6 +1,20 @@
 # V2EX
 
 
+* [2021-11-04  [京东] 京东自营的价保这么难申请的吗](https://www.v2ex.com/t/813085)
+* [2021-11-04  [Tesla] 单踏板真香，尤其堵车的时候](https://www.v2ex.com/t/813084)
+* [2021-11-04  [Windows] 安卓子系统的文件](https://www.v2ex.com/t/813083)
+* [2021-11-04  [Apple] MacBook Pro 硬盘读写只有 400 多，这是不是该换硬盘了](https://www.v2ex.com/t/813082)
+* [2021-11-04  [问与答] 领导介绍对象应该怎么处理比较好呢](https://www.v2ex.com/t/813081)
+* [2021-11-04  [iPhone] XS 感觉在 iOS15 后有些力不从心了](https://www.v2ex.com/t/813080)
+* [2021-11-04  [程序员] 应该怎么导出备份 QQ 聊天收藏？](https://www.v2ex.com/t/813079)
+* [2021-11-04  [Python] Python 如何搜索 hash/list 中的 json 数据](https://www.v2ex.com/t/813078)
+* [2021-11-04  [Apple] iphone13p 续航问题～](https://www.v2ex.com/t/813075)
+* [2021-11-04  [Apple] iOS 自定义短语与手机号输入的奇怪设定](https://www.v2ex.com/t/813074)
+* [2021-11-04  [问与答] 这种加油优惠卡片谁用过，买东西送的](https://www.v2ex.com/t/813072)
+* [2021-11-04  [酷工作] [上海、北京、深圳、杭州] 字节跳动音乐团队客户端急招，参与抖音、Tiktok、Resso 等业务开发，共同成长](https://www.v2ex.com/t/813071)
+* [2021-11-04  [问与答] 前端是否有点卷？](https://www.v2ex.com/t/813069)
+* [2021-11-04  [iPhone] 有没有应用可以查询 iPhone 机身内部的温度数据？](https://www.v2ex.com/t/813068)
 * [2021-11-04  [数据库] 能不能同时查询 mysql 和 oracle](https://www.v2ex.com/t/813067)
 * [2021-11-04  [Apple] AirPods3 vs AirPro 选哪个](https://www.v2ex.com/t/813066)
 * [2021-11-04  [Apple] 有 docker 教程讲解的特别新手的吗。就前端想用 docker 装装数据库 nginx 的程度](https://www.v2ex.com/t/813065)

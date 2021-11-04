@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+21】
+* [V2EX](#V2EX) 【+14】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -28,6 +28,7 @@
     </summary>
 
 
+* [【2021-11-04】 用硬苹果捏软柿子：M1 系列 Mac 虚拟 Windows 11 免费方法谈](https://sspai.com/post/69659)
 * [【2021-11-04】 「基因检测」，新时代算命谱还是预言书？](https://sspai.com/post/69611)
 * [【2021-11-04】 App+1 | 十年如一的老牌笔记应用：Notes Plus X 都有哪些新特性？](https://sspai.com/post/69653)
 * [【2021-11-04】 派早报：微软公布 Office 新变化、Google 将强制开启两步验证等](https://sspai.com/post/69662)
@@ -37,7 +38,6 @@
 * [【2021-11-03】 能扫能拖的洗地机怎么选：聊聊那些值得你了解的优缺点](https://sspai.com/post/69486)
 * [【2021-11-03】 派早报：联想推出多款笔记本新品、摩托罗拉 G51 正式发布](https://sspai.com/post/69645)
 * [【2021-11-02】 想挑一台微单，除了双十一的好价你还需要了解什么？](https://sspai.com/post/69635)
-* [【2021-11-02】 知名 iPad 创作工具大更新，你可以在 Procreate 中进行 3D 绘画了](https://sspai.com/post/69630)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -47,16 +47,16 @@
     </summary>
 
 
-* [【2021-11-04】 [数据库] 能不能同时查询 mysql 和 oracle](https://www.v2ex.com/t/813067)
-* [【2021-11-04】 [Apple] AirPods3 vs AirPro 选哪个](https://www.v2ex.com/t/813066)
-* [【2021-11-04】 [Apple] 有 docker 教程讲解的特别新手的吗。就前端想用 docker 装装数据库 nginx 的程度](https://www.v2ex.com/t/813065)
-* [【2021-11-04】 [问与答] 请问在 Windows 如何删除"~$"开头的隐藏文件](https://www.v2ex.com/t/813064)
-* [【2021-11-04】 [问与答] 我在使用 apache http client 库发送 http 请求时，遇到了一个奇怪的问题](https://www.v2ex.com/t/813063)
-* [【2021-11-04】 [程序员] 超极本电池突然损耗特别快是什么情况？](https://www.v2ex.com/t/813062)
-* [【2021-11-04】 [酷工作] beBit [远程 UX 实习生招募]](https://www.v2ex.com/t/813060)
-* [【2021-11-04】 [Windows] Windows 11 在输入文字时是有 bug 吗？](https://www.v2ex.com/t/813059)
-* [【2021-11-04】 [Spotify] 话说有没有 spotify 的家庭车呢喵?](https://www.v2ex.com/t/813058)
-* [【2021-11-04】 [MacBook Pro] 不服不行， Touch bar 确实没什么卵用](https://www.v2ex.com/t/813056)
+* [【2021-11-04】 [京东] 京东自营的价保这么难申请的吗](https://www.v2ex.com/t/813085)
+* [【2021-11-04】 [Tesla] 单踏板真香，尤其堵车的时候](https://www.v2ex.com/t/813084)
+* [【2021-11-04】 [Windows] 安卓子系统的文件](https://www.v2ex.com/t/813083)
+* [【2021-11-04】 [Apple] MacBook Pro 硬盘读写只有 400 多，这是不是该换硬盘了](https://www.v2ex.com/t/813082)
+* [【2021-11-04】 [问与答] 领导介绍对象应该怎么处理比较好呢](https://www.v2ex.com/t/813081)
+* [【2021-11-04】 [iPhone] XS 感觉在 iOS15 后有些力不从心了](https://www.v2ex.com/t/813080)
+* [【2021-11-04】 [程序员] 应该怎么导出备份 QQ 聊天收藏？](https://www.v2ex.com/t/813079)
+* [【2021-11-04】 [Python] Python 如何搜索 hash/list 中的 json 数据](https://www.v2ex.com/t/813078)
+* [【2021-11-04】 [Apple] iphone13p 续航问题～](https://www.v2ex.com/t/813075)
+* [【2021-11-04】 [Apple] iOS 自定义短语与手机号输入的奇怪设定](https://www.v2ex.com/t/813074)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-04 08:23:30
+:alarm_clock: 更新时间: 2021-11-04 09:19:56
