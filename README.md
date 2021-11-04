@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+3】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,7 @@
     </summary>
 
 
+* [【2021-11-04】 [分享发现] 艾尔登法环发布实机演示](https://www.v2ex.com/t/813178)
 * [【2021-11-04】 [macOS] 请问如何彻底删除 Wechat 图标？](https://www.v2ex.com/t/813177)
 * [【2021-11-04】 [区块链] 有没有可能进化一下 USDT 的模式](https://www.v2ex.com/t/813176)
 * [【2021-11-04】 [程序员] 现代 Web 开发过去与未来](https://www.v2ex.com/t/813175)
@@ -56,7 +57,6 @@
 * [【2021-11-04】 [问与答] 背调公司是怎么了解员工隐私信息的？](https://www.v2ex.com/t/813172)
 * [【2021-11-04】 [问与答] 旧蓝牙耳机坏了，求 v 友推荐一款百元左右的 tws 耳机](https://www.v2ex.com/t/813170)
 * [【2021-11-04】 [macOS] 升级系统后网络里多出个 openthread.thread.home.arpa，有没老哥知道怎么移除。。](https://www.v2ex.com/t/813168)
-* [【2021-11-04】 [天黑以后] 20211105 午夜俱乐部](https://www.v2ex.com/t/813167)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-04 22:19:49
+:alarm_clock: 更新时间: 2021-11-04 23:20:26

@@ -411,6 +411,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享发现] 艾尔登法环发布实机演示",
+                "link": "https://www.v2ex.com/t/813178",
+                "published": "2021-11-04"
+            },
+            {
                 "title": "[macOS] 请问如何彻底删除 Wechat 图标？",
                 "link": "https://www.v2ex.com/t/813177",
                 "published": "2021-11-04"
@@ -13656,7 +13661,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 3,
