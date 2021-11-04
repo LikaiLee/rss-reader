@@ -383,13 +383,98 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 年底了，每人留下一条反内卷指南吧",
+                "link": "https://www.v2ex.com/t/813011",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[酷工作] 摩天轮票务现在值得去吗？",
+                "link": "https://www.v2ex.com/t/813009",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 床太软，枕头太高怎么办？不用枕头颈部又不舒服， X 宝没有找到 3cm 以下的枕头，现在就一张卷起来的毛巾托起颈部",
+                "link": "https://www.v2ex.com/t/813008",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[开源软件] Forest v1.5.12 发布，声明式 HTTP 框架，已超 1.6k star",
+                "link": "https://www.v2ex.com/t/813006",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 老款 iMac 有什么当成 windows 电脑的显示器，不用太浪费了",
+                "link": "https://www.v2ex.com/t/813005",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[职场话题] 一线回山东，济南 vs 青岛 发展潜力，与 offer 三选一。",
+                "link": "https://www.v2ex.com/t/813004",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[上海] [短租] 来上海临时工作一段时间，找个男生一起解决短时住宿问题",
+                "link": "https://www.v2ex.com/t/813003",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Apple] Apple Watch S7 提前一周发货了",
+                "link": "https://www.v2ex.com/t/813002",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 2021 双十一求推荐显示器",
+                "link": "https://www.v2ex.com/t/813001",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 有做过近视矫正手术的吗？",
+                "link": "https://www.v2ex.com/t/813000",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[职场话题] 入职一个星期想跑路",
+                "link": "https://www.v2ex.com/t/812998",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[程序员] 作为一名“老”程序员，你会给初入职场的程序员什么忠告？",
+                "link": "https://www.v2ex.com/t/812997",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[程序员] 求问各位老哥软考高级的系统架构设计师该怎么准备比较好？",
+                "link": "https://www.v2ex.com/t/812996",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[macOS] m1 升级到 Monterey 后，续航怎么样",
+                "link": "https://www.v2ex.com/t/812995",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[问与答] 接口的设计怎么保证的执行顺序呢？请大佬来解惑！",
+                "link": "https://www.v2ex.com/t/812994",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[macOS] Macos 系统有没有这样的软件...",
+                "link": "https://www.v2ex.com/t/812991",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[Apple] 各位 V 友，有什么打印机推荐啊？",
+                "link": "https://www.v2ex.com/t/812990",
+                "published": "2021-11-04"
+            },
             {
                 "title": "[问与答] 有没有小伙伴一起拼 office365 家庭版啊",
                 "link": "https://www.v2ex.com/t/812989",
@@ -12896,7 +12981,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 17
     },
     {
         "id": 3,
@@ -13364,6 +13449,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     }
 ]
