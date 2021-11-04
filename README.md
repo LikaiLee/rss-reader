@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX)
+* [V2EX](#V2EX) 【+3】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -47,6 +47,9 @@
     </summary>
 
 
+* [【2021-11-04】 [macOS] 请问如何彻底删除 Wechat 图标？](https://www.v2ex.com/t/813177)
+* [【2021-11-04】 [区块链] 有没有可能进化一下 USDT 的模式](https://www.v2ex.com/t/813176)
+* [【2021-11-04】 [程序员] 现代 Web 开发过去与未来](https://www.v2ex.com/t/813175)
 * [【2021-11-04】 [反馈] V2EX 账号求助！](https://www.v2ex.com/t/813155)
 * [【2021-11-04】 [职场话题] 有关“斜杠”话题，表示焦虑](https://www.v2ex.com/t/813174)
 * [【2021-11-04】 [MacBook Pro] M1 Max 对比 M1 Pro 电池续航对比的详细评测出来了](https://www.v2ex.com/t/813173)
@@ -54,9 +57,6 @@
 * [【2021-11-04】 [问与答] 旧蓝牙耳机坏了，求 v 友推荐一款百元左右的 tws 耳机](https://www.v2ex.com/t/813170)
 * [【2021-11-04】 [macOS] 升级系统后网络里多出个 openthread.thread.home.arpa，有没老哥知道怎么移除。。](https://www.v2ex.com/t/813168)
 * [【2021-11-04】 [天黑以后] 20211105 午夜俱乐部](https://www.v2ex.com/t/813167)
-* [【2021-11-04】 [问与答] 外行想在计算机方面走远一点，应如何系统学习？](https://www.v2ex.com/t/813166)
-* [【2021-11-04】 [问与答] 目前市面上流行的教育培训网站都是基于什么系统搭建的？](https://www.v2ex.com/t/813165)
-* [【2021-11-04】 [区块链] 前几天卖掉股票买 shib 的朋友还好吗？](https://www.v2ex.com/t/813164)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +85,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-04 21:17:10
+:alarm_clock: 更新时间: 2021-11-04 22:19:49

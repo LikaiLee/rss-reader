@@ -411,6 +411,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[macOS] 请问如何彻底删除 Wechat 图标？",
+                "link": "https://www.v2ex.com/t/813177",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[区块链] 有没有可能进化一下 USDT 的模式",
+                "link": "https://www.v2ex.com/t/813176",
+                "published": "2021-11-04"
+            },
+            {
+                "title": "[程序员] 现代 Web 开发过去与未来",
+                "link": "https://www.v2ex.com/t/813175",
+                "published": "2021-11-04"
+            },
+            {
                 "title": "[反馈] V2EX 账号求助！",
                 "link": "https://www.v2ex.com/t/813155",
                 "published": "2021-11-04"
@@ -13641,7 +13656,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 3,

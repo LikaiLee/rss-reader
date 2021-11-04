@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-11-04  [macOS] 请问如何彻底删除 Wechat 图标？](https://www.v2ex.com/t/813177)
+* [2021-11-04  [区块链] 有没有可能进化一下 USDT 的模式](https://www.v2ex.com/t/813176)
+* [2021-11-04  [程序员] 现代 Web 开发过去与未来](https://www.v2ex.com/t/813175)
 * [2021-11-04  [反馈] V2EX 账号求助！](https://www.v2ex.com/t/813155)
 * [2021-11-04  [职场话题] 有关“斜杠”话题，表示焦虑](https://www.v2ex.com/t/813174)
 * [2021-11-04  [MacBook Pro] M1 Max 对比 M1 Pro 电池续航对比的详细评测出来了](https://www.v2ex.com/t/813173)
