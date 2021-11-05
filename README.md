@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,6 +48,7 @@
     </summary>
 
 
+* [【2021-11-05】 [问与答] 大家是怎么处理待办事项信息的？](https://www.v2ex.com/t/813415)
 * [【2021-11-05】 [Python] 一篇关于 Python ASGI 的介绍](https://www.v2ex.com/t/813413)
 * [【2021-11-05】 [MacBook Pro] 动圈麦克风 能直接连接 macbook pro 2018 吗？](https://www.v2ex.com/t/813411)
 * [【2021-11-05】 [MacBook Pro] 2021 macbook pro 无法关闭键盘灯吗？](https://www.v2ex.com/t/813412)
@@ -57,7 +58,6 @@
 * [【2021-11-05】 [Apple] Macbook 连接 AirPods 声音断断续续，鼠标卡顿滞缓](https://www.v2ex.com/t/813408)
 * [【2021-11-05】 [问与答] 我这个账号是不是有问题，发的帖子在对应栏目看不到，但是又有阅读数？](https://www.v2ex.com/t/813407)
 * [【2021-11-05】 [职场话题] 走还是留 麻烦各位大佬给点建议](https://www.v2ex.com/t/813405)
-* [【2021-11-05】 [互联网] 1password 家庭版车主可以随意停止和删除成员账号，为什么还是那么多人随便找车上？](https://www.v2ex.com/t/813404)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-05 22:19:51
+:alarm_clock: 更新时间: 2021-11-05 23:20:24
