@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-11-05  [问与答] 动圈麦克风 能直接连接 macbook pro 2018 吗？](https://www.v2ex.com/t/813411)
+* [2021-11-05  [前端开发] 多个运营活动，前端代码和产物 html 怎么配置呢？](https://www.v2ex.com/t/813410)
+* [2021-11-05  [JetBrains] JetBrains 一个不算活动的折扣](https://www.v2ex.com/t/813409)
 * [2021-11-05  [Apple] Macbook 连接 AirPods 声音断断续续，鼠标卡顿滞缓](https://www.v2ex.com/t/813408)
 * [2021-11-05  [问与答] 我这个账号是不是有问题，发的帖子在对应栏目看不到，但是又有阅读数？](https://www.v2ex.com/t/813407)
 * [2021-11-05  [职场话题] 走还是留 麻烦各位大佬给点建议](https://www.v2ex.com/t/813405)

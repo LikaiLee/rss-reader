@@ -446,6 +446,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 动圈麦克风 能直接连接 macbook pro 2018 吗？",
+                "link": "https://www.v2ex.com/t/813411",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[前端开发] 多个运营活动，前端代码和产物 html 怎么配置呢？",
+                "link": "https://www.v2ex.com/t/813410",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[JetBrains] JetBrains 一个不算活动的折扣",
+                "link": "https://www.v2ex.com/t/813409",
+                "published": "2021-11-05"
+            },
+            {
                 "title": "[Apple] Macbook 连接 AirPods 声音断断续续，鼠标卡顿滞缓",
                 "link": "https://www.v2ex.com/t/813408",
                 "published": "2021-11-05"
@@ -14606,7 +14621,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 3
     },
     {
         "id": 3,
