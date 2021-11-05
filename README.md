@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+14】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+9】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-05】 常用 Obsidian 处理中文长文？试试这些大幅提升体验的插件和代码片段](https://sspai.com/post/69628)
 * [【2021-11-05】 派早报：小米激光影院 2 4K 发布、魅族回应魅族 18 天气应用出现广告等](https://sspai.com/post/69688)
 * [【2021-11-04】 翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了](https://sspai.com/post/69671)
 * [【2021-11-04】 新玩意 082｜少数派的编辑们最近买了啥？](https://sspai.com/post/69673)
@@ -38,7 +39,6 @@
 * [【2021-11-04】 派早报：微软公布 Office 新变化、Google 将强制开启两步验证等](https://sspai.com/post/69662)
 * [【2021-11-03】 App+1 | 一键制作安装介质，这个小工具让你绕开限制升级 Windows 11](https://sspai.com/post/69580)
 * [【2021-11-03】 如果你昨天买了索尼相机，那今天一定得来看看这份索尼镜头选购指南](https://sspai.com/post/67033)
-* [【2021-11-03】 Windows 与 iOS 的跨平台协作方案：Dell Mobile Connect](https://sspai.com/post/69525)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,18 +48,16 @@
     </summary>
 
 
+* [【2021-11-05】 [酷工作] [深圳/宝安] React 前端 1~5 年均可](https://www.v2ex.com/t/813250)
+* [【2021-11-05】 [程序员] 香港的程序员就业环境如何](https://www.v2ex.com/t/813249)
+* [【2021-11-05】 [Apple] mbp2021ProMax 休眠一晚耗电 36%](https://www.v2ex.com/t/813248)
+* [【2021-11-05】 [问与答] 关于嵌入式平台做图像处理但是内存不足的处理方法，求老哥们指教](https://www.v2ex.com/t/813245)
+* [【2021-11-05】 [问与答] 关于 getImageData()不能按预期获取到数据的疑惑](https://www.v2ex.com/t/813244)
+* [【2021-11-05】 [分享创造] 一行代码，发送短信通知。Webhook API](https://www.v2ex.com/t/813243)
+* [【2021-11-05】 [生活] 在豆瓣创建了一个和尚专业和尼姑专业互助小组](https://www.v2ex.com/t/813241)
+* [【2021-11-05】 [Visual Studio Code] VSCode 怎么设置 纯文本 取消 自动补全](https://www.v2ex.com/t/813239)
+* [【2021-11-05】 [Docker] docker-compose 如何加入固定网桥并指定静态 ip](https://www.v2ex.com/t/813238)
 * [【2021-11-05】 [ WATCH] aw7 刚刚收到，求推荐睡眠监测软件](https://www.v2ex.com/t/813235)
-* [【2021-11-05】 [MacBook Pro] 拿到新款 mbp 的 v 友，有兴趣的话能测一下 numpy scipy 的 benchmark 嘛](https://www.v2ex.com/t/813232)
-* [【2021-11-05】 [问与答] 多个子域名共用一套后台， api 是单独一个域名，还是直接/api 目录呢？](https://www.v2ex.com/t/813231)
-* [【2021-11-05】 [Web Dev] GitHub 上有什么好的官网生成 Repo 推荐？](https://www.v2ex.com/t/813230)
-* [【2021-11-05】 [MacBook Pro] MBP 在合盖，并关闭 Power Nap（电能小憩）的情况下，每隔 2 小时左右会唤醒一次外接显示器](https://www.v2ex.com/t/813229)
-* [【2021-11-05】 [问与答] 我是公司信息部运维，有些工作是要远程同事的电脑处理问题。
-昨天远程 A 同事的电脑时，无意间看到 B 同事在企业微信跟 A 聊天，指名道姓说我天天没事干偷窥别人。
-聊天记录已截图，请问我该怎么办？经理说让我大度点，算了。](https://www.v2ex.com/t/813228)
-* [【2021-11-05】 [问与答] 色魔张大妈已经完全废了，有什么替代品？](https://www.v2ex.com/t/813227)
-* [【2021-11-05】 [问与答] win11 wsa 如何安装 fiddler 证书](https://www.v2ex.com/t/813226)
-* [【2021-11-05】 [问与答] 图片透视裁剪的需求怎么自动化？](https://www.v2ex.com/t/813225)
-* [【2021-11-05】 [程序员] 用了多年的逻辑鼠标，终于还是被他的驱动给劝退了。](https://www.v2ex.com/t/813223)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -88,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-05 03:21:06
+:alarm_clock: 更新时间: 2021-11-05 04:26:33

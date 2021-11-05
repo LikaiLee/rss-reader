@@ -1,6 +1,15 @@
 # V2EX
 
 
+* [2021-11-05  [酷工作] [深圳/宝安] React 前端 1~5 年均可](https://www.v2ex.com/t/813250)
+* [2021-11-05  [程序员] 香港的程序员就业环境如何](https://www.v2ex.com/t/813249)
+* [2021-11-05  [Apple] mbp2021ProMax 休眠一晚耗电 36%](https://www.v2ex.com/t/813248)
+* [2021-11-05  [问与答] 关于嵌入式平台做图像处理但是内存不足的处理方法，求老哥们指教](https://www.v2ex.com/t/813245)
+* [2021-11-05  [问与答] 关于 getImageData()不能按预期获取到数据的疑惑](https://www.v2ex.com/t/813244)
+* [2021-11-05  [分享创造] 一行代码，发送短信通知。Webhook API](https://www.v2ex.com/t/813243)
+* [2021-11-05  [生活] 在豆瓣创建了一个和尚专业和尼姑专业互助小组](https://www.v2ex.com/t/813241)
+* [2021-11-05  [Visual Studio Code] VSCode 怎么设置 纯文本 取消 自动补全](https://www.v2ex.com/t/813239)
+* [2021-11-05  [Docker] docker-compose 如何加入固定网桥并指定静态 ip](https://www.v2ex.com/t/813238)
 * [2021-11-05  [ WATCH] aw7 刚刚收到，求推荐睡眠监测软件](https://www.v2ex.com/t/813235)
 * [2021-11-05  [MacBook Pro] 拿到新款 mbp 的 v 友，有兴趣的话能测一下 numpy scipy 的 benchmark 嘛](https://www.v2ex.com/t/813232)
 * [2021-11-05  [问与答] 多个子域名共用一套后台， api 是单独一个域名，还是直接/api 目录呢？](https://www.v2ex.com/t/813231)

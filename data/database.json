@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "常用 Obsidian 处理中文长文？试试这些大幅提升体验的插件和代码片段",
+                "link": "https://sspai.com/post/69628",
+                "published": "2021-11-05"
+            },
+            {
                 "title": "派早报：小米激光影院 2 4K 发布、魅族回应魅族 18 天气应用出现广告等",
                 "link": "https://sspai.com/post/69688",
                 "published": "2021-11-05"
@@ -413,13 +418,58 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[酷工作] [深圳/宝安] React 前端 1~5 年均可",
+                "link": "https://www.v2ex.com/t/813250",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[程序员] 香港的程序员就业环境如何",
+                "link": "https://www.v2ex.com/t/813249",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Apple] mbp2021ProMax 休眠一晚耗电 36%",
+                "link": "https://www.v2ex.com/t/813248",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 关于嵌入式平台做图像处理但是内存不足的处理方法，求老哥们指教",
+                "link": "https://www.v2ex.com/t/813245",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 关于 getImageData()不能按预期获取到数据的疑惑",
+                "link": "https://www.v2ex.com/t/813244",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[分享创造] 一行代码，发送短信通知。Webhook API",
+                "link": "https://www.v2ex.com/t/813243",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[生活] 在豆瓣创建了一个和尚专业和尼姑专业互助小组",
+                "link": "https://www.v2ex.com/t/813241",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Visual Studio Code] VSCode 怎么设置 纯文本 取消 自动补全",
+                "link": "https://www.v2ex.com/t/813239",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Docker] docker-compose 如何加入固定网桥并指定静态 ip",
+                "link": "https://www.v2ex.com/t/813238",
+                "published": "2021-11-05"
+            },
             {
                 "title": "[ WATCH] aw7 刚刚收到，求推荐睡眠监测软件",
                 "link": "https://www.v2ex.com/t/813235",
@@ -13891,7 +13941,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 14
+        "new_feeds": 9
     },
     {
         "id": 3,
@@ -14364,6 +14414,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
