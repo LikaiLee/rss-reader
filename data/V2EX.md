@@ -1,6 +1,18 @@
 # V2EX
 
 
+* [2021-11-05  [Apple] 看到续航时间开始犹豫了,买 14pro 还是买 16pro](https://www.v2ex.com/t/813274)
+* [2021-11-05  [Apple] Apple Watch 升级 watchOS8 之后掉电飞快](https://www.v2ex.com/t/813271)
+* [2021-11-05  [macOS] M1 有啥好用的 PDF 阅读器](https://www.v2ex.com/t/813270)
+* [2021-11-05  [酷工作] [上海] [米哈游内推] - Java 架构师/ Java 开发/golang](https://www.v2ex.com/t/813269)
+* [2021-11-05  [Apple] ios15.0 AirPods Pro 经常性自己断开](https://www.v2ex.com/t/813266)
+* [2021-11-05  [问与答] iphone13pro 英雄联盟手游延迟高](https://www.v2ex.com/t/813265)
+* [2021-11-05  [推广] 收藏的 Nginx 课程](https://www.v2ex.com/t/813264)
+* [2021-11-05  [酷工作] [杭州] [上海] 蚂蚁金服消金技术团队招人咯， 11 月最后一波。](https://www.v2ex.com/t/813263)
+* [2021-11-05  [程序员] 还有三周离职，老板叫我开发个新项目](https://www.v2ex.com/t/813262)
+* [2021-11-05  [宽带症候群] 圈 x 我写了一条 rewrite，没有生效](https://www.v2ex.com/t/813261)
+* [2021-11-05  [程序员] 罗技摄像头 c920 有人用么？或者有更好的欢迎推荐。](https://www.v2ex.com/t/813260)
+* [2021-11-05  [硬件] Keyshot Benchmark（M1MAX vs E5-2696v4 vs i7-6950x vs A4000 vs 3090)](https://www.v2ex.com/t/813258)
 * [2021-11-05  [MacBook Pro] M1 Pro 能够接几台外接显示器？](https://www.v2ex.com/t/813256)
 * [2021-11-05  [问与答] 安卓上有比肩桌面级的浏览器吗？](https://www.v2ex.com/t/813255)
 * [2021-11-05  [问与答] 使用阿里云对象存储 OSS 这样的东西来做图床，如何解决图片在网站内删了，但可能还占用 oss 的问题呢？](https://www.v2ex.com/t/813254)

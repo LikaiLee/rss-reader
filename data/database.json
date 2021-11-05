@@ -426,6 +426,66 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 看到续航时间开始犹豫了,买 14pro 还是买 16pro",
+                "link": "https://www.v2ex.com/t/813274",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Apple] Apple Watch 升级 watchOS8 之后掉电飞快",
+                "link": "https://www.v2ex.com/t/813271",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[macOS] M1 有啥好用的 PDF 阅读器",
+                "link": "https://www.v2ex.com/t/813270",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[酷工作] [上海] [米哈游内推] - Java 架构师/ Java 开发/golang",
+                "link": "https://www.v2ex.com/t/813269",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Apple] ios15.0 AirPods Pro 经常性自己断开",
+                "link": "https://www.v2ex.com/t/813266",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] iphone13pro 英雄联盟手游延迟高",
+                "link": "https://www.v2ex.com/t/813265",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[推广] 收藏的 Nginx 课程",
+                "link": "https://www.v2ex.com/t/813264",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[酷工作] [杭州] [上海] 蚂蚁金服消金技术团队招人咯， 11 月最后一波。",
+                "link": "https://www.v2ex.com/t/813263",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[程序员] 还有三周离职，老板叫我开发个新项目",
+                "link": "https://www.v2ex.com/t/813262",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[宽带症候群] 圈 x 我写了一条 rewrite，没有生效",
+                "link": "https://www.v2ex.com/t/813261",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[程序员] 罗技摄像头 c920 有人用么？或者有更好的欢迎推荐。",
+                "link": "https://www.v2ex.com/t/813260",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[硬件] Keyshot Benchmark（M1MAX vs E5-2696v4 vs i7-6950x vs A4000 vs 3090)",
+                "link": "https://www.v2ex.com/t/813258",
+                "published": "2021-11-05"
+            },
+            {
                 "title": "[MacBook Pro] M1 Pro 能够接几台外接显示器？",
                 "link": "https://www.v2ex.com/t/813256",
                 "published": "2021-11-05"
@@ -13966,7 +14026,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 12
     },
     {
         "id": 3,
