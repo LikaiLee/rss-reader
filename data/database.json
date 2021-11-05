@@ -446,6 +446,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] 2021 macbook pro 无法关闭键盘灯吗？",
+                "link": "https://www.v2ex.com/t/813412",
+                "published": "2021-11-05"
+            },
+            {
                 "title": "[问与答] 动圈麦克风 能直接连接 macbook pro 2018 吗？",
                 "link": "https://www.v2ex.com/t/813411",
                 "published": "2021-11-05"
@@ -14621,7 +14626,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 3,
