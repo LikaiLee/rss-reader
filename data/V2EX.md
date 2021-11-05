@@ -1,6 +1,10 @@
 # V2EX
 
 
+* [2021-11-05  [程序员] C#这迭代也太快了 tnnd](https://www.v2ex.com/t/813359)
+* [2021-11-05  [全球工单系统] 火狐也开始摆烂了](https://www.v2ex.com/t/813358)
+* [2021-11-05  [推广] 云数据备份 | MySQL、SQL Server 数据备份到 COS](https://www.v2ex.com/t/813353)
+* [2021-11-05  [推广] 坐标深圳 11 月 14 日我们组织了一场程序员交友派对，喊你来脱单](https://www.v2ex.com/t/813350)
 * [2021-11-05  [程序员] kibana Discover 模块没有 Time Picker 按钮](https://www.v2ex.com/t/813352)
 * [2021-11-05  [酷工作] [Shopee 内推] 深北上虾皮欢迎你](https://www.v2ex.com/t/813351)
 * [2021-11-05  [生活] 坐标深圳 11 月 14 日我们组织了一场程序员交友派对，喊你来脱单](https://www.v2ex.com/t/813350)

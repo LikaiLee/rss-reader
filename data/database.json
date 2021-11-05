@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "本周看什么 丨最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/69699",
+                "published": "2021-11-05"
+            },
+            {
                 "title": "少数派正版软件「双十一」来了，还有限时买赠活动等你选",
                 "link": "https://sspai.com/post/69642",
                 "published": "2021-11-05"
@@ -440,6 +445,26 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[程序员] C#这迭代也太快了 tnnd",
+                "link": "https://www.v2ex.com/t/813359",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[全球工单系统] 火狐也开始摆烂了",
+                "link": "https://www.v2ex.com/t/813358",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[推广] 云数据备份 | MySQL、SQL Server 数据备份到 COS",
+                "link": "https://www.v2ex.com/t/813353",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[推广] 坐标深圳 11 月 14 日我们组织了一场程序员交友派对，喊你来脱单",
+                "link": "https://www.v2ex.com/t/813350",
+                "published": "2021-11-05"
+            },
             {
                 "title": "[程序员] kibana Discover 模块没有 Time Picker 按钮",
                 "link": "https://www.v2ex.com/t/813352",
@@ -14376,7 +14401,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 16
+        "new_feeds": 4
     },
     {
         "id": 3,

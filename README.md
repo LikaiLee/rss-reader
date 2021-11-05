@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+16】
+* [V2EX](#V2EX) 【+4】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-05】 本周看什么 丨最近值得一看的 9 部作品](https://sspai.com/post/69699)
 * [【2021-11-05】 少数派正版软件「双十一」来了，还有限时买赠活动等你选](https://sspai.com/post/69642)
 * [【2021-11-05】 在虚拟世界找平衡：一次「逃离」社交网络的尝试](https://sspai.com/post/69565)
 * [【2021-11-05】 瞎玩菌的游戏周报：Apple「宣战」御三家、任天堂 VVIP 遭大量差评等](https://sspai.com/post/69670)
@@ -38,7 +39,6 @@
 * [【2021-11-04】 新玩意 082｜少数派的编辑们最近买了啥？](https://sspai.com/post/69673)
 * [【2021-11-04】 用硬苹果捏软柿子：M1 系列 Mac 虚拟 Windows 11 免费方法谈](https://sspai.com/post/69659)
 * [【2021-11-04】 「基因检测」，新时代算命谱还是预言书？](https://sspai.com/post/69611)
-* [【2021-11-04】 App+1 | 十年如一的老牌笔记应用：Notes Plus X 都有哪些新特性？](https://sspai.com/post/69653)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-05】 [程序员] C#这迭代也太快了 tnnd](https://www.v2ex.com/t/813359)
+* [【2021-11-05】 [全球工单系统] 火狐也开始摆烂了](https://www.v2ex.com/t/813358)
+* [【2021-11-05】 [推广] 云数据备份 | MySQL、SQL Server 数据备份到 COS](https://www.v2ex.com/t/813353)
+* [【2021-11-05】 [推广] 坐标深圳 11 月 14 日我们组织了一场程序员交友派对，喊你来脱单](https://www.v2ex.com/t/813350)
 * [【2021-11-05】 [程序员] kibana Discover 模块没有 Time Picker 按钮](https://www.v2ex.com/t/813352)
 * [【2021-11-05】 [酷工作] [Shopee 内推] 深北上虾皮欢迎你](https://www.v2ex.com/t/813351)
 * [【2021-11-05】 [生活] 坐标深圳 11 月 14 日我们组织了一场程序员交友派对，喊你来脱单](https://www.v2ex.com/t/813350)
 * [【2021-11-05】 [酷工作] [深圳][全职][社招/校招] 硅谷创业公司 Covariant 寻找靠谱的软件工程师](https://www.v2ex.com/t/813349)
 * [【2021-11-05】 [Battlefield 系列] 战地 2042 的《传送门模式》细节流出：未购买游戏也可创作、编辑。有规则逻辑链，但不可编辑地图。](https://www.v2ex.com/t/813348)
 * [【2021-11-05】 [macOS] 哪里可以下载 MacOS 的动态壁纸啊](https://www.v2ex.com/t/813347)
-* [【2021-11-05】 [V2EX] 建议加个"收藏最热"的排序](https://www.v2ex.com/t/813346)
-* [【2021-11-05】 [问与答] 请问一下大佬们，除了 github 私库，还有哪些图床是免费又好用且支持私有库，并且速度快的哇？](https://www.v2ex.com/t/813345)
-* [【2021-11-05】 [奇思妙想] 叠瓦盘要是使用混合固态，可否有效改善读写性能？](https://www.v2ex.com/t/813344)
-* [【2021-11-05】 [分享发现] 一周写了个播放器](https://www.v2ex.com/t/813343)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-05 10:22:19
+:alarm_clock: 更新时间: 2021-11-05 11:16:54
