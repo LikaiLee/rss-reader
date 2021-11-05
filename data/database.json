@@ -446,6 +446,56 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[CDN] 直接用阿里云 CDN 的提供的 CNAME 域名访问的是怎么实现的",
+                "link": "https://www.v2ex.com/t/813399",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[宽带症候群] K2p 下一个路由选什么？",
+                "link": "https://www.v2ex.com/t/813398",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Mozilla] Firefox 内置彩蛋 ——《Mozilla 之书》",
+                "link": "https://www.v2ex.com/t/813397",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[V2EX] 发现一个李鬼 https://bv2ex.com/",
+                "link": "https://www.v2ex.com/t/813396",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Apple] 核爆： M2 暴力堆核心（多 Die 封装： chiplet）",
+                "link": "https://www.v2ex.com/t/813395",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Apple] 有谁懂 apple TV 的连接方式？",
+                "link": "https://www.v2ex.com/t/813394",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 求：导入 pdf 并涂抹记忆的 APP， windows 或者 iPadOS 平台",
+                "link": "https://www.v2ex.com/t/813393",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[分享创造] “道德经版本”项目：引入 random.org 真随机数，添加 ctext.org 拷贝",
+                "link": "https://www.v2ex.com/t/813392",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Redis] redis hash 存每个用户个性化列表行吗？",
+                "link": "https://www.v2ex.com/t/813391",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Apple] 什么值得买直播间抢了一个 iPhone 13 但是序列码查不到",
+                "link": "https://www.v2ex.com/t/813390",
+                "published": "2021-11-05"
+            },
+            {
                 "title": "[操作系统] os 内核方向国内有哪些做的好的公司？",
                 "link": "https://www.v2ex.com/t/813389",
                 "published": "2021-11-05"
@@ -14516,7 +14566,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 10
     },
     {
         "id": 3,

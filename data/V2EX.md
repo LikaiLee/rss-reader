@@ -1,6 +1,16 @@
 # V2EX
 
 
+* [2021-11-05  [CDN] 直接用阿里云 CDN 的提供的 CNAME 域名访问的是怎么实现的](https://www.v2ex.com/t/813399)
+* [2021-11-05  [宽带症候群] K2p 下一个路由选什么？](https://www.v2ex.com/t/813398)
+* [2021-11-05  [Mozilla] Firefox 内置彩蛋 ——《Mozilla 之书》](https://www.v2ex.com/t/813397)
+* [2021-11-05  [V2EX] 发现一个李鬼 https://bv2ex.com/](https://www.v2ex.com/t/813396)
+* [2021-11-05  [Apple] 核爆： M2 暴力堆核心（多 Die 封装： chiplet）](https://www.v2ex.com/t/813395)
+* [2021-11-05  [Apple] 有谁懂 apple TV 的连接方式？](https://www.v2ex.com/t/813394)
+* [2021-11-05  [问与答] 求：导入 pdf 并涂抹记忆的 APP， windows 或者 iPadOS 平台](https://www.v2ex.com/t/813393)
+* [2021-11-05  [分享创造] “道德经版本”项目：引入 random.org 真随机数，添加 ctext.org 拷贝](https://www.v2ex.com/t/813392)
+* [2021-11-05  [Redis] redis hash 存每个用户个性化列表行吗？](https://www.v2ex.com/t/813391)
+* [2021-11-05  [Apple] 什么值得买直播间抢了一个 iPhone 13 但是序列码查不到](https://www.v2ex.com/t/813390)
 * [2021-11-05  [操作系统] os 内核方向国内有哪些做的好的公司？](https://www.v2ex.com/t/813389)
 * [2021-11-05  [macOS] 2015 的有没装 macOS 12 的，](https://www.v2ex.com/t/813387)
 * [2021-11-05  [问与答] 问一下凉薯 有推荐的吗](https://www.v2ex.com/t/813386)
