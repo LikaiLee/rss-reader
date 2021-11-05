@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "瞎玩菌的游戏周报：Apple「宣战」御三家、任天堂 VVIP 遭大量差评等",
+                "link": "https://sspai.com/post/69670",
+                "published": "2021-11-05"
+            },
+            {
                 "title": "常用 Obsidian 处理中文长文？试试这些大幅提升体验的插件和代码片段",
                 "link": "https://sspai.com/post/69628",
                 "published": "2021-11-05"
@@ -418,13 +423,113 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[酷工作] [幻方量化] 招 C++开发工程师！杭州上海都有 HC ~",
+                "link": "https://www.v2ex.com/t/813314",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[JetBrains] 最近 pycharm 经常卡住。。。有胖友们有相同的毛病吗",
+                "link": "https://www.v2ex.com/t/813313",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[职场话题] 最近才知道有个「华为 OD」，是不是就是外包？有大佬科普下吗？",
+                "link": "https://www.v2ex.com/t/813312",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[macOS] 64g 内存需要关闭 swap 分区吗?",
+                "link": "https://www.v2ex.com/t/813311",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] OC，自动进入了 windows。我现在可以远程控制 windows，有办法启动到 mac 么",
+                "link": "https://www.v2ex.com/t/813310",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[酷工作] 蚂蚁集团[杭州][上海]- Java 高级开发工程师/专家/高级专家-蚂蚁保险",
+                "link": "https://www.v2ex.com/t/813309",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[北京] 北京回龙观猫咪#免费领养#",
+                "link": "https://www.v2ex.com/t/813307",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[全球工单系统] 请问铁拳什么时候能到位？淘宝口令让我社死现场",
+                "link": "https://www.v2ex.com/t/813306",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Django] 请问 Django 的 JSONField 字段有没有必要进行索引？",
+                "link": "https://www.v2ex.com/t/813305",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[HTTP] http 代理 vs. https 代理",
+                "link": "https://www.v2ex.com/t/813303",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[MinIO] 有人生产使用 minio 吗",
+                "link": "https://www.v2ex.com/t/813302",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[宽带症候群] 上海联通这几天境外连接是不是出问题了",
+                "link": "https://www.v2ex.com/t/813301",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Django] 分享一个在 Django 的 model 里，使用元类动态添加相似的带自定义中间表的多对多关系字段的方法",
+                "link": "https://www.v2ex.com/t/813300",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 研发前后端比例",
+                "link": "https://www.v2ex.com/t/813299",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Oracle] oracle cloud 无法打开端口",
+                "link": "https://www.v2ex.com/t/813298",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[macOS] 吐槽下 m1 pro 的刘海，遮挡菜单栏的显示，影响使用",
+                "link": "https://www.v2ex.com/t/813297",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 编程语境下的 item 翻译成 项 ，如何？ 还有更好的翻译吗？",
+                "link": "https://www.v2ex.com/t/813296",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[路由器] 关于旁路网关的防火墙问题请教",
+                "link": "https://www.v2ex.com/t/813295",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[ WATCH] aw 上的心率变异性会自动检测吗？需要设置吗？",
+                "link": "https://www.v2ex.com/t/813294",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Redis] Redis 到底应该怎么存储使用?",
+                "link": "https://www.v2ex.com/t/813275",
+                "published": "2021-11-05"
+            },
             {
                 "title": "[MacBook Pro] mbp 16G+1T idea 特别卡，启动速度也特别慢，改了下 Xmx 和 Xms 也没用。",
                 "link": "https://www.v2ex.com/t/813292",
@@ -14091,7 +14196,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 13
+        "new_feeds": 20
     },
     {
         "id": 3,

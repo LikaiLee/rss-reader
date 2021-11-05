@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+13】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+20】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-05】 瞎玩菌的游戏周报：Apple「宣战」御三家、任天堂 VVIP 遭大量差评等](https://sspai.com/post/69670)
 * [【2021-11-05】 常用 Obsidian 处理中文长文？试试这些大幅提升体验的插件和代码片段](https://sspai.com/post/69628)
 * [【2021-11-05】 派早报：小米激光影院 2 4K 发布、魅族回应魅族 18 天气应用出现广告等](https://sspai.com/post/69688)
 * [【2021-11-04】 翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了](https://sspai.com/post/69671)
@@ -38,7 +39,6 @@
 * [【2021-11-04】 App+1 | 十年如一的老牌笔记应用：Notes Plus X 都有哪些新特性？](https://sspai.com/post/69653)
 * [【2021-11-04】 派早报：微软公布 Office 新变化、Google 将强制开启两步验证等](https://sspai.com/post/69662)
 * [【2021-11-03】 App+1 | 一键制作安装介质，这个小工具让你绕开限制升级 Windows 11](https://sspai.com/post/69580)
-* [【2021-11-03】 如果你昨天买了索尼相机，那今天一定得来看看这份索尼镜头选购指南](https://sspai.com/post/67033)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-05】 [MacBook Pro] mbp 16G+1T idea 特别卡，启动速度也特别慢，改了下 Xmx 和 Xms 也没用。](https://www.v2ex.com/t/813292)
-* [【2021-11-05】 [问与答] 回来啦](https://www.v2ex.com/t/813290)
-* [【2021-11-05】 [问与答] youtube music 地区限制](https://www.v2ex.com/t/813289)
-* [【2021-11-05】 [NGINX] Nginx 跳转问题（包含 ad 认证）](https://www.v2ex.com/t/813288)
-* [【2021-11-05】 [数据库] 有大佬用过 阿里开源的 datax 数据迁移工具吗](https://www.v2ex.com/t/813287)
-* [【2021-11-05】 [酷工作] 成都区块链方向招聘 VUE/RE/游戏脚本开发/RUST 小伙伴了](https://www.v2ex.com/t/813286)
-* [【2021-11-05】 [程序员] 咨询一个搭建 PHP 部署环境的问题](https://www.v2ex.com/t/813284)
-* [【2021-11-05】 [酷工作] 🔥🔥[新加坡] 大型上市互联网公司，招移动端（iOS,安卓），前端，后端开发（不限开发语言），大数据开发， DevOps 或 SRE 及 DBA 等各类工程师，各方向技术专家及技术负责人（P7-P9)，个税低，没有 996，中文视频面试。](https://www.v2ex.com/t/813283)
-* [【2021-11-05】 [程序员] html table width 问题](https://www.v2ex.com/t/813281)
-* [【2021-11-05】 [游戏] 想知道这里还有玩三国志战略版的吗，玩了好几年了，白板月卡党](https://www.v2ex.com/t/813280)
+* [【2021-11-05】 [酷工作] [幻方量化] 招 C++开发工程师！杭州上海都有 HC ~](https://www.v2ex.com/t/813314)
+* [【2021-11-05】 [JetBrains] 最近 pycharm 经常卡住。。。有胖友们有相同的毛病吗](https://www.v2ex.com/t/813313)
+* [【2021-11-05】 [职场话题] 最近才知道有个「华为 OD」，是不是就是外包？有大佬科普下吗？](https://www.v2ex.com/t/813312)
+* [【2021-11-05】 [macOS] 64g 内存需要关闭 swap 分区吗?](https://www.v2ex.com/t/813311)
+* [【2021-11-05】 [问与答] OC，自动进入了 windows。我现在可以远程控制 windows，有办法启动到 mac 么](https://www.v2ex.com/t/813310)
+* [【2021-11-05】 [酷工作] 蚂蚁集团[杭州][上海]- Java 高级开发工程师/专家/高级专家-蚂蚁保险](https://www.v2ex.com/t/813309)
+* [【2021-11-05】 [北京] 北京回龙观猫咪#免费领养#](https://www.v2ex.com/t/813307)
+* [【2021-11-05】 [全球工单系统] 请问铁拳什么时候能到位？淘宝口令让我社死现场](https://www.v2ex.com/t/813306)
+* [【2021-11-05】 [Django] 请问 Django 的 JSONField 字段有没有必要进行索引？](https://www.v2ex.com/t/813305)
+* [【2021-11-05】 [HTTP] http 代理 vs. https 代理](https://www.v2ex.com/t/813303)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-05 07:19:08
+:alarm_clock: 更新时间: 2021-11-05 08:23:38
