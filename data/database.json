@@ -30,13 +30,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派早报：小米激光影院 2 4K 发布、魅族回应魅族 18 天气应用出现广告等",
+                "link": "https://sspai.com/post/69688",
+                "published": "2021-11-05"
+            },
             {
                 "title": "翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了",
                 "link": "https://sspai.com/post/69671",
@@ -408,13 +413,128 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[分享创造] 内网穿透工具 natpass v0.6.0 版本发布，新增远程桌面功能",
+                "link": "https://www.v2ex.com/t/813216",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Visual Studio Code] vscode 能不能根据项目配置，开启不同的插件，比如一个 vue2 的项目开启 vetur，再打开一个 vue3 的项目开启 volar",
+                "link": "https://www.v2ex.com/t/813214",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Python] 面试遇到的 Python 多进程死循环问题求解",
+                "link": "https://www.v2ex.com/t/813213",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[JavaScript] 关于防抖函数有个疑问",
+                "link": "https://www.v2ex.com/t/813210",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[宽带症候群] 家庭宽带的最大连接数只有 50 吗？",
+                "link": "https://www.v2ex.com/t/813209",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[程序员] 记录翻译过单词的 Chrome 插件或软件",
+                "link": "https://www.v2ex.com/t/813208",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[生活] 大佬们，在如厕的时候喜欢看什么图文或者视频，也致使这个过程稍微有点价值和意义？",
+                "link": "https://www.v2ex.com/t/813206",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[分享发现] 小 x 知识网死而复生？",
+                "link": "https://www.v2ex.com/t/813205",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[奇思妙想] 有什么办法判断是否是脚本输入图形验证码登录的",
+                "link": "https://www.v2ex.com/t/813204",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[奇思妙想] 是不是应该把浏览器也看做操作系统？",
+                "link": "https://www.v2ex.com/t/813203",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 请问一下大家，右手食指指腹在点击鼠标的时候会疼，只是为啥呢？我一直是用指腹在点击鼠标",
+                "link": "https://www.v2ex.com/t/813202",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[分享创造] 汤宇宙 soupverse",
+                "link": "https://www.v2ex.com/t/813201",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Emacs] Emacs 28 新特性介绍",
+                "link": "https://www.v2ex.com/t/813199",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[分享发现] 微软发布全新协作应用 Loop（大概是类 Notion）",
+                "link": "https://www.v2ex.com/t/813198",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[git] Git 能够搜索出来这样的 commit 么？改动了某一个或多个指定目录下文件的所 commit",
+                "link": "https://www.v2ex.com/t/813196",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[宽带症候群] 拉了条 50M 移动 dia",
+                "link": "https://www.v2ex.com/t/813195",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] pykafka 生产者无法传输数据？",
+                "link": "https://www.v2ex.com/t/813194",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Apple] 最近为什么每天都要重新设置 watch 解锁手机才能生效？",
+                "link": "https://www.v2ex.com/t/813192",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Apple] 13pro 充电至 100%，开启省电模式。7 点 15 起床，剩 75%",
+                "link": "https://www.v2ex.com/t/813191",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[酷工作] 跳槽意向选择",
+                "link": "https://www.v2ex.com/t/813190",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[MacBook Pro] 问一下大家银色 Mac A 面贴上贴纸会留下印痕吗？",
+                "link": "https://www.v2ex.com/t/813189",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 请问各位是怎么申请到 copilot 的？",
+                "link": "https://www.v2ex.com/t/813188",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[macOS] 2018 款 mac pro 13 寸， 想知道如何快速让键盘按钮出现按键感觉粘滞或按键反馈不一致的情况",
+                "link": "https://www.v2ex.com/t/813187",
+                "published": "2021-11-05"
+            },
             {
                 "title": "[iPhone] 为什么 iPhone 不做主题商店？",
                 "link": "https://www.v2ex.com/t/813186",
@@ -13701,7 +13821,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 23
     },
     {
         "id": 3,
