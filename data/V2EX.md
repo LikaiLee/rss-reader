@@ -1,6 +1,19 @@
 # V2EX
 
 
+* [2021-11-05  [MacBook Pro] mbp 16G+1T idea 特别卡，启动速度也特别慢，改了下 Xmx 和 Xms 也没用。](https://www.v2ex.com/t/813292)
+* [2021-11-05  [问与答] 回来啦](https://www.v2ex.com/t/813290)
+* [2021-11-05  [问与答] youtube music 地区限制](https://www.v2ex.com/t/813289)
+* [2021-11-05  [NGINX] Nginx 跳转问题（包含 ad 认证）](https://www.v2ex.com/t/813288)
+* [2021-11-05  [数据库] 有大佬用过 阿里开源的 datax 数据迁移工具吗](https://www.v2ex.com/t/813287)
+* [2021-11-05  [酷工作] 成都区块链方向招聘 VUE/RE/游戏脚本开发/RUST 小伙伴了](https://www.v2ex.com/t/813286)
+* [2021-11-05  [程序员] 咨询一个搭建 PHP 部署环境的问题](https://www.v2ex.com/t/813284)
+* [2021-11-05  [酷工作] 🔥🔥[新加坡] 大型上市互联网公司，招移动端（iOS,安卓），前端，后端开发（不限开发语言），大数据开发， DevOps 或 SRE 及 DBA 等各类工程师，各方向技术专家及技术负责人（P7-P9)，个税低，没有 996，中文视频面试。](https://www.v2ex.com/t/813283)
+* [2021-11-05  [程序员] html table width 问题](https://www.v2ex.com/t/813281)
+* [2021-11-05  [游戏] 想知道这里还有玩三国志战略版的吗，玩了好几年了，白板月卡党](https://www.v2ex.com/t/813280)
+* [2021-11-05  [Apple] 朋友们，一年了，终于想起买 AirPods Max，有劝退的吗](https://www.v2ex.com/t/813277)
+* [2021-11-05  [全球工单系统] 阿里系真是对个人信息肆意妄为](https://www.v2ex.com/t/813276)
+* [2021-11-05  [程序员] Redis 到底应该怎么存储使用?](https://www.v2ex.com/t/813275)
 * [2021-11-05  [Apple] 看到续航时间开始犹豫了,买 14pro 还是买 16pro](https://www.v2ex.com/t/813274)
 * [2021-11-05  [Apple] Apple Watch 升级 watchOS8 之后掉电飞快](https://www.v2ex.com/t/813271)
 * [2021-11-05  [macOS] M1 有啥好用的 PDF 阅读器](https://www.v2ex.com/t/813270)
