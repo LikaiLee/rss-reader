@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+18】
+* [V2EX](#V2EX) 【+16】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-05】 少数派正版软件「双十一」来了，还有限时买赠活动等你选](https://sspai.com/post/69642)
 * [【2021-11-05】 在虚拟世界找平衡：一次「逃离」社交网络的尝试](https://sspai.com/post/69565)
 * [【2021-11-05】 瞎玩菌的游戏周报：Apple「宣战」御三家、任天堂 VVIP 遭大量差评等](https://sspai.com/post/69670)
 * [【2021-11-05】 常用 Obsidian 处理中文长文？试试这些大幅提升体验的插件和代码片段](https://sspai.com/post/69628)
@@ -38,7 +39,6 @@
 * [【2021-11-04】 用硬苹果捏软柿子：M1 系列 Mac 虚拟 Windows 11 免费方法谈](https://sspai.com/post/69659)
 * [【2021-11-04】 「基因检测」，新时代算命谱还是预言书？](https://sspai.com/post/69611)
 * [【2021-11-04】 App+1 | 十年如一的老牌笔记应用：Notes Plus X 都有哪些新特性？](https://sspai.com/post/69653)
-* [【2021-11-04】 派早报：微软公布 Office 新变化、Google 将强制开启两步验证等](https://sspai.com/post/69662)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-05】 [生活] 遇上偶遇一只小狗在调戏一只走地鸟，鸟像鸽子但是尾巴长，被我救下来了](https://www.v2ex.com/t/813334)
-* [【2021-11-05】 [Apple] MacBook Pro m1 长时间未使用没充电，结果怎么都开不了机了](https://www.v2ex.com/t/813333)
-* [【2021-11-05】 [问与答] 幕布已经连续 3 个没有更新，有必要转移笔记吗？](https://www.v2ex.com/t/813332)
-* [【2021-11-05】 [硬件] 有没有移动设备性能测试网页](https://www.v2ex.com/t/813331)
-* [【2021-11-05】 [酷工作] 厦门银行信息技术岗有了解的嘛~](https://www.v2ex.com/t/813330)
-* [【2021-11-05】 [酷工作] [坐标杭州] Go 后端开发工程师坑位招新（朝十晚七双休不加班不内卷）](https://www.v2ex.com/t/813329)
-* [【2021-11-05】 [Django] 推荐一本 django 源码解析的书《深入理解 Django 框架内幕与实现原理》](https://www.v2ex.com/t/813328)
-* [【2021-11-05】 [Apple] TIL: macOS 系统自带的那些「股票」一类的应用位于（有 SIP 以后的）系统分区里，很难删除](https://www.v2ex.com/t/813327)
-* [【2021-11-05】 [问与答] 想找个邮件轮询和收发的可靠低成本方案](https://www.v2ex.com/t/813326)
-* [【2021-11-05】 [科技] 请教一下 Java 跨项目执行 SQL](https://www.v2ex.com/t/813325)
+* [【2021-11-05】 [程序员] kibana Discover 模块没有 Time Picker 按钮](https://www.v2ex.com/t/813352)
+* [【2021-11-05】 [酷工作] [Shopee 内推] 深北上虾皮欢迎你](https://www.v2ex.com/t/813351)
+* [【2021-11-05】 [生活] 坐标深圳 11 月 14 日我们组织了一场程序员交友派对，喊你来脱单](https://www.v2ex.com/t/813350)
+* [【2021-11-05】 [酷工作] [深圳][全职][社招/校招] 硅谷创业公司 Covariant 寻找靠谱的软件工程师](https://www.v2ex.com/t/813349)
+* [【2021-11-05】 [Battlefield 系列] 战地 2042 的《传送门模式》细节流出：未购买游戏也可创作、编辑。有规则逻辑链，但不可编辑地图。](https://www.v2ex.com/t/813348)
+* [【2021-11-05】 [macOS] 哪里可以下载 MacOS 的动态壁纸啊](https://www.v2ex.com/t/813347)
+* [【2021-11-05】 [V2EX] 建议加个"收藏最热"的排序](https://www.v2ex.com/t/813346)
+* [【2021-11-05】 [问与答] 请问一下大佬们，除了 github 私库，还有哪些图床是免费又好用且支持私有库，并且速度快的哇？](https://www.v2ex.com/t/813345)
+* [【2021-11-05】 [奇思妙想] 叠瓦盘要是使用混合固态，可否有效改善读写性能？](https://www.v2ex.com/t/813344)
+* [【2021-11-05】 [分享发现] 一周写了个播放器](https://www.v2ex.com/t/813343)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-05 09:19:58
+:alarm_clock: 更新时间: 2021-11-05 10:22:19

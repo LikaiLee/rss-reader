@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "少数派正版软件「双十一」来了，还有限时买赠活动等你选",
+                "link": "https://sspai.com/post/69642",
+                "published": "2021-11-05"
+            },
+            {
                 "title": "在虚拟世界找平衡：一次「逃离」社交网络的尝试",
                 "link": "https://sspai.com/post/69565",
                 "published": "2021-11-05"
@@ -435,6 +440,86 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[程序员] kibana Discover 模块没有 Time Picker 按钮",
+                "link": "https://www.v2ex.com/t/813352",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[酷工作] [Shopee 内推] 深北上虾皮欢迎你",
+                "link": "https://www.v2ex.com/t/813351",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[生活] 坐标深圳 11 月 14 日我们组织了一场程序员交友派对，喊你来脱单",
+                "link": "https://www.v2ex.com/t/813350",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[酷工作] [深圳][全职][社招/校招] 硅谷创业公司 Covariant 寻找靠谱的软件工程师",
+                "link": "https://www.v2ex.com/t/813349",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Battlefield 系列] 战地 2042 的《传送门模式》细节流出：未购买游戏也可创作、编辑。有规则逻辑链，但不可编辑地图。",
+                "link": "https://www.v2ex.com/t/813348",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[macOS] 哪里可以下载 MacOS 的动态壁纸啊",
+                "link": "https://www.v2ex.com/t/813347",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[V2EX] 建议加个\"收藏最热\"的排序",
+                "link": "https://www.v2ex.com/t/813346",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 请问一下大佬们，除了 github 私库，还有哪些图床是免费又好用且支持私有库，并且速度快的哇？",
+                "link": "https://www.v2ex.com/t/813345",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[奇思妙想] 叠瓦盘要是使用混合固态，可否有效改善读写性能？",
+                "link": "https://www.v2ex.com/t/813344",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[分享发现] 一周写了个播放器",
+                "link": "https://www.v2ex.com/t/813343",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 想给自己老家买一个电视，希望 55 寸以上。2K 左右。",
+                "link": "https://www.v2ex.com/t/813342",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[酷工作] [上海张江] [云平台招聘] 高级 golang [20-40k] [16 薪]",
+                "link": "https://www.v2ex.com/t/813341",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[分享发现] Apple ID 官网页面改了",
+                "link": "https://www.v2ex.com/t/813338",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 这微信口令真是区别对待啊 微信里抖音口令怎么复制？",
+                "link": "https://www.v2ex.com/t/813337",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Apple] 两个不同区的 Apple ID 为什么被绑定在一起了",
+                "link": "https://www.v2ex.com/t/813336",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[生活] 路上偶遇一只小狗在调戏一只走地鸟，鸟像鸽子但是尾巴长，被我救下来了",
+                "link": "https://www.v2ex.com/t/813334",
+                "published": "2021-11-05"
+            },
             {
                 "title": "[生活] 遇上偶遇一只小狗在调戏一只走地鸟，鸟像鸽子但是尾巴长，被我救下来了",
                 "link": "https://www.v2ex.com/t/813334",
@@ -14291,7 +14376,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 18
+        "new_feeds": 16
     },
     {
         "id": 3,
