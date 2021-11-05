@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+9】
+* [V2EX](#V2EX) 【+6】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-05】 [操作系统] os 内核方向国内有哪些做的好的公司？](https://www.v2ex.com/t/813389)
+* [【2021-11-05】 [macOS] 2015 的有没装 macOS 12 的，](https://www.v2ex.com/t/813387)
+* [【2021-11-05】 [问与答] 问一下凉薯 有推荐的吗](https://www.v2ex.com/t/813386)
+* [【2021-11-05】 [问与答] 老板开始指责开发团队，这是在给项目失败找背锅侠，我是不是该离开了？](https://www.v2ex.com/t/813385)
+* [【2021-11-05】 [Apple] 求推荐一款追踪剩余流量的 app](https://www.v2ex.com/t/813384)
+* [【2021-11-05】 [全球工单系统] 同花顺的 Mac 版是更新了个假的 M1 支持？](https://www.v2ex.com/t/813382)
 * [【2021-11-05】 [程序员] Ruby 还有人学吗？](https://www.v2ex.com/t/813380)
 * [【2021-11-05】 [Python] 请教， pycharm 打开 jupyter notebook 时，怎样才能使界面布局跟 dataspell（或者浏览器打开 jupyter notebook）的界面一样？](https://www.v2ex.com/t/813379)
 * [【2021-11-05】 [硬件] U 盘 2T 才几十元？为什么](https://www.v2ex.com/t/813377)
 * [【2021-11-05】 [Apple] 求 14 寸 mbp 外接 2K 显示器的优雅解决方案](https://www.v2ex.com/t/813376)
-* [【2021-11-05】 [广州] [转租]迫于工作原因，现转租科韵路公交场天韵阁，靠近网易、科技园、37，租金 1000， 11 月免租](https://www.v2ex.com/t/813375)
-* [【2021-11-05】 [问与答] 有哪些基于当下，关注未来生活及科技走向的 剧/纪录片/自媒体号？](https://www.v2ex.com/t/813374)
-* [【2021-11-05】 [生活] 贫穷限制了我的想象](https://www.v2ex.com/t/813373)
-* [【2021-11-05】 [Apple] 如何利用 homepod mini 将 iPhone 作为麦克风， homepod 作为扬声器使用？](https://www.v2ex.com/t/813372)
-* [【2021-11-05】 [iPhone] iPhone 13 mini 发热有改善吗？](https://www.v2ex.com/t/813371)
-* [【2021-11-05】 [深圳] 有老哥需要 16 寸 M1 Max 现货吗](https://www.v2ex.com/t/813370)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-05 13:24:21
+:alarm_clock: 更新时间: 2021-11-05 14:18:29

@@ -446,6 +446,36 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[操作系统] os 内核方向国内有哪些做的好的公司？",
+                "link": "https://www.v2ex.com/t/813389",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[macOS] 2015 的有没装 macOS 12 的，",
+                "link": "https://www.v2ex.com/t/813387",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 问一下凉薯 有推荐的吗",
+                "link": "https://www.v2ex.com/t/813386",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 老板开始指责开发团队，这是在给项目失败找背锅侠，我是不是该离开了？",
+                "link": "https://www.v2ex.com/t/813385",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Apple] 求推荐一款追踪剩余流量的 app",
+                "link": "https://www.v2ex.com/t/813384",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[全球工单系统] 同花顺的 Mac 版是更新了个假的 M1 支持？",
+                "link": "https://www.v2ex.com/t/813382",
+                "published": "2021-11-05"
+            },
+            {
                 "title": "[程序员] Ruby 还有人学吗？",
                 "link": "https://www.v2ex.com/t/813380",
                 "published": "2021-11-05"
@@ -14486,7 +14516,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 6
     },
     {
         "id": 3,

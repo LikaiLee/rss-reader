@@ -1,6 +1,12 @@
 # V2EX
 
 
+* [2021-11-05  [操作系统] os 内核方向国内有哪些做的好的公司？](https://www.v2ex.com/t/813389)
+* [2021-11-05  [macOS] 2015 的有没装 macOS 12 的，](https://www.v2ex.com/t/813387)
+* [2021-11-05  [问与答] 问一下凉薯 有推荐的吗](https://www.v2ex.com/t/813386)
+* [2021-11-05  [问与答] 老板开始指责开发团队，这是在给项目失败找背锅侠，我是不是该离开了？](https://www.v2ex.com/t/813385)
+* [2021-11-05  [Apple] 求推荐一款追踪剩余流量的 app](https://www.v2ex.com/t/813384)
+* [2021-11-05  [全球工单系统] 同花顺的 Mac 版是更新了个假的 M1 支持？](https://www.v2ex.com/t/813382)
 * [2021-11-05  [程序员] Ruby 还有人学吗？](https://www.v2ex.com/t/813380)
 * [2021-11-05  [Python] 请教， pycharm 打开 jupyter notebook 时，怎样才能使界面布局跟 dataspell（或者浏览器打开 jupyter notebook）的界面一样？](https://www.v2ex.com/t/813379)
 * [2021-11-05  [硬件] U 盘 2T 才几十元？为什么](https://www.v2ex.com/t/813377)
