@@ -446,6 +446,46 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] Macbook 连接 AirPods 声音断断续续，鼠标卡顿滞缓",
+                "link": "https://www.v2ex.com/t/813408",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 我这个账号是不是有问题，发的帖子在对应栏目看不到，但是又有阅读数？",
+                "link": "https://www.v2ex.com/t/813407",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[职场话题] 走还是留 麻烦各位大佬给点建议",
+                "link": "https://www.v2ex.com/t/813405",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[互联网] 1password 家庭版车主可以随意停止和删除成员账号，为什么还是那么多人随便找车上？",
+                "link": "https://www.v2ex.com/t/813404",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[职场话题] 没戴工牌被罚 30 元，我当场掏出钉钉提了离职",
+                "link": "https://www.v2ex.com/t/813403",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Apple] 谣传 iPad mini 6 要上高刷屏，在等蜂窝版的兄弟们 hold 住啊！",
+                "link": "https://www.v2ex.com/t/813402",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[职场话题] 秋招 offer 决定放弃构建工程师岗走保守路线，突然觉得自己被成功贩卖了焦虑",
+                "link": "https://www.v2ex.com/t/813401",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Windows] Win11 bug 去哪反馈啊",
+                "link": "https://www.v2ex.com/t/813400",
+                "published": "2021-11-05"
+            },
+            {
                 "title": "[CDN] 直接用阿里云 CDN 的提供的 CNAME 域名访问的是怎么实现的",
                 "link": "https://www.v2ex.com/t/813399",
                 "published": "2021-11-05"
@@ -14566,7 +14606,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 8
     },
     {
         "id": 3,

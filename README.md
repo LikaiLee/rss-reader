@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+10】
+* [V2EX](#V2EX) 【+8】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-05】 [Apple] Macbook 连接 AirPods 声音断断续续，鼠标卡顿滞缓](https://www.v2ex.com/t/813408)
+* [【2021-11-05】 [问与答] 我这个账号是不是有问题，发的帖子在对应栏目看不到，但是又有阅读数？](https://www.v2ex.com/t/813407)
+* [【2021-11-05】 [职场话题] 走还是留 麻烦各位大佬给点建议](https://www.v2ex.com/t/813405)
+* [【2021-11-05】 [互联网] 1password 家庭版车主可以随意停止和删除成员账号，为什么还是那么多人随便找车上？](https://www.v2ex.com/t/813404)
+* [【2021-11-05】 [职场话题] 没戴工牌被罚 30 元，我当场掏出钉钉提了离职](https://www.v2ex.com/t/813403)
+* [【2021-11-05】 [Apple] 谣传 iPad mini 6 要上高刷屏，在等蜂窝版的兄弟们 hold 住啊！](https://www.v2ex.com/t/813402)
+* [【2021-11-05】 [职场话题] 秋招 offer 决定放弃构建工程师岗走保守路线，突然觉得自己被成功贩卖了焦虑](https://www.v2ex.com/t/813401)
+* [【2021-11-05】 [Windows] Win11 bug 去哪反馈啊](https://www.v2ex.com/t/813400)
 * [【2021-11-05】 [CDN] 直接用阿里云 CDN 的提供的 CNAME 域名访问的是怎么实现的](https://www.v2ex.com/t/813399)
 * [【2021-11-05】 [宽带症候群] K2p 下一个路由选什么？](https://www.v2ex.com/t/813398)
-* [【2021-11-05】 [Mozilla] Firefox 内置彩蛋 ——《Mozilla 之书》](https://www.v2ex.com/t/813397)
-* [【2021-11-05】 [V2EX] 发现一个李鬼 https://bv2ex.com/](https://www.v2ex.com/t/813396)
-* [【2021-11-05】 [Apple] 核爆： M2 暴力堆核心（多 Die 封装： chiplet）](https://www.v2ex.com/t/813395)
-* [【2021-11-05】 [Apple] 有谁懂 apple TV 的连接方式？](https://www.v2ex.com/t/813394)
-* [【2021-11-05】 [问与答] 求：导入 pdf 并涂抹记忆的 APP， windows 或者 iPadOS 平台](https://www.v2ex.com/t/813393)
-* [【2021-11-05】 [分享创造] “道德经版本”项目：引入 random.org 真随机数，添加 ctext.org 拷贝](https://www.v2ex.com/t/813392)
-* [【2021-11-05】 [Redis] redis hash 存每个用户个性化列表行吗？](https://www.v2ex.com/t/813391)
-* [【2021-11-05】 [Apple] 什么值得买直播间抢了一个 iPhone 13 但是序列码查不到](https://www.v2ex.com/t/813390)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-05 15:21:13
+:alarm_clock: 更新时间: 2021-11-05 17:24:04
