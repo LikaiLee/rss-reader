@@ -2,9 +2,9 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+1】
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -15,6 +15,7 @@
     </summary>
 
 
+* [【2021-11-05】 科技爱好者周刊（第 182 期）：新人优惠的风险](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html)
 * [【2021-10-29】 科技爱好者周刊（第 181 期）：移动支付应该怎么设计？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html)
 * [【2021-10-22】 科技爱好者周刊（第 180 期）：你想住在中国哪里？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html)
 * [【2021-10-15】 科技爱好者周刊（第 179 期）：AR 技术的打开方式](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html)
@@ -47,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-05】 [iPhone] 为什么 iPhone 不做主题商店？](https://www.v2ex.com/t/813186)
+* [【2021-11-05】 [Python] Python 包导入的困惑](https://www.v2ex.com/t/813185)
+* [【2021-11-05】 [问与答] 自建的导航站的图标可以引用原网站的吗](https://www.v2ex.com/t/813184)
+* [【2021-11-05】 [Apple] 15.1，微信 8.0.16 版本掉帧](https://www.v2ex.com/t/813183)
+* [【2021-11-05】 [问与答] 13promax 开个人热点其他人连不上](https://www.v2ex.com/t/813181)
+* [【2021-11-05】 [全球工单系统] 武汉电信，腾讯云挂了？服务器、负载均衡面板都拉不出来](https://www.v2ex.com/t/813180)
+* [【2021-11-04】 [macOS] macOS Monterey 鼠标有时候会在屏幕消失，有没有跟我一样的情况？](https://www.v2ex.com/t/813179)
 * [【2021-11-04】 [分享发现] 艾尔登法环发布实机演示](https://www.v2ex.com/t/813178)
 * [【2021-11-04】 [macOS] 请问如何彻底删除 Wechat 图标？](https://www.v2ex.com/t/813177)
 * [【2021-11-04】 [区块链] 有没有可能进化一下 USDT 的模式](https://www.v2ex.com/t/813176)
-* [【2021-11-04】 [程序员] 现代 Web 开发过去与未来](https://www.v2ex.com/t/813175)
-* [【2021-11-04】 [反馈] V2EX 账号求助！](https://www.v2ex.com/t/813155)
-* [【2021-11-04】 [职场话题] 有关“斜杠”话题，表示焦虑](https://www.v2ex.com/t/813174)
-* [【2021-11-04】 [MacBook Pro] M1 Max 对比 M1 Pro 电池续航对比的详细评测出来了](https://www.v2ex.com/t/813173)
-* [【2021-11-04】 [问与答] 背调公司是怎么了解员工隐私信息的？](https://www.v2ex.com/t/813172)
-* [【2021-11-04】 [问与答] 旧蓝牙耳机坏了，求 v 友推荐一款百元左右的 tws 耳机](https://www.v2ex.com/t/813170)
-* [【2021-11-04】 [macOS] 升级系统后网络里多出个 openthread.thread.home.arpa，有没老哥知道怎么移除。。](https://www.v2ex.com/t/813168)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -85,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-04 23:20:26
+:alarm_clock: 更新时间: 2021-11-05 01:03:47

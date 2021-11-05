@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 182 期）：新人优惠的风险",
+                "link": "http://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html",
+                "published": "2021-11-05"
+            },
+            {
                 "title": "科技爱好者周刊（第 181 期）：移动支付应该怎么设计？",
                 "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html",
                 "published": "2021-10-29"
@@ -25,7 +30,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
@@ -410,6 +415,41 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[iPhone] 为什么 iPhone 不做主题商店？",
+                "link": "https://www.v2ex.com/t/813186",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Python] Python 包导入的困惑",
+                "link": "https://www.v2ex.com/t/813185",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 自建的导航站的图标可以引用原网站的吗",
+                "link": "https://www.v2ex.com/t/813184",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Apple] 15.1，微信 8.0.16 版本掉帧",
+                "link": "https://www.v2ex.com/t/813183",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 13promax 开个人热点其他人连不上",
+                "link": "https://www.v2ex.com/t/813181",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[全球工单系统] 武汉电信，腾讯云挂了？服务器、负载均衡面板都拉不出来",
+                "link": "https://www.v2ex.com/t/813180",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[macOS] macOS Monterey 鼠标有时候会在屏幕消失，有没有跟我一样的情况？",
+                "link": "https://www.v2ex.com/t/813179",
+                "published": "2021-11-04"
+            },
             {
                 "title": "[分享发现] 艾尔登法环发布实机演示",
                 "link": "https://www.v2ex.com/t/813178",
@@ -13661,7 +13701,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 7
     },
     {
         "id": 3,
