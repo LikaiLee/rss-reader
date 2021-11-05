@@ -1,6 +1,22 @@
 # V2EX
 
 
+* [2021-11-05  [ WATCH] aw7 刚刚收到，求推荐睡眠监测软件](https://www.v2ex.com/t/813235)
+* [2021-11-05  [MacBook Pro] 拿到新款 mbp 的 v 友，有兴趣的话能测一下 numpy scipy 的 benchmark 嘛](https://www.v2ex.com/t/813232)
+* [2021-11-05  [问与答] 多个子域名共用一套后台， api 是单独一个域名，还是直接/api 目录呢？](https://www.v2ex.com/t/813231)
+* [2021-11-05  [Web Dev] GitHub 上有什么好的官网生成 Repo 推荐？](https://www.v2ex.com/t/813230)
+* [2021-11-05  [MacBook Pro] MBP 在合盖，并关闭 Power Nap（电能小憩）的情况下，每隔 2 小时左右会唤醒一次外接显示器](https://www.v2ex.com/t/813229)
+* [2021-11-05  [问与答] 我是公司信息部运维，有些工作是要远程同事的电脑处理问题。
+昨天远程 A 同事的电脑时，无意间看到 B 同事在企业微信跟 A 聊天，指名道姓说我天天没事干偷窥别人。
+聊天记录已截图，请问我该怎么办？经理说让我大度点，算了。](https://www.v2ex.com/t/813228)
+* [2021-11-05  [问与答] 色魔张大妈已经完全废了，有什么替代品？](https://www.v2ex.com/t/813227)
+* [2021-11-05  [问与答] win11 wsa 如何安装 fiddler 证书](https://www.v2ex.com/t/813226)
+* [2021-11-05  [问与答] 图片透视裁剪的需求怎么自动化？](https://www.v2ex.com/t/813225)
+* [2021-11-05  [程序员] 用了多年的逻辑鼠标，终于还是被他的驱动给劝退了。](https://www.v2ex.com/t/813223)
+* [2021-11-05  [奇思妙想] “抖 V2” 产品设计 - 不负责设计](https://www.v2ex.com/t/813222)
+* [2021-11-05  [分享创造] 「GitHub on GitHub」GitHub 开发者年度盛会｜附视频](https://www.v2ex.com/t/813220)
+* [2021-11-05  [问与答] 因为隔壁老哥问拉屎干什么，来求听书列表](https://www.v2ex.com/t/813219)
+* [2021-11-05  [问与答] 求推荐游泳眼镜](https://www.v2ex.com/t/813217)
 * [2021-11-05  [分享创造] 内网穿透工具 natpass v0.6.0 版本发布，新增远程桌面功能](https://www.v2ex.com/t/813216)
 * [2021-11-05  [Visual Studio Code] vscode 能不能根据项目配置，开启不同的插件，比如一个 vue2 的项目开启 vetur，再打开一个 vue3 的项目开启 volar](https://www.v2ex.com/t/813214)
 * [2021-11-05  [Python] 面试遇到的 Python 多进程死循环问题求解](https://www.v2ex.com/t/813213)

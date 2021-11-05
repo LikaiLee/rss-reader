@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+23】
-* [知乎每日精选](#知乎每日精选)
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+14】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -48,16 +48,18 @@
     </summary>
 
 
-* [【2021-11-05】 [分享创造] 内网穿透工具 natpass v0.6.0 版本发布，新增远程桌面功能](https://www.v2ex.com/t/813216)
-* [【2021-11-05】 [Visual Studio Code] vscode 能不能根据项目配置，开启不同的插件，比如一个 vue2 的项目开启 vetur，再打开一个 vue3 的项目开启 volar](https://www.v2ex.com/t/813214)
-* [【2021-11-05】 [Python] 面试遇到的 Python 多进程死循环问题求解](https://www.v2ex.com/t/813213)
-* [【2021-11-05】 [JavaScript] 关于防抖函数有个疑问](https://www.v2ex.com/t/813210)
-* [【2021-11-05】 [宽带症候群] 家庭宽带的最大连接数只有 50 吗？](https://www.v2ex.com/t/813209)
-* [【2021-11-05】 [程序员] 记录翻译过单词的 Chrome 插件或软件](https://www.v2ex.com/t/813208)
-* [【2021-11-05】 [生活] 大佬们，在如厕的时候喜欢看什么图文或者视频，也致使这个过程稍微有点价值和意义？](https://www.v2ex.com/t/813206)
-* [【2021-11-05】 [分享发现] 小 x 知识网死而复生？](https://www.v2ex.com/t/813205)
-* [【2021-11-05】 [奇思妙想] 有什么办法判断是否是脚本输入图形验证码登录的](https://www.v2ex.com/t/813204)
-* [【2021-11-05】 [奇思妙想] 是不是应该把浏览器也看做操作系统？](https://www.v2ex.com/t/813203)
+* [【2021-11-05】 [ WATCH] aw7 刚刚收到，求推荐睡眠监测软件](https://www.v2ex.com/t/813235)
+* [【2021-11-05】 [MacBook Pro] 拿到新款 mbp 的 v 友，有兴趣的话能测一下 numpy scipy 的 benchmark 嘛](https://www.v2ex.com/t/813232)
+* [【2021-11-05】 [问与答] 多个子域名共用一套后台， api 是单独一个域名，还是直接/api 目录呢？](https://www.v2ex.com/t/813231)
+* [【2021-11-05】 [Web Dev] GitHub 上有什么好的官网生成 Repo 推荐？](https://www.v2ex.com/t/813230)
+* [【2021-11-05】 [MacBook Pro] MBP 在合盖，并关闭 Power Nap（电能小憩）的情况下，每隔 2 小时左右会唤醒一次外接显示器](https://www.v2ex.com/t/813229)
+* [【2021-11-05】 [问与答] 我是公司信息部运维，有些工作是要远程同事的电脑处理问题。
+昨天远程 A 同事的电脑时，无意间看到 B 同事在企业微信跟 A 聊天，指名道姓说我天天没事干偷窥别人。
+聊天记录已截图，请问我该怎么办？经理说让我大度点，算了。](https://www.v2ex.com/t/813228)
+* [【2021-11-05】 [问与答] 色魔张大妈已经完全废了，有什么替代品？](https://www.v2ex.com/t/813227)
+* [【2021-11-05】 [问与答] win11 wsa 如何安装 fiddler 证书](https://www.v2ex.com/t/813226)
+* [【2021-11-05】 [问与答] 图片透视裁剪的需求怎么自动化？](https://www.v2ex.com/t/813225)
+* [【2021-11-05】 [程序员] 用了多年的逻辑鼠标，终于还是被他的驱动给劝退了。](https://www.v2ex.com/t/813223)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -67,6 +69,7 @@
     </summary>
 
 
+* [【2021-11-05】 国内有哪些适合度假的酒店？](http://www.zhihu.com/question/303023687/answer/2206724842?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-04】 官宣：电视剧《和平之舟》定档央视一套黄金时间播出！](http://zhuanlan.zhihu.com/p/428672087?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-04】 中国当代年轻人是如何看待并认识抗美援朝战争？](http://www.zhihu.com/question/421031649/answer/2205192080?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-03】 日本新冠确诊断崖式下降，全球日增确诊下降超 50％，可能是德尔塔病毒在「自我灭绝」，疫情会自动消失吗？](http://www.zhihu.com/question/496005316/answer/2203014101?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -76,7 +79,6 @@
 * [【2021-11-02】 如何评价国产动画《识夜描银》？](http://www.zhihu.com/question/489702836/answer/2202420660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-02】 我国首部「个人信息保护法」实施，买卖个人信息最高可判七年，个人信息包括什么？这部法律有哪些积极意义？](http://www.zhihu.com/question/495846558/answer/2201845815?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-10-30】 2021 年 10 月国内有哪些「秋日限定」美景？](http://www.zhihu.com/question/491188382/answer/2160132383?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-10-30】 蔡澜「尽量地学习、尽量地经历、尽量地旅游、尽量地吃好东西、人生就比较美好一点」，你做到了哪一个？](http://www.zhihu.com/question/494470638/answer/2195551588?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -86,4 +88,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-05 02:32:07
+:alarm_clock: 更新时间: 2021-11-05 03:21:06

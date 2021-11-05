@@ -413,13 +413,83 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[ WATCH] aw7 刚刚收到，求推荐睡眠监测软件",
+                "link": "https://www.v2ex.com/t/813235",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[MacBook Pro] 拿到新款 mbp 的 v 友，有兴趣的话能测一下 numpy scipy 的 benchmark 嘛",
+                "link": "https://www.v2ex.com/t/813232",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 多个子域名共用一套后台， api 是单独一个域名，还是直接/api 目录呢？",
+                "link": "https://www.v2ex.com/t/813231",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Web Dev] GitHub 上有什么好的官网生成 Repo 推荐？",
+                "link": "https://www.v2ex.com/t/813230",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[MacBook Pro] MBP 在合盖，并关闭 Power Nap（电能小憩）的情况下，每隔 2 小时左右会唤醒一次外接显示器",
+                "link": "https://www.v2ex.com/t/813229",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 我是公司信息部运维，有些工作是要远程同事的电脑处理问题。\n昨天远程 A 同事的电脑时，无意间看到 B 同事在企业微信跟 A 聊天，指名道姓说我天天没事干偷窥别人。\n聊天记录已截图，请问我该怎么办？经理说让我大度点，算了。",
+                "link": "https://www.v2ex.com/t/813228",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 色魔张大妈已经完全废了，有什么替代品？",
+                "link": "https://www.v2ex.com/t/813227",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] win11 wsa 如何安装 fiddler 证书",
+                "link": "https://www.v2ex.com/t/813226",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 图片透视裁剪的需求怎么自动化？",
+                "link": "https://www.v2ex.com/t/813225",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[程序员] 用了多年的逻辑鼠标，终于还是被他的驱动给劝退了。",
+                "link": "https://www.v2ex.com/t/813223",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[奇思妙想] “抖 V2” 产品设计 - 不负责设计",
+                "link": "https://www.v2ex.com/t/813222",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[分享创造] 「GitHub on GitHub」GitHub 开发者年度盛会｜附视频",
+                "link": "https://www.v2ex.com/t/813220",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 因为隔壁老哥问拉屎干什么，来求听书列表",
+                "link": "https://www.v2ex.com/t/813219",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 求推荐游泳眼镜",
+                "link": "https://www.v2ex.com/t/813217",
+                "published": "2021-11-05"
+            },
             {
                 "title": "[分享创造] 内网穿透工具 natpass v0.6.0 版本发布，新增远程桌面功能",
                 "link": "https://www.v2ex.com/t/813216",
@@ -13821,13 +13891,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 23
+        "new_feeds": 14
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "国内有哪些适合度假的酒店？",
+                "link": "http://www.zhihu.com/question/303023687/answer/2206724842?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-05"
+            },
             {
                 "title": "官宣：电视剧《和平之舟》定档央视一套黄金时间播出！",
                 "link": "http://zhuanlan.zhihu.com/p/428672087?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -14289,6 +14364,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
