@@ -418,13 +418,38 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[MacBook Pro] M1 Pro 能够接几台外接显示器？",
+                "link": "https://www.v2ex.com/t/813256",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 安卓上有比肩桌面级的浏览器吗？",
+                "link": "https://www.v2ex.com/t/813255",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 使用阿里云对象存储 OSS 这样的东西来做图床，如何解决图片在网站内删了，但可能还占用 oss 的问题呢？",
+                "link": "https://www.v2ex.com/t/813254",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[编辑器] 大家觉得，前端领域 vscode 现在超越 webstorm（包括 idea 全家桶）了吗？",
+                "link": "https://www.v2ex.com/t/813253",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] win10 遇到过部分应用（如 1Password、罗技板载内存管理器）鼠标移入特定区域显示效果错乱的情况吗？",
+                "link": "https://www.v2ex.com/t/813252",
+                "published": "2021-11-05"
+            },
             {
                 "title": "[酷工作] [深圳/宝安] React 前端 1~5 年均可",
                 "link": "https://www.v2ex.com/t/813250",
@@ -13941,7 +13966,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 5
     },
     {
         "id": 3,
