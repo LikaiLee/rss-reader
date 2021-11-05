@@ -438,13 +438,53 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[深圳] 有老哥需要 16 寸 M1 Max 现货吗",
+                "link": "https://www.v2ex.com/t/813370",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] Linux 下 Dell Display Manager 有什么开源替代吗？显示器如何优雅的切换信号源？",
+                "link": "https://www.v2ex.com/t/813369",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Vue.js] vue 里面子组件直接放到父组件的 template 里面，子组件路由是怎么传参的？",
+                "link": "https://www.v2ex.com/t/813367",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[推广] 阿里云服务器双十一服务器这价格基本等于免费送了！",
+                "link": "https://www.v2ex.com/t/813366",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[酷工作] [社招部门直招] [奇安信-安全岗] [简历合适主管直接面试]",
+                "link": "https://www.v2ex.com/t/813363",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[职场话题] 统计各公司下班时间的那个在线文档项目，彻底凉凉了",
+                "link": "https://www.v2ex.com/t/813362",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[问与答] 跨网段远程桌面求助",
+                "link": "https://www.v2ex.com/t/813361",
+                "published": "2021-11-05"
+            },
+            {
+                "title": "[Java] spring 事务问题",
+                "link": "https://www.v2ex.com/t/813324",
+                "published": "2021-11-05"
+            },
             {
                 "title": "[程序员] C#这迭代也太快了 tnnd",
                 "link": "https://www.v2ex.com/t/813359",
@@ -14401,7 +14441,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 8
     },
     {
         "id": 3,

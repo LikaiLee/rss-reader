@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+4】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+8】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-05】 [深圳] 有老哥需要 16 寸 M1 Max 现货吗](https://www.v2ex.com/t/813370)
+* [【2021-11-05】 [问与答] Linux 下 Dell Display Manager 有什么开源替代吗？显示器如何优雅的切换信号源？](https://www.v2ex.com/t/813369)
+* [【2021-11-05】 [Vue.js] vue 里面子组件直接放到父组件的 template 里面，子组件路由是怎么传参的？](https://www.v2ex.com/t/813367)
+* [【2021-11-05】 [推广] 阿里云服务器双十一服务器这价格基本等于免费送了！](https://www.v2ex.com/t/813366)
+* [【2021-11-05】 [酷工作] [社招部门直招] [奇安信-安全岗] [简历合适主管直接面试]](https://www.v2ex.com/t/813363)
+* [【2021-11-05】 [职场话题] 统计各公司下班时间的那个在线文档项目，彻底凉凉了](https://www.v2ex.com/t/813362)
+* [【2021-11-05】 [问与答] 跨网段远程桌面求助](https://www.v2ex.com/t/813361)
+* [【2021-11-05】 [Java] spring 事务问题](https://www.v2ex.com/t/813324)
 * [【2021-11-05】 [程序员] C#这迭代也太快了 tnnd](https://www.v2ex.com/t/813359)
 * [【2021-11-05】 [全球工单系统] 火狐也开始摆烂了](https://www.v2ex.com/t/813358)
-* [【2021-11-05】 [推广] 云数据备份 | MySQL、SQL Server 数据备份到 COS](https://www.v2ex.com/t/813353)
-* [【2021-11-05】 [推广] 坐标深圳 11 月 14 日我们组织了一场程序员交友派对，喊你来脱单](https://www.v2ex.com/t/813350)
-* [【2021-11-05】 [程序员] kibana Discover 模块没有 Time Picker 按钮](https://www.v2ex.com/t/813352)
-* [【2021-11-05】 [酷工作] [Shopee 内推] 深北上虾皮欢迎你](https://www.v2ex.com/t/813351)
-* [【2021-11-05】 [生活] 坐标深圳 11 月 14 日我们组织了一场程序员交友派对，喊你来脱单](https://www.v2ex.com/t/813350)
-* [【2021-11-05】 [酷工作] [深圳][全职][社招/校招] 硅谷创业公司 Covariant 寻找靠谱的软件工程师](https://www.v2ex.com/t/813349)
-* [【2021-11-05】 [Battlefield 系列] 战地 2042 的《传送门模式》细节流出：未购买游戏也可创作、编辑。有规则逻辑链，但不可编辑地图。](https://www.v2ex.com/t/813348)
-* [【2021-11-05】 [macOS] 哪里可以下载 MacOS 的动态壁纸啊](https://www.v2ex.com/t/813347)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-05 11:16:54
+:alarm_clock: 更新时间: 2021-11-05 12:31:32
