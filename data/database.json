@@ -456,6 +456,36 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享创造] 一个可以实现用户数据确权，解决互联网巨头对我们的垄断控制的基础设施",
+                "link": "https://www.v2ex.com/t/813528",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[买买买] 21 款 mac 官网和 tb 除了价格还有区别吗",
+                "link": "https://www.v2ex.com/t/813527",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 请教一下 hls.js 播放自己拼接的 m3u8 的问题：两段 ts 本身的 start time 不一致导致无法播放",
+                "link": "https://www.v2ex.com/t/813526",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 求购便宜正版书渠道",
+                "link": "https://www.v2ex.com/t/813525",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[服务器] 去年双 11 买的阿里云服务器 70 多一年，今年续费的话只能 300 多一年了吗？",
+                "link": "https://www.v2ex.com/t/813523",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[分享发现] 个人网站 两行代码让网页内容付费可见",
+                "link": "https://www.v2ex.com/t/813520",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "[问与答] 预算五六千，最近一两个月组装台式电脑合适吗？相同价格的台式机和笔记本性能相差有多少？",
                 "link": "https://www.v2ex.com/t/813519",
                 "published": "2021-11-06"
@@ -15076,7 +15106,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 3,

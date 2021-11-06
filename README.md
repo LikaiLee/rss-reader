@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+5】
+* [V2EX](#V2EX) 【+6】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-06】 [分享创造] 一个可以实现用户数据确权，解决互联网巨头对我们的垄断控制的基础设施](https://www.v2ex.com/t/813528)
+* [【2021-11-06】 [买买买] 21 款 mac 官网和 tb 除了价格还有区别吗](https://www.v2ex.com/t/813527)
+* [【2021-11-06】 [问与答] 请教一下 hls.js 播放自己拼接的 m3u8 的问题：两段 ts 本身的 start time 不一致导致无法播放](https://www.v2ex.com/t/813526)
+* [【2021-11-06】 [问与答] 求购便宜正版书渠道](https://www.v2ex.com/t/813525)
+* [【2021-11-06】 [服务器] 去年双 11 买的阿里云服务器 70 多一年，今年续费的话只能 300 多一年了吗？](https://www.v2ex.com/t/813523)
+* [【2021-11-06】 [分享发现] 个人网站 两行代码让网页内容付费可见](https://www.v2ex.com/t/813520)
 * [【2021-11-06】 [问与答] 预算五六千，最近一两个月组装台式电脑合适吗？相同价格的台式机和笔记本性能相差有多少？](https://www.v2ex.com/t/813519)
 * [【2021-11-06】 [全球工单系统] Dropbox 一直正在连接，无法打开首选项](https://www.v2ex.com/t/813517)
 * [【2021-11-06】 [问与答] 关于 JUC 的 CopyOnWriteArrayList 的问题，](https://www.v2ex.com/t/813516)
 * [【2021-11-06】 [全球工单系统] 网易云音乐真的是越来越难用了](https://www.v2ex.com/t/813515)
-* [【2021-11-06】 [程序员] 现在从零开发 ios app 成本如何？](https://www.v2ex.com/t/813513)
-* [【2021-11-06】 [问与答] Notion 中的中文双引号怎么让它显示正常](https://www.v2ex.com/t/813511)
-* [【2021-11-06】 [问与答] 约女生出来不知道怎么聊好](https://www.v2ex.com/t/813510)
-* [【2021-11-06】 [互联网] 雅虎要关闭中国用户的 yahoo.com 账号了](https://www.v2ex.com/t/813509)
-* [【2021-11-06】 [程序员] 程序员适用的加密货币： NANO](https://www.v2ex.com/t/813508)
-* [【2021-11-06】 [问与答] 有没有这样的双向文件同步工具](https://www.v2ex.com/t/813507)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-06 10:21:27
+:alarm_clock: 更新时间: 2021-11-06 11:16:03
