@@ -456,6 +456,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[宽带症候群] rb5009 到手",
+                "link": "https://www.v2ex.com/t/813579",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[NGINX] 分享：用 nginx 保护 wordpress 免受暴力破解",
+                "link": "https://www.v2ex.com/t/813578",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "[问与答] 为什么 b 站的 web 页面有两个版本？",
                 "link": "https://www.v2ex.com/t/813577",
                 "published": "2021-11-06"
