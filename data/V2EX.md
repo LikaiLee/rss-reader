@@ -1,6 +1,10 @@
 # V2EX
 
 
+* [2021-11-06  [SSH] Windows 下连接 Linux 用什么方案给 ssh 开 socks5 代理？](https://www.v2ex.com/t/813495)
+* [2021-11-06  [酷工作] 毕业后想远程工作。多点时间陪家里人。求推荐](https://www.v2ex.com/t/813493)
+* [2021-11-06  [Apple] 这时候买 mac mini m1 会 49 年入国军?](https://www.v2ex.com/t/813492)
+* [2021-11-06  [推广] 我也来推广一波服务器吧，阿里云新用户免费送一年！](https://www.v2ex.com/t/813491)
 * [2021-11-06  [问与答] “Apple Stores to Drop Mask Requirement for Customers in Many U.S. States”此句语法是否有误](https://www.v2ex.com/t/813490)
 * [2021-11-06  [问与答] 美区 apple pay 工商银行美国通运卡问题](https://www.v2ex.com/t/813487)
 * [2021-11-06  [程序员] 计网自顶向下 实现广播的 RPF 的 冗余分组的疑问？](https://www.v2ex.com/t/813486)

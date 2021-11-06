@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新玩意 083｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/69704",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "本周看什么 丨最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/69699",
                 "published": "2021-11-05"
@@ -438,13 +443,33 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[SSH] Windows 下连接 Linux 用什么方案给 ssh 开 socks5 代理？",
+                "link": "https://www.v2ex.com/t/813495",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[酷工作] 毕业后想远程工作。多点时间陪家里人。求推荐",
+                "link": "https://www.v2ex.com/t/813493",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[Apple] 这时候买 mac mini m1 会 49 年入国军?",
+                "link": "https://www.v2ex.com/t/813492",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[推广] 我也来推广一波服务器吧，阿里云新用户免费送一年！",
+                "link": "https://www.v2ex.com/t/813491",
+                "published": "2021-11-06"
+            },
             {
                 "title": "[问与答] “Apple Stores to Drop Mask Requirement for Customers in Many U.S. States”此句语法是否有误",
                 "link": "https://www.v2ex.com/t/813490",
@@ -14936,7 +14961,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 4
     },
     {
         "id": 3,
