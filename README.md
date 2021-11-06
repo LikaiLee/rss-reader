@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+9】
+* [V2EX](#V2EX) 【+5】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-06】 [问与答] 预算五六千，最近一两个月组装台式电脑合适吗？相同价格的台式机和笔记本性能相差有多少？](https://www.v2ex.com/t/813519)
+* [【2021-11-06】 [全球工单系统] Dropbox 一直正在连接，无法打开首选项](https://www.v2ex.com/t/813517)
+* [【2021-11-06】 [问与答] 关于 JUC 的 CopyOnWriteArrayList 的问题，](https://www.v2ex.com/t/813516)
+* [【2021-11-06】 [全球工单系统] 网易云音乐真的是越来越难用了](https://www.v2ex.com/t/813515)
+* [【2021-11-06】 [程序员] 现在从零开发 ios app 成本如何？](https://www.v2ex.com/t/813513)
 * [【2021-11-06】 [问与答] Notion 中的中文双引号怎么让它显示正常](https://www.v2ex.com/t/813511)
 * [【2021-11-06】 [问与答] 约女生出来不知道怎么聊好](https://www.v2ex.com/t/813510)
 * [【2021-11-06】 [互联网] 雅虎要关闭中国用户的 yahoo.com 账号了](https://www.v2ex.com/t/813509)
 * [【2021-11-06】 [程序员] 程序员适用的加密货币： NANO](https://www.v2ex.com/t/813508)
 * [【2021-11-06】 [问与答] 有没有这样的双向文件同步工具](https://www.v2ex.com/t/813507)
-* [【2021-11-06】 [问与答] golang gin 怎样支持多 tls 证书共用 443 端口](https://www.v2ex.com/t/813506)
-* [【2021-11-06】 [问与答] 有没有国内能用的，支持 esim 还能用 Google Assistant 的手表？](https://www.v2ex.com/t/813505)
-* [【2021-11-06】 [Apple] iPhone13 可以用 Macbook Air M1 的充电头充电吗，实际功率多少 w?](https://www.v2ex.com/t/813504)
-* [【2021-11-06】 [分享发现] 最近好多 app 都更新了隐私政策](https://www.v2ex.com/t/813503)
-* [【2021-11-06】 [Python] 为什么 raw 的 r 禁止转义会失效呢](https://www.v2ex.com/t/813501)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-06 09:19:19
+:alarm_clock: 更新时间: 2021-11-06 10:21:27

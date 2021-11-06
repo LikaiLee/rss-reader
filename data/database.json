@@ -456,6 +456,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 预算五六千，最近一两个月组装台式电脑合适吗？相同价格的台式机和笔记本性能相差有多少？",
+                "link": "https://www.v2ex.com/t/813519",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[全球工单系统] Dropbox 一直正在连接，无法打开首选项",
+                "link": "https://www.v2ex.com/t/813517",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 关于 JUC 的 CopyOnWriteArrayList 的问题，",
+                "link": "https://www.v2ex.com/t/813516",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[全球工单系统] 网易云音乐真的是越来越难用了",
+                "link": "https://www.v2ex.com/t/813515",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[程序员] 现在从零开发 ios app 成本如何？",
+                "link": "https://www.v2ex.com/t/813513",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "[问与答] Notion 中的中文双引号怎么让它显示正常",
                 "link": "https://www.v2ex.com/t/813511",
                 "published": "2021-11-06"
@@ -15051,7 +15076,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 5
     },
     {
         "id": 3,
