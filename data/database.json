@@ -456,6 +456,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 为什么 b 站的 web 页面有两个版本？",
+                "link": "https://www.v2ex.com/t/813577",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 两个（或多个）正则表达式匹配其中任意一个应该怎么写？",
+                "link": "https://www.v2ex.com/t/813576",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "[程序员] 发现中文互联网上的好多页面都没有对 1080P 以上的分辨率优化",
                 "link": "https://www.v2ex.com/t/813575",
                 "published": "2021-11-06"
@@ -15301,7 +15311,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 3,

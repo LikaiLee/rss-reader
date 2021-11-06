@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX)
+* [V2EX](#V2EX) 【+2】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,6 +48,8 @@
     </summary>
 
 
+* [【2021-11-06】 [问与答] 为什么 b 站的 web 页面有两个版本？](https://www.v2ex.com/t/813577)
+* [【2021-11-06】 [问与答] 两个（或多个）正则表达式匹配其中任意一个应该怎么写？](https://www.v2ex.com/t/813576)
 * [【2021-11-06】 [程序员] 发现中文互联网上的好多页面都没有对 1080P 以上的分辨率优化](https://www.v2ex.com/t/813575)
 * [【2021-11-06】 [程序员] 我买了那个 SanDisk 号称最快速度的 SSD 移动硬盘， 1050MB 每秒，但我怎么只有 280M/s 左右？](https://www.v2ex.com/t/813573)
 * [【2021-11-06】 [DotA] 今夜，这就是假如 LGD 夺冠的感受吗？](https://www.v2ex.com/t/813572)
@@ -56,8 +58,6 @@
 * [【2021-11-06】 [Apple] AOC 卢瓦尔 LV273HUPR 无法给 iPad mini6 充电](https://www.v2ex.com/t/813569)
 * [【2021-11-06】 [英雄联盟] EDG 牛逼](https://www.v2ex.com/t/813568)
 * [【2021-11-06】 [问与答] 二清到底如何定义？](https://www.v2ex.com/t/813565)
-* [【2021-11-06】 [问与答] 邮箱服务器都用哪个？](https://www.v2ex.com/t/813562)
-* [【2021-11-06】 [DNS] 问个比较小白的 dns 问题](https://www.v2ex.com/t/813561)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-06 21:16:43
+:alarm_clock: 更新时间: 2021-11-06 22:19:10
