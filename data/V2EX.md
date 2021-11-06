@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-11-06  [程序员] 追踪与中断点陷阱 (核心已转储)，何解？](https://www.v2ex.com/t/813571)
+* [2021-11-06  [英雄联盟] EDG 夺冠了然后 QQ 群崩了](https://www.v2ex.com/t/813570)
 * [2021-11-06  [Apple] AOC 卢瓦尔 LV273HUPR 无法给 iPad mini6 充电](https://www.v2ex.com/t/813569)
 * [2021-11-06  [英雄联盟] EDG 牛逼](https://www.v2ex.com/t/813568)
 * [2021-11-06  [问与答] 二清到底如何定义？](https://www.v2ex.com/t/813565)
