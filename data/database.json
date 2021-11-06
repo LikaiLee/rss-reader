@@ -456,6 +456,71 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 请教几个 gmail 的问题",
+                "link": "https://www.v2ex.com/t/813543",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] Pure tuber 这种应用都能上架 play store",
+                "link": "https://www.v2ex.com/t/813542",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[iPhone] 备份 iPhone 到底需要多大的盘？",
+                "link": "https://www.v2ex.com/t/813541",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 7000 左右的预算,给爸妈房子添置一台 65 寸电视",
+                "link": "https://www.v2ex.com/t/813539",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[程序员] 搞了一台良心云轻量 想用于给自己搭个回国节点听歌 会有啥风险不",
+                "link": "https://www.v2ex.com/t/813538",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 想建一个游戏社区，冥思苦想一天没找到好域名，动脑的时候到了",
+                "link": "https://www.v2ex.com/t/813537",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 关于 web 应用防火墙回源的问题",
+                "link": "https://www.v2ex.com/t/813536",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[MacBook Pro] 首发日自营店自提的 mac，非常满意",
+                "link": "https://www.v2ex.com/t/813535",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 各位大佬，求一款可以根据字幕文件，自行断句，进行重复播放的安卓播放器。",
+                "link": "https://www.v2ex.com/t/813534",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[Android] Android 开发者选项里的「正在运行的服务」界面里的「进程」和「服务」分别是什么意思？",
+                "link": "https://www.v2ex.com/t/813533",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] mi mini 升级到 monterey 之后， safari 有的时候蓝牙键盘无法输入？",
+                "link": "https://www.v2ex.com/t/813531",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[编程] 想下订单后生成图纸，求问各位大佬有什么解决方案？",
+                "link": "https://www.v2ex.com/t/813530",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[iPhone] 微信运动的数据显示已经这么详细了吗？",
+                "link": "https://www.v2ex.com/t/813529",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "[分享创造] 一个可以实现用户数据确权，解决互联网巨头对我们的垄断控制的基础设施",
                 "link": "https://www.v2ex.com/t/813528",
                 "published": "2021-11-06"
@@ -15106,7 +15171,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 13
     },
     {
         "id": 3,
