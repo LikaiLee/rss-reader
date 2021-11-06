@@ -456,6 +456,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享发现] 华为电脑重置系统后电脑管家自动携带？",
+                "link": "https://www.v2ex.com/t/813557",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[Xcode] 请问 iOS 的 DeviceToken 和 UUID 的变化时机一致么？",
+                "link": "https://www.v2ex.com/t/813556",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[微信] 2021 年 11 月， iOS 微信关闭广告的方法都失效了是吗？以前至少还能关闭 6 个月",
+                "link": "https://www.v2ex.com/t/813555",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[推广] Pure tuber 这种应用都能上架 play store",
+                "link": "https://www.v2ex.com/t/813542",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "[分享发现] 大厂 google 的小玩意儿",
                 "link": "https://www.v2ex.com/t/813553",
                 "published": "2021-11-06"
@@ -15221,7 +15241,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 3,

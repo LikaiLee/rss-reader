@@ -1,6 +1,10 @@
 # V2EX
 
 
+* [2021-11-06  [分享发现] 华为电脑重置系统后电脑管家自动携带？](https://www.v2ex.com/t/813557)
+* [2021-11-06  [Xcode] 请问 iOS 的 DeviceToken 和 UUID 的变化时机一致么？](https://www.v2ex.com/t/813556)
+* [2021-11-06  [微信] 2021 年 11 月， iOS 微信关闭广告的方法都失效了是吗？以前至少还能关闭 6 个月](https://www.v2ex.com/t/813555)
+* [2021-11-06  [推广] Pure tuber 这种应用都能上架 play store](https://www.v2ex.com/t/813542)
 * [2021-11-06  [分享发现] 大厂 google 的小玩意儿](https://www.v2ex.com/t/813553)
 * [2021-11-06  [宽带症候群] 用中国移动的流量卡做热点，路由器上测试 ipv6 TCP/UDP 通过。](https://www.v2ex.com/t/813552)
 * [2021-11-06  [优惠信息] 1Password 个人版 3 年 50% 折扣 https://start.1password.com/sign-up/individual?c=OP83YR50](https://www.v2ex.com/t/813551)
