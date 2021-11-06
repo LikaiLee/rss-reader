@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "科普 | 从解决方案到底层实现：你的手机是这样进行睡眠监测的",
+                "link": "https://sspai.com/post/67931",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "新玩意 083｜少数派的作者们最近买了啥？",
                 "link": "https://sspai.com/post/69704",
                 "published": "2021-11-06"
@@ -450,6 +455,46 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Python] 为什么 raw 的 r 禁止转义会失效呢",
+                "link": "https://www.v2ex.com/t/813501",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[程序员] 我好像还是没有理解 ipv6 头部去掉选项的精妙之处？",
+                "link": "https://www.v2ex.com/t/813499",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] Windows 10 上可以运行的软件如何在 XP 系统上运行",
+                "link": "https://www.v2ex.com/t/813498",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 求推荐 雅思 教程或机构",
+                "link": "https://www.v2ex.com/t/813497",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 求个 spark 邮箱的规则， shadowrocket",
+                "link": "https://www.v2ex.com/t/813496",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[职场话题] 毕业后想远程工作。多点时间陪家里人。求推荐",
+                "link": "https://www.v2ex.com/t/813493",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[macOS] macOS Monterey 锁屏头像有「小彩蛋」",
+                "link": "https://www.v2ex.com/t/813464",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[生活] 最近惠阳买房送首付大家听说了吗？能上车不",
+                "link": "https://www.v2ex.com/t/813456",
+                "published": "2021-11-06"
+            },
             {
                 "title": "[SSH] Windows 下连接 Linux 用什么方案给 ssh 开 socks5 代理？",
                 "link": "https://www.v2ex.com/t/813495",
@@ -14961,7 +15006,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 8
     },
     {
         "id": 3,

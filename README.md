@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+4】
+* [V2EX](#V2EX) 【+8】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-06】 科普 | 从解决方案到底层实现：你的手机是这样进行睡眠监测的](https://sspai.com/post/67931)
 * [【2021-11-06】 新玩意 083｜少数派的作者们最近买了啥？](https://sspai.com/post/69704)
 * [【2021-11-05】 本周看什么 丨最近值得一看的 9 部作品](https://sspai.com/post/69699)
 * [【2021-11-05】 少数派正版软件「双十一」来了，还有限时买赠活动等你选](https://sspai.com/post/69642)
@@ -38,7 +39,6 @@
 * [【2021-11-05】 派早报：小米激光影院 2 4K 发布、魅族回应魅族 18 天气应用出现广告等](https://sspai.com/post/69688)
 * [【2021-11-04】 翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了](https://sspai.com/post/69671)
 * [【2021-11-04】 新玩意 082｜少数派的编辑们最近买了啥？](https://sspai.com/post/69673)
-* [【2021-11-04】 用硬苹果捏软柿子：M1 系列 Mac 虚拟 Windows 11 免费方法谈](https://sspai.com/post/69659)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-06】 [Python] 为什么 raw 的 r 禁止转义会失效呢](https://www.v2ex.com/t/813501)
+* [【2021-11-06】 [程序员] 我好像还是没有理解 ipv6 头部去掉选项的精妙之处？](https://www.v2ex.com/t/813499)
+* [【2021-11-06】 [问与答] Windows 10 上可以运行的软件如何在 XP 系统上运行](https://www.v2ex.com/t/813498)
+* [【2021-11-06】 [问与答] 求推荐 雅思 教程或机构](https://www.v2ex.com/t/813497)
+* [【2021-11-06】 [问与答] 求个 spark 邮箱的规则， shadowrocket](https://www.v2ex.com/t/813496)
+* [【2021-11-06】 [职场话题] 毕业后想远程工作。多点时间陪家里人。求推荐](https://www.v2ex.com/t/813493)
+* [【2021-11-06】 [macOS] macOS Monterey 锁屏头像有「小彩蛋」](https://www.v2ex.com/t/813464)
+* [【2021-11-06】 [生活] 最近惠阳买房送首付大家听说了吗？能上车不](https://www.v2ex.com/t/813456)
 * [【2021-11-06】 [SSH] Windows 下连接 Linux 用什么方案给 ssh 开 socks5 代理？](https://www.v2ex.com/t/813495)
 * [【2021-11-06】 [酷工作] 毕业后想远程工作。多点时间陪家里人。求推荐](https://www.v2ex.com/t/813493)
-* [【2021-11-06】 [Apple] 这时候买 mac mini m1 会 49 年入国军?](https://www.v2ex.com/t/813492)
-* [【2021-11-06】 [推广] 我也来推广一波服务器吧，阿里云新用户免费送一年！](https://www.v2ex.com/t/813491)
-* [【2021-11-06】 [问与答] “Apple Stores to Drop Mask Requirement for Customers in Many U.S. States”此句语法是否有误](https://www.v2ex.com/t/813490)
-* [【2021-11-06】 [问与答] 美区 apple pay 工商银行美国通运卡问题](https://www.v2ex.com/t/813487)
-* [【2021-11-06】 [程序员] 计网自顶向下 实现广播的 RPF 的 冗余分组的疑问？](https://www.v2ex.com/t/813486)
-* [【2021-11-06】 [GitHub] git pull / push 失败](https://www.v2ex.com/t/813485)
-* [【2021-11-06】 [生活] 大家有什么推荐的手机套餐吗？](https://www.v2ex.com/t/813484)
-* [【2021-11-06】 [MacBook Pro] 在价格与性能之间寻求平衡](https://www.v2ex.com/t/813482)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-06 07:18:30
+:alarm_clock: 更新时间: 2021-11-06 08:23:00

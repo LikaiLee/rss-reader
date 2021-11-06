@@ -1,6 +1,14 @@
 # V2EX
 
 
+* [2021-11-06  [Python] 为什么 raw 的 r 禁止转义会失效呢](https://www.v2ex.com/t/813501)
+* [2021-11-06  [程序员] 我好像还是没有理解 ipv6 头部去掉选项的精妙之处？](https://www.v2ex.com/t/813499)
+* [2021-11-06  [问与答] Windows 10 上可以运行的软件如何在 XP 系统上运行](https://www.v2ex.com/t/813498)
+* [2021-11-06  [问与答] 求推荐 雅思 教程或机构](https://www.v2ex.com/t/813497)
+* [2021-11-06  [问与答] 求个 spark 邮箱的规则， shadowrocket](https://www.v2ex.com/t/813496)
+* [2021-11-06  [职场话题] 毕业后想远程工作。多点时间陪家里人。求推荐](https://www.v2ex.com/t/813493)
+* [2021-11-06  [macOS] macOS Monterey 锁屏头像有「小彩蛋」](https://www.v2ex.com/t/813464)
+* [2021-11-06  [生活] 最近惠阳买房送首付大家听说了吗？能上车不](https://www.v2ex.com/t/813456)
 * [2021-11-06  [SSH] Windows 下连接 Linux 用什么方案给 ssh 开 socks5 代理？](https://www.v2ex.com/t/813495)
 * [2021-11-06  [酷工作] 毕业后想远程工作。多点时间陪家里人。求推荐](https://www.v2ex.com/t/813493)
 * [2021-11-06  [Apple] 这时候买 mac mini m1 会 49 年入国军?](https://www.v2ex.com/t/813492)
