@@ -446,6 +446,56 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 关于升级 montery 后 safari 莫名其妙跳转页面问题",
+                "link": "https://www.v2ex.com/t/813455",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[Firefox] 我是如何安装 Firefox 国际版的",
+                "link": "https://www.v2ex.com/t/813454",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[Apple] AirPods Pro 日常用什么消毒",
+                "link": "https://www.v2ex.com/t/813452",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[硬件] 想买个 PAD 看 PDF 电子书什么的，不打游戏，高分屏最好，续航一般就可以",
+                "link": "https://www.v2ex.com/t/813451",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[前端开发] 这种圆角梯形有什么思路科一实现",
+                "link": "https://www.v2ex.com/t/813450",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[Windows] 请问安装 Windows 安卓子系统，也就是 WSA，有哪些要求？在 VMware 里面可以用吗？",
+                "link": "https://www.v2ex.com/t/813449",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[杭州] 有没有哥哥们知道杭州哪家酒吧晚上会放 S11 总决赛直播呀？",
+                "link": "https://www.v2ex.com/t/813448",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 有什么办法可以单独禁用某些 app 的加速度传感器或者陀螺仪嘛？我发现我在火车上居然打不开 QQ 音乐！",
+                "link": "https://www.v2ex.com/t/813447",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[MacBook Pro] 未来两三年 Mac book Pro 还有大的突破么？",
+                "link": "https://www.v2ex.com/t/813446",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[硬件] 3k 预算买手机推荐",
+                "link": "https://www.v2ex.com/t/813439",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "[宽带症候群] 中国移动宽带，想通过 IPv6，直接连进家里，发现只能 ping 通，不能 TCP 连接",
                 "link": "https://www.v2ex.com/t/813445",
                 "published": "2021-11-06"
@@ -14766,7 +14816,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 20
+        "new_feeds": 10
     },
     {
         "id": 3,
