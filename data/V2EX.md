@@ -1,6 +1,13 @@
 # V2EX
 
 
+* [2021-11-06  [问与答] “Apple Stores to Drop Mask Requirement for Customers in Many U.S. States”此句语法是否有误](https://www.v2ex.com/t/813490)
+* [2021-11-06  [问与答] 美区 apple pay 工商银行美国通运卡问题](https://www.v2ex.com/t/813487)
+* [2021-11-06  [程序员] 计网自顶向下 实现广播的 RPF 的 冗余分组的疑问？](https://www.v2ex.com/t/813486)
+* [2021-11-06  [GitHub] git pull / push 失败](https://www.v2ex.com/t/813485)
+* [2021-11-06  [生活] 大家有什么推荐的手机套餐吗？](https://www.v2ex.com/t/813484)
+* [2021-11-06  [MacBook Pro] 在价格与性能之间寻求平衡](https://www.v2ex.com/t/813482)
+* [2021-11-06  [生活] 由于经济马太效应和人口老龄化，未来中国可能只剩下三个经济中心：北京、上海、深圳](https://www.v2ex.com/t/813480)
 * [2021-11-06  [程序员] jetbrains 正在直播 Kotlin 中文开发者大会](https://www.v2ex.com/t/813478)
 * [2021-11-06  [问与答] 有没有这样的导航网站，或者源码。有导航和 todolist 功能的](https://www.v2ex.com/t/813476)
 * [2021-11-06  [问与答] 绿灯车不让人，行人抢行红灯，为啥？](https://www.v2ex.com/t/813475)

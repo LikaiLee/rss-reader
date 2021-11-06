@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+9】
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-06】 [问与答] “Apple Stores to Drop Mask Requirement for Customers in Many U.S. States”此句语法是否有误](https://www.v2ex.com/t/813490)
+* [【2021-11-06】 [问与答] 美区 apple pay 工商银行美国通运卡问题](https://www.v2ex.com/t/813487)
+* [【2021-11-06】 [程序员] 计网自顶向下 实现广播的 RPF 的 冗余分组的疑问？](https://www.v2ex.com/t/813486)
+* [【2021-11-06】 [GitHub] git pull / push 失败](https://www.v2ex.com/t/813485)
+* [【2021-11-06】 [生活] 大家有什么推荐的手机套餐吗？](https://www.v2ex.com/t/813484)
+* [【2021-11-06】 [MacBook Pro] 在价格与性能之间寻求平衡](https://www.v2ex.com/t/813482)
+* [【2021-11-06】 [生活] 由于经济马太效应和人口老龄化，未来中国可能只剩下三个经济中心：北京、上海、深圳](https://www.v2ex.com/t/813480)
 * [【2021-11-06】 [程序员] jetbrains 正在直播 Kotlin 中文开发者大会](https://www.v2ex.com/t/813478)
 * [【2021-11-06】 [问与答] 有没有这样的导航网站，或者源码。有导航和 todolist 功能的](https://www.v2ex.com/t/813476)
 * [【2021-11-06】 [问与答] 绿灯车不让人，行人抢行红灯，为啥？](https://www.v2ex.com/t/813475)
-* [【2021-11-06】 [问与答] 公有云产品询价](https://www.v2ex.com/t/813473)
-* [【2021-11-06】 [问与答] EDGE 浏览器登录 V2EX 有碰到一直输入验证码提示错误的嘛？](https://www.v2ex.com/t/813472)
-* [【2021-11-06】 [问与答] 怎么查看什么影院上映 4K 电影](https://www.v2ex.com/t/813471)
-* [【2021-11-06】 [MacBook Pro] 可能还是考虑 MacBook Pro 2020 款（13 吋），这款设备有啥不尽人意的地方吗 ？](https://www.v2ex.com/t/813470)
-* [【2021-11-06】 [分享发现] 分享发现的一些优质的时间理念和时间管理方式](https://www.v2ex.com/t/813469)
-* [【2021-11-06】 [生活] 种植牙有没有靠谱的齿科保险](https://www.v2ex.com/t/813468)
-* [【2021-11-06】 [程序员] 计网自顶向下 BGP 协议 路由选择策略的疑问](https://www.v2ex.com/t/813466)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-06 05:17:25
+:alarm_clock: 更新时间: 2021-11-06 06:23:11

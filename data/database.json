@@ -446,6 +446,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] “Apple Stores to Drop Mask Requirement for Customers in Many U.S. States”此句语法是否有误",
+                "link": "https://www.v2ex.com/t/813490",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 美区 apple pay 工商银行美国通运卡问题",
+                "link": "https://www.v2ex.com/t/813487",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[程序员] 计网自顶向下 实现广播的 RPF 的 冗余分组的疑问？",
+                "link": "https://www.v2ex.com/t/813486",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[GitHub] git pull / push 失败",
+                "link": "https://www.v2ex.com/t/813485",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[生活] 大家有什么推荐的手机套餐吗？",
+                "link": "https://www.v2ex.com/t/813484",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[MacBook Pro] 在价格与性能之间寻求平衡",
+                "link": "https://www.v2ex.com/t/813482",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[生活] 由于经济马太效应和人口老龄化，未来中国可能只剩下三个经济中心：北京、上海、深圳",
+                "link": "https://www.v2ex.com/t/813480",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "[程序员] jetbrains 正在直播 Kotlin 中文开发者大会",
                 "link": "https://www.v2ex.com/t/813478",
                 "published": "2021-11-06"
@@ -14901,7 +14936,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 7
     },
     {
         "id": 3,
