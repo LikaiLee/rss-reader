@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,6 +48,7 @@
     </summary>
 
 
+* [【2021-11-06】 [程序员] 发现中文互联网上的好多页面都没有对 1080P 以上的分辨率优化](https://www.v2ex.com/t/813575)
 * [【2021-11-06】 [程序员] 我买了那个 SanDisk 号称最快速度的 SSD 移动硬盘， 1050MB 每秒，但我怎么只有 280M/s 左右？](https://www.v2ex.com/t/813573)
 * [【2021-11-06】 [DotA] 今夜，这就是假如 LGD 夺冠的感受吗？](https://www.v2ex.com/t/813572)
 * [【2021-11-06】 [程序员] 追踪与中断点陷阱 (核心已转储)，何解？](https://www.v2ex.com/t/813571)
@@ -57,7 +58,6 @@
 * [【2021-11-06】 [问与答] 二清到底如何定义？](https://www.v2ex.com/t/813565)
 * [【2021-11-06】 [问与答] 邮箱服务器都用哪个？](https://www.v2ex.com/t/813562)
 * [【2021-11-06】 [DNS] 问个比较小白的 dns 问题](https://www.v2ex.com/t/813561)
-* [【2021-11-06】 [问与答] 有人了解过阿里云上公司注册么?](https://www.v2ex.com/t/813559)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-06 19:15:14
+:alarm_clock: 更新时间: 2021-11-06 20:19:50

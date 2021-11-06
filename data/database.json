@@ -456,6 +456,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 发现中文互联网上的好多页面都没有对 1080P 以上的分辨率优化",
+                "link": "https://www.v2ex.com/t/813575",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "[程序员] 我买了那个 SanDisk 号称最快速度的 SSD 移动硬盘， 1050MB 每秒，但我怎么只有 280M/s 左右？",
                 "link": "https://www.v2ex.com/t/813573",
                 "published": "2021-11-06"
@@ -15296,7 +15301,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 3,
