@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-11-06  [问与答] 迫于秋冬季节交换，冬天来临。求各位大佬给个帽子指南叭](https://www.v2ex.com/t/813420)
+* [2021-11-06  [问与答] 你们用什么软件设置自动还房贷？](https://www.v2ex.com/t/813417)
+* [2021-11-05  [游戏] 最近 Apple Arcade 上了两个明显是从氪金模式改造过来的游戏](https://www.v2ex.com/t/813416)
+* [2021-11-05  [Getting Things Done] 大家是怎么处理待办事项信息的？](https://www.v2ex.com/t/813415)
+* [2021-11-05  [信息安全] 1password 家庭版车主可以随意停止和删除成员账号，为什么还是那么多人随便找车上？](https://www.v2ex.com/t/813404)
 * [2021-11-05  [问与答] 大家是怎么处理待办事项信息的？](https://www.v2ex.com/t/813415)
 * [2021-11-05  [Python] 一篇关于 Python ASGI 的介绍](https://www.v2ex.com/t/813413)
 * [2021-11-05  [MacBook Pro] 动圈麦克风 能直接连接 macbook pro 2018 吗？](https://www.v2ex.com/t/813411)
