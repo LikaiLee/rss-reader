@@ -456,6 +456,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 我买了那个 SanDisk 号称最快速度的 SSD 移动硬盘， 1050MB 每秒，但我怎么只有 280M/s 左右？",
+                "link": "https://www.v2ex.com/t/813573",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[DotA] 今夜，这就是假如 LGD 夺冠的感受吗？",
+                "link": "https://www.v2ex.com/t/813572",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "[程序员] 追踪与中断点陷阱 (核心已转储)，何解？",
                 "link": "https://www.v2ex.com/t/813571",
                 "published": "2021-11-06"

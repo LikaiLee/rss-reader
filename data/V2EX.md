@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-11-06  [程序员] 我买了那个 SanDisk 号称最快速度的 SSD 移动硬盘， 1050MB 每秒，但我怎么只有 280M/s 左右？](https://www.v2ex.com/t/813573)
+* [2021-11-06  [DotA] 今夜，这就是假如 LGD 夺冠的感受吗？](https://www.v2ex.com/t/813572)
 * [2021-11-06  [程序员] 追踪与中断点陷阱 (核心已转储)，何解？](https://www.v2ex.com/t/813571)
 * [2021-11-06  [英雄联盟] EDG 夺冠了然后 QQ 群崩了](https://www.v2ex.com/t/813570)
 * [2021-11-06  [Apple] AOC 卢瓦尔 LV273HUPR 无法给 iPad mini6 充电](https://www.v2ex.com/t/813569)
