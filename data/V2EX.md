@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-11-06  [Apple] AOC 卢瓦尔 LV273HUPR 无法给 iPad mini6 充电](https://www.v2ex.com/t/813569)
+* [2021-11-06  [英雄联盟] EDG 牛逼](https://www.v2ex.com/t/813568)
 * [2021-11-06  [问与答] 二清到底如何定义？](https://www.v2ex.com/t/813565)
 * [2021-11-06  [问与答] 邮箱服务器都用哪个？](https://www.v2ex.com/t/813562)
 * [2021-11-06  [DNS] 问个比较小白的 dns 问题](https://www.v2ex.com/t/813561)

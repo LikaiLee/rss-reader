@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+5】
+* [V2EX](#V2EX) 【+2】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,6 +48,8 @@
     </summary>
 
 
+* [【2021-11-06】 [Apple] AOC 卢瓦尔 LV273HUPR 无法给 iPad mini6 充电](https://www.v2ex.com/t/813569)
+* [【2021-11-06】 [英雄联盟] EDG 牛逼](https://www.v2ex.com/t/813568)
 * [【2021-11-06】 [问与答] 二清到底如何定义？](https://www.v2ex.com/t/813565)
 * [【2021-11-06】 [问与答] 邮箱服务器都用哪个？](https://www.v2ex.com/t/813562)
 * [【2021-11-06】 [DNS] 问个比较小白的 dns 问题](https://www.v2ex.com/t/813561)
@@ -56,8 +58,6 @@
 * [【2021-11-06】 [分享发现] 华为电脑重置系统后电脑管家自动携带？](https://www.v2ex.com/t/813557)
 * [【2021-11-06】 [Xcode] 请问 iOS 的 DeviceToken 和 UUID 的变化时机一致么？](https://www.v2ex.com/t/813556)
 * [【2021-11-06】 [微信] 2021 年 11 月， iOS 微信关闭广告的方法都失效了是吗？以前至少还能关闭 6 个月](https://www.v2ex.com/t/813555)
-* [【2021-11-06】 [推广] Pure tuber 这种应用都能上架 play store](https://www.v2ex.com/t/813542)
-* [【2021-11-06】 [分享发现] 大厂 google 的小玩意儿](https://www.v2ex.com/t/813553)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-06 16:29:41
+:alarm_clock: 更新时间: 2021-11-06 17:22:21
