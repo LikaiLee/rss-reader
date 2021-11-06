@@ -1,6 +1,15 @@
 # V2EX
 
 
+* [2021-11-06  [问与答] Notion 中的中文双引号怎么让它显示正常](https://www.v2ex.com/t/813511)
+* [2021-11-06  [问与答] 约女生出来不知道怎么聊好](https://www.v2ex.com/t/813510)
+* [2021-11-06  [互联网] 雅虎要关闭中国用户的 yahoo.com 账号了](https://www.v2ex.com/t/813509)
+* [2021-11-06  [程序员] 程序员适用的加密货币： NANO](https://www.v2ex.com/t/813508)
+* [2021-11-06  [问与答] 有没有这样的双向文件同步工具](https://www.v2ex.com/t/813507)
+* [2021-11-06  [问与答] golang gin 怎样支持多 tls 证书共用 443 端口](https://www.v2ex.com/t/813506)
+* [2021-11-06  [问与答] 有没有国内能用的，支持 esim 还能用 Google Assistant 的手表？](https://www.v2ex.com/t/813505)
+* [2021-11-06  [Apple] iPhone13 可以用 Macbook Air M1 的充电头充电吗，实际功率多少 w?](https://www.v2ex.com/t/813504)
+* [2021-11-06  [分享发现] 最近好多 app 都更新了隐私政策](https://www.v2ex.com/t/813503)
 * [2021-11-06  [Python] 为什么 raw 的 r 禁止转义会失效呢](https://www.v2ex.com/t/813501)
 * [2021-11-06  [程序员] 我好像还是没有理解 ipv6 头部去掉选项的精妙之处？](https://www.v2ex.com/t/813499)
 * [2021-11-06  [问与答] Windows 10 上可以运行的软件如何在 XP 系统上运行](https://www.v2ex.com/t/813498)
