@@ -1,6 +1,14 @@
 # V2EX
 
 
+* [2021-11-06  [程序员] 计网自顶向下 BGP 协议 路由选择策略的疑问](https://www.v2ex.com/t/813466)
+* [2021-11-06  [Perl] 安装社区版 perl 时的注册问题](https://www.v2ex.com/t/813465)
+* [2021-11-06  [Apple] macOS Monterey 锁屏头像有「小彩蛋」](https://www.v2ex.com/t/813464)
+* [2021-11-06  [职场话题] 搞 Python 有些迷茫](https://www.v2ex.com/t/813463)
+* [2021-11-06  [问与答] Python 的跨平台编译工具推荐下](https://www.v2ex.com/t/813460)
+* [2021-11-06  [SSL] letsencrypt 的证书又有问题了吗](https://www.v2ex.com/t/813459)
+* [2021-11-06  [macOS] 请问 Mac 上 Chrome Safari 的书签最佳同步方案是哪种？](https://www.v2ex.com/t/813457)
+* [2021-11-06  [问与答] 最近惠阳买房送首付大家听说了吗？能上车不](https://www.v2ex.com/t/813456)
 * [2021-11-06  [Apple] 关于升级 montery 后 safari 莫名其妙跳转页面问题](https://www.v2ex.com/t/813455)
 * [2021-11-06  [Firefox] 我是如何安装 Firefox 国际版的](https://www.v2ex.com/t/813454)
 * [2021-11-06  [Apple] AirPods Pro 日常用什么消毒](https://www.v2ex.com/t/813452)

@@ -446,6 +446,46 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 计网自顶向下 BGP 协议 路由选择策略的疑问",
+                "link": "https://www.v2ex.com/t/813466",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[Perl] 安装社区版 perl 时的注册问题",
+                "link": "https://www.v2ex.com/t/813465",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[Apple] macOS Monterey 锁屏头像有「小彩蛋」",
+                "link": "https://www.v2ex.com/t/813464",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[职场话题] 搞 Python 有些迷茫",
+                "link": "https://www.v2ex.com/t/813463",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] Python 的跨平台编译工具推荐下",
+                "link": "https://www.v2ex.com/t/813460",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[SSL] letsencrypt 的证书又有问题了吗",
+                "link": "https://www.v2ex.com/t/813459",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[macOS] 请问 Mac 上 Chrome Safari 的书签最佳同步方案是哪种？",
+                "link": "https://www.v2ex.com/t/813457",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[问与答] 最近惠阳买房送首付大家听说了吗？能上车不",
+                "link": "https://www.v2ex.com/t/813456",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "[Apple] 关于升级 montery 后 safari 莫名其妙跳转页面问题",
                 "link": "https://www.v2ex.com/t/813455",
                 "published": "2021-11-06"
@@ -14816,7 +14856,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 8
     },
     {
         "id": 3,
