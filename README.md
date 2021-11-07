@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+10】
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-07】 [程序员] Ai 自动编程： Github Copilot](https://www.v2ex.com/t/813647)
+* [【2021-11-07】 [问与答] 询问一个 Java 注解](https://www.v2ex.com/t/813645)
+* [【2021-11-07】 [iPhone] 苹果中国官网日前更新了 iPhone 使用手册，确认 iOS 15.1 中的指南针不再显示坐标、海拔等信息](https://www.v2ex.com/t/813643)
+* [【2021-11-07】 [Kubernetes] 请教 5 台物理机器（windows 10）想搭建一个 K8S 集群应该如何操作。比如使用什么平台，有什么注意事项吗？就是玩一玩用。查了下有 Rancher 和 Kubesphere 等，但是还没用过。谢谢](https://www.v2ex.com/t/813642)
+* [【2021-11-07】 [Go 编程语言] 切片作为参数传参，使用 append 后在函数内切边被修改了，而在主函数里面没有被改变](https://www.v2ex.com/t/813641)
+* [【2021-11-07】 [分享发现] 云闪付信用卡还款的 scheme url 是 upwallet://rn/rncredit](https://www.v2ex.com/t/813639)
+* [【2021-11-07】 [问与答] clash 有 iOS 的客户端么？](https://www.v2ex.com/t/813638)
 * [【2021-11-07】 [分享发现] 元宇宙：个人认为是一个更加没有节操的娱乐项目](https://www.v2ex.com/t/813636)
 * [【2021-11-07】 [iCloud] 共享帐号买的 ios App 里，如果有 iCloud 同步功能，有无影响？](https://www.v2ex.com/t/813635)
 * [【2021-11-07】 [酷工作] 求 VR 游戏客户端大佬加入](https://www.v2ex.com/t/813634)
-* [【2021-11-07】 [Next.js] next.js 不能弄单页面应用吗？](https://www.v2ex.com/t/813633)
-* [【2021-11-07】 [MacBook Pro] M1 Max 的 25 款 AAA 游戏性能测试视频](https://www.v2ex.com/t/813632)
-* [【2021-11-07】 [问与答] 笔记本拆下来的硬盘无法在 windows 下读取,但可以在 Linux 下读取](https://www.v2ex.com/t/813631)
-* [【2021-11-07】 [问与答] 荔枝微课 app 下载的文件在哪个文件夹里？](https://www.v2ex.com/t/813630)
-* [【2021-11-07】 [JavaScript] 请教如何实现 BPMN 图自动布局的其他实现方法?](https://www.v2ex.com/t/813628)
-* [【2021-11-07】 [Go 编程语言] Go 不是谷歌亲儿子吗？](https://www.v2ex.com/t/813608)
-* [【2021-11-07】 [职场话题] 测试机周未在公司被偷了，尤于找不到证据，公司让员工全额赔偿](https://www.v2ex.com/t/813601)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-07 06:23:35
+:alarm_clock: 更新时间: 2021-11-07 07:18:29

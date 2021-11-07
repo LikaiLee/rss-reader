@@ -456,6 +456,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] Ai 自动编程： Github Copilot",
+                "link": "https://www.v2ex.com/t/813647",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 询问一个 Java 注解",
+                "link": "https://www.v2ex.com/t/813645",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[iPhone] 苹果中国官网日前更新了 iPhone 使用手册，确认 iOS 15.1 中的指南针不再显示坐标、海拔等信息",
+                "link": "https://www.v2ex.com/t/813643",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[Kubernetes] 请教 5 台物理机器（windows 10）想搭建一个 K8S 集群应该如何操作。比如使用什么平台，有什么注意事项吗？就是玩一玩用。查了下有 Rancher 和 Kubesphere 等，但是还没用过。谢谢",
+                "link": "https://www.v2ex.com/t/813642",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[Go 编程语言] 切片作为参数传参，使用 append 后在函数内切边被修改了，而在主函数里面没有被改变",
+                "link": "https://www.v2ex.com/t/813641",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[分享发现] 云闪付信用卡还款的 scheme url 是 upwallet://rn/rncredit",
+                "link": "https://www.v2ex.com/t/813639",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] clash 有 iOS 的客户端么？",
+                "link": "https://www.v2ex.com/t/813638",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[分享发现] 元宇宙：个人认为是一个更加没有节操的娱乐项目",
                 "link": "https://www.v2ex.com/t/813636",
                 "published": "2021-11-07"
@@ -15551,7 +15586,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 7
     },
     {
         "id": 3,
