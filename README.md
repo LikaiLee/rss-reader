@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+5】
+* [V2EX](#V2EX) 【+9】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-07】 [Python] 怎么创建一个类，做到不能创建这个类自身的实例，但可以创建这个子类的实例？](https://www.v2ex.com/t/813708)
+* [【2021-11-07】 [Windows] Windows11 长时间休眠后开机时会黑屏很久](https://www.v2ex.com/t/813707)
+* [【2021-11-07】 [Vim] Showcase 可以用 neovim 干啥](https://www.v2ex.com/t/813706)
+* [【2021-11-07】 [iPhone] 大家都是怎么定位是买 128G 还是 256G 啊？准备买 13pro 了，纠结存储](https://www.v2ex.com/t/813704)
+* [【2021-11-07】 [问与答] v2ex 上自己买菲律宾 globe 卡订阅服务的多吗？](https://www.v2ex.com/t/813703)
+* [【2021-11-07】 [问与答] 自建 bitwarden ios 登录提示「太多 http 重定向」](https://www.v2ex.com/t/813702)
+* [【2021-11-07】 [iOS] 误操作 Apple Play 导致银行卡被锁定😭](https://www.v2ex.com/t/813701)
+* [【2021-11-07】 [macOS] 2k 显示屏开启 hidpi，适用 m1](https://www.v2ex.com/t/813700)
+* [【2021-11-07】 [游戏] 有买了帝国时代 4 的老哥吗？](https://www.v2ex.com/t/813697)
 * [【2021-11-07】 [V2EX API] tokens api 有点小问题](https://www.v2ex.com/t/813695)
-* [【2021-11-07】 [电影] 《芬奇》，看完有点期待第二部](https://www.v2ex.com/t/813694)
-* [【2021-11-07】 [问与答] 有什么使用体验接近欧乐 b 或者超过它的牙线推荐吗？](https://www.v2ex.com/t/813693)
-* [【2021-11-07】 [路由器] 对于软路由来说， 1000 台终端每台使用 1M 流量 和 1 台终端使用 1000M 流量，压力和性能会相差多少？](https://www.v2ex.com/t/813692)
-* [【2021-11-07】 [酷工作] 有人熟悉构建工程师吗，刚毕业应届生应不应该去小众岗位搏一搏](https://www.v2ex.com/t/813691)
-* [【2021-11-07】 [程序员] C#是不是都只能看源码，不提供文档](https://www.v2ex.com/t/813689)
-* [【2021-11-07】 [问与答] 目前国内哪个邮箱服务商支持绑定自定义域名邮箱](https://www.v2ex.com/t/813686)
-* [【2021-11-07】 [优惠信息] 我也来送一年阿里云服务器， 2 核 2G 免费用一年！](https://www.v2ex.com/t/813685)
-* [【2021-11-07】 [Apple] Apple Watch Series 7 的续航是不是跟 6 相比没有提高？](https://www.v2ex.com/t/813683)
-* [【2021-11-07】 [问与答] 物业不给开阀供暖，怎么办比较好](https://www.v2ex.com/t/813682)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-07 13:22:57
+:alarm_clock: 更新时间: 2021-11-07 14:17:38

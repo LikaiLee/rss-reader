@@ -461,6 +461,51 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Python] 怎么创建一个类，做到不能创建这个类自身的实例，但可以创建这个子类的实例？",
+                "link": "https://www.v2ex.com/t/813708",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[Windows] Windows11 长时间休眠后开机时会黑屏很久",
+                "link": "https://www.v2ex.com/t/813707",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[Vim] Showcase 可以用 neovim 干啥",
+                "link": "https://www.v2ex.com/t/813706",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[iPhone] 大家都是怎么定位是买 128G 还是 256G 啊？准备买 13pro 了，纠结存储",
+                "link": "https://www.v2ex.com/t/813704",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] v2ex 上自己买菲律宾 globe 卡订阅服务的多吗？",
+                "link": "https://www.v2ex.com/t/813703",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 自建 bitwarden ios 登录提示「太多 http 重定向」",
+                "link": "https://www.v2ex.com/t/813702",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[iOS] 误操作 Apple Play 导致银行卡被锁定😭",
+                "link": "https://www.v2ex.com/t/813701",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[macOS] 2k 显示屏开启 hidpi，适用 m1",
+                "link": "https://www.v2ex.com/t/813700",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[游戏] 有买了帝国时代 4 的老哥吗？",
+                "link": "https://www.v2ex.com/t/813697",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[V2EX API] tokens api 有点小问题",
                 "link": "https://www.v2ex.com/t/813695",
                 "published": "2021-11-07"
@@ -15761,7 +15806,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 9
     },
     {
         "id": 3,
