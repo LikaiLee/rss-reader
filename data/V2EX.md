@@ -1,6 +1,10 @@
 # V2EX
 
 
+* [2021-11-07  [问与答] 什么是优质的理念？](https://www.v2ex.com/t/813736)
+* [2021-11-07  [问与答] 请教一下 ts m3u8 文件如何合并成视频文件啊](https://www.v2ex.com/t/813735)
+* [2021-11-07  [问与答] 华为路由器自带百度网址安全中心，过滤网址，为什么用 clash/酸酸乳绕不过去？](https://www.v2ex.com/t/813734)
+* [2021-11-07  [分享发现] 索尼 65x91j 4999 这价格应该是历史最低价了吧？](https://www.v2ex.com/t/813733)
 * [2021-11-07  [Chrome] 请问 Chrome 打开关联程序怎么显示选择菜单](https://www.v2ex.com/t/813732)
 * [2021-11-07  [Android] Waifu2x-ncnn-vulkan 现已被移植到 Android|应用名 waifu2x ncnn](https://www.v2ex.com/t/813731)
 * [2021-11-07  [天黑以后] 20211108 午夜俱乐部](https://www.v2ex.com/t/813729)

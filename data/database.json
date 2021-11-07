@@ -461,6 +461,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 什么是优质的理念？",
+                "link": "https://www.v2ex.com/t/813736",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 请教一下 ts m3u8 文件如何合并成视频文件啊",
+                "link": "https://www.v2ex.com/t/813735",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 华为路由器自带百度网址安全中心，过滤网址，为什么用 clash/酸酸乳绕不过去？",
+                "link": "https://www.v2ex.com/t/813734",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[分享发现] 索尼 65x91j 4999 这价格应该是历史最低价了吧？",
+                "link": "https://www.v2ex.com/t/813733",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[Chrome] 请问 Chrome 打开关联程序怎么显示选择菜单",
                 "link": "https://www.v2ex.com/t/813732",
                 "published": "2021-11-07"
@@ -15886,7 +15906,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 3,
