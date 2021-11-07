@@ -461,6 +461,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Chrome] 请问 Chrome 打开关联程序怎么显示选择菜单",
+                "link": "https://www.v2ex.com/t/813732",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[Android] Waifu2x-ncnn-vulkan 现已被移植到 Android|应用名 waifu2x ncnn",
+                "link": "https://www.v2ex.com/t/813731",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[天黑以后] 20211108 午夜俱乐部",
                 "link": "https://www.v2ex.com/t/813729",
                 "published": "2021-11-07"
@@ -15876,7 +15886,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 14
+        "new_feeds": 2
     },
     {
         "id": 3,

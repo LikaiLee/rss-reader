@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+14】
+* [V2EX](#V2EX) 【+2】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,6 +48,8 @@
     </summary>
 
 
+* [【2021-11-07】 [Chrome] 请问 Chrome 打开关联程序怎么显示选择菜单](https://www.v2ex.com/t/813732)
+* [【2021-11-07】 [Android] Waifu2x-ncnn-vulkan 现已被移植到 Android|应用名 waifu2x ncnn](https://www.v2ex.com/t/813731)
 * [【2021-11-07】 [天黑以后] 20211108 午夜俱乐部](https://www.v2ex.com/t/813729)
 * [【2021-11-07】 [酷工作] [上海] 招多枚 Web 前端、 Java 后端工程师！让我们用技术提升整个行业的客户体验](https://www.v2ex.com/t/813727)
 * [【2021-11-07】 [Apple] 请教一个关于 macOS cybereason 软件的问题](https://www.v2ex.com/t/813726)
@@ -56,8 +58,6 @@
 * [【2021-11-07】 [问与答] 配合 office 使用体验比较好的协同办公软件选择？](https://www.v2ex.com/t/813722)
 * [【2021-11-07】 [全球工单系统] 作为一个用户，吐槽下腾讯的成长守护平台及工作风格](https://www.v2ex.com/t/813720)
 * [【2021-11-07】 [问与答] 求推荐家用空气净化器](https://www.v2ex.com/t/813718)
-* [【2021-11-07】 [iCloud] iCloud+ 的自定义域名邮箱有知道怎么设置的吗？](https://www.v2ex.com/t/813717)
-* [【2021-11-07】 [iPhone] iOS 15.1 屏蔽指南针 GNSS 经纬高信息有感](https://www.v2ex.com/t/813715)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-07 16:29:37
+:alarm_clock: 更新时间: 2021-11-07 17:22:27
