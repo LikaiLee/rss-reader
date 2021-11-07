@@ -456,6 +456,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[macOS] Mac 怎么绕过 hosts 的屏蔽啊",
+                "link": "https://www.v2ex.com/t/813626",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[MacBook Pro] 16 寸 M1 Max 体验确实很好",
+                "link": "https://www.v2ex.com/t/813625",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[Apple] 2022 的 iPad Pro 会是什么设计？",
+                "link": "https://www.v2ex.com/t/813622",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[程序员] 刚刚突然看透了，对于普通人而言，绝大多数云服务都没有意义，只要一个云服务器就行。",
+                "link": "https://www.v2ex.com/t/813621",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[游戏] 王者荣耀亚运版本这些移动电竞项目，比赛时一般指定什么型号的设备？",
                 "link": "https://www.v2ex.com/t/813620",
                 "published": "2021-11-07"
@@ -15481,7 +15501,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 13
+        "new_feeds": 4
     },
     {
         "id": 3,
