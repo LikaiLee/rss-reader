@@ -456,6 +456,71 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[游戏] 王者荣耀亚运版本这些移动电竞项目，比赛时一般指定什么型号的设备？",
+                "link": "https://www.v2ex.com/t/813620",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[电影] 毒液 2 太难了",
+                "link": "https://www.v2ex.com/t/813618",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[职场话题] 活久见，公司起诉程序猿工作进度慢索赔 90 万。。。",
+                "link": "https://www.v2ex.com/t/813617",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[PHP] 哥哥们、TP5 怎么实现这种 URLhttp://kj.changting.cn/pcnc3jcRjx-dyxb-?vid=1&cq=&72O3=1636199125613?@hbzfei",
+                "link": "https://www.v2ex.com/t/813616",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] zerotier 组内网用 Windows RDP 老是掉线怎么回事？",
+                "link": "https://www.v2ex.com/t/813615",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[分享发现] QQ 空间注销是假的",
+                "link": "https://www.v2ex.com/t/813614",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[京东] 120 出 飞利浦电动牙刷 6511 京东 全新未拆",
+                "link": "https://www.v2ex.com/t/813613",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[分享发现] Clash Transparent Proxy 透明代理/网关 在 Linux 设备上的实践和分享",
+                "link": "https://www.v2ex.com/t/813612",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[全球工单系统] 所以无赖快递面前用户的七天无理由权利就成了废纸？",
+                "link": "https://www.v2ex.com/t/813609",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[程序员] Go 不是谷歌亲儿子吗？",
+                "link": "https://www.v2ex.com/t/813608",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 寻求一个开源的日程提醒软件",
+                "link": "https://www.v2ex.com/t/813607",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[MacBook Pro] 休眠唤醒后无法调节外接显示器亮度？",
+                "link": "https://www.v2ex.com/t/813603",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 浮点数精确到多少位？",
+                "link": "https://www.v2ex.com/t/813602",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[问与答] 测试机周未在公司被偷了，尤于找不到证据，公司让员工全额赔偿",
                 "link": "https://www.v2ex.com/t/813601",
                 "published": "2021-11-07"
@@ -15416,7 +15481,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 13
     },
     {
         "id": 3,
