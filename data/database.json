@@ -461,6 +461,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 部分软件对“iCloud 同步”进行额外收费是否违反了 App Store 审核规范",
+                "link": "https://www.v2ex.com/t/813738",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 大学生偶然获得了两千元人民币，拿来做什么好？",
+                "link": "https://www.v2ex.com/t/813737",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[问与答] 什么是优质的理念？",
                 "link": "https://www.v2ex.com/t/813736",
                 "published": "2021-11-07"
@@ -15906,7 +15916,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 3,
