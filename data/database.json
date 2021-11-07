@@ -461,6 +461,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] C#是不是都只能看源码，不提供文档",
+                "link": "https://www.v2ex.com/t/813689",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 目前国内哪个邮箱服务商支持绑定自定义域名邮箱",
+                "link": "https://www.v2ex.com/t/813686",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[优惠信息] 我也来送一年阿里云服务器， 2 核 2G 免费用一年！",
+                "link": "https://www.v2ex.com/t/813685",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[Apple] Apple Watch Series 7 的续航是不是跟 6 相比没有提高？",
+                "link": "https://www.v2ex.com/t/813683",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 物业不给开阀供暖，怎么办比较好",
+                "link": "https://www.v2ex.com/t/813682",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 请教一个 css 问题",
+                "link": "https://www.v2ex.com/t/813679",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[生活] 家用电器的电池槽有白色粉末，如何处理最好？",
+                "link": "https://www.v2ex.com/t/813678",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[分享发现] 腾讯微云也开始对存储的文件进行审查过滤了",
                 "link": "https://www.v2ex.com/t/813675",
                 "published": "2021-11-07"
@@ -15701,7 +15736,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 7
     },
     {
         "id": 3,
