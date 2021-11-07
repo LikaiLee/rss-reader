@@ -461,6 +461,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享发现] 腾讯微云也开始对存储的文件进行审查过滤了",
+                "link": "https://www.v2ex.com/t/813675",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[程序员] 兄弟们，这个服务器是不是有猫腻，这么便宜",
+                "link": "https://www.v2ex.com/t/813674",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 为什么中国需要账号登陆的地方总是需要验证码?",
+                "link": "https://www.v2ex.com/t/813672",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[微信] 公众号前端过人机验证，有大佬接货吗",
+                "link": "https://www.v2ex.com/t/813671",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[macOS] mac setapp 学生套餐求教&拼车",
+                "link": "https://www.v2ex.com/t/813670",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[成都] 成都二手房好多挂牌时间都 3， 4 年了，好奇怪！",
                 "link": "https://www.v2ex.com/t/813669",
                 "published": "2021-11-07"
