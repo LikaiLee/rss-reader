@@ -461,6 +461,76 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[天黑以后] 20211108 午夜俱乐部",
+                "link": "https://www.v2ex.com/t/813729",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[酷工作] [上海] 招多枚 Web 前端、 Java 后端工程师！让我们用技术提升整个行业的客户体验",
+                "link": "https://www.v2ex.com/t/813727",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[Apple] 请教一个关于 macOS cybereason 软件的问题",
+                "link": "https://www.v2ex.com/t/813726",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 想问大家 C 语言书籍有什么推荐吗？（2021 年）",
+                "link": "https://www.v2ex.com/t/813725",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 想搭个家里的局域网文件服务器，怎么操作最好？",
+                "link": "https://www.v2ex.com/t/813724",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 配合 office 使用体验比较好的协同办公软件选择？",
+                "link": "https://www.v2ex.com/t/813722",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[全球工单系统] 作为一个用户，吐槽下腾讯的成长守护平台及工作风格",
+                "link": "https://www.v2ex.com/t/813720",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 求推荐家用空气净化器",
+                "link": "https://www.v2ex.com/t/813718",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[iCloud] iCloud+ 的自定义域名邮箱有知道怎么设置的吗？",
+                "link": "https://www.v2ex.com/t/813717",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[iPhone] iOS 15.1 屏蔽指南针 GNSS 经纬高信息有感",
+                "link": "https://www.v2ex.com/t/813715",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[macOS] Safari 新建标签页时卡顿",
+                "link": "https://www.v2ex.com/t/813714",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[NAS] 群晖、威联通的照片备份被各类网盘相册吊打",
+                "link": "https://www.v2ex.com/t/813713",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[分享发现] 线上会心团体招募，面向互联网技术人",
+                "link": "https://www.v2ex.com/t/813712",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[VMware] VMware Fusion 虚拟机加密后，忘记密码还有办法吗？",
+                "link": "https://www.v2ex.com/t/813710",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[Python] 怎么创建一个类，做到不能创建这个类自身的实例，但可以创建这个子类的实例？",
                 "link": "https://www.v2ex.com/t/813708",
                 "published": "2021-11-07"
@@ -15806,7 +15876,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 14
     },
     {
         "id": 3,
