@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+7】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+5】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-07】 考物阁 02｜我有过一部「不善言辞」的手机](https://sspai.com/post/69647)
 * [【2021-11-06】 科普 | 从解决方案到底层实现：你的手机是这样进行睡眠监测的](https://sspai.com/post/67931)
 * [【2021-11-06】 新玩意 083｜少数派的作者们最近买了啥？](https://sspai.com/post/69704)
 * [【2021-11-05】 本周看什么 丨最近值得一看的 9 部作品](https://sspai.com/post/69699)
@@ -38,7 +39,6 @@
 * [【2021-11-05】 常用 Obsidian 处理中文长文？试试这些大幅提升体验的插件和代码片段](https://sspai.com/post/69628)
 * [【2021-11-05】 派早报：小米激光影院 2 4K 发布、魅族回应魅族 18 天气应用出现广告等](https://sspai.com/post/69688)
 * [【2021-11-04】 翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了](https://sspai.com/post/69671)
-* [【2021-11-04】 新玩意 082｜少数派的编辑们最近买了啥？](https://sspai.com/post/69673)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-07】 [Apple] 没想到遇到李鬼这种事情真的会发生在自己身上](https://www.v2ex.com/t/813655)
+* [【2021-11-07】 [职场话题] 立个志向，明年奔赴大厂。](https://www.v2ex.com/t/813651)
+* [【2021-11-07】 [问与答] 怎么定义开源项目呢？我用 Python 写的小工具也算开源项目吗？](https://www.v2ex.com/t/813650)
+* [【2021-11-07】 [macOS] Monterey 12.1 Beta 最近用起来经常卡顿](https://www.v2ex.com/t/813649)
+* [【2021-11-07】 [GitHub] Ai 自动编程： Github Copilot](https://www.v2ex.com/t/813647)
 * [【2021-11-07】 [程序员] Ai 自动编程： Github Copilot](https://www.v2ex.com/t/813647)
 * [【2021-11-07】 [问与答] 询问一个 Java 注解](https://www.v2ex.com/t/813645)
 * [【2021-11-07】 [iPhone] 苹果中国官网日前更新了 iPhone 使用手册，确认 iOS 15.1 中的指南针不再显示坐标、海拔等信息](https://www.v2ex.com/t/813643)
 * [【2021-11-07】 [Kubernetes] 请教 5 台物理机器（windows 10）想搭建一个 K8S 集群应该如何操作。比如使用什么平台，有什么注意事项吗？就是玩一玩用。查了下有 Rancher 和 Kubesphere 等，但是还没用过。谢谢](https://www.v2ex.com/t/813642)
 * [【2021-11-07】 [Go 编程语言] 切片作为参数传参，使用 append 后在函数内切边被修改了，而在主函数里面没有被改变](https://www.v2ex.com/t/813641)
-* [【2021-11-07】 [分享发现] 云闪付信用卡还款的 scheme url 是 upwallet://rn/rncredit](https://www.v2ex.com/t/813639)
-* [【2021-11-07】 [问与答] clash 有 iOS 的客户端么？](https://www.v2ex.com/t/813638)
-* [【2021-11-07】 [分享发现] 元宇宙：个人认为是一个更加没有节操的娱乐项目](https://www.v2ex.com/t/813636)
-* [【2021-11-07】 [iCloud] 共享帐号买的 ios App 里，如果有 iCloud 同步功能，有无影响？](https://www.v2ex.com/t/813635)
-* [【2021-11-07】 [酷工作] 求 VR 游戏客户端大佬加入](https://www.v2ex.com/t/813634)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-07 07:18:29
+:alarm_clock: 更新时间: 2021-11-07 08:22:49

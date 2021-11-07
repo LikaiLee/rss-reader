@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "考物阁 02｜我有过一部「不善言辞」的手机",
+                "link": "https://sspai.com/post/69647",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "科普 | 从解决方案到底层实现：你的手机是这样进行睡眠监测的",
                 "link": "https://sspai.com/post/67931",
                 "published": "2021-11-06"
@@ -448,13 +453,38 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] 没想到遇到李鬼这种事情真的会发生在自己身上",
+                "link": "https://www.v2ex.com/t/813655",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[职场话题] 立个志向，明年奔赴大厂。",
+                "link": "https://www.v2ex.com/t/813651",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 怎么定义开源项目呢？我用 Python 写的小工具也算开源项目吗？",
+                "link": "https://www.v2ex.com/t/813650",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[macOS] Monterey 12.1 Beta 最近用起来经常卡顿",
+                "link": "https://www.v2ex.com/t/813649",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[GitHub] Ai 自动编程： Github Copilot",
+                "link": "https://www.v2ex.com/t/813647",
+                "published": "2021-11-07"
+            },
             {
                 "title": "[程序员] Ai 自动编程： Github Copilot",
                 "link": "https://www.v2ex.com/t/813647",
@@ -15586,7 +15616,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 5
     },
     {
         "id": 3,

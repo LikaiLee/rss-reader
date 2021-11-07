@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-11-07  [Apple] 没想到遇到李鬼这种事情真的会发生在自己身上](https://www.v2ex.com/t/813655)
+* [2021-11-07  [职场话题] 立个志向，明年奔赴大厂。](https://www.v2ex.com/t/813651)
+* [2021-11-07  [问与答] 怎么定义开源项目呢？我用 Python 写的小工具也算开源项目吗？](https://www.v2ex.com/t/813650)
+* [2021-11-07  [macOS] Monterey 12.1 Beta 最近用起来经常卡顿](https://www.v2ex.com/t/813649)
+* [2021-11-07  [GitHub] Ai 自动编程： Github Copilot](https://www.v2ex.com/t/813647)
 * [2021-11-07  [程序员] Ai 自动编程： Github Copilot](https://www.v2ex.com/t/813647)
 * [2021-11-07  [问与答] 询问一个 Java 注解](https://www.v2ex.com/t/813645)
 * [2021-11-07  [iPhone] 苹果中国官网日前更新了 iPhone 使用手册，确认 iOS 15.1 中的指南针不再显示坐标、海拔等信息](https://www.v2ex.com/t/813643)
