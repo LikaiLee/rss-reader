@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+6】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-07】 [Hexo] hexo 像这样的系列文章是怎么弄的?](https://www.v2ex.com/t/813585)
+* [【2021-11-07】 [Visual Studio Code] Code Runner for VS Code，下载量突破 3000 万啦~](https://www.v2ex.com/t/813584)
+* [【2021-11-07】 [.NET] 现在 C# .Net Core 最好的社区是啥？中文的](https://www.v2ex.com/t/813583)
+* [【2021-11-07】 [职场话题] 聊聊今天遇到的小马仔 A](https://www.v2ex.com/t/813582)
+* [【2021-11-06】 [游戏] 作为一名 Dotaer 很羡慕隔壁 LOL](https://www.v2ex.com/t/813581)
+* [【2021-11-06】 [Android] setprop 设置 persist 属性值后怎么删除？](https://www.v2ex.com/t/813580)
 * [【2021-11-06】 [宽带症候群] rb5009 到手](https://www.v2ex.com/t/813579)
 * [【2021-11-06】 [NGINX] 分享：用 nginx 保护 wordpress 免受暴力破解](https://www.v2ex.com/t/813578)
 * [【2021-11-06】 [问与答] 为什么 b 站的 web 页面有两个版本？](https://www.v2ex.com/t/813577)
 * [【2021-11-06】 [问与答] 两个（或多个）正则表达式匹配其中任意一个应该怎么写？](https://www.v2ex.com/t/813576)
-* [【2021-11-06】 [程序员] 发现中文互联网上的好多页面都没有对 1080P 以上的分辨率优化](https://www.v2ex.com/t/813575)
-* [【2021-11-06】 [程序员] 我买了那个 SanDisk 号称最快速度的 SSD 移动硬盘， 1050MB 每秒，但我怎么只有 280M/s 左右？](https://www.v2ex.com/t/813573)
-* [【2021-11-06】 [DotA] 今夜，这就是假如 LGD 夺冠的感受吗？](https://www.v2ex.com/t/813572)
-* [【2021-11-06】 [程序员] 追踪与中断点陷阱 (核心已转储)，何解？](https://www.v2ex.com/t/813571)
-* [【2021-11-06】 [英雄联盟] EDG 夺冠了然后 QQ 群崩了](https://www.v2ex.com/t/813570)
-* [【2021-11-06】 [Apple] AOC 卢瓦尔 LV273HUPR 无法给 iPad mini6 充电](https://www.v2ex.com/t/813569)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-06 23:20:09
+:alarm_clock: 更新时间: 2021-11-07 01:06:38

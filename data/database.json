@@ -456,6 +456,36 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Hexo] hexo 像这样的系列文章是怎么弄的?",
+                "link": "https://www.v2ex.com/t/813585",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[Visual Studio Code] Code Runner for VS Code，下载量突破 3000 万啦~",
+                "link": "https://www.v2ex.com/t/813584",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[.NET] 现在 C# .Net Core 最好的社区是啥？中文的",
+                "link": "https://www.v2ex.com/t/813583",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[职场话题] 聊聊今天遇到的小马仔 A",
+                "link": "https://www.v2ex.com/t/813582",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[游戏] 作为一名 Dotaer 很羡慕隔壁 LOL",
+                "link": "https://www.v2ex.com/t/813581",
+                "published": "2021-11-06"
+            },
+            {
+                "title": "[Android] setprop 设置 persist 属性值后怎么删除？",
+                "link": "https://www.v2ex.com/t/813580",
+                "published": "2021-11-06"
+            },
+            {
                 "title": "[宽带症候群] rb5009 到手",
                 "link": "https://www.v2ex.com/t/813579",
                 "published": "2021-11-06"
@@ -15321,7 +15351,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     },
     {
         "id": 3,
