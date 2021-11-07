@@ -456,6 +456,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] Android12 现在能升级吗",
+                "link": "https://www.v2ex.com/t/813595",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[Python] 从 python2 升级到 python3 有没有一键式工具？",
+                "link": "https://www.v2ex.com/t/813593",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[推广] 腾讯云双 11 拉新活动-限前 100 个： 125 轻量 95 元/3 年起， 248 轻量 139 元/3 年起",
+                "link": "https://www.v2ex.com/t/813591",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[Apple] BaiduPCS-Go 限速还有什么好用的百度网盘客户端",
+                "link": "https://www.v2ex.com/t/813590",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[浏览器] 关于谷歌浏览器的自动填充的问题",
+                "link": "https://www.v2ex.com/t/813589",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[macOS] 求： macOS 上好用的支持批量一键美颜 / 修图的 App",
+                "link": "https://www.v2ex.com/t/813587",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] cloudcone 官网挂了？",
+                "link": "https://www.v2ex.com/t/813586",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[Hexo] hexo 像这样的系列文章是怎么弄的?",
                 "link": "https://www.v2ex.com/t/813585",
                 "published": "2021-11-07"
@@ -15351,7 +15386,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 7
     },
     {
         "id": 3,
