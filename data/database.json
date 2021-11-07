@@ -456,6 +456,36 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 测试机周未在公司被偷了，尤于找不到证据，公司让员工全额赔偿",
+                "link": "https://www.v2ex.com/t/813601",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[酷工作] [上海、杭州微盟内推] 前端、后端 Java 、测试大量 HC/base 20-50K",
+                "link": "https://www.v2ex.com/t/813600",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[机器学习] 有偿 求机器学习和 Python 辅导",
+                "link": "https://www.v2ex.com/t/813599",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] 有没有什么实验讨论 5W、10W、20W、… 的充电速度对锂电池寿命的影响？",
+                "link": "https://www.v2ex.com/t/813598",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[Android] 百倍变速--解码到底能不能丢 非参考帧 ？ FFmpeg 有话说！",
+                "link": "https://www.v2ex.com/t/813597",
+                "published": "2021-11-07"
+            },
+            {
+                "title": "[问与答] win11 稳定版啥时候能用上 Android 子系统呢？今年行吗？",
+                "link": "https://www.v2ex.com/t/813596",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[问与答] Android12 现在能升级吗",
                 "link": "https://www.v2ex.com/t/813595",
                 "published": "2021-11-07"
@@ -15386,7 +15416,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 6
     },
     {
         "id": 3,
