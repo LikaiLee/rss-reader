@@ -461,6 +461,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[浏览器] 求个 chrome 自动识别弹窗并点击关闭的插件或者代码",
+                "link": "https://www.v2ex.com/t/813739",
+                "published": "2021-11-07"
+            },
+            {
                 "title": "[Apple] 部分软件对“iCloud 同步”进行额外收费是否违反了 App Store 审核规范",
                 "link": "https://www.v2ex.com/t/813738",
                 "published": "2021-11-07"
@@ -15916,7 +15921,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 3,

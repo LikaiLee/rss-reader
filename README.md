@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,6 +48,7 @@
     </summary>
 
 
+* [【2021-11-07】 [浏览器] 求个 chrome 自动识别弹窗并点击关闭的插件或者代码](https://www.v2ex.com/t/813739)
 * [【2021-11-07】 [Apple] 部分软件对“iCloud 同步”进行额外收费是否违反了 App Store 审核规范](https://www.v2ex.com/t/813738)
 * [【2021-11-07】 [问与答] 大学生偶然获得了两千元人民币，拿来做什么好？](https://www.v2ex.com/t/813737)
 * [【2021-11-07】 [问与答] 什么是优质的理念？](https://www.v2ex.com/t/813736)
@@ -57,7 +58,6 @@
 * [【2021-11-07】 [Chrome] 请问 Chrome 打开关联程序怎么显示选择菜单](https://www.v2ex.com/t/813732)
 * [【2021-11-07】 [Android] Waifu2x-ncnn-vulkan 现已被移植到 Android|应用名 waifu2x ncnn](https://www.v2ex.com/t/813731)
 * [【2021-11-07】 [天黑以后] 20211108 午夜俱乐部](https://www.v2ex.com/t/813729)
-* [【2021-11-07】 [酷工作] [上海] 招多枚 Web 前端、 Java 后端工程师！让我们用技术提升整个行业的客户体验](https://www.v2ex.com/t/813727)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-07 20:19:53
+:alarm_clock: 更新时间: 2021-11-07 21:16:47
