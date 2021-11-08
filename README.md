@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+13】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+6】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-08】 上虞图书馆数字漫游：你的家乡或许也有一段传奇往事](https://sspai.com/post/69606)
 * [【2021-11-08】 派早报：大疆推出 DJI Mavic 3 无人机、蜂窝网络版 iPad mini 通过工信部入网认证等](https://sspai.com/post/69736)
 * [【2021-11-07】 考物阁 02｜我有过一部「不善言辞」的手机](https://sspai.com/post/69647)
 * [【2021-11-06】 科普 | 从解决方案到底层实现：你的手机是这样进行睡眠监测的](https://sspai.com/post/67931)
@@ -38,7 +39,6 @@
 * [【2021-11-05】 在虚拟世界找平衡：一次「逃离」社交网络的尝试](https://sspai.com/post/69565)
 * [【2021-11-05】 瞎玩菌的游戏周报：Apple「宣战」御三家、任天堂 VVIP 遭大量差评等](https://sspai.com/post/69670)
 * [【2021-11-05】 常用 Obsidian 处理中文长文？试试这些大幅提升体验的插件和代码片段](https://sspai.com/post/69628)
-* [【2021-11-05】 派早报：小米激光影院 2 4K 发布、魅族回应魅族 18 天气应用出现广告等](https://sspai.com/post/69688)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-08】 [问与答] 在西方国家翻录自己购买的专辑/书籍并在朋友间小范围传播是违法行为吗？](https://www.v2ex.com/t/813841)
+* [【2021-11-08】 [ WATCH] 把 Apple Watch 当作运动助手的老哥, 帮我看看](https://www.v2ex.com/t/813838)
+* [【2021-11-08】 [宽带症候群] ax88u 安装 clash 要下载哪个版本？](https://www.v2ex.com/t/813836)
+* [【2021-11-08】 [V2EX] chrome 访问不了 V2EX 了，但是 safari 可以](https://www.v2ex.com/t/813833)
+* [【2021-11-08】 [酷工作] 上海小公司招前端](https://www.v2ex.com/t/813832)
+* [【2021-11-08】 [分享发现] 在这个冬日，让你的 M1 Mac 系列快速热起来暖手手](https://www.v2ex.com/t/813830)
 * [【2021-11-08】 [问与答] 为什么 pytest 测试脚本不能用 Python 直接运行？ unittest 是可以的](https://www.v2ex.com/t/813829)
 * [【2021-11-08】 [微信] 为什么改微信号这么难？试了好几个 id，老是提示已被使用，明明没人用这些 ID](https://www.v2ex.com/t/813826)
 * [【2021-11-08】 [全球工单系统] 沃尔沃 XC60 雨刮臂与机舱盖磨损问题维权过程记录](https://www.v2ex.com/t/813823)
 * [【2021-11-08】 [iPhone] iPhone 的电池健康是个谜](https://www.v2ex.com/t/813822)
-* [【2021-11-08】 [iCloud] 不管是 App Store 还是 iCloud 同步都非常慢](https://www.v2ex.com/t/813821)
-* [【2021-11-08】 [云计算] 新品发布 | Cloudpods 3.8.4 版本上线！](https://www.v2ex.com/t/813820)
-* [【2021-11-08】 [Apple] Caldigit Connect 10G 雷电 3 转万兆网卡支持 M1 MBP 吗？](https://www.v2ex.com/t/813819)
-* [【2021-11-08】 [互联网] 如何不进入局域网的路由器就可以让局域网的客户端通过一个域名进行访问设备？](https://www.v2ex.com/t/813816)
-* [【2021-11-08】 [程序员] 如何计算应用/process 消耗的 IOPS](https://www.v2ex.com/t/813815)
-* [【2021-11-08】 [问与答] 游戏开发 VS 后端？](https://www.v2ex.com/t/813814)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-08 04:26:34
+:alarm_clock: 更新时间: 2021-11-08 05:18:13

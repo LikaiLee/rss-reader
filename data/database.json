@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "上虞图书馆数字漫游：你的家乡或许也有一段传奇往事",
+                "link": "https://sspai.com/post/69606",
+                "published": "2021-11-08"
+            },
+            {
                 "title": "派早报：大疆推出 DJI Mavic 3 无人机、蜂窝网络版 iPad mini 通过工信部入网认证等",
                 "link": "https://sspai.com/post/69736",
                 "published": "2021-11-08"
@@ -458,13 +463,43 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 在西方国家翻录自己购买的专辑/书籍并在朋友间小范围传播是违法行为吗？",
+                "link": "https://www.v2ex.com/t/813841",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[ WATCH] 把 Apple Watch 当作运动助手的老哥, 帮我看看",
+                "link": "https://www.v2ex.com/t/813838",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[宽带症候群] ax88u 安装 clash 要下载哪个版本？",
+                "link": "https://www.v2ex.com/t/813836",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[V2EX] chrome 访问不了 V2EX 了，但是 safari 可以",
+                "link": "https://www.v2ex.com/t/813833",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[酷工作] 上海小公司招前端",
+                "link": "https://www.v2ex.com/t/813832",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[分享发现] 在这个冬日，让你的 M1 Mac 系列快速热起来暖手手",
+                "link": "https://www.v2ex.com/t/813830",
+                "published": "2021-11-08"
+            },
             {
                 "title": "[问与答] 为什么 pytest 测试脚本不能用 Python 直接运行？ unittest 是可以的",
                 "link": "https://www.v2ex.com/t/813829",
@@ -16241,7 +16276,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 13
+        "new_feeds": 6
     },
     {
         "id": 3,
