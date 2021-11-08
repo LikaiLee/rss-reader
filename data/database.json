@@ -491,6 +491,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[CDN] 腾讯云 cdn 回源时，是回源节点和 客户端（浏览器）加起来两次请求嘛？",
+                "link": "https://www.v2ex.com/t/814019",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 怎么屏蔽 github 用户的项目",
+                "link": "https://www.v2ex.com/t/814018",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Python] Python API 框架, 内置文档生成, 参数检验",
+                "link": "https://www.v2ex.com/t/814017",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[推广] [软件] 命令行 1 步自动化安装软件，程序猿拿到新电脑第 1 个要安装的软件是什么呢？",
+                "link": "https://www.v2ex.com/t/814011",
+                "published": "2021-11-08"
+            },
+            {
                 "title": "[Windows] windows11，盘多了，就没那多小毛病了。随意聊几个。",
                 "link": "https://www.v2ex.com/t/814016",
                 "published": "2021-11-08"
@@ -16946,7 +16966,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 3,
