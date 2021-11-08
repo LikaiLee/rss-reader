@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+14】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+18】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-08】 一日一技｜修复 Zotero 与 Papership 的联动，恢复 WebDAV 云同步](https://sspai.com/post/69747)
 * [【2021-11-08】 上虞图书馆数字漫游：你的家乡或许也有一段传奇往事](https://sspai.com/post/69606)
 * [【2021-11-08】 派早报：大疆推出 DJI Mavic 3 无人机、蜂窝网络版 iPad mini 通过工信部入网认证等](https://sspai.com/post/69736)
 * [【2021-11-07】 考物阁 02｜我有过一部「不善言辞」的手机](https://sspai.com/post/69647)
@@ -38,7 +39,6 @@
 * [【2021-11-05】 少数派正版软件「双十一」来了，还有限时买赠活动等你选](https://sspai.com/post/69642)
 * [【2021-11-05】 在虚拟世界找平衡：一次「逃离」社交网络的尝试](https://sspai.com/post/69565)
 * [【2021-11-05】 瞎玩菌的游戏周报：Apple「宣战」御三家、任天堂 VVIP 遭大量差评等](https://sspai.com/post/69670)
-* [【2021-11-05】 常用 Obsidian 处理中文长文？试试这些大幅提升体验的插件和代码片段](https://sspai.com/post/69628)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-08】 [问与答] 抖音和快手会对视频进行相似度检测吗？](https://www.v2ex.com/t/813884)
-* [【2021-11-08】 [MacBook Pro] 2K 屏幕开启 hdpi 后效果怎么样](https://www.v2ex.com/t/813883)
-* [【2021-11-08】 [React] React Split Components：一种全新的 React 函数组件写法，再不需要 Hooks](https://www.v2ex.com/t/813881)
-* [【2021-11-08】 [MacBook Pro] 官网订单可以修改配置吗？](https://www.v2ex.com/t/813880)
-* [【2021-11-08】 [游戏] 如果刀剑封魔录这游戏重启该多好啊……](https://www.v2ex.com/t/813879)
-* [【2021-11-08】 [硬件] 持币 4K，求笔记本电脑推荐](https://www.v2ex.com/t/813876)
-* [【2021-11-08】 [问与答] 求电动车推荐](https://www.v2ex.com/t/813875)
-* [【2021-11-08】 [问与答] 有哪些不广为人知但是值得探索的社区或者论坛？](https://www.v2ex.com/t/813873)
-* [【2021-11-08】 [问与答] 服务器硬盘拔了重新插， raid 丢失了。。。](https://www.v2ex.com/t/813872)
-* [【2021-11-08】 [iCloud] iCloud 有没有类似 OneDrive “个人保管库” 功能？可以指定部分空间启用两步验证？](https://www.v2ex.com/t/813871)
+* [【2021-11-08】 [程序员] 求助， chrome 实验室的实验 API 接口地址有谁有吗](https://www.v2ex.com/t/813906)
+* [【2021-11-08】 [iPhone] 鉴于 iPhone 指南针政策，分享个海拔经纬度捷径](https://www.v2ex.com/t/813905)
+* [【2021-11-08】 [Apple] 有人在新的 M1 Pro/Max 上用过 ramdisk 测测内存盘存取文件的速度吗？](https://www.v2ex.com/t/813904)
+* [【2021-11-08】 [问与答] 大家有没有觉得 Cakebrew 有时候界面会卡顿？](https://www.v2ex.com/t/813903)
+* [【2021-11-08】 [酷工作] [上海] 米哈游内推 golang 工程师](https://www.v2ex.com/t/813902)
+* [【2021-11-08】 [买买买] 求推荐耳机，迫于办公环境是工厂，咣当咣当的，办公室还经常有人聊天，领导喜欢大声讲话。今天闪电接口的 EarPods 忘带了，这一天太难过了。](https://www.v2ex.com/t/813901)
+* [【2021-11-08】 [Apple] Mac 上有个第三方 app 可以空格键组合切换应用的叫啥来着](https://www.v2ex.com/t/813898)
+* [【2021-11-08】 [程序员] 游戏服务器和中间件](https://www.v2ex.com/t/813897)
+* [【2021-11-08】 [酷工作] 🔥🔥🔥[新加坡] 大型上市互联网公司，招移动端（iOS,安卓），前端开发，后端开发（不限开发语言），大数据开发， DevOps 或 SRE 及安全等各类工程师，各方向技术专家及技术负责人（P7-P9)，个税低，没有 996，中文视频面试。](https://www.v2ex.com/t/813896)
+* [【2021-11-08】 [Apple] iPhone13Pro 买来三个周，电池健康度 99%了](https://www.v2ex.com/t/813894)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-08 07:19:28
+:alarm_clock: 更新时间: 2021-11-08 08:24:05
