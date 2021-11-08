@@ -491,6 +491,26 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Android] 小.米.5.s.的.电.信.v.o.l.t.e.怎.么.弄？",
+                "link": "https://www.v2ex.com/t/814013",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[奇思妙想] 章鱼如果能等到基因突变的机会，会成为海上霸主吗？",
+                "link": "https://www.v2ex.com/t/814012",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[程序员] [软件] 命令行 1 步自动化安装软件，程序猿拿到新电脑第 1 个要安装的软件是什么呢？",
+                "link": "https://www.v2ex.com/t/814011",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[买买买] 笔电 1080p144hz，副屏 4k60 还是 2k144？",
+                "link": "https://www.v2ex.com/t/814010",
+                "published": "2021-11-08"
+            },
+            {
                 "title": "[MacBook Pro] MacBookPro18 年款套内胆包情况下从 50cm 高度摔下屏幕边框一侧着地",
                 "link": "https://www.v2ex.com/t/814008",
                 "published": "2021-11-08"
@@ -16911,7 +16931,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 3,
