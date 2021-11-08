@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+16】
+* [V2EX](#V2EX) 【+14】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-08】 [Go 编程语言] 为什么 Gin/Echo 框架在 TechEmpower 的框架性能排名这么低？](https://www.v2ex.com/t/813864)
-* [【2021-11-08】 [问与答] 如何办理一张香港卡](https://www.v2ex.com/t/813863)
-* [【2021-11-08】 [Linux] 高并发服务器 tcp 内核参数优化及对于连接池配置数量请教](https://www.v2ex.com/t/813862)
-* [【2021-11-08】 [硬件] 求大佬们来指点下，我这些配件还能卖多少钱 3600+5700XT](https://www.v2ex.com/t/813861)
-* [【2021-11-08】 [分享发现] 发现一个延长 apple watch 的好办法](https://www.v2ex.com/t/813860)
-* [【2021-11-08】 [分享创造] 新设计的 dotfiles 工具，管理部署更方便](https://www.v2ex.com/t/813859)
-* [【2021-11-08】 [Apple] M1 macOS 12.0.1 下感觉续航大幅缩水，电量肉眼可见往下掉](https://www.v2ex.com/t/813858)
-* [【2021-11-08】 [问与答] https 握手偶尔很慢，怎么破](https://www.v2ex.com/t/813857)
-* [【2021-11-08】 [服务器] 华为云双 11 全场 4 折](https://www.v2ex.com/t/813856)
-* [【2021-11-08】 [程序员] 静态博客 blog 想加留言评论 comment 功能有哪些途径？](https://www.v2ex.com/t/813853)
+* [【2021-11-08】 [问与答] 抖音和快手会对视频进行相似度检测吗？](https://www.v2ex.com/t/813884)
+* [【2021-11-08】 [MacBook Pro] 2K 屏幕开启 hdpi 后效果怎么样](https://www.v2ex.com/t/813883)
+* [【2021-11-08】 [React] React Split Components：一种全新的 React 函数组件写法，再不需要 Hooks](https://www.v2ex.com/t/813881)
+* [【2021-11-08】 [MacBook Pro] 官网订单可以修改配置吗？](https://www.v2ex.com/t/813880)
+* [【2021-11-08】 [游戏] 如果刀剑封魔录这游戏重启该多好啊……](https://www.v2ex.com/t/813879)
+* [【2021-11-08】 [硬件] 持币 4K，求笔记本电脑推荐](https://www.v2ex.com/t/813876)
+* [【2021-11-08】 [问与答] 求电动车推荐](https://www.v2ex.com/t/813875)
+* [【2021-11-08】 [问与答] 有哪些不广为人知但是值得探索的社区或者论坛？](https://www.v2ex.com/t/813873)
+* [【2021-11-08】 [问与答] 服务器硬盘拔了重新插， raid 丢失了。。。](https://www.v2ex.com/t/813872)
+* [【2021-11-08】 [iCloud] iCloud 有没有类似 OneDrive “个人保管库” 功能？可以指定部分空间启用两步验证？](https://www.v2ex.com/t/813871)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-08 06:24:37
+:alarm_clock: 更新时间: 2021-11-08 07:19:28

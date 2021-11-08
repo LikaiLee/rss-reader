@@ -471,6 +471,76 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 抖音和快手会对视频进行相似度检测吗？",
+                "link": "https://www.v2ex.com/t/813884",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[MacBook Pro] 2K 屏幕开启 hdpi 后效果怎么样",
+                "link": "https://www.v2ex.com/t/813883",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[React] React Split Components：一种全新的 React 函数组件写法，再不需要 Hooks",
+                "link": "https://www.v2ex.com/t/813881",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[MacBook Pro] 官网订单可以修改配置吗？",
+                "link": "https://www.v2ex.com/t/813880",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[游戏] 如果刀剑封魔录这游戏重启该多好啊……",
+                "link": "https://www.v2ex.com/t/813879",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[硬件] 持币 4K，求笔记本电脑推荐",
+                "link": "https://www.v2ex.com/t/813876",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 求电动车推荐",
+                "link": "https://www.v2ex.com/t/813875",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 有哪些不广为人知但是值得探索的社区或者论坛？",
+                "link": "https://www.v2ex.com/t/813873",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 服务器硬盘拔了重新插， raid 丢失了。。。",
+                "link": "https://www.v2ex.com/t/813872",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[iCloud] iCloud 有没有类似 OneDrive “个人保管库” 功能？可以指定部分空间启用两步验证？",
+                "link": "https://www.v2ex.com/t/813871",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 假如我像素级的拷贝一个网站，如知乎， 并把源代码开源，知乎能去法院告我吗？",
+                "link": "https://www.v2ex.com/t/813870",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[程序员] 有没有支持 TRIM 的 NVMe 硬盘盒？",
+                "link": "https://www.v2ex.com/t/813869",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Java] springboot 的 controller 的方法能用 static 修饰吗？有什么影响没？",
+                "link": "https://www.v2ex.com/t/813865",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[推广] 华为云双 11 全场 4 折",
+                "link": "https://www.v2ex.com/t/813856",
+                "published": "2021-11-08"
+            },
+            {
                 "title": "[Go 编程语言] 为什么 Gin/Echo 框架在 TechEmpower 的框架性能排名这么低？",
                 "link": "https://www.v2ex.com/t/813864",
                 "published": "2021-11-08"
@@ -16356,7 +16426,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 16
+        "new_feeds": 14
     },
     {
         "id": 3,

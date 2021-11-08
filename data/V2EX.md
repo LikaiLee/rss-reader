@@ -1,6 +1,20 @@
 # V2EX
 
 
+* [2021-11-08  [问与答] 抖音和快手会对视频进行相似度检测吗？](https://www.v2ex.com/t/813884)
+* [2021-11-08  [MacBook Pro] 2K 屏幕开启 hdpi 后效果怎么样](https://www.v2ex.com/t/813883)
+* [2021-11-08  [React] React Split Components：一种全新的 React 函数组件写法，再不需要 Hooks](https://www.v2ex.com/t/813881)
+* [2021-11-08  [MacBook Pro] 官网订单可以修改配置吗？](https://www.v2ex.com/t/813880)
+* [2021-11-08  [游戏] 如果刀剑封魔录这游戏重启该多好啊……](https://www.v2ex.com/t/813879)
+* [2021-11-08  [硬件] 持币 4K，求笔记本电脑推荐](https://www.v2ex.com/t/813876)
+* [2021-11-08  [问与答] 求电动车推荐](https://www.v2ex.com/t/813875)
+* [2021-11-08  [问与答] 有哪些不广为人知但是值得探索的社区或者论坛？](https://www.v2ex.com/t/813873)
+* [2021-11-08  [问与答] 服务器硬盘拔了重新插， raid 丢失了。。。](https://www.v2ex.com/t/813872)
+* [2021-11-08  [iCloud] iCloud 有没有类似 OneDrive “个人保管库” 功能？可以指定部分空间启用两步验证？](https://www.v2ex.com/t/813871)
+* [2021-11-08  [问与答] 假如我像素级的拷贝一个网站，如知乎， 并把源代码开源，知乎能去法院告我吗？](https://www.v2ex.com/t/813870)
+* [2021-11-08  [程序员] 有没有支持 TRIM 的 NVMe 硬盘盒？](https://www.v2ex.com/t/813869)
+* [2021-11-08  [Java] springboot 的 controller 的方法能用 static 修饰吗？有什么影响没？](https://www.v2ex.com/t/813865)
+* [2021-11-08  [推广] 华为云双 11 全场 4 折](https://www.v2ex.com/t/813856)
 * [2021-11-08  [Go 编程语言] 为什么 Gin/Echo 框架在 TechEmpower 的框架性能排名这么低？](https://www.v2ex.com/t/813864)
 * [2021-11-08  [问与答] 如何办理一张香港卡](https://www.v2ex.com/t/813863)
 * [2021-11-08  [Linux] 高并发服务器 tcp 内核参数优化及对于连接池配置数量请教](https://www.v2ex.com/t/813862)
