@@ -491,6 +491,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] MacBookPro18 年款套内胆包情况下从 50cm 高度摔下屏幕边框一侧着地",
+                "link": "https://www.v2ex.com/t/814008",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[全球工单系统] 美团/美团外卖 App 无法正常使用",
+                "link": "https://www.v2ex.com/t/814007",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[macOS] Mac 网页上的滚动条样式经常变化",
+                "link": "https://www.v2ex.com/t/814006",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[MacBook Pro] 免费更换键盘用过了, 现在又出现问题了还能免费维修吗?",
+                "link": "https://www.v2ex.com/t/814005",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[ WATCH] 买前提问，能自动记录运动吗？能自动检测睡眠吗？",
+                "link": "https://www.v2ex.com/t/814004",
+                "published": "2021-11-08"
+            },
+            {
                 "title": "[iPad] iPad pro M1 版掉电好快啊",
                 "link": "https://www.v2ex.com/t/814003",
                 "published": "2021-11-08"
@@ -16886,7 +16911,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 5
     },
     {
         "id": 3,

@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+10】
+* [V2EX](#V2EX) 【+5】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-08】 [MacBook Pro] MacBookPro18 年款套内胆包情况下从 50cm 高度摔下屏幕边框一侧着地](https://www.v2ex.com/t/814008)
+* [【2021-11-08】 [全球工单系统] 美团/美团外卖 App 无法正常使用](https://www.v2ex.com/t/814007)
+* [【2021-11-08】 [macOS] Mac 网页上的滚动条样式经常变化](https://www.v2ex.com/t/814006)
+* [【2021-11-08】 [MacBook Pro] 免费更换键盘用过了, 现在又出现问题了还能免费维修吗?](https://www.v2ex.com/t/814005)
+* [【2021-11-08】 [ WATCH] 买前提问，能自动记录运动吗？能自动检测睡眠吗？](https://www.v2ex.com/t/814004)
 * [【2021-11-08】 [iPad] iPad pro M1 版掉电好快啊](https://www.v2ex.com/t/814003)
 * [【2021-11-08】 [Windows] win11 bug 真绝了！鼠标键盘都没碰的情况下，任务管理器自己蹦出来了……](https://www.v2ex.com/t/814001)
 * [【2021-11-08】 [Apple] 支付宝晚上 10:00 到早上 8:00 之间收不到任何推送？](https://www.v2ex.com/t/814000)
 * [【2021-11-08】 [Apple] iPad 能连 carplay 么](https://www.v2ex.com/t/813999)
 * [【2021-11-08】 [Android] 关于 Android 原生系统的想法~](https://www.v2ex.com/t/813998)
-* [【2021-11-08】 [iPhone] 越狱后换机旧手机数据如何安全跟较为完整（除越狱外的数据）的迁移到新手机呢？](https://www.v2ex.com/t/813997)
-* [【2021-11-08】 [微信] 上海的程序员技术交流群（技术、内推、生活）](https://www.v2ex.com/t/813996)
-* [【2021-11-08】 [问与答] 现在 115 11.5 年大概什么行情?](https://www.v2ex.com/t/813995)
-* [【2021-11-08】 [职场话题] 关于一个跳槽的问题](https://www.v2ex.com/t/813976)
-* [【2021-11-08】 [Windows] 突然发现 NTFS 的簇大小居然有这种限制](https://www.v2ex.com/t/813965)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-08 16:31:45
+:alarm_clock: 更新时间: 2021-11-08 17:25:30

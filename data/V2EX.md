@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-11-08  [MacBook Pro] MacBookPro18 年款套内胆包情况下从 50cm 高度摔下屏幕边框一侧着地](https://www.v2ex.com/t/814008)
+* [2021-11-08  [全球工单系统] 美团/美团外卖 App 无法正常使用](https://www.v2ex.com/t/814007)
+* [2021-11-08  [macOS] Mac 网页上的滚动条样式经常变化](https://www.v2ex.com/t/814006)
+* [2021-11-08  [MacBook Pro] 免费更换键盘用过了, 现在又出现问题了还能免费维修吗?](https://www.v2ex.com/t/814005)
+* [2021-11-08  [ WATCH] 买前提问，能自动记录运动吗？能自动检测睡眠吗？](https://www.v2ex.com/t/814004)
 * [2021-11-08  [iPad] iPad pro M1 版掉电好快啊](https://www.v2ex.com/t/814003)
 * [2021-11-08  [Windows] win11 bug 真绝了！鼠标键盘都没碰的情况下，任务管理器自己蹦出来了……](https://www.v2ex.com/t/814001)
 * [2021-11-08  [Apple] 支付宝晚上 10:00 到早上 8:00 之间收不到任何推送？](https://www.v2ex.com/t/814000)
