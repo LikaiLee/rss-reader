@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+10】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-08】 [问与答] 这样 nginx 动态转发？](https://www.v2ex.com/t/813968)
+* [【2021-11-08】 [酷工作] [武汉] 路特斯科技招聘 前端/ Java 包中餐晚餐 全额社保公积金](https://www.v2ex.com/t/813967)
+* [【2021-11-08】 [机械键盘] 突然发现 NTFS 的簇大小居然有这种限制](https://www.v2ex.com/t/813965)
+* [【2021-11-08】 [问与答] 是否有单层大桌面的桌上升降台？看到市面上满足大小的都是双层设计](https://www.v2ex.com/t/813963)
+* [【2021-11-08】 [问与答] 请教 css 问题：两个 button 怎么连在一起，中间没有空隙](https://www.v2ex.com/t/813962)
+* [【2021-11-08】 [DevOps] 问下各位 v 友，零基础转行功能测试的， 3 个月了不会写测试用例，这正常吗？](https://www.v2ex.com/t/813958)
+* [【2021-11-08】 [职场话题] 10 月应聘记录](https://www.v2ex.com/t/813940)
 * [【2021-11-08】 [问与答] cn.engadget.com 怎么不能访问？](https://www.v2ex.com/t/813961)
 * [【2021-11-08】 [macOS] 本以为消失的 Bug 又回来了（声音左右平衡自动变更）](https://www.v2ex.com/t/813960)
 * [【2021-11-08】 [ WATCH] 用 Apple Watch 接电话，正在播放的音频不会暂停，你们也会这样吗？](https://www.v2ex.com/t/813959)
-* [【2021-11-08】 [酷工作] 问下各位 v 友，零基础转行功能测试的， 3 个月了不会写测试用例，这正常吗？](https://www.v2ex.com/t/813958)
-* [【2021-11-08】 [程序员] 请教一个 ssh 问题](https://www.v2ex.com/t/813957)
-* [【2021-11-08】 [Kubernetes] Elasticsearch On K8S 大家有用到吗，存储怎么解决的](https://www.v2ex.com/t/813956)
-* [【2021-11-08】 [问与答] github 账号被 flagged 后又什么影响](https://www.v2ex.com/t/813955)
-* [【2021-11-08】 [职场话题] o(︶︿︶)o 唉，上班老是迟到，怎么破？](https://www.v2ex.com/t/813954)
-* [【2021-11-08】 [程序员] 有偿-爬虫模拟登录问题](https://www.v2ex.com/t/813953)
-* [【2021-11-08】 [Go 编程语言] etcd 一次性插入大量数据导致超时](https://www.v2ex.com/t/813952)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-08 11:16:46
+:alarm_clock: 更新时间: 2021-11-08 12:31:51

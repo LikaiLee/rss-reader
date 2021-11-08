@@ -483,13 +483,48 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 这样 nginx 动态转发？",
+                "link": "https://www.v2ex.com/t/813968",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[酷工作] [武汉] 路特斯科技招聘 前端/ Java 包中餐晚餐 全额社保公积金",
+                "link": "https://www.v2ex.com/t/813967",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[机械键盘] 突然发现 NTFS 的簇大小居然有这种限制",
+                "link": "https://www.v2ex.com/t/813965",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 是否有单层大桌面的桌上升降台？看到市面上满足大小的都是双层设计",
+                "link": "https://www.v2ex.com/t/813963",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 请教 css 问题：两个 button 怎么连在一起，中间没有空隙",
+                "link": "https://www.v2ex.com/t/813962",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[DevOps] 问下各位 v 友，零基础转行功能测试的， 3 个月了不会写测试用例，这正常吗？",
+                "link": "https://www.v2ex.com/t/813958",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[职场话题] 10 月应聘记录",
+                "link": "https://www.v2ex.com/t/813940",
+                "published": "2021-11-08"
+            },
             {
                 "title": "[问与答] cn.engadget.com 怎么不能访问？",
                 "link": "https://www.v2ex.com/t/813961",
@@ -16711,7 +16746,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 7
     },
     {
         "id": 3,
