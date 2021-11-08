@@ -458,13 +458,118 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] Watch 上 App 莫名被禁用网络的问题（寻找钻研思考的解决方案）",
+                "link": "https://www.v2ex.com/t/813806",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 怎么查到某个城市的手机号的中间 4 位是什么数据？",
+                "link": "https://www.v2ex.com/t/813805",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 你们园区开空调了吗？",
+                "link": "https://www.v2ex.com/t/813804",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[路由器] 还能买到能驾驭这个校园网的路由器吗？？",
+                "link": "https://www.v2ex.com/t/813803",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[程序员] 请教大家关于阿里 OSS 签名的一些问题，感谢感谢",
+                "link": "https://www.v2ex.com/t/813802",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 为什么打不开 v2 的某贴的内容呢",
+                "link": "https://www.v2ex.com/t/813800",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[分享创造] 做了个 PC 端阅读公众号文章，订阅公众号的网站，欢迎使用",
+                "link": "https://www.v2ex.com/t/813799",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[分享发现] TG DC 分析报告： TG 存在 DC2、3 的用户， DC2、3 分别为 DC4、1 的附属 DC",
+                "link": "https://www.v2ex.com/t/813798",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[摄影] 尼康 Z62，松下 S5，索尼 A73 怎么选？",
+                "link": "https://www.v2ex.com/t/813796",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[职场话题] 想问一下大家现在找工作投简历的正确姿势是什么",
+                "link": "https://www.v2ex.com/t/813795",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[硬件] 神奇，罗技优联无线鼠标跟有线键盘同时卡顿，到底是 macOS 的问题还是无线信号干扰？",
+                "link": "https://www.v2ex.com/t/813794",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Apple] MBP 定制版，已经准备发货 4 天了，还没发出来，有同样的朋友吗？",
+                "link": "https://www.v2ex.com/t/813793",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[CSS] 我不知道是不是对于 div 的嵌套，以及 flex 的使用，有点理解不够！焦虑万分！写了一个 codesandbox，请教一下大神们",
+                "link": "https://www.v2ex.com/t/813792",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[健康] 迫于健身，求推荐 keep 替代 app",
+                "link": "https://www.v2ex.com/t/813790",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 为什么手机收不到 Microsoft Power Automate 的消息通知？",
+                "link": "https://www.v2ex.com/t/813789",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] M1 Mac mini launchd 进程每隔几分钟就大量读写移动硬盘，怎解？",
+                "link": "https://www.v2ex.com/t/813787",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[反馈] 建议 V2EX 在帖子里有被 Block 用户的回复的情况下，按照实际的回复数量显示回复编号",
+                "link": "https://www.v2ex.com/t/813785",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 请问现在 M1 芯片还能如何侧载 iOS 的 app",
+                "link": "https://www.v2ex.com/t/813784",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[MacBook Pro] mbp pro 有必要上 32g 嘛",
+                "link": "https://www.v2ex.com/t/813783",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[程序员] 感觉在中小公司，很难不写出屎山代码",
+                "link": "https://www.v2ex.com/t/813782",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 电脑用了多年，最近发现一段时间不使用，就不通电了",
+                "link": "https://www.v2ex.com/t/813781",
+                "published": "2021-11-08"
+            },
             {
                 "title": "[问与答] 请问一下电信 500M 的专线的上行是多少? 我公司这个说是专线,帮我看看",
                 "link": "https://www.v2ex.com/t/813780",
@@ -16071,13 +16176,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 20
+        "new_feeds": 21
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "酱香型、浓香型、清香型、兼香型白酒到底有什么区别？",
+                "link": "http://www.zhihu.com/question/20828281/answer/2207830954?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-08"
+            },
             {
                 "title": "国内有哪些适合度假的酒店？",
                 "link": "http://www.zhihu.com/question/303023687/answer/2206724842?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -16544,6 +16654,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

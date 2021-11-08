@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+20】
-* [知乎每日精选](#知乎每日精选)
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+21】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-08】 [问与答] 请问一下电信 500M 的专线的上行是多少? 我公司这个说是专线,帮我看看](https://www.v2ex.com/t/813780)
-* [【2021-11-08】 [问与答] 无线电动拖把用过的来聊聊](https://www.v2ex.com/t/813778)
-* [【2021-11-08】 [macOS] 如何关闭 Chrome 的前进后退手势操作](https://www.v2ex.com/t/813777)
-* [【2021-11-08】 [Apple] 苹果有个伟大的地方](https://www.v2ex.com/t/813776)
-* [【2021-11-08】 [问与答] 这个远程工作是否值得接？](https://www.v2ex.com/t/813775)
-* [【2021-11-08】 [知乎] 长期伏坐，胃部胀气，如何改善](https://www.v2ex.com/t/813774)
-* [【2021-11-08】 [MacBook Pro] M1 macbook pro 升级 macOS 12.0.1 出现的几个问题](https://www.v2ex.com/t/813773)
-* [【2021-11-08】 [问与答] 网络小白求问，为什么修改了 DNS 服务器地址，就可以访问一些墙外的网站了？](https://www.v2ex.com/t/813772)
-* [【2021-11-08】 [JavaScript] 有一个关于 mathJax 中根号的问题](https://www.v2ex.com/t/813770)
-* [【2021-11-08】 [Java] 求帮忙设计代码 关于异步线程的开启和暂停](https://www.v2ex.com/t/813768)
+* [【2021-11-08】 [Apple] Watch 上 App 莫名被禁用网络的问题（寻找钻研思考的解决方案）](https://www.v2ex.com/t/813806)
+* [【2021-11-08】 [问与答] 怎么查到某个城市的手机号的中间 4 位是什么数据？](https://www.v2ex.com/t/813805)
+* [【2021-11-08】 [问与答] 你们园区开空调了吗？](https://www.v2ex.com/t/813804)
+* [【2021-11-08】 [路由器] 还能买到能驾驭这个校园网的路由器吗？？](https://www.v2ex.com/t/813803)
+* [【2021-11-08】 [程序员] 请教大家关于阿里 OSS 签名的一些问题，感谢感谢](https://www.v2ex.com/t/813802)
+* [【2021-11-08】 [问与答] 为什么打不开 v2 的某贴的内容呢](https://www.v2ex.com/t/813800)
+* [【2021-11-08】 [分享创造] 做了个 PC 端阅读公众号文章，订阅公众号的网站，欢迎使用](https://www.v2ex.com/t/813799)
+* [【2021-11-08】 [分享发现] TG DC 分析报告： TG 存在 DC2、3 的用户， DC2、3 分别为 DC4、1 的附属 DC](https://www.v2ex.com/t/813798)
+* [【2021-11-08】 [摄影] 尼康 Z62，松下 S5，索尼 A73 怎么选？](https://www.v2ex.com/t/813796)
+* [【2021-11-08】 [职场话题] 想问一下大家现在找工作投简历的正确姿势是什么](https://www.v2ex.com/t/813795)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -67,6 +67,7 @@
     </summary>
 
 
+* [【2021-11-08】 酱香型、浓香型、清香型、兼香型白酒到底有什么区别？](http://www.zhihu.com/question/20828281/answer/2207830954?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-05】 国内有哪些适合度假的酒店？](http://www.zhihu.com/question/303023687/answer/2206724842?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-04】 官宣：电视剧《和平之舟》定档央视一套黄金时间播出！](http://zhuanlan.zhihu.com/p/428672087?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-04】 中国当代年轻人是如何看待并认识抗美援朝战争？](http://www.zhihu.com/question/421031649/answer/2205192080?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -76,7 +77,6 @@
 * [【2021-11-02】 中国实现连续丰收 18 年，你如何看待这一喜讯？「中国饭碗」到底有多硬？](http://www.zhihu.com/question/496056671/answer/2202456757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-02】 如何评价国产动画《识夜描银》？](http://www.zhihu.com/question/489702836/answer/2202420660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-02】 我国首部「个人信息保护法」实施，买卖个人信息最高可判七年，个人信息包括什么？这部法律有哪些积极意义？](http://www.zhihu.com/question/495846558/answer/2201845815?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-10-30】 2021 年 10 月国内有哪些「秋日限定」美景？](http://www.zhihu.com/question/491188382/answer/2160132383?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-08 02:32:21
+:alarm_clock: 更新时间: 2021-11-08 03:21:16
