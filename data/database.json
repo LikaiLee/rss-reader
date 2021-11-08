@@ -491,6 +491,56 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[iPad] iPad pro M1 版掉电好快啊",
+                "link": "https://www.v2ex.com/t/814003",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Windows] win11 bug 真绝了！鼠标键盘都没碰的情况下，任务管理器自己蹦出来了……",
+                "link": "https://www.v2ex.com/t/814001",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Apple] 支付宝晚上 10:00 到早上 8:00 之间收不到任何推送？",
+                "link": "https://www.v2ex.com/t/814000",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Apple] iPad 能连 carplay 么",
+                "link": "https://www.v2ex.com/t/813999",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Android] 关于 Android 原生系统的想法~",
+                "link": "https://www.v2ex.com/t/813998",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[iPhone] 越狱后换机旧手机数据如何安全跟较为完整（除越狱外的数据）的迁移到新手机呢？",
+                "link": "https://www.v2ex.com/t/813997",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[微信] 上海的程序员技术交流群（技术、内推、生活）",
+                "link": "https://www.v2ex.com/t/813996",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 现在 115 11.5 年大概什么行情?",
+                "link": "https://www.v2ex.com/t/813995",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[职场话题] 关于一个跳槽的问题",
+                "link": "https://www.v2ex.com/t/813976",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Windows] 突然发现 NTFS 的簇大小居然有这种限制",
+                "link": "https://www.v2ex.com/t/813965",
+                "published": "2021-11-08"
+            },
+            {
                 "title": "[职场话题] [欧洲]职场群",
                 "link": "https://www.v2ex.com/t/813994",
                 "published": "2021-11-08"
@@ -16836,7 +16886,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 10
     },
     {
         "id": 3,
