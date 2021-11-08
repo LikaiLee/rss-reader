@@ -491,6 +491,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Windows] windows11，盘多了，就没那多小毛病了。随意聊几个。",
+                "link": "https://www.v2ex.com/t/814016",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Web3] 新节点第一个主题",
+                "link": "https://www.v2ex.com/t/814015",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] N1 盒子还有没有什么其他的玩法？",
+                "link": "https://www.v2ex.com/t/814014",
+                "published": "2021-11-08"
+            },
+            {
                 "title": "[Android] 小.米.5.s.的.电.信.v.o.l.t.e.怎.么.弄？",
                 "link": "https://www.v2ex.com/t/814013",
                 "published": "2021-11-08"
@@ -16931,7 +16946,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 3,

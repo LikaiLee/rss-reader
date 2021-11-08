@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+4】
+* [V2EX](#V2EX) 【+3】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,6 +48,9 @@
     </summary>
 
 
+* [【2021-11-08】 [Windows] windows11，盘多了，就没那多小毛病了。随意聊几个。](https://www.v2ex.com/t/814016)
+* [【2021-11-08】 [Web3] 新节点第一个主题](https://www.v2ex.com/t/814015)
+* [【2021-11-08】 [问与答] N1 盒子还有没有什么其他的玩法？](https://www.v2ex.com/t/814014)
 * [【2021-11-08】 [Android] 小.米.5.s.的.电.信.v.o.l.t.e.怎.么.弄？](https://www.v2ex.com/t/814013)
 * [【2021-11-08】 [奇思妙想] 章鱼如果能等到基因突变的机会，会成为海上霸主吗？](https://www.v2ex.com/t/814012)
 * [【2021-11-08】 [程序员] [软件] 命令行 1 步自动化安装软件，程序猿拿到新电脑第 1 个要安装的软件是什么呢？](https://www.v2ex.com/t/814011)
@@ -55,9 +58,6 @@
 * [【2021-11-08】 [MacBook Pro] MacBookPro18 年款套内胆包情况下从 50cm 高度摔下屏幕边框一侧着地](https://www.v2ex.com/t/814008)
 * [【2021-11-08】 [全球工单系统] 美团/美团外卖 App 无法正常使用](https://www.v2ex.com/t/814007)
 * [【2021-11-08】 [macOS] Mac 网页上的滚动条样式经常变化](https://www.v2ex.com/t/814006)
-* [【2021-11-08】 [MacBook Pro] 免费更换键盘用过了, 现在又出现问题了还能免费维修吗?](https://www.v2ex.com/t/814005)
-* [【2021-11-08】 [ WATCH] 买前提问，能自动记录运动吗？能自动检测睡眠吗？](https://www.v2ex.com/t/814004)
-* [【2021-11-08】 [iPad] iPad pro M1 版掉电好快啊](https://www.v2ex.com/t/814003)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-08 18:23:32
+:alarm_clock: 更新时间: 2021-11-08 19:15:54
