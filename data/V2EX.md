@@ -1,6 +1,21 @@
 # V2EX
 
 
+* [2021-11-08  [Apple] 新 MacBook Pro 偶尔会出现屏幕亮度自动调节到很暗的状况](https://www.v2ex.com/t/813934)
+* [2021-11-08  [Qt] 为什么 ListView 没有随窗口大小自适应缩放？](https://www.v2ex.com/t/813932)
+* [2021-11-08  [宽带症候群] 求教魔法上网速度慢问题。](https://www.v2ex.com/t/813929)
+* [2021-11-08  [程序员] 通过 windows 任务栏图标启动的程序，如何设定该程序运行时的环境变量](https://www.v2ex.com/t/813928)
+* [2021-11-08  [分享发现] 分享快乐——安利有趣的 2 个视频，快下班了路上可以点开看一眼，生活多点欢笑！](https://www.v2ex.com/t/813926)
+* [2021-11-08  [ WATCH] 求推荐品质稍微高一点的第三方表带店铺-Apple watch](https://www.v2ex.com/t/813925)
+* [2021-11-08  [Go 编程语言] go 运行环境一般是 windows, 还是 Linux ?](https://www.v2ex.com/t/813922)
+* [2021-11-08  [Vue.js] 估计是老问题了， vue 在组件中 created 里用 ajax 或者 axios 请求数据，但是数据在 mounted 前没返回](https://www.v2ex.com/t/813921)
+* [2021-11-08  [酷工作] 杭州未来科技城 · 袋鼠云 · Node 开发工程师](https://www.v2ex.com/t/813920)
+* [2021-11-08  [iOS] 有关 iOS 越狱的问题请教](https://www.v2ex.com/t/813919)
+* [2021-11-08  [酷工作] [杭州][校招/社招][15K-30K][前端][965] 从零开始打造时序数据库 Web 管理界面及 VSCode 插件， DolphinDB 智臾科技招前端啦！](https://www.v2ex.com/t/813918)
+* [2021-11-08  [iPhone] 你们见过电池健康度最低是多少？](https://www.v2ex.com/t/813915)
+* [2021-11-08  [macOS] m1 mba 升级 12.0.1 后 safari 的问题](https://www.v2ex.com/t/813913)
+* [2021-11-08  [Apple] M1 MBA 升级 mac monterey 后 fcpx 速度变慢了](https://www.v2ex.com/t/813912)
+* [2021-11-08  [iPhone] 你们的 13promax 屏幕发黄吗](https://www.v2ex.com/t/813909)
 * [2021-11-08  [程序员] 求助， chrome 实验室的实验 API 接口地址有谁有吗](https://www.v2ex.com/t/813906)
 * [2021-11-08  [iPhone] 鉴于 iPhone 指南针政策，分享个海拔经纬度捷径](https://www.v2ex.com/t/813905)
 * [2021-11-08  [Apple] 有人在新的 M1 Pro/Max 上用过 ramdisk 测测内存盘存取文件的速度吗？](https://www.v2ex.com/t/813904)

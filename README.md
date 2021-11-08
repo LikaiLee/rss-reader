@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+18】
+* [V2EX](#V2EX) 【+15】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-08】 双十一选对拓展坞，你可以从这两个角度入手](https://sspai.com/post/69701)
 * [【2021-11-08】 一日一技｜修复 Zotero 与 Papership 的联动，恢复 WebDAV 云同步](https://sspai.com/post/69747)
 * [【2021-11-08】 上虞图书馆数字漫游：你的家乡或许也有一段传奇往事](https://sspai.com/post/69606)
 * [【2021-11-08】 派早报：大疆推出 DJI Mavic 3 无人机、蜂窝网络版 iPad mini 通过工信部入网认证等](https://sspai.com/post/69736)
@@ -38,7 +39,6 @@
 * [【2021-11-05】 本周看什么 丨最近值得一看的 9 部作品](https://sspai.com/post/69699)
 * [【2021-11-05】 少数派正版软件「双十一」来了，还有限时买赠活动等你选](https://sspai.com/post/69642)
 * [【2021-11-05】 在虚拟世界找平衡：一次「逃离」社交网络的尝试](https://sspai.com/post/69565)
-* [【2021-11-05】 瞎玩菌的游戏周报：Apple「宣战」御三家、任天堂 VVIP 遭大量差评等](https://sspai.com/post/69670)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-08】 [程序员] 求助， chrome 实验室的实验 API 接口地址有谁有吗](https://www.v2ex.com/t/813906)
-* [【2021-11-08】 [iPhone] 鉴于 iPhone 指南针政策，分享个海拔经纬度捷径](https://www.v2ex.com/t/813905)
-* [【2021-11-08】 [Apple] 有人在新的 M1 Pro/Max 上用过 ramdisk 测测内存盘存取文件的速度吗？](https://www.v2ex.com/t/813904)
-* [【2021-11-08】 [问与答] 大家有没有觉得 Cakebrew 有时候界面会卡顿？](https://www.v2ex.com/t/813903)
-* [【2021-11-08】 [酷工作] [上海] 米哈游内推 golang 工程师](https://www.v2ex.com/t/813902)
-* [【2021-11-08】 [买买买] 求推荐耳机，迫于办公环境是工厂，咣当咣当的，办公室还经常有人聊天，领导喜欢大声讲话。今天闪电接口的 EarPods 忘带了，这一天太难过了。](https://www.v2ex.com/t/813901)
-* [【2021-11-08】 [Apple] Mac 上有个第三方 app 可以空格键组合切换应用的叫啥来着](https://www.v2ex.com/t/813898)
-* [【2021-11-08】 [程序员] 游戏服务器和中间件](https://www.v2ex.com/t/813897)
-* [【2021-11-08】 [酷工作] 🔥🔥🔥[新加坡] 大型上市互联网公司，招移动端（iOS,安卓），前端开发，后端开发（不限开发语言），大数据开发， DevOps 或 SRE 及安全等各类工程师，各方向技术专家及技术负责人（P7-P9)，个税低，没有 996，中文视频面试。](https://www.v2ex.com/t/813896)
-* [【2021-11-08】 [Apple] iPhone13Pro 买来三个周，电池健康度 99%了](https://www.v2ex.com/t/813894)
+* [【2021-11-08】 [Apple] 新 MacBook Pro 偶尔会出现屏幕亮度自动调节到很暗的状况](https://www.v2ex.com/t/813934)
+* [【2021-11-08】 [Qt] 为什么 ListView 没有随窗口大小自适应缩放？](https://www.v2ex.com/t/813932)
+* [【2021-11-08】 [宽带症候群] 求教魔法上网速度慢问题。](https://www.v2ex.com/t/813929)
+* [【2021-11-08】 [程序员] 通过 windows 任务栏图标启动的程序，如何设定该程序运行时的环境变量](https://www.v2ex.com/t/813928)
+* [【2021-11-08】 [分享发现] 分享快乐——安利有趣的 2 个视频，快下班了路上可以点开看一眼，生活多点欢笑！](https://www.v2ex.com/t/813926)
+* [【2021-11-08】 [ WATCH] 求推荐品质稍微高一点的第三方表带店铺-Apple watch](https://www.v2ex.com/t/813925)
+* [【2021-11-08】 [Go 编程语言] go 运行环境一般是 windows, 还是 Linux ?](https://www.v2ex.com/t/813922)
+* [【2021-11-08】 [Vue.js] 估计是老问题了， vue 在组件中 created 里用 ajax 或者 axios 请求数据，但是数据在 mounted 前没返回](https://www.v2ex.com/t/813921)
+* [【2021-11-08】 [酷工作] 杭州未来科技城 · 袋鼠云 · Node 开发工程师](https://www.v2ex.com/t/813920)
+* [【2021-11-08】 [iOS] 有关 iOS 越狱的问题请教](https://www.v2ex.com/t/813919)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-08 08:24:05
+:alarm_clock: 更新时间: 2021-11-08 09:20:39
