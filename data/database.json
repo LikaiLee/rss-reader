@@ -466,6 +466,71 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 为什么 pytest 测试脚本不能用 Python 直接运行？ unittest 是可以的",
+                "link": "https://www.v2ex.com/t/813829",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[微信] 为什么改微信号这么难？试了好几个 id，老是提示已被使用，明明没人用这些 ID",
+                "link": "https://www.v2ex.com/t/813826",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[全球工单系统] 沃尔沃 XC60 雨刮臂与机舱盖磨损问题维权过程记录",
+                "link": "https://www.v2ex.com/t/813823",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[iPhone] iPhone 的电池健康是个谜",
+                "link": "https://www.v2ex.com/t/813822",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[iCloud] 不管是 App Store 还是 iCloud 同步都非常慢",
+                "link": "https://www.v2ex.com/t/813821",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[云计算] 新品发布 | Cloudpods 3.8.4 版本上线！",
+                "link": "https://www.v2ex.com/t/813820",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Apple] Caldigit Connect 10G 雷电 3 转万兆网卡支持 M1 MBP 吗？",
+                "link": "https://www.v2ex.com/t/813819",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[互联网] 如何不进入局域网的路由器就可以让局域网的客户端通过一个域名进行访问设备？",
+                "link": "https://www.v2ex.com/t/813816",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[程序员] 如何计算应用/process 消耗的 IOPS",
+                "link": "https://www.v2ex.com/t/813815",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 游戏开发 VS 后端？",
+                "link": "https://www.v2ex.com/t/813814",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[程序员] 有用过阿里云的 polarDB 的吗？",
+                "link": "https://www.v2ex.com/t/813812",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[macOS] 和各位大佬探讨下 mac 全键盘工作的技巧",
+                "link": "https://www.v2ex.com/t/813811",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] v2 有主题屏蔽功能吗，最近 apple 的内容太多，不想看了",
+                "link": "https://www.v2ex.com/t/813810",
+                "published": "2021-11-08"
+            },
+            {
                 "title": "[Apple] Watch 上 App 莫名被禁用网络的问题（寻找钻研思考的解决方案）",
                 "link": "https://www.v2ex.com/t/813806",
                 "published": "2021-11-08"
@@ -16176,7 +16241,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 21
+        "new_feeds": 13
     },
     {
         "id": 3,
@@ -16654,6 +16719,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

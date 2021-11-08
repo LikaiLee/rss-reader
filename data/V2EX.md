@@ -1,6 +1,19 @@
 # V2EX
 
 
+* [2021-11-08  [问与答] 为什么 pytest 测试脚本不能用 Python 直接运行？ unittest 是可以的](https://www.v2ex.com/t/813829)
+* [2021-11-08  [微信] 为什么改微信号这么难？试了好几个 id，老是提示已被使用，明明没人用这些 ID](https://www.v2ex.com/t/813826)
+* [2021-11-08  [全球工单系统] 沃尔沃 XC60 雨刮臂与机舱盖磨损问题维权过程记录](https://www.v2ex.com/t/813823)
+* [2021-11-08  [iPhone] iPhone 的电池健康是个谜](https://www.v2ex.com/t/813822)
+* [2021-11-08  [iCloud] 不管是 App Store 还是 iCloud 同步都非常慢](https://www.v2ex.com/t/813821)
+* [2021-11-08  [云计算] 新品发布 | Cloudpods 3.8.4 版本上线！](https://www.v2ex.com/t/813820)
+* [2021-11-08  [Apple] Caldigit Connect 10G 雷电 3 转万兆网卡支持 M1 MBP 吗？](https://www.v2ex.com/t/813819)
+* [2021-11-08  [互联网] 如何不进入局域网的路由器就可以让局域网的客户端通过一个域名进行访问设备？](https://www.v2ex.com/t/813816)
+* [2021-11-08  [程序员] 如何计算应用/process 消耗的 IOPS](https://www.v2ex.com/t/813815)
+* [2021-11-08  [问与答] 游戏开发 VS 后端？](https://www.v2ex.com/t/813814)
+* [2021-11-08  [程序员] 有用过阿里云的 polarDB 的吗？](https://www.v2ex.com/t/813812)
+* [2021-11-08  [macOS] 和各位大佬探讨下 mac 全键盘工作的技巧](https://www.v2ex.com/t/813811)
+* [2021-11-08  [问与答] v2 有主题屏蔽功能吗，最近 apple 的内容太多，不想看了](https://www.v2ex.com/t/813810)
 * [2021-11-08  [Apple] Watch 上 App 莫名被禁用网络的问题（寻找钻研思考的解决方案）](https://www.v2ex.com/t/813806)
 * [2021-11-08  [问与答] 怎么查到某个城市的手机号的中间 4 位是什么数据？](https://www.v2ex.com/t/813805)
 * [2021-11-08  [问与答] 你们园区开空调了吗？](https://www.v2ex.com/t/813804)
