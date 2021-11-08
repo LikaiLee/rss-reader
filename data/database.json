@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "限时福利丨MarginNote 3 工具升值包上架：你的高效学习利器",
+                "link": "https://sspai.com/post/69733",
+                "published": "2021-11-08"
+            },
+            {
                 "title": "双十一选对拓展坞，你可以从这两个角度入手",
                 "link": "https://sspai.com/post/69701",
                 "published": "2021-11-08"
@@ -480,6 +485,56 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] 不懂就问，求一根数据线",
+                "link": "https://www.v2ex.com/t/813951",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[酷工作] 育碧上海彩六组招服务器程序员啦~和蒙特利尔工作室 co-dev,工作室大佬多多~",
+                "link": "https://www.v2ex.com/t/813950",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 小白刚接触跑步，双十一期间求推荐一双平价入门跑鞋",
+                "link": "https://www.v2ex.com/t/813948",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Apple] 还有 AppleMusic 的车吗？",
+                "link": "https://www.v2ex.com/t/813943",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 通过 115 中转下载回来的文件貌似有问题？",
+                "link": "https://www.v2ex.com/t/813942",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[分享发现] 放弃 notion, 选 evernote . evernote 有好的图文排版方法吗?",
+                "link": "https://www.v2ex.com/t/813941",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[酷工作] 10 月应聘记录",
+                "link": "https://www.v2ex.com/t/813940",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[职场话题] 请问大家了解武汉路特斯的情况吗？比如，发展如何？加班情况如何？",
+                "link": "https://www.v2ex.com/t/813939",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[MacBook Pro] 大家帮我估一下价格， 19 年 16 寸 macbook pro。",
+                "link": "https://www.v2ex.com/t/813938",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[MacBook Pro] 淘宝定制已发货",
+                "link": "https://www.v2ex.com/t/813937",
+                "published": "2021-11-08"
+            },
             {
                 "title": "[Apple] 新 MacBook Pro 偶尔会出现屏幕亮度自动调节到很暗的状况",
                 "link": "https://www.v2ex.com/t/813934",
@@ -16601,7 +16656,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 15
+        "new_feeds": 10
     },
     {
         "id": 3,

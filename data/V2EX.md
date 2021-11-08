@@ -1,6 +1,16 @@
 # V2EX
 
 
+* [2021-11-08  [Apple] 不懂就问，求一根数据线](https://www.v2ex.com/t/813951)
+* [2021-11-08  [酷工作] 育碧上海彩六组招服务器程序员啦~和蒙特利尔工作室 co-dev,工作室大佬多多~](https://www.v2ex.com/t/813950)
+* [2021-11-08  [问与答] 小白刚接触跑步，双十一期间求推荐一双平价入门跑鞋](https://www.v2ex.com/t/813948)
+* [2021-11-08  [Apple] 还有 AppleMusic 的车吗？](https://www.v2ex.com/t/813943)
+* [2021-11-08  [问与答] 通过 115 中转下载回来的文件貌似有问题？](https://www.v2ex.com/t/813942)
+* [2021-11-08  [分享发现] 放弃 notion, 选 evernote . evernote 有好的图文排版方法吗?](https://www.v2ex.com/t/813941)
+* [2021-11-08  [酷工作] 10 月应聘记录](https://www.v2ex.com/t/813940)
+* [2021-11-08  [职场话题] 请问大家了解武汉路特斯的情况吗？比如，发展如何？加班情况如何？](https://www.v2ex.com/t/813939)
+* [2021-11-08  [MacBook Pro] 大家帮我估一下价格， 19 年 16 寸 macbook pro。](https://www.v2ex.com/t/813938)
+* [2021-11-08  [MacBook Pro] 淘宝定制已发货](https://www.v2ex.com/t/813937)
 * [2021-11-08  [Apple] 新 MacBook Pro 偶尔会出现屏幕亮度自动调节到很暗的状况](https://www.v2ex.com/t/813934)
 * [2021-11-08  [Qt] 为什么 ListView 没有随窗口大小自适应缩放？](https://www.v2ex.com/t/813932)
 * [2021-11-08  [宽带症候群] 求教魔法上网速度慢问题。](https://www.v2ex.com/t/813929)
