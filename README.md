@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+1】
+* [V2EX](#V2EX) 【+3】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,6 +48,9 @@
     </summary>
 
 
+* [【2021-11-08】 [分享发现] 分享一张我精心修改调整的 M42 猎户座大星云(Orion Nebula)壁纸。用了非常多年，首次分享出来，能和 MBP 2021 新屏幕和谐相处。](https://www.v2ex.com/t/814025)
+* [【2021-11-08】 [分享发现] 分享和推荐一个超级棒的浏览器 SideKick - App Based Browser](https://www.v2ex.com/t/814024)
+* [【2021-11-08】 [Evernote] evernote 这个真的是不能忍， auto-formatting（自动格式）都不能关闭。](https://www.v2ex.com/t/814023)
 * [【2021-11-08】 [酷工作] 🔥🔥🔥 [硅谷小众宝藏 Startups] 100%远程+期权+双休+四周年假+各种福利补贴🌟🌟🌟](https://www.v2ex.com/t/814022)
 * [【2021-11-08】 [问与答] 有大佬能描述一下用于查重的提取图像特征的算法吗？](https://www.v2ex.com/t/814021)
 * [【2021-11-08】 [MacBook Air] M1 Macbook 最夸张写入？](https://www.v2ex.com/t/814020)
@@ -55,9 +58,6 @@
 * [【2021-11-08】 [问与答] 怎么屏蔽 github 用户的项目](https://www.v2ex.com/t/814018)
 * [【2021-11-08】 [Python] Python API 框架, 内置文档生成, 参数检验](https://www.v2ex.com/t/814017)
 * [【2021-11-08】 [推广] [软件] 命令行 1 步自动化安装软件，程序猿拿到新电脑第 1 个要安装的软件是什么呢？](https://www.v2ex.com/t/814011)
-* [【2021-11-08】 [Windows] windows11，盘多了，就没那多小毛病了。随意聊几个。](https://www.v2ex.com/t/814016)
-* [【2021-11-08】 [Web3] 新节点第一个主题](https://www.v2ex.com/t/814015)
-* [【2021-11-08】 [问与答] N1 盒子还有没有什么其他的玩法？](https://www.v2ex.com/t/814014)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-08 22:19:46
+:alarm_clock: 更新时间: 2021-11-08 23:20:28

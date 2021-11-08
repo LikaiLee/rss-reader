@@ -1,6 +1,9 @@
 # V2EX
 
 
+* [2021-11-08  [分享发现] 分享一张我精心修改调整的 M42 猎户座大星云(Orion Nebula)壁纸。用了非常多年，首次分享出来，能和 MBP 2021 新屏幕和谐相处。](https://www.v2ex.com/t/814025)
+* [2021-11-08  [分享发现] 分享和推荐一个超级棒的浏览器 SideKick - App Based Browser](https://www.v2ex.com/t/814024)
+* [2021-11-08  [Evernote] evernote 这个真的是不能忍， auto-formatting（自动格式）都不能关闭。](https://www.v2ex.com/t/814023)
 * [2021-11-08  [酷工作] 🔥🔥🔥 [硅谷小众宝藏 Startups] 100%远程+期权+双休+四周年假+各种福利补贴🌟🌟🌟](https://www.v2ex.com/t/814022)
 * [2021-11-08  [问与答] 有大佬能描述一下用于查重的提取图像特征的算法吗？](https://www.v2ex.com/t/814021)
 * [2021-11-08  [MacBook Air] M1 Macbook 最夸张写入？](https://www.v2ex.com/t/814020)
