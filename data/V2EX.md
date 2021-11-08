@@ -1,6 +1,16 @@
 # V2EX
 
 
+* [2021-11-08  [问与答] cn.engadget.com 怎么不能访问？](https://www.v2ex.com/t/813961)
+* [2021-11-08  [macOS] 本以为消失的 Bug 又回来了（声音左右平衡自动变更）](https://www.v2ex.com/t/813960)
+* [2021-11-08  [ WATCH] 用 Apple Watch 接电话，正在播放的音频不会暂停，你们也会这样吗？](https://www.v2ex.com/t/813959)
+* [2021-11-08  [酷工作] 问下各位 v 友，零基础转行功能测试的， 3 个月了不会写测试用例，这正常吗？](https://www.v2ex.com/t/813958)
+* [2021-11-08  [程序员] 请教一个 ssh 问题](https://www.v2ex.com/t/813957)
+* [2021-11-08  [Kubernetes] Elasticsearch On K8S 大家有用到吗，存储怎么解决的](https://www.v2ex.com/t/813956)
+* [2021-11-08  [问与答] github 账号被 flagged 后又什么影响](https://www.v2ex.com/t/813955)
+* [2021-11-08  [职场话题] o(︶︿︶)o 唉，上班老是迟到，怎么破？](https://www.v2ex.com/t/813954)
+* [2021-11-08  [程序员] 有偿-爬虫模拟登录问题](https://www.v2ex.com/t/813953)
+* [2021-11-08  [Go 编程语言] etcd 一次性插入大量数据导致超时](https://www.v2ex.com/t/813952)
 * [2021-11-08  [Apple] 不懂就问，求一根数据线](https://www.v2ex.com/t/813951)
 * [2021-11-08  [酷工作] 育碧上海彩六组招服务器程序员啦~和蒙特利尔工作室 co-dev,工作室大佬多多~](https://www.v2ex.com/t/813950)
 * [2021-11-08  [问与答] 小白刚接触跑步，双十一期间求推荐一双平价入门跑鞋](https://www.v2ex.com/t/813948)

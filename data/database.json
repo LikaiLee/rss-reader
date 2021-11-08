@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/69751",
+                "published": "2021-11-08"
+            },
+            {
                 "title": "限时福利丨MarginNote 3 工具升值包上架：你的高效学习利器",
                 "link": "https://sspai.com/post/69733",
                 "published": "2021-11-08"
@@ -485,6 +490,56 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] cn.engadget.com 怎么不能访问？",
+                "link": "https://www.v2ex.com/t/813961",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[macOS] 本以为消失的 Bug 又回来了（声音左右平衡自动变更）",
+                "link": "https://www.v2ex.com/t/813960",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[ WATCH] 用 Apple Watch 接电话，正在播放的音频不会暂停，你们也会这样吗？",
+                "link": "https://www.v2ex.com/t/813959",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[酷工作] 问下各位 v 友，零基础转行功能测试的， 3 个月了不会写测试用例，这正常吗？",
+                "link": "https://www.v2ex.com/t/813958",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[程序员] 请教一个 ssh 问题",
+                "link": "https://www.v2ex.com/t/813957",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Kubernetes] Elasticsearch On K8S 大家有用到吗，存储怎么解决的",
+                "link": "https://www.v2ex.com/t/813956",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] github 账号被 flagged 后又什么影响",
+                "link": "https://www.v2ex.com/t/813955",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[职场话题] o(︶︿︶)o 唉，上班老是迟到，怎么破？",
+                "link": "https://www.v2ex.com/t/813954",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[程序员] 有偿-爬虫模拟登录问题",
+                "link": "https://www.v2ex.com/t/813953",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Go 编程语言] etcd 一次性插入大量数据导致超时",
+                "link": "https://www.v2ex.com/t/813952",
+                "published": "2021-11-08"
+            },
             {
                 "title": "[Apple] 不懂就问，求一根数据线",
                 "link": "https://www.v2ex.com/t/813951",
