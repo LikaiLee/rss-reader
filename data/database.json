@@ -463,13 +463,93 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Go 编程语言] 为什么 Gin/Echo 框架在 TechEmpower 的框架性能排名这么低？",
+                "link": "https://www.v2ex.com/t/813864",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 如何办理一张香港卡",
+                "link": "https://www.v2ex.com/t/813863",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Linux] 高并发服务器 tcp 内核参数优化及对于连接池配置数量请教",
+                "link": "https://www.v2ex.com/t/813862",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[硬件] 求大佬们来指点下，我这些配件还能卖多少钱 3600+5700XT",
+                "link": "https://www.v2ex.com/t/813861",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[分享发现] 发现一个延长 apple watch 的好办法",
+                "link": "https://www.v2ex.com/t/813860",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[分享创造] 新设计的 dotfiles 工具，管理部署更方便",
+                "link": "https://www.v2ex.com/t/813859",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Apple] M1 macOS 12.0.1 下感觉续航大幅缩水，电量肉眼可见往下掉",
+                "link": "https://www.v2ex.com/t/813858",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] https 握手偶尔很慢，怎么破",
+                "link": "https://www.v2ex.com/t/813857",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[服务器] 华为云双 11 全场 4 折",
+                "link": "https://www.v2ex.com/t/813856",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[程序员] 静态博客 blog 想加留言评论 comment 功能有哪些途径？",
+                "link": "https://www.v2ex.com/t/813853",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[macOS] 微信内存占用之谜",
+                "link": "https://www.v2ex.com/t/813852",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[酷工作] [支付宝] 体验技术部 - 搭建中台，招前端啦！ P5 - P7",
+                "link": "https://www.v2ex.com/t/813851",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[微软] 打不过就改变 Java 未来，微软官宣加入 JCP 计划：将参与制定 Java 平台规范",
+                "link": "https://www.v2ex.com/t/813849",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[路由器] 路由器 2.4g、5g、频宽、2x2 4x4mimo、速率、mesh 到底都是什么意思？",
+                "link": "https://www.v2ex.com/t/813847",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[程序员] 有人接过摄像头 API 吗？哪家开发方便，直播+录播",
+                "link": "https://www.v2ex.com/t/813846",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[随想] 最后的 Mopper",
+                "link": "https://www.v2ex.com/t/813845",
+                "published": "2021-11-08"
+            },
             {
                 "title": "[问与答] 在西方国家翻录自己购买的专辑/书籍并在朋友间小范围传播是违法行为吗？",
                 "link": "https://www.v2ex.com/t/813841",
@@ -16276,7 +16356,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 16
     },
     {
         "id": 3,
