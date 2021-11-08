@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-11-08  [问与答] 有大佬能描述一下用于查重的提取图像特征的算法吗？](https://www.v2ex.com/t/814021)
+* [2021-11-08  [MacBook Air] M1 Macbook 最夸张写入？](https://www.v2ex.com/t/814020)
 * [2021-11-08  [CDN] 腾讯云 cdn 回源时，是回源节点和 客户端（浏览器）加起来两次请求嘛？](https://www.v2ex.com/t/814019)
 * [2021-11-08  [问与答] 怎么屏蔽 github 用户的项目](https://www.v2ex.com/t/814018)
 * [2021-11-08  [Python] Python API 框架, 内置文档生成, 参数检验](https://www.v2ex.com/t/814017)
