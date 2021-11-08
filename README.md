@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+9】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+20】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-08】 派早报：大疆推出 DJI Mavic 3 无人机、蜂窝网络版 iPad mini 通过工信部入网认证等](https://sspai.com/post/69736)
 * [【2021-11-07】 考物阁 02｜我有过一部「不善言辞」的手机](https://sspai.com/post/69647)
 * [【2021-11-06】 科普 | 从解决方案到底层实现：你的手机是这样进行睡眠监测的](https://sspai.com/post/67931)
 * [【2021-11-06】 新玩意 083｜少数派的作者们最近买了啥？](https://sspai.com/post/69704)
@@ -38,7 +39,6 @@
 * [【2021-11-05】 瞎玩菌的游戏周报：Apple「宣战」御三家、任天堂 VVIP 遭大量差评等](https://sspai.com/post/69670)
 * [【2021-11-05】 常用 Obsidian 处理中文长文？试试这些大幅提升体验的插件和代码片段](https://sspai.com/post/69628)
 * [【2021-11-05】 派早报：小米激光影院 2 4K 发布、魅族回应魅族 18 天气应用出现广告等](https://sspai.com/post/69688)
-* [【2021-11-04】 翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了](https://sspai.com/post/69671)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-08】 [健康] 刚玩两天 VR 眼镜就受伤了](https://www.v2ex.com/t/813748)
-* [【2021-11-08】 [分享创造] 开源一个德州扑克最优策略的求解器](https://www.v2ex.com/t/813747)
-* [【2021-11-08】 [奇思妙想] 有没有给自己手拍几张照片，然后下次拍手就能识别出来的 api](https://www.v2ex.com/t/813746)
-* [【2021-11-08】 [宽带症候群] 关于家庭宽带 ipv6](https://www.v2ex.com/t/813745)
-* [【2021-11-08】 [买买买] Dell U2720qm 官网 3699 元值得买吗](https://www.v2ex.com/t/813742)
-* [【2021-11-08】 [iPhone] 电池健康最大容量在今天终于变了](https://www.v2ex.com/t/813741)
-* [【2021-11-08】 [V2EX] 刚才是不是挂了😂](https://www.v2ex.com/t/813740)
-* [【2021-11-07】 [买买买] 大学生偶然获得了两千元人民币，拿来做什么好？](https://www.v2ex.com/t/813737)
-* [【2021-11-07】 [推广] 线上会心团体招募，面向互联网技术人](https://www.v2ex.com/t/813712)
-* [【2021-11-07】 [浏览器] 求个 chrome 自动识别弹窗并点击关闭的插件或者代码](https://www.v2ex.com/t/813739)
+* [【2021-11-08】 [问与答] 请问一下电信 500M 的专线的上行是多少? 我公司这个说是专线,帮我看看](https://www.v2ex.com/t/813780)
+* [【2021-11-08】 [问与答] 无线电动拖把用过的来聊聊](https://www.v2ex.com/t/813778)
+* [【2021-11-08】 [macOS] 如何关闭 Chrome 的前进后退手势操作](https://www.v2ex.com/t/813777)
+* [【2021-11-08】 [Apple] 苹果有个伟大的地方](https://www.v2ex.com/t/813776)
+* [【2021-11-08】 [问与答] 这个远程工作是否值得接？](https://www.v2ex.com/t/813775)
+* [【2021-11-08】 [知乎] 长期伏坐，胃部胀气，如何改善](https://www.v2ex.com/t/813774)
+* [【2021-11-08】 [MacBook Pro] M1 macbook pro 升级 macOS 12.0.1 出现的几个问题](https://www.v2ex.com/t/813773)
+* [【2021-11-08】 [问与答] 网络小白求问，为什么修改了 DNS 服务器地址，就可以访问一些墙外的网站了？](https://www.v2ex.com/t/813772)
+* [【2021-11-08】 [JavaScript] 有一个关于 mathJax 中根号的问题](https://www.v2ex.com/t/813770)
+* [【2021-11-08】 [Java] 求帮忙设计代码 关于异步线程的开启和暂停](https://www.v2ex.com/t/813768)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-08 01:04:31
+:alarm_clock: 更新时间: 2021-11-08 02:32:21

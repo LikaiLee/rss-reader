@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：大疆推出 DJI Mavic 3 无人机、蜂窝网络版 iPad mini 通过工信部入网认证等",
+                "link": "https://sspai.com/post/69736",
+                "published": "2021-11-08"
+            },
+            {
                 "title": "考物阁 02｜我有过一部「不善言辞」的手机",
                 "link": "https://sspai.com/post/69647",
                 "published": "2021-11-07"
@@ -453,13 +458,113 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 请问一下电信 500M 的专线的上行是多少? 我公司这个说是专线,帮我看看",
+                "link": "https://www.v2ex.com/t/813780",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 无线电动拖把用过的来聊聊",
+                "link": "https://www.v2ex.com/t/813778",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[macOS] 如何关闭 Chrome 的前进后退手势操作",
+                "link": "https://www.v2ex.com/t/813777",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Apple] 苹果有个伟大的地方",
+                "link": "https://www.v2ex.com/t/813776",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 这个远程工作是否值得接？",
+                "link": "https://www.v2ex.com/t/813775",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[知乎] 长期伏坐，胃部胀气，如何改善",
+                "link": "https://www.v2ex.com/t/813774",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[MacBook Pro] M1 macbook pro 升级 macOS 12.0.1 出现的几个问题",
+                "link": "https://www.v2ex.com/t/813773",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 网络小白求问，为什么修改了 DNS 服务器地址，就可以访问一些墙外的网站了？",
+                "link": "https://www.v2ex.com/t/813772",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[JavaScript] 有一个关于 mathJax 中根号的问题",
+                "link": "https://www.v2ex.com/t/813770",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Java] 求帮忙设计代码 关于异步线程的开启和暂停",
+                "link": "https://www.v2ex.com/t/813768",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] MBP 2017 第三方电池 每次都重新启动",
+                "link": "https://www.v2ex.com/t/813767",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 求推远程控制音箱，可以顶天花板的那种",
+                "link": "https://www.v2ex.com/t/813766",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[宽带症候群] 自从今天七八月份中国电信跨境连接长时间故障后，感觉就总有一些境内机房的 ip 地址永远无法在境外访问到。",
+                "link": "https://www.v2ex.com/t/813765",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Java] SpringBoot 的 DataJpa 插入数据时，数据库（mysql）中字段默认值不生效怎么解决？",
+                "link": "https://www.v2ex.com/t/813764",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 集成环境创建的 web 服务 老是加载不了静态文件",
+                "link": "https://www.v2ex.com/t/813763",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] nextcloud 挂载 s3 传输数据异常",
+                "link": "https://www.v2ex.com/t/813762",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 预算 4000-5000 有没有什么电视推荐",
+                "link": "https://www.v2ex.com/t/813761",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[酷工作] 再发下 [思科中国] 的人贩贴，杭州/上海/合肥， 40+ 岗位热招",
+                "link": "https://www.v2ex.com/t/813757",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[前端开发] 使用 CNPM/淘宝源的前端们请注意，淘宝 NPM 镜像站喊你切换新域名啦",
+                "link": "https://www.v2ex.com/t/813755",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] 如何远程控制 MacBook 体验会好一点呢？",
+                "link": "https://www.v2ex.com/t/813752",
+                "published": "2021-11-08"
+            },
             {
                 "title": "[健康] 刚玩两天 VR 眼镜就受伤了",
                 "link": "https://www.v2ex.com/t/813748",
@@ -15966,7 +16071,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 20
     },
     {
         "id": 3,
