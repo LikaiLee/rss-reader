@@ -491,6 +491,36 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[宽带症候群] 有辽宁移动的小伙伴吗，超级密码进不去了",
+                "link": "https://www.v2ex.com/t/813975",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[蘑菇] 买了点鸡油菌，但是并不太会做的样子",
+                "link": "https://www.v2ex.com/t/813974",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Apple] Intel Mac 上面 QQ 奇卡无比，尤其是左边切换聊天群组的时候",
+                "link": "https://www.v2ex.com/t/813973",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[酷工作] [社招][组内直推] Bing 搜索前端开发",
+                "link": "https://www.v2ex.com/t/813972",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[问与答] Postgres 如果交接不同数据库? 大量经纬度坐标数据用 SP-GiST 最合适吗?",
+                "link": "https://www.v2ex.com/t/813971",
+                "published": "2021-11-08"
+            },
+            {
+                "title": "[Kubernetes] 收到一个 Bearer token 或者 config 文件，如何判断是不是 admin 权限",
+                "link": "https://www.v2ex.com/t/813970",
+                "published": "2021-11-08"
+            },
+            {
                 "title": "[问与答] 这样 nginx 动态转发？",
                 "link": "https://www.v2ex.com/t/813968",
                 "published": "2021-11-08"
@@ -16746,7 +16776,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 6
     },
     {
         "id": 3,

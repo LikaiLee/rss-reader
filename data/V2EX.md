@@ -1,6 +1,12 @@
 # V2EX
 
 
+* [2021-11-08  [宽带症候群] 有辽宁移动的小伙伴吗，超级密码进不去了](https://www.v2ex.com/t/813975)
+* [2021-11-08  [蘑菇] 买了点鸡油菌，但是并不太会做的样子](https://www.v2ex.com/t/813974)
+* [2021-11-08  [Apple] Intel Mac 上面 QQ 奇卡无比，尤其是左边切换聊天群组的时候](https://www.v2ex.com/t/813973)
+* [2021-11-08  [酷工作] [社招][组内直推] Bing 搜索前端开发](https://www.v2ex.com/t/813972)
+* [2021-11-08  [问与答] Postgres 如果交接不同数据库? 大量经纬度坐标数据用 SP-GiST 最合适吗?](https://www.v2ex.com/t/813971)
+* [2021-11-08  [Kubernetes] 收到一个 Bearer token 或者 config 文件，如何判断是不是 admin 权限](https://www.v2ex.com/t/813970)
 * [2021-11-08  [问与答] 这样 nginx 动态转发？](https://www.v2ex.com/t/813968)
 * [2021-11-08  [酷工作] [武汉] 路特斯科技招聘 前端/ Java 包中餐晚餐 全额社保公积金](https://www.v2ex.com/t/813967)
 * [2021-11-08  [机械键盘] 突然发现 NTFS 的簇大小居然有这种限制](https://www.v2ex.com/t/813965)
