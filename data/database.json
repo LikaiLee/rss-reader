@@ -516,6 +516,61 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] 老哥们，有没有发现苹果官网 MacBook pro 14 寸和 16 寸好像降价了",
+                "link": "https://www.v2ex.com/t/814254",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 求推荐相机，打算拍点视频当 UP 主",
+                "link": "https://www.v2ex.com/t/814252",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[区块链] stacks 区块链 sip009 nft 协议标准",
+                "link": "https://www.v2ex.com/t/814251",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 二十多万采集站，做采集站用的 WordPress，卡得不要不要的。硬件 2 核 4G。",
+                "link": "https://www.v2ex.com/t/814250",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[生活] 想起几年前因为二胎跟父亲大吵一架",
+                "link": "https://www.v2ex.com/t/814248",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Swift] Clean Architecture for SwiftUI + Combine",
+                "link": "https://www.v2ex.com/t/814247",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 现在还有在使用 Discuz 7.2 版本的社区 CMS 吗？悬赏一个插件",
+                "link": "https://www.v2ex.com/t/814246",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Apple] 大内存对于修图的重要性评测",
+                "link": "https://www.v2ex.com/t/814245",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[分享发现] 安卓手机用户请关闭什么值得买 app 写入剪切板权限",
+                "link": "https://www.v2ex.com/t/814244",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[酷工作] [深圳][明源云天际平台][内推] 前端/大数据/后端（Go/ PHP / Java ）/测试/运维",
+                "link": "https://www.v2ex.com/t/814242",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[宽带症候群] 接连换了两个光猫，中兴简直无力吐槽，大家可以参考型号避雷",
+                "link": "https://www.v2ex.com/t/814241",
+                "published": "2021-11-09"
+            },
+            {
                 "title": "[剧集] 有什么不烂尾的美剧值得推荐的吗",
                 "link": "https://www.v2ex.com/t/814240",
                 "published": "2021-11-09"
@@ -17876,7 +17931,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 11
     },
     {
         "id": 3,

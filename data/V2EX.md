@@ -1,6 +1,17 @@
 # V2EX
 
 
+* [2021-11-09  [MacBook Pro] 老哥们，有没有发现苹果官网 MacBook pro 14 寸和 16 寸好像降价了](https://www.v2ex.com/t/814254)
+* [2021-11-09  [问与答] 求推荐相机，打算拍点视频当 UP 主](https://www.v2ex.com/t/814252)
+* [2021-11-09  [区块链] stacks 区块链 sip009 nft 协议标准](https://www.v2ex.com/t/814251)
+* [2021-11-09  [问与答] 二十多万采集站，做采集站用的 WordPress，卡得不要不要的。硬件 2 核 4G。](https://www.v2ex.com/t/814250)
+* [2021-11-09  [生活] 想起几年前因为二胎跟父亲大吵一架](https://www.v2ex.com/t/814248)
+* [2021-11-09  [Swift] Clean Architecture for SwiftUI + Combine](https://www.v2ex.com/t/814247)
+* [2021-11-09  [问与答] 现在还有在使用 Discuz 7.2 版本的社区 CMS 吗？悬赏一个插件](https://www.v2ex.com/t/814246)
+* [2021-11-09  [Apple] 大内存对于修图的重要性评测](https://www.v2ex.com/t/814245)
+* [2021-11-09  [分享发现] 安卓手机用户请关闭什么值得买 app 写入剪切板权限](https://www.v2ex.com/t/814244)
+* [2021-11-09  [酷工作] [深圳][明源云天际平台][内推] 前端/大数据/后端（Go/ PHP / Java ）/测试/运维](https://www.v2ex.com/t/814242)
+* [2021-11-09  [宽带症候群] 接连换了两个光猫，中兴简直无力吐槽，大家可以参考型号避雷](https://www.v2ex.com/t/814241)
 * [2021-11-09  [剧集] 有什么不烂尾的美剧值得推荐的吗](https://www.v2ex.com/t/814240)
 * [2021-11-09  [.NET] 有 .NET 的大佬来科普一下吗](https://www.v2ex.com/t/814239)
 * [2021-11-09  [问与答] 硕士毕业设计想自己做一个 serverless 平台，恳请大佬给些建议？](https://www.v2ex.com/t/814238)
