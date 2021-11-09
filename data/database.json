@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：高通公布 2021 骁龙技术峰会时间，Pixel 6 系列出现指纹相关问题",
+                "link": "https://sspai.com/post/69761",
+                "published": "2021-11-09"
+            },
+            {
                 "title": "派评 | 近期值得关注的 App",
                 "link": "https://sspai.com/post/69751",
                 "published": "2021-11-08"
@@ -483,13 +488,188 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Apple] 迫于 AW7，双 type-c 口的充电头求推荐",
+                "link": "https://www.v2ex.com/t/814081",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 程序员找兼职",
+                "link": "https://www.v2ex.com/t/814079",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 求推一款电视盒子",
+                "link": "https://www.v2ex.com/t/814078",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[武汉] [武汉] 父母体检方案",
+                "link": "https://www.v2ex.com/t/814077",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Java] 如何通过反射获取 List<T>中泛型 T 的真实类型？",
+                "link": "https://www.v2ex.com/t/814075",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Apple] 大家来说说定制版 MBP 的进度",
+                "link": "https://www.v2ex.com/t/814074",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[全球工单系统] App Store Connect API 拉取 11.2 号的销售数据异常,各位有遇到没",
+                "link": "https://www.v2ex.com/t/814073",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Go 编程语言] 请问 golang 有常用的工具函数聚合库吗，像 C++的 boost 那种",
+                "link": "https://www.v2ex.com/t/814072",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 有没有程序员帮帮会写程序的一员",
+                "link": "https://www.v2ex.com/t/814071",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[MacBook Air] Mac 好用的视频播放器推荐",
+                "link": "https://www.v2ex.com/t/814070",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[职场话题] 校招 offer 决赛圈",
+                "link": "https://www.v2ex.com/t/814068",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Apple] 这个测评对比 M1 Max 在 14 寸和 16 寸上的区别",
+                "link": "https://www.v2ex.com/t/814067",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[iPhone] xsmax 待机一夜耗电超 50%",
+                "link": "https://www.v2ex.com/t/814066",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 领导给了 app 注册账号的任务，注册需要手机号注册，需要 800 个！？这种一般咋解决",
+                "link": "https://www.v2ex.com/t/814065",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 求推荐 4k 显示器，需求为 PS5 及 type-c 接口",
+                "link": "https://www.v2ex.com/t/814064",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 怎么可以快速隐藏和改变浏览器中网页的 css 样式？",
+                "link": "https://www.v2ex.com/t/814063",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] windows 为啥有的应用窗口最小化有动画，有的应用就没有（比如 spotify 客户端，京东读书客户端，企业微信）",
+                "link": "https://www.v2ex.com/t/814062",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 求购便携显示屏",
+                "link": "https://www.v2ex.com/t/814061",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 有用过 ucloud 家的云服务器的吗？",
+                "link": "https://www.v2ex.com/t/814059",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 写了个搜索引擎快捷键的油猴脚本",
+                "link": "https://www.v2ex.com/t/814057",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[macOS] macOS12 空间音频不可用",
+                "link": "https://www.v2ex.com/t/814056",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 想建个网站，请教下各位大佬",
+                "link": "https://www.v2ex.com/t/814055",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[全球工单系统] iOS 微信可以优化吗？",
+                "link": "https://www.v2ex.com/t/814051",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 分享一个快速切换 win10 任务栏的注册表",
+                "link": "https://www.v2ex.com/t/814050",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 遇到了一个神奇的 bug",
+                "link": "https://www.v2ex.com/t/814048",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Apple] M1 发热严重，如何排查？",
+                "link": "https://www.v2ex.com/t/814046",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Python] Python 如何将上下文管理器中的段落执行多次？",
+                "link": "https://www.v2ex.com/t/814044",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 有没有 tauri 开发群",
+                "link": "https://www.v2ex.com/t/814043",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[MacBook Pro] [测评] 程序猿 16 寸 MBP「M1 Pro」编译速度 & 开发软件的兼容性测试",
+                "link": "https://www.v2ex.com/t/814042",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 需要 pd 虚拟机装 win，请问 Arm64 下，装 win10 还是 11",
+                "link": "https://www.v2ex.com/t/814041",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[职场话题] 为什么公司领导，都不愿解决问题",
+                "link": "https://www.v2ex.com/t/814040",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Chrome] 解决 Chrome 访问 v 站加载图床速度慢方法",
+                "link": "https://www.v2ex.com/t/814039",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[音乐] usb 转 spdif 问题请教",
+                "link": "https://www.v2ex.com/t/814038",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 求程序员大佬帮忙做几道算法题，顺便赚顿饭钱",
+                "link": "https://www.v2ex.com/t/814036",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[微信] 手机恢复后手机微信聊天记录丢失，但电脑客户端有，如何同步到手机",
+                "link": "https://www.v2ex.com/t/814035",
+                "published": "2021-11-09"
+            },
             {
                 "title": "[生活] 提前还房贷请教",
                 "link": "https://www.v2ex.com/t/814034",
@@ -17031,7 +17211,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 35
     },
     {
         "id": 3,
