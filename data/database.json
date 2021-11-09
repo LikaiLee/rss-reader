@@ -491,6 +491,41 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[生活] 提前还房贷请教",
+                "link": "https://www.v2ex.com/t/814034",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] miui 现在 bug 这么多,有什么深层原因吗?",
+                "link": "https://www.v2ex.com/t/814032",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[iPhone] 迫于无聊统计一下，有没有和我一样买的淘宝官方店的 13 256",
+                "link": "https://www.v2ex.com/t/814031",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 服务器限定 ssh 登录的 ip，本地网络又是动态拨号分配的 ip，怎么办",
+                "link": "https://www.v2ex.com/t/814030",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] .NET 6 正式版了",
+                "link": "https://www.v2ex.com/t/814028",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[酷工作] [上海] [高频交易公司] [数据及后台系统开发工程师/leader] 急招！",
+                "link": "https://www.v2ex.com/t/814027",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Apple] 创建一个 iMessage 闲聊群----2021.11.9",
+                "link": "https://www.v2ex.com/t/814026",
+                "published": "2021-11-09"
+            },
+            {
                 "title": "[分享发现] 分享一张我精心修改调整的 M42 猎户座大星云(Orion Nebula)壁纸。用了非常多年，首次分享出来，能和 MBP 2021 新屏幕和谐相处。",
                 "link": "https://www.v2ex.com/t/814025",
                 "published": "2021-11-08"
@@ -16996,7 +17031,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 7
     },
     {
         "id": 3,
