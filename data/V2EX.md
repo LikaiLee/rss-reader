@@ -1,6 +1,21 @@
 # V2EX
 
 
+* [2021-11-09  [分享发现] 关于近期企鹅共享个人信息给第三方的条款...怎么才能让“上面的人”知道呢？](https://www.v2ex.com/t/814219)
+* [2021-11-09  [生活] 在小县城里业余时间多的话学点什么好？](https://www.v2ex.com/t/814218)
+* [2021-11-09  [程序员] 为什么好多远程办公岗位都是区块链相关的？](https://www.v2ex.com/t/814217)
+* [2021-11-09  [MacBook Pro] 这个时候可以入手 m1 芯片的 macbook pro 吗？](https://www.v2ex.com/t/814216)
+* [2021-11-09  [问与答] 对同时需要打开多个即时聊天工具有无整合方案？](https://www.v2ex.com/t/814215)
+* [2021-11-09  [酷工作] 上海莉莉丝游戏 社招内推，校招补录内推](https://www.v2ex.com/t/814214)
+* [2021-11-09  [iPhone] 问下大家，收到 13 pro 不到两周，但是偶尔总觉得手机温热，而且拍照发烫你们有这个问题吗？](https://www.v2ex.com/t/814213)
+* [2021-11-09  [程序员] 放弃 Gmail 像恋爱分手一样，有点痛](https://www.v2ex.com/t/814212)
+* [2021-11-09  [IPv6] 看 v 站好多帖子都说，手机开热点电脑就有 ipv6 了，怎么我的没有](https://www.v2ex.com/t/814211)
+* [2021-11-09  [Windows] Windows11 启动后就有 Store 的 C++ runtime 通知咋回事](https://www.v2ex.com/t/814210)
+* [2021-11-09  [问与答] V 友们求推荐靠谱的门店管理系统](https://www.v2ex.com/t/814209)
+* [2021-11-09  [Coding] Nocalhost 亮相 CD Foundation 国内首届 Meetup， Keith Chan 将出席致辞](https://www.v2ex.com/t/814207)
+* [2021-11-09  [Apple] 等 2022 iPad Pro 还是现在入 21 款 12.9？](https://www.v2ex.com/t/814206)
+* [2021-11-09  [问与答] 学 sicp 和 csapp 的最好办法是什么](https://www.v2ex.com/t/814204)
+* [2021-11-09  [硬件] 给想装黑苹果的兄弟推荐一个显卡](https://www.v2ex.com/t/814168)
 * [2021-11-09  [程序员] 想法: 想在 github repo 界面可以一键跳转到 vscode.dev，尝试给 vscode 提过 Issues，被 close 了，有没有大佬写个油猴脚本可以先用着点](https://www.v2ex.com/t/814202)
 * [2021-11-09  [iOS] iOS 15 用英文搜索 app 失效？求解](https://www.v2ex.com/t/814201)
 * [2021-11-09  [酷工作] [成都/西安] 欢迎加入金数据团队🚀 全栈开发工程师（中高级）等你来聊～各种福利妥妥滴](https://www.v2ex.com/t/814200)
