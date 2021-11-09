@@ -501,6 +501,91 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 可能不是个例， iPhone12 双卡双待情况下游戏偶尔高时延 999 问题",
+                "link": "https://www.v2ex.com/t/814148",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 迫于米物 art 键盘现在价格虚高，求推荐 macOS 键盘",
+                "link": "https://www.v2ex.com/t/814147",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 为什么码代码会秃头，发际线越来越靠后，刘海日益稀疏，家族史都没有秃头基因，要枯了。。。",
+                "link": "https://www.v2ex.com/t/814145",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[分享发现] 博客部署在 Github pages 慢的话，可以试试这个办法",
+                "link": "https://www.v2ex.com/t/814144",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Apple] 直营店“拒保”记",
+                "link": "https://www.v2ex.com/t/814143",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 摸鱼求助：有没有命令或软件，能让终端仿佛一直在运行输出",
+                "link": "https://www.v2ex.com/t/814142",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Android] 洪蒙系统出来了，安卓还值不值得学？",
+                "link": "https://www.v2ex.com/t/814141",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Netflix] 个人用港区，有一位置。季付 55",
+                "link": "https://www.v2ex.com/t/814140",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 家庭装修 AP 方案交流",
+                "link": "https://www.v2ex.com/t/814139",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Python] Python 怎么做到优化老照片、优化老视频、修复视频马赛克、视频换脸？",
+                "link": "https://www.v2ex.com/t/814138",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[iPad] 迫于教育优惠入了 iPad Pro 2021 12.9 + 闲鱼 1800 淘了个妙控键盘，感觉省了一个 Macbook Air 的钱，问下大家平时都拿 iPad Pro 干啥？",
+                "link": "https://www.v2ex.com/t/814136",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 迫于装修买电器，小米电视 6 至尊版 75 寸怎么样？",
+                "link": "https://www.v2ex.com/t/814135",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Android] 迫于很多裸聊敲诈诈骗案例，写了一个生成随机联系人的小 app",
+                "link": "https://www.v2ex.com/t/814134",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[云计算] 双 11 腾讯云老用户无脑入坑 2 核 4G 80G 三年 198 是不是赚了？平时新用户都不是这个价格",
+                "link": "https://www.v2ex.com/t/814133",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Linux] Nginx 能不能通过不同的域名复用 443 port 反代 SSH 22 port ？",
+                "link": "https://www.v2ex.com/t/814132",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 可能是月经贴： Android vs iOS，到底选哪个？",
+                "link": "https://www.v2ex.com/t/814131",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[iDev] 申请不到 299 刀账号，该如何分发测试",
+                "link": "https://www.v2ex.com/t/814127",
+                "published": "2021-11-09"
+            },
+            {
                 "title": "[Apple] iPhone 13 待机耗电",
                 "link": "https://www.v2ex.com/t/814130",
                 "published": "2021-11-09"
@@ -17421,7 +17506,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 17
     },
     {
         "id": 3,
