@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+12】
+* [少数派](#少数派) 【+2】
+* [V2EX](#V2EX) 【+28】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -29,6 +29,8 @@
     </summary>
 
 
+* [【2021-11-09】 为了那声独一无二的「哒」：Galaxy Z Flip3 成为主力机的 60 天](https://sspai.com/post/69810)
+* [【2021-11-09】 跨过安装的那道坎——为非技术人士准备的 Python 安装指南](https://sspai.com/post/69595)
 * [【2021-11-09】 数字存储完全指南 04：固态硬盘的参数解读与实际性能](https://sspai.com/post/69074)
 * [【2021-11-09】 派早报：高通公布 2021 骁龙技术峰会时间，Pixel 6 系列出现指纹相关问题](https://sspai.com/post/69761)
 * [【2021-11-08】 派评 | 近期值得关注的 App](https://sspai.com/post/69751)
@@ -37,8 +39,6 @@
 * [【2021-11-08】 一日一技｜修复 Zotero 与 Papership 的联动，恢复 WebDAV 云同步](https://sspai.com/post/69747)
 * [【2021-11-08】 上虞图书馆数字漫游：你的家乡或许也有一段传奇往事](https://sspai.com/post/69606)
 * [【2021-11-08】 派早报：大疆推出 DJI Mavic 3 无人机、蜂窝网络版 iPad mini 通过工信部入网认证等](https://sspai.com/post/69736)
-* [【2021-11-07】 考物阁 02｜我有过一部「不善言辞」的手机](https://sspai.com/post/69647)
-* [【2021-11-06】 科普 | 从解决方案到底层实现：你的手机是这样进行睡眠监测的](https://sspai.com/post/67931)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-09】 [程序员] 程序员这个职业和足球/篮球运动员有点类似啊](https://www.v2ex.com/t/814161)
-* [【2021-11-09】 [问与答] 买了个蓝牙适配器放到公司台式机，为啥搜不到罗技 M590 呢](https://www.v2ex.com/t/814160)
-* [【2021-11-09】 [iPhone] 相簿照片人物扫描总是请锁定 iPhone 并连接到电源，怎么破？](https://www.v2ex.com/t/814158)
-* [【2021-11-09】 [Node.js] 关于 node.js 下的 ssh2 的问题](https://www.v2ex.com/t/814156)
-* [【2021-11-09】 [问与答] Java 栈，对硬件操控很感兴趣，研发过程中遇到了些问题请教各位](https://www.v2ex.com/t/814155)
-* [【2021-11-09】 [Apple] 天气变冷， Apple 设备又开始跳电了。](https://www.v2ex.com/t/814154)
-* [【2021-11-09】 [程序员] 大家公司内部的公共库，中间件等基础设施会内部开源吗，接收 PR 吗](https://www.v2ex.com/t/814153)
-* [【2021-11-09】 [问与答] 迫于太能出汗， xm3 的耳罩已经破皮严重，求推荐一款表现相对优秀的替换耳罩](https://www.v2ex.com/t/814152)
-* [【2021-11-09】 [上海] 这个月跳槽了，从漕河泾到张江，请问 V 友们有推荐的找房渠道吗？整租预算 5K。](https://www.v2ex.com/t/814151)
-* [【2021-11-09】 [奇思妙想] 做一个复古爱好者论坛怎么样？](https://www.v2ex.com/t/814150)
+* [【2021-11-09】 [程序员] 想法: 想在 github repo 界面可以一键跳转到 vscode.dev，尝试给 vscode 提过 Issues，被 close 了，有没有大佬写个油猴脚本可以先用着点](https://www.v2ex.com/t/814202)
+* [【2021-11-09】 [iOS] iOS 15 用英文搜索 app 失效？求解](https://www.v2ex.com/t/814201)
+* [【2021-11-09】 [酷工作] [成都/西安] 欢迎加入金数据团队🚀 全栈开发工程师（中高级）等你来聊～各种福利妥妥滴](https://www.v2ex.com/t/814200)
+* [【2021-11-09】 [程序员] 毕业设计求助，用的技术是 CV 中的双目视觉测距，需要一个应用场景](https://www.v2ex.com/t/814199)
+* [【2021-11-09】 [宽带症候群] 甲骨文今天下午开始抽风了](https://www.v2ex.com/t/814197)
+* [【2021-11-09】 [云计算] serverless framework 国内只能用腾讯云？](https://www.v2ex.com/t/814196)
+* [【2021-11-09】 [Steam] 一款玩法类似 They Are Billions 的生存 RTS 游戏 Age of Darkness](https://www.v2ex.com/t/814195)
+* [【2021-11-09】 [问与答] 求推荐一款笔记类软件，只需保存截图和文字](https://www.v2ex.com/t/814194)
+* [【2021-11-09】 [酷工作] [上海]萌宝科技招聘全职前端开发](https://www.v2ex.com/t/814193)
+* [【2021-11-09】 [问与答] Gmail 如何设置匹配到的邮件转发功能](https://www.v2ex.com/t/814192)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-09 07:19:44
+:alarm_clock: 更新时间: 2021-11-09 09:20:19
