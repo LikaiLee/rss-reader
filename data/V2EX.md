@@ -1,6 +1,15 @@
 # V2EX
 
 
+* [2021-11-09  [剧集] 有什么不烂尾的美剧值得推荐的吗](https://www.v2ex.com/t/814240)
+* [2021-11-09  [.NET] 有 .NET 的大佬来科普一下吗](https://www.v2ex.com/t/814239)
+* [2021-11-09  [问与答] 硕士毕业设计想自己做一个 serverless 平台，恳请大佬给些建议？](https://www.v2ex.com/t/814238)
+* [2021-11-09  [macOS] 想问问有自己远控的 Windows 电脑还需要使用 PD 虚拟机吗？](https://www.v2ex.com/t/814237)
+* [2021-11-09  [问与答] 因 sonarqube 爆出会泄漏源代码漏洞，公司通知停用了，求推荐类似工具](https://www.v2ex.com/t/814236)
+* [2021-11-09  [macOS] macOS 上有没有能够支持 HDR 的录屏软件？](https://www.v2ex.com/t/814235)
+* [2021-11-09  [macOS] Monterey 支持快捷指令了，有相关的教程没？](https://www.v2ex.com/t/814234)
+* [2021-11-09  [酷工作] [深圳/北京/上海] Shopee 内推，安利自己所在的项目团队（Go / Java / 前端 / QA）](https://www.v2ex.com/t/814233)
+* [2021-11-09  [Apple] 请问有 5W 功率的 MagSafe 无线充（支架类型）的吗](https://www.v2ex.com/t/814232)
 * [2021-11-09  [前端开发] web 前端项目以 ssr 方式开发，有哪些 ssr 框架？](https://www.v2ex.com/t/814231)
 * [2021-11-09  [Apple] 腾讯音乐和 Apple Music 达成音乐授权协定](https://www.v2ex.com/t/814230)
 * [2021-11-09  [macOS] safari 网页下载可以接力了， nice..](https://www.v2ex.com/t/814229)
