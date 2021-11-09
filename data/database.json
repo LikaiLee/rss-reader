@@ -516,6 +516,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] VSCode 的 Python 测试功能太烂了 -_-||",
+                "link": "https://www.v2ex.com/t/814305",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 大家怎么看待 5G 消息？是否有取代微信的可能？",
+                "link": "https://www.v2ex.com/t/814304",
+                "published": "2021-11-09"
+            },
+            {
                 "title": "[分享创造] 我的新作品，最近写了一款背单词的 App， List 记单词",
                 "link": "https://www.v2ex.com/t/814303",
                 "published": "2021-11-09"

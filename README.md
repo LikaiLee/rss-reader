@@ -48,6 +48,8 @@
     </summary>
 
 
+* [【2021-11-09】 [程序员] VSCode 的 Python 测试功能太烂了 -_-||](https://www.v2ex.com/t/814305)
+* [【2021-11-09】 [问与答] 大家怎么看待 5G 消息？是否有取代微信的可能？](https://www.v2ex.com/t/814304)
 * [【2021-11-09】 [分享创造] 我的新作品，最近写了一款背单词的 App， List 记单词](https://www.v2ex.com/t/814303)
 * [【2021-11-09】 [随想] 「白米饭」会让你昏昏欲睡吗？你可以利用这点解决注意力和失眠问题](https://www.v2ex.com/t/814302)
 * [【2021-11-09】 [以太坊] 分享： Ubuntu Linux 上的挖矿笔记](https://www.v2ex.com/t/814301)
@@ -56,8 +58,6 @@
 * [【2021-11-09】 [职场话题] 秋招 offer 选择&&建议](https://www.v2ex.com/t/814297)
 * [【2021-11-09】 [问与答] 国家奖学金](https://www.v2ex.com/t/814296)
 * [【2021-11-09】 [天黑以后] 20211110 午夜俱乐部](https://www.v2ex.com/t/814295)
-* [【2021-11-09】 [问与答] 反电信诈骗的技术原理？](https://www.v2ex.com/t/814294)
-* [【2021-11-09】 [问与答] 现在国内有哪家信用卡押金预授权的支付供应商？](https://www.v2ex.com/t/814293)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-09 22:19:43
+:alarm_clock: 更新时间: 2021-11-09 23:20:19
