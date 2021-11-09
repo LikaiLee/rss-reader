@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+35】
+* [V2EX](#V2EX) 【+25】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-09】 数字存储完全指南 04：固态硬盘的参数解读与实际性能](https://sspai.com/post/69074)
 * [【2021-11-09】 派早报：高通公布 2021 骁龙技术峰会时间，Pixel 6 系列出现指纹相关问题](https://sspai.com/post/69761)
 * [【2021-11-08】 派评 | 近期值得关注的 App](https://sspai.com/post/69751)
 * [【2021-11-08】 限时福利丨MarginNote 3 工具升值包上架：你的高效学习利器](https://sspai.com/post/69733)
@@ -38,7 +39,6 @@
 * [【2021-11-08】 派早报：大疆推出 DJI Mavic 3 无人机、蜂窝网络版 iPad mini 通过工信部入网认证等](https://sspai.com/post/69736)
 * [【2021-11-07】 考物阁 02｜我有过一部「不善言辞」的手机](https://sspai.com/post/69647)
 * [【2021-11-06】 科普 | 从解决方案到底层实现：你的手机是这样进行睡眠监测的](https://sspai.com/post/67931)
-* [【2021-11-06】 新玩意 083｜少数派的作者们最近买了啥？](https://sspai.com/post/69704)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-09】 [Apple] 迫于 AW7，双 type-c 口的充电头求推荐](https://www.v2ex.com/t/814081)
-* [【2021-11-09】 [程序员] 程序员找兼职](https://www.v2ex.com/t/814079)
-* [【2021-11-09】 [问与答] 求推一款电视盒子](https://www.v2ex.com/t/814078)
-* [【2021-11-09】 [武汉] [武汉] 父母体检方案](https://www.v2ex.com/t/814077)
-* [【2021-11-09】 [Java] 如何通过反射获取 List<T>中泛型 T 的真实类型？](https://www.v2ex.com/t/814075)
-* [【2021-11-09】 [Apple] 大家来说说定制版 MBP 的进度](https://www.v2ex.com/t/814074)
-* [【2021-11-09】 [全球工单系统] App Store Connect API 拉取 11.2 号的销售数据异常,各位有遇到没](https://www.v2ex.com/t/814073)
-* [【2021-11-09】 [Go 编程语言] 请问 golang 有常用的工具函数聚合库吗，像 C++的 boost 那种](https://www.v2ex.com/t/814072)
-* [【2021-11-09】 [程序员] 有没有程序员帮帮会写程序的一员](https://www.v2ex.com/t/814071)
-* [【2021-11-09】 [MacBook Air] Mac 好用的视频播放器推荐](https://www.v2ex.com/t/814070)
+* [【2021-11-09】 [分享发现] 数码荔枝 购买软件遇到的问题](https://www.v2ex.com/t/814108)
+* [【2021-11-09】 [酷工作] [全职远程] 招聘前端工程师*5、 Java 工程师*2](https://www.v2ex.com/t/814107)
+* [【2021-11-09】 [iPhone] 大家 iPhone13 的电信卡还好用吗？](https://www.v2ex.com/t/814106)
+* [【2021-11-09】 [Apple] iPhone 查询保修购买日期未验证](https://www.v2ex.com/t/814105)
+* [【2021-11-09】 [Linux] TCP: out of memory -- consider tuning tcp_mem 如何调整？](https://www.v2ex.com/t/814104)
+* [【2021-11-09】 [JavaScript] 重构一个 Bootstrap 框架的历史项目，前端样式继续选 React Bootstrap、BootstrapVue？还是推荐别的 UI 框架？](https://www.v2ex.com/t/814103)
+* [【2021-11-09】 [Python] scrapy 部署之后是怎么和后台管理传递信息的？](https://www.v2ex.com/t/814102)
+* [【2021-11-09】 [问与答] 有没有能分享 edge 中网址和标签页主题到微信的方式？](https://www.v2ex.com/t/814101)
+* [【2021-11-09】 [问与答] 家里用洗碗机的有没有用中盐软水盐的？](https://www.v2ex.com/t/814100)
+* [【2021-11-09】 [Apple] Mac 自带 mail.app 发送 20MB 的附件，让用邮包发送，什么意思？](https://www.v2ex.com/t/814099)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-09 02:31:51
+:alarm_clock: 更新时间: 2021-11-09 03:21:46
