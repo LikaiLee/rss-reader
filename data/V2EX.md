@@ -1,6 +1,12 @@
 # V2EX
 
 
+* [2021-11-09  [Apple] iPhone 13 待机耗电](https://www.v2ex.com/t/814130)
+* [2021-11-09  [Go 编程语言] 再来吹一波 Golang](https://www.v2ex.com/t/814129)
+* [2021-11-09  [问与答] 有没有将近似的 hash 认为是相同 hash 的 hashset？](https://www.v2ex.com/t/814128)
+* [2021-11-09  [Apple] 申请不到 299 刀账号，该如何分发测试](https://www.v2ex.com/t/814127)
+* [2021-11-09  [Apple] 分享一下自己写的免费的压缩/解压工具](https://www.v2ex.com/t/814126)
+* [2021-11-09  [Apple] 苹果 12 pro 昨天过保，今天电池和主板坏了](https://www.v2ex.com/t/814124)
 * [2021-11-09  [酷工作] [广州] [珠海] [内推] 金山办公 wps 招聘 Go 中高级开发](https://www.v2ex.com/t/814121)
 * [2021-11-09  [Chrome] Chrome 最新版地址栏智能提示？](https://www.v2ex.com/t/814120)
 * [2021-11-09  [酷工作] [远程][兼职] 寻找 iOS 开发工程师](https://www.v2ex.com/t/814118)
