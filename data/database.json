@@ -516,6 +516,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[macOS] macOS Monterey type-c 反向充电问题新发现",
+                "link": "https://www.v2ex.com/t/814299",
+                "published": "2021-11-09"
+            },
+            {
                 "title": "[职场话题] 秋招 offer 选择&&建议",
                 "link": "https://www.v2ex.com/t/814297",
                 "published": "2021-11-09"
@@ -18101,7 +18106,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 3,

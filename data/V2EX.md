@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-11-09  [macOS] macOS Monterey type-c 反向充电问题新发现](https://www.v2ex.com/t/814299)
 * [2021-11-09  [职场话题] 秋招 offer 选择&&建议](https://www.v2ex.com/t/814297)
 * [2021-11-09  [问与答] 国家奖学金](https://www.v2ex.com/t/814296)
 * [2021-11-09  [天黑以后] 20211110 午夜俱乐部](https://www.v2ex.com/t/814295)
