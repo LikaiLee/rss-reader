@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+11】
+* [V2EX](#V2EX) 【+13】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-09】 [MacBook Pro] 老哥们，有没有发现苹果官网 MacBook pro 14 寸和 16 寸好像降价了](https://www.v2ex.com/t/814254)
-* [【2021-11-09】 [问与答] 求推荐相机，打算拍点视频当 UP 主](https://www.v2ex.com/t/814252)
-* [【2021-11-09】 [区块链] stacks 区块链 sip009 nft 协议标准](https://www.v2ex.com/t/814251)
-* [【2021-11-09】 [问与答] 二十多万采集站，做采集站用的 WordPress，卡得不要不要的。硬件 2 核 4G。](https://www.v2ex.com/t/814250)
-* [【2021-11-09】 [生活] 想起几年前因为二胎跟父亲大吵一架](https://www.v2ex.com/t/814248)
-* [【2021-11-09】 [Swift] Clean Architecture for SwiftUI + Combine](https://www.v2ex.com/t/814247)
-* [【2021-11-09】 [问与答] 现在还有在使用 Discuz 7.2 版本的社区 CMS 吗？悬赏一个插件](https://www.v2ex.com/t/814246)
-* [【2021-11-09】 [Apple] 大内存对于修图的重要性评测](https://www.v2ex.com/t/814245)
-* [【2021-11-09】 [分享发现] 安卓手机用户请关闭什么值得买 app 写入剪切板权限](https://www.v2ex.com/t/814244)
-* [【2021-11-09】 [酷工作] [深圳][明源云天际平台][内推] 前端/大数据/后端（Go/ PHP / Java ）/测试/运维](https://www.v2ex.com/t/814242)
+* [【2021-11-09】 [职场话题] 外包转内部，因为跳槽频繁导致 gg](https://www.v2ex.com/t/814269)
+* [【2021-11-09】 [酷工作] 长期内推字节跳动各种前端岗位 三天内必跟进回复](https://www.v2ex.com/t/814268)
+* [【2021-11-09】 [阅读] 求推荐网络小说，内容不限](https://www.v2ex.com/t/814266)
+* [【2021-11-09】 [PHP] Hyperf 3.0 开发中！](https://www.v2ex.com/t/814265)
+* [【2021-11-09】 [信息安全] 有没有可以离线更新病毒库的杀毒软件？](https://www.v2ex.com/t/814264)
+* [【2021-11-09】 [酷工作] #字节 1075🔥# [杭州] 字节电商事业部-物流中台，邀请你到碗里来～](https://www.v2ex.com/t/814263)
+* [【2021-11-09】 [Ansible] ansible sudo su - 不支持](https://www.v2ex.com/t/814262)
+* [【2021-11-09】 [问与答] 21 年 11 月，目前安卓手机性价比最高的是哪些款？不考虑系统。](https://www.v2ex.com/t/814261)
+* [【2021-11-09】 [macOS] [推荐] macOS 「高质量软件」订阅服务 setapp の 付费软件大赏](https://www.v2ex.com/t/814260)
+* [【2021-11-09】 [深圳] 坐标深圳，沃派青春卡 2.0 套餐值得办理吗，业内人士介绍说： 29 月租 80G+100 分钟通话](https://www.v2ex.com/t/814259)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-09 13:25:37
+:alarm_clock: 更新时间: 2021-11-09 14:18:34
