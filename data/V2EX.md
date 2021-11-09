@@ -1,6 +1,19 @@
 # V2EX
 
 
+* [2021-11-09  [天黑以后] 20211110 午夜俱乐部](https://www.v2ex.com/t/814295)
+* [2021-11-09  [问与答] 反电信诈骗的技术原理？](https://www.v2ex.com/t/814294)
+* [2021-11-09  [问与答] 现在国内有哪家信用卡押金预授权的支付供应商？](https://www.v2ex.com/t/814293)
+* [2021-11-09  [问与答] 关于 windows server 服务器全量 copy 的问题](https://www.v2ex.com/t/814291)
+* [2021-11-09  [macOS] 升级 Monterey 后键盘音量键触发切换输入法](https://www.v2ex.com/t/814290)
+* [2021-11-09  [问与答] 作为普通人，在缺煤限电，还可能发生寒潮的大环境下，能屯哪些物资？](https://www.v2ex.com/t/814289)
+* [2021-11-09  [前端开发] 求助 小程序 设计图 375 问题](https://www.v2ex.com/t/814288)
+* [2021-11-09  [Apple] 所以 MBP 16 Intel 版这么拉到底是苹果的锅还是英特尔的？](https://www.v2ex.com/t/814287)
+* [2021-11-09  [酷工作] [成都] [组内直推] 腾讯云数据库 内核/云管控/数据库 SaaS 服务（C++， Golang) 团队直招，光速回复](https://www.v2ex.com/t/814286)
+* [2021-11-09  [广州] 近视手术骨折价格了解一下](https://www.v2ex.com/t/814284)
+* [2021-11-09  [问与答] 比较低成本的持有一个国外 SIM 卡，有什么推荐嘛？](https://www.v2ex.com/t/814283)
+* [2021-11-09  [Linux] Red Hat Enterprise Linux 9 Beta 已发布 RHEL 9 测试版](https://www.v2ex.com/t/814282)
+* [2021-11-09  [NAS] 群晖的 Active Insight 大家怎么看？](https://www.v2ex.com/t/814280)
 * [2021-11-09  [职场话题] 45 岁 精通 Java](https://www.v2ex.com/t/814278)
 * [2021-11-09  [Apple] Parallels Desktop 闹鬼了？为什么虚拟机文件突然没了](https://www.v2ex.com/t/814276)
 * [2021-11-09  [问与答] 请教一个神经网络求函数最大值的问题](https://www.v2ex.com/t/814275)
