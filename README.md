@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX)
+* [V2EX](#V2EX) 【+2】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,6 +48,8 @@
     </summary>
 
 
+* [【2021-11-09】 [以太坊] 分享： Ubuntu Linux 上的挖矿笔记](https://www.v2ex.com/t/814301)
+* [【2021-11-09】 [Apple] 当前的 macOS 游戏语音/连麦看剧防止音量降低的最好方法是什么](https://www.v2ex.com/t/814300)
 * [【2021-11-09】 [macOS] macOS Monterey type-c 反向充电问题新发现](https://www.v2ex.com/t/814299)
 * [【2021-11-09】 [职场话题] 秋招 offer 选择&&建议](https://www.v2ex.com/t/814297)
 * [【2021-11-09】 [问与答] 国家奖学金](https://www.v2ex.com/t/814296)
@@ -56,8 +58,6 @@
 * [【2021-11-09】 [问与答] 现在国内有哪家信用卡押金预授权的支付供应商？](https://www.v2ex.com/t/814293)
 * [【2021-11-09】 [问与答] 关于 windows server 服务器全量 copy 的问题](https://www.v2ex.com/t/814291)
 * [【2021-11-09】 [macOS] 升级 Monterey 后键盘音量键触发切换输入法](https://www.v2ex.com/t/814290)
-* [【2021-11-09】 [问与答] 作为普通人，在缺煤限电，还可能发生寒潮的大环境下，能屯哪些物资？](https://www.v2ex.com/t/814289)
-* [【2021-11-09】 [前端开发] 求助 小程序 设计图 375 问题](https://www.v2ex.com/t/814288)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-09 19:15:59
+:alarm_clock: 更新时间: 2021-11-09 20:20:50

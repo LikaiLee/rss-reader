@@ -516,6 +516,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[以太坊] 分享： Ubuntu Linux 上的挖矿笔记",
+                "link": "https://www.v2ex.com/t/814301",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Apple] 当前的 macOS 游戏语音/连麦看剧防止音量降低的最好方法是什么",
+                "link": "https://www.v2ex.com/t/814300",
+                "published": "2021-11-09"
+            },
+            {
                 "title": "[macOS] macOS Monterey type-c 反向充电问题新发现",
                 "link": "https://www.v2ex.com/t/814299",
                 "published": "2021-11-09"
@@ -18106,7 +18116,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 3,

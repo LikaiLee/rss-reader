@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-11-09  [以太坊] 分享： Ubuntu Linux 上的挖矿笔记](https://www.v2ex.com/t/814301)
+* [2021-11-09  [Apple] 当前的 macOS 游戏语音/连麦看剧防止音量降低的最好方法是什么](https://www.v2ex.com/t/814300)
 * [2021-11-09  [macOS] macOS Monterey type-c 反向充电问题新发现](https://www.v2ex.com/t/814299)
 * [2021-11-09  [职场话题] 秋招 offer 选择&&建议](https://www.v2ex.com/t/814297)
 * [2021-11-09  [问与答] 国家奖学金](https://www.v2ex.com/t/814296)
