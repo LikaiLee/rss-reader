@@ -516,6 +516,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[职场话题] 秋招 offer 选择&&建议",
+                "link": "https://www.v2ex.com/t/814297",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 国家奖学金",
+                "link": "https://www.v2ex.com/t/814296",
+                "published": "2021-11-09"
+            },
+            {
                 "title": "[天黑以后] 20211110 午夜俱乐部",
                 "link": "https://www.v2ex.com/t/814295",
                 "published": "2021-11-09"
@@ -18091,7 +18101,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 13
+        "new_feeds": 2
     },
     {
         "id": 3,
