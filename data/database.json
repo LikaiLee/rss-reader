@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不读可以先收藏 05 | 再忙也不要错过这些好文章",
+                "link": "https://sspai.com/post/69819",
+                "published": "2021-11-09"
+            },
+            {
                 "title": "为了那声独一无二的「哒」：Galaxy Z Flip3 成为主力机的 60 天",
                 "link": "https://sspai.com/post/69810",
                 "published": "2021-11-09"
@@ -503,13 +508,48 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[前端开发] web 前端项目以 ssr 方式开发，有哪些 ssr 框架？",
+                "link": "https://www.v2ex.com/t/814231",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Apple] 腾讯音乐和 Apple Music 达成音乐授权协定",
+                "link": "https://www.v2ex.com/t/814230",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[macOS] safari 网页下载可以接力了， nice..",
+                "link": "https://www.v2ex.com/t/814229",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[English] 能帮忙想一个英文网名吗？ 要用来描述失败的那种，不是颓废，而是失败，低头",
+                "link": "https://www.v2ex.com/t/814228",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 前端有没有图片人工摆正的插件？或者怎么实现？",
+                "link": "https://www.v2ex.com/t/814225",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 想做一个操作系统，问问大家意见",
+                "link": "https://www.v2ex.com/t/814224",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Google] 放弃 Gmail 像恋爱分手一样，有点痛",
+                "link": "https://www.v2ex.com/t/814212",
+                "published": "2021-11-09"
+            },
             {
                 "title": "[分享发现] 关于近期企鹅共享个人信息给第三方的条款...怎么才能让“上面的人”知道呢？",
                 "link": "https://www.v2ex.com/t/814219",
@@ -17791,7 +17831,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 15
+        "new_feeds": 7
     },
     {
         "id": 3,
@@ -18284,6 +18324,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+15】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+7】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-09】 不读可以先收藏 05 | 再忙也不要错过这些好文章](https://sspai.com/post/69819)
 * [【2021-11-09】 为了那声独一无二的「哒」：Galaxy Z Flip3 成为主力机的 60 天](https://sspai.com/post/69810)
 * [【2021-11-09】 跨过安装的那道坎——为非技术人士准备的 Python 安装指南](https://sspai.com/post/69595)
 * [【2021-11-09】 数字存储完全指南 04：固态硬盘的参数解读与实际性能](https://sspai.com/post/69074)
@@ -38,7 +39,6 @@
 * [【2021-11-08】 双十一选对拓展坞，你可以从这两个角度入手](https://sspai.com/post/69701)
 * [【2021-11-08】 一日一技｜修复 Zotero 与 Papership 的联动，恢复 WebDAV 云同步](https://sspai.com/post/69747)
 * [【2021-11-08】 上虞图书馆数字漫游：你的家乡或许也有一段传奇往事](https://sspai.com/post/69606)
-* [【2021-11-08】 派早报：大疆推出 DJI Mavic 3 无人机、蜂窝网络版 iPad mini 通过工信部入网认证等](https://sspai.com/post/69736)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-09】 [前端开发] web 前端项目以 ssr 方式开发，有哪些 ssr 框架？](https://www.v2ex.com/t/814231)
+* [【2021-11-09】 [Apple] 腾讯音乐和 Apple Music 达成音乐授权协定](https://www.v2ex.com/t/814230)
+* [【2021-11-09】 [macOS] safari 网页下载可以接力了， nice..](https://www.v2ex.com/t/814229)
+* [【2021-11-09】 [English] 能帮忙想一个英文网名吗？ 要用来描述失败的那种，不是颓废，而是失败，低头](https://www.v2ex.com/t/814228)
+* [【2021-11-09】 [程序员] 前端有没有图片人工摆正的插件？或者怎么实现？](https://www.v2ex.com/t/814225)
+* [【2021-11-09】 [程序员] 想做一个操作系统，问问大家意见](https://www.v2ex.com/t/814224)
+* [【2021-11-09】 [Google] 放弃 Gmail 像恋爱分手一样，有点痛](https://www.v2ex.com/t/814212)
 * [【2021-11-09】 [分享发现] 关于近期企鹅共享个人信息给第三方的条款...怎么才能让“上面的人”知道呢？](https://www.v2ex.com/t/814219)
 * [【2021-11-09】 [生活] 在小县城里业余时间多的话学点什么好？](https://www.v2ex.com/t/814218)
 * [【2021-11-09】 [程序员] 为什么好多远程办公岗位都是区块链相关的？](https://www.v2ex.com/t/814217)
-* [【2021-11-09】 [MacBook Pro] 这个时候可以入手 m1 芯片的 macbook pro 吗？](https://www.v2ex.com/t/814216)
-* [【2021-11-09】 [问与答] 对同时需要打开多个即时聊天工具有无整合方案？](https://www.v2ex.com/t/814215)
-* [【2021-11-09】 [酷工作] 上海莉莉丝游戏 社招内推，校招补录内推](https://www.v2ex.com/t/814214)
-* [【2021-11-09】 [iPhone] 问下大家，收到 13 pro 不到两周，但是偶尔总觉得手机温热，而且拍照发烫你们有这个问题吗？](https://www.v2ex.com/t/814213)
-* [【2021-11-09】 [程序员] 放弃 Gmail 像恋爱分手一样，有点痛](https://www.v2ex.com/t/814212)
-* [【2021-11-09】 [IPv6] 看 v 站好多帖子都说，手机开热点电脑就有 ipv6 了，怎么我的没有](https://www.v2ex.com/t/814211)
-* [【2021-11-09】 [Windows] Windows11 启动后就有 Store 的 C++ runtime 通知咋回事](https://www.v2ex.com/t/814210)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-09 10:22:13
+:alarm_clock: 更新时间: 2021-11-09 11:16:47
