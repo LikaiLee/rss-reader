@@ -516,6 +516,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享创造] 我的新作品，最近写了一款背单词的 App， List 记单词",
+                "link": "https://www.v2ex.com/t/814303",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[随想] 「白米饭」会让你昏昏欲睡吗？你可以利用这点解决注意力和失眠问题",
+                "link": "https://www.v2ex.com/t/814302",
+                "published": "2021-11-09"
+            },
+            {
                 "title": "[以太坊] 分享： Ubuntu Linux 上的挖矿笔记",
                 "link": "https://www.v2ex.com/t/814301",
                 "published": "2021-11-09"
@@ -18116,7 +18126,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 3,

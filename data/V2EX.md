@@ -1,6 +1,8 @@
 # V2EX
 
 
+* [2021-11-09  [分享创造] 我的新作品，最近写了一款背单词的 App， List 记单词](https://www.v2ex.com/t/814303)
+* [2021-11-09  [随想] 「白米饭」会让你昏昏欲睡吗？你可以利用这点解决注意力和失眠问题](https://www.v2ex.com/t/814302)
 * [2021-11-09  [以太坊] 分享： Ubuntu Linux 上的挖矿笔记](https://www.v2ex.com/t/814301)
 * [2021-11-09  [Apple] 当前的 macOS 游戏语音/连麦看剧防止音量降低的最好方法是什么](https://www.v2ex.com/t/814300)
 * [2021-11-09  [macOS] macOS Monterey type-c 反向充电问题新发现](https://www.v2ex.com/t/814299)

@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX)
+* [V2EX](#V2EX) 【+2】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,6 +48,8 @@
     </summary>
 
 
+* [【2021-11-09】 [分享创造] 我的新作品，最近写了一款背单词的 App， List 记单词](https://www.v2ex.com/t/814303)
+* [【2021-11-09】 [随想] 「白米饭」会让你昏昏欲睡吗？你可以利用这点解决注意力和失眠问题](https://www.v2ex.com/t/814302)
 * [【2021-11-09】 [以太坊] 分享： Ubuntu Linux 上的挖矿笔记](https://www.v2ex.com/t/814301)
 * [【2021-11-09】 [Apple] 当前的 macOS 游戏语音/连麦看剧防止音量降低的最好方法是什么](https://www.v2ex.com/t/814300)
 * [【2021-11-09】 [macOS] macOS Monterey type-c 反向充电问题新发现](https://www.v2ex.com/t/814299)
@@ -56,8 +58,6 @@
 * [【2021-11-09】 [天黑以后] 20211110 午夜俱乐部](https://www.v2ex.com/t/814295)
 * [【2021-11-09】 [问与答] 反电信诈骗的技术原理？](https://www.v2ex.com/t/814294)
 * [【2021-11-09】 [问与答] 现在国内有哪家信用卡押金预授权的支付供应商？](https://www.v2ex.com/t/814293)
-* [【2021-11-09】 [问与答] 关于 windows server 服务器全量 copy 的问题](https://www.v2ex.com/t/814291)
-* [【2021-11-09】 [macOS] 升级 Monterey 后键盘音量键触发切换输入法](https://www.v2ex.com/t/814290)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-09 21:17:20
+:alarm_clock: 更新时间: 2021-11-09 22:19:43
