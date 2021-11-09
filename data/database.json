@@ -501,6 +501,66 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 程序员这个职业和足球/篮球运动员有点类似啊",
+                "link": "https://www.v2ex.com/t/814161",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 买了个蓝牙适配器放到公司台式机，为啥搜不到罗技 M590 呢",
+                "link": "https://www.v2ex.com/t/814160",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[iPhone] 相簿照片人物扫描总是请锁定 iPhone 并连接到电源，怎么破？",
+                "link": "https://www.v2ex.com/t/814158",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Node.js] 关于 node.js 下的 ssh2 的问题",
+                "link": "https://www.v2ex.com/t/814156",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] Java 栈，对硬件操控很感兴趣，研发过程中遇到了些问题请教各位",
+                "link": "https://www.v2ex.com/t/814155",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Apple] 天气变冷， Apple 设备又开始跳电了。",
+                "link": "https://www.v2ex.com/t/814154",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[程序员] 大家公司内部的公共库，中间件等基础设施会内部开源吗，接收 PR 吗",
+                "link": "https://www.v2ex.com/t/814153",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 迫于太能出汗， xm3 的耳罩已经破皮严重，求推荐一款表现相对优秀的替换耳罩",
+                "link": "https://www.v2ex.com/t/814152",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[上海] 这个月跳槽了，从漕河泾到张江，请问 V 友们有推荐的找房渠道吗？整租预算 5K。",
+                "link": "https://www.v2ex.com/t/814151",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[奇思妙想] 做一个复古爱好者论坛怎么样？",
+                "link": "https://www.v2ex.com/t/814150",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 感觉现在的自来水越来越臭了。时常很黄。有没有那种全屋净水的方案。",
+                "link": "https://www.v2ex.com/t/814149",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[宽带症候群] 家庭装修 AP 方案交流",
+                "link": "https://www.v2ex.com/t/814139",
+                "published": "2021-11-09"
+            },
+            {
                 "title": "[Apple] 可能不是个例， iPhone12 双卡双待情况下游戏偶尔高时延 999 问题",
                 "link": "https://www.v2ex.com/t/814148",
                 "published": "2021-11-09"
@@ -17506,7 +17566,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 17
+        "new_feeds": 12
     },
     {
         "id": 3,
