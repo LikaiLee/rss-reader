@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+25】
-* [知乎每日精选](#知乎每日精选)
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+10】
+* [知乎每日精选](#知乎每日精选) 【+2】
 
 ## 文章链接
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-09】 [分享发现] 数码荔枝 购买软件遇到的问题](https://www.v2ex.com/t/814108)
-* [【2021-11-09】 [酷工作] [全职远程] 招聘前端工程师*5、 Java 工程师*2](https://www.v2ex.com/t/814107)
-* [【2021-11-09】 [iPhone] 大家 iPhone13 的电信卡还好用吗？](https://www.v2ex.com/t/814106)
-* [【2021-11-09】 [Apple] iPhone 查询保修购买日期未验证](https://www.v2ex.com/t/814105)
-* [【2021-11-09】 [Linux] TCP: out of memory -- consider tuning tcp_mem 如何调整？](https://www.v2ex.com/t/814104)
-* [【2021-11-09】 [JavaScript] 重构一个 Bootstrap 框架的历史项目，前端样式继续选 React Bootstrap、BootstrapVue？还是推荐别的 UI 框架？](https://www.v2ex.com/t/814103)
-* [【2021-11-09】 [Python] scrapy 部署之后是怎么和后台管理传递信息的？](https://www.v2ex.com/t/814102)
-* [【2021-11-09】 [问与答] 有没有能分享 edge 中网址和标签页主题到微信的方式？](https://www.v2ex.com/t/814101)
-* [【2021-11-09】 [问与答] 家里用洗碗机的有没有用中盐软水盐的？](https://www.v2ex.com/t/814100)
-* [【2021-11-09】 [Apple] Mac 自带 mail.app 发送 20MB 的附件，让用邮包发送，什么意思？](https://www.v2ex.com/t/814099)
+* [【2021-11-09】 [酷工作] [广州] [珠海] [内推] 金山办公 wps 招聘 Go 中高级开发](https://www.v2ex.com/t/814121)
+* [【2021-11-09】 [Chrome] Chrome 最新版地址栏智能提示？](https://www.v2ex.com/t/814120)
+* [【2021-11-09】 [酷工作] [远程][兼职] 寻找 iOS 开发工程师](https://www.v2ex.com/t/814118)
+* [【2021-11-09】 [深圳] 迫于耳鸣，求推荐医院](https://www.v2ex.com/t/814117)
+* [【2021-11-09】 [Java] Java ITEXT 对 pdf 文本部分文本进行隐藏处理求助](https://www.v2ex.com/t/814116)
+* [【2021-11-09】 [问与答] 有什么优雅的方式可以把 numpy 数组转换成哈希值吗？](https://www.v2ex.com/t/814115)
+* [【2021-11-09】 [问与答] 这 ElementPlus 这是什么鬼啊，官方 Demo 都是错的。](https://www.v2ex.com/t/814113)
+* [【2021-11-09】 [问与答] 有什么好用的远程连接电脑的工具嘛，家里有个黑苹果，经常在公司用笔记本远程连接，一直用 todesk 远程连接，最近越来越感觉 todesk 很卡，特别卡，点一下要好久才有反应。想换个稳定一点的工具](https://www.v2ex.com/t/814112)
+* [【2021-11-09】 [硬件] 为啥没有平板厂家做个支持 Type-C DP Alt in 的平板呢](https://www.v2ex.com/t/814110)
+* [【2021-11-09】 [云计算] 有用过 ucloud 家的云服务器的吗？](https://www.v2ex.com/t/814059)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -67,6 +67,8 @@
     </summary>
 
 
+* [【2021-11-09】 如何以「车站里，有个男人死了」为开头写一篇悬疑故事？](http://www.zhihu.com/question/492411725/answer/2179157256?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-11-09】 追忆人民军医陈菊梅，陈教授有什么贡献值得我们铭记？如何评价她的一生？](http://www.zhihu.com/question/497534649/answer/2214080056?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-08】 酱香型、浓香型、清香型、兼香型白酒到底有什么区别？](http://www.zhihu.com/question/20828281/answer/2207830954?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-05】 国内有哪些适合度假的酒店？](http://www.zhihu.com/question/303023687/answer/2206724842?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-04】 官宣：电视剧《和平之舟》定档央视一套黄金时间播出！](http://zhuanlan.zhihu.com/p/428672087?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -75,8 +77,6 @@
 * [【2021-11-03】 「人武部给预备役退伍军人发召回短信」系谣言，伪造散播涉军谣言将会受到什么处罚？](http://www.zhihu.com/question/496304840/answer/2203847145?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-03】 《沙丘》原著粉如何评价电影版《沙丘》？](http://www.zhihu.com/question/493552121/answer/2192864483?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-02】 中国实现连续丰收 18 年，你如何看待这一喜讯？「中国饭碗」到底有多硬？](http://www.zhihu.com/question/496056671/answer/2202456757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-02】 如何评价国产动画《识夜描银》？](http://www.zhihu.com/question/489702836/answer/2202420660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-02】 我国首部「个人信息保护法」实施，买卖个人信息最高可判七年，个人信息包括什么？这部法律有哪些积极意义？](http://www.zhihu.com/question/495846558/answer/2201845815?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-09 03:21:46
+:alarm_clock: 更新时间: 2021-11-09 04:26:26

@@ -493,13 +493,63 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[酷工作] [广州] [珠海] [内推] 金山办公 wps 招聘 Go 中高级开发",
+                "link": "https://www.v2ex.com/t/814121",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Chrome] Chrome 最新版地址栏智能提示？",
+                "link": "https://www.v2ex.com/t/814120",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[酷工作] [远程][兼职] 寻找 iOS 开发工程师",
+                "link": "https://www.v2ex.com/t/814118",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[深圳] 迫于耳鸣，求推荐医院",
+                "link": "https://www.v2ex.com/t/814117",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[Java] Java ITEXT 对 pdf 文本部分文本进行隐藏处理求助",
+                "link": "https://www.v2ex.com/t/814116",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 有什么优雅的方式可以把 numpy 数组转换成哈希值吗？",
+                "link": "https://www.v2ex.com/t/814115",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 这 ElementPlus 这是什么鬼啊，官方 Demo 都是错的。",
+                "link": "https://www.v2ex.com/t/814113",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[问与答] 有什么好用的远程连接电脑的工具嘛，家里有个黑苹果，经常在公司用笔记本远程连接，一直用 todesk 远程连接，最近越来越感觉 todesk 很卡，特别卡，点一下要好久才有反应。想换个稳定一点的工具",
+                "link": "https://www.v2ex.com/t/814112",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[硬件] 为啥没有平板厂家做个支持 Type-C DP Alt in 的平板呢",
+                "link": "https://www.v2ex.com/t/814110",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "[云计算] 有用过 ucloud 家的云服务器的吗？",
+                "link": "https://www.v2ex.com/t/814059",
+                "published": "2021-11-09"
+            },
             {
                 "title": "[分享发现] 数码荔枝 购买软件遇到的问题",
                 "link": "https://www.v2ex.com/t/814108",
@@ -17341,13 +17391,23 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 25
+        "new_feeds": 10
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "如何以「车站里，有个男人死了」为开头写一篇悬疑故事？",
+                "link": "http://www.zhihu.com/question/492411725/answer/2179157256?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-09"
+            },
+            {
+                "title": "追忆人民军医陈菊梅，陈教授有什么贡献值得我们铭记？如何评价她的一生？",
+                "link": "http://www.zhihu.com/question/497534649/answer/2214080056?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-09"
+            },
             {
                 "title": "酱香型、浓香型、清香型、兼香型白酒到底有什么区别？",
                 "link": "http://www.zhihu.com/question/20828281/answer/2207830954?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -17819,6 +17879,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     }
 ]
