@@ -1,6 +1,7 @@
 # V2EX
 
 
+* [2021-11-10  [问与答] 想问问嵌入式和二进制安全的知识体系接近吗？](https://www.v2ex.com/t/814560)
 * [2021-11-10  [Spotify] Spotify 的 UI 设计师是怎么想的](https://www.v2ex.com/t/814559)
 * [2021-11-10  [问与答] 蔡司臻锐钻立方铂金膜还是防蓝光膜](https://www.v2ex.com/t/814558)
 * [2021-11-10  [分享创造] 分享内容到任何接口-share2AnyWhere android APP](https://www.v2ex.com/t/814557)
