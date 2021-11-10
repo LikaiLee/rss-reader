@@ -551,6 +551,36 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] M1 MBP usb-c 连 DEll U2720q 音量控制问题",
+                "link": "https://www.v2ex.com/t/814526",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 才发现 uniqlo 买的内衣裤不能（不建议）烘干",
+                "link": "https://www.v2ex.com/t/814525",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 英短猫粮双十一有什么划算的吗",
+                "link": "https://www.v2ex.com/t/814524",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[杭州] 春波西苑",
+                "link": "https://www.v2ex.com/t/814523",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[iCloud] 国区 AM➕2TB iCloud 6 人车",
+                "link": "https://www.v2ex.com/t/814522",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Android] 小米 5s 的电信 volte 怎么弄？",
+                "link": "https://www.v2ex.com/t/814521",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "[macOS] mac 端微信更新之后不能免确认登录了",
                 "link": "https://www.v2ex.com/t/814520",
                 "published": "2021-11-10"
@@ -19016,7 +19046,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 6
     },
     {
         "id": 3,
