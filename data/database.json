@@ -556,6 +556,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[MacBook Pro] [求助]欧洲怎么买 MacBook Pro 便宜",
+                "link": "https://www.v2ex.com/t/814561",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "[问与答] 想问问嵌入式和二进制安全的知识体系接近吗？",
                 "link": "https://www.v2ex.com/t/814560",
                 "published": "2021-11-10"
@@ -19201,7 +19206,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 3,
