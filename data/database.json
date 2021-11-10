@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 利用这个开源工具你也可以为 PDF 添加目录",
+                "link": "https://sspai.com/post/69601",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "派早报：腾讯音乐与 Apple Music 达成合作、微软推出专为孩童设计的 Surface Laptop SE",
                 "link": "https://sspai.com/post/69862",
                 "published": "2021-11-10"
@@ -513,13 +518,43 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[奇思妙想] 看隔壁背单词软件有感，英语学习软件",
+                "link": "https://www.v2ex.com/t/814392",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 有吃蛋白粉过敏的朋友吗？",
+                "link": "https://www.v2ex.com/t/814391",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[macOS] 新 MBP2021 款 pro 芯片控制中心内存占用 27.59G",
+                "link": "https://www.v2ex.com/t/814389",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 现在小程序和微信公众号还有技术市场吗？",
+                "link": "https://www.v2ex.com/t/814388",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[移动开发] Bugly 现在还有维护么",
+                "link": "https://www.v2ex.com/t/814387",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[分享发现] 印象笔记-干的漂亮",
+                "link": "https://www.v2ex.com/t/814385",
+                "published": "2021-11-10"
+            },
             {
                 "title": "[优惠信息] epic steam 《小缇娜强袭龙堡：奇幻之地大冒险》和反乌托邦游戏《旁观者》免费领取",
                 "link": "https://www.v2ex.com/t/814384",
@@ -18446,13 +18481,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 18
+        "new_feeds": 6
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "如何评价国产动画《两不疑》？",
+                "link": "http://www.zhihu.com/question/455527111/answer/2214954703?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-10"
+            },
             {
                 "title": "中国人民解放军东部战区在台海方向进行联合战备警巡，如何看待此次军事活动？哪些信息值得关注？",
                 "link": "http://www.zhihu.com/question/497797857/answer/2215681032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -18954,6 +18994,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
