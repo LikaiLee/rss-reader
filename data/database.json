@@ -521,6 +521,96 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[优惠信息] epic steam 《小缇娜强袭龙堡：奇幻之地大冒险》和反乌托邦游戏《旁观者》免费领取",
+                "link": "https://www.v2ex.com/t/814384",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[NAS] 威联通 ts 453d 为什么功耗这么高",
+                "link": "https://www.v2ex.com/t/814383",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Apple] 库克：想用 Sideload APP 的用户可以去用安卓",
+                "link": "https://www.v2ex.com/t/814382",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[macOS] Keyboard Maestro 的替代品 Karabiner Elements， Hammerspoon",
+                "link": "https://www.v2ex.com/t/814381",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[推广] 如果你需要一台 NUC11 主机,双 11 抽一人免单!",
+                "link": "https://www.v2ex.com/t/814380",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Chrome] Chrome 和 EDGE 下有什么替代或者设置 SmartProxy 的插件或者教程吗",
+                "link": "https://www.v2ex.com/t/814379",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[宽带症候群] 深圳电信可以办理 60 元/月单宽带了",
+                "link": "https://www.v2ex.com/t/814378",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[iPhone] IOS 是通过什么方式检测 WIFI 能否连接的？",
+                "link": "https://www.v2ex.com/t/814377",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[iDev] 哪里可以买到苹果开发者账号公司的",
+                "link": "https://www.v2ex.com/t/814376",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] P2P 暴雷，钱拿不回，骗子开始登场了，很像回事儿",
+                "link": "https://www.v2ex.com/t/814375",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] 在公司支援驻场同事的银行项目,银行项目都是急的飞起的项目吗。。",
+                "link": "https://www.v2ex.com/t/814374",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[MacBook] 触控板怎么看有没有充满电?",
+                "link": "https://www.v2ex.com/t/814373",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[MacBook Pro] 迫于原来的坞坏了， Macbook Pro 双 4k 60hz 拓展坞市面上有得卖吗",
+                "link": "https://www.v2ex.com/t/814372",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Node.js] 关于 Node.js 中使用 ssh2 的问题",
+                "link": "https://www.v2ex.com/t/814371",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] Office 和 wps 中的换行符是什么？",
+                "link": "https://www.v2ex.com/t/814370",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[分享创造] 可批量检测更新的博客导航（提供在线试用）",
+                "link": "https://www.v2ex.com/t/814369",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[macOS] macbook 使用雷电 3 万兆网卡",
+                "link": "https://www.v2ex.com/t/814365",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] iPad mini 6 蜂窝版 澳门代购靠谱吗？",
+                "link": "https://www.v2ex.com/t/814364",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "[问与答] 为什么同一个资源 通过 Webdav 播放点不亮杜比视界，拷贝到电视就可以了？",
                 "link": "https://www.v2ex.com/t/814363",
                 "published": "2021-11-10"
@@ -18356,7 +18446,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 17
+        "new_feeds": 18
     },
     {
         "id": 3,
@@ -18864,6 +18954,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
