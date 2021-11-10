@@ -4,8 +4,8 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+30】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [V2EX](#V2EX) 【+23】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-10】 双十一 | 两款让你久等的少数派周边，以及新老产品折扣中](https://sspai.com/post/69808)
 * [【2021-11-10】 与信息舒适共处：我的信息极简管理实践](https://sspai.com/post/69749)
 * [【2021-11-10】 一日一技 | 利用这个开源工具你也可以为 PDF 添加目录](https://sspai.com/post/69601)
 * [【2021-11-10】 派早报：腾讯音乐与 Apple Music 达成合作、微软推出专为孩童设计的 Surface Laptop SE](https://sspai.com/post/69862)
@@ -38,7 +39,6 @@
 * [【2021-11-09】 数字存储完全指南 04：固态硬盘的参数解读与实际性能](https://sspai.com/post/69074)
 * [【2021-11-09】 派早报：高通公布 2021 骁龙技术峰会时间，Pixel 6 系列出现指纹相关问题](https://sspai.com/post/69761)
 * [【2021-11-08】 派评 | 近期值得关注的 App](https://sspai.com/post/69751)
-* [【2021-11-08】 限时福利丨MarginNote 3 工具升值包上架：你的高效学习利器](https://sspai.com/post/69733)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-10】 [武汉] 最近收到几个超低利率的信用贷](https://www.v2ex.com/t/814445)
-* [【2021-11-10】 [Google] 怎么迁移谷歌的 Blogger 博客文章？](https://www.v2ex.com/t/814444)
-* [【2021-11-10】 [服务器] 干货分享一下](https://www.v2ex.com/t/814443)
-* [【2021-11-10】 [分享发现] 有什么有意思的 tg 群？](https://www.v2ex.com/t/814442)
-* [【2021-11-10】 [酷工作] [杭州][全职] [15-35K 特别优秀可谈]前端/后端/合约开发职位开放中](https://www.v2ex.com/t/814441)
-* [【2021-11-10】 [生活] 现在的推销都这么精准的嘛！](https://www.v2ex.com/t/814440)
-* [【2021-11-10】 [问与答] 英特尔 uhd750 核显性能](https://www.v2ex.com/t/814439)
-* [【2021-11-10】 [问与答] 双十一好像越来越没感觉了？你双十一买了啥](https://www.v2ex.com/t/814437)
-* [【2021-11-10】 [云计算] 腾讯云 2 核 4G8M 的轻量云主机， 3 年 198？和标准主机有什么区别](https://www.v2ex.com/t/814436)
-* [【2021-11-10】 [京东] 55 收个京东 PLUS](https://www.v2ex.com/t/814434)
+* [【2021-11-10】 [硬件] 想装黑苹果，问下兄弟们当前硬件是否可以完美黑苹果](https://www.v2ex.com/t/814471)
+* [【2021-11-10】 [Apple] 双十一想给黑苹果换块更大的 SSD，该怎么克隆系统到新硬盘上面](https://www.v2ex.com/t/814470)
+* [【2021-11-10】 [问与答] 有爬虫大佬知道下面的 js 加密是什么格式吗？又怎么解密，头很大](https://www.v2ex.com/t/814469)
+* [【2021-11-10】 [酷工作] [全职招牛人&上海] -高级 Java 开发总监-红杉资本中国基金被投成员企业-「拆蛋 Chydan」](https://www.v2ex.com/t/814468)
+* [【2021-11-10】 [云计算] 干货分享，硬货](https://www.v2ex.com/t/814467)
+* [【2021-11-10】 [PHP] 有没有好用的 PHP 给 第三方网站页面全屏截图的组件](https://www.v2ex.com/t/814466)
+* [【2021-11-10】 [Apple] 因为没有 32G 的 Air，这次的 MBP 又太贵，不知道怎么选了](https://www.v2ex.com/t/814465)
+* [【2021-11-10】 [推广] 阿里云老用户新购或续费服务器最低 3.5 折 没看到的记得领券](https://www.v2ex.com/t/814464)
+* [【2021-11-10】 [问与答] 个人博客被采集站疯狂采集怎么办](https://www.v2ex.com/t/814463)
+* [【2021-11-10】 [推广] 一年一次 URLOS 标准版永久授权 秒杀 11.11 元](https://www.v2ex.com/t/814462)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-10 08:23:59
+:alarm_clock: 更新时间: 2021-11-10 09:20:52

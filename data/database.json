@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "双十一 | 两款让你久等的少数派周边，以及新老产品折扣中",
+                "link": "https://sspai.com/post/69808",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "与信息舒适共处：我的信息极简管理实践",
                 "link": "https://sspai.com/post/69749",
                 "published": "2021-11-10"
@@ -530,6 +535,121 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[硬件] 想装黑苹果，问下兄弟们当前硬件是否可以完美黑苹果",
+                "link": "https://www.v2ex.com/t/814471",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Apple] 双十一想给黑苹果换块更大的 SSD，该怎么克隆系统到新硬盘上面",
+                "link": "https://www.v2ex.com/t/814470",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 有爬虫大佬知道下面的 js 加密是什么格式吗？又怎么解密，头很大",
+                "link": "https://www.v2ex.com/t/814469",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[酷工作] [全职招牛人&上海] -高级 Java 开发总监-红杉资本中国基金被投成员企业-「拆蛋 Chydan」",
+                "link": "https://www.v2ex.com/t/814468",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[云计算] 干货分享，硬货",
+                "link": "https://www.v2ex.com/t/814467",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[PHP] 有没有好用的 PHP 给 第三方网站页面全屏截图的组件",
+                "link": "https://www.v2ex.com/t/814466",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Apple] 因为没有 32G 的 Air，这次的 MBP 又太贵，不知道怎么选了",
+                "link": "https://www.v2ex.com/t/814465",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[推广] 阿里云老用户新购或续费服务器最低 3.5 折 没看到的记得领券",
+                "link": "https://www.v2ex.com/t/814464",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 个人博客被采集站疯狂采集怎么办",
+                "link": "https://www.v2ex.com/t/814463",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[推广] 一年一次 URLOS 标准版永久授权 秒杀 11.11 元",
+                "link": "https://www.v2ex.com/t/814462",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[美酒与美食] 求推荐一款 租房用 多功能锅， 1 个人用，想做简单的料理",
+                "link": "https://www.v2ex.com/t/814461",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] bugly 挂了吗？登录不上去",
+                "link": "https://www.v2ex.com/t/814460",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[全球工单系统] 新版本微信快捷分享功能的自定义分享 BUG",
+                "link": "https://www.v2ex.com/t/814459",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 大家对培训机构刚出来造假经验的怎么看",
+                "link": "https://www.v2ex.com/t/814458",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Apple] 受不了苹果输入法的词语调整, 把它关掉舒服多了",
+                "link": "https://www.v2ex.com/t/814457",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Apple] 新 mac 颜色选择",
+                "link": "https://www.v2ex.com/t/814456",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 自己的 1080ti 是拿来挖矿还是二手卖了？",
+                "link": "https://www.v2ex.com/t/814453",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[ WATCH] 关于 apple watch 充电的奇怪想法",
+                "link": "https://www.v2ex.com/t/814452",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 有没有老哥科普下乐高的玩法、乐趣或意义在哪",
+                "link": "https://www.v2ex.com/t/814451",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Python] 使用 JSONClasses 框架， 5 分钟之内实现 API 的权限功能",
+                "link": "https://www.v2ex.com/t/814449",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 雷蛇口罩大陆啥时候开卖啊？",
+                "link": "https://www.v2ex.com/t/814448",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[macOS] macOS Monterey + Magic Mouse 2 无法上下滚动",
+                "link": "https://www.v2ex.com/t/814447",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[区块链] 想聊一下虚拟货币~",
+                "link": "https://www.v2ex.com/t/814446",
+                "published": "2021-11-10"
+            },
             {
                 "title": "[武汉] 最近收到几个超低利率的信用贷",
                 "link": "https://www.v2ex.com/t/814445",
@@ -18671,7 +18791,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 30
+        "new_feeds": 23
     },
     {
         "id": 3,
@@ -19199,6 +19319,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     }
 ]
