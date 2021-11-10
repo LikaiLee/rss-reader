@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+6】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-10】 [问与答] obsidian 自动保存，配合 google drive 同步是否会损害 ssd 硬盘？](https://www.v2ex.com/t/814405)
+* [【2021-11-10】 [问与答] 数量有限的同类型接口，如何设计？](https://www.v2ex.com/t/814404)
+* [【2021-11-10】 [MacBook Pro] 大家 a 面都贴什么膜，分享看看](https://www.v2ex.com/t/814402)
+* [【2021-11-10】 [Apple] 惊喜， 11.20-11.27 的居然发货了，发货了，发货了！](https://www.v2ex.com/t/814400)
+* [【2021-11-10】 [分享发现] 观当前英语帖子有感，分享一个我借鉴过来的关于英语学习的小程序](https://www.v2ex.com/t/814398)
+* [【2021-11-10】 [推广] 阿里云双十一超级冰点价，为了性能和稳定，买买买](https://www.v2ex.com/t/814396)
+* [【2021-11-10】 [MacBook Pro] 是不是 64G 内存的就都没有发货啊。](https://www.v2ex.com/t/814394)
 * [【2021-11-10】 [奇思妙想] 看隔壁背单词软件有感，英语学习软件](https://www.v2ex.com/t/814392)
 * [【2021-11-10】 [问与答] 有吃蛋白粉过敏的朋友吗？](https://www.v2ex.com/t/814391)
 * [【2021-11-10】 [macOS] 新 MBP2021 款 pro 芯片控制中心内存占用 27.59G](https://www.v2ex.com/t/814389)
-* [【2021-11-10】 [问与答] 现在小程序和微信公众号还有技术市场吗？](https://www.v2ex.com/t/814388)
-* [【2021-11-10】 [移动开发] Bugly 现在还有维护么](https://www.v2ex.com/t/814387)
-* [【2021-11-10】 [分享发现] 印象笔记-干的漂亮](https://www.v2ex.com/t/814385)
-* [【2021-11-10】 [优惠信息] epic steam 《小缇娜强袭龙堡：奇幻之地大冒险》和反乌托邦游戏《旁观者》免费领取](https://www.v2ex.com/t/814384)
-* [【2021-11-10】 [NAS] 威联通 ts 453d 为什么功耗这么高](https://www.v2ex.com/t/814383)
-* [【2021-11-10】 [Apple] 库克：想用 Sideload APP 的用户可以去用安卓](https://www.v2ex.com/t/814382)
-* [【2021-11-10】 [macOS] Keyboard Maestro 的替代品 Karabiner Elements， Hammerspoon](https://www.v2ex.com/t/814381)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -67,6 +67,7 @@
     </summary>
 
 
+* [【2021-11-10】 国产动画《两不疑》好看吗？](http://www.zhihu.com/question/455527111/answer/2214954703?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-10】 如何评价国产动画《两不疑》？](http://www.zhihu.com/question/455527111/answer/2214954703?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-10】 中国人民解放军东部战区在台海方向进行联合战备警巡，如何看待此次军事活动？哪些信息值得关注？](http://www.zhihu.com/question/497797857/answer/2215681032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-10】 身处边疆，我国各地边防官兵是如何过冬的，有哪些不同？](http://www.zhihu.com/question/497703292/answer/2215791796?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -76,7 +77,6 @@
 * [【2021-11-09】 追忆人民军医陈菊梅，陈教授有什么贡献值得我们铭记？如何评价她的一生？](http://www.zhihu.com/question/497534649/answer/2214080056?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-08】 酱香型、浓香型、清香型、兼香型白酒到底有什么区别？](http://www.zhihu.com/question/20828281/answer/2207830954?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-05】 国内有哪些适合度假的酒店？](http://www.zhihu.com/question/303023687/answer/2206724842?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-04】 官宣：电视剧《和平之舟》定档央视一套黄金时间播出！](http://zhuanlan.zhihu.com/p/428672087?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-10 05:16:44
+:alarm_clock: 更新时间: 2021-11-10 06:24:39
