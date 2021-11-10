@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+7】
-* [知乎每日精选](#知乎每日精选)
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-10】 「付费栏目」 三大限定活动现在开启](https://sspai.com/post/69833)
 * [【2021-11-10】 拒绝套路，「付费栏目」 双十一限定活动现在开启](https://sspai.com/post/69833)
 * [【2021-11-10】 11 日二技 | 你的 macOS 鼠标指针被我们承包了](https://sspai.com/post/69830)
 * [【2021-11-10】 当我们聊全屋智能的时候，别忘了家还可以被音乐溢满](https://sspai.com/post/69730)
@@ -38,7 +39,6 @@
 * [【2021-11-10】 派早报：腾讯音乐与 Apple Music 达成合作、微软推出专为孩童设计的 Surface Laptop SE](https://sspai.com/post/69862)
 * [【2021-11-09】 不读可以先收藏 05 | 再忙也不要错过这些好文章](https://sspai.com/post/69819)
 * [【2021-11-09】 为了那声独一无二的「哒」：Galaxy Z Flip3 成为主力机的 60 天](https://sspai.com/post/69810)
-* [【2021-11-09】 跨过安装的那道坎——为非技术人士准备的 Python 安装指南](https://sspai.com/post/69595)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,6 +48,8 @@
     </summary>
 
 
+* [【2021-11-10】 [京东] 狗东买衣服发现刷单太严重太明显了](https://www.v2ex.com/t/814539)
+* [【2021-11-10】 [UNIQLO] 才发现 uniqlo 买的内衣裤不能（不建议）烘干](https://www.v2ex.com/t/814525)
 * [【2021-11-10】 [宽带症候群] 请教下大家我在配光猫 vlan 单线复用时遇到的问题(tag/untag/DHCP)](https://www.v2ex.com/t/814548)
 * [【2021-11-10】 [宽带症候群] 这两天阿里云深圳到香港，精品网络丢包严重，有同样问题的不？](https://www.v2ex.com/t/814547)
 * [【2021-11-10】 [路由器] 路由设置问题](https://www.v2ex.com/t/814545)
@@ -56,8 +58,6 @@
 * [【2021-11-10】 [京东] 双 11 京东尼康微单没货，淘宝店库存却有很多是正常的吗？](https://www.v2ex.com/t/814541)
 * [【2021-11-10】 [Python] pandas 怎么对比当前行的前面 7 天的所有某列的数字？](https://www.v2ex.com/t/814540)
 * [【2021-11-10】 [宽带症候群] 北京联通 Wall 设备升级了](https://www.v2ex.com/t/814538)
-* [【2021-11-10】 [程序员] 最后再发一次，求个 React 前端及其他各类，口头承诺 100w， 3 年之期，没兴趣的不要点进来说什么白嫖，有兴趣博一下的点进来看看，谢谢](https://www.v2ex.com/t/814537)
-* [【2021-11-10】 [ WATCH] apple watch se nike 值得买吗？](https://www.v2ex.com/t/814536)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -67,6 +67,7 @@
     </summary>
 
 
+* [【2021-11-10】 11.11是空军节，72年来空军经历了哪些艰辛又取得怎样的成就？你有哪些祝福？](http://www.zhihu.com/question/495919290/answer/2216733513?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-10】 游戏《艾尔登法环》（Elden Ring）测试资格已陆续公布，你抽到了吗，本次封闭网络测试体验如何？](http://www.zhihu.com/question/497487354/answer/2217200229?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-10】 11.11是空军节，72年来空军经历了哪些艰辛又取得怎样的成就？你有哪些祝福？](http://www.zhihu.com/question/495919290/answer/2216552803?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-10】 11 月 11 日是中国空军节，中国空军有哪些兵种？空军发展至今经历了哪些艰辛、取得了哪些成就？](http://www.zhihu.com/question/495919290/answer/2216552803?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -76,7 +77,6 @@
 * [【2021-11-10】 中国人民解放军东部战区在台海方向进行联合战备警巡，如何看待此次军事活动？哪些信息值得关注？](http://www.zhihu.com/question/497797857/answer/2215681032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-10】 身处边疆，我国各地边防官兵是如何过冬的，有哪些不同？](http://www.zhihu.com/question/497703292/answer/2215791796?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-09】 中国人民解放军东部战区在台海方向进行联合战备警巡，如何看待此次军事活动？哪些信息值得关注？](http://www.zhihu.com/question/497797857/answer/2215484947?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-09】 身处边疆，我国各地边防官兵是如何过冬的，有哪些不同？](http://www.zhihu.com/question/497703292/answer/2214807833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-10 16:31:17
+:alarm_clock: 更新时间: 2021-11-10 17:17:28

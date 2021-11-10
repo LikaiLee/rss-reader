@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "「付费栏目」 三大限定活动现在开启",
+                "link": "https://sspai.com/post/69833",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "拒绝套路，「付费栏目」 双十一限定活动现在开启",
                 "link": "https://sspai.com/post/69833",
                 "published": "2021-11-10"
@@ -543,13 +548,23 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[京东] 狗东买衣服发现刷单太严重太明显了",
+                "link": "https://www.v2ex.com/t/814539",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[UNIQLO] 才发现 uniqlo 买的内衣裤不能（不建议）烘干",
+                "link": "https://www.v2ex.com/t/814525",
+                "published": "2021-11-10"
+            },
             {
                 "title": "[宽带症候群] 请教下大家我在配光猫 vlan 单线复用时遇到的问题(tag/untag/DHCP)",
                 "link": "https://www.v2ex.com/t/814548",
@@ -19136,13 +19151,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 2
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "11.11是空军节，72年来空军经历了哪些艰辛又取得怎样的成就？你有哪些祝福？",
+                "link": "http://www.zhihu.com/question/495919290/answer/2216733513?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-10"
+            },
             {
                 "title": "游戏《艾尔登法环》（Elden Ring）测试资格已陆续公布，你抽到了吗，本次封闭网络测试体验如何？",
                 "link": "http://www.zhihu.com/question/497487354/answer/2217200229?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -19674,6 +19694,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
