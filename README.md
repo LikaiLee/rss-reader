@@ -4,8 +4,8 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+11】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [V2EX](#V2EX) 【+7】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-10】 [宽带症候群] 请教下大家我在配光猫 vlan 单线复用时遇到的问题(tag/untag/DHCP)](https://www.v2ex.com/t/814548)
+* [【2021-11-10】 [宽带症候群] 这两天阿里云深圳到香港，精品网络丢包严重，有同样问题的不？](https://www.v2ex.com/t/814547)
+* [【2021-11-10】 [路由器] 路由设置问题](https://www.v2ex.com/t/814545)
+* [【2021-11-10】 [问与答] 求分享：印象笔记的替代品+如何转移印象笔记里的笔记](https://www.v2ex.com/t/814544)
+* [【2021-11-10】 [硬件] esp32 外接摄像头](https://www.v2ex.com/t/814542)
+* [【2021-11-10】 [京东] 双 11 京东尼康微单没货，淘宝店库存却有很多是正常的吗？](https://www.v2ex.com/t/814541)
+* [【2021-11-10】 [Python] pandas 怎么对比当前行的前面 7 天的所有某列的数字？](https://www.v2ex.com/t/814540)
 * [【2021-11-10】 [宽带症候群] 北京联通 Wall 设备升级了](https://www.v2ex.com/t/814538)
 * [【2021-11-10】 [程序员] 最后再发一次，求个 React 前端及其他各类，口头承诺 100w， 3 年之期，没兴趣的不要点进来说什么白嫖，有兴趣博一下的点进来看看，谢谢](https://www.v2ex.com/t/814537)
 * [【2021-11-10】 [ WATCH] apple watch se nike 值得买吗？](https://www.v2ex.com/t/814536)
-* [【2021-11-10】 [Android] 哪家的系统可以像 iOS 一样“长按图标不放”选择弹出菜单里面的选项？](https://www.v2ex.com/t/814535)
-* [【2021-11-10】 [Apple] 抱歉， Apple Music 发生了一点问题===有用 HomePod+Apple TV 组合遇到这个问题的吗](https://www.v2ex.com/t/814534)
-* [【2021-11-10】 [前端开发] dva effects 复用问题](https://www.v2ex.com/t/814533)
-* [【2021-11-10】 [问与答] 有用过 Insta360GO2 吗 体验如何](https://www.v2ex.com/t/814532)
-* [【2021-11-10】 [问与答] 身体静电如何无感释放？](https://www.v2ex.com/t/814531)
-* [【2021-11-10】 [Python] 12 月 24 日前购买 PyCharm 30%优惠，同时支持 PSF](https://www.v2ex.com/t/814530)
-* [【2021-11-10】 [问与答] 请教无线网络质量测试的一些问题](https://www.v2ex.com/t/814529)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-10 15:21:10
+:alarm_clock: 更新时间: 2021-11-10 16:31:17
