@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+2】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+4】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-10】 [HTML] 请问如何用 Xquery 生成 HTML table](https://www.v2ex.com/t/814554)
+* [【2021-11-10】 [服务器] 联想工作站的远程控制台还要买许可证？](https://www.v2ex.com/t/814553)
+* [【2021-11-10】 [MacBook Pro] 14 寸 m1 pro 还没发货，有没有拓展坞推荐的？](https://www.v2ex.com/t/814552)
+* [【2021-11-10】 [生活] 喜欢在笔记本上看电子书，准备再买个显示器+蓝牙键盘](https://www.v2ex.com/t/814551)
 * [【2021-11-10】 [京东] 狗东买衣服发现刷单太严重太明显了](https://www.v2ex.com/t/814539)
 * [【2021-11-10】 [UNIQLO] 才发现 uniqlo 买的内衣裤不能（不建议）烘干](https://www.v2ex.com/t/814525)
 * [【2021-11-10】 [宽带症候群] 请教下大家我在配光猫 vlan 单线复用时遇到的问题(tag/untag/DHCP)](https://www.v2ex.com/t/814548)
 * [【2021-11-10】 [宽带症候群] 这两天阿里云深圳到香港，精品网络丢包严重，有同样问题的不？](https://www.v2ex.com/t/814547)
 * [【2021-11-10】 [路由器] 路由设置问题](https://www.v2ex.com/t/814545)
 * [【2021-11-10】 [问与答] 求分享：印象笔记的替代品+如何转移印象笔记里的笔记](https://www.v2ex.com/t/814544)
-* [【2021-11-10】 [硬件] esp32 外接摄像头](https://www.v2ex.com/t/814542)
-* [【2021-11-10】 [京东] 双 11 京东尼康微单没货，淘宝店库存却有很多是正常的吗？](https://www.v2ex.com/t/814541)
-* [【2021-11-10】 [Python] pandas 怎么对比当前行的前面 7 天的所有某列的数字？](https://www.v2ex.com/t/814540)
-* [【2021-11-10】 [宽带症候群] 北京联通 Wall 设备升级了](https://www.v2ex.com/t/814538)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-10 17:17:28
+:alarm_clock: 更新时间: 2021-11-10 18:20:31

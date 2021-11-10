@@ -548,13 +548,33 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[HTML] 请问如何用 Xquery 生成 HTML table",
+                "link": "https://www.v2ex.com/t/814554",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[服务器] 联想工作站的远程控制台还要买许可证？",
+                "link": "https://www.v2ex.com/t/814553",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[MacBook Pro] 14 寸 m1 pro 还没发货，有没有拓展坞推荐的？",
+                "link": "https://www.v2ex.com/t/814552",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[生活] 喜欢在笔记本上看电子书，准备再买个显示器+蓝牙键盘",
+                "link": "https://www.v2ex.com/t/814551",
+                "published": "2021-11-10"
+            },
             {
                 "title": "[京东] 狗东买衣服发现刷单太严重太明显了",
                 "link": "https://www.v2ex.com/t/814539",
@@ -19151,7 +19171,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 3,
@@ -19694,6 +19714,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

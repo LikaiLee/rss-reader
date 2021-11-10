@@ -1,6 +1,10 @@
 # V2EX
 
 
+* [2021-11-10  [HTML] 请问如何用 Xquery 生成 HTML table](https://www.v2ex.com/t/814554)
+* [2021-11-10  [服务器] 联想工作站的远程控制台还要买许可证？](https://www.v2ex.com/t/814553)
+* [2021-11-10  [MacBook Pro] 14 寸 m1 pro 还没发货，有没有拓展坞推荐的？](https://www.v2ex.com/t/814552)
+* [2021-11-10  [生活] 喜欢在笔记本上看电子书，准备再买个显示器+蓝牙键盘](https://www.v2ex.com/t/814551)
 * [2021-11-10  [京东] 狗东买衣服发现刷单太严重太明显了](https://www.v2ex.com/t/814539)
 * [2021-11-10  [UNIQLO] 才发现 uniqlo 买的内衣裤不能（不建议）烘干](https://www.v2ex.com/t/814525)
 * [2021-11-10  [宽带症候群] 请教下大家我在配光猫 vlan 单线复用时遇到的问题(tag/untag/DHCP)](https://www.v2ex.com/t/814548)
