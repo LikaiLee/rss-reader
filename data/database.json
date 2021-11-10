@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "与信息舒适共处：我的信息极简管理实践",
+                "link": "https://sspai.com/post/69749",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "一日一技 | 利用这个开源工具你也可以为 PDF 添加目录",
                 "link": "https://sspai.com/post/69601",
                 "published": "2021-11-10"
@@ -518,13 +523,163 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[武汉] 最近收到几个超低利率的信用贷",
+                "link": "https://www.v2ex.com/t/814445",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Google] 怎么迁移谷歌的 Blogger 博客文章？",
+                "link": "https://www.v2ex.com/t/814444",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[服务器] 干货分享一下",
+                "link": "https://www.v2ex.com/t/814443",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[分享发现] 有什么有意思的 tg 群？",
+                "link": "https://www.v2ex.com/t/814442",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[酷工作] [杭州][全职] [15-35K 特别优秀可谈]前端/后端/合约开发职位开放中",
+                "link": "https://www.v2ex.com/t/814441",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[生活] 现在的推销都这么精准的嘛！",
+                "link": "https://www.v2ex.com/t/814440",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 英特尔 uhd750 核显性能",
+                "link": "https://www.v2ex.com/t/814439",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 双十一好像越来越没感觉了？你双十一买了啥",
+                "link": "https://www.v2ex.com/t/814437",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[云计算] 腾讯云 2 核 4G8M 的轻量云主机， 3 年 198？和标准主机有什么区别",
+                "link": "https://www.v2ex.com/t/814436",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[京东] 55 收个京东 PLUS",
+                "link": "https://www.v2ex.com/t/814434",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Apple] siri 真的不行",
+                "link": "https://www.v2ex.com/t/814433",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 分布式事务中某些节点必须成功的怎么办",
+                "link": "https://www.v2ex.com/t/814432",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] 后端转产品经理，好转吗？有没有成功的兄弟来分享一下经历~",
+                "link": "https://www.v2ex.com/t/814431",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 内网环境如何做前端的地图开发？",
+                "link": "https://www.v2ex.com/t/814430",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[分享创造] FastClip 双 11 全平台限时免费， iOS/macOS 复制粘贴增强器。",
+                "link": "https://www.v2ex.com/t/814427",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] 北京 Java3 年开发一般多少钱？",
+                "link": "https://www.v2ex.com/t/814426",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Google] 关于上传文件",
+                "link": "https://www.v2ex.com/t/814425",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] Source Insight 4 图标栏错乱如何解决",
+                "link": "https://www.v2ex.com/t/814424",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] 学习编程是看文档还是看视频教程",
+                "link": "https://www.v2ex.com/t/814423",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[京东] 现在还没 没失效的 JD 抢购脚本吗?",
+                "link": "https://www.v2ex.com/t/814422",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[北京] 望京附近 想捡一个 140cm 左右的桌子 深度最好不要大于 60， 感谢 V 友帮助",
+                "link": "https://www.v2ex.com/t/814420",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[MacBook Pro] 定制版的 MBP14 32G-10 核 M1Pro 已经发货了",
+                "link": "https://www.v2ex.com/t/814419",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[分享发现] 工程师进阶历程：如何快速提升项目交付和验收效率",
+                "link": "https://www.v2ex.com/t/814417",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[分享创造] 当 V2EX 支持微博表情...",
+                "link": "https://www.v2ex.com/t/814416",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Go 编程语言] k8s 中同一个服务开启了多个副本，如何退出特定副本中的协程？",
+                "link": "https://www.v2ex.com/t/814415",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[macOS] 最近 m1 打字特别卡，需要重启才能解决，上次发帖说升级系统后应用秒开也不存在了",
+                "link": "https://www.v2ex.com/t/814414",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] 请教一下各位，关于如何实现文章转为视频",
+                "link": "https://www.v2ex.com/t/814411",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] [ Java ] String str1 = new String(\"悟空\") + new String(\"八戒\");\n String str2 = str1.intern();",
+                "link": "https://www.v2ex.com/t/814409",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 多台设备 Joplin 同步的问题",
+                "link": "https://www.v2ex.com/t/814407",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[北京] 单纯的想吐槽一句 生活太难了",
+                "link": "https://www.v2ex.com/t/814406",
+                "published": "2021-11-10"
+            },
             {
                 "title": "[问与答] obsidian 自动保存，配合 google drive 同步是否会损害 ssd 硬盘？",
                 "link": "https://www.v2ex.com/t/814405",
@@ -18516,13 +18671,23 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 30
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "11 月 11 日是中国空军节，中国空军有哪些兵种？空军发展至今经历了哪些艰辛、取得了哪些成就？",
+                "link": "http://www.zhihu.com/question/495919290/answer/2216552803?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "有什么搞笑沙雕游戏值得推荐？",
+                "link": "http://www.zhihu.com/question/285089634/answer/2214464192?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-10"
+            },
             {
                 "title": "国产动画《两不疑》好看吗？",
                 "link": "http://www.zhihu.com/question/455527111/answer/2214954703?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -19034,6 +19199,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     }
 ]
