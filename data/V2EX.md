@@ -1,6 +1,23 @@
 # V2EX
 
 
+* [2021-11-10  [问与答] 为什么同一个资源 通过 Webdav 播放点不亮杜比视界，拷贝到电视就可以了？](https://www.v2ex.com/t/814363)
+* [2021-11-10  [问与答] 办不了的深圳居住证](https://www.v2ex.com/t/814362)
+* [2021-11-10  [程序员] 为什么没有.py 文件的结构化替换功能？ JetBrain 觉得 Python 太奇葩了吗？😅](https://www.v2ex.com/t/814361)
+* [2021-11-10  [问与答] 诚信收购 Notion Team 免费账号](https://www.v2ex.com/t/814358)
+* [2021-11-10  [程序员] 有没有一种 chrome 插件可以将页面日期自动格式化为 ISO_DATE](https://www.v2ex.com/t/814357)
+* [2021-11-10  [问与答] [求] 安卓机推荐](https://www.v2ex.com/t/814356)
+* [2021-11-10  [广州] 车陂地铁-富力万科云启公寓出租](https://www.v2ex.com/t/814355)
+* [2021-11-10  [程序员] 求一个简单个人主页模板](https://www.v2ex.com/t/814353)
+* [2021-11-10  [问与答] 有买过 anydesk 的吗？ 看页面支持信用卡和 paypal， paypal 中国账户可以买吗](https://www.v2ex.com/t/814351)
+* [2021-11-10  [问与答] 各位大佬这个售价 6000 的 12 代 CPU 主机怎么样？](https://www.v2ex.com/t/814350)
+* [2021-11-10  [分享创造] 有没有能够在页面上做笔记的工具](https://www.v2ex.com/t/814349)
+* [2021-11-10  [Apple] apple watch 解锁 iPhone 过于“快捷”](https://www.v2ex.com/t/814348)
+* [2021-11-10  [Elasticsearch] elasticsearch 针对对象查询问题](https://www.v2ex.com/t/814347)
+* [2021-11-10  [酷工作] 🔥🔥[新加坡] 大型上市互联网公司，招移动端（iOS,安卓），前端开发，后端开发（不限开发语言），大数据开发， DevOps 或 SRE 及安全等各类工程师，各方向技术专家及技术负责人（P7-P9)，个税低，没有 996，中文视频面试。](https://www.v2ex.com/t/814345)
+* [2021-11-10  [全球工单系统] 天翼网盘删除老是失败](https://www.v2ex.com/t/814340)
+* [2021-11-10  [职场话题] 我这样直接辞职有没有风险？](https://www.v2ex.com/t/814338)
+* [2021-11-10  [全球工单系统] 垃圾企业微信, 睡眠唤醒必有大概率持续占用 150%以上的 cpu](https://www.v2ex.com/t/814327)
 * [2021-11-10  [macOS] 大佬们, 为什么新 mac 占用内存这么多](https://www.v2ex.com/t/814344)
 * [2021-11-10  [iPad] iPad Mini 6 Celluar 蜂窝板国行开始发售了，预计发货日期： 4-5 周](https://www.v2ex.com/t/814343)
 * [2021-11-10  [React] react 下面，用 enzyme mount 组件，编写测试的时候， css selector 怎么选取 div with multi class](https://www.v2ex.com/t/814342)
