@@ -551,6 +551,61 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[宽带症候群] 北京联通 Wall 设备升级了",
+                "link": "https://www.v2ex.com/t/814538",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] 最后再发一次，求个 React 前端及其他各类，口头承诺 100w， 3 年之期，没兴趣的不要点进来说什么白嫖，有兴趣博一下的点进来看看，谢谢",
+                "link": "https://www.v2ex.com/t/814537",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[ WATCH] apple watch se nike 值得买吗？",
+                "link": "https://www.v2ex.com/t/814536",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Android] 哪家的系统可以像 iOS 一样“长按图标不放”选择弹出菜单里面的选项？",
+                "link": "https://www.v2ex.com/t/814535",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Apple] 抱歉， Apple Music 发生了一点问题===有用 HomePod+Apple TV 组合遇到这个问题的吗",
+                "link": "https://www.v2ex.com/t/814534",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[前端开发] dva effects 复用问题",
+                "link": "https://www.v2ex.com/t/814533",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 有用过 Insta360GO2 吗 体验如何",
+                "link": "https://www.v2ex.com/t/814532",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 身体静电如何无感释放？",
+                "link": "https://www.v2ex.com/t/814531",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Python] 12 月 24 日前购买 PyCharm 30%优惠，同时支持 PSF",
+                "link": "https://www.v2ex.com/t/814530",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 请教无线网络质量测试的一些问题",
+                "link": "https://www.v2ex.com/t/814529",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[投资] 新手怎么学习炒股？感觉自己根本没有入门",
+                "link": "https://www.v2ex.com/t/814528",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "[Apple] M1 MBP usb-c 连 DEll U2720q 音量控制问题",
                 "link": "https://www.v2ex.com/t/814526",
                 "published": "2021-11-10"
@@ -19046,13 +19101,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 11
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "游戏《艾尔登法环》（Elden Ring）测试资格已陆续公布，你抽到了吗，本次封闭网络测试体验如何？",
+                "link": "http://www.zhihu.com/question/497487354/answer/2217200229?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-10"
+            },
             {
                 "title": "11.11是空军节，72年来空军经历了哪些艰辛又取得怎样的成就？你有哪些祝福？",
                 "link": "http://www.zhihu.com/question/495919290/answer/2216552803?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -19579,6 +19639,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
