@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
-* [V2EX](#V2EX) 【+13】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+11】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-10】 拒绝套路，「付费栏目」 双十一限定活动现在开启](https://sspai.com/post/69833)
 * [【2021-11-10】 11 日二技 | 你的 macOS 鼠标指针被我们承包了](https://sspai.com/post/69830)
 * [【2021-11-10】 当我们聊全屋智能的时候，别忘了家还可以被音乐溢满](https://sspai.com/post/69730)
 * [【2021-11-10】 双十一 | 两款让你久等的少数派周边，以及新老产品折扣中](https://sspai.com/post/69808)
@@ -38,7 +39,6 @@
 * [【2021-11-09】 不读可以先收藏 05 | 再忙也不要错过这些好文章](https://sspai.com/post/69819)
 * [【2021-11-09】 为了那声独一无二的「哒」：Galaxy Z Flip3 成为主力机的 60 天](https://sspai.com/post/69810)
 * [【2021-11-09】 跨过安装的那道坎——为非技术人士准备的 Python 安装指南](https://sspai.com/post/69595)
-* [【2021-11-09】 数字存储完全指南 04：固态硬盘的参数解读与实际性能](https://sspai.com/post/69074)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-10】 [App Store] 有什么可以消磨时间的 APP ?](https://www.v2ex.com/t/814484)
-* [【2021-11-10】 [酷工作] [北京][五道口急招]｜全栈、后端工程师[Github 万星 star 开源项目 Wechaty][20k-50k]](https://www.v2ex.com/t/814483)
-* [【2021-11-10】 [问与答] 约定中文格式解析并生成代码的工具有参考吗](https://www.v2ex.com/t/814482)
-* [【2021-11-10】 [问与答] 求 mac 外接显示器推荐](https://www.v2ex.com/t/814481)
-* [【2021-11-10】 [iPhone] 有第三方的磁吸充电器推荐吗？](https://www.v2ex.com/t/814480)
-* [【2021-11-10】 [Django] 请问 Django 在启动的时，如何执行一次性业务代码？](https://www.v2ex.com/t/814479)
-* [【2021-11-10】 [Python] 从 10 亿位数字里查找指定的数字，怎样才能快一些？](https://www.v2ex.com/t/814478)
-* [【2021-11-10】 [分享创造] 做了一个 Nginx 访问日志的分析工具](https://www.v2ex.com/t/814477)
-* [【2021-11-10】 [推广] 华为云双 11 全场 4 折，反 60%，推荐一位奖励 10 元](https://www.v2ex.com/t/814476)
-* [【2021-11-10】 [程序员] oracle 服务器最近出问题了吗？](https://www.v2ex.com/t/814475)
+* [【2021-11-10】 [macOS] Time Machine 还原时能否指定用户文件夹的还原硬盘？](https://www.v2ex.com/t/814498)
+* [【2021-11-10】 [问与答] 租办公室租到了一个小电影院，求问把 PS5 接放映机最优解](https://www.v2ex.com/t/814496)
+* [【2021-11-10】 [macOS] macos monterey 更新后 icloud 照片无法更新有人遇到吗](https://www.v2ex.com/t/814495)
+* [【2021-11-10】 [程序员] 请问我家里这个路由器 会做 NAT 转换吗](https://www.v2ex.com/t/814494)
+* [【2021-11-10】 [MacBook Pro] 来说说 64G 16 寸 MBP 的发货情况](https://www.v2ex.com/t/814492)
+* [【2021-11-10】 [问与答] 迫于无聊，请问有哪些好玩的抽奖规则？](https://www.v2ex.com/t/814491)
+* [【2021-11-10】 [酷工作] [上海张江] [开发者平台招聘] 高级 golang [20-40k] [16 薪]](https://www.v2ex.com/t/814490)
+* [【2021-11-10】 [iPhone] 智能推荐小组件挺好用](https://www.v2ex.com/t/814488)
+* [【2021-11-10】 [北京] 250 出一张 11 月 25 日环球影城的票](https://www.v2ex.com/t/814487)
+* [【2021-11-10】 [微信] Java 作为微信小程序后台一些新手问题](https://www.v2ex.com/t/814486)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-10 10:22:24
+:alarm_clock: 更新时间: 2021-11-10 11:16:48

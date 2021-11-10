@@ -1,6 +1,17 @@
 # V2EX
 
 
+* [2021-11-10  [macOS] Time Machine 还原时能否指定用户文件夹的还原硬盘？](https://www.v2ex.com/t/814498)
+* [2021-11-10  [问与答] 租办公室租到了一个小电影院，求问把 PS5 接放映机最优解](https://www.v2ex.com/t/814496)
+* [2021-11-10  [macOS] macos monterey 更新后 icloud 照片无法更新有人遇到吗](https://www.v2ex.com/t/814495)
+* [2021-11-10  [程序员] 请问我家里这个路由器 会做 NAT 转换吗](https://www.v2ex.com/t/814494)
+* [2021-11-10  [MacBook Pro] 来说说 64G 16 寸 MBP 的发货情况](https://www.v2ex.com/t/814492)
+* [2021-11-10  [问与答] 迫于无聊，请问有哪些好玩的抽奖规则？](https://www.v2ex.com/t/814491)
+* [2021-11-10  [酷工作] [上海张江] [开发者平台招聘] 高级 golang [20-40k] [16 薪]](https://www.v2ex.com/t/814490)
+* [2021-11-10  [iPhone] 智能推荐小组件挺好用](https://www.v2ex.com/t/814488)
+* [2021-11-10  [北京] 250 出一张 11 月 25 日环球影城的票](https://www.v2ex.com/t/814487)
+* [2021-11-10  [微信] Java 作为微信小程序后台一些新手问题](https://www.v2ex.com/t/814486)
+* [2021-11-10  [酷工作] [上海][ Java ][招聘][2-3 年][可远程] Java 后端开发](https://www.v2ex.com/t/814485)
 * [2021-11-10  [App Store] 有什么可以消磨时间的 APP ?](https://www.v2ex.com/t/814484)
 * [2021-11-10  [酷工作] [北京][五道口急招]｜全栈、后端工程师[Github 万星 star 开源项目 Wechaty][20k-50k]](https://www.v2ex.com/t/814483)
 * [2021-11-10  [问与答] 约定中文格式解析并生成代码的工具有参考吗](https://www.v2ex.com/t/814482)

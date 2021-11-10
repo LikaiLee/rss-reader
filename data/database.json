@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "拒绝套路，「付费栏目」 双十一限定活动现在开启",
+                "link": "https://sspai.com/post/69833",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "11 日二技 | 你的 macOS 鼠标指针被我们承包了",
                 "link": "https://sspai.com/post/69830",
                 "published": "2021-11-10"
@@ -538,13 +543,68 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[macOS] Time Machine 还原时能否指定用户文件夹的还原硬盘？",
+                "link": "https://www.v2ex.com/t/814498",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 租办公室租到了一个小电影院，求问把 PS5 接放映机最优解",
+                "link": "https://www.v2ex.com/t/814496",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[macOS] macos monterey 更新后 icloud 照片无法更新有人遇到吗",
+                "link": "https://www.v2ex.com/t/814495",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] 请问我家里这个路由器 会做 NAT 转换吗",
+                "link": "https://www.v2ex.com/t/814494",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[MacBook Pro] 来说说 64G 16 寸 MBP 的发货情况",
+                "link": "https://www.v2ex.com/t/814492",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 迫于无聊，请问有哪些好玩的抽奖规则？",
+                "link": "https://www.v2ex.com/t/814491",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[酷工作] [上海张江] [开发者平台招聘] 高级 golang [20-40k] [16 薪]",
+                "link": "https://www.v2ex.com/t/814490",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[iPhone] 智能推荐小组件挺好用",
+                "link": "https://www.v2ex.com/t/814488",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[北京] 250 出一张 11 月 25 日环球影城的票",
+                "link": "https://www.v2ex.com/t/814487",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[微信] Java 作为微信小程序后台一些新手问题",
+                "link": "https://www.v2ex.com/t/814486",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[酷工作] [上海][ Java ][招聘][2-3 年][可远程] Java 后端开发",
+                "link": "https://www.v2ex.com/t/814485",
+                "published": "2021-11-10"
+            },
             {
                 "title": "[App Store] 有什么可以消磨时间的 APP ?",
                 "link": "https://www.v2ex.com/t/814484",
@@ -18866,7 +18926,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 13
+        "new_feeds": 11
     },
     {
         "id": 3,
@@ -19399,6 +19459,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
