@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：腾讯音乐与 Apple Music 达成合作、微软推出专为孩童设计的 Surface Laptop SE",
+                "link": "https://sspai.com/post/69862",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "不读可以先收藏 05 | 再忙也不要错过这些好文章",
                 "link": "https://sspai.com/post/69819",
                 "published": "2021-11-09"
@@ -508,13 +513,103 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[macOS] 大佬们, 为什么新 mac 占用内存这么多",
+                "link": "https://www.v2ex.com/t/814344",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[iPad] iPad Mini 6 Celluar 蜂窝板国行开始发售了，预计发货日期： 4-5 周",
+                "link": "https://www.v2ex.com/t/814343",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[React] react 下面，用 enzyme mount 组件，编写测试的时候， css selector 怎么选取 div with multi class",
+                "link": "https://www.v2ex.com/t/814342",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[投资] 基金定投，确实很难",
+                "link": "https://www.v2ex.com/t/814341",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 天翼网盘删除老是失败",
+                "link": "https://www.v2ex.com/t/814340",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[生活] 关于独生子女",
+                "link": "https://www.v2ex.com/t/814339",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] 我这样直接辞职有没有风险？",
+                "link": "https://www.v2ex.com/t/814338",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[求职] [秋招] 决赛圈了，蚂蚁 vs Garena。大佬们，求求建议！",
+                "link": "https://www.v2ex.com/t/814337",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[macOS] 装了 Word 后，有没有出现 microsoft.autoupdate.helper 这个东西？",
+                "link": "https://www.v2ex.com/t/814336",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[职场话题] 在天津, 马上 30 岁的运维该怎么走",
+                "link": "https://www.v2ex.com/t/814333",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[MacBook Pro] 含泪，出 Macbook Pro 2021 14 寸 32G+AC，￥ 18299（定制版￥ 19747）",
+                "link": "https://www.v2ex.com/t/814332",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Apple] mbp 16 寸能卖多少钱",
+                "link": "https://www.v2ex.com/t/814331",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[macOS] 最近 vscode 首次打开时 终端总是加载不出来",
+                "link": "https://www.v2ex.com/t/814330",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[macOS] 垃圾企业微信, 睡眠唤醒必有大概率持续占用 150%以上的 cpu",
+                "link": "https://www.v2ex.com/t/814327",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[V2EX] 因为年轻气盛、年少无知发布了 zz 敏感贴，希望管理赦免，后续注意。",
+                "link": "https://www.v2ex.com/t/814325",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] IPTV 盒子上了 CCTV-16 的 4K 频道了",
+                "link": "https://www.v2ex.com/t/814324",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 请教下 umount 后硬盘的耗电是怎么样的呢？",
+                "link": "https://www.v2ex.com/t/814320",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Telegram] 我已经在 Telegram 的一些频道底部看到中文广告了，大家有看到吗？",
+                "link": "https://www.v2ex.com/t/814318",
+                "published": "2021-11-10"
+            },
             {
                 "title": "[分享创造] 找寻独立原创博客的价值",
                 "link": "https://www.v2ex.com/t/814316",
@@ -18176,13 +18271,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 18
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "身处边疆，我国各地边防官兵是如何过冬的，有哪些不同？",
+                "link": "http://www.zhihu.com/question/497703292/answer/2215791796?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-10"
+            },
             {
                 "title": "中国人民解放军东部战区在台海方向进行联合战备警巡，如何看待此次军事活动？哪些信息值得关注？",
                 "link": "http://www.zhihu.com/question/497797857/answer/2215484947?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -18674,6 +18774,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

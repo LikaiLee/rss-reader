@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+8】
-* [知乎每日精选](#知乎每日精选)
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+18】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-10】 派早报：腾讯音乐与 Apple Music 达成合作、微软推出专为孩童设计的 Surface Laptop SE](https://sspai.com/post/69862)
 * [【2021-11-09】 不读可以先收藏 05 | 再忙也不要错过这些好文章](https://sspai.com/post/69819)
 * [【2021-11-09】 为了那声独一无二的「哒」：Galaxy Z Flip3 成为主力机的 60 天](https://sspai.com/post/69810)
 * [【2021-11-09】 跨过安装的那道坎——为非技术人士准备的 Python 安装指南](https://sspai.com/post/69595)
@@ -38,7 +39,6 @@
 * [【2021-11-08】 限时福利丨MarginNote 3 工具升值包上架：你的高效学习利器](https://sspai.com/post/69733)
 * [【2021-11-08】 双十一选对拓展坞，你可以从这两个角度入手](https://sspai.com/post/69701)
 * [【2021-11-08】 一日一技｜修复 Zotero 与 Papership 的联动，恢复 WebDAV 云同步](https://sspai.com/post/69747)
-* [【2021-11-08】 上虞图书馆数字漫游：你的家乡或许也有一段传奇往事](https://sspai.com/post/69606)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-10】 [分享创造] 找寻独立原创博客的价值](https://www.v2ex.com/t/814316)
-* [【2021-11-10】 [问与答] Windows server 2016 是没有自带剪贴板历史功能吗？](https://www.v2ex.com/t/814315)
-* [【2021-11-10】 [Apple] 捷径能设置打开一个 APP 后再返回手机主屏幕吗？](https://www.v2ex.com/t/814314)
-* [【2021-11-10】 [问与答] 关于升级路由器](https://www.v2ex.com/t/814311)
-* [【2021-11-10】 [Apple] 苹果导航地图是不是被高德摆了一道](https://www.v2ex.com/t/814310)
-* [【2021-11-10】 [职场话题] [请教贴] 如何从外包跳入字节、腾讯、百度等大厂，获取一份开发工作？](https://www.v2ex.com/t/814309)
-* [【2021-11-10】 [Apple] mbp2020 出手能标多少钱呢](https://www.v2ex.com/t/814308)
-* [【2021-11-09】 [问与答] 索尼 65x91j 或者说电视你们都怎么安墙上的](https://www.v2ex.com/t/814306)
-* [【2021-11-09】 [程序员] VSCode 的 Python 测试功能太烂了 -_-||](https://www.v2ex.com/t/814305)
-* [【2021-11-09】 [问与答] 大家怎么看待 5G 消息？是否有取代微信的可能？](https://www.v2ex.com/t/814304)
+* [【2021-11-10】 [macOS] 大佬们, 为什么新 mac 占用内存这么多](https://www.v2ex.com/t/814344)
+* [【2021-11-10】 [iPad] iPad Mini 6 Celluar 蜂窝板国行开始发售了，预计发货日期： 4-5 周](https://www.v2ex.com/t/814343)
+* [【2021-11-10】 [React] react 下面，用 enzyme mount 组件，编写测试的时候， css selector 怎么选取 div with multi class](https://www.v2ex.com/t/814342)
+* [【2021-11-10】 [投资] 基金定投，确实很难](https://www.v2ex.com/t/814341)
+* [【2021-11-10】 [问与答] 天翼网盘删除老是失败](https://www.v2ex.com/t/814340)
+* [【2021-11-10】 [生活] 关于独生子女](https://www.v2ex.com/t/814339)
+* [【2021-11-10】 [程序员] 我这样直接辞职有没有风险？](https://www.v2ex.com/t/814338)
+* [【2021-11-10】 [求职] [秋招] 决赛圈了，蚂蚁 vs Garena。大佬们，求求建议！](https://www.v2ex.com/t/814337)
+* [【2021-11-10】 [macOS] 装了 Word 后，有没有出现 microsoft.autoupdate.helper 这个东西？](https://www.v2ex.com/t/814336)
+* [【2021-11-10】 [职场话题] 在天津, 马上 30 岁的运维该怎么走](https://www.v2ex.com/t/814333)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -67,6 +67,7 @@
     </summary>
 
 
+* [【2021-11-10】 身处边疆，我国各地边防官兵是如何过冬的，有哪些不同？](http://www.zhihu.com/question/497703292/answer/2215791796?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-09】 中国人民解放军东部战区在台海方向进行联合战备警巡，如何看待此次军事活动？哪些信息值得关注？](http://www.zhihu.com/question/497797857/answer/2215484947?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-09】 身处边疆，我国各地边防官兵是如何过冬的，有哪些不同？](http://www.zhihu.com/question/497703292/answer/2214807833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-09】 如何以「车站里，有个男人死了」为开头写一篇悬疑故事？](http://www.zhihu.com/question/492411725/answer/2179157256?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -76,7 +77,6 @@
 * [【2021-11-04】 官宣：电视剧《和平之舟》定档央视一套黄金时间播出！](http://zhuanlan.zhihu.com/p/428672087?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-04】 中国当代年轻人是如何看待并认识抗美援朝战争？](http://www.zhihu.com/question/421031649/answer/2205192080?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-03】 日本新冠确诊断崖式下降，全球日增确诊下降超 50％，可能是德尔塔病毒在「自我灭绝」，疫情会自动消失吗？](http://www.zhihu.com/question/496005316/answer/2203014101?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-03】 「人武部给预备役退伍军人发召回短信」系谣言，伪造散播涉军谣言将会受到什么处罚？](http://www.zhihu.com/question/496304840/answer/2203847145?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-10 01:04:48
+:alarm_clock: 更新时间: 2021-11-10 02:32:54
