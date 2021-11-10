@@ -516,6 +516,46 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享创造] 找寻独立原创博客的价值",
+                "link": "https://www.v2ex.com/t/814316",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] Windows server 2016 是没有自带剪贴板历史功能吗？",
+                "link": "https://www.v2ex.com/t/814315",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Apple] 捷径能设置打开一个 APP 后再返回手机主屏幕吗？",
+                "link": "https://www.v2ex.com/t/814314",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 关于升级路由器",
+                "link": "https://www.v2ex.com/t/814311",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Apple] 苹果导航地图是不是被高德摆了一道",
+                "link": "https://www.v2ex.com/t/814310",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[职场话题] [请教贴] 如何从外包跳入字节、腾讯、百度等大厂，获取一份开发工作？",
+                "link": "https://www.v2ex.com/t/814309",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Apple] mbp2020 出手能标多少钱呢",
+                "link": "https://www.v2ex.com/t/814308",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 索尼 65x91j 或者说电视你们都怎么安墙上的",
+                "link": "https://www.v2ex.com/t/814306",
+                "published": "2021-11-09"
+            },
+            {
                 "title": "[程序员] VSCode 的 Python 测试功能太烂了 -_-||",
                 "link": "https://www.v2ex.com/t/814305",
                 "published": "2021-11-09"
@@ -18136,7 +18176,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 8
     },
     {
         "id": 3,

@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+2】
+* [V2EX](#V2EX) 【+8】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-10】 [分享创造] 找寻独立原创博客的价值](https://www.v2ex.com/t/814316)
+* [【2021-11-10】 [问与答] Windows server 2016 是没有自带剪贴板历史功能吗？](https://www.v2ex.com/t/814315)
+* [【2021-11-10】 [Apple] 捷径能设置打开一个 APP 后再返回手机主屏幕吗？](https://www.v2ex.com/t/814314)
+* [【2021-11-10】 [问与答] 关于升级路由器](https://www.v2ex.com/t/814311)
+* [【2021-11-10】 [Apple] 苹果导航地图是不是被高德摆了一道](https://www.v2ex.com/t/814310)
+* [【2021-11-10】 [职场话题] [请教贴] 如何从外包跳入字节、腾讯、百度等大厂，获取一份开发工作？](https://www.v2ex.com/t/814309)
+* [【2021-11-10】 [Apple] mbp2020 出手能标多少钱呢](https://www.v2ex.com/t/814308)
+* [【2021-11-09】 [问与答] 索尼 65x91j 或者说电视你们都怎么安墙上的](https://www.v2ex.com/t/814306)
 * [【2021-11-09】 [程序员] VSCode 的 Python 测试功能太烂了 -_-||](https://www.v2ex.com/t/814305)
 * [【2021-11-09】 [问与答] 大家怎么看待 5G 消息？是否有取代微信的可能？](https://www.v2ex.com/t/814304)
-* [【2021-11-09】 [分享创造] 我的新作品，最近写了一款背单词的 App， List 记单词](https://www.v2ex.com/t/814303)
-* [【2021-11-09】 [随想] 「白米饭」会让你昏昏欲睡吗？你可以利用这点解决注意力和失眠问题](https://www.v2ex.com/t/814302)
-* [【2021-11-09】 [以太坊] 分享： Ubuntu Linux 上的挖矿笔记](https://www.v2ex.com/t/814301)
-* [【2021-11-09】 [Apple] 当前的 macOS 游戏语音/连麦看剧防止音量降低的最好方法是什么](https://www.v2ex.com/t/814300)
-* [【2021-11-09】 [macOS] macOS Monterey type-c 反向充电问题新发现](https://www.v2ex.com/t/814299)
-* [【2021-11-09】 [职场话题] 秋招 offer 选择&&建议](https://www.v2ex.com/t/814297)
-* [【2021-11-09】 [问与答] 国家奖学金](https://www.v2ex.com/t/814296)
-* [【2021-11-09】 [天黑以后] 20211110 午夜俱乐部](https://www.v2ex.com/t/814295)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-09 23:20:19
+:alarm_clock: 更新时间: 2021-11-10 01:04:48
