@@ -38,6 +38,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "11 日二技 | 你的 macOS 鼠标指针被我们承包了",
+                "link": "https://sspai.com/post/69830",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "当我们聊全屋智能的时候，别忘了家还可以被音乐溢满",
+                "link": "https://sspai.com/post/69730",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "双十一 | 两款让你久等的少数派周边，以及新老产品折扣中",
                 "link": "https://sspai.com/post/69808",
                 "published": "2021-11-10"
@@ -528,13 +538,78 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[App Store] 有什么可以消磨时间的 APP ?",
+                "link": "https://www.v2ex.com/t/814484",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[酷工作] [北京][五道口急招]｜全栈、后端工程师[Github 万星 star 开源项目 Wechaty][20k-50k]",
+                "link": "https://www.v2ex.com/t/814483",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 约定中文格式解析并生成代码的工具有参考吗",
+                "link": "https://www.v2ex.com/t/814482",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 求 mac 外接显示器推荐",
+                "link": "https://www.v2ex.com/t/814481",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[iPhone] 有第三方的磁吸充电器推荐吗？",
+                "link": "https://www.v2ex.com/t/814480",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Django] 请问 Django 在启动的时，如何执行一次性业务代码？",
+                "link": "https://www.v2ex.com/t/814479",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[Python] 从 10 亿位数字里查找指定的数字，怎样才能快一些？",
+                "link": "https://www.v2ex.com/t/814478",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[分享创造] 做了一个 Nginx 访问日志的分析工具",
+                "link": "https://www.v2ex.com/t/814477",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[推广] 华为云双 11 全场 4 折，反 60%，推荐一位奖励 10 元",
+                "link": "https://www.v2ex.com/t/814476",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] oracle 服务器最近出问题了吗？",
+                "link": "https://www.v2ex.com/t/814475",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[宽带症候群] 魔都电信国际出口近期时不时断，有同样问题的吗？",
+                "link": "https://www.v2ex.com/t/814474",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[程序员] 企鹅 IOS 客户端无法使用 iframe 绕过管家的域名屏蔽",
+                "link": "https://www.v2ex.com/t/814472",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 想装黑苹果，问下兄弟们当前硬件是否可以完美黑苹果",
+                "link": "https://www.v2ex.com/t/814471",
+                "published": "2021-11-10"
+            },
             {
                 "title": "[硬件] 想装黑苹果，问下兄弟们当前硬件是否可以完美黑苹果",
                 "link": "https://www.v2ex.com/t/814471",
@@ -18791,13 +18866,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 23
+        "new_feeds": 13
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "11.11是空军节，72年来空军经历了哪些艰辛又取得怎样的成就？你有哪些祝福？",
+                "link": "http://www.zhihu.com/question/495919290/answer/2216552803?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-10"
+            },
             {
                 "title": "11 月 11 日是中国空军节，中国空军有哪些兵种？空军发展至今经历了哪些艰辛、取得了哪些成就？",
                 "link": "http://www.zhihu.com/question/495919290/answer/2216552803?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -19319,6 +19399,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
