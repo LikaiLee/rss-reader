@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-11-10  [Spotify] Spotify 的 UI 设计师是怎么想的](https://www.v2ex.com/t/814559)
+* [2021-11-10  [问与答] 蔡司臻锐钻立方铂金膜还是防蓝光膜](https://www.v2ex.com/t/814558)
+* [2021-11-10  [分享创造] 分享内容到任何接口-share2AnyWhere android APP](https://www.v2ex.com/t/814557)
+* [2021-11-10  [iPhone] 有没有人遇到过 siri 的声音变得沙哑......](https://www.v2ex.com/t/814556)
+* [2021-11-10  [职场话题] [求助]欧洲怎么找工作](https://www.v2ex.com/t/814555)
 * [2021-11-10  [HTML] 请问如何用 Xquery 生成 HTML table](https://www.v2ex.com/t/814554)
 * [2021-11-10  [服务器] 联想工作站的远程控制台还要买许可证？](https://www.v2ex.com/t/814553)
 * [2021-11-10  [MacBook Pro] 14 寸 m1 pro 还没发货，有没有拓展坞推荐的？](https://www.v2ex.com/t/814552)

@@ -556,6 +556,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Spotify] Spotify 的 UI 设计师是怎么想的",
+                "link": "https://www.v2ex.com/t/814559",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[问与答] 蔡司臻锐钻立方铂金膜还是防蓝光膜",
+                "link": "https://www.v2ex.com/t/814558",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[分享创造] 分享内容到任何接口-share2AnyWhere android APP",
+                "link": "https://www.v2ex.com/t/814557",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[iPhone] 有没有人遇到过 siri 的声音变得沙哑......",
+                "link": "https://www.v2ex.com/t/814556",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "[职场话题] [求助]欧洲怎么找工作",
+                "link": "https://www.v2ex.com/t/814555",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "[HTML] 请问如何用 Xquery 生成 HTML table",
                 "link": "https://www.v2ex.com/t/814554",
                 "published": "2021-11-10"
@@ -19171,7 +19196,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 3,
