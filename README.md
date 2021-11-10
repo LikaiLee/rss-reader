@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+11】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+7】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
+* [【2021-11-10】 [问与答] 有什么简单好用的组网工具？](https://www.v2ex.com/t/814508)
+* [【2021-11-10】 [问与答] 好兄弟萌，有没有那种便宜的安卓机](https://www.v2ex.com/t/814507)
+* [【2021-11-10】 [程序员] 关于分享代码说个不成熟的提议](https://www.v2ex.com/t/814505)
+* [【2021-11-10】 [问与答] 关于爱快连接二层交换机 vlan 配置的问题](https://www.v2ex.com/t/814504)
+* [【2021-11-10】 [Apple] 发现一个解决 mac 下 word 卡顿的小窍门。。](https://www.v2ex.com/t/814502)
+* [【2021-11-10】 [问与答] 想买一个插在小主机上用的小音箱](https://www.v2ex.com/t/814501)
+* [【2021-11-10】 [分享创造] 迷雾机器 - 开源的世界迷雾数据可视化及编辑工具](https://www.v2ex.com/t/814500)
 * [【2021-11-10】 [macOS] Time Machine 还原时能否指定用户文件夹的还原硬盘？](https://www.v2ex.com/t/814498)
 * [【2021-11-10】 [问与答] 租办公室租到了一个小电影院，求问把 PS5 接放映机最优解](https://www.v2ex.com/t/814496)
 * [【2021-11-10】 [macOS] macos monterey 更新后 icloud 照片无法更新有人遇到吗](https://www.v2ex.com/t/814495)
-* [【2021-11-10】 [程序员] 请问我家里这个路由器 会做 NAT 转换吗](https://www.v2ex.com/t/814494)
-* [【2021-11-10】 [MacBook Pro] 来说说 64G 16 寸 MBP 的发货情况](https://www.v2ex.com/t/814492)
-* [【2021-11-10】 [问与答] 迫于无聊，请问有哪些好玩的抽奖规则？](https://www.v2ex.com/t/814491)
-* [【2021-11-10】 [酷工作] [上海张江] [开发者平台招聘] 高级 golang [20-40k] [16 薪]](https://www.v2ex.com/t/814490)
-* [【2021-11-10】 [iPhone] 智能推荐小组件挺好用](https://www.v2ex.com/t/814488)
-* [【2021-11-10】 [北京] 250 出一张 11 月 25 日环球影城的票](https://www.v2ex.com/t/814487)
-* [【2021-11-10】 [微信] Java 作为微信小程序后台一些新手问题](https://www.v2ex.com/t/814486)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-10 11:16:48
+:alarm_clock: 更新时间: 2021-11-10 12:32:10
