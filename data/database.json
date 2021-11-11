@@ -581,6 +581,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 不懂就问，高刷屏对眼睛的伤害是更大还是更小？",
+                "link": "https://www.v2ex.com/t/814814",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "[Grafana] 最近我安装了 Loki + Promtail + Grafana，感觉这一组合可以取代 Elasticsearch + Logstash",
                 "link": "https://www.v2ex.com/t/814812",
                 "published": "2021-11-11"
