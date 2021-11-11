@@ -1,6 +1,17 @@
 # V2EX
 
 
+* [2021-11-11  [Android] 成都世纪城寻安卓](https://www.v2ex.com/t/814710)
+* [2021-11-11  [Java] gitlab CI/CD 流水线打包的问题](https://www.v2ex.com/t/814709)
+* [2021-11-11  [云计算] 3 年 198 的腾讯云，实测反馈](https://www.v2ex.com/t/814708)
+* [2021-11-11  [macOS] 问一下 M1 的 brew 这个怎么安装？安装了一下好像是提示我路径错误， opt 什么的？](https://www.v2ex.com/t/814707)
+* [2021-11-11  [Apple] 有没有不重启 MacBook 让 iPhone 重新识别 MacBook 的 airdrop 的方法。](https://www.v2ex.com/t/814704)
+* [2021-11-11  [酷工作] [上海/深圳] 硅谷明星独角兽 32 亿美元估值 Flexport 寻找 DevOps 和 FullStack](https://www.v2ex.com/t/814703)
+* [2021-11-11  [Apple] Mac 预计到货十一月九号到十六号，现在还没发货…](https://www.v2ex.com/t/814701)
+* [2021-11-11  [Apple] 请问 2021 mbp 怎么样限制充电到 80%](https://www.v2ex.com/t/814700)
+* [2021-11-11  [IPv6] 获取到了 ipv6 地址，为什么不能通过公网访问？](https://www.v2ex.com/t/814699)
+* [2021-11-11  [Vue.js] VUE 跨域问题](https://www.v2ex.com/t/814698)
+* [2021-11-11  [问与答] 迫于妹子工作忙，吃饭不规律，有没有定时微信提醒之类的小工具](https://www.v2ex.com/t/814697)
 * [2021-11-11  [程序员] Netim 的 eu 域名 10 年只要 88，买完发现自己上一个域名已经续费到了 2023 年](https://www.v2ex.com/t/814695)
 * [2021-11-11  [Apple] 16 寸 M1Pro 充电一直显示 80%](https://www.v2ex.com/t/814694)
 * [2021-11-11  [南京] 想去南京拍枫叶和银杏,什么时间点比较合适?](https://www.v2ex.com/t/814693)
