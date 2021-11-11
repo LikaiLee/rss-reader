@@ -581,6 +581,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[分享创造] wc-github-corners - 基于 Web Components 实现的可以在任意地方使用的 GitHub Corners",
+                "link": "https://www.v2ex.com/t/814779",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[程序员] .NET 6 新版本发布， 全平台平台\n\nVS 2022 发布， 宇宙爆炸级改进， 完全是另一个 visual studio 6.0",
+                "link": "https://www.v2ex.com/t/814778",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Apple] iPhone 13 pm 用流量+梯子的续航，标准 vs 省电模式",
+                "link": "https://www.v2ex.com/t/814777",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[分享发现] 关于 LOL 的一点发现",
+                "link": "https://www.v2ex.com/t/814776",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[程序员] 同样的一个 UPDATE JOIN， SQL Server 和 MySQL 的差距巨大。数据库调优达人进来分析下！",
+                "link": "https://www.v2ex.com/t/814775",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "[宽带症候群] 震惊，清华又双叒叕搞事情了",
                 "link": "https://www.v2ex.com/t/814773",
                 "published": "2021-11-11"
@@ -19941,7 +19966,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 5
     },
     {
         "id": 3,
@@ -20539,6 +20564,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

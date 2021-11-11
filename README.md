@@ -4,8 +4,8 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+7】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [V2EX](#V2EX) 【+5】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -48,16 +48,18 @@
     </summary>
 
 
+* [【2021-11-11】 [分享创造] wc-github-corners - 基于 Web Components 实现的可以在任意地方使用的 GitHub Corners](https://www.v2ex.com/t/814779)
+* [【2021-11-11】 [程序员] .NET 6 新版本发布， 全平台平台
+
+VS 2022 发布， 宇宙爆炸级改进， 完全是另一个 visual studio 6.0](https://www.v2ex.com/t/814778)
+* [【2021-11-11】 [Apple] iPhone 13 pm 用流量+梯子的续航，标准 vs 省电模式](https://www.v2ex.com/t/814777)
+* [【2021-11-11】 [分享发现] 关于 LOL 的一点发现](https://www.v2ex.com/t/814776)
+* [【2021-11-11】 [程序员] 同样的一个 UPDATE JOIN， SQL Server 和 MySQL 的差距巨大。数据库调优达人进来分析下！](https://www.v2ex.com/t/814775)
 * [【2021-11-11】 [宽带症候群] 震惊，清华又双叒叕搞事情了](https://www.v2ex.com/t/814773)
 * [【2021-11-11】 [杭州] 房屋转租主卧 1850，春波西苑，近西兴地铁站、三公里到网易、h3c、阿里滨江园区](https://www.v2ex.com/t/814772)
 * [【2021-11-11】 [Google] answers.microsoft.ex1.https.443.ipv6.faw.com.cn 一个域名充满槽点的内容农场](https://www.v2ex.com/t/814771)
 * [【2021-11-11】 [问与答] 为什么 eval 语句执行失败了？](https://www.v2ex.com/t/814770)
 * [【2021-11-11】 [MacBook Pro] MacBookPro 外接 4K 显示器推荐](https://www.v2ex.com/t/814766)
-* [【2021-11-11】 [分享创造] 迫于没有满意的博客主题，自己写了个，此外还新增了专栏功能](https://www.v2ex.com/t/814763)
-* [【2021-11-11】 [Apple] 如何清理 MBP 的屏幕？真的得入手官网 149 元的抹灰布么？](https://www.v2ex.com/t/814761)
-* [【2021-11-11】 [全球工单系统] 大王卡充值 300 送一年 QQ 音乐绿钻就是个大骗局...](https://www.v2ex.com/t/814760)
-* [【2021-11-11】 [问与答] 请问一下大佬们双 11 有哪些 app 值得入手啊?](https://www.v2ex.com/t/814759)
-* [【2021-11-11】 [优惠信息] Office365 发车， 48 元/年，有需要上车的朋友嘛？](https://www.v2ex.com/t/814758)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +88,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-11 12:31:42
+:alarm_clock: 更新时间: 2021-11-11 13:23:52
