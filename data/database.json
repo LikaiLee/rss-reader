@@ -581,6 +581,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Grafana] 最近我安装了 Loki + Promtail + Grafana，感觉这一组合可以取代 Elasticsearch + Logstash",
+                "link": "https://www.v2ex.com/t/814812",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "[Go 编程语言] 分享一个自己的路由工具",
                 "link": "https://www.v2ex.com/t/814811",
                 "published": "2021-11-11"
