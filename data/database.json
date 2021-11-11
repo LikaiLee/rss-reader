@@ -581,6 +581,16 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[NAS] 除去硬盘成本 1000 以内 只考虑照片存储的私有云选啥?",
+                "link": "https://www.v2ex.com/t/814804",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 有熟悉压片或视频转码的大佬不？求助导出参数问题",
+                "link": "https://www.v2ex.com/t/814802",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "[程序员] 3 年 198 的腾讯云 测试",
                 "link": "https://www.v2ex.com/t/814801",
                 "published": "2021-11-11"
@@ -20026,7 +20036,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 3,

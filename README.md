@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+6】
+* [V2EX](#V2EX) 【+2】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,6 +48,8 @@
     </summary>
 
 
+* [【2021-11-11】 [NAS] 除去硬盘成本 1000 以内 只考虑照片存储的私有云选啥?](https://www.v2ex.com/t/814804)
+* [【2021-11-11】 [问与答] 有熟悉压片或视频转码的大佬不？求助导出参数问题](https://www.v2ex.com/t/814802)
 * [【2021-11-11】 [程序员] 3 年 198 的腾讯云 测试](https://www.v2ex.com/t/814801)
 * [【2021-11-11】 [Android] 新手问题：为什么有些 C-to-C 的线插上电脑后手机不提示？](https://www.v2ex.com/t/814799)
 * [【2021-11-11】 [问与答] vite vue3 打包后，前端路由 404，咋办](https://www.v2ex.com/t/814797)
@@ -56,8 +58,6 @@
 * [【2021-11-11】 [Flutter] AnyInspect v0.1.0 - 一个使用 Flutter Desktop 开发，用于调试 Flutter 应用的工具](https://www.v2ex.com/t/814791)
 * [【2021-11-11】 [iCloud] 国区 iCloud 2T + Apple Music 上车辣！](https://www.v2ex.com/t/814788)
 * [【2021-11-11】 [分享创造] WPL/s - 让你在 VS Code 中用 Markdown 编写发布知乎文章及回答问题](https://www.v2ex.com/t/814786)
-* [【2021-11-11】 [问与答] 迫于断网，便携屏没收到，哭辽~，再次开贴收](https://www.v2ex.com/t/814783)
-* [【2021-11-11】 [硬件] 显示器这个程度的暗边是正常的吗](https://www.v2ex.com/t/814782)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-11 15:21:05
+:alarm_clock: 更新时间: 2021-11-11 16:31:39
