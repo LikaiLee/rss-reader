@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新玩意 084｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/69871",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "此曲安处是吾乡：Apple Music 选区详解",
                 "link": "https://sspai.com/post/69741",
                 "published": "2021-11-11"
@@ -575,6 +580,81 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[分享发现] 语文单元练习 11-11-21",
+                "link": "https://www.v2ex.com/t/814753",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Apple] 小米手环 6 可以读取 ios14 日历么？",
+                "link": "https://www.v2ex.com/t/814752",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[酷工作] [米哈游] 招聘 golang， SDK， Java ， NLP，数据， 游戏服务端， web 前后端等 岗位多多，实时跟进简历状态",
+                "link": "https://www.v2ex.com/t/814750",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[程序员] 如何解决负载测试产生的“socket: too many open files”",
+                "link": "https://www.v2ex.com/t/814749",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[程序员] TableGo 基于数据库的代码自动生成工具，自动生成 JavaBean、生成数据库文档、生成前后端代码",
+                "link": "https://www.v2ex.com/t/814748",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[程序员] 以求职为目的的话，如何短时间内快速熟悉 Golang？",
+                "link": "https://www.v2ex.com/t/814747",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 飞书网页版没有密码登录？",
+                "link": "https://www.v2ex.com/t/814746",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[优惠信息] 正版《Office 2021/2019》双 11 低价促销 — 最低价仅需 268 元",
+                "link": "https://www.v2ex.com/t/814745",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Linux] 关于 classpath 和操作系统有关还是和 shell 有关",
+                "link": "https://www.v2ex.com/t/814744",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[iPhone] 蹲完了整个双十一，发现最便宜的 iPhone 还是官网 24 期免息啊",
+                "link": "https://www.v2ex.com/t/814743",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[知乎] 知乎，又名淘宝京东启动器",
+                "link": "https://www.v2ex.com/t/814742",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[酷工作] [全职远程] 招聘 Go， Node.js 中高级开发",
+                "link": "https://www.v2ex.com/t/814741",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 办公室空气不好，鼻炎越发严重",
+                "link": "https://www.v2ex.com/t/814740",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[酷工作] 广州，深圳，南京的 IT 可以过来看看了",
+                "link": "https://www.v2ex.com/t/814739",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[程序员] 距离 Java 是企业实习结束还有一个月，领导叫我去干自动化测试！",
+                "link": "https://www.v2ex.com/t/814738",
+                "published": "2021-11-11"
+            },
             {
                 "title": "[互联网] instagram 里几乎看不到好友发的图片了，全是推荐内容",
                 "link": "https://www.v2ex.com/t/814737",
@@ -19786,13 +19866,23 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 15
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "《魔神坛斗士》当年的火热程度听说超过《圣斗士》，为何现在很少被提到了？",
+                "link": "http://www.zhihu.com/question/22239664/answer/1793448474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "洛阳是个怎样的城市？",
+                "link": "http://www.zhihu.com/question/23038472/answer/2218265357?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-11"
+            },
             {
                 "title": "11 月 11 日是人民空军 72 岁生日，你有什么祝福送给空军？对人民空军的未来有什么期待？",
                 "link": "http://www.zhihu.com/question/497725427/answer/2218162346?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -20369,6 +20459,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     }
 ]
