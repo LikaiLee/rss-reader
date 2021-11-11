@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫游指南·呼和浩特：晚秋时分的青城",
+                "link": "https://sspai.com/post/69709",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "本月玩什么 | 极限竞速：地平线 5、使命召唤、战地、动森 2.0 及付费 DLC",
                 "link": "https://sspai.com/post/69880",
                 "published": "2021-11-11"
@@ -558,13 +563,68 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[iPhone] 2021.11.11 这个时间点换哪款 iPhone 性价比高？",
+                "link": "https://www.v2ex.com/t/814727",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[MacBook Pro] 搜了一圈很少找到关于新款 MacBook pro wifi 的评测",
+                "link": "https://www.v2ex.com/t/814725",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[MacBook Pro] 10 号到的 定制版 16 寸 MBP 翻车了",
+                "link": "https://www.v2ex.com/t/814723",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[生活] 海昌路 18 号线悦城一期单间转租，离地铁 200m 左右。单价 750",
+                "link": "https://www.v2ex.com/t/814720",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 扩展 vscode 全选失效",
+                "link": "https://www.v2ex.com/t/814719",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[职场话题] 我又来了，校招 offer 决赛圈/新加坡工作求建议",
+                "link": "https://www.v2ex.com/t/814718",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 请问 cloudflare dns proxy 是什么意思呢？",
+                "link": "https://www.v2ex.com/t/814717",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[程序员] 阿里 Java 代码规范的疑问 - POJO 类时不要设定任何属性默认值",
+                "link": "https://www.v2ex.com/t/814716",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 遍地是把“优惠券（quàn）”念成“优惠卷（juàn）”的",
+                "link": "https://www.v2ex.com/t/814715",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] windows 11 拖拽文件到任务栏应用时，应用自动展开的功能还能打开吗？",
+                "link": "https://www.v2ex.com/t/814713",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[职场话题] 马上毕业找工作了，选择 go 好还是 Java 好？",
+                "link": "https://www.v2ex.com/t/814711",
+                "published": "2021-11-11"
+            },
             {
                 "title": "[Android] 成都世纪城寻安卓",
                 "link": "https://www.v2ex.com/t/814710",
@@ -19694,6 +19754,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "11.11 是空军节，72 年来空军经历了哪些艰辛又取得怎样的成就？你有哪些祝福？",
+                "link": "http://www.zhihu.com/question/495919290/answer/2216733513?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-10"
+            },
+            {
+                "title": "11.11 是空军节，72 年来空军经历了哪些艰辛又取得怎样的成就？你有哪些祝福？",
+                "link": "http://www.zhihu.com/question/495919290/answer/2216552803?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-10"
+            },
+            {
                 "title": "上海发布关于「密室剧本杀内容备案管理规定」的征求意见，你有哪些建议？剧本杀行业该如何实现高质量转身？",
                 "link": "http://www.zhihu.com/question/498036163/answer/2218056217?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2021-11-11"
@@ -20254,6 +20324,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     }
 ]
