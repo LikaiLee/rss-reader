@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+15】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+3】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -48,6 +48,9 @@
     </summary>
 
 
+* [【2021-11-11】 [iPhone] 要换电池的可以看看， JD 今天换原厂电池只要 359](https://www.v2ex.com/t/814676)
+* [【2021-11-11】 [电影] 迟来的<沙丘>电影观后感](https://www.v2ex.com/t/814675)
+* [【2021-11-11】 [深圳] 龙华四号线地铁噪音](https://www.v2ex.com/t/814672)
 * [【2021-11-11】 [MacBook Pro] 预计 12 号的订单还没有变态，要不要打电话问一下](https://www.v2ex.com/t/814670)
 * [【2021-11-11】 [MacBook Pro] MacBook Pro 14"/16" (2021) 推力怎么样？](https://www.v2ex.com/t/814668)
 * [【2021-11-11】 [职场话题] 面对公共场合吸烟者，如何劝说阻止其行为呢？](https://www.v2ex.com/t/814665)
@@ -55,9 +58,6 @@
 * [【2021-11-11】 [macOS] Mac 上日程 APP 卡顿崩溃不可用问题](https://www.v2ex.com/t/814659)
 * [【2021-11-11】 [问与答] 如何记录文本变更历史并保存至数据库，且能方便回溯至任意历史版本？](https://www.v2ex.com/t/814657)
 * [【2021-11-11】 [Apple] 北京地区 MacBookPro 16 寸高配 AppleStore 线下取货补货了](https://www.v2ex.com/t/814656)
-* [【2021-11-11】 [职场话题] 如何友好的提醒同事有口臭](https://www.v2ex.com/t/814654)
-* [【2021-11-11】 [macOS] 外接显示器 HDCP（高清串流）支持是否与 macOS 版本有关？](https://www.v2ex.com/t/814652)
-* [【2021-11-11】 [全球工单系统] 知乎不登录不能搜索了？](https://www.v2ex.com/t/814651)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-11 04:26:37
+:alarm_clock: 更新时间: 2021-11-11 05:18:19

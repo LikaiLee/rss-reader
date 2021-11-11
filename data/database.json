@@ -558,13 +558,28 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[iPhone] 要换电池的可以看看， JD 今天换原厂电池只要 359",
+                "link": "https://www.v2ex.com/t/814676",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[电影] 迟来的<沙丘>电影观后感",
+                "link": "https://www.v2ex.com/t/814675",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[深圳] 龙华四号线地铁噪音",
+                "link": "https://www.v2ex.com/t/814672",
+                "published": "2021-11-11"
+            },
             {
                 "title": "[MacBook Pro] 预计 12 号的订单还没有变态，要不要打电话问一下",
                 "link": "https://www.v2ex.com/t/814670",
@@ -19551,7 +19566,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 15
+        "new_feeds": 3
     },
     {
         "id": 3,
@@ -20109,6 +20124,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     }
 ]
