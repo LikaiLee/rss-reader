@@ -581,6 +581,36 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 3 年 198 的腾讯云 测试",
+                "link": "https://www.v2ex.com/t/814801",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Android] 新手问题：为什么有些 C-to-C 的线插上电脑后手机不提示？",
+                "link": "https://www.v2ex.com/t/814799",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] vite vue3 打包后，前端路由 404，咋办",
+                "link": "https://www.v2ex.com/t/814797",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 单身老哥进，迫于手上长厚茧子，求推荐一款杯子",
+                "link": "https://www.v2ex.com/t/814796",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[音乐] 提几个关于杜比的问题",
+                "link": "https://www.v2ex.com/t/814794",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Flutter] AnyInspect v0.1.0 - 一个使用 Flutter Desktop 开发，用于调试 Flutter 应用的工具",
+                "link": "https://www.v2ex.com/t/814791",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "[iCloud] 国区 iCloud 2T + Apple Music 上车辣！",
                 "link": "https://www.v2ex.com/t/814788",
                 "published": "2021-11-11"
