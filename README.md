@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX)
+* [V2EX](#V2EX) 【+1】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,6 +48,7 @@
     </summary>
 
 
+* [【2021-11-11】 [Go 编程语言] 分享一个自己的路由工具](https://www.v2ex.com/t/814811)
 * [【2021-11-11】 [奇思妙想] 这个世界上，总有一些有远见卓识的人能够预知未来](https://www.v2ex.com/t/814809)
 * [【2021-11-11】 [程序员] 云服务器不能通过公网 IP 连接本机](https://www.v2ex.com/t/814807)
 * [【2021-11-11】 [职场话题] 面试阿里外包有感](https://www.v2ex.com/t/814806)
@@ -57,7 +58,6 @@
 * [【2021-11-11】 [程序员] 3 年 198 的腾讯云 测试](https://www.v2ex.com/t/814801)
 * [【2021-11-11】 [Android] 新手问题：为什么有些 C-to-C 的线插上电脑后手机不提示？](https://www.v2ex.com/t/814799)
 * [【2021-11-11】 [问与答] vite vue3 打包后，前端路由 404，咋办](https://www.v2ex.com/t/814797)
-* [【2021-11-11】 [问与答] 单身老哥进，迫于手上长厚茧子，求推荐一款杯子](https://www.v2ex.com/t/814796)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-11 20:21:00
+:alarm_clock: 更新时间: 2021-11-11 21:17:15

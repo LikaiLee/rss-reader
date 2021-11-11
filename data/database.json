@@ -581,6 +581,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Go 编程语言] 分享一个自己的路由工具",
+                "link": "https://www.v2ex.com/t/814811",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "[奇思妙想] 这个世界上，总有一些有远见卓识的人能够预知未来",
                 "link": "https://www.v2ex.com/t/814809",
                 "published": "2021-11-11"
@@ -20056,7 +20061,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 3,
