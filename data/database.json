@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "本月玩什么 | 极限竞速：地平线 5、使命召唤、战地、动森 2.0 及付费 DLC",
+                "link": "https://sspai.com/post/69880",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "派早报：Apple 推出 Business Essentials 服务、腾讯宣布自研芯片信息等",
                 "link": "https://sspai.com/post/69883",
                 "published": "2021-11-11"
@@ -553,13 +558,88 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[MacBook Pro] 预计 12 号的订单还没有变态，要不要打电话问一下",
+                "link": "https://www.v2ex.com/t/814670",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[MacBook Pro] MacBook Pro 14\"/16\" (2021) 推力怎么样？",
+                "link": "https://www.v2ex.com/t/814668",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[职场话题] 面对公共场合吸烟者，如何劝说阻止其行为呢？",
+                "link": "https://www.v2ex.com/t/814665",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Chrome] Chrome 无法解析只有 AAAA 记录的域名",
+                "link": "https://www.v2ex.com/t/814664",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[macOS] Mac 上日程 APP 卡顿崩溃不可用问题",
+                "link": "https://www.v2ex.com/t/814659",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 如何记录文本变更历史并保存至数据库，且能方便回溯至任意历史版本？",
+                "link": "https://www.v2ex.com/t/814657",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Apple] 北京地区 MacBookPro 16 寸高配 AppleStore 线下取货补货了",
+                "link": "https://www.v2ex.com/t/814656",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[职场话题] 如何友好的提醒同事有口臭",
+                "link": "https://www.v2ex.com/t/814654",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[macOS] 外接显示器 HDCP（高清串流）支持是否与 macOS 版本有关？",
+                "link": "https://www.v2ex.com/t/814652",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[全球工单系统] 知乎不登录不能搜索了？",
+                "link": "https://www.v2ex.com/t/814651",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 双十一 M1 air 哪个渠道入手最便宜？ 求推荐🙏🙏",
+                "link": "https://www.v2ex.com/t/814649",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Apple] 苹果官网新出了一个可以联线的手柄",
+                "link": "https://www.v2ex.com/t/814647",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Apple] iCloud 和 Apple Music 有没有组合套餐？",
+                "link": "https://www.v2ex.com/t/814645",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[程序员] 代数数据类型表示的二叉树的展开式应该怎么理解？",
+                "link": "https://www.v2ex.com/t/814641",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 请问 xsd 中一个元素只有 minOccurs=\"0\" 没有 maxOccurs 属性，那这个元素应该理解为『可能为空的数组』还是『可能为 null 的对象』有定论吗？",
+                "link": "https://www.v2ex.com/t/814640",
+                "published": "2021-11-11"
+            },
             {
                 "title": "[问与答] nextcloud 无法保存 live 图是为什么？",
                 "link": "https://www.v2ex.com/t/814637",
@@ -19471,13 +19551,28 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 19
+        "new_feeds": 15
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "《英雄联盟：双城之战》中为什么皮城和祖安的关系为什么这么差？",
+                "link": "http://www.zhihu.com/question/497416934/answer/2216445414?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "有多少人知道「双十一」其实还是解放军空军成立纪念日？你对中国空军有哪些了解？",
+                "link": "http://www.zhihu.com/question/493319619/answer/2217726848?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "上海发布关于「密室剧本杀内容备案管理规定」的征求意见，你有哪些建议？剧本杀行业该如何实现高质量转身？",
+                "link": "http://www.zhihu.com/question/498036163/answer/2217351303?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-11"
+            },
             {
                 "title": "11.11是空军节，72年来空军经历了哪些艰辛又取得怎样的成就？你有哪些祝福？",
                 "link": "http://www.zhihu.com/question/495919290/answer/2216733513?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -20014,6 +20109,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     }
 ]

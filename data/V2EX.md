@@ -1,6 +1,21 @@
 # V2EX
 
 
+* [2021-11-11  [MacBook Pro] 预计 12 号的订单还没有变态，要不要打电话问一下](https://www.v2ex.com/t/814670)
+* [2021-11-11  [MacBook Pro] MacBook Pro 14"/16" (2021) 推力怎么样？](https://www.v2ex.com/t/814668)
+* [2021-11-11  [职场话题] 面对公共场合吸烟者，如何劝说阻止其行为呢？](https://www.v2ex.com/t/814665)
+* [2021-11-11  [Chrome] Chrome 无法解析只有 AAAA 记录的域名](https://www.v2ex.com/t/814664)
+* [2021-11-11  [macOS] Mac 上日程 APP 卡顿崩溃不可用问题](https://www.v2ex.com/t/814659)
+* [2021-11-11  [问与答] 如何记录文本变更历史并保存至数据库，且能方便回溯至任意历史版本？](https://www.v2ex.com/t/814657)
+* [2021-11-11  [Apple] 北京地区 MacBookPro 16 寸高配 AppleStore 线下取货补货了](https://www.v2ex.com/t/814656)
+* [2021-11-11  [职场话题] 如何友好的提醒同事有口臭](https://www.v2ex.com/t/814654)
+* [2021-11-11  [macOS] 外接显示器 HDCP（高清串流）支持是否与 macOS 版本有关？](https://www.v2ex.com/t/814652)
+* [2021-11-11  [全球工单系统] 知乎不登录不能搜索了？](https://www.v2ex.com/t/814651)
+* [2021-11-11  [问与答] 双十一 M1 air 哪个渠道入手最便宜？ 求推荐🙏🙏](https://www.v2ex.com/t/814649)
+* [2021-11-11  [Apple] 苹果官网新出了一个可以联线的手柄](https://www.v2ex.com/t/814647)
+* [2021-11-11  [Apple] iCloud 和 Apple Music 有没有组合套餐？](https://www.v2ex.com/t/814645)
+* [2021-11-11  [程序员] 代数数据类型表示的二叉树的展开式应该怎么理解？](https://www.v2ex.com/t/814641)
+* [2021-11-11  [问与答] 请问 xsd 中一个元素只有 minOccurs="0" 没有 maxOccurs 属性，那这个元素应该理解为『可能为空的数组』还是『可能为 null 的对象』有定论吗？](https://www.v2ex.com/t/814640)
 * [2021-11-11  [问与答] nextcloud 无法保存 live 图是为什么？](https://www.v2ex.com/t/814637)
 * [2021-11-11  [信息安全] 有什么办法只允许我开发的 APP 访问我的 WEB 服务吗？](https://www.v2ex.com/t/814636)
 * [2021-11-11  [酷工作] Afterpay 多个职位热招中！](https://www.v2ex.com/t/814635)
