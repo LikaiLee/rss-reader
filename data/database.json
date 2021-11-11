@@ -581,6 +581,36 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[iCloud] 国区 iCloud 2T + Apple Music 上车辣！",
+                "link": "https://www.v2ex.com/t/814788",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[分享创造] WPL/s - 让你在 VS Code 中用 Markdown 编写发布知乎文章及回答问题",
+                "link": "https://www.v2ex.com/t/814786",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 迫于断网，便携屏没收到，哭辽~，再次开贴收",
+                "link": "https://www.v2ex.com/t/814783",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[硬件] 显示器这个程度的暗边是正常的吗",
+                "link": "https://www.v2ex.com/t/814782",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 在没有给支付宝蓝牙权限的情况下，支付宝是如何知道我在系统设置中关闭了蓝牙？",
+                "link": "https://www.v2ex.com/t/814781",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] react 里的部分 css 选择器背干掉了吗？比如子元素选择器 div > p",
+                "link": "https://www.v2ex.com/t/814780",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "[分享创造] wc-github-corners - 基于 Web Components 实现的可以在任意地方使用的 GitHub Corners",
                 "link": "https://www.v2ex.com/t/814779",
                 "published": "2021-11-11"
@@ -19966,7 +19996,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 3,
