@@ -581,6 +581,21 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[奇思妙想] 这个世界上，总有一些有远见卓识的人能够预知未来",
+                "link": "https://www.v2ex.com/t/814809",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[程序员] 云服务器不能通过公网 IP 连接本机",
+                "link": "https://www.v2ex.com/t/814807",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[职场话题] 面试阿里外包有感",
+                "link": "https://www.v2ex.com/t/814806",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "[Apple] 我这台 iPhone13 pro 是不是可以直接退换了？",
                 "link": "https://www.v2ex.com/t/814805",
                 "published": "2021-11-11"
@@ -20041,7 +20056,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 3,
