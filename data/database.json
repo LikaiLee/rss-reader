@@ -566,6 +566,71 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] Netim 的 eu 域名 10 年只要 88，买完发现自己上一个域名已经续费到了 2023 年",
+                "link": "https://www.v2ex.com/t/814695",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Apple] 16 寸 M1Pro 充电一直显示 80%",
+                "link": "https://www.v2ex.com/t/814694",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[南京] 想去南京拍枫叶和银杏,什么时间点比较合适?",
+                "link": "https://www.v2ex.com/t/814693",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[C++] 新手请教使用 VS2017 创建 Dll 项目后，如何自动生成 stdafx.h 和 targetver.h 这 2 个文件?",
+                "link": "https://www.v2ex.com/t/814692",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 最近是不是墙又高了？",
+                "link": "https://www.v2ex.com/t/814690",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[程序员] GitHub Copilot 可以写帮我写中文文章了",
+                "link": "https://www.v2ex.com/t/814689",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 直接用谷歌帐号授权登录和用谷歌帐号+密码注册的利弊",
+                "link": "https://www.v2ex.com/t/814688",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] ==========TCP 编程的相关问题==========",
+                "link": "https://www.v2ex.com/t/814687",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[分享发现] Github Copilot 真香, 简直是解放生产力的神器.",
+                "link": "https://www.v2ex.com/t/814685",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 多个子域名，如何共享 jwt token 呢？",
+                "link": "https://www.v2ex.com/t/814684",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[小米] 小米 11 Ultra 突然黑屏变砖",
+                "link": "https://www.v2ex.com/t/814682",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[全球工单系统] 微信 IOS 版本的存储空间是不是有问题啊",
+                "link": "https://www.v2ex.com/t/814680",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Kubernetes] 分享我用 K8S 在个人项目上的应用",
+                "link": "https://www.v2ex.com/t/814679",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "[iPhone] 要换电池的可以看看， JD 今天换原厂电池只要 359",
                 "link": "https://www.v2ex.com/t/814676",
                 "published": "2021-11-11"
@@ -19566,13 +19631,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 13
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "11 月 11 日是人民空军 72 岁生日，你有什么祝福送给空军？对人民空军的未来有什么期待？",
+                "link": "http://www.zhihu.com/question/497725427/answer/2217625126?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-11"
+            },
             {
                 "title": "《英雄联盟：双城之战》中为什么皮城和祖安的关系为什么这么差？",
                 "link": "http://www.zhihu.com/question/497416934/answer/2216445414?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -20124,6 +20194,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

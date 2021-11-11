@@ -4,8 +4,8 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+3】
-* [知乎每日精选](#知乎每日精选)
+* [V2EX](#V2EX) 【+13】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-11】 [iPhone] 要换电池的可以看看， JD 今天换原厂电池只要 359](https://www.v2ex.com/t/814676)
-* [【2021-11-11】 [电影] 迟来的<沙丘>电影观后感](https://www.v2ex.com/t/814675)
-* [【2021-11-11】 [深圳] 龙华四号线地铁噪音](https://www.v2ex.com/t/814672)
-* [【2021-11-11】 [MacBook Pro] 预计 12 号的订单还没有变态，要不要打电话问一下](https://www.v2ex.com/t/814670)
-* [【2021-11-11】 [MacBook Pro] MacBook Pro 14"/16" (2021) 推力怎么样？](https://www.v2ex.com/t/814668)
-* [【2021-11-11】 [职场话题] 面对公共场合吸烟者，如何劝说阻止其行为呢？](https://www.v2ex.com/t/814665)
-* [【2021-11-11】 [Chrome] Chrome 无法解析只有 AAAA 记录的域名](https://www.v2ex.com/t/814664)
-* [【2021-11-11】 [macOS] Mac 上日程 APP 卡顿崩溃不可用问题](https://www.v2ex.com/t/814659)
-* [【2021-11-11】 [问与答] 如何记录文本变更历史并保存至数据库，且能方便回溯至任意历史版本？](https://www.v2ex.com/t/814657)
-* [【2021-11-11】 [Apple] 北京地区 MacBookPro 16 寸高配 AppleStore 线下取货补货了](https://www.v2ex.com/t/814656)
+* [【2021-11-11】 [程序员] Netim 的 eu 域名 10 年只要 88，买完发现自己上一个域名已经续费到了 2023 年](https://www.v2ex.com/t/814695)
+* [【2021-11-11】 [Apple] 16 寸 M1Pro 充电一直显示 80%](https://www.v2ex.com/t/814694)
+* [【2021-11-11】 [南京] 想去南京拍枫叶和银杏,什么时间点比较合适?](https://www.v2ex.com/t/814693)
+* [【2021-11-11】 [C++] 新手请教使用 VS2017 创建 Dll 项目后，如何自动生成 stdafx.h 和 targetver.h 这 2 个文件?](https://www.v2ex.com/t/814692)
+* [【2021-11-11】 [问与答] 最近是不是墙又高了？](https://www.v2ex.com/t/814690)
+* [【2021-11-11】 [程序员] GitHub Copilot 可以写帮我写中文文章了](https://www.v2ex.com/t/814689)
+* [【2021-11-11】 [问与答] 直接用谷歌帐号授权登录和用谷歌帐号+密码注册的利弊](https://www.v2ex.com/t/814688)
+* [【2021-11-11】 [问与答] ==========TCP 编程的相关问题==========](https://www.v2ex.com/t/814687)
+* [【2021-11-11】 [分享发现] Github Copilot 真香, 简直是解放生产力的神器.](https://www.v2ex.com/t/814685)
+* [【2021-11-11】 [问与答] 多个子域名，如何共享 jwt token 呢？](https://www.v2ex.com/t/814684)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -67,6 +67,7 @@
     </summary>
 
 
+* [【2021-11-11】 11 月 11 日是人民空军 72 岁生日，你有什么祝福送给空军？对人民空军的未来有什么期待？](http://www.zhihu.com/question/497725427/answer/2217625126?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-11】 《英雄联盟：双城之战》中为什么皮城和祖安的关系为什么这么差？](http://www.zhihu.com/question/497416934/answer/2216445414?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-11】 有多少人知道「双十一」其实还是解放军空军成立纪念日？你对中国空军有哪些了解？](http://www.zhihu.com/question/493319619/answer/2217726848?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-11】 上海发布关于「密室剧本杀内容备案管理规定」的征求意见，你有哪些建议？剧本杀行业该如何实现高质量转身？](http://www.zhihu.com/question/498036163/answer/2217351303?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -76,7 +77,6 @@
 * [【2021-11-10】 11 月 11 日是中国空军节，中国空军有哪些兵种？空军发展至今经历了哪些艰辛、取得了哪些成就？](http://www.zhihu.com/question/495919290/answer/2216552803?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-10】 有什么搞笑沙雕游戏值得推荐？](http://www.zhihu.com/question/285089634/answer/2214464192?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-10】 国产动画《两不疑》好看吗？](http://www.zhihu.com/question/455527111/answer/2214954703?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-10】 如何评价国产动画《两不疑》？](http://www.zhihu.com/question/455527111/answer/2214954703?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-11 05:18:19
+:alarm_clock: 更新时间: 2021-11-11 06:24:10
