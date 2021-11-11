@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+5】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+28】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -29,6 +29,7 @@
     </summary>
 
 
+* [【2021-11-11】 派早报：Apple 推出 Business Essentials 服务、腾讯宣布自研芯片信息等](https://sspai.com/post/69883)
 * [【2021-11-10】 「付费栏目」 三大限定活动现在开启](https://sspai.com/post/69833)
 * [【2021-11-10】 拒绝套路，「付费栏目」 双十一限定活动现在开启](https://sspai.com/post/69833)
 * [【2021-11-10】 11 日二技 | 你的 macOS 鼠标指针被我们承包了](https://sspai.com/post/69830)
@@ -38,7 +39,6 @@
 * [【2021-11-10】 一日一技 | 利用这个开源工具你也可以为 PDF 添加目录](https://sspai.com/post/69601)
 * [【2021-11-10】 派早报：腾讯音乐与 Apple Music 达成合作、微软推出专为孩童设计的 Surface Laptop SE](https://sspai.com/post/69862)
 * [【2021-11-09】 不读可以先收藏 05 | 再忙也不要错过这些好文章](https://sspai.com/post/69819)
-* [【2021-11-09】 为了那声独一无二的「哒」：Galaxy Z Flip3 成为主力机的 60 天](https://sspai.com/post/69810)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-11】 [程序员] 程序员是不是对网速有执念](https://www.v2ex.com/t/814571)
-* [【2021-11-11】 [MacBook] 如果早知道...玻璃触控板也会被磨损](https://www.v2ex.com/t/814570)
-* [【2021-11-11】 [问与答] 16G 内存开机没开啥就显示占了 75%是什么原因？](https://www.v2ex.com/t/814569)
-* [【2021-11-11】 [Apple] AirPods Pro 反复断开链接](https://www.v2ex.com/t/814568)
-* [【2021-11-11】 [Apple] AirPods 听歌被打断后无法自动续播](https://www.v2ex.com/t/814563)
-* [【2021-11-10】 [MacBook Pro] [求助]欧洲怎么买 MacBook Pro 便宜](https://www.v2ex.com/t/814561)
-* [【2021-11-10】 [问与答] 想问问嵌入式和二进制安全的知识体系接近吗？](https://www.v2ex.com/t/814560)
-* [【2021-11-10】 [Spotify] Spotify 的 UI 设计师是怎么想的](https://www.v2ex.com/t/814559)
-* [【2021-11-10】 [问与答] 蔡司臻锐钻立方铂金膜还是防蓝光膜](https://www.v2ex.com/t/814558)
-* [【2021-11-10】 [分享创造] 分享内容到任何接口-share2AnyWhere android APP](https://www.v2ex.com/t/814557)
+* [【2021-11-11】 [macOS] Mac 免费看图软件有推荐吗？公司不让用 Bridge……](https://www.v2ex.com/t/814611)
+* [【2021-11-11】 [问与答] 求推荐一款适合 Mac 和 Windows 的显示器](https://www.v2ex.com/t/814610)
+* [【2021-11-11】 [分享发现] AirPods Pro 丢失，买了新的 AirPods Pro 拆封五分钟后，找到了我丢失的 AirPods Pro](https://www.v2ex.com/t/814608)
+* [【2021-11-11】 [问与答] 求推荐 8 万以内家用车，父母用。](https://www.v2ex.com/t/814607)
+* [【2021-11-11】 [问与答] 黑群晖有适合小白初学的论坛吗？](https://www.v2ex.com/t/814606)
+* [【2021-11-11】 [问与答] 求助， docker 容器中 git pull 一直超时该怎么解决](https://www.v2ex.com/t/814605)
+* [【2021-11-11】 [问与答] 广州天河区如何找到适合的小区](https://www.v2ex.com/t/814604)
+* [【2021-11-11】 [MacBook Pro] 还有 12-19 没发货的吗？](https://www.v2ex.com/t/814603)
+* [【2021-11-11】 [问与答] 惠普 Z27K G3 显示器接 Macbook， 有时候刚接上，电脑就会重启](https://www.v2ex.com/t/814601)
+* [【2021-11-11】 [问与答] Windows 无线连接到 WiFi，然后开热点，怎样拦截连接热点的客户端的所有流量，并且可以修改再转发出去。](https://www.v2ex.com/t/814600)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-11 01:05:27
+:alarm_clock: 更新时间: 2021-11-11 02:32:12

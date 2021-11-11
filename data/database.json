@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Apple 推出 Business Essentials 服务、腾讯宣布自研芯片信息等",
+                "link": "https://sspai.com/post/69883",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "「付费栏目」 三大限定活动现在开启",
                 "link": "https://sspai.com/post/69833",
                 "published": "2021-11-10"
@@ -548,13 +553,153 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[macOS] Mac 免费看图软件有推荐吗？公司不让用 Bridge……",
+                "link": "https://www.v2ex.com/t/814611",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 求推荐一款适合 Mac 和 Windows 的显示器",
+                "link": "https://www.v2ex.com/t/814610",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[分享发现] AirPods Pro 丢失，买了新的 AirPods Pro 拆封五分钟后，找到了我丢失的 AirPods Pro",
+                "link": "https://www.v2ex.com/t/814608",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 求推荐 8 万以内家用车，父母用。",
+                "link": "https://www.v2ex.com/t/814607",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 黑群晖有适合小白初学的论坛吗？",
+                "link": "https://www.v2ex.com/t/814606",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 求助， docker 容器中 git pull 一直超时该怎么解决",
+                "link": "https://www.v2ex.com/t/814605",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 广州天河区如何找到适合的小区",
+                "link": "https://www.v2ex.com/t/814604",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[MacBook Pro] 还有 12-19 没发货的吗？",
+                "link": "https://www.v2ex.com/t/814603",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 惠普 Z27K G3 显示器接 Macbook， 有时候刚接上，电脑就会重启",
+                "link": "https://www.v2ex.com/t/814601",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] Windows 无线连接到 WiFi，然后开热点，怎样拦截连接热点的客户端的所有流量，并且可以修改再转发出去。",
+                "link": "https://www.v2ex.com/t/814600",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[MacBook Pro] 定制 16 寸、M1 MAX 、64G 内存、1TB 硬盘的 MAC 到了，为什么屏幕上一堆气泡？？",
+                "link": "https://www.v2ex.com/t/814599",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 不完全统计世界排名前 50 网站使用的主要技术框架。（前端，后端）",
+                "link": "https://www.v2ex.com/t/814598",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 020 领域为什么没有去连接线下服装店？",
+                "link": "https://www.v2ex.com/t/814597",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[全球工单系统] 有鹅厂腾讯动漫的人吗？ iOS 最新版 APP 的「帮助与反馈」点击就闪退……\n这是 feature 么？",
+                "link": "https://www.v2ex.com/t/814595",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[程序员] 关于 AQS 中的 acquire 方法的一点疑惑",
+                "link": "https://www.v2ex.com/t/814594",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[酷工作] [北京/远程][科研助理学生] 中科院信工所 AIAMS 研究小组招聘 [AI+体系结构]",
+                "link": "https://www.v2ex.com/t/814592",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Apple] IOS15 从昨天开始对 ios14 用户也开始自动下载更新了？",
+                "link": "https://www.v2ex.com/t/814591",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[AirPods] AirPods 两个耳机能分开播放内容吗？",
+                "link": "https://www.v2ex.com/t/814590",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Apple] pdd iPhone13 256G 午夜 5899 上车。",
+                "link": "https://www.v2ex.com/t/814588",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Apple] Apple Pencil 值得买吗？",
+                "link": "https://www.v2ex.com/t/814587",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[C#] 开发到一半忍不住吐槽一下 Windows 桌面开发",
+                "link": "https://www.v2ex.com/t/814584",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[ WATCH] 使用 apple watch 7 的一些疑问，老鸟来解答一下",
+                "link": "https://www.v2ex.com/t/814583",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[奇思妙想] 求助：计算机研究生方向问题选择",
+                "link": "https://www.v2ex.com/t/814582",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[推广] 蹭一波双十一，免费送会员",
+                "link": "https://www.v2ex.com/t/814581",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[分享发现] 发现自己买充电器和数据线会上瘾，另外像大家说的一样也顺便吐槽一下 c2c 线真混乱",
+                "link": "https://www.v2ex.com/t/814579",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Apple] 有没有人遇到过 siri 播报声音特别小的？",
+                "link": "https://www.v2ex.com/t/814577",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 请问大家有什么戒烟解决方案？",
+                "link": "https://www.v2ex.com/t/814576",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 没学历以后该怎么走",
+                "link": "https://www.v2ex.com/t/814574",
+                "published": "2021-11-11"
+            },
             {
                 "title": "[程序员] 程序员是不是对网速有执念",
                 "link": "https://www.v2ex.com/t/814571",
@@ -19231,7 +19376,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 28
     },
     {
         "id": 3,
