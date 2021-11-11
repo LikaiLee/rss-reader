@@ -573,13 +573,53 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[全球工单系统] 大王卡充值 300 送一年 QQ 音乐绿钻就是个大骗局...",
+                "link": "https://www.v2ex.com/t/814760",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 请问一下大佬们双 11 有哪些 app 值得入手啊?",
+                "link": "https://www.v2ex.com/t/814759",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[优惠信息] Office365 发车， 48 元/年，有需要上车的朋友嘛？",
+                "link": "https://www.v2ex.com/t/814758",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[推广] 盖楼抽送 20 个 500GB CDN 流量包 | 多吉云 DogeCloud 年度优惠流量包折合单价￥ 0.055 / GB",
+                "link": "https://www.v2ex.com/t/814757",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] react 里，把 curd 封装成 hooks，能带来什么特殊好处吗？",
+                "link": "https://www.v2ex.com/t/814756",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 在抖音上搜索一下「装修」，就有装修公司打我电话？",
+                "link": "https://www.v2ex.com/t/814755",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[MacBook Pro] 刚入手的 2021 mbp 14 寸，不定时断网",
+                "link": "https://www.v2ex.com/t/814754",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 语文单元练习 11-11-21",
+                "link": "https://www.v2ex.com/t/814753",
+                "published": "2021-11-11"
+            },
             {
                 "title": "[分享发现] 语文单元练习 11-11-21",
                 "link": "https://www.v2ex.com/t/814753",
@@ -19866,7 +19906,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 15
+        "new_feeds": 8
     },
     {
         "id": 3,
@@ -20459,6 +20499,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     }
 ]
