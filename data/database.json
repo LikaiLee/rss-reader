@@ -38,6 +38,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "此曲安处是吾乡：Apple Music 选区详解",
+                "link": "https://sspai.com/post/69741",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "城市漫游指南·呼和浩特：晚秋时分的青城",
                 "link": "https://sspai.com/post/69709",
                 "published": "2021-11-11"
@@ -570,6 +575,41 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[互联网] instagram 里几乎看不到好友发的图片了，全是推荐内容",
+                "link": "https://www.v2ex.com/t/814737",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[酷工作] [远程] 招 Nodejs 后端， Web 前端和 Android， 15~20K，成都, 可异地可远程办公",
+                "link": "https://www.v2ex.com/t/814736",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[酷工作] DODOEX 招聘 UI 和后端[可远程]",
+                "link": "https://www.v2ex.com/t/814734",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[京东] 不迫 出京东自营全新未拆封小米 11 8+128g 蓝色 2650 顺丰保价包邮",
+                "link": "https://www.v2ex.com/t/814733",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] excel 文本数据处理求指教",
+                "link": "https://www.v2ex.com/t/814732",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[职场话题] 《码农修仙记》开个头",
+                "link": "https://www.v2ex.com/t/814731",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[macOS] mac 上的抖音是流氓吗??",
+                "link": "https://www.v2ex.com/t/814730",
+                "published": "2021-11-11"
+            },
             {
                 "title": "[iPhone] 2021.11.11 这个时间点换哪款 iPhone 性价比高？",
                 "link": "https://www.v2ex.com/t/814727",
@@ -19746,13 +19786,18 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 7
     },
     {
         "id": 3,
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "11 月 11 日是人民空军 72 岁生日，你有什么祝福送给空军？对人民空军的未来有什么期待？",
+                "link": "http://www.zhihu.com/question/497725427/answer/2218162346?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-11"
+            },
             {
                 "title": "11.11 是空军节，72 年来空军经历了哪些艰辛又取得怎样的成就？你有哪些祝福？",
                 "link": "http://www.zhihu.com/question/495919290/answer/2216733513?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
@@ -20324,6 +20369,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     }
 ]
