@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
-* [V2EX](#V2EX) 【+28】
+* [少数派](#少数派)
+* [V2EX](#V2EX) 【+19】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -48,16 +48,16 @@
     </summary>
 
 
-* [【2021-11-11】 [macOS] Mac 免费看图软件有推荐吗？公司不让用 Bridge……](https://www.v2ex.com/t/814611)
-* [【2021-11-11】 [问与答] 求推荐一款适合 Mac 和 Windows 的显示器](https://www.v2ex.com/t/814610)
-* [【2021-11-11】 [分享发现] AirPods Pro 丢失，买了新的 AirPods Pro 拆封五分钟后，找到了我丢失的 AirPods Pro](https://www.v2ex.com/t/814608)
-* [【2021-11-11】 [问与答] 求推荐 8 万以内家用车，父母用。](https://www.v2ex.com/t/814607)
-* [【2021-11-11】 [问与答] 黑群晖有适合小白初学的论坛吗？](https://www.v2ex.com/t/814606)
-* [【2021-11-11】 [问与答] 求助， docker 容器中 git pull 一直超时该怎么解决](https://www.v2ex.com/t/814605)
-* [【2021-11-11】 [问与答] 广州天河区如何找到适合的小区](https://www.v2ex.com/t/814604)
-* [【2021-11-11】 [MacBook Pro] 还有 12-19 没发货的吗？](https://www.v2ex.com/t/814603)
-* [【2021-11-11】 [问与答] 惠普 Z27K G3 显示器接 Macbook， 有时候刚接上，电脑就会重启](https://www.v2ex.com/t/814601)
-* [【2021-11-11】 [问与答] Windows 无线连接到 WiFi，然后开热点，怎样拦截连接热点的客户端的所有流量，并且可以修改再转发出去。](https://www.v2ex.com/t/814600)
+* [【2021-11-11】 [问与答] nextcloud 无法保存 live 图是为什么？](https://www.v2ex.com/t/814637)
+* [【2021-11-11】 [信息安全] 有什么办法只允许我开发的 APP 访问我的 WEB 服务吗？](https://www.v2ex.com/t/814636)
+* [【2021-11-11】 [酷工作] Afterpay 多个职位热招中！](https://www.v2ex.com/t/814635)
+* [【2021-11-11】 [程序员] 问下 vscode 和 IDEA 的区别，因为 idea 没办法用重置插件了](https://www.v2ex.com/t/814633)
+* [【2021-11-11】 [奇思妙想] 有没有类似游戏里的任务成就系统的 app](https://www.v2ex.com/t/814630)
+* [【2021-11-11】 [问与答] 软件收费模式怎么实现？](https://www.v2ex.com/t/814629)
+* [【2021-11-11】 [问与答] 邻居违规在家里生产经营，每天都发出很大的噪音，怎样举报才有用？](https://www.v2ex.com/t/814628)
+* [【2021-11-11】 [问与答] 有刷了最新版 MIUI 开发版的老哥帮忙看一下 swap 设置吗](https://www.v2ex.com/t/814627)
+* [【2021-11-11】 [AirPods] 安卓阵营哪款 TWS 的降噪效果能媲美 AirPods Pro？](https://www.v2ex.com/t/814626)
+* [【2021-11-11】 [咖啡] 双 11 推荐一款性价比高一点的咖啡机？](https://www.v2ex.com/t/814625)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +86,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-11 02:32:12
+:alarm_clock: 更新时间: 2021-11-11 03:21:21
