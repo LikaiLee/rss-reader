@@ -1,6 +1,11 @@
 # V2EX
 
 
+* [2021-11-11  [程序员] 程序员是不是对网速有执念](https://www.v2ex.com/t/814571)
+* [2021-11-11  [MacBook] 如果早知道...玻璃触控板也会被磨损](https://www.v2ex.com/t/814570)
+* [2021-11-11  [问与答] 16G 内存开机没开啥就显示占了 75%是什么原因？](https://www.v2ex.com/t/814569)
+* [2021-11-11  [Apple] AirPods Pro 反复断开链接](https://www.v2ex.com/t/814568)
+* [2021-11-11  [Apple] AirPods 听歌被打断后无法自动续播](https://www.v2ex.com/t/814563)
 * [2021-11-10  [MacBook Pro] [求助]欧洲怎么买 MacBook Pro 便宜](https://www.v2ex.com/t/814561)
 * [2021-11-10  [问与答] 想问问嵌入式和二进制安全的知识体系接近吗？](https://www.v2ex.com/t/814560)
 * [2021-11-10  [Spotify] Spotify 的 UI 设计师是怎么想的](https://www.v2ex.com/t/814559)

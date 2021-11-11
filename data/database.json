@@ -556,6 +556,31 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[程序员] 程序员是不是对网速有执念",
+                "link": "https://www.v2ex.com/t/814571",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[MacBook] 如果早知道...玻璃触控板也会被磨损",
+                "link": "https://www.v2ex.com/t/814570",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[问与答] 16G 内存开机没开啥就显示占了 75%是什么原因？",
+                "link": "https://www.v2ex.com/t/814569",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Apple] AirPods Pro 反复断开链接",
+                "link": "https://www.v2ex.com/t/814568",
+                "published": "2021-11-11"
+            },
+            {
+                "title": "[Apple] AirPods 听歌被打断后无法自动续播",
+                "link": "https://www.v2ex.com/t/814563",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "[MacBook Pro] [求助]欧洲怎么买 MacBook Pro 便宜",
                 "link": "https://www.v2ex.com/t/814561",
                 "published": "2021-11-10"
@@ -19206,7 +19231,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 5
     },
     {
         "id": 3,
