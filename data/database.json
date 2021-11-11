@@ -581,6 +581,11 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[Apple] 我这台 iPhone13 pro 是不是可以直接退换了？",
+                "link": "https://www.v2ex.com/t/814805",
+                "published": "2021-11-11"
+            },
+            {
                 "title": "[NAS] 除去硬盘成本 1000 以内 只考虑照片存储的私有云选啥?",
                 "link": "https://www.v2ex.com/t/814804",
                 "published": "2021-11-11"
@@ -20036,7 +20041,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 3,
