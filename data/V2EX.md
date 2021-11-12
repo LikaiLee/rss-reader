@@ -1,6 +1,20 @@
 # V2EX
 
 
+* [2021-11-12  [Apple] magsafe 外接电池的使用疑问](https://www.v2ex.com/t/814939)
+* [2021-11-12  [全球工单系统] 彩云天气又在作死了](https://www.v2ex.com/t/814937)
+* [2021-11-12  [MacBook Pro] 突然发现 13 年的 MBP 真的老了](https://www.v2ex.com/t/814935)
+* [2021-11-12  [生活] 一千两百多块钱买个灰鸭绒羽绒服是不是亏了？](https://www.v2ex.com/t/814934)
+* [2021-11-12  [Kubernetes] k8s 的网络原理到底是啥](https://www.v2ex.com/t/814933)
+* [2021-11-12  [问与答] 想买罗技的人体工程学鼠标](https://www.v2ex.com/t/814932)
+* [2021-11-12  [酷工作] 远程全职| 资深 Nodejs 后端工程师 | 年薪 5~10 万美元](https://www.v2ex.com/t/814931)
+* [2021-11-12  [酷工作] [杭州][外企] 微策略软件急招 Web 前端， C++， DevOps， Java ， 16-40K， 13 薪，资金另算，不加班，不内卷， 2022 Q1 全员 RSU，现在投递还能赶上](https://www.v2ex.com/t/814930)
+* [2021-11-12  [程序员] 问下，如果买 198/3 年的腾讯云 8m 带宽对 frp 性能提升大吗？](https://www.v2ex.com/t/814929)
+* [2021-11-12  [问与答] 以前百兆的路由器除了给运费送路由这一种方案以外，还有其他什么用处呢？](https://www.v2ex.com/t/814928)
+* [2021-11-12  [Nintendo Switch] 趁着双十一入手了 switch](https://www.v2ex.com/t/814927)
+* [2021-11-12  [Linux] curl post 里面的 + 加号怎么不转义输出啊](https://www.v2ex.com/t/814924)
+* [2021-11-12  [Apple] 罗技 MX Master 3 与苹果的妙控鼠标的选择](https://www.v2ex.com/t/814923)
+* [2021-11-12  [求职] 广州自学转行的前端有人要吗？ 19 年毕业本科](https://www.v2ex.com/t/814919)
 * [2021-11-12  [全球工单系统] 小米又被拖库了？](https://www.v2ex.com/t/814918)
 * [2021-11-12  [MacBook Pro] MBP m1 pro 测试 Keyshot](https://www.v2ex.com/t/814917)
 * [2021-11-12  [Apple] autosleep 每天无法收到推送的睡眠报告？](https://www.v2ex.com/t/814916)
