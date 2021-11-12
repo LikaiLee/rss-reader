@@ -4,7 +4,7 @@
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+14】
+* [V2EX](#V2EX) 【+22】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -49,16 +49,16 @@
     </summary>
 
 
-* [【2021-11-12】 [Apple] magsafe 外接电池的使用疑问](https://www.v2ex.com/t/814939)
-* [【2021-11-12】 [全球工单系统] 彩云天气又在作死了](https://www.v2ex.com/t/814937)
-* [【2021-11-12】 [MacBook Pro] 突然发现 13 年的 MBP 真的老了](https://www.v2ex.com/t/814935)
-* [【2021-11-12】 [生活] 一千两百多块钱买个灰鸭绒羽绒服是不是亏了？](https://www.v2ex.com/t/814934)
-* [【2021-11-12】 [Kubernetes] k8s 的网络原理到底是啥](https://www.v2ex.com/t/814933)
-* [【2021-11-12】 [问与答] 想买罗技的人体工程学鼠标](https://www.v2ex.com/t/814932)
-* [【2021-11-12】 [酷工作] 远程全职| 资深 Nodejs 后端工程师 | 年薪 5~10 万美元](https://www.v2ex.com/t/814931)
-* [【2021-11-12】 [酷工作] [杭州][外企] 微策略软件急招 Web 前端， C++， DevOps， Java ， 16-40K， 13 薪，资金另算，不加班，不内卷， 2022 Q1 全员 RSU，现在投递还能赶上](https://www.v2ex.com/t/814930)
-* [【2021-11-12】 [程序员] 问下，如果买 198/3 年的腾讯云 8m 带宽对 frp 性能提升大吗？](https://www.v2ex.com/t/814929)
-* [【2021-11-12】 [问与答] 以前百兆的路由器除了给运费送路由这一种方案以外，还有其他什么用处呢？](https://www.v2ex.com/t/814928)
+* [【2021-11-12】 [问与答] 有什么简单的方法让国内服务器拥有国外服务器的网络环境](https://www.v2ex.com/t/814965)
+* [【2021-11-12】 [Rust] 简单的写了个 Rust 结构体字段验证过程宏](https://www.v2ex.com/t/814963)
+* [【2021-11-12】 [酷工作] [上海][心动网络 - TapTap][20K - 50K] 急招前端](https://www.v2ex.com/t/814962)
+* [【2021-11-12】 [若饭] 第一次发帖，试试看](https://www.v2ex.com/t/814961)
+* [【2021-11-12】 [全球工单系统] 码云挂了？全部 502 了。](https://www.v2ex.com/t/814959)
+* [【2021-11-12】 [问与答] 静电容键盘，除了 HHKB 还有什么别的选择吗？](https://www.v2ex.com/t/814958)
+* [【2021-11-12】 [Apple] Apple Music 放 Taylor Swift 的一些音乐总是自动跳过](https://www.v2ex.com/t/814957)
+* [【2021-11-12】 [问与答] 询问一些入门级的线性代数知识，求解惑](https://www.v2ex.com/t/814956)
+* [【2021-11-12】 [宽带症候群] 礼貌提问，家宽千兆是否可以通过链路聚合实现满速体验。](https://www.v2ex.com/t/814955)
+* [【2021-11-12】 [全球工单系统] gitee 挂了](https://www.v2ex.com/t/814954)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -87,4 +87,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-12 06:24:13
+:alarm_clock: 更新时间: 2021-11-12 07:19:15

@@ -596,6 +596,116 @@
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
             {
+                "title": "[问与答] 有什么简单的方法让国内服务器拥有国外服务器的网络环境",
+                "link": "https://www.v2ex.com/t/814965",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[Rust] 简单的写了个 Rust 结构体字段验证过程宏",
+                "link": "https://www.v2ex.com/t/814963",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[酷工作] [上海][心动网络 - TapTap][20K - 50K] 急招前端",
+                "link": "https://www.v2ex.com/t/814962",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[若饭] 第一次发帖，试试看",
+                "link": "https://www.v2ex.com/t/814961",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[全球工单系统] 码云挂了？全部 502 了。",
+                "link": "https://www.v2ex.com/t/814959",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[问与答] 静电容键盘，除了 HHKB 还有什么别的选择吗？",
+                "link": "https://www.v2ex.com/t/814958",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[Apple] Apple Music 放 Taylor Swift 的一些音乐总是自动跳过",
+                "link": "https://www.v2ex.com/t/814957",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[问与答] 询问一些入门级的线性代数知识，求解惑",
+                "link": "https://www.v2ex.com/t/814956",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[宽带症候群] 礼貌提问，家宽千兆是否可以通过链路聚合实现满速体验。",
+                "link": "https://www.v2ex.com/t/814955",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[全球工单系统] gitee 挂了",
+                "link": "https://www.v2ex.com/t/814954",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[生活] [租房] 迫于生活，找个带独卫的单间",
+                "link": "https://www.v2ex.com/t/814953",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[程序员] 有没有现成的代码分析出数组的通项公式？",
+                "link": "https://www.v2ex.com/t/814951",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[C#] WPF、WinUI、UWP、WinForm 在项目中到底是怎么区别的？",
+                "link": "https://www.v2ex.com/t/814950",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[酷工作] [内推] [北京/苏州] [微软] 组里还在招人啊",
+                "link": "https://www.v2ex.com/t/814949",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[Microsoft Office] 拼单 Office365 还差一个人",
+                "link": "https://www.v2ex.com/t/814948",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[问与答] iOS 14.8.1 国行版本，指南针是否还有经纬度",
+                "link": "https://www.v2ex.com/t/814947",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[职场话题] 工作上的困扰",
+                "link": "https://www.v2ex.com/t/814946",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[问与答] Google tv 上面的 Netflix 会走系统代理吗",
+                "link": "https://www.v2ex.com/t/814945",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[Apple] iOS 天气预报跟彩云天气差了 6 度！",
+                "link": "https://www.v2ex.com/t/814944",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[推广] 正版 Office 2021 和 2019 — 双 11 低价促销 最低价仅需 268 元",
+                "link": "https://www.v2ex.com/t/814943",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[Google] 为什么谷歌对 B 站视频的收录很多，对西瓜视频的收录很少",
+                "link": "https://www.v2ex.com/t/814942",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[Swift] Alamofire 和 URLSession 的一个对比例子",
+                "link": "https://www.v2ex.com/t/814941",
+                "published": "2021-11-12"
+            },
+            {
                 "title": "[Apple] magsafe 外接电池的使用疑问",
                 "link": "https://www.v2ex.com/t/814939",
                 "published": "2021-11-12"
@@ -20526,7 +20636,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 14
+        "new_feeds": 22
     },
     {
         "id": 3,
