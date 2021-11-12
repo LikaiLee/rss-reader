@@ -43,6 +43,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "任天堂的厨艺值几颗星？|「世界主宰」的掌机之路 · 肆",
+                "link": "https://sspai.com/post/69734",
+                "published": "2021-11-12"
+            },
+            {
                 "title": "派早报：Netflix 开始在电视上推出 AV1 解码器、3DMark 增加 SSD 测试项目等",
                 "link": "https://sspai.com/post/69897",
                 "published": "2021-11-12"
@@ -583,13 +588,53 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[全球工单系统] 小米又被拖库了？",
+                "link": "https://www.v2ex.com/t/814918",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[MacBook Pro] MBP m1 pro 测试 Keyshot",
+                "link": "https://www.v2ex.com/t/814917",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[Apple] autosleep 每天无法收到推送的睡眠报告？",
+                "link": "https://www.v2ex.com/t/814916",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[分享创造] 分享 & 送码｜独立开发近两年的 App 时光进度，首次入选苹果官方 “本周编辑推荐”，分享一下数据",
+                "link": "https://www.v2ex.com/t/814915",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[Apple] 问下各位新 mac 到了后应该先做哪些测试验机",
+                "link": "https://www.v2ex.com/t/814914",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[云计算] 我给你们算下腾讯云 3 年 198 的服务器是什么概念",
+                "link": "https://www.v2ex.com/t/814913",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[Windows] win10 系统崩了 求如何备份浏览器未关闭窗口",
+                "link": "https://www.v2ex.com/t/814912",
+                "published": "2021-11-12"
+            },
+            {
+                "title": "[奇思妙想] 中文写作软件",
+                "link": "https://www.v2ex.com/t/814911",
+                "published": "2021-11-12"
+            },
             {
                 "title": "[问与答] 怎么平衡有很多东西要记录，需要 Logseq 的最基本功能，但是移动端没有 web 编辑（不奢求 App）",
                 "link": "https://www.v2ex.com/t/814907",
@@ -20411,7 +20456,7 @@
                 "published": "2021-10-22"
             }
         ],
-        "new_feeds": 15
+        "new_feeds": 8
     },
     {
         "id": 3,

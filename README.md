@@ -3,8 +3,8 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
-* [V2EX](#V2EX) 【+15】
+* [少数派](#少数派) 【+1】
+* [V2EX](#V2EX) 【+8】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -30,6 +30,7 @@
     </summary>
 
 
+* [【2021-11-12】 任天堂的厨艺值几颗星？|「世界主宰」的掌机之路 · 肆](https://sspai.com/post/69734)
 * [【2021-11-12】 派早报：Netflix 开始在电视上推出 AV1 解码器、3DMark 增加 SSD 测试项目等](https://sspai.com/post/69897)
 * [【2021-11-11】 新玩意 084｜少数派的作者们最近买了啥？](https://sspai.com/post/69871)
 * [【2021-11-11】 此曲安处是吾乡：Apple Music 选区详解](https://sspai.com/post/69741)
@@ -39,7 +40,6 @@
 * [【2021-11-10】 「付费栏目」 三大限定活动现在开启](https://sspai.com/post/69833)
 * [【2021-11-10】 拒绝套路，「付费栏目」 双十一限定活动现在开启](https://sspai.com/post/69833)
 * [【2021-11-10】 11 日二技 | 你的 macOS 鼠标指针被我们承包了](https://sspai.com/post/69830)
-* [【2021-11-10】 当我们聊全屋智能的时候，别忘了家还可以被音乐溢满](https://sspai.com/post/69730)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -49,16 +49,16 @@
     </summary>
 
 
+* [【2021-11-12】 [全球工单系统] 小米又被拖库了？](https://www.v2ex.com/t/814918)
+* [【2021-11-12】 [MacBook Pro] MBP m1 pro 测试 Keyshot](https://www.v2ex.com/t/814917)
+* [【2021-11-12】 [Apple] autosleep 每天无法收到推送的睡眠报告？](https://www.v2ex.com/t/814916)
+* [【2021-11-12】 [分享创造] 分享 & 送码｜独立开发近两年的 App 时光进度，首次入选苹果官方 “本周编辑推荐”，分享一下数据](https://www.v2ex.com/t/814915)
+* [【2021-11-12】 [Apple] 问下各位新 mac 到了后应该先做哪些测试验机](https://www.v2ex.com/t/814914)
+* [【2021-11-12】 [云计算] 我给你们算下腾讯云 3 年 198 的服务器是什么概念](https://www.v2ex.com/t/814913)
+* [【2021-11-12】 [Windows] win10 系统崩了 求如何备份浏览器未关闭窗口](https://www.v2ex.com/t/814912)
+* [【2021-11-12】 [奇思妙想] 中文写作软件](https://www.v2ex.com/t/814911)
 * [【2021-11-12】 [问与答] 怎么平衡有很多东西要记录，需要 Logseq 的最基本功能，但是移动端没有 web 编辑（不奢求 App）](https://www.v2ex.com/t/814907)
 * [【2021-11-12】 [Apple] Apple TV 游戏体验如何？](https://www.v2ex.com/t/814906)
-* [【2021-11-12】 [Apple] 苹果推出面向小型企业的 Apple Business Essentials 服务](https://www.v2ex.com/t/814905)
-* [【2021-11-12】 [酷工作] [22 校招内推] 快手校招内推了，抓住尾巴赶紧来试试吧](https://www.v2ex.com/t/814904)
-* [【2021-11-12】 [Web3] web3 可能是程序员暴富的又一次机会](https://www.v2ex.com/t/814902)
-* [【2021-11-12】 [Android] 请问一下大佬们，如何在锁区的当下，在谷歌商店付费购买 app?](https://www.v2ex.com/t/814901)
-* [【2021-11-12】 [分享发现] 美团外卖的付款方式不会让他失去用户吗](https://www.v2ex.com/t/814899)
-* [【2021-11-12】 [程序员] 心得：适当认怂更有利于摸鱼学习](https://www.v2ex.com/t/814898)
-* [【2021-11-12】 [酷工作] [开源/远程] RSS3 寻找前端、全栈、去中心化系统、移动端、运营、市场、设计、行政成员，提供最酷最理想最自由的工作](https://www.v2ex.com/t/814897)
-* [【2021-11-12】 [程序员] [望周知，求扩散] 淘宝 NPM 镜像站喊你切换新域名啦](https://www.v2ex.com/t/814895)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -87,4 +87,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-12 04:26:40
+:alarm_clock: 更新时间: 2021-11-12 05:18:15

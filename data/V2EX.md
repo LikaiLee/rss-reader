@@ -1,6 +1,14 @@
 # V2EX
 
 
+* [2021-11-12  [全球工单系统] 小米又被拖库了？](https://www.v2ex.com/t/814918)
+* [2021-11-12  [MacBook Pro] MBP m1 pro 测试 Keyshot](https://www.v2ex.com/t/814917)
+* [2021-11-12  [Apple] autosleep 每天无法收到推送的睡眠报告？](https://www.v2ex.com/t/814916)
+* [2021-11-12  [分享创造] 分享 & 送码｜独立开发近两年的 App 时光进度，首次入选苹果官方 “本周编辑推荐”，分享一下数据](https://www.v2ex.com/t/814915)
+* [2021-11-12  [Apple] 问下各位新 mac 到了后应该先做哪些测试验机](https://www.v2ex.com/t/814914)
+* [2021-11-12  [云计算] 我给你们算下腾讯云 3 年 198 的服务器是什么概念](https://www.v2ex.com/t/814913)
+* [2021-11-12  [Windows] win10 系统崩了 求如何备份浏览器未关闭窗口](https://www.v2ex.com/t/814912)
+* [2021-11-12  [奇思妙想] 中文写作软件](https://www.v2ex.com/t/814911)
 * [2021-11-12  [问与答] 怎么平衡有很多东西要记录，需要 Logseq 的最基本功能，但是移动端没有 web 编辑（不奢求 App）](https://www.v2ex.com/t/814907)
 * [2021-11-12  [Apple] Apple TV 游戏体验如何？](https://www.v2ex.com/t/814906)
 * [2021-11-12  [Apple] 苹果推出面向小型企业的 Apple Business Essentials 服务](https://www.v2ex.com/t/814905)
