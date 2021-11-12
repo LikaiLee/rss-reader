@@ -1,6 +1,14 @@
 # V2EX
 
 
+* [2021-11-12  [旅行] 今天准备去三亚万宁那边玩一趟， V 友有没有推荐的美食和店](https://www.v2ex.com/t/814825)
+* [2021-11-12  [酷工作] [深圳] [朴朴超市] [社招内推] 朴朴科技社招 Java 、前端、产品等岗位](https://www.v2ex.com/t/814823)
+* [2021-11-12  [MacBook Pro] m1 mbp 电池健康值 93%？](https://www.v2ex.com/t/814822)
+* [2021-11-12  [TypeScript] 有没有 TypeScript 相关的书记可以推荐一下啊？](https://www.v2ex.com/t/814821)
+* [2021-11-12  [分享创造] 能够收听 VIP 或变灰歌曲的扩展版网易云音乐播放器](https://www.v2ex.com/t/814820)
+* [2021-11-12  [Apple] TB 渠道， 14 寸定制发货了，进来看看是不是同一家](https://www.v2ex.com/t/814818)
+* [2021-11-12  [Apple] 郁闷 macOS Monterey 12.0.1 在拷贝 NAS 文件时会中断](https://www.v2ex.com/t/814817)
+* [2021-11-12  [程序员] 失业在北京四个月，半路出家程序员，路在何方？](https://www.v2ex.com/t/814816)
 * [2021-11-11  [Apple] 不懂就问，高刷屏对眼睛的伤害是更大还是更小？](https://www.v2ex.com/t/814814)
 * [2021-11-11  [Grafana] 最近我安装了 Loki + Promtail + Grafana，感觉这一组合可以取代 Elasticsearch + Logstash](https://www.v2ex.com/t/814812)
 * [2021-11-11  [Go 编程语言] 分享一个自己的路由工具](https://www.v2ex.com/t/814811)

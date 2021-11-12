@@ -2,9 +2,9 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派)
-* [V2EX](#V2EX) 【+1】
+* [V2EX](#V2EX) 【+8】
 * [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
@@ -15,6 +15,7 @@
     </summary>
 
 
+* [【2021-11-12】 科技爱好者周刊（第 183 期）：腾讯的员工退休福利](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html)
 * [【2021-11-05】 科技爱好者周刊（第 182 期）：新人优惠的风险](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html)
 * [【2021-10-29】 科技爱好者周刊（第 181 期）：移动支付应该怎么设计？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html)
 * [【2021-10-22】 科技爱好者周刊（第 180 期）：你想住在中国哪里？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html)
@@ -48,16 +49,16 @@
     </summary>
 
 
+* [【2021-11-12】 [旅行] 今天准备去三亚万宁那边玩一趟， V 友有没有推荐的美食和店](https://www.v2ex.com/t/814825)
+* [【2021-11-12】 [酷工作] [深圳] [朴朴超市] [社招内推] 朴朴科技社招 Java 、前端、产品等岗位](https://www.v2ex.com/t/814823)
+* [【2021-11-12】 [MacBook Pro] m1 mbp 电池健康值 93%？](https://www.v2ex.com/t/814822)
+* [【2021-11-12】 [TypeScript] 有没有 TypeScript 相关的书记可以推荐一下啊？](https://www.v2ex.com/t/814821)
+* [【2021-11-12】 [分享创造] 能够收听 VIP 或变灰歌曲的扩展版网易云音乐播放器](https://www.v2ex.com/t/814820)
+* [【2021-11-12】 [Apple] TB 渠道， 14 寸定制发货了，进来看看是不是同一家](https://www.v2ex.com/t/814818)
+* [【2021-11-12】 [Apple] 郁闷 macOS Monterey 12.0.1 在拷贝 NAS 文件时会中断](https://www.v2ex.com/t/814817)
+* [【2021-11-12】 [程序员] 失业在北京四个月，半路出家程序员，路在何方？](https://www.v2ex.com/t/814816)
 * [【2021-11-11】 [Apple] 不懂就问，高刷屏对眼睛的伤害是更大还是更小？](https://www.v2ex.com/t/814814)
 * [【2021-11-11】 [Grafana] 最近我安装了 Loki + Promtail + Grafana，感觉这一组合可以取代 Elasticsearch + Logstash](https://www.v2ex.com/t/814812)
-* [【2021-11-11】 [Go 编程语言] 分享一个自己的路由工具](https://www.v2ex.com/t/814811)
-* [【2021-11-11】 [奇思妙想] 这个世界上，总有一些有远见卓识的人能够预知未来](https://www.v2ex.com/t/814809)
-* [【2021-11-11】 [程序员] 云服务器不能通过公网 IP 连接本机](https://www.v2ex.com/t/814807)
-* [【2021-11-11】 [职场话题] 面试阿里外包有感](https://www.v2ex.com/t/814806)
-* [【2021-11-11】 [Apple] 我这台 iPhone13 pro 是不是可以直接退换了？](https://www.v2ex.com/t/814805)
-* [【2021-11-11】 [NAS] 除去硬盘成本 1000 以内 只考虑照片存储的私有云选啥?](https://www.v2ex.com/t/814804)
-* [【2021-11-11】 [问与答] 有熟悉压片或视频转码的大佬不？求助导出参数问题](https://www.v2ex.com/t/814802)
-* [【2021-11-11】 [程序员] 3 年 198 的腾讯云 测试](https://www.v2ex.com/t/814801)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -86,4 +87,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-11 23:20:20
+:alarm_clock: 更新时间: 2021-11-12 01:06:14
