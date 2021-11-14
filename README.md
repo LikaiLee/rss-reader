@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -30,6 +30,8 @@
     </summary>
 
 
+* [【2021-11-14】 写了 20 期 Newsletter，我有这些想和你分享](https://sspai.com/post/69882)
+* [【2021-11-13】 iOS「辅助功能」里你可能不知道的那些小技巧](https://sspai.com/post/69578)
 * [【2021-11-13】 HapiGo 2.0：对中文搜索更友好的高颜值启动器](https://sspai.com/post/69896)
 * [【2021-11-12】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/69907)
 * [【2021-11-12】 瞎玩菌的游戏周报：《老滚 6》等众多游戏泄露发售日期、PS5 或被破解等](https://sspai.com/post/69888)
@@ -38,8 +40,6 @@
 * [【2021-11-12】 派早报：Netflix 开始在电视上推出 AV1 解码器、3DMark 增加 SSD 测试项目等](https://sspai.com/post/69897)
 * [【2021-11-11】 新玩意 084｜少数派的作者们最近买了啥？](https://sspai.com/post/69871)
 * [【2021-11-11】 此曲安处是吾乡：Apple Music 选区详解](https://sspai.com/post/69741)
-* [【2021-11-11】 城市漫游指南·呼和浩特：晚秋时分的青城](https://sspai.com/post/69709)
-* [【2021-11-11】 本月玩什么 | 极限竞速：地平线 5、使命召唤、战地、动森 2.0 及付费 DLC](https://sspai.com/post/69880)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -49,16 +49,16 @@
     </summary>
 
 
-* [【2021-11-13】 [macOS] MacOS 拒绝通过 DNS 查询某个域名？ ping 失败但是 nslookup 成功](https://www.v2ex.com/t/815119)
-* [【2021-11-13】 [问与答] 30 岁工科转行 Java](https://www.v2ex.com/t/815118)
-* [【2021-11-13】 [Apple] iOS15.1 SharePlay 还挑耳机的？](https://www.v2ex.com/t/815116)
-* [【2021-11-13】 [MacBook Pro] Mac 外界两个显示器，怎么摆放位置比较好](https://www.v2ex.com/t/815115)
-* [【2021-11-13】 [程序员] 监控一个公众号发文推送，有什么方案吗？](https://www.v2ex.com/t/815113)
-* [【2021-11-13】 [.NET] 摒弃反射：.NET 6 为序列化 CookieContainer 提供了新方法](https://www.v2ex.com/t/815112)
-* [【2021-11-13】 [问与答] 大家觉得通过更换更高性能的服务器能提升 ERP 运行速度吗?](https://www.v2ex.com/t/815111)
-* [【2021-11-13】 [macOS] macOS 12.0.1 Handoff（接力）问题，能接收 iPhone 上复制的信息，但是 Mac 上复制的信息， iPhone 上无法接收到](https://www.v2ex.com/t/815108)
-* [【2021-11-13】 [iPad] iPad air 64g 是否够用](https://www.v2ex.com/t/815107)
-* [【2021-11-13】 [iPhone] 备用机 iPhone 8 怎么样（2021 年 11 月）](https://www.v2ex.com/t/815105)
+* [【2021-11-14】 [问与答] 请问深度学习在初学阶段，经典的几个模型的训练准确率，正常应该是多少？](https://www.v2ex.com/t/815260)
+* [【2021-11-14】 [Apple] 飞利浦扩展坞接满后，无线鼠标过一会就没反应了，请问有办法解决吗？](https://www.v2ex.com/t/815259)
+* [【2021-11-14】 [iPad] iPad mini6 的 app 适配情况现在如何？](https://www.v2ex.com/t/815258)
+* [【2021-11-14】 [问与答] 请教一个 docker 的问题 pull 和 push 的问题。](https://www.v2ex.com/t/815256)
+* [【2021-11-14】 [问与答] JavaScript 如何正确显示一个大数字？](https://www.v2ex.com/t/815255)
+* [【2021-11-14】 [问与答] 局域网内设置开启一个 socks5 代理如何共享给所有局域网设备使用？](https://www.v2ex.com/t/815252)
+* [【2021-11-14】 [Kubernetes] k8s CPU limit 和 throttling 的迷思](https://www.v2ex.com/t/815250)
+* [【2021-11-14】 [上海] 想给长辈买一个智能机（1800 一下）](https://www.v2ex.com/t/815249)
+* [【2021-11-14】 [随想] 胡说八道之思考性本善与性本恶](https://www.v2ex.com/t/815248)
+* [【2021-11-14】 [酷工作] [赴日] 对日外包公司招人啦~](https://www.v2ex.com/t/815246)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -87,4 +87,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-13 05:11:22
+:alarm_clock: 更新时间: 2021-11-14 05:11:46
