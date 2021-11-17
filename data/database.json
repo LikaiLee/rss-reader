@@ -43,6 +43,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "快速解决公众号排版难题，我有这些小技巧",
+                "link": "https://sspai.com/post/69926",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "派早报：Beats Flex x fragment design 联名限量版开售、微信支付小程序现已支持云闪付等",
+                "link": "https://sspai.com/post/69968",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "Android 玩机「神器」的矛盾与新生：Magisk Canary 更新详解",
+                "link": "https://sspai.com/post/69945",
+                "published": "2021-11-16"
+            },
+            {
+                "title": "App+1 | 全平台终端提示符个性化工具：Oh My Posh",
+                "link": "https://sspai.com/post/69911",
+                "published": "2021-11-16"
+            },
+            {
                 "title": "将读到的变成自己的：我的 7 步阅读工作流分享",
                 "link": "https://sspai.com/post/69922",
                 "published": "2021-11-16"
@@ -658,13 +678,263 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[Elasticsearch] canal 全量同步大量数据到 ES 有丢失的情况",
+                "link": "https://www.v2ex.com/t/816013",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[程序员] github 的项目推荐有没有黑名单？",
+                "link": "https://www.v2ex.com/t/816010",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[MacBook Pro] 彦祖们，你们怎么看待在自己电脑送达前，先去店里取一台备用的，等到货了在退款这种行为",
+                "link": "https://www.v2ex.com/t/816009",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[Vite] vite 打包后，好好的功能报错了？有没有懂 vite 打包原理的大佬，求解一下",
+                "link": "https://www.v2ex.com/t/816007",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[深圳] 福田上沙地铁口精装两房一厅转租，带电梯 6 楼，租金 4900",
+                "link": "https://www.v2ex.com/t/816005",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[CSS] 请教个 inset 属性在统信 UOS 系统 chrome 浏览器不支持的问题",
+                "link": "https://www.v2ex.com/t/816003",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[macOS] 有没有 120Hz Safari 的下载地址？",
+                "link": "https://www.v2ex.com/t/816002",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[Windows] win11 删除文件不消失问题",
+                "link": "https://www.v2ex.com/t/815998",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[Apple] MAC 闪屏，表现为中间快速闪过一个小弹窗，目测软件 BUG",
+                "link": "https://www.v2ex.com/t/815997",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[MacBook] 用 2720 的 typec 连接 MacBook 还用额外买雷电线吗？",
+                "link": "https://www.v2ex.com/t/815995",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[问与答] 远程控制 windows 软件求推荐。",
+                "link": "https://www.v2ex.com/t/815993",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[分享发现] 利用语音识别服务快速通过 Google reCAPTCHA！",
+                "link": "https://www.v2ex.com/t/815989",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[问与答] 求解惑，打印机连接问题",
+                "link": "https://www.v2ex.com/t/815988",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[服务器] 自用的反代被国外 IP 大量访问,什么套路?",
+                "link": "https://www.v2ex.com/t/815986",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[互联网] Inoreader 涨了 20$ ，用不起了！",
+                "link": "https://www.v2ex.com/t/815985",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[推广] 新技能码住！在前端表格中花式使用异步函数的奥义",
+                "link": "https://www.v2ex.com/t/815983",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[北京] 写字楼招租，朝阳门外，一共三个房源：两个 750 平米，一个 550 平米。",
+                "link": "https://www.v2ex.com/t/815980",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[程序员] 请教下有什么好的命令、代码存储工具？",
+                "link": "https://www.v2ex.com/t/815979",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[全球工单系统] AirPods 在 Mac 微信上群组语音被挂断的时候，有电流声",
+                "link": "https://www.v2ex.com/t/815978",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[Apple] 17MBP 换电池选官方吗？ 官方多少钱？",
+                "link": "https://www.v2ex.com/t/815975",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[MacBook Pro] 各位大佬，我问下 14 寸的 hidp 的分辨率是多少啊？",
+                "link": "https://www.v2ex.com/t/815974",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[Scala] Scala 单元测试",
+                "link": "https://www.v2ex.com/t/815973",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[职场话题] 技术贼烂， 45*16，公司很大，但传统公司。",
+                "link": "https://www.v2ex.com/t/815972",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[硬件] 装机遇到了诡异的问题，关机后无法断电",
+                "link": "https://www.v2ex.com/t/815971",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[问与答] 为什么会有人想买我早期开发的谷歌浏览器插件呢？",
+                "link": "https://www.v2ex.com/t/815969",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[问与答] windows Linux 安卓 之间文件共享解决方案",
+                "link": "https://www.v2ex.com/t/815968",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[全球工单系统] Mac/iOS 平台下的 qq/TIM 好卡",
+                "link": "https://www.v2ex.com/t/815965",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[全球工单系统] 阿里云盘修改失效手机号索取开户销户证明及身份证照片",
+                "link": "https://www.v2ex.com/t/815963",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[分享发现] 发现一款看上去很像 Notion 的开源应用出现了。",
+                "link": "https://www.v2ex.com/t/815962",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[macOS] 关于 Mac 版的 cryptomator",
+                "link": "https://www.v2ex.com/t/815961",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[macOS] 想諮詢下無綫備份的 Time Machine 可以用有綫接移動硬盤來恢復嗎？",
+                "link": "https://www.v2ex.com/t/815960",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[MacBook Pro] 16 寸 M1Pro 1TB➕32GB 11.30-12.07 有机会提前发货吗， 11.05 下单的",
+                "link": "https://www.v2ex.com/t/815959",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[问与答] 房子 以贷养贷",
+                "link": "https://www.v2ex.com/t/815958",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[酷工作] [杭州] 创业公司 everFinance 前端岗位",
+                "link": "https://www.v2ex.com/t/815957",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[程序员] 大佬们有在线培训班推荐吗，带答疑那种",
+                "link": "https://www.v2ex.com/t/815956",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[macOS] MacBook Pro 14 寸 64g RAM 有人发货么",
+                "link": "https://www.v2ex.com/t/815955",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[微信] 一个小菜鸡写的微信小程序，可发表动态、和附近的人聊天，开发优化中",
+                "link": "https://www.v2ex.com/t/815954",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[问与答] 微信订阅号列表这个混乱的时间线，真是让人无语，有办法弄成正常时间轴么。。。",
+                "link": "https://www.v2ex.com/t/815953",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[程序员] 各位所在公司有 DDD 的落地实现吗？",
+                "link": "https://www.v2ex.com/t/815951",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[Minecraft] 求几个 Minecraft 队友",
+                "link": "https://www.v2ex.com/t/815948",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[MacBook Pro] 我感觉我的 MBP idea 有点卡...你们的呢",
+                "link": "https://www.v2ex.com/t/815947",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[Apple] Apple 官网的翻新机和原装有啥区别呢",
+                "link": "https://www.v2ex.com/t/815946",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[macOS] 关于 AOC 系列显示器 macOS Monterey USB-C 无法充电解决方案",
+                "link": "https://www.v2ex.com/t/815945",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[酷工作] **[广州荔枝-965-15 薪-内推]** 高级**iOS 开发工程师**",
+                "link": "https://www.v2ex.com/t/815944",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[Tesla] 不会有人真的觉得单踏板就只有电门没有刹车吧？",
+                "link": "https://www.v2ex.com/t/815943",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[职场话题] 分享一些外企面试中常用的英语表达",
+                "link": "https://www.v2ex.com/t/815940",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[音乐] 有老哥用索尼 WI-1000XM2 吗，问问自动降低音量的问题",
+                "link": "https://www.v2ex.com/t/815939",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[Telegram] telegram 添加联系人时，点太快，不小心共享了电话号码，还能在哪里设置对该联系人关闭共享吗？",
+                "link": "https://www.v2ex.com/t/815938",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[北京] 有小伙伴知道丰台区六里桥附近有木有免费的自习室，可以带复习资料之类的。",
+                "link": "https://www.v2ex.com/t/815936",
+                "published": "2021-11-17"
+            },
+            {
+                "title": "[健康] 上个月检查出飞蚊症，求护眼显示器推荐",
+                "link": "https://www.v2ex.com/t/815935",
+                "published": "2021-11-17"
+            },
             {
                 "title": "[Java] [公司内部培训] 求求培训的点子相关",
                 "link": "https://www.v2ex.com/t/815748",
@@ -21874,6 +22144,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "科学写作与哲学",
+                "link": "http://zhuanlan.zhihu.com/p/433168083?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-11-16"
+            },
+            {
                 "title": "如何评价《镜双城》正式动画化？",
                 "link": "http://www.zhihu.com/question/498399621/answer/2225033798?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2021-11-15"
@@ -22509,6 +22784,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 1
     }
 ]
