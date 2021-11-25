@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -31,16 +31,16 @@
     </summary>
 
 
+* [【2021-11-25】 思想史博士的厚积薄发之路：我的阅读与笔记方法分享](https://sspai.com/post/70012)
+* [【2021-11-25】 派早报：Spotify 推出 Netflix 专区、Xbox 上线 20 周年虚拟博物馆等](https://sspai.com/post/70125)
+* [【2021-11-24】 好价买到心仪的 TA：黑五值得留意的电商平台](https://sspai.com/post/70115)
+* [【2021-11-24】 不买可以先收藏 09：好枕头睡好觉，收下这份「枕头百科」祝你夜夜好眠](https://sspai.com/post/69735)
+* [【2021-11-24】 Apple 新政策允许个人维修 iPhone，对我们来说都意味着什么？](https://sspai.com/post/70113)
 * [【2021-11-24】 记录猫猫的数字生活——小耳朵的日常](https://sspai.com/post/69969)
 * [【2021-11-24】 派早报：微软向 Windows 11 推送新版表情符号、蚂蚁将启动花呗品牌隔离工作等](https://sspai.com/post/70110)
 * [【2021-11-23】 [送码] 走路就能玩的游戏：在《猫猫村》里用运动步数「云养猫」](https://sspai.com/post/69324)
 * [【2021-11-23】 从实例出发，4 个预设帮你用好 iOS 15 专注模式](https://sspai.com/post/69965)
 * [【2021-11-23】 Adobe MAX 2021「黑科技」实测：我可以不在 LrC 里手搓蒙版了吗？](https://sspai.com/post/70085)
-* [【2021-11-23】 和你谈谈桌搭背后的那些事：收纳、理线、灯光与校色](https://sspai.com/post/70006)
-* [【2021-11-23】 派早报：高通官宣骁龙 8 Gen 1 旗舰芯片，索尼 Xperia PRO-I 与 Xperia 5 III 开启预售等](https://sspai.com/post/70091)
-* [【2021-11-22】 派评 | 近期值得关注的 App](https://sspai.com/post/70077)
-* [【2021-11-22】 受限电影响的你，或许可以看看这些应对措施](https://sspai.com/post/70054)
-* [【2021-11-22】 从用过的 18 款软件开始，聊聊我为什么要选择开源软件](https://sspai.com/post/70059)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -50,16 +50,16 @@
     </summary>
 
 
-* [【2021-11-24】 [程序员] PHP 开始成立基金会接受捐款了](https://www.v2ex.com/t/817637)
-* [【2021-11-24】 [生活] 平庸的生活里，你相信光吗？](https://www.v2ex.com/t/817634)
-* [【2021-11-24】 [问与答] 有哪位大佬说说为什么感觉 PDD 比淘宝 APP 上去体验更加丝滑，加载速度为什么这么快？](https://www.v2ex.com/t/817633)
-* [【2021-11-24】 [服务器] frp 服务器搭建成功， ssh 链接到内网的时候拒绝连接 c](https://www.v2ex.com/t/817631)
-* [【2021-11-24】 [macOS] 丢失应用 Accessibility 授权问题](https://www.v2ex.com/t/817630)
-* [【2021-11-24】 [酷工作] [bilibili 国际版招聘]想和我们一起前往星辰大海吗](https://www.v2ex.com/t/817629)
-* [【2021-11-24】 [上海] 这几天投简历都没去叫面试，感觉不应该呀](https://www.v2ex.com/t/817628)
-* [【2021-11-24】 [酷工作] [深圳]神仙公司，招前端（急！走过路过不要错过）](https://www.v2ex.com/t/817627)
-* [【2021-11-24】 [Go 编程语言] Golang 实现延迟队列](https://www.v2ex.com/t/817625)
-* [【2021-11-24】 [程序员] 老生常谈~程序员的出路](https://www.v2ex.com/t/817624)
+* [【2021-11-25】 [Linux] 分享一个在 Ubuntu 下的 录屏截屏软件 deepin-screen-recorder](https://www.v2ex.com/t/817883)
+* [【2021-11-25】 [分享发现] 骂腾讯实属成了流量密码](https://www.v2ex.com/t/817881)
+* [【2021-11-25】 [MacBook Pro] 扩展坞重新唤醒后，网口失效，有解决办法吗](https://www.v2ex.com/t/817877)
+* [【2021-11-25】 [macOS] 为什么 mac 版 onedrive 格外的拉跨？](https://www.v2ex.com/t/817876)
+* [【2021-11-25】 [Apple] Mac WiFi 间歇性断流断网问题解决](https://www.v2ex.com/t/817875)
+* [【2021-11-25】 [问与答] copyq 自动启动的话，不会出现在托盘区？](https://www.v2ex.com/t/817872)
+* [【2021-11-25】 [问与答] 发现烟戒不掉了](https://www.v2ex.com/t/817870)
+* [【2021-11-25】 [Apple] iPhone 13 换屏后无法自动调节屏幕亮度](https://www.v2ex.com/t/817869)
+* [【2021-11-25】 [问与答] 万一在城里面死了怎么办](https://www.v2ex.com/t/817868)
+* [【2021-11-25】 [Apple] Magsafe 充电头在未充电状态下仍有 0.5W 的功耗](https://www.v2ex.com/t/817865)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -88,4 +88,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-24 05:12:13
+:alarm_clock: 更新时间: 2021-11-25 05:12:27
