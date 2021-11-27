@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
@@ -32,16 +32,16 @@
     </summary>
 
 
+* [【2021-11-27】 Anytype 内测版初探：它不止是离线版 Notion](https://sspai.com/post/69975)
+* [【2021-11-26】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/70155)
+* [【2021-11-26】 横看成岭侧成峰——无代码数据协同系统的理解和选择](https://sspai.com/prime/story/nocode-services-compared)
+* [【2021-11-26】 「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/70122)
+* [【2021-11-26】 瞎玩菌的游戏周报：COD 推出史上最严反作弊、金摇杆奖公布获奖名单等](https://sspai.com/post/70132)
 * [【2021-11-26】 F1 入坑指南：带你看懂赛场上的速度、智慧与欢乐](https://sspai.com/post/68664)
 * [【2021-11-26】 派早报：OPPO 新品发布会、中兴 Axon 30 Ultra 航天版正式发布等](https://sspai.com/post/70147)
 * [【2021-11-25】 新玩意 086｜少数派的编辑们最近买了啥？](https://sspai.com/post/70133)
 * [【2021-11-25】 黑五大促哪些硬件值得买，我们帮你准备了这份清单](https://sspai.com/post/70130)
 * [【2021-11-25】 在争议声中更新的老牌密码管理工具，1Password 8 值得关注的新变化](https://sspai.com/post/70123)
-* [【2021-11-25】 思想史博士的厚积薄发之路：我的阅读与笔记方法分享](https://sspai.com/post/70012)
-* [【2021-11-25】 派早报：Spotify 推出 Netflix 专区、Xbox 上线 20 周年虚拟博物馆等](https://sspai.com/post/70125)
-* [【2021-11-24】 好价买到心仪的 TA：黑五值得留意的电商平台](https://sspai.com/post/70115)
-* [【2021-11-24】 不买可以先收藏 09：好枕头睡好觉，收下这份「枕头百科」祝你夜夜好眠](https://sspai.com/post/69735)
-* [【2021-11-24】 Apple 新政策允许个人维修 iPhone，对我们来说都意味着什么？](https://sspai.com/post/70113)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -51,16 +51,16 @@
     </summary>
 
 
-* [【2021-11-26】 [Chrome] 有什么插件能够在 Chrome 地址栏快捷切换搜索引擎？](https://www.v2ex.com/t/818134)
-* [【2021-11-26】 [北京] 迫于不方便出京，求推荐北京一日游](https://www.v2ex.com/t/818133)
-* [【2021-11-26】 [优惠信息] AdGuard Family Plan 终身 9 用户又打折了，打折后 18 刀再送 10 刀 store credit](https://www.v2ex.com/t/818132)
-* [【2021-11-26】 [程序员] 从程序员到经营温泉度假酒店（五）- 我和我的前女友们 之 黑暗中的挣扎](https://www.v2ex.com/t/818130)
-* [【2021-11-26】 [酷工作] [上海/远程]Mask Network 多岗位持续招募中](https://www.v2ex.com/t/818128)
-* [【2021-11-26】 [问与答] 闲置服务器挂点啥呢？答案有了，用腾讯云服务器搭了一个网址导航网站，哈哈](https://www.v2ex.com/t/818127)
-* [【2021-11-26】 [优惠信息] EPIC 免费送《猎人：荒野的召唤》](https://www.v2ex.com/t/818126)
-* [【2021-11-26】 [Telegram] 同网络同代理 pc 端可连接移动端不可用是和原因？](https://www.v2ex.com/t/818125)
-* [【2021-11-26】 [优惠信息] 又到黑五了，求分享美区 Apple Gift Card 优惠购买攻略？](https://www.v2ex.com/t/818124)
-* [【2021-11-26】 [问与答] PowerPoint 中使用矢量图的跨平台（Win+Mac）方案?](https://www.v2ex.com/t/818123)
+* [【2021-11-27】 [程序员] 有那种纯主动降噪的耳塞吗？](https://www.v2ex.com/t/818340)
+* [【2021-11-27】 [问与答] 有没有便宜好用的个人 CRM 系统](https://www.v2ex.com/t/818339)
+* [【2021-11-27】 [问与答] 请教一下关于桌面应用的 GUI 制作](https://www.v2ex.com/t/818337)
+* [【2021-11-27】 [支付宝] 大家花呗升级了没有？区别仅仅是征信上报？](https://www.v2ex.com/t/818336)
+* [【2021-11-27】 [问与答] 请帮忙推荐一个合适的 vps ，无论小众与否，最好支持 paypal 支付。](https://www.v2ex.com/t/818335)
+* [【2021-11-27】 [问与答] safari 有类似 netdownloadmanager 这样的下载神器么？](https://www.v2ex.com/t/818334)
+* [【2021-11-27】 [问与答] 想换个蓝牙鼠标，罗技 G604 还是 Master3 呢？](https://www.v2ex.com/t/818333)
+* [【2021-11-27】 [问与答] 广东联通现在还有什么低于 10 元的保号套餐吗？](https://www.v2ex.com/t/818332)
+* [【2021-11-27】 [Apple] MacBook Pro 2021 到了，说一下使用感受](https://www.v2ex.com/t/818329)
+* [【2021-11-27】 [iPad] iPad 充电线和充电器有特殊要求吗?](https://www.v2ex.com/t/818328)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -70,6 +70,7 @@
     </summary>
 
 
+* [【2021-11-26】 如何评价《一人之下》554（588）话？](http://www.zhihu.com/question/501611431/answer/2244042113?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-25】 动画《新秦时明月》开播，你感觉如何？](http://www.zhihu.com/question/501068047/answer/2242508940?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-24】 猪拱菌是松露么，或者说云南到底产不产松露？](http://www.zhihu.com/question/54820823/answer/1517299596?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-22】 如何评价 Steam 上的独立游戏《物理世界》？](http://www.zhihu.com/question/499326548/answer/2236988283?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -79,7 +80,6 @@
 * [【2021-11-20】 如何评价《小白兔电商》这款 AVG 模拟经营游戏？](http://www.zhihu.com/question/497248872/answer/2233520905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-19】 喜迎第十一次全国文代会 | 尚长荣：“守正创新”四字重千斤](http://zhuanlan.zhihu.com/p/435109365?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-11-19】 十九届六中全会有多重要？ 《中共中央关于党的百年奋斗重大成就和历史经验的决议》释放出哪些重要信息？](http://www.zhihu.com/question/500033418/answer/2232215544?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-19】 NBA 21-22 赛季湖人 102:109 雄鹿，字母 47 分威少 19+15，如何评价这场比赛？](http://www.zhihu.com/question/499701381/answer/2230678918?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -89,4 +89,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-26 05:12:09
+:alarm_clock: 更新时间: 2021-11-27 05:11:34
