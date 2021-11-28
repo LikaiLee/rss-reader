@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -32,6 +32,8 @@
     </summary>
 
 
+* [【2021-11-28】 大众集团：逃不掉的变革阵痛](https://sspai.com/post/70128)
+* [【2021-11-27】 「黑五」值得买：Steam、PS、Xbox 和 Switch 上值得关注的游戏优惠](https://sspai.com/post/70159)
 * [【2021-11-27】 Anytype 内测版初探：它不止是离线版 Notion](https://sspai.com/post/69975)
 * [【2021-11-26】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/70155)
 * [【2021-11-26】 横看成岭侧成峰——无代码数据协同系统的理解和选择](https://sspai.com/prime/story/nocode-services-compared)
@@ -40,8 +42,6 @@
 * [【2021-11-26】 F1 入坑指南：带你看懂赛场上的速度、智慧与欢乐](https://sspai.com/post/68664)
 * [【2021-11-26】 派早报：OPPO 新品发布会、中兴 Axon 30 Ultra 航天版正式发布等](https://sspai.com/post/70147)
 * [【2021-11-25】 新玩意 086｜少数派的编辑们最近买了啥？](https://sspai.com/post/70133)
-* [【2021-11-25】 黑五大促哪些硬件值得买，我们帮你准备了这份清单](https://sspai.com/post/70130)
-* [【2021-11-25】 在争议声中更新的老牌密码管理工具，1Password 8 值得关注的新变化](https://sspai.com/post/70123)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -51,16 +51,16 @@
     </summary>
 
 
-* [【2021-11-27】 [程序员] 有那种纯主动降噪的耳塞吗？](https://www.v2ex.com/t/818340)
-* [【2021-11-27】 [问与答] 有没有便宜好用的个人 CRM 系统](https://www.v2ex.com/t/818339)
-* [【2021-11-27】 [问与答] 请教一下关于桌面应用的 GUI 制作](https://www.v2ex.com/t/818337)
-* [【2021-11-27】 [支付宝] 大家花呗升级了没有？区别仅仅是征信上报？](https://www.v2ex.com/t/818336)
-* [【2021-11-27】 [问与答] 请帮忙推荐一个合适的 vps ，无论小众与否，最好支持 paypal 支付。](https://www.v2ex.com/t/818335)
-* [【2021-11-27】 [问与答] safari 有类似 netdownloadmanager 这样的下载神器么？](https://www.v2ex.com/t/818334)
-* [【2021-11-27】 [问与答] 想换个蓝牙鼠标，罗技 G604 还是 Master3 呢？](https://www.v2ex.com/t/818333)
-* [【2021-11-27】 [问与答] 广东联通现在还有什么低于 10 元的保号套餐吗？](https://www.v2ex.com/t/818332)
-* [【2021-11-27】 [Apple] MacBook Pro 2021 到了，说一下使用感受](https://www.v2ex.com/t/818329)
-* [【2021-11-27】 [iPad] iPad 充电线和充电器有特殊要求吗?](https://www.v2ex.com/t/818328)
+* [【2021-11-28】 [投资] 如何在澳大利亚买房？手把手教你在澳洲买房](https://www.v2ex.com/t/818501)
+* [【2021-11-28】 [问与答] 姐姐被前同事骗了一万元，怎么快速追回。](https://www.v2ex.com/t/818499)
+* [【2021-11-28】 [职场话题] 如何让项目组中的成员更积极的把事情做好呢？](https://www.v2ex.com/t/818498)
+* [【2021-11-28】 [问与答] 家里小的机箱防尘柜哪家强?](https://www.v2ex.com/t/818497)
+* [【2021-11-28】 [分享发现] 使用 GitHub 作为 Typora 的图片上传服务](https://www.v2ex.com/t/818496)
+* [【2021-11-28】 [程序员] nodejs 有哪些好用的增删改查框架？](https://www.v2ex.com/t/818494)
+* [【2021-11-28】 [Apple] 我 64G M1Max 14 寸提前发货了，原计划 12 月 14 日-21 日，调整到了 11 月 30 日！](https://www.v2ex.com/t/818491)
+* [【2021-11-28】 [全球工单系统] iOS 知乎一晚上耗尽电量](https://www.v2ex.com/t/818489)
+* [【2021-11-28】 [推广] 聚焦黑五/网一 VPS 和服务器优惠信息, 欢迎关注主机导航网站](https://www.v2ex.com/t/818488)
+* [【2021-11-28】 [摄影] 少年潮流 LOOK 证件照](https://www.v2ex.com/t/818487)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -89,4 +89,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-27 05:11:34
+:alarm_clock: 更新时间: 2021-11-28 05:11:45
