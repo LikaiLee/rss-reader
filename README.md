@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+10】
 
 ## 文章链接
 
@@ -32,16 +32,16 @@
     </summary>
 
 
+* [【2021-12-01】 从选型到布置，一个合格的有声书工作角是这样的](https://sspai.com/post/70126)
+* [【2021-12-01】 派早报：高通骁龙 8 Gen1 正式发布、Apple 推出限量配色版 Beats Studio Buds 等](https://sspai.com/post/70229)
+* [【2021-11-30】 一派·再读 07｜勇敢一点，做一个「无聊」的人](https://sspai.com/post/70211)
+* [【2021-11-30】 2021 年，我为什么还坚持把音乐存储在本地](https://sspai.com/post/70051)
+* [【2021-11-30】 换种方式度过漫漫长夜，我有这些经验可以分享](https://sspai.com/post/70143)
 * [【2021-11-30】 追忆宿舍生活，谈谈我的收纳方法论](https://sspai.com/post/70041)
 * [【2021-11-30】 派早报：Windows 11 高危漏洞被公开，微信公布外部链接内容管理规范等](https://sspai.com/post/70212)
 * [【2021-11-29】 派评 | 近期值得关注的 App](https://sspai.com/post/70197)
 * [【2021-11-29】 好看好玩的 2022 新年日历，我们又为你收集了 11 款](https://sspai.com/post/69892)
 * [【2021-11-29】 动动嘴就能下载文件，我用快捷指令 + Quicker 实现远程操作](https://sspai.com/post/70188)
-* [【2021-11-29】 考物阁 03｜为了让主动消噪「效果拔群」，我放弃了 AirPods Pro](https://sspai.com/post/70083)
-* [【2021-11-29】 派早报：央行解读收款二维码新规、互联网广告新规征求意见等](https://sspai.com/post/70184)
-* [【2021-11-28】 自驾内蒙古，在北京的西边画一个圈](https://sspai.com/post/70025)
-* [【2021-11-27】 Anytype 内测版初探：它不只是离线版 Notion](https://sspai.com/post/69975)
-* [【2021-11-28】 大众集团：逃不掉的变革阵痛](https://sspai.com/post/70128)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -51,16 +51,16 @@
     </summary>
 
 
-* [【2021-11-30】 [Edge] win11 系统，如何让 chrome 接管 uwp 应用中的链接](https://www.v2ex.com/t/819003)
-* [【2021-11-30】 [Python] 如何从 0 用 Python 开发一个类似 jieba 的分词工具？请问有没有建议阅读的书籍或者路线？](https://www.v2ex.com/t/819002)
-* [【2021-11-30】 [酷工作] [杭州][社招]PingPong 招聘 Java 后端开发](https://www.v2ex.com/t/819000)
-* [【2021-11-30】 [分享发现] 为啥人不管在梦里梦到多离谱的东西，都不会去怀疑？](https://www.v2ex.com/t/818999)
-* [【2021-11-30】 [Apple] 一个月过去了， 大家最后是选择 14 还是 16 寸](https://www.v2ex.com/t/818998)
-* [【2021-11-30】 [分享创造] vkit，一个面向计算机视觉（特别是文档图像分析与识别方向）开发者的工具包](https://www.v2ex.com/t/818997)
-* [【2021-11-30】 [macOS] macOS 如何忽略更新](https://www.v2ex.com/t/818996)
-* [【2021-11-30】 [问与答] 关于 A.B 系统数据对接问题，如何优雅](https://www.v2ex.com/t/818994)
-* [【2021-11-30】 [FFmpeg] 问题请教，剪映 PC 版的实时预览是怎么做到的？](https://www.v2ex.com/t/818993)
-* [【2021-11-30】 [分享创造] 写了一个离谱的油猴插件，哈哈哈](https://www.v2ex.com/t/818992)
+* [【2021-12-01】 [西安] 吉祥村的那一夜](https://www.v2ex.com/t/819274)
+* [【2021-12-01】 [问与答] 各位带哥有懂安卓手机 apn 的吗？](https://www.v2ex.com/t/819273)
+* [【2021-12-01】 [宽带症候群] frp 不能远程访问小米路由器页面](https://www.v2ex.com/t/819272)
+* [【2021-12-01】 [分享创造] 我的 RSS 文章聚合网站项目开发日志](https://www.v2ex.com/t/819271)
+* [【2021-12-01】 [重庆] 迫于又搬家了，有没有同学要卖家具的？](https://www.v2ex.com/t/819270)
+* [【2021-12-01】 [macOS] 如何安全的在 macOS 中安装 360 极速浏览器？](https://www.v2ex.com/t/819269)
+* [【2021-12-01】 [Apple] 我发现 macos 里各个 app 的搜索(cmd+f)都是「相通」的？](https://www.v2ex.com/t/819268)
+* [【2021-12-01】 [生活] 为什么我买的培根，质感那么像火腿肉？假培根？](https://www.v2ex.com/t/819266)
+* [【2021-12-01】 [Apple] 请问有没有轻便点的支持 M1 芯片 Hidpi 的显示器](https://www.v2ex.com/t/819265)
+* [【2021-12-01】 [问与答] jwt 密钥的长度限制， Java (jsonwebtoken)中有长度限制， nodejs（egg-jwt）的没有](https://www.v2ex.com/t/819264)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -70,16 +70,16 @@
     </summary>
 
 
-* [【2021-11-30】 汽车的平台是否决定了驾驶品质？](http://www.zhihu.com/question/51859421/answer/2249313828?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-29】 如何回答孩子：以前的小朋友出门也要坐安全座椅嘛？](http://www.zhihu.com/question/502030758/answer/2248493605?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-29】 如何在会议上发言？](http://www.zhihu.com/question/314472283/answer/1738679627?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-29】 如何“破译”清朝的微积分课本？](http://zhuanlan.zhihu.com/p/437864462?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-28】 如何评价国产动画《凡人修仙传》年番第五集？](http://www.zhihu.com/question/501711317/answer/2246644752?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-26】 如何评价《一人之下》554（588）话？](http://www.zhihu.com/question/501611431/answer/2244042113?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-25】 动画《新秦时明月》开播，你感觉如何？](http://www.zhihu.com/question/501068047/answer/2242508940?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-24】 猪拱菌是松露么，或者说云南到底产不产松露？](http://www.zhihu.com/question/54820823/answer/1517299596?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-22】 如何评价 Steam 上的独立游戏《物理世界》？](http://www.zhihu.com/question/499326548/answer/2236988283?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-22】 曼联官方宣布索尔斯克亚不再担任主帅，如何评价他在曼联的执教生涯？](http://www.zhihu.com/question/500576875/answer/2235946272?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-11-30】 作为一名漫画家，你在创作过程中有什么难忘的经历？](http://www.zhihu.com/question/498181588/answer/2246445210?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-11-30】 一男子穿假军装冒充「营长」被抓，他将承担什么法律责任？如何识破和揭穿假军人？](http://www.zhihu.com/question/502622540/answer/2250141017?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-11-30】 腐乳到底是怎么发明出来的？](http://www.zhihu.com/question/265835491/answer/2102557393?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-11-30】 石榴为什么叫石榴，石榴的名称是怎么来的？](http://www.zhihu.com/question/428006552/answer/2114161465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-11-30】 如何看待《这本轻小说真厉害！2022》？](http://www.zhihu.com/question/501377718/answer/2242609676?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-11-30】 什么是飞机的超机动性？超机动飞行和传统机动有什么不同？](http://www.zhihu.com/question/502658688/answer/2249675657?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-11-30】 葱在中国食物中的地位有多高？](http://www.zhihu.com/question/446286555/answer/2227364978?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-11-30】 为什么《圣斗士星矢》能成为经典？](http://www.zhihu.com/question/35544645/answer/2247878125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-11-30】 什么事是你上了大学才知道的？](http://www.zhihu.com/question/406491354/answer/2144447760?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-11-29】 如何回答孩子：以前的小朋友出门也要坐安全座椅吗？](http://www.zhihu.com/question/502030758/answer/2248493605?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -89,4 +89,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-11-30 05:10:30
+:alarm_clock: 更新时间: 2021-12-01 05:13:12
