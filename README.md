@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+6】
 
 ## 文章链接
 
@@ -15,6 +15,7 @@
     </summary>
 
 
+* [【2021-12-03】 科技爱好者周刊（第 186 期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html)
 * [【2021-11-26】 科技爱好者周刊（第 185 期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html)
 * [【2021-11-19】 科技爱好者周刊（第 184 期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html)
 * [【2021-11-12】 科技爱好者周刊（第 183 期）：腾讯的员工退休福利](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html)
@@ -32,16 +33,16 @@
     </summary>
 
 
+* [【2021-12-03】 瞎玩菌的游戏周报：XSS 黑五最畅销、索尼 PS 手柄夹手机新专利等](https://sspai.com/post/70255)
+* [【2021-12-03】 派早报：App Store Awards 获奖者揭晓、索尼 Airpeak S1 无人机开启预定等](https://sspai.com/post/70272)
+* [【2021-12-02】 新玩意 087｜少数派的作者们最近买了啥？](https://sspai.com/post/70014)
+* [【2021-12-02】 App Store Awards 2021 年度大奖出炉，我们和获奖开发者们聊了聊](https://sspai.com/post/70259)
+* [【2021-12-02】 条条大路通罗马：细数 macOS 版「快捷指令」的运行方式](https://sspai.com/prime/story/macos-shortcuts-methods-of-execution)
+* [【2021-12-02】 App+1｜Wallpaper Engine 登陆 Android，甚至还支持创意工坊？](https://sspai.com/post/70251)
+* [【2021-12-02】 少数派定制版 Keychron K3 体验：把键盘塞进苹果用户的背包里](https://sspai.com/post/70177)
 * [【2021-12-02】 从 0 开始做一本影集，我有这些思路和经验分享](https://sspai.com/post/70118)
 * [【2021-12-02】 派早报：荣耀发布 60 系列手机、高通与索尼联合为骁龙定制图像传感器等](https://sspai.com/post/70249)
 * [【2021-12-01】 在 2021 年怀念实体键盘：这是我与黑莓 KEY2 相处的 14 天](https://sspai.com/post/70242)
-* [【2021-12-01】 少数派会员十二月更新：引荐系统、消费者报告、每月福利等](https://sspai.com/post/70240)
-* [【2021-12-01】 Refresh 周报：本周值得关注的泛 Android 资讯](https://sspai.com/post/70228)
-* [【2021-12-01】 上线 180 天，少数派会员的前世今生](https://sspai.com/post/70232)
-* [【2021-12-01】 我下载了 10+ 个真正的「小而美」App，想跟你来场「文艺复兴」](https://sspai.com/post/70230)
-* [【2021-12-01】 从选型到布置，一个合格的有声书工作角是这样的](https://sspai.com/post/70126)
-* [【2021-12-01】 派早报：高通骁龙 8 Gen1 正式发布、Apple 推出限量配色版 Beats Studio Buds 等](https://sspai.com/post/70229)
-* [【2021-11-30】 一派·再读 07｜勇敢一点，做一个「无聊」的人](https://sspai.com/post/70211)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -51,16 +52,16 @@
     </summary>
 
 
-* [【2021-12-02】 [小米] 小米 4K 它来了](https://www.v2ex.com/t/819515)
-* [【2021-12-02】 [分享发现] docker port 10080 映射不了](https://www.v2ex.com/t/819514)
-* [【2021-12-02】 [程序员] 分享关于工作中的焦虑和成长](https://www.v2ex.com/t/819513)
-* [【2021-12-02】 [分享发现] 分享一个反应速度测试工具](https://www.v2ex.com/t/819512)
-* [【2021-12-02】 [Apple] 准备买 MacBook Air， M1，求用过的人建议](https://www.v2ex.com/t/819511)
-* [【2021-12-02】 [酷工作] Shipper China 招聘 Java / Senior Java 研发工程师（20K ~ 40K * 16）](https://www.v2ex.com/t/819510)
-* [【2021-12-02】 [程序员] 关于量子教程与平台（已经知道的大牛请忽略）](https://www.v2ex.com/t/819508)
-* [【2021-12-02】 [问与答] 老哥们有没有推荐的 One Page 的 APP 主页的开源模版呢？](https://www.v2ex.com/t/819507)
-* [【2021-12-02】 [Spotify] 我火星了？现在美区 spotify 有歌词了](https://www.v2ex.com/t/819506)
-* [【2021-12-02】 [宽带症候群] 4G 套餐用 5G 限速 300Mbps，与 5G 套餐 500、1000Mbps 差异有多大？](https://www.v2ex.com/t/819505)
+* [【2021-12-03】 [Apple] 美区 apple id 不显示已购买纪录，打开 app store 的 my purchases 直接显示 no purchases.有人遇到这个问题吗](https://www.v2ex.com/t/819768)
+* [【2021-12-03】 [Emacs] GPG in Emacs](https://www.v2ex.com/t/819767)
+* [【2021-12-03】 [问与答] 就在刚刚，我在办公楼的电梯里和一个送外卖的骂了起来。遇到这种情况，你们会怎么处理？](https://www.v2ex.com/t/819766)
+* [【2021-12-03】 [Apple] 现在还有什么办法下载旧版本 ipa 吗？](https://www.v2ex.com/t/819765)
+* [【2021-12-03】 [问与答] 兄弟们，我买的这个 thinkbook 14p 划算不，有没有同价位更好的选择](https://www.v2ex.com/t/819764)
+* [【2021-12-03】 [硬件] 用了半年 27 寸 4k 屏，现在觉得有点小了，后悔没买 32 寸的。](https://www.v2ex.com/t/819762)
+* [【2021-12-03】 [Apple] 买了个西数移动硬盘打算做 time machine，关于格式问题想请教一下](https://www.v2ex.com/t/819761)
+* [【2021-12-03】 [服务器] 半路出家的 IT 请教一下服务器读取性能该怎么优化](https://www.v2ex.com/t/819759)
+* [【2021-12-03】 [酷工作] [招聘] 全职远程工程师招募](https://www.v2ex.com/t/819758)
+* [【2021-12-03】 [问与答] 是否有这样的技术，不用显示器实现物体动态呈现，譬如人物介绍时候动态画面](https://www.v2ex.com/t/819757)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -70,16 +71,16 @@
     </summary>
 
 
+* [【2021-12-03】 游戏美术越来越卷，从业者如何提升竞争力？](http://www.zhihu.com/question/503278678/answer/2254168830?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-12-03】 如何看待中国游戏公司在海外成立工作室，招募海外AAA人才？](http://www.zhihu.com/question/503276127/answer/2254155498?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-12-03】 你进入游戏行业多久了？对未来有什么期待？](http://www.zhihu.com/question/503270815/answer/2254210412?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-12-02】 如何评价佛山这座城市？](http://www.zhihu.com/question/24034885/answer/2253343324?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-12-02】 怎么看一个人有没有领导力？](http://www.zhihu.com/question/430981016/answer/1764016993?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-12-02】 如何评价《大王饶命》正式动画化？](http://www.zhihu.com/question/502749269/answer/2252916632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-02】 NBA 21-22 赛季勇士 96:104 送太阳 17 连胜，库里仅 12 分，如何评价这场比赛？](http://www.zhihu.com/question/502851243/answer/2252084502?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-02】 「野外露营」和「精致露营」有哪些区别？](http://www.zhihu.com/question/470254023/answer/2009702302?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-01】 又到老兵退伍时，退伍季老兵都会忙些什么？哪些退伍场景令你终身难忘？对退伍老兵你有哪些祝福与建议？](http://www.zhihu.com/question/502725751/answer/2251573741?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-01】 如何评价动画《JOJO 的奇妙冒险 石之海》？](http://www.zhihu.com/question/502725167/answer/2251180794?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-30】 作为一名漫画家，你在创作过程中有什么难忘的经历？](http://www.zhihu.com/question/498181588/answer/2246445210?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-30】 一男子穿假军装冒充「营长」被抓，他将承担什么法律责任？如何识破和揭穿假军人？](http://www.zhihu.com/question/502622540/answer/2250141017?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-30】 腐乳到底是怎么发明出来的？](http://www.zhihu.com/question/265835491/answer/2102557393?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-30】 石榴为什么叫石榴，石榴的名称是怎么来的？](http://www.zhihu.com/question/428006552/answer/2114161465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-30】 如何看待《这本轻小说真厉害！2022》？](http://www.zhihu.com/question/501377718/answer/2242609676?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-11-30】 什么是飞机的超机动性？超机动飞行和传统机动有什么不同？](http://www.zhihu.com/question/502658688/answer/2249675657?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -89,4 +90,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-12-02 05:12:27
+:alarm_clock: 更新时间: 2021-12-03 05:12:37
