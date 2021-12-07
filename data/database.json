@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "为什么 Web3 与区块链有关",
+                "link": "http://www.ruanyifeng.com/blog/2021/12/web3.html",
+                "published": "2021-12-07"
+            },
+            {
                 "title": "科技爱好者周刊（第 186 期）：低纬度，高海拔，气候优势",
                 "link": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html",
                 "published": "2021-12-03"
@@ -50,13 +55,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "给你的邮箱戴上面具：匿名邮箱服务横评",
+                "link": "https://sspai.com/post/70198",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "属于 Beats 的「AirPods Pro」：真无线降噪耳机 Beats Fit Pro 体验",
+                "link": "https://sspai.com/post/70310",
+                "published": "2021-12-06"
+            },
+            {
+                "title": "给 iPad mini 加一点生产力 ：Sanwa Supply 折叠式蓝牙键盘上手体验",
+                "link": "https://sspai.com/post/70222",
+                "published": "2021-12-06"
+            },
             {
                 "title": "六年后才推出首个正式版，Typora 1.0 详细评测",
                 "link": "https://sspai.com/post/70292",
@@ -1125,6 +1145,256 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[职场话题] 试用期不给后端工程师生产库只读权限正常吗",
+                "link": "https://www.v2ex.com/t/820587",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[iPhone] IOS 如何禁用蜂窝网络的 ipv6？",
+                "link": "https://www.v2ex.com/t/820586",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[分享发现] PC 版 QQ 音乐客户端有时会将缓存内容保存到桌面上",
+                "link": "https://www.v2ex.com/t/820585",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[问与答] 请问有没有滑动起来比较涩的鼠标垫推荐？",
+                "link": "https://www.v2ex.com/t/820583",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[宽带症候群] 电信上海出口墙外部分又扩容了",
+                "link": "https://www.v2ex.com/t/820581",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[成都] [成都] 雾霾真的是没谁了， 160 这个数值真的是有点难接受",
+                "link": "https://www.v2ex.com/t/820580",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[酷工作] [全职远程] 招聘 React 中高级开发",
+                "link": "https://www.v2ex.com/t/820578",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[Apple] 咨询一个 keychron 键盘的问题",
+                "link": "https://www.v2ex.com/t/820577",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[问与答] 平安银行的备用金是不是个大坑",
+                "link": "https://www.v2ex.com/t/820576",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[Apple] m1 的 Mac 能用的 telnet 程序",
+                "link": "https://www.v2ex.com/t/820575",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[程序员] 关于亚马逊 loop 面试挂掉问题咨询",
+                "link": "https://www.v2ex.com/t/820573",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[macOS] Monterey 播放视频模糊",
+                "link": "https://www.v2ex.com/t/820572",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[问与答] 请问一下各位大佬们，有没有一个 app 可以检查 app 可更新列表",
+                "link": "https://www.v2ex.com/t/820570",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[分享发现] 整理了一下今年看/听过的泛书影音类内容",
+                "link": "https://www.v2ex.com/t/820569",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[问与答] 请教一个 Python 开源库打包发布的问题",
+                "link": "https://www.v2ex.com/t/820568",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[Apple] Airpods Pro Max 真不错",
+                "link": "https://www.v2ex.com/t/820567",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[宽带症候群] 有没有大佬懂 UBNT USG 的多播配置问题,实在找不到资料了!",
+                "link": "https://www.v2ex.com/t/820566",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[酷工作] 字节 Web Infrastructure Team 招人啦！",
+                "link": "https://www.v2ex.com/t/820563",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[问与答] 买量的入门？",
+                "link": "https://www.v2ex.com/t/820562",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[问与答] 日本职棒有什么好的观看渠道么？",
+                "link": "https://www.v2ex.com/t/820561",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[Windows] 升级 win11 后遇到的三个 bug",
+                "link": "https://www.v2ex.com/t/820560",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[全球工单系统] 今天 7 牛云对象存储+CDN 访问不稳定",
+                "link": "https://www.v2ex.com/t/820559",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[酷工作] [新加坡] 安全/运维/前端/后端/flutter 岗位开放中， P6-P9，大中型互联网公司，平台告诉发展期，薪资待遇从优，详情请微信咨询 happierenee",
+                "link": "https://www.v2ex.com/t/820558",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[软件] 一安装 PGP(Symantec Encryption Desktop)，其他程序就打不开了，除非管理员模式",
+                "link": "https://www.v2ex.com/t/820555",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[Android] 为啥 Android studio 开发的 hello world 程序都可以占用内存 100MB？",
+                "link": "https://www.v2ex.com/t/820554",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[分享发现] qq 音乐每日推荐今天也太离谱了",
+                "link": "https://www.v2ex.com/t/820552",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[职场话题] 你们公司会在工作机上安装加密软件，自动加密代码文件吗？",
+                "link": "https://www.v2ex.com/t/820551",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[程序员] 请教， mac 下各 app 以及浏览器中一些按钮怎么仅仅使用键盘完成？",
+                "link": "https://www.v2ex.com/t/820549",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[知乎] 网传快手裁员 30%？有知情人士吗？",
+                "link": "https://www.v2ex.com/t/820548",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[程序员] mysql json 数据的处理",
+                "link": "https://www.v2ex.com/t/820547",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[问与答] 如何看待领导的\"换个背景就看着高大上了\"?",
+                "link": "https://www.v2ex.com/t/820545",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[酷工作] [北京]奇安信-服务端 Golang 开发工程师",
+                "link": "https://www.v2ex.com/t/820544",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[Apple] 广州出一台全新 MBP 14'' M1Max32Core 64G 1T",
+                "link": "https://www.v2ex.com/t/820543",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[程序员] Java 的性能能赶上 Go 了？",
+                "link": "https://www.v2ex.com/t/820542",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[NVIDIA] NV 3070 显卡玩游戏 显卡占用始终上不去",
+                "link": "https://www.v2ex.com/t/820541",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[酷工作] [广州]广州拜思医疗 Java 后端 运维开发 ios 开发招聘 **合资**医疗器械**",
+                "link": "https://www.v2ex.com/t/820537",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[问与答] 国外有什么平台像友盟统计一样，会提供市场安卓机型占比的吗",
+                "link": "https://www.v2ex.com/t/820536",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[推广] 双十二来啦！ Parallels Desktop 官网又打折了。7 折太香了！",
+                "link": "https://www.v2ex.com/t/820534",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[Kubernetes] Go + Gin +Vue3 容器管理平台， 支持多集群管理 ,CMDB， K8S 容器管理",
+                "link": "https://www.v2ex.com/t/820533",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[分享发现] win10 下推荐一个开源的命令行工具 FluentTerminal",
+                "link": "https://www.v2ex.com/t/820531",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[酷工作] [前端初中高级急聘] 深圳国际物流 4PX 龙头企业招聘",
+                "link": "https://www.v2ex.com/t/820529",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[问与答] 网站百万千万级数据，一般用什么建站程序",
+                "link": "https://www.v2ex.com/t/820527",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[MacBook Pro] MacBook Pro14 散热问题",
+                "link": "https://www.v2ex.com/t/820526",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[Apple] Beats Fit Pro 开售了",
+                "link": "https://www.v2ex.com/t/820523",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[阅读] 分享今年你的书单！",
+                "link": "https://www.v2ex.com/t/820522",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[程序员] 邪恶的算法，有多少责任在程序员？",
+                "link": "https://www.v2ex.com/t/820521",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[问与答] 关于手机的艰难抉择",
+                "link": "https://www.v2ex.com/t/820519",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[Apple] 求推荐最贴近 MBP 本身屏幕素质的外接屏",
+                "link": "https://www.v2ex.com/t/820518",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[问与答] v2ex 账号登录当前 ip 短时间登录过多，限制 ip 了",
+                "link": "https://www.v2ex.com/t/820516",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "[问与答] Bitwarden 更改密码出现： exception message 发生了 ssl 错误",
+                "link": "https://www.v2ex.com/t/820515",
+                "published": "2021-12-07"
+            },
             {
                 "title": "[反馈] 我的账号是不是被 ban 了？",
                 "link": "https://www.v2ex.com/t/820326",
@@ -27079,6 +27349,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2021 你到过哪些地方令你觉得人间值得？",
+                "link": "http://www.zhihu.com/question/502466768/answer/2259971614?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-12-07"
+            },
+            {
+                "title": "跟男朋友一起做独立游戏，他非要我用unity自带的动画系统做，到底是为什么？",
+                "link": "http://www.zhihu.com/question/465865499/answer/2233353283?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-12-06"
+            },
+            {
+                "title": "游戏音频将如何发展？有哪些前沿方向？",
+                "link": "http://www.zhihu.com/question/503998063/answer/2258578035?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-12-06"
+            },
+            {
                 "title": "如何看待中国游戏公司在海外成立工作室，招募海外AAA人才？",
                 "link": "http://www.zhihu.com/question/503276127/answer/2254515874?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2021-12-06"
@@ -28009,6 +28294,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     }
 ]
