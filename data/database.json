@@ -60,13 +60,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "瞎玩菌的游戏周报：PS 新订阅服务对抗 XGP、TGA 2021 完整获奖名单等",
+                "link": "https://sspai.com/post/70351",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/70363",
+                "published": "2021-12-10"
+            },
             {
                 "title": "写在发布一周年之际：《赛博朋克 2077》背后的思考与情感体验",
                 "link": "https://sspai.com/post/70359",
@@ -1185,6 +1195,256 @@
         "title": "V2EX",
         "url": "https://www.v2ex.com/index.xml",
         "feeds": [
+            {
+                "title": "[问与答] 请教各位大哥个问题",
+                "link": "https://www.v2ex.com/t/821496",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[问与答] 家用路由器， wifi 经常自动断开，是路由器的问题吗",
+                "link": "https://www.v2ex.com/t/821494",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[Apple] 有什么推荐的支持 pd 的充电宝吗?",
+                "link": "https://www.v2ex.com/t/821493",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[宽带症候群] 宽带速度求教",
+                "link": "https://www.v2ex.com/t/821492",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[问与答] 想知道买菜 app 哪家便宜，怎么爬数据？",
+                "link": "https://www.v2ex.com/t/821491",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[问与答] apple music 老是出现无法验证服务器，这个如何解决呀",
+                "link": "https://www.v2ex.com/t/821490",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[macOS] 12.0.1 开机或重启后 自动重启",
+                "link": "https://www.v2ex.com/t/821488",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[程序员] 程序员又在意淫：开发一个类似 replit.com 的在线编程平台",
+                "link": "https://www.v2ex.com/t/821487",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[问与答] 2021 尾声了有可以跟 MacBook pro 对标的 win 本吗",
+                "link": "https://www.v2ex.com/t/821486",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[职场话题] Offer 决赛圈求建议（投资类）",
+                "link": "https://www.v2ex.com/t/821485",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[微信] 微信电脑版备份问题",
+                "link": "https://www.v2ex.com/t/821484",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[经济] 年底了，大家从股市赚了多少钱？",
+                "link": "https://www.v2ex.com/t/821483",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[问与答] 为什么我 mtr 公网出口第一跳网关就这么高延迟？",
+                "link": "https://www.v2ex.com/t/821482",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[上海] [互联网项目] 解决方案提供、外包项目承接（8 年开发、3 年团队管理）",
+                "link": "https://www.v2ex.com/t/821479",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[程序员] 搞”AI，机器学习“的半桶水硕士生，需不需要把 Java 重新捡起来看看",
+                "link": "https://www.v2ex.com/t/821477",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[问与答] 如何用 Azure TTS 读小说？",
+                "link": "https://www.v2ex.com/t/821475",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[程序员] Mac M1 使用 Sourcetrail 查看 Java 项目遇到问题",
+                "link": "https://www.v2ex.com/t/821474",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[分享发现] 感觉最近空气质量有点差啊，天天霾警告。",
+                "link": "https://www.v2ex.com/t/821472",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[分享发现] 企业 QQ 终于倒了",
+                "link": "https://www.v2ex.com/t/821469",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[MacBook Pro] 关于 MBP 扩展坞的一些疑问",
+                "link": "https://www.v2ex.com/t/821468",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[Apple] iPhone 打开 wifi 匿名是不是就无法绑定 IP 了",
+                "link": "https://www.v2ex.com/t/821466",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[问与答] 企业 QQ 强制换成企点什么骚操作",
+                "link": "https://www.v2ex.com/t/821464",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[问与答] 今天 github 是炸了吗，我看 ip 都指向微软云，但是都访问不通",
+                "link": "https://www.v2ex.com/t/821463",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[问与答] 商业 大病险 值得买吗？",
+                "link": "https://www.v2ex.com/t/821461",
+                "published": "2021-12-11"
+            },
+            {
+                "title": "[问与答] 自己房子租给中介被中介转租出去被一对八十岁左右的老头老太强占了，合同到期不搬出来。",
+                "link": "https://www.v2ex.com/t/821460",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[Web3] 这是最近我个人学习了解 Web3 的一点感悟",
+                "link": "https://www.v2ex.com/t/821459",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[信息安全] 老哥们，我被暴力破解了！我该怎么办？",
+                "link": "https://www.v2ex.com/t/821458",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[分享发现] 适合远程团建的游戏",
+                "link": "https://www.v2ex.com/t/821457",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[宽带症候群] 各 V2er,请问 no-ip 的 ddns 是不是路由器自带的已经不能解析了？",
+                "link": "https://www.v2ex.com/t/821456",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[反馈] 图片库统计和编辑问题",
+                "link": "https://www.v2ex.com/t/821455",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[ WATCH] 诡异的改名 bug",
+                "link": "https://www.v2ex.com/t/821454",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[问与答] Parallels Desktop 应该买断还是订阅？",
+                "link": "https://www.v2ex.com/t/821453",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[问与答] 游戏行业的运维开发是什么样的？值得入坑么？",
+                "link": "https://www.v2ex.com/t/821451",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[MacBook Pro] 14 寸 32G 1T 上手体验很赞",
+                "link": "https://www.v2ex.com/t/821450",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[问与答] 有没有什么测试 api 网络稳定性的工具？",
+                "link": "https://www.v2ex.com/t/821449",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[Apple] 在隔壁安卓看到最新的高通 8gen1 功耗，然后我看了下我手里的 16 寸 M1Max MacBookPro",
+                "link": "https://www.v2ex.com/t/821448",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[微信] 微信群超过 200 人之后，只能人工邀请，解决方案讨论",
+                "link": "https://www.v2ex.com/t/821445",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[Ruby on Rails] 如何动态显示和保存一系列输入框中的内容",
+                "link": "https://www.v2ex.com/t/821444",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[Apple] Mac 上有应用可以控制不同 app 使用不同音频输出吗？",
+                "link": "https://www.v2ex.com/t/821442",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[JetBrains] JetBrains 好像弄了个国内的官网",
+                "link": "https://www.v2ex.com/t/821440",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[MacBook Pro] MacBook Pro 2021 屏幕边缘有点阴影",
+                "link": "https://www.v2ex.com/t/821439",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[问与答] Chrome 配置项有默认显示 url 开头的 http 和 https 的选项吗？",
+                "link": "https://www.v2ex.com/t/821438",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[macOS] mac 自带的邮件 app 关于垃圾邮件设置问题",
+                "link": "https://www.v2ex.com/t/821436",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[程序员] 团队管理，效率与公平问题，大家如何决策？",
+                "link": "https://www.v2ex.com/t/821435",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[ACG] 今年的新剧 无职转生 真不错啊",
+                "link": "https://www.v2ex.com/t/821434",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[Chrome] Chrome 的“清空缓存并硬性重新加载”能不能在不打开“检查”的情况下点击？",
+                "link": "https://www.v2ex.com/t/821433",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[程序员] 有 Java ， cpp 语言经验， Python 一边用一边学，有没系统且进阶一点的，不是那种适合纯小白的菜鸟教程",
+                "link": "https://www.v2ex.com/t/821432",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[ WATCH] ECG 算法版本是统一的吗？不同地方开通的有区别吗？",
+                "link": "https://www.v2ex.com/t/821431",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[酷工作] [内推] 网易雷火本周热招岗位：测试&营销专场",
+                "link": "https://www.v2ex.com/t/821430",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "[Linux] LVM 分区的硬盘如何迁移到另外的机器。",
+                "link": "https://www.v2ex.com/t/821429",
+                "published": "2021-12-10"
+            },
             {
                 "title": "[macOS] mac 磁盘一小时写入 20g 正常吗，系统自带的监视工具算上移动硬盘的写入吗",
                 "link": "https://www.v2ex.com/t/821309",
@@ -28139,6 +28399,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价动画电影《雄狮少年》？",
+                "link": "http://www.zhihu.com/question/464023953/answer/2265710484?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "在外地的你，最想念哪道东北菜或东北美食？",
+                "link": "http://www.zhihu.com/question/51123653/answer/2262093092?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "柯娜：精神之桥 - 又一款被美术拯救的游戏 - 喷游戏",
+                "link": "http://zhuanlan.zhihu.com/p/433680608?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "场均20+8+8，马刺出了个小威少？",
+                "link": "http://zhuanlan.zhihu.com/p/443758208?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "张本智和为什么是“哈利摩托”（HARIMOTO TOMOKAZU）",
+                "link": "http://zhuanlan.zhihu.com/p/443105634?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-12-10"
+            },
+            {
+                "title": "当年杜锋:巧妇难为无米炊的日子",
+                "link": "http://zhuanlan.zhihu.com/p/443395382?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-12-10"
+            },
+            {
                 "title": "淮安为什么能成为第五个入选「世界美食之都」的中国城市？",
                 "link": "http://www.zhihu.com/question/497668532/answer/2262014345?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2021-12-10"
@@ -29124,6 +29414,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     }
 ]
