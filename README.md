@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
-* [V2EX](#V2EX) 【+49】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [少数派](#少数派) 【+5】
+* [V2EX](#V2EX) 【+50】
+* [知乎每日精选](#知乎每日精选) 【+4】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2021-12-14】 国行心电图终上线，iOS 15.2 值得关注的 6 个更新](https://sspai.com/post/70345)
+* [【2021-12-14】 派早报：Apple 推送一系列正式版系统更新，Apple Pay 开启公交卡专属活动等](https://sspai.com/post/70410)
+* [【2021-12-13】 派评 | 近期值得关注的 App](https://sspai.com/post/70404)
+* [【2021-12-13】 「互联网着火了」？理解让大厂纷纷沦陷的 Log4Shell 漏洞](https://sspai.com/post/70394)
+* [【2021-12-13】 重症监护病房（ICU）：生命最后的战场](https://sspai.com/post/70195)
 * [【2021-12-13】 你的 Nintendo Switch 媒体管家：Switshot 迎来 2.0 版本更新](https://sspai.com/post/70327)
 * [【2021-12-13】 派早报：严重漏洞影响大量服务、蚂蚁员工关怀升级、少数派团建归来等](https://sspai.com/post/70392)
 * [【2021-12-12】 一日一技 | 让 Windows 沙盒更好用：wsb 文件配置实例](https://sspai.com/post/70356)
 * [【2021-12-11】 今年最后一次超低价促销，双十二也有新周边上市](https://sspai.com/post/70308)
 * [【2021-12-11】 乱花渐欲迷人眼？你可能需要这份「双十二笔电优选指南」](https://sspai.com/post/70309)
-* [【2021-12-11】 瞎玩菌的游戏周报：PS 新订阅服务对抗 XGP、TGA 2021 完整获奖名单等](https://sspai.com/post/70351)
-* [【2021-12-10】 本周看什么丨最近值得一看的 10 部作品](https://sspai.com/post/70363)
-* [【2021-12-10】 写在发布一周年之际：《赛博朋克 2077》背后的思考与情感体验](https://sspai.com/post/70359)
-* [【2021-12-09】 手机知道你双十二想买什么？不用「偷听」其实也行](https://sspai.com/post/70346)
-* [【2021-12-09】 Refresh 周报：你的年度 emoji 是什么？](https://sspai.com/post/70335)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -53,16 +53,16 @@
     </summary>
 
 
-* [【2021-12-13】 [问与答] 请教个 GO 调用 MySQL 存储过程的问题](https://www.v2ex.com/t/821841)
-* [【2021-12-13】 [生活] 程序员容易久坐，对身体不好。最近咸鱼淘了台照相机，周六日放下电脑出去走走，不仅心情好了，身体也好了。想建一个摄影群，和大家一起交流拍照技术，不限性别年龄和设备（手机/照相机/都行），不知道有没有小伙伴也有这样的想法](https://www.v2ex.com/t/821840)
-* [【2021-12-13】 [互联网] 前两天腾讯跳楼的居然是「浅墨」大佬？我接受不了](https://www.v2ex.com/t/821838)
-* [【2021-12-13】 [问与答] 不知所措！想选一门编程语言来学](https://www.v2ex.com/t/821837)
-* [【2021-12-13】 [Apple] iOS 和 Mac 端日历不同步](https://www.v2ex.com/t/821836)
-* [【2021-12-13】 [macOS] Finder 侧边栏图标错误，这是 BUG 还是新的 Apple's Feature？](https://www.v2ex.com/t/821835)
-* [【2021-12-13】 [分享发现] 年底了,总结一下自己的挖矿历程 (不知道有没有违规)](https://www.v2ex.com/t/821834)
-* [【2021-12-13】 [分享发现] 分享一个开发备忘单](https://www.v2ex.com/t/821833)
-* [【2021-12-13】 [全球工单系统] Typora 上传图片时路径中不能有 # 号。](https://www.v2ex.com/t/821832)
-* [【2021-12-13】 [程序员] 关于大家讨论「现在的前端技术太恶心」，其实可以试试 esbuild](https://www.v2ex.com/t/821831)
+* [【2021-12-14】 [Apple] 两台 macbook，如何快速将一台旧 mbp 应用文件复装到新 mbp 上？](https://www.v2ex.com/t/822104)
+* [【2021-12-14】 [问与答] 请问有简洁的 GitHub 博客主题分享吗？](https://www.v2ex.com/t/822102)
+* [【2021-12-14】 [生活] 分享一个在小红书购物经历](https://www.v2ex.com/t/822099)
+* [【2021-12-14】 [问与答] 没有 4g 代理吗？](https://www.v2ex.com/t/822098)
+* [【2021-12-14】 [Apple] iOS 15.2 新增的 App 隐私报告的疑问](https://www.v2ex.com/t/822097)
+* [【2021-12-14】 [程序员] 一个 CSS 小项目的千星之路](https://www.v2ex.com/t/822096)
+* [【2021-12-14】 [宽带症候群] 昨天 tg 亚洲的服务器是否有部分崩了？](https://www.v2ex.com/t/822094)
+* [【2021-12-14】 [macOS] 感觉 MacBook 的键盘非常好用](https://www.v2ex.com/t/822093)
+* [【2021-12-14】 [程序员] redux-saga 中 channel 的原理是怎样的?](https://www.v2ex.com/t/822092)
+* [【2021-12-14】 [随想] 自愿化身一条固执的鱼](https://www.v2ex.com/t/822091)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -72,16 +72,16 @@
     </summary>
 
 
+* [【2021-12-14】 优待证申领正式启动，将会从哪些方面切实提高老兵幸福感，还有哪些信息值得关注？](http://www.zhihu.com/question/505902300/answer/2270069134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-12-13】 官宣！优待证管理办法，全文来了](http://zhuanlan.zhihu.com/p/444876176?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-12-13】 动画《冰火魔厨》开播，改编自唐家三少小说，你感觉如何？](http://www.zhihu.com/question/499282140/answer/2266333468?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-12-13】 羽毛球世界杯为什么停办?](http://www.zhihu.com/question/490475077/answer/2267100700?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-12】 伤情出现反复，锡安的巨星之路刚开始就要结束了？](http://zhuanlan.zhihu.com/p/444431023?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-10】 如何评价动画电影《雄狮少年》？](http://www.zhihu.com/question/464023953/answer/2265710484?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-10】 在外地的你，最想念哪道东北菜或东北美食？](http://www.zhihu.com/question/51123653/answer/2262093092?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-10】 柯娜：精神之桥 - 又一款被美术拯救的游戏 - 喷游戏](http://zhuanlan.zhihu.com/p/433680608?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-10】 场均20+8+8，马刺出了个小威少？](http://zhuanlan.zhihu.com/p/443758208?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-10】 张本智和为什么是“哈利摩托”（HARIMOTO TOMOKAZU）](http://zhuanlan.zhihu.com/p/443105634?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-12-10】 当年杜锋:巧妇难为无米炊的日子](http://zhuanlan.zhihu.com/p/443395382?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-12-10】 淮安为什么能成为第五个入选「世界美食之都」的中国城市？](http://www.zhihu.com/question/497668532/answer/2262014345?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-12-09】 都说燃油车有操控感，那电动车到底有没有驾驶乐趣？](http://www.zhihu.com/question/504476372/answer/2262761267?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-12-09】 通过游戏带动旅游业，未来可行吗，如何在设计上实现？](http://www.zhihu.com/question/502964091/answer/2258973173?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-12-13 05:12:45
+:alarm_clock: 更新时间: 2021-12-14 05:12:43
