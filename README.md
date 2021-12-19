@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -34,6 +34,9 @@
     </summary>
 
 
+* [【2021-12-18】 任天堂独立游戏直面会结束了，这些游戏可能更适合在 Switch 上体验](https://sspai.com/post/70494)
+* [【2021-12-18】 FM3.14｜聊聊《JOJO的奇妙冒险》里的摇滚乐](https://sspai.com/post/70501)
+* [【2021-12-18】 本月玩什么 | 光环：无限、雷霆一号、翼星求生](https://sspai.com/post/70492)
 * [【2021-12-18】 用这些脚本和组件，打造你的增强版「Bangumi 番组计划」](https://sspai.com/post/70438)
 * [【2021-12-17】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/70473)
 * [【2021-12-17】 可爱是第一生产力：为你的 Mac 状态栏加点料](https://sspai.com/post/70423)
@@ -41,9 +44,6 @@
 * [【2021-12-17】 瞎玩菌的游戏周报：TGA 海量新作公布、《黑客帝国》技惊四座等](https://sspai.com/post/70454)
 * [【2021-12-17】 跟着我从零开始，打造一张深色系酷炫桌面](https://sspai.com/post/70440)
 * [【2021-12-17】 派早报：联发科正式发布天玑 9000 系列处理器、苹果正式推出 Swift Playground 4 等](https://sspai.com/post/70465)
-* [【2021-12-16】 新玩意 088｜少数派的编辑们最近买了啥？](https://sspai.com/post/70457)
-* [【2021-12-16】 疫情之下的遗憾与精彩：第六届「移动应用创新赛」落下帷幕](https://sspai.com/post/70453)
-* [【2021-12-16】 给新手的 PPT 入门指南｜Chapter 8：内容页——在网格里安排文字与图片](https://sspai.com/prime/story/learning-ppt-ch-8)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -53,16 +53,16 @@
     </summary>
 
 
-* [【2021-12-18】 [全球工单系统] tmp.link 在没告知用户需要转移文件的情况下就清空了用户上传的所有文件？](https://www.v2ex.com/t/822978)
-* [【2021-12-18】 [Google] 你们有没有发现 Google 地图/Google Maps 中国大陆的地图数据（矢量地图，非卫星图）更新了！](https://www.v2ex.com/t/822975)
-* [【2021-12-18】 [iOS] 当你遇到少见的 BUG 时，可以尝试恢复所有设置](https://www.v2ex.com/t/822974)
-* [【2021-12-18】 [程序员] 如何提高英语口语至全英技术面试水平](https://www.v2ex.com/t/822971)
-* [【2021-12-18】 [iPhone] 为啥感觉 iOS15.2 全键盘打字老容易按错呢](https://www.v2ex.com/t/822970)
-* [【2021-12-18】 [MacBook Pro] 旧 mbp 怎么处理](https://www.v2ex.com/t/822969)
-* [【2021-12-18】 [分享发现] 今天遇到个神奇的登录逻辑判断](https://www.v2ex.com/t/822967)
-* [【2021-12-18】 [分享发现] 怀旧向： 3D Pinball for Windows – Space Cadet 三维弹球-太空军校生 cross-platform](https://www.v2ex.com/t/822965)
-* [【2021-12-18】 [硬件] 新装 win10 ltsc 巨大占用，文件大小很小，求解](https://www.v2ex.com/t/822964)
-* [【2021-12-18】 [音乐] 今天开始爱上闽南语歌曲，你们有喜欢的歌曲推荐吗](https://www.v2ex.com/t/822962)
+* [【2021-12-19】 [Python] 官方的 mypy 到现在还没支持 3.10 新特性吗？现在版本是 0.92, 一更新后所有的 match 就报错了](https://www.v2ex.com/t/823114)
+* [【2021-12-19】 [问与答] 程序员可以买无人🐔吗？会不会买了吃灰](https://www.v2ex.com/t/823112)
+* [【2021-12-19】 [程序员] 如何取消 Github Copilot 的提示？](https://www.v2ex.com/t/823111)
+* [【2021-12-19】 [问与答] iOS 15.2 部分 App 的通知为什么不显示图标？](https://www.v2ex.com/t/823110)
+* [【2021-12-19】 [问与答] docker 如何避免宿主机访问容器内部文件](https://www.v2ex.com/t/823109)
+* [【2021-12-19】 [宽带症候群] dns 解析出问题了 跟 openwrt 桥接配置有关吗](https://www.v2ex.com/t/823108)
+* [【2021-12-19】 [问与答] 联想笔记本 lenovo vantage 的 imcontroller 内存泄漏严重，有什么可替代的方案么](https://www.v2ex.com/t/823105)
+* [【2021-12-19】 [分享发现] 安卓统一推送实施前微信不可能被打败](https://www.v2ex.com/t/823104)
+* [【2021-12-19】 [Windows] 求解？ Windows 下载文件夹偶尔卡死，未响应](https://www.v2ex.com/t/823102)
+* [【2021-12-19】 [问与答] 请问有云端沙盘服务吗？](https://www.v2ex.com/t/823101)
 * [:arrow_forward: 全部文章](data/V2EX.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-12-18 05:12:40
+:alarm_clock: 更新时间: 2021-12-19 05:13:11
