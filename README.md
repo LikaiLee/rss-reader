@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+11】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2021-12-30】 在信息过载时代高效获取知识：我的阅读工作流分享](https://sspai.com/post/70397)
+* [【2021-12-30】 派早报：玩出梦想推出首款 VR 一体机、三星电子将展示多项新技术等](https://sspai.com/post/70666)
+* [【2021-12-29】 让链接无处不在——《泛在链接宣言》的理论与理想](https://sspai.com/post/70648)
+* [【2021-12-29】 正是入坑的好时候：用这些手账本开启新的一年](https://sspai.com/post/70654)
+* [【2021-12-29】 年度 Mac 应用 Craft 推出 2.0 版本，用扩展插件开启更多可能](https://sspai.com/post/70606)
 * [【2021-12-29】 每个家都该拥有一个它——我的蒸汽拖把使用体验](https://sspai.com/post/70406)
 * [【2021-12-29】 派早报：小米 12 系列手机正式发布、三星恢复 One UI 4 更新推送等](https://sspai.com/post/70651)
 * [【2021-12-28】 有线还是无线？别让它们束缚你听音乐的脚步](https://sspai.com/post/70317)
 * [【2021-12-28】 「快手饭」烹饪指南：即使熟悉的白米饭，也能做出新鲜感](https://sspai.com/post/70555)
 * [【2021-12-28】 即将告别 2021 年，这些「数字」值得被你留下](https://sspai.com/post/70628)
-* [【2021-12-28】 App+1｜移动设备上标注 PDF 有了「新选手」：Drawboard PDF 登陆 iOS 和 iPadOS](https://sspai.com/post/70608)
-* [【2021-12-28】 M1 系列 Mac 外接 2K 显示器开启 HiDPI 的多种尝试](https://sspai.com/post/70627)
-* [【2021-12-28】 派早报：六大部门「净网」行动成果公布、Beats 推出 Beats Studio Buds 虎年特别版等](https://sspai.com/post/70642)
-* [【2021-12-27】 派评 | 近期值得关注的 App](https://sspai.com/post/70631)
-* [【2021-12-27】 开屏广告之外应有的怡人风景：Android 12 应用启动动画详解](https://sspai.com/prime/story/android-12-splash-screen-explained)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-12-29 05:14:13
+:alarm_clock: 更新时间: 2021-12-30 05:14:02
