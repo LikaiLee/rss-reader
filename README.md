@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 
 ## 文章链接
 
@@ -15,6 +15,7 @@
     </summary>
 
 
+* [【2021-12-31】 科技爱好者周刊（第 190 期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html)
 * [【2021-12-24】 科技爱好者周刊（第 189 期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html)
 * [【2021-12-17】 科技爱好者周刊（第 188 期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html)
 * [【2021-12-10】 科技爱好者周刊（第 187 期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html)
@@ -24,7 +25,6 @@
 * [【2021-11-19】 科技爱好者周刊（第 184 期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html)
 * [【2021-11-12】 科技爱好者周刊（第 183 期）：腾讯的员工退休福利](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html)
 * [【2021-11-05】 科技爱好者周刊（第 182 期）：新人优惠的风险](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html)
-* [【2021-10-29】 科技爱好者周刊（第 181 期）：移动支付应该怎么设计？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2021-12-31】 不懂编程，就不能打造高效工作流吗？](https://sspai.com/post/70656)
+* [【2021-12-31】 派早报：三星将发布下一代 Exynos 处理器、魅族停止 Flyme 云备份功能等](https://sspai.com/post/70688)
+* [【2021-12-30】 试播集 01 | 少数派作者们最近读完了啥](https://sspai.com/post/70546)
+* [【2021-12-30】 一派·Podcast｜当青少年遇到网络，他们是不是要注定沉迷？](https://sspai.com/post/70679)
+* [【2021-12-30】 你终于能在 iPad 上「真正」地开发应用了：新版 Swift Playgrounds 体验](https://sspai.com/post/70655)
+* [【2021-12-30】 城市漫步指南：英国最安全的城市普利茅斯（Plymouth）](https://sspai.com/post/69667)
 * [【2021-12-30】 在信息过载时代高效获取知识：我的阅读工作流分享](https://sspai.com/post/70397)
 * [【2021-12-30】 派早报：玩出梦想推出首款 VR 一体机、三星电子将展示多项新技术等](https://sspai.com/post/70666)
 * [【2021-12-29】 让链接无处不在——《泛在链接宣言》的理论与理想](https://sspai.com/post/70648)
 * [【2021-12-29】 正是入坑的好时候：用这些手账本开启新的一年](https://sspai.com/post/70654)
-* [【2021-12-29】 年度 Mac 应用 Craft 推出 2.0 版本，用扩展插件开启更多可能](https://sspai.com/post/70606)
-* [【2021-12-29】 每个家都该拥有一个它——我的蒸汽拖把使用体验](https://sspai.com/post/70406)
-* [【2021-12-29】 派早报：小米 12 系列手机正式发布、三星恢复 One UI 4 更新推送等](https://sspai.com/post/70651)
-* [【2021-12-28】 有线还是无线？别让它们束缚你听音乐的脚步](https://sspai.com/post/70317)
-* [【2021-12-28】 「快手饭」烹饪指南：即使熟悉的白米饭，也能做出新鲜感](https://sspai.com/post/70555)
-* [【2021-12-28】 即将告别 2021 年，这些「数字」值得被你留下](https://sspai.com/post/70628)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,8 @@
     </summary>
 
 
+* [【2021-12-31】 2021 年的世界足坛给你留下了哪些记忆？](http://www.zhihu.com/question/508568463/answer/2293012729?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2021-12-30】 如何评价你的 2021 年？对 2022 年你有哪些规划？](http://www.zhihu.com/question/502382907/answer/2292100052?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-28】 虚幻宇宙创造者——Epic Games 史诗三十年 (序章)](http://zhuanlan.zhihu.com/p/450175393?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-28】 Epic Games 史诗三十年 (1)：Epic 第一款编辑器，不是 Unreal](http://zhuanlan.zhihu.com/p/450175671?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-28】 《JOJO的奇妙冒险》主要角色原型及名字由来整理（1~2部）](http://zhuanlan.zhihu.com/p/390098803?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,8 +82,6 @@
 * [【2021-12-28】 JOJO世界观与设定01:替身与替身使者——“身为替身使者要了解的知识”](http://zhuanlan.zhihu.com/p/341229489?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-28】 2011 到 2021 ，房地产有哪些难以想象的十年巨变？](http://www.zhihu.com/question/507270810/answer/2287855616?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-28】 2011 到 2021 ，房地产有哪些难以想象的十年巨变？](http://www.zhihu.com/question/507270810/answer/2281451232?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-12-28】 2021 年实现财务自由的人，都做对了哪些事？](http://www.zhihu.com/question/502497287/answer/2284624233?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-12-28】 2021 年你心中的最佳旅行目的地是哪里？](http://www.zhihu.com/question/500746343/answer/2288881873?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-12-30 05:14:02
+:alarm_clock: 更新时间: 2021-12-31 05:14:13

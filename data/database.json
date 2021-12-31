@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 190 期）：产品化思维",
+                "link": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html",
+                "published": "2021-12-31"
+            },
+            {
                 "title": "科技爱好者周刊（第 189 期）：下一个内卷的行业",
                 "link": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html",
                 "published": "2021-12-24"
@@ -70,13 +75,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "不懂编程，就不能打造高效工作流吗？",
+                "link": "https://sspai.com/post/70656",
+                "published": "2021-12-31"
+            },
+            {
+                "title": "派早报：三星将发布下一代 Exynos 处理器、魅族停止 Flyme 云备份功能等",
+                "link": "https://sspai.com/post/70688",
+                "published": "2021-12-31"
+            },
+            {
+                "title": "试播集 01 | 少数派作者们最近读完了啥",
+                "link": "https://sspai.com/post/70546",
+                "published": "2021-12-30"
+            },
+            {
+                "title": "一派·Podcast｜当青少年遇到网络，他们是不是要注定沉迷？",
+                "link": "https://sspai.com/post/70679",
+                "published": "2021-12-30"
+            },
+            {
+                "title": "你终于能在 iPad 上「真正」地开发应用了：新版 Swift Playgrounds 体验",
+                "link": "https://sspai.com/post/70655",
+                "published": "2021-12-30"
+            },
+            {
+                "title": "城市漫步指南：英国最安全的城市普利茅斯（Plymouth）",
+                "link": "https://sspai.com/post/69667",
+                "published": "2021-12-30"
+            },
             {
                 "title": "在信息过载时代高效获取知识：我的阅读工作流分享",
                 "link": "https://sspai.com/post/70397",
@@ -1643,7 +1678,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -32099,6 +32134,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2021 年的世界足坛给你留下了哪些记忆？",
+                "link": "http://www.zhihu.com/question/508568463/answer/2293012729?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-12-31"
+            },
+            {
+                "title": "如何评价你的 2021 年？对 2022 年你有哪些规划？",
+                "link": "http://www.zhihu.com/question/502382907/answer/2292100052?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2021-12-30"
+            },
+            {
                 "title": "虚幻宇宙创造者——Epic Games 史诗三十年 (序章)",
                 "link": "http://zhuanlan.zhihu.com/p/450175393?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2021-12-28"
@@ -33354,6 +33399,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     }
 ]
