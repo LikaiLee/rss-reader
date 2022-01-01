@@ -75,13 +75,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "少数派 2021 年度应用出炉，这些 App 是我们的「年度之选」",
+                "link": "https://sspai.com/post/70710",
+                "published": "2022-01-01"
+            },
+            {
+                "title": "少数派 2021 年度征文：效率还是生活，你想聊聊哪一面？",
+                "link": "https://sspai.com/post/70693",
+                "published": "2021-12-31"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/70712",
+                "published": "2021-12-31"
+            },
+            {
+                "title": "在陌生的地方也要好好生活：一个人如何探索新城市",
+                "link": "https://sspai.com/post/70694",
+                "published": "2021-12-31"
+            },
+            {
+                "title": "给新年添个彩——这些可口的小零食，在家就能轻松搞定",
+                "link": "https://sspai.com/prime/story/vol014-how-to-make-snacks",
+                "published": "2021-12-31"
+            },
             {
                 "title": "不懂编程，就不能打造高效工作流吗？",
                 "link": "https://sspai.com/post/70656",
@@ -1678,7 +1703,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -33399,6 +33424,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     }
 ]

@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-01-01】 少数派 2021 年度应用出炉，这些 App 是我们的「年度之选」](https://sspai.com/post/70710)
+* [【2021-12-31】 少数派 2021 年度征文：效率还是生活，你想聊聊哪一面？](https://sspai.com/post/70693)
+* [【2021-12-31】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/70712)
+* [【2021-12-31】 在陌生的地方也要好好生活：一个人如何探索新城市](https://sspai.com/post/70694)
+* [【2021-12-31】 给新年添个彩——这些可口的小零食，在家就能轻松搞定](https://sspai.com/prime/story/vol014-how-to-make-snacks)
 * [【2021-12-31】 不懂编程，就不能打造高效工作流吗？](https://sspai.com/post/70656)
 * [【2021-12-31】 派早报：三星将发布下一代 Exynos 处理器、魅族停止 Flyme 云备份功能等](https://sspai.com/post/70688)
 * [【2021-12-30】 试播集 01 | 少数派作者们最近读完了啥](https://sspai.com/post/70546)
 * [【2021-12-30】 一派·Podcast｜当青少年遇到网络，他们是不是要注定沉迷？](https://sspai.com/post/70679)
 * [【2021-12-30】 你终于能在 iPad 上「真正」地开发应用了：新版 Swift Playgrounds 体验](https://sspai.com/post/70655)
-* [【2021-12-30】 城市漫步指南：英国最安全的城市普利茅斯（Plymouth）](https://sspai.com/post/69667)
-* [【2021-12-30】 在信息过载时代高效获取知识：我的阅读工作流分享](https://sspai.com/post/70397)
-* [【2021-12-30】 派早报：玩出梦想推出首款 VR 一体机、三星电子将展示多项新技术等](https://sspai.com/post/70666)
-* [【2021-12-29】 让链接无处不在——《泛在链接宣言》的理论与理想](https://sspai.com/post/70648)
-* [【2021-12-29】 正是入坑的好时候：用这些手账本开启新的一年](https://sspai.com/post/70654)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2021-12-31 05:14:13
+:alarm_clock: 更新时间: 2022-01-01 05:13:56
