@@ -83,6 +83,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "「少数派们」的 2021 回顾：赵赛坡的年度推荐",
+                "link": "https://sspai.com/post/70690",
+                "published": "2022-01-02"
+            },
+            {
+                "title": "从键盘中解放，重新拥抱平板 —— iPad mini 6 体验分享",
+                "link": "https://sspai.com/post/70613",
+                "published": "2022-01-01"
+            },
+            {
                 "title": "少数派 2021 年度应用出炉，这些 App 是我们的「年度之选」",
                 "link": "https://sspai.com/post/70710",
                 "published": "2022-01-01"
@@ -1703,7 +1713,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
