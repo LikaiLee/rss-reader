@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-01-05】 恰好的释放，想念许久的亚丁自驾行](https://sspai.com/post/69807)
+* [【2022-01-05】 派早报：英伟达推出多款显卡，Intel、AMD、高通推出新款处理器等](https://sspai.com/post/70769)
+* [【2022-01-04】 为什么我们应该抵制「偷拍」？](https://sspai.com/post/70755)
+* [【2022-01-04】 「少数派们」的 2021 回顾：大狸子切切里的年度推荐](https://sspai.com/post/70657)
 * [【2022-01-04】 小色彩，大故事：从年度代表色「长春花蓝」说开去](https://sspai.com/post/70689)
 * [【2022-01-04】 派早报：Apple 推出 AirPods Pro 虎年特别款，三星即将发布下一代 Exynos 处理器等](https://sspai.com/post/70750)
 * [【2022-01-03】 2021 年度新玩意大赏：新鲜散尽后的消费决定](https://sspai.com/post/70695)
 * [【2022-01-03】 对话张千里：拍照是一种修行](https://sspai.com/prime/story/ricoh-gr3x-report-zhangqianli)
 * [【2022-01-02】 看什么 · 特别篇丨给你的 2021 年度最佳颁个奖](https://sspai.com/post/70706)
 * [【2022-01-02】 「少数派们」的 2021 回顾：赵赛坡的年度推荐](https://sspai.com/post/70690)
-* [【2022-01-01】 从键盘中解放，重新拥抱平板 —— iPad mini 6 体验分享](https://sspai.com/post/70613)
-* [【2022-01-01】 少数派 2021 年度应用出炉，这些 App 是我们的「年度之选」](https://sspai.com/post/70710)
-* [【2021-12-31】 少数派 2021 年度征文：效率还是生活，你想聊聊哪一面？](https://sspai.com/post/70693)
-* [【2021-12-31】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/70712)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,7 @@
     </summary>
 
 
+* [【2022-01-04】 回顾 2021 年发布的所有新车，你觉得最优秀和最糟糕的 1 款车分别是什么？为什么？](http://www.zhihu.com/question/509777293/answer/2297608897?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-04】 Epic Games 史诗三十年 (2)：Doom 逼出虚幻引擎](http://zhuanlan.zhihu.com/p/452939468?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-04】 如何评价《一人之下》558（594）话？](http://www.zhihu.com/question/509221485/answer/2293263461?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-03】 为什么《黑客帝国 4:矩阵重启》的评分两极分化这么严重？](http://www.zhihu.com/question/508041621/answer/2295004224?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,7 +82,6 @@
 * [【2021-12-28】 Epic Games 史诗三十年 (1)：Epic 第一款编辑器，不是 Unreal](http://zhuanlan.zhihu.com/p/450175671?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-28】 《JOJO的奇妙冒险》主要角色原型及名字由来整理（1~2部）](http://zhuanlan.zhihu.com/p/390098803?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-28】 【个人整理】《JOJO的奇妙冒险》的世界观之超自然力量](http://zhuanlan.zhihu.com/p/336942310?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-12-28】 【个人整理】《JOJO的奇妙冒险》时间线（1~6部旧世界）](http://zhuanlan.zhihu.com/p/148569779?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-01-04 05:14:23
+:alarm_clock: 更新时间: 2022-01-05 05:14:40
