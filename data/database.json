@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 191 期）：一个程序员的财务独立之路",
+                "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html",
+                "published": "2022-01-07"
+            },
+            {
                 "title": "科技爱好者周刊（第 190 期）：产品化思维",
                 "link": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html",
                 "published": "2021-12-31"
@@ -75,13 +80,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "出门少带一张卡：如何把门禁卡放在手机或手环上",
+                "link": "https://sspai.com/post/70462",
+                "published": "2022-01-07"
+            },
+            {
+                "title": "派早报：三星 Galaxy S21 FE 5G 发布、12306 延长互联网售票时间等",
+                "link": "https://sspai.com/post/70808",
+                "published": "2022-01-07"
+            },
+            {
+                "title": "嘿 Siri，今年过去多久了？",
+                "link": "https://sspai.com/post/70765",
+                "published": "2022-01-06"
+            },
+            {
+                "title": "一派·Podcast｜少数派 × 晚点聊：知乎的迷途",
+                "link": "https://sspai.com/post/70799",
+                "published": "2022-01-06"
+            },
+            {
+                "title": "「少数派们」的 2021 回顾：214 的年度推荐",
+                "link": "https://sspai.com/post/70692",
+                "published": "2022-01-06"
+            },
             {
                 "title": "探索学习背后的精神价值：我的游牧教室搭建与教学体验",
                 "link": "https://sspai.com/post/70685",
@@ -1793,7 +1823,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -32248,6 +32278,16 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "如何看待华为赛力斯停产，首批用户成最后一批用户，售后问题如何解决?",
+                "link": "http://www.zhihu.com/question/509823711/answer/2300589425?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-07"
+            },
+            {
+                "title": "当「社交牛逼症」男生爱上「社交恐惧症」女生，会发生什么有意思的故事呢？",
+                "link": "http://www.zhihu.com/question/499623438/answer/2232133486?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-06"
+            },
             {
                 "title": "如何找到一个适合自己的心理咨询师？",
                 "link": "http://www.zhihu.com/question/22077989/answer/2297303182?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
