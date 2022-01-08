@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-01-07】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/70827)
+* [【2022-01-07】 满分五分，你给 Apple 的 2021 年打几分？](https://sspai.com/post/70814)
+* [【2022-01-07】 本月玩什么 | 彩虹六号：异种、宝可梦传说 阿尔宙斯、秘境探险合辑](https://sspai.com/post/70817)
+* [【2022-01-07】 瞎玩菌的游戏周报：Steam 大奖、PS VR2、Switch 最畅销独立游戏等](https://sspai.com/post/70795)
 * [【2022-01-07】 出门少带一张卡：如何把门禁卡放在手机或手环上](https://sspai.com/post/70462)
 * [【2022-01-07】 派早报：三星 Galaxy S21 FE 5G 发布、12306 延长互联网售票时间等](https://sspai.com/post/70808)
 * [【2022-01-06】 嘿 Siri，今年过去多久了？](https://sspai.com/post/70765)
 * [【2022-01-06】 一派·Podcast｜少数派 × 晚点聊：知乎的迷途](https://sspai.com/post/70799)
 * [【2022-01-06】 「少数派们」的 2021 回顾：214 的年度推荐](https://sspai.com/post/70692)
 * [【2022-01-06】 探索学习背后的精神价值：我的游牧教室搭建与教学体验](https://sspai.com/post/70685)
-* [【2022-01-06】 派早报：iQOO 9 系列手机发布、索尼正式加入电动汽车市场等](https://sspai.com/post/70790)
-* [【2022-01-05】 知名修图工具大更新，它想取代你的 iPhone 系统相册：Pixelmator Photo 2.0](https://sspai.com/post/70709)
-* [【2022-01-05】 建立强大的 Notion 数据库，从了解函数开始](https://sspai.com/post/70713)
-* [【2022-01-05】 Refresh 周报 #21：Android 13 前瞻、CES 2022 情报速递等](https://sspai.com/post/70766)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,7 @@
     </summary>
 
 
+* [【2022-01-07】 库里在 2022 年初连续 2 场比赛手感奇差，原因是什么？这对他竞争本赛季 MVP 造成了哪些影响？](http://www.zhihu.com/question/510128037/answer/2301716848?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-07】 如何看待华为赛力斯停产，首批用户成最后一批用户，售后问题如何解决?](http://www.zhihu.com/question/509823711/answer/2300589425?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-06】 当「社交牛逼症」男生爱上「社交恐惧症」女生，会发生什么有意思的故事呢？](http://www.zhihu.com/question/499623438/answer/2232133486?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-05】 如何找到一个适合自己的心理咨询师？](http://www.zhihu.com/question/22077989/answer/2297303182?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,7 +82,6 @@
 * [【2022-01-04】 如何评价《一人之下》558（594）话？](http://www.zhihu.com/question/509221485/answer/2293263461?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-03】 为什么《黑客帝国 4:矩阵重启》的评分两极分化这么严重？](http://www.zhihu.com/question/508041621/answer/2295004224?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2021-12-31】 2021 年的世界足坛给你留下了哪些记忆？](http://www.zhihu.com/question/508568463/answer/2293012729?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2021-12-30】 如何评价你的 2021 年？对 2022 年你有哪些规划？](http://www.zhihu.com/question/502382907/answer/2292100052?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-01-07 05:14:44
+:alarm_clock: 更新时间: 2022-01-08 05:14:26
