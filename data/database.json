@@ -88,6 +88,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一抹微黄的无尽想象——与 Mini Cooper 共度的冲动时光",
+                "link": "https://sspai.com/post/65185",
+                "published": "2022-01-11"
+            },
+            {
+                "title": "派早报：荣耀正式发布折叠屏手机 Magic V、Tecno 推出手机可伸缩微距镜头等",
+                "link": "https://sspai.com/post/70890",
+                "published": "2022-01-11"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/70881",
+                "published": "2022-01-10"
+            },
+            {
+                "title": "科技以炫技为本，CES 2022 亮点回顾",
+                "link": "https://sspai.com/post/70851",
+                "published": "2022-01-10"
+            },
+            {
+                "title": "城市漫步指南：在大阪、新加坡和纽约「跑来跑去」",
+                "link": "https://sspai.com/post/70661",
+                "published": "2022-01-10"
+            },
+            {
+                "title": "满就送少数派红包封面，派商店「年货节」来了",
+                "link": "https://sspai.com/post/70857",
+                "published": "2022-01-10"
+            },
+            {
                 "title": "用了 Galaxy Watch4 两个月，但我只想把它推荐给「星粉」",
                 "link": "https://sspai.com/post/70741",
                 "published": "2022-01-10"
@@ -33644,6 +33674,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-01-11】 一抹微黄的无尽想象——与 Mini Cooper 共度的冲动时光](https://sspai.com/post/65185)
+* [【2022-01-11】 派早报：荣耀正式发布折叠屏手机 Magic V、Tecno 推出手机可伸缩微距镜头等](https://sspai.com/post/70890)
+* [【2022-01-10】 派评 | 近期值得关注的 App](https://sspai.com/post/70881)
+* [【2022-01-10】 科技以炫技为本，CES 2022 亮点回顾](https://sspai.com/post/70851)
+* [【2022-01-10】 城市漫步指南：在大阪、新加坡和纽约「跑来跑去」](https://sspai.com/post/70661)
+* [【2022-01-10】 满就送少数派红包封面，派商店「年货节」来了](https://sspai.com/post/70857)
 * [【2022-01-10】 用了 Galaxy Watch4 两个月，但我只想把它推荐给「星粉」](https://sspai.com/post/70741)
 * [【2022-01-10】 派早报：数字人民币 App 上架试点、国家版权局约谈数字音乐相关企业等](https://sspai.com/post/70866)
 * [【2022-01-09】 照片里的「障碍物」，用它就能轻松修复：TouchRetouch 5.0](https://sspai.com/post/70730)
 * [【2022-01-09】 「私人微博」应用推荐：喧嚣时代中的一块自留地](https://sspai.com/post/70739)
-* [【2022-01-08】 处理器简史 02 | 英特尔逆风开局，半导体薪火相传](https://sspai.com/prime/story/sv-anecdotes-02)
-* [【2022-01-08】 少数派作者的桌面长啥样？看 5 位作者分享自己的「桌面好物」](https://sspai.com/post/70809)
-* [【2022-01-07】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/70827)
-* [【2022-01-07】 满分五分，你给 Apple 的 2021 年打几分？](https://sspai.com/post/70814)
-* [【2022-01-07】 本月玩什么 | 彩虹六号：异种、宝可梦传说 阿尔宙斯、秘境探险合辑](https://sspai.com/post/70817)
-* [【2022-01-07】 瞎玩菌的游戏周报：Steam 大奖、PS VR2、Switch 最畅销独立游戏等](https://sspai.com/post/70795)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-01-10 05:16:05
+:alarm_clock: 更新时间: 2022-01-11 05:14:28
