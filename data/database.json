@@ -88,6 +88,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "展开讲讲 Craft｜我的 2021 年度应用",
+                "link": "https://sspai.com/post/70778",
+                "published": "2022-01-13"
+            },
+            {
+                "title": "派早报：魅族发布多款新品、自游家公布首款电动汽车等",
+                "link": "https://sspai.com/post/70919",
+                "published": "2022-01-13"
+            },
+            {
+                "title": "App+1｜让你的 M1 系列芯片用上 HiDPI：BetterDummy",
+                "link": "https://sspai.com/post/70141",
+                "published": "2022-01-12"
+            },
+            {
+                "title": "Windows 自动化初探：利用 Power Automate 联通应用",
+                "link": "https://sspai.com/post/70906",
+                "published": "2022-01-12"
+            },
+            {
+                "title": "Refresh 周报 #22：iMessage 平台之争、Android 13 特性首曝等",
+                "link": "https://sspai.com/post/70913",
+                "published": "2022-01-12"
+            },
+            {
                 "title": "两步打造适合自己的笔记系统，简单又高效",
                 "link": "https://sspai.com/post/70841",
                 "published": "2022-01-12"
@@ -32383,6 +32408,26 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "丰田和马自达发动机扭矩那么低，达到最大扭矩的转速还很高，为啥都说丰田和马自达的发动机好呢？",
+                "link": "http://www.zhihu.com/question/447334290/answer/1764224457?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-13"
+            },
+            {
+                "title": "Sony的Vision S和后续的移动公司",
+                "link": "http://zhuanlan.zhihu.com/p/455842570?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-12"
+            },
+            {
+                "title": "孩子上课举手发言，老师不点他名，家长该怎么和老师沟通？",
+                "link": "http://www.zhihu.com/question/510962648/answer/2307702191?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-12"
+            },
+            {
+                "title": "如何看待IOS版手机QQ新安装包高达800M+，内置虚幻4游戏引擎？",
+                "link": "http://www.zhihu.com/question/510686648/answer/2307642754?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-12"
+            },
             {
                 "title": "2022年，通信行业有哪些看点？",
                 "link": "http://zhuanlan.zhihu.com/p/455794758?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
