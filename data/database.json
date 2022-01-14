@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 192 期）：最大的机会来自新技术",
+                "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html",
+                "published": "2022-01-14"
+            },
+            {
                 "title": "科技爱好者周刊（第 191 期）：一个程序员的财务独立之路",
                 "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html",
                 "published": "2022-01-07"
@@ -80,13 +85,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派早报：徕卡发布 M11 相机、紫光展锐联合 QQ 实现 RTOS 端应用部署",
+                "link": "https://sspai.com/post/70943",
+                "published": "2022-01-14"
+            },
+            {
+                "title": "给新手的 PPT 入门指南｜Chapter 9：总结与附录",
+                "link": "https://sspai.com/prime/story/learning-ppt-ch-9",
+                "published": "2022-01-13"
+            },
+            {
+                "title": "新玩意 091｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/70931",
+                "published": "2022-01-13"
+            },
+            {
+                "title": "比较了中美 167 个订阅服务价格，这是我的思考",
+                "link": "https://sspai.com/post/70886",
+                "published": "2022-01-13"
+            },
+            {
+                "title": "乐器玩家的好伴侣，AI 帮你高效扒谱、练歌曲：AudioJam",
+                "link": "https://sspai.com/post/70647",
+                "published": "2022-01-13"
+            },
+            {
+                "title": "年度征文｜展开讲讲 Craft，我的 2021 年度应用",
+                "link": "https://sspai.com/post/70778",
+                "published": "2022-01-13"
+            },
             {
                 "title": "展开讲讲 Craft｜我的 2021 年度应用",
                 "link": "https://sspai.com/post/70778",
@@ -1953,7 +1988,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -32409,6 +32444,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "广汽传祺影豹真的像宣传的那样好吗？年轻人想买一台运动型车，选影豹合适吗？",
+                "link": "http://www.zhihu.com/question/479675577/answer/2306633736?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-13"
+            },
+            {
                 "title": "丰田和马自达发动机扭矩那么低，达到最大扭矩的转速还很高，为啥都说丰田和马自达的发动机好呢？",
                 "link": "http://www.zhihu.com/question/447334290/answer/1764224457?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-01-13"
@@ -33764,6 +33804,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     }
 ]
