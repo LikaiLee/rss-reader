@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-01-15】 板绘入门第一步：如何挑选适合自己的数位板？](https://sspai.com/post/70305)
+* [【2022-01-14】 本周看什么丨最近值得一看的 10 部作品](https://sspai.com/post/70952)
+* [【2022-01-14】 Wordle 是什么？怎么就突然火了？](https://sspai.com/post/70949)
+* [【2022-01-14】 不依赖「一键生成」的 App，你该如何做张优雅的长文图片？](https://sspai.com/post/70800)
 * [【2022-01-14】 派早报：徕卡发布 M11 相机、紫光展锐联合 QQ 实现 RTOS 端应用部署](https://sspai.com/post/70943)
 * [【2022-01-13】 给新手的 PPT 入门指南｜Chapter 9：总结与附录](https://sspai.com/prime/story/learning-ppt-ch-9)
 * [【2022-01-13】 新玩意 091｜少数派的编辑们最近买了啥？](https://sspai.com/post/70931)
 * [【2022-01-13】 比较了中美 167 个订阅服务价格，这是我的思考](https://sspai.com/post/70886)
 * [【2022-01-13】 乐器玩家的好伴侣，AI 帮你高效扒谱、练歌曲：AudioJam](https://sspai.com/post/70647)
 * [【2022-01-13】 年度征文｜展开讲讲 Craft，我的 2021 年度应用](https://sspai.com/post/70778)
-* [【2022-01-13】 展开讲讲 Craft｜我的 2021 年度应用](https://sspai.com/post/70778)
-* [【2022-01-13】 派早报：魅族发布多款新品、自游家公布首款电动汽车等](https://sspai.com/post/70919)
-* [【2022-01-12】 App+1｜让你的 M1 系列芯片用上 HiDPI：BetterDummy](https://sspai.com/post/70141)
-* [【2022-01-12】 Windows 自动化初探：利用 Power Automate 联通应用](https://sspai.com/post/70906)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-01-14 05:15:16
+:alarm_clock: 更新时间: 2022-01-15 05:14:39
