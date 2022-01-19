@@ -93,6 +93,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "生活可以认真点，模块化生活手帐「你的一天」",
+                "link": "https://sspai.com/post/70967",
+                "published": "2022-01-19"
+            },
+            {
+                "title": "派早报：微软将收购动视暴雪、realme Book 增强版 Air 发布等",
+                "link": "https://sspai.com/post/71031",
+                "published": "2022-01-19"
+            },
+            {
+                "title": "一派·再读 08｜更好听的「再读」可以是什么样的？",
+                "link": "https://sspai.com/post/71007",
+                "published": "2022-01-18"
+            },
+            {
+                "title": "药不能停，但也不能乱吃：为什么医嘱里要教你如何吃药？",
+                "link": "https://sspai.com/post/71025",
+                "published": "2022-01-18"
+            },
+            {
+                "title": "小团队资金有限，你还可以这样打造 WebDAV 文件共享服务",
+                "link": "https://sspai.com/post/70914",
+                "published": "2022-01-18"
+            },
+            {
+                "title": "少数派幕后 | 为了「派早报」不翻车，我们做个了官方新闻搜索引擎",
+                "link": "https://sspai.com/prime/story/whitelisted-news-custom-search",
+                "published": "2022-01-18"
+            },
+            {
+                "title": "年度征文 | 放弃工具和方法后，我收获了效率生活",
+                "link": "https://sspai.com/post/70805",
+                "published": "2022-01-18"
+            },
+            {
                 "title": "Surface Laptop Go 使用体验：或许还有更好的上网本",
                 "link": "https://sspai.com/post/70988",
                 "published": "2022-01-18"
@@ -2058,7 +2093,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -32513,6 +32548,26 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "国产动画《新围棋少年》将公布，对此你有什么期待？",
+                "link": "http://www.zhihu.com/question/511763417/answer/2315773403?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-19"
+            },
+            {
+                "title": "如何评价领克2021WTCR再夺冠，实现三连冠？",
+                "link": "http://www.zhihu.com/question/502341219/answer/2282670192?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-18"
+            },
+            {
+                "title": "开赛车的人会不会觉得平时开车太慢？",
+                "link": "http://www.zhihu.com/question/55545930/answer/2312943589?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-18"
+            },
+            {
+                "title": "华人运通官宣与青岛达成项目合作，中国总部落户青岛，为什么会选择这座城市？未来对高合汽车品牌有何影响？",
+                "link": "http://www.zhihu.com/question/512162512/answer/2315608803?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-18"
+            },
             {
                 "title": "日本出产的酒有没有明显的地域风格？",
                 "link": "http://www.zhihu.com/question/38748650/answer/2313384183?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
