@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 193 期）：前端与后端，谁更难？",
+                "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html",
+                "published": "2022-01-21"
+            },
+            {
                 "title": "科技爱好者周刊（第 192 期）：最大的机会来自新技术",
                 "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html",
                 "published": "2022-01-14"
@@ -85,13 +90,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "下岗 Android「再就业」，旧设备变身 Home Assistant 语音控制器",
+                "link": "https://sspai.com/post/70970",
+                "published": "2022-01-21"
+            },
+            {
+                "title": "派早报：Mophie 推出三合一旅行充电器、Apple 教育商店发生改版等",
+                "link": "https://sspai.com/post/71063",
+                "published": "2022-01-21"
+            },
+            {
+                "title": "链接一切的文本效率工具：Drafts 5 入门指南",
+                "link": "https://sspai.com/post/71048",
+                "published": "2022-01-20"
+            },
+            {
+                "title": "年度征文丨全年读书 227 小时，2021 年我推荐这些好书可读",
+                "link": "https://sspai.com/post/70927",
+                "published": "2022-01-20"
+            },
             {
                 "title": "七分吃三分练：科学减脂应该如何控制饮食？",
                 "link": "https://sspai.com/post/70911",
@@ -2118,7 +2143,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -32574,6 +32599,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "1 月 20 日北京迎来降雪，部分路面已经开始结冰，这种天气出行有哪些注意事项？",
+                "link": "http://www.zhihu.com/question/512530646/answer/2318404510?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-20"
+            },
+            {
+                "title": "如何评价狗头萝莉？",
+                "link": "http://www.zhihu.com/question/459499838/answer/2318371038?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-20"
+            },
+            {
+                "title": "如何评价《画江湖之不良人》第 5 季第 1 集和第 2 集？",
+                "link": "http://www.zhihu.com/question/511972728/answer/2318228157?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-20"
+            },
+            {
                 "title": "精准、安全、高效做好北京冬奥医疗救治保障工作",
                 "link": "http://zhuanlan.zhihu.com/p/450256908?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-01-20"
@@ -34024,6 +34064,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     }
 ]
