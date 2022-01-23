@@ -98,6 +98,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文｜通过使用 Due 的 6 年，谈一谈普通人如何追求「效率」",
+                "link": "https://sspai.com/post/70994",
+                "published": "2022-01-23"
+            },
+            {
+                "title": "一日一技 | SSH 下跨系统连通剪贴板",
+                "link": "https://sspai.com/post/71018",
+                "published": "2022-01-22"
+            },
+            {
+                "title": "Hyper-V 虚拟机使用详解",
+                "link": "https://sspai.com/prime/story/hyper-v-tutorial",
+                "published": "2022-01-22"
+            },
+            {
+                "title": "年度征文 | 成为少数派作者的这一年",
+                "link": "https://sspai.com/post/71011",
+                "published": "2022-01-22"
+            },
+            {
                 "title": "本周看什么丨最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/71076",
                 "published": "2022-01-21"
@@ -34099,6 +34119,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     }
 ]
