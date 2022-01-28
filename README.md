@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+4】
 
 ## 文章链接
 
@@ -15,6 +15,7 @@
     </summary>
 
 
+* [【2022-01-28】 命令行常用工具的替代品](http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html)
 * [【2022-01-21】 科技爱好者周刊（第 193 期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html)
 * [【2022-01-14】 科技爱好者周刊（第 192 期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html)
 * [【2022-01-07】 科技爱好者周刊（第 191 期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)
@@ -24,7 +25,6 @@
 * [【2021-12-10】 科技爱好者周刊（第 187 期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html)
 * [【2021-12-07】 为什么 Web3 与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html)
 * [【2021-12-03】 科技爱好者周刊（第 186 期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html)
-* [【2021-11-26】 科技爱好者周刊（第 185 期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-01-28】 年度征文 | 卡片笔记太多，回忆不起来？快用人工智能帮你自动找寻关联](https://sspai.com/post/71093)
+* [【2022-01-28】 派早报：联发科技发布迅鲲 1380 芯片组、Apple 上线个人安全用户手册等](https://sspai.com/post/71205)
+* [【2022-01-27】 过年回家，试试用快捷指令帮家人记录血压](https://sspai.com/prime/story/shortcuts-blood-pressure-monitering)
+* [【2022-01-27】 年度征文 | 少数派是如何使用飞书的？](https://sspai.com/post/71137)
 * [【2022-01-27】 年度征文 | 你的智齿，还要留着过几个年？](https://sspai.com/post/70677)
 * [【2022-01-27】 派早报：惠普发布新款 Elite Mini 主机、兰博基尼将推出电动汽车等](https://sspai.com/post/71181)
 * [【2022-01-26】 试播集 02 | 少数派作者们最近读完了啥](https://sspai.com/post/71036)
 * [【2022-01-26】 有准备、不无聊：返乡前可以看看的春运小贴士](https://sspai.com/post/71151)
 * [【2022-01-26】 流量、收益与金融化：Web3 如何影响创作者？](https://sspai.com/post/71153)
 * [【2022-01-26】 巧用开源方案，零成本实现验证码短信转发](https://sspai.com/post/71054)
-* [【2022-01-26】 派早报：Galaxy S22 系列发布日期确定、Apple 发起 Shot on iPhone 微距摄影大赛等](https://sspai.com/post/71149)
-* [【2022-01-25】 不读可以先收藏：年前最后一波好文章](https://sspai.com/post/71138)
-* [【2022-01-25】 Apple Music 虎年特辑：让空间音频、明星歌单带你新年虎虎「声」风](https://sspai.com/post/71135)
-* [【2022-01-25】 具透 | 三星如何玩转 Android 12？One UI 4 上手体验](https://sspai.com/post/71136)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,16 +72,16 @@
     </summary>
 
 
+* [【2022-01-28】 「过年，是中国人的集体记忆」，你的家乡有哪些充满回忆的地方？](http://www.zhihu.com/question/509979111/answer/2327877344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-01-28】 发现自己加班上瘾怎么办？](http://www.zhihu.com/question/509678375/answer/2326282351?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-01-27】 2022年有哪些值得购买的头戴式耳机？头戴式耳机终极对比测评与音质排名](http://zhuanlan.zhihu.com/p/65766648?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-01-27】 都说电动车让性能变得廉价，那为什么很多操控党还在留恋「汽油味」?](http://www.zhihu.com/question/513526361/answer/2326837461?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-27】 高速上车机系统死机或黑屏了要怎么办？](http://www.zhihu.com/question/511927934/answer/2326464453?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-26】 《黑神话：悟空》发布拜年视频，有哪些有意思的细节？](http://www.zhihu.com/question/513444321/answer/2325345743?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-25】 美国一特斯拉车主因使用 Autopilot 时撞死两人被控重罪，如何从法律角度解读此事件？](http://www.zhihu.com/question/512458621/answer/2323876380?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-25】 为什么最近库里的手感越来越差呢？](http://www.zhihu.com/question/510120535/answer/2324467384?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-25】 汽车轮胎品牌那么多，该怎样选？](http://www.zhihu.com/question/338882903/answer/2324568847?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-25】 如何评价《一人之下》陈朵篇？](http://www.zhihu.com/question/67960982/answer/2324332801?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-01-25】 如何评价漫画\动画《一人之下》的角色王也？](http://www.zhihu.com/question/67052704/answer/2324346366?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-01-25】 北京过春节最有「年味」的地方在哪里？](http://www.zhihu.com/question/508807121/answer/2323543916?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-01-25】 什么是黑色电影（film noir）？](http://www.zhihu.com/question/19677674/answer/2323952693?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-01-24】 烧烤是怎样发展起来的？从什么时候开始有的烧烤？](http://www.zhihu.com/question/39285680/answer/2323150886?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-01-27 05:12:48
+:alarm_clock: 更新时间: 2022-01-28 05:11:45
