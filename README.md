@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -34,6 +34,8 @@
     </summary>
 
 
+* [【2022-01-30】 看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单](https://sspai.com/post/71209)
+* [【2022-01-29】 「蓝泡泡」的热闹与发短信的门道：从 iMessage 独占之争谈 5G 时代的短信](https://sspai.com/post/71226)
 * [【2022-01-29】 Keynote 贺卡制作指南：不懂设计也能做一张春节贺卡](https://sspai.com/post/71224)
 * [【2022-01-28】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/71211)
 * [【2022-01-28】 专事专办、无需流氓管家，你可以选择这些实用 Windows 小工具](https://sspai.com/post/71216)
@@ -42,8 +44,6 @@
 * [【2022-01-28】 年度征文 | 卡片笔记太多，回忆不起来？快用人工智能帮你自动找寻关联](https://sspai.com/post/71093)
 * [【2022-01-28】 派早报：联发科技发布迅鲲 1380 芯片组、Apple 上线个人安全用户手册等](https://sspai.com/post/71205)
 * [【2022-01-27】 过年回家，试试用快捷指令帮家人记录血压](https://sspai.com/prime/story/shortcuts-blood-pressure-monitering)
-* [【2022-01-27】 年度征文 | 少数派是如何使用飞书的？](https://sspai.com/post/71137)
-* [【2022-01-27】 年度征文 | 你的智齿，还要留着过几个年？](https://sspai.com/post/70677)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,7 @@
     </summary>
 
 
+* [【2022-01-29】 早 C 晚 A 风很大，但用 VC 脸容易变黄，该怎么办？](http://www.zhihu.com/question/320451411/answer/2318207837?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-29】 开车回家，一个人开 1000 公里是一种什么样的体验？](http://www.zhihu.com/question/470105674/answer/2328885472?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-28】 RTX 3050 和 GTX 1660比怎么样，为什么我同学说他是智商检测卡?](http://www.zhihu.com/question/461380156/answer/2326616016?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-28】 春节长途自驾回家是怎样一种体验？](http://www.zhihu.com/question/265769952/answer/2328376096?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,7 +82,6 @@
 * [【2022-01-27】 2022年有哪些值得购买的头戴式耳机？头戴式耳机终极对比测评与音质排名](http://zhuanlan.zhihu.com/p/65766648?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-27】 都说电动车让性能变得廉价，那为什么很多操控党还在留恋「汽油味」?](http://www.zhihu.com/question/513526361/answer/2326837461?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-27】 高速上车机系统死机或黑屏了要怎么办？](http://www.zhihu.com/question/511927934/answer/2326464453?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-01-26】 《黑神话：悟空》发布拜年视频，有哪些有意思的细节？](http://www.zhihu.com/question/513444321/answer/2325345743?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-01-29 05:11:30
+:alarm_clock: 更新时间: 2022-01-30 05:11:13
