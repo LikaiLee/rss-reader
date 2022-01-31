@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -34,6 +34,8 @@
     </summary>
 
 
+* [【2022-01-31】 派早报：少数派向读者拜年、你可能错过的小道消息等](https://sspai.com/post/71243)
+* [【2022-01-30】 7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
 * [【2022-01-30】 看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单](https://sspai.com/post/71209)
 * [【2022-01-29】 「蓝泡泡」的热闹与发短信的门道：从 iMessage 独占之争谈 5G 时代的短信](https://sspai.com/post/71226)
 * [【2022-01-29】 Keynote 贺卡制作指南：不懂设计也能做一张春节贺卡](https://sspai.com/post/71224)
@@ -42,8 +44,6 @@
 * [【2022-01-28】 从国产影视剧的发展史聊起，细数《开端》之外的那些国剧佳作](https://sspai.com/post/69353)
 * [【2022-01-28】 异地过好年，我的购物车里都有啥？](https://sspai.com/post/71161)
 * [【2022-01-28】 年度征文 | 卡片笔记太多，回忆不起来？快用人工智能帮你自动找寻关联](https://sspai.com/post/71093)
-* [【2022-01-28】 派早报：联发科技发布迅鲲 1380 芯片组、Apple 上线个人安全用户手册等](https://sspai.com/post/71205)
-* [【2022-01-27】 过年回家，试试用快捷指令帮家人记录血压](https://sspai.com/prime/story/shortcuts-blood-pressure-monitering)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-01-30 05:11:13
+:alarm_clock: 更新时间: 2022-01-31 05:11:56

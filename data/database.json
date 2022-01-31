@@ -103,6 +103,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：少数派向读者拜年、你可能错过的小道消息等",
+                "link": "https://sspai.com/post/71243",
+                "published": "2022-01-31"
+            },
+            {
+                "title": "7 道简单易上手的年夜菜，厨房小白也能在春节露一手",
+                "link": "https://sspai.com/post/71241",
+                "published": "2022-01-30"
+            },
+            {
                 "title": "看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单",
                 "link": "https://sspai.com/post/71209",
                 "published": "2022-01-30"
@@ -34374,6 +34384,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
