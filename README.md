@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -34,6 +34,7 @@
     </summary>
 
 
+* [【2022-01-31】 史低诚可贵，Epic 券更香：各游戏平台春节优惠汇总](https://sspai.com/post/71240)
 * [【2022-01-31】 派早报：少数派向读者拜年、你可能错过的小道消息等](https://sspai.com/post/71243)
 * [【2022-01-30】 7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
 * [【2022-01-30】 看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单](https://sspai.com/post/71209)
@@ -43,7 +44,6 @@
 * [【2022-01-28】 专事专办、无需流氓管家，你可以选择这些实用 Windows 小工具](https://sspai.com/post/71216)
 * [【2022-01-28】 从国产影视剧的发展史聊起，细数《开端》之外的那些国剧佳作](https://sspai.com/post/69353)
 * [【2022-01-28】 异地过好年，我的购物车里都有啥？](https://sspai.com/post/71161)
-* [【2022-01-28】 年度征文 | 卡片笔记太多，回忆不起来？快用人工智能帮你自动找寻关联](https://sspai.com/post/71093)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,7 @@
     </summary>
 
 
+* [【2022-01-31】 除夕为啥不是三十是廿九？两个世纪的数据告诉你](http://zhuanlan.zhihu.com/p/463364521?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-29】 早 C 晚 A 风很大，但用 VC 脸容易变黄，该怎么办？](http://www.zhihu.com/question/320451411/answer/2318207837?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-29】 开车回家，一个人开 1000 公里是一种什么样的体验？](http://www.zhihu.com/question/470105674/answer/2328885472?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-28】 RTX 3050 和 GTX 1660比怎么样，为什么我同学说他是智商检测卡?](http://www.zhihu.com/question/461380156/answer/2326616016?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,7 +82,6 @@
 * [【2022-01-28】 发现自己加班上瘾怎么办？](http://www.zhihu.com/question/509678375/answer/2326282351?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-27】 2022年有哪些值得购买的头戴式耳机？头戴式耳机终极对比测评与音质排名](http://zhuanlan.zhihu.com/p/65766648?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-27】 都说电动车让性能变得廉价，那为什么很多操控党还在留恋「汽油味」?](http://www.zhihu.com/question/513526361/answer/2326837461?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-01-27】 高速上车机系统死机或黑屏了要怎么办？](http://www.zhihu.com/question/511927934/answer/2326464453?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-01-31 05:11:56
+:alarm_clock: 更新时间: 2022-02-01 05:12:18

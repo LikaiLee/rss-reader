@@ -103,6 +103,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "史低诚可贵，Epic 券更香：各游戏平台春节优惠汇总",
+                "link": "https://sspai.com/post/71240",
+                "published": "2022-01-31"
+            },
+            {
                 "title": "派早报：少数派向读者拜年、你可能错过的小道消息等",
                 "link": "https://sspai.com/post/71243",
                 "published": "2022-01-31"
@@ -2338,7 +2343,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -32794,6 +32799,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "除夕为啥不是三十是廿九？两个世纪的数据告诉你",
+                "link": "http://zhuanlan.zhihu.com/p/463364521?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-01-31"
+            },
+            {
                 "title": "早 C 晚 A 风很大，但用 VC 脸容易变黄，该怎么办？",
                 "link": "http://www.zhihu.com/question/320451411/answer/2318207837?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-01-29"
@@ -34384,6 +34394,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
