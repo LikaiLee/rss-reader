@@ -2343,7 +2343,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
@@ -32799,6 +32799,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《长津湖之水门桥》中有哪不容忽视的细节？",
+                "link": "http://www.zhihu.com/question/514094381/answer/2331829720?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-01"
+            },
+            {
+                "title": "如何评价索尼互娱（PlayStation）将以 36 亿美元收购《命运》系列开放商 Bungie？",
+                "link": "http://www.zhihu.com/question/514287290/answer/2331697792?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-01"
+            },
+            {
                 "title": "除夕为啥不是三十是廿九？两个世纪的数据告诉你",
                 "link": "http://zhuanlan.zhihu.com/p/463364521?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-01-31"
@@ -34394,6 +34404,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     }
 ]

@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派)
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
 
 ## 文章链接
 
@@ -72,6 +72,8 @@
     </summary>
 
 
+* [【2022-02-01】 《长津湖之水门桥》中有哪不容忽视的细节？](http://www.zhihu.com/question/514094381/answer/2331829720?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-01】 如何评价索尼互娱（PlayStation）将以 36 亿美元收购《命运》系列开放商 Bungie？](http://www.zhihu.com/question/514287290/answer/2331697792?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-31】 除夕为啥不是三十是廿九？两个世纪的数据告诉你](http://zhuanlan.zhihu.com/p/463364521?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-29】 早 C 晚 A 风很大，但用 VC 脸容易变黄，该怎么办？](http://www.zhihu.com/question/320451411/answer/2318207837?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-29】 开车回家，一个人开 1000 公里是一种什么样的体验？](http://www.zhihu.com/question/470105674/answer/2328885472?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,8 +82,6 @@
 * [【2022-01-28】 2022 春节驾车出行有哪些需要注意的地方？有哪些东西可以提升驾车舒适度？](http://www.zhihu.com/question/511508376/answer/2328362103?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-28】 「过年，是中国人的集体记忆」，你的家乡有哪些充满回忆的地方？](http://www.zhihu.com/question/509979111/answer/2327877344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-28】 发现自己加班上瘾怎么办？](http://www.zhihu.com/question/509678375/answer/2326282351?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-01-27】 2022年有哪些值得购买的头戴式耳机？头戴式耳机终极对比测评与音质排名](http://zhuanlan.zhihu.com/p/65766648?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-01-27】 都说电动车让性能变得廉价，那为什么很多操控党还在留恋「汽油味」?](http://www.zhihu.com/question/513526361/answer/2326837461?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-02-01 05:12:18
+:alarm_clock: 更新时间: 2022-02-02 05:12:11
