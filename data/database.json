@@ -103,6 +103,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "推荐 19 款好玩有趣的桌游，让你的春节更添欢乐",
+                "link": "https://sspai.com/post/71265",
+                "published": "2022-02-03"
+            },
+            {
                 "title": "史低诚可贵，Epic 券更香：各游戏平台春节优惠汇总",
                 "link": "https://sspai.com/post/71240",
                 "published": "2022-01-31"
@@ -2343,7 +2348,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -34404,6 +34409,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     }
 ]

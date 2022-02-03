@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -34,6 +34,7 @@
     </summary>
 
 
+* [【2022-02-03】 推荐 19 款好玩有趣的桌游，让你的春节更添欢乐](https://sspai.com/post/71265)
 * [【2022-01-31】 史低诚可贵，Epic 券更香：各游戏平台春节优惠汇总](https://sspai.com/post/71240)
 * [【2022-01-31】 派早报：少数派向读者拜年、你可能错过的小道消息等](https://sspai.com/post/71243)
 * [【2022-01-30】 7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
@@ -43,7 +44,6 @@
 * [【2022-01-28】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/71211)
 * [【2022-01-28】 专事专办、无需流氓管家，你可以选择这些实用 Windows 小工具](https://sspai.com/post/71216)
 * [【2022-01-28】 从国产影视剧的发展史聊起，细数《开端》之外的那些国剧佳作](https://sspai.com/post/69353)
-* [【2022-01-28】 异地过好年，我的购物车里都有啥？](https://sspai.com/post/71161)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-02-02 05:12:11
+:alarm_clock: 更新时间: 2022-02-03 05:12:21
