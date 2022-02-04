@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "万兆家庭网络的时代",
+                "link": "http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html",
+                "published": "2022-02-04"
+            },
+            {
                 "title": "命令行常用工具的替代品",
                 "link": "http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html",
                 "published": "2022-01-28"
@@ -95,13 +100,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "年度征文 | 狂犬病自救指南",
+                "link": "https://sspai.com/post/71079",
+                "published": "2022-02-04"
+            },
+            {
+                "title": "新玩意 092｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/71269",
+                "published": "2022-02-03"
+            },
             {
                 "title": "推荐 19 款好玩有趣的桌游，让你的春节更添欢乐",
                 "link": "https://sspai.com/post/71265",
@@ -2348,7 +2363,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -32804,6 +32819,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价《画江湖之不良人》第 5 季第 4 集？",
+                "link": "http://www.zhihu.com/question/513676588/answer/2333525665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-03"
+            },
+            {
                 "title": "《长津湖之水门桥》中有哪不容忽视的细节？",
                 "link": "http://www.zhihu.com/question/514094381/answer/2331829720?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-02-01"
@@ -34409,6 +34429,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
