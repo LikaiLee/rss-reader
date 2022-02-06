@@ -108,6 +108,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文｜当我们谈论效率的时候，我们在谈论什么",
+                "link": "https://sspai.com/post/71159",
+                "published": "2022-02-06"
+            },
+            {
+                "title": "留下回忆不如试着带走：城市摄影不完全指南",
+                "link": "https://sspai.com/post/70638",
+                "published": "2022-02-05"
+            },
+            {
                 "title": "本周看什么丨最近值得一看的 7 部作品",
                 "link": "https://sspai.com/post/71282",
                 "published": "2022-02-04"
@@ -2368,7 +2378,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,

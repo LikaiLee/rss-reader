@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 
@@ -34,6 +34,8 @@
     </summary>
 
 
+* [【2022-02-06】 年度征文｜当我们谈论效率的时候，我们在谈论什么](https://sspai.com/post/71159)
+* [【2022-02-05】 留下回忆不如试着带走：城市摄影不完全指南](https://sspai.com/post/70638)
 * [【2022-02-04】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/71282)
 * [【2022-02-04】 年度征文 | 狂犬病自救指南](https://sspai.com/post/71079)
 * [【2022-02-03】 新玩意 092｜少数派的作者们最近买了啥？](https://sspai.com/post/71269)
@@ -42,8 +44,6 @@
 * [【2022-01-31】 派早报：少数派向读者拜年、你可能错过的小道消息等](https://sspai.com/post/71243)
 * [【2022-01-30】 7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
 * [【2022-01-30】 看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单](https://sspai.com/post/71209)
-* [【2022-01-29】 「蓝泡泡」的热闹与发短信的门道：从 iMessage 独占之争谈 5G 时代的短信](https://sspai.com/post/71226)
-* [【2022-01-29】 Keynote 贺卡制作指南：不懂设计也能做一张春节贺卡](https://sspai.com/post/71224)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-02-05 05:10:24
+:alarm_clock: 更新时间: 2022-02-06 05:11:27
