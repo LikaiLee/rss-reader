@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 
 ## 文章链接
 
@@ -34,6 +34,8 @@
     </summary>
 
 
+* [【2022-02-07】 大鱼大肉之后，记得呵护负重前行的「它」：你为什么需要湿厕纸](https://sspai.com/post/71301)
+* [【2022-02-06】 城市漫步指南｜口衔山石细，心望海波平——深圳湾公园漫步指南](https://sspai.com/post/71139)
 * [【2022-02-06】 年度征文｜当我们谈论效率的时候，我们在谈论什么](https://sspai.com/post/71159)
 * [【2022-02-05】 留下回忆不如试着带走：城市摄影不完全指南](https://sspai.com/post/70638)
 * [【2022-02-04】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/71282)
@@ -42,8 +44,6 @@
 * [【2022-02-03】 推荐 19 款好玩有趣的桌游，让你的春节更添欢乐](https://sspai.com/post/71265)
 * [【2022-01-31】 史低诚可贵，Epic 券更香：各游戏平台春节优惠汇总](https://sspai.com/post/71240)
 * [【2022-01-31】 派早报：少数派向读者拜年、你可能错过的小道消息等](https://sspai.com/post/71243)
-* [【2022-01-30】 7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
-* [【2022-01-30】 看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单](https://sspai.com/post/71209)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,8 @@
     </summary>
 
 
+* [【2022-02-06】 如何评价法国人做的游戏《SIFU》（《师父》）?](http://www.zhihu.com/question/447423013/answer/2337276558?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-06】 在游戏行业的专业人士眼里，游戏行业目前的情况如何？](http://www.zhihu.com/question/339348237/answer/2336320920?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-03】 如何评价《画江湖之不良人》第 5 季第 4 集？](http://www.zhihu.com/question/513676588/answer/2333525665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-01】 《长津湖之水门桥》中有哪不容忽视的细节？](http://www.zhihu.com/question/514094381/answer/2331829720?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-01】 如何评价索尼互娱（PlayStation）将以 36 亿美元收购《命运》系列开放商 Bungie？](http://www.zhihu.com/question/514287290/answer/2331697792?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,8 +82,6 @@
 * [【2022-01-29】 开车回家，一个人开 1000 公里是一种什么样的体验？](http://www.zhihu.com/question/470105674/answer/2328885472?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-28】 RTX 3050 和 GTX 1660比怎么样，为什么我同学说他是智商检测卡?](http://www.zhihu.com/question/461380156/answer/2326616016?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-01-28】 春节长途自驾回家是怎样一种体验？](http://www.zhihu.com/question/265769952/answer/2328376096?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-01-28】 2022 春节驾车出行有哪些需要注意的地方？有哪些东西可以提升驾车舒适度？](http://www.zhihu.com/question/511508376/answer/2328362103?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-01-28】 「过年，是中国人的集体记忆」，你的家乡有哪些充满回忆的地方？](http://www.zhihu.com/question/509979111/answer/2327877344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-02-06 05:11:27
+:alarm_clock: 更新时间: 2022-02-07 05:11:48
