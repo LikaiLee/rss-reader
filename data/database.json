@@ -108,6 +108,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 如何高效写出自己认可的文字？",
+                "link": "https://sspai.com/post/71105",
+                "published": "2022-02-08"
+            },
+            {
+                "title": "派早报：《纽约时报》收购 Wordle，索尼以 36 亿美元收购 Bungie 工作室等",
+                "link": "https://sspai.com/post/71314",
+                "published": "2022-02-08"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/71305",
+                "published": "2022-02-07"
+            },
+            {
+                "title": "看什么 Café丨新的一年找寻过往记忆：聊聊胶片电影的「4K 修复」",
+                "link": "https://sspai.com/post/71115",
+                "published": "2022-02-07"
+            },
+            {
                 "title": "大鱼大肉之后，记得呵护负重前行的「它」：你为什么需要湿厕纸",
                 "link": "https://sspai.com/post/71301",
                 "published": "2022-02-07"
@@ -2388,7 +2408,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -32844,6 +32864,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价《紫川》动画第 9 集的帝林行为？",
+                "link": "http://www.zhihu.com/question/515346314/answer/2339092090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-08"
+            },
+            {
+                "title": "冬奥百科 ｜​双板自由式滑雪",
+                "link": "http://zhuanlan.zhihu.com/p/464369979?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-08"
+            },
+            {
+                "title": "跑高速 120 km/h 的速度，误触「电子手刹」，结果会怎么样？",
+                "link": "http://www.zhihu.com/question/343600404/answer/864909500?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-07"
+            },
+            {
+                "title": "游戏《师父》（sifu）里有哪些中国文化相关的元素？",
+                "link": "http://www.zhihu.com/question/515160745/answer/2337897881?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-07"
+            },
+            {
+                "title": "游戏《师父》里有哪些有趣的细节？",
+                "link": "http://www.zhihu.com/question/515160903/answer/2337922917?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-07"
+            },
+            {
                 "title": "如何评价法国人做的游戏《SIFU》（《师父》）?",
                 "link": "http://www.zhihu.com/question/447423013/answer/2337276558?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-02-06"
@@ -34464,6 +34509,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     }
 ]
