@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+4】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-02-10】 《异度神剑 3》正式公布！任天堂直面会消息汇总](https://sspai.com/post/71352)
+* [【2022-02-10】 派早报：三星发布 S22 系列手机、任天堂召开直面会等](https://sspai.com/post/71350)
+* [【2022-02-10】 四边等宽的 Galaxy、披着 S 之名的 Note：三星 Galaxy Unpacked 看点汇总](https://sspai.com/post/71348)
+* [【2022-02-09】 一日一技 | 使用快捷指令为 Mac 随机更换 Unsplash 壁纸](https://sspai.com/post/71295)
+* [【2022-02-09】 实用而有趣的浏览器扩展，我们又为你找到了这 9 款](https://sspai.com/post/71336)
+* [【2022-02-09】 年度征文 | 践行极简理念，高效数字生活](https://sspai.com/post/71200)
 * [【2022-02-09】 挑一台二手笔记本之前，需要做好哪些功课？](https://sspai.com/post/71260)
 * [【2022-02-09】 派早报：英伟达收购 ARM 交易终止、英特尔加入 RISC-V 国际基金会等](https://sspai.com/post/71332)
 * [【2022-02-08】 Charles 抓包实战指南——以获取新浪彩票 API 并制作捷径为例](https://sspai.com/prime/story/charles-sina-lottery-tutorial)
 * [【2022-02-08】 上班也要继续看比赛：北京冬奥观赛指南](https://sspai.com/post/71278)
-* [【2022-02-08】 本月玩什么 | 艾尔登法环、地平线西之绝境、师父](https://sspai.com/post/71307)
-* [【2022-02-08】 亲情无断片，网络不掉线——我的家庭网络改造小记](https://sspai.com/post/71258)
-* [【2022-02-08】 年度征文 | 如何高效写出自己认可的文字？](https://sspai.com/post/71105)
-* [【2022-02-08】 派早报：《纽约时报》收购 Wordle，索尼以 36 亿美元收购 Bungie 工作室等](https://sspai.com/post/71314)
-* [【2022-02-07】 派评 | 近期值得关注的 App](https://sspai.com/post/71305)
-* [【2022-02-07】 看什么 Café丨新的一年找寻过往记忆：聊聊胶片电影的「4K 修复」](https://sspai.com/post/71115)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,16 +72,16 @@
     </summary>
 
 
+* [【2022-02-10】 2022 北京冬奥会单板滑雪男子坡面障碍技巧苏翊鸣夺得银牌，如何评价本场比赛？](http://www.zhihu.com/question/515162903/answer/2341275759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-09】 游戏商业化的又一重大创新——详解Battle Pass](http://zhuanlan.zhihu.com/p/80189971?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-09】 普通人可以参加培训成为业余赛车手吗？](http://www.zhihu.com/question/268115304/answer/2332442079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-09】 【小知识】汽车底盘调教-初览](http://zhuanlan.zhihu.com/p/464700398?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-09】 汽车底盘调教-初览](http://zhuanlan.zhihu.com/p/464700398?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-08】 如何评价《紫川》动画第 9 集的帝林行为？](http://www.zhihu.com/question/515346314/answer/2339541559?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-08】 如何评价《紫川》动画第 9 集的帝林行为？](http://www.zhihu.com/question/515346314/answer/2339092090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-08】 冬奥百科 ｜​双板自由式滑雪](http://zhuanlan.zhihu.com/p/464369979?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-07】 跑高速 120 km/h 的速度，误触「电子手刹」，结果会怎么样？](http://www.zhihu.com/question/343600404/answer/864909500?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-07】 游戏《师父》（sifu）里有哪些中国文化相关的元素？](http://www.zhihu.com/question/515160745/answer/2337897881?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-07】 游戏《师父》里有哪些有趣的细节？](http://www.zhihu.com/question/515160903/answer/2337922917?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-06】 如何评价法国人做的游戏《SIFU》（《师父》）?](http://www.zhihu.com/question/447423013/answer/2337276558?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-06】 在游戏行业的专业人士眼里，游戏行业目前的情况如何？](http://www.zhihu.com/question/339348237/answer/2336320920?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-03】 如何评价《画江湖之不良人》第 5 季第 4 集？](http://www.zhihu.com/question/513676588/answer/2333525665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-02-09 05:11:51
+:alarm_clock: 更新时间: 2022-02-10 05:12:33
