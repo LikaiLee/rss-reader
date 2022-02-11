@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 194 期）：悲观者正确，乐观者成功",
+                "link": "http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html",
+                "published": "2022-02-11"
+            },
+            {
                 "title": "万兆家庭网络的时代",
                 "link": "http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html",
                 "published": "2022-02-04"
@@ -100,13 +105,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "年度征文 | 咖啡这门生意，见证形形色色的生活趣事",
+                "link": "https://sspai.com/post/71248",
+                "published": "2022-02-11"
+            },
+            {
+                "title": "派早报：CalDigit 推出 TS 4 扩展坞、Google 发布首个 Android 13 开发者测试版",
+                "link": "https://sspai.com/post/71370",
+                "published": "2022-02-11"
+            },
+            {
+                "title": "新玩意 093｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/71361",
+                "published": "2022-02-10"
+            },
+            {
+                "title": "年度征文｜对生孩子这件事情的思考",
+                "link": "https://sspai.com/post/71210",
+                "published": "2022-02-10"
+            },
             {
                 "title": "《异度神剑 3》正式公布！任天堂直面会消息汇总",
                 "link": "https://sspai.com/post/71352",
@@ -2468,7 +2493,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -32923,6 +32948,26 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "是什么决定了汽车的「豪华感」？",
+                "link": "http://www.zhihu.com/question/397690793/answer/2343071142?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-11"
+            },
+            {
+                "title": "现在为什么很少有人去创作古典音乐了？",
+                "link": "http://www.zhihu.com/question/510243982/answer/2342985445?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-11"
+            },
+            {
+                "title": "奔驰 C 级在 2021 下半年月销量未过万，似乎也低于 A4L/3系，奔驰是在 BBA 里落伍了吗？",
+                "link": "http://www.zhihu.com/question/515544187/answer/2342630541?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-11"
+            },
+            {
+                "title": "中国冰球队一堆归化球员，为什么没有像男足一样引发大量争议？",
+                "link": "http://www.zhihu.com/question/514069482/answer/2342673838?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-10"
+            },
             {
                 "title": "2022 北京冬奥会单板滑雪男子坡面障碍技巧苏翊鸣夺得银牌，如何评价本场比赛？",
                 "link": "http://www.zhihu.com/question/515162903/answer/2341275759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",

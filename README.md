@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+4】
 
@@ -15,6 +15,7 @@
     </summary>
 
 
+* [【2022-02-11】 科技爱好者周刊（第 194 期）：悲观者正确，乐观者成功](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html)
 * [【2022-02-04】 万兆家庭网络的时代](http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html)
 * [【2022-01-28】 命令行常用工具的替代品](http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html)
 * [【2022-01-21】 科技爱好者周刊（第 193 期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html)
@@ -24,7 +25,6 @@
 * [【2021-12-24】 科技爱好者周刊（第 189 期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html)
 * [【2021-12-17】 科技爱好者周刊（第 188 期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html)
 * [【2021-12-10】 科技爱好者周刊（第 187 期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html)
-* [【2021-12-07】 为什么 Web3 与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-02-11】 年度征文 | 咖啡这门生意，见证形形色色的生活趣事](https://sspai.com/post/71248)
+* [【2022-02-11】 派早报：CalDigit 推出 TS 4 扩展坞、Google 发布首个 Android 13 开发者测试版](https://sspai.com/post/71370)
+* [【2022-02-10】 新玩意 093｜少数派的编辑们最近买了啥？](https://sspai.com/post/71361)
+* [【2022-02-10】 年度征文｜对生孩子这件事情的思考](https://sspai.com/post/71210)
 * [【2022-02-10】 《异度神剑 3》正式公布！任天堂直面会消息汇总](https://sspai.com/post/71352)
 * [【2022-02-10】 派早报：三星发布 S22 系列手机、任天堂召开直面会等](https://sspai.com/post/71350)
 * [【2022-02-10】 四边等宽的 Galaxy、披着 S 之名的 Note：三星 Galaxy Unpacked 看点汇总](https://sspai.com/post/71348)
 * [【2022-02-09】 一日一技 | 使用快捷指令为 Mac 随机更换 Unsplash 壁纸](https://sspai.com/post/71295)
 * [【2022-02-09】 实用而有趣的浏览器扩展，我们又为你找到了这 9 款](https://sspai.com/post/71336)
 * [【2022-02-09】 年度征文 | 践行极简理念，高效数字生活](https://sspai.com/post/71200)
-* [【2022-02-09】 挑一台二手笔记本之前，需要做好哪些功课？](https://sspai.com/post/71260)
-* [【2022-02-09】 派早报：英伟达收购 ARM 交易终止、英特尔加入 RISC-V 国际基金会等](https://sspai.com/post/71332)
-* [【2022-02-08】 Charles 抓包实战指南——以获取新浪彩票 API 并制作捷径为例](https://sspai.com/prime/story/charles-sina-lottery-tutorial)
-* [【2022-02-08】 上班也要继续看比赛：北京冬奥观赛指南](https://sspai.com/post/71278)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,16 +72,16 @@
     </summary>
 
 
+* [【2022-02-11】 是什么决定了汽车的「豪华感」？](http://www.zhihu.com/question/397690793/answer/2343071142?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-11】 现在为什么很少有人去创作古典音乐了？](http://www.zhihu.com/question/510243982/answer/2342985445?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-11】 奔驰 C 级在 2021 下半年月销量未过万，似乎也低于 A4L/3系，奔驰是在 BBA 里落伍了吗？](http://www.zhihu.com/question/515544187/answer/2342630541?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-10】 中国冰球队一堆归化球员，为什么没有像男足一样引发大量争议？](http://www.zhihu.com/question/514069482/answer/2342673838?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-10】 2022 北京冬奥会单板滑雪男子坡面障碍技巧苏翊鸣夺得银牌，如何评价本场比赛？](http://www.zhihu.com/question/515162903/answer/2341275759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-09】 游戏商业化的又一重大创新——详解Battle Pass](http://zhuanlan.zhihu.com/p/80189971?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-09】 普通人可以参加培训成为业余赛车手吗？](http://www.zhihu.com/question/268115304/answer/2332442079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-09】 【小知识】汽车底盘调教-初览](http://zhuanlan.zhihu.com/p/464700398?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-09】 汽车底盘调教-初览](http://zhuanlan.zhihu.com/p/464700398?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-08】 如何评价《紫川》动画第 9 集的帝林行为？](http://www.zhihu.com/question/515346314/answer/2339541559?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-08】 如何评价《紫川》动画第 9 集的帝林行为？](http://www.zhihu.com/question/515346314/answer/2339092090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-08】 冬奥百科 ｜​双板自由式滑雪](http://zhuanlan.zhihu.com/p/464369979?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-07】 跑高速 120 km/h 的速度，误触「电子手刹」，结果会怎么样？](http://www.zhihu.com/question/343600404/answer/864909500?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-07】 游戏《师父》（sifu）里有哪些中国文化相关的元素？](http://www.zhihu.com/question/515160745/answer/2337897881?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-02-10 05:12:33
+:alarm_clock: 更新时间: 2022-02-11 05:11:48
