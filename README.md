@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-02-12】 任天堂 2022 春季直面会之后，我们为你带来了这份「种 / 拔草」参考建议](https://sspai.com/post/71354)
+* [【2022-02-11】 本周看什么丨最近值得一看的 6 部作品](https://sspai.com/post/71382)
+* [【2022-02-11】 舆论翻车后的救场之作，谷歌的定向广告新招干净又卫生了吗？](https://sspai.com/post/71372)
+* [【2022-02-11】 巧用分类法解决使用卡片笔记时遇到的困境](https://sspai.com/post/71274)
 * [【2022-02-11】 年度征文 | 咖啡这门生意，见证形形色色的生活趣事](https://sspai.com/post/71248)
 * [【2022-02-11】 派早报：CalDigit 推出 TS 4 扩展坞、Google 发布首个 Android 13 开发者测试版](https://sspai.com/post/71370)
 * [【2022-02-10】 新玩意 093｜少数派的编辑们最近买了啥？](https://sspai.com/post/71361)
 * [【2022-02-10】 年度征文｜对生孩子这件事情的思考](https://sspai.com/post/71210)
 * [【2022-02-10】 《异度神剑 3》正式公布！任天堂直面会消息汇总](https://sspai.com/post/71352)
 * [【2022-02-10】 派早报：三星发布 S22 系列手机、任天堂召开直面会等](https://sspai.com/post/71350)
-* [【2022-02-10】 四边等宽的 Galaxy、披着 S 之名的 Note：三星 Galaxy Unpacked 看点汇总](https://sspai.com/post/71348)
-* [【2022-02-09】 一日一技 | 使用快捷指令为 Mac 随机更换 Unsplash 壁纸](https://sspai.com/post/71295)
-* [【2022-02-09】 实用而有趣的浏览器扩展，我们又为你找到了这 9 款](https://sspai.com/post/71336)
-* [【2022-02-09】 年度征文 | 践行极简理念，高效数字生活](https://sspai.com/post/71200)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,7 @@
     </summary>
 
 
+* [【2022-02-11】 2 月 14 日是情人节，世界上有哪些著名的「景点 CP」？](http://www.zhihu.com/question/515916748/answer/2343881832?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-11】 是什么决定了汽车的「豪华感」？](http://www.zhihu.com/question/397690793/answer/2343071142?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-11】 现在为什么很少有人去创作古典音乐了？](http://www.zhihu.com/question/510243982/answer/2342985445?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-11】 奔驰 C 级在 2021 下半年月销量未过万，似乎也低于 A4L/3系，奔驰是在 BBA 里落伍了吗？](http://www.zhihu.com/question/515544187/answer/2342630541?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,7 +82,6 @@
 * [【2022-02-09】 普通人可以参加培训成为业余赛车手吗？](http://www.zhihu.com/question/268115304/answer/2332442079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-09】 【小知识】汽车底盘调教-初览](http://zhuanlan.zhihu.com/p/464700398?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-09】 汽车底盘调教-初览](http://zhuanlan.zhihu.com/p/464700398?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-08】 如何评价《紫川》动画第 9 集的帝林行为？](http://www.zhihu.com/question/515346314/answer/2339541559?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-02-11 05:11:48
+:alarm_clock: 更新时间: 2022-02-12 05:11:24
