@@ -113,6 +113,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 手机相册里的香江",
+                "link": "https://sspai.com/post/71075",
+                "published": "2022-02-13"
+            },
+            {
+                "title": "译文 | 字体小变动，心境大不同：为什么我用加拉蒙码字",
+                "link": "https://sspai.com/post/71369",
+                "published": "2022-02-12"
+            },
+            {
                 "title": "任天堂 2022 春季直面会之后，我们为你带来了这份「种 / 拔草」参考建议",
                 "link": "https://sspai.com/post/71354",
                 "published": "2022-02-12"
@@ -2513,7 +2523,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -34669,6 +34679,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
