@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+38】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-02-15】 年度征文 | 写作，是一种生活方式](https://sspai.com/post/71272)
+* [【2022-02-15】 派早报：Surface Laptop Studio 国行开始预售、微信车载版已支持 15 家汽车厂商等](https://sspai.com/post/71451)
+* [【2022-02-14】 派评 | 近期值得关注的 App](https://sspai.com/post/71434)
+* [【2022-02-14】 少数派 App 大更新，我们为你准备了一份专属内容拼盘：派读](https://sspai.com/post/71409)
+* [【2022-02-14】 不买可以先收藏 10：选对行车记录仪，和路上的「麻烦」坦然交手](https://sspai.com/post/71421)
 * [【2022-02-14】 用一张价值 3000 元的纸是什么感受？这是我的 reMarkable 2 体验报告](https://sspai.com/post/71294)
 * [【2022-02-14】 派早报：西数铠侠存储产能受损、英特尔将推出低功耗挖矿芯片等](https://sspai.com/post/71408)
 * [【2022-02-13】 具透 | Android 版本上演「三代同堂」：Android 13 DP1 都更新了什么？](https://sspai.com/post/71407)
 * [【2022-02-13】 年度征文 | 手机相册里的香江](https://sspai.com/post/71075)
 * [【2022-02-12】 译文 | 字体小变动，心境大不同：为什么我用加拉蒙码字](https://sspai.com/post/71369)
-* [【2022-02-12】 任天堂 2022 春季直面会之后，我们为你带来了这份「种 / 拔草」参考建议](https://sspai.com/post/71354)
-* [【2022-02-11】 本周看什么丨最近值得一看的 6 部作品](https://sspai.com/post/71382)
-* [【2022-02-11】 舆论翻车后的救场之作，谷歌的定向广告新招干净又卫生了吗？](https://sspai.com/post/71372)
-* [【2022-02-11】 巧用分类法解决使用卡片笔记时遇到的困境](https://sspai.com/post/71274)
-* [【2022-02-11】 年度征文 | 咖啡这门生意，见证形形色色的生活趣事](https://sspai.com/post/71248)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,16 +72,16 @@
     </summary>
 
 
-* [【2022-02-14】 自由式滑雪中的空中技巧、雪上技巧、大跳台、U 型场地技巧、坡面障碍技巧和障碍追逐有什么区别？](http://www.zhihu.com/question/514744198/answer/2342356439?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-14】 新能源车的未来如何充电？](http://www.zhihu.com/question/515604205/answer/2346801891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-13】 谷爱凌参加的自由式滑雪女子坡面障碍技巧资格赛因天气原因推迟至 14 日进行，下雪对比赛的影响有多大？](http://www.zhihu.com/question/516294593/answer/2346582999?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-11】 2 月 14 日是情人节，世界上有哪些著名的「景点 CP」？](http://www.zhihu.com/question/515916748/answer/2343881832?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-11】 是什么决定了汽车的「豪华感」？](http://www.zhihu.com/question/397690793/answer/2343071142?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-11】 现在为什么很少有人去创作古典音乐了？](http://www.zhihu.com/question/510243982/answer/2342985445?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-11】 奔驰 C 级在 2021 下半年月销量未过万，似乎也低于 A4L/3系，奔驰是在 BBA 里落伍了吗？](http://www.zhihu.com/question/515544187/answer/2342630541?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-10】 中国冰球队一堆归化球员，为什么没有像男足一样引发大量争议？](http://www.zhihu.com/question/514069482/answer/2342673838?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-10】 2022 北京冬奥会单板滑雪男子坡面障碍技巧苏翊鸣夺得银牌，如何评价本场比赛？](http://www.zhihu.com/question/515162903/answer/2341275759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-09】 游戏商业化的又一重大创新——详解Battle Pass](http://zhuanlan.zhihu.com/p/80189971?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-15】 出国劳务在日本打工到底有多累？](http://www.zhihu.com/question/32162636/answer/1768073868?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-15】 波士顿咨询(BCG）的企业文化是怎样的，推荐应届生加入吗？](http://www.zhihu.com/question/496888574/answer/2321056769?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-15】 波士顿咨询(BCG）的企业文化是怎样的，推荐应届生加入吗？](http://www.zhihu.com/question/496888574/answer/2318806313?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-15】 如何看待公司被税务稽查这件事？](http://www.zhihu.com/question/23930242/answer/1581513505?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-15】 让人离开投资银行的原因都有哪些？](http://www.zhihu.com/question/24609295/answer/2297963591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-15】 企业并购是如何创造价值的？](http://www.zhihu.com/question/489529707/answer/2305812924?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-15】 如何能使「中国制造」达到「德国制造」的水平？](http://www.zhihu.com/question/19551117/answer/2311197881?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-15】 从劳动参与率看美国就业市场复苏态势，未来美国经济发展趋势如何？](http://www.zhihu.com/question/511552506/answer/2326511554?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-15】 国内大型证券公司投行比较？](http://www.zhihu.com/question/38008546/answer/2247225797?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-15】 当你进入金融行业时有什么惊人的发现？](http://www.zhihu.com/question/362891450/answer/2277846982?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-02-14 05:12:38
+:alarm_clock: 更新时间: 2022-02-15 05:12:45
