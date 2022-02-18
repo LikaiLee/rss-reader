@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？",
+                "link": "http://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html",
+                "published": "2022-02-18"
+            },
+            {
                 "title": "科技爱好者周刊（第 194 期）：悲观者正确，乐观者成功",
                 "link": "http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html",
                 "published": "2022-02-11"
@@ -105,13 +110,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "年度征文｜不要对生活妥协，用极客精神在 4 平米的空间中活出精彩",
+                "link": "https://sspai.com/post/70764",
+                "published": "2022-02-18"
+            },
+            {
+                "title": "派早报：红魔游戏手机 7 系列正式发布、微软发布 Windows 11 Dev 预览版 22557",
+                "link": "https://sspai.com/post/71510",
+                "published": "2022-02-18"
+            },
+            {
+                "title": "新玩意 094｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/71502",
+                "published": "2022-02-17"
+            },
+            {
+                "title": "处理器简史 03 | 红蓝厂亦敌亦友，蓝巨人失算踉跄",
+                "link": "https://sspai.com/prime/story/sv-anecdotes-03",
+                "published": "2022-02-17"
+            },
+            {
+                "title": "争议与反复背后，Google 的「隐私沙盒」究竟想解决什么问题？",
+                "link": "https://sspai.com/post/71499",
+                "published": "2022-02-17"
+            },
+            {
+                "title": "把鼠标手势玩出花：macOS / Windows 效率工具 WGestures 2",
+                "link": "https://sspai.com/post/71475",
+                "published": "2022-02-17"
+            },
             {
                 "title": "年度征文｜感情里的酸甜苦辣，换个角度也是一门生活必修课",
                 "link": "https://sspai.com/post/71315",
@@ -2613,7 +2648,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -33069,6 +33104,46 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "Facebook 的工程师文化中有哪些值得中国互联网创业者借鉴学习的？",
+                "link": "http://www.zhihu.com/question/19789676/answer/2352120063?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-18"
+            },
+            {
+                "title": "像一拳超人一样用拳风将一座山吹毁要用多大力?",
+                "link": "http://www.zhihu.com/question/440895332/answer/2325952652?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-18"
+            },
+            {
+                "title": "什么会导致边缘性人格障碍的产生？",
+                "link": "http://www.zhihu.com/question/329850834/answer/2353219014?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-18"
+            },
+            {
+                "title": "如何看待心动的大乱斗游戏《Flash Party》登顶苹果商店（日区）免费下载榜第一？",
+                "link": "http://www.zhihu.com/question/517121372/answer/2352905552?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-17"
+            },
+            {
+                "title": "《境界触发者》漫画214-215话细节分析",
+                "link": "http://zhuanlan.zhihu.com/p/430861963?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-17"
+            },
+            {
+                "title": "境界触发者漫画218-219话分析",
+                "link": "http://zhuanlan.zhihu.com/p/464612114?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-17"
+            },
+            {
+                "title": "盘式制动器活塞是否越多越好？",
+                "link": "http://zhuanlan.zhihu.com/p/468121915?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-17"
+            },
+            {
+                "title": "据消息小鹏汽车宣布拓展欧洲市场，对此你你认为该品牌汽车在欧洲市场前景如何？",
+                "link": "http://www.zhihu.com/question/515931951/answer/2352029496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-17"
+            },
+            {
                 "title": "如何评价《画江湖之不良人》第 5 季第 6 集？",
                 "link": "http://www.zhihu.com/question/516510217/answer/2351873901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-02-17"
@@ -35049,6 +35124,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 13
+        "new_feeds": 8
     }
 ]
