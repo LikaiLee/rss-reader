@@ -110,13 +110,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "物理学者眼中的《开端》——时间循环的物理学原理",
+                "link": "https://sspai.com/post/71157",
+                "published": "2022-02-19"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/71525",
+                "published": "2022-02-18"
+            },
+            {
+                "title": "成年人的玩具梦：Why Adults Play？",
+                "link": "https://sspai.com/post/71458",
+                "published": "2022-02-18"
+            },
+            {
+                "title": "App+1 | 无需数据线和电脑，它让 Android 玩机更轻松：LADB",
+                "link": "https://sspai.com/post/71355",
+                "published": "2022-02-18"
+            },
             {
                 "title": "年度征文｜不要对生活妥协，用极客精神在 4 平米的空间中活出精彩",
                 "link": "https://sspai.com/post/70764",
@@ -2648,7 +2668,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -33104,6 +33124,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价动画电影《我们的冬奥》？",
+                "link": "http://www.zhihu.com/question/511627455/answer/2354057481?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-18"
+            },
+            {
+                "title": "基金研究：文献综述 (I)",
+                "link": "http://zhuanlan.zhihu.com/p/469122368?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-18"
+            },
+            {
+                "title": "如何评价漫画《一人之下》565（601）?",
+                "link": "http://www.zhihu.com/question/517183446/answer/2353784744?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-18"
+            },
+            {
+                "title": "如何评价港漫《大唐双龙传》？",
+                "link": "http://www.zhihu.com/question/517099546/answer/2353745336?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-18"
+            },
+            {
+                "title": "对于新手来说，来一场说走就走的露营需要做哪些准备？",
+                "link": "http://www.zhihu.com/question/516604487/answer/2353842361?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-18"
+            },
+            {
                 "title": "Facebook 的工程师文化中有哪些值得中国互联网创业者借鉴学习的？",
                 "link": "http://www.zhihu.com/question/19789676/answer/2352120063?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-02-18"
@@ -35124,6 +35169,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 5
     }
 ]
