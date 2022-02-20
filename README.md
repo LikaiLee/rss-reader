@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+5】
+* [知乎每日精选](#知乎每日精选) 【+22】
 
 ## 文章链接
 
@@ -34,6 +34,8 @@
     </summary>
 
 
+* [【2022-02-20】 不满意于现有书签工具，我做了一个专属自己的网址导航](https://sspai.com/post/71555)
+* [【2022-02-19】 年度征文 | 重塑读书笔记：Obsidian 下的图书阅读](https://sspai.com/post/71405)
 * [【2022-02-19】 物理学者眼中的《开端》——时间循环的物理学原理](https://sspai.com/post/71157)
 * [【2022-02-18】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/71525)
 * [【2022-02-18】 成年人的玩具梦：Why Adults Play？](https://sspai.com/post/71458)
@@ -42,8 +44,6 @@
 * [【2022-02-18】 派早报：红魔游戏手机 7 系列正式发布、微软发布 Windows 11 Dev 预览版 22557](https://sspai.com/post/71510)
 * [【2022-02-17】 新玩意 094｜少数派的编辑们最近买了啥？](https://sspai.com/post/71502)
 * [【2022-02-17】 处理器简史 03 | 红蓝厂亦敌亦友，蓝巨人失算踉跄](https://sspai.com/prime/story/sv-anecdotes-03)
-* [【2022-02-17】 争议与反复背后，Google 的「隐私沙盒」究竟想解决什么问题？](https://sspai.com/post/71499)
-* [【2022-02-17】 把鼠标手势玩出花：macOS / Windows 效率工具 WGestures 2](https://sspai.com/post/71475)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,16 +72,16 @@
     </summary>
 
 
-* [【2022-02-18】 如何评价动画电影《我们的冬奥》？](http://www.zhihu.com/question/511627455/answer/2354057481?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-18】 基金研究：文献综述 (I)](http://zhuanlan.zhihu.com/p/469122368?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-18】 如何评价漫画《一人之下》565（601）?](http://www.zhihu.com/question/517183446/answer/2353784744?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-18】 如何评价港漫《大唐双龙传》？](http://www.zhihu.com/question/517099546/answer/2353745336?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-18】 对于新手来说，来一场说走就走的露营需要做哪些准备？](http://www.zhihu.com/question/516604487/answer/2353842361?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-18】 Facebook 的工程师文化中有哪些值得中国互联网创业者借鉴学习的？](http://www.zhihu.com/question/19789676/answer/2352120063?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-18】 像一拳超人一样用拳风将一座山吹毁要用多大力?](http://www.zhihu.com/question/440895332/answer/2325952652?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-18】 什么会导致边缘性人格障碍的产生？](http://www.zhihu.com/question/329850834/answer/2353219014?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-17】 如何看待心动的大乱斗游戏《Flash Party》登顶苹果商店（日区）免费下载榜第一？](http://www.zhihu.com/question/517121372/answer/2352905552?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-17】 《境界触发者》漫画214-215话细节分析](http://zhuanlan.zhihu.com/p/430861963?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-20】 2021 年，哪些金融学论文让你印象深刻？](http://www.zhihu.com/question/461125440/answer/2246662659?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-20】 2021 年，哪些金融学论文让你印象深刻？](http://www.zhihu.com/question/461125440/answer/2253292198?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-20】 统计学和计量经济学有什么区别？](http://www.zhihu.com/question/24622808/answer/2342953361?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-20】 聊聊学术投资：学术研究可否变现？](http://zhuanlan.zhihu.com/p/146196220?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-20】 【002基金研究】被“错误分类”的债券基金](http://zhuanlan.zhihu.com/p/424685116?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-20】 概率的应用Ⅰ: 随机应答问卷调查(Randomised Response Survey) 和 哈迪温伯格定律(Hardy-Weinberg Law)](http://zhuanlan.zhihu.com/p/28969179?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-20】 概率的应用Ⅱ：赌徒破产问题 (Gambler's Ruin Problem) 和 赛车投注 (Motor Racing Betting)](http://zhuanlan.zhihu.com/p/29406623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-20】 了解最基础的统计建模](http://zhuanlan.zhihu.com/p/29892231?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-20】 参数估计：最大似然估计 (Maximum Likelihood Method - MLM)](http://zhuanlan.zhihu.com/p/30983666?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-20】 参数估计：最大似然估计 (Maximum Likelihood Method - MLM) Ⅱ](http://zhuanlan.zhihu.com/p/34221289?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-02-19 05:11:52
+:alarm_clock: 更新时间: 2022-02-20 05:12:04

@@ -118,6 +118,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不满意于现有书签工具，我做了一个专属自己的网址导航",
+                "link": "https://sspai.com/post/71555",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "年度征文 | 重塑读书笔记：Obsidian 下的图书阅读",
+                "link": "https://sspai.com/post/71405",
+                "published": "2022-02-19"
+            },
+            {
                 "title": "物理学者眼中的《开端》——时间循环的物理学原理",
                 "link": "https://sspai.com/post/71157",
                 "published": "2022-02-19"
@@ -2668,7 +2678,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -33124,6 +33134,116 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2021 年，哪些金融学论文让你印象深刻？",
+                "link": "http://www.zhihu.com/question/461125440/answer/2246662659?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "2021 年，哪些金融学论文让你印象深刻？",
+                "link": "http://www.zhihu.com/question/461125440/answer/2253292198?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "统计学和计量经济学有什么区别？",
+                "link": "http://www.zhihu.com/question/24622808/answer/2342953361?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "聊聊学术投资：学术研究可否变现？",
+                "link": "http://zhuanlan.zhihu.com/p/146196220?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "【002基金研究】被“错误分类”的债券基金",
+                "link": "http://zhuanlan.zhihu.com/p/424685116?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "概率的应用Ⅰ: 随机应答问卷调查(Randomised Response Survey) 和 哈迪温伯格定律(Hardy-Weinberg Law)",
+                "link": "http://zhuanlan.zhihu.com/p/28969179?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "概率的应用Ⅱ：赌徒破产问题 (Gambler's Ruin Problem) 和 赛车投注 (Motor Racing Betting)",
+                "link": "http://zhuanlan.zhihu.com/p/29406623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "了解最基础的统计建模",
+                "link": "http://zhuanlan.zhihu.com/p/29892231?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "参数估计：最大似然估计 (Maximum Likelihood Method - MLM)",
+                "link": "http://zhuanlan.zhihu.com/p/30983666?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "参数估计：最大似然估计 (Maximum Likelihood Method - MLM) Ⅱ",
+                "link": "http://zhuanlan.zhihu.com/p/34221289?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "伊斯兰教是否制约了经济增长？",
+                "link": "http://www.zhihu.com/question/39373123/answer/261241046?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "如何评价《基本无害的计量经济学》一书？",
+                "link": "http://www.zhihu.com/question/36262210/answer/2329786784?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "ctr 校准",
+                "link": "http://zhuanlan.zhihu.com/p/448209476?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "读《重排序在快手短视频推荐系统中的演进》有感",
+                "link": "http://zhuanlan.zhihu.com/p/466241740?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "主流经济学以「资源稀缺」为假设，那么资源为何稀缺?",
+                "link": "http://www.zhihu.com/question/513788862/answer/2328005146?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "如何运用经济学的原理指导生活中的方方面面？",
+                "link": "http://www.zhihu.com/question/477214589/answer/2101804660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "哪一位实证经济学家（empirical/appied）最具影响力？",
+                "link": "http://www.zhihu.com/question/296101427/answer/499978436?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "哪一位实证经济学家（empirical/appied）最具影响力？",
+                "link": "http://www.zhihu.com/question/296101427/answer/500289668?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "如何评价动画电影《我们的冬奥》？",
+                "link": "http://www.zhihu.com/question/511627455/answer/2355205678?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "如何评价动画电影《我们的冬奥》？",
+                "link": "http://www.zhihu.com/question/511627455/answer/2354785177?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "如何评价动画电影《我们的冬奥》？",
+                "link": "http://www.zhihu.com/question/511627455/answer/2354964518?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "如何评价动画电影《我们的冬奥》？",
+                "link": "http://www.zhihu.com/question/511627455/answer/2354793178?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
                 "title": "如何评价动画电影《我们的冬奥》？",
                 "link": "http://www.zhihu.com/question/511627455/answer/2354057481?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-02-18"
@@ -35169,6 +35289,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 22
     }
 ]
