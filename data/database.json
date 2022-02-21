@@ -118,6 +118,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "macOS 免费轻量级截图工具 Shottr，帮你滚动截长图、量像素、取色、OCR",
+                "link": "https://sspai.com/post/71485",
+                "published": "2022-02-21"
+            },
+            {
+                "title": "派早报：英特尔公布产品路线图，特斯拉指责美证监会「骚扰」马斯克",
+                "link": "https://sspai.com/post/71565",
+                "published": "2022-02-21"
+            },
+            {
+                "title": "看什么 · 特别篇丨冬奥会比赛没看够？我们为你准备了一份冰雪运动片单",
+                "link": "https://sspai.com/post/71554",
+                "published": "2022-02-20"
+            },
+            {
                 "title": "不满意于现有书签工具，我做了一个专属自己的网址导航",
                 "link": "https://sspai.com/post/71555",
                 "published": "2022-02-20"
@@ -2678,7 +2693,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -33134,6 +33149,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价电影《奇迹·笨小孩》？",
+                "link": "http://www.zhihu.com/question/513091988/answer/2356004749?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-21"
+            },
+            {
+                "title": "在你心里中国最美的春天在哪里？",
+                "link": "http://www.zhihu.com/question/517325660/answer/2357116931?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-21"
+            },
+            {
+                "title": "赛车为什么需要高下压力？",
+                "link": "http://www.zhihu.com/question/517188690/answer/2356269802?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
+                "title": "历史上有哪些名人是另一个名人的「脑残粉」？",
+                "link": "http://www.zhihu.com/question/24386698/answer/2345304506?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-20"
+            },
+            {
                 "title": "2021 年，哪些金融学论文让你印象深刻？",
                 "link": "http://www.zhihu.com/question/461125440/answer/2246662659?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-02-20"
@@ -35289,6 +35324,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 22
+        "new_feeds": 4
     }
 ]
