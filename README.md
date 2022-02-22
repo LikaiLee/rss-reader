@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+5】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-02-22】 你也总是放不下手机？这是我的破局之路](https://sspai.com/post/71545)
+* [【2022-02-22】 派早报：《元宇宙产业自律公约》正式发布，新黑莓手机制造公司关闭等](https://sspai.com/post/71592)
+* [【2022-02-21】 派评 | 近期值得关注的 App](https://sspai.com/post/71584)
+* [【2022-02-21】 万兆无线路由器，真的能跑万兆无线网吗 | 科普](https://sspai.com/post/71581)
+* [【2022-02-21】 年度征文 | 复盘，我的小户型的装修备忘录](https://sspai.com/post/71343)
 * [【2022-02-21】 macOS 免费轻量级截图工具 Shottr，帮你滚动截长图、量像素、取色、OCR](https://sspai.com/post/71485)
 * [【2022-02-21】 派早报：英特尔公布产品路线图，特斯拉指责美证监会「骚扰」马斯克](https://sspai.com/post/71565)
 * [【2022-02-20】 看什么 · 特别篇丨冬奥会比赛没看够？我们为你准备了一份冰雪运动片单](https://sspai.com/post/71554)
 * [【2022-02-20】 不满意于现有书签工具，我做了一个专属自己的网址导航](https://sspai.com/post/71555)
 * [【2022-02-19】 年度征文 | 重塑读书笔记：Obsidian 下的图书阅读](https://sspai.com/post/71405)
-* [【2022-02-19】 物理学者眼中的《开端》——时间循环的物理学原理](https://sspai.com/post/71157)
-* [【2022-02-18】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/71525)
-* [【2022-02-18】 成年人的玩具梦：Why Adults Play？](https://sspai.com/post/71458)
-* [【2022-02-18】 App+1 | 无需数据线和电脑，它让 Android 玩机更轻松：LADB](https://sspai.com/post/71355)
-* [【2022-02-18】 年度征文｜不要对生活妥协，用极客精神在 4 平米的空间中活出精彩](https://sspai.com/post/70764)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,16 +72,16 @@
     </summary>
 
 
+* [【2022-02-22】 国内4-10人独立游戏团队想要借助steam平台存活，作品平均至少要卖到多少份？](http://www.zhihu.com/question/60895931/answer/181740486?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-21】 F1 赛事中的「幻影进站」是什么意思？](http://www.zhihu.com/question/511826289/answer/2317804327?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-21】 漫谈：独立音乐及其历史与理念](http://zhuanlan.zhihu.com/p/470252142?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-21】 目前国产车和特斯拉等国际知名品牌汽车的自动驾驶技术有多大差距？可以相比吗？](http://www.zhihu.com/question/432871280/answer/2357340347?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-21】 如何评价动画《新秦时明月》第 14 集大结局？](http://www.zhihu.com/question/516894392/answer/2352633760?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-21】 如何评价电影《奇迹·笨小孩》？](http://www.zhihu.com/question/513091988/answer/2356004749?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-21】 在你心里中国最美的春天在哪里？](http://www.zhihu.com/question/517325660/answer/2357116931?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-20】 赛车为什么需要高下压力？](http://www.zhihu.com/question/517188690/answer/2356269802?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-20】 历史上有哪些名人是另一个名人的「脑残粉」？](http://www.zhihu.com/question/24386698/answer/2345304506?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-20】 2021 年，哪些金融学论文让你印象深刻？](http://www.zhihu.com/question/461125440/answer/2246662659?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-20】 2021 年，哪些金融学论文让你印象深刻？](http://www.zhihu.com/question/461125440/answer/2253292198?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-20】 统计学和计量经济学有什么区别？](http://www.zhihu.com/question/24622808/answer/2342953361?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-20】 聊聊学术投资：学术研究可否变现？](http://zhuanlan.zhihu.com/p/146196220?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-20】 【002基金研究】被“错误分类”的债券基金](http://zhuanlan.zhihu.com/p/424685116?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-20】 概率的应用Ⅰ: 随机应答问卷调查(Randomised Response Survey) 和 哈迪温伯格定律(Hardy-Weinberg Law)](http://zhuanlan.zhihu.com/p/28969179?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-02-21 05:12:50
+:alarm_clock: 更新时间: 2022-02-22 05:12:49
