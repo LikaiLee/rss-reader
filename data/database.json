@@ -118,6 +118,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "电动车到底为什么在涨价？",
+                "link": "https://sspai.com/post/71602",
+                "published": "2022-02-24"
+            },
+            {
+                "title": "派早报：英特尔正式推出 12 代酷睿移动处理器、特斯拉将引入 Steam 等",
+                "link": "https://sspai.com/post/71638",
+                "published": "2022-02-24"
+            },
+            {
+                "title": "一派·在线沙龙 06：在少数派当作者是什么样的体验？",
+                "link": "https://sspai.com/post/71603",
+                "published": "2022-02-23"
+            },
+            {
+                "title": "不读可以先收藏 08：派读好文抢先看",
+                "link": "https://sspai.com/post/71624",
+                "published": "2022-02-23"
+            },
+            {
+                "title": "成为一名合格的综合格斗观众：MMA 观赛指南",
+                "link": "https://sspai.com/post/71623",
+                "published": "2022-02-23"
+            },
+            {
+                "title": "Refresh 周报 #24：Chrome OS 也要玩游戏、Android 隐私沙盒等",
+                "link": "https://sspai.com/post/71620",
+                "published": "2022-02-23"
+            },
+            {
+                "title": "学会这些排版原则，帮你做好「幻灯片设计」",
+                "link": "https://sspai.com/post/71621",
+                "published": "2022-02-23"
+            },
+            {
                 "title": "Zoom 会议摸鱼学",
                 "link": "https://sspai.com/post/71404",
                 "published": "2022-02-23"
@@ -2748,7 +2783,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -33204,6 +33239,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "直播行业创造的不是简单的网红，而是新的企业家",
+                "link": "http://zhuanlan.zhihu.com/p/334824600?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-23"
+            },
+            {
                 "title": "亲眼见到银河是怎样的体验？",
                 "link": "http://www.zhihu.com/question/469139163/answer/1983962160?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-02-23"
@@ -35419,6 +35459,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     }
 ]
