@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 196 期）：掌机的未来",
+                "link": "http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html",
+                "published": "2022-02-25"
+            },
+            {
                 "title": "科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？",
                 "link": "http://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html",
                 "published": "2022-02-18"
@@ -110,13 +115,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "春节七天乐，SwiftUI 开发从入门到商店推荐：Becord 开发故事",
+                "link": "https://sspai.com/post/71593",
+                "published": "2022-02-25"
+            },
+            {
+                "title": "派早报：OPPO 举办春季新品发布会、佳能 EOS R5c 国行发布",
+                "link": "https://sspai.com/post/71668",
+                "published": "2022-02-25"
+            },
+            {
+                "title": "无线耳机不只 AirPods，我还想推荐音质「超能打」的它",
+                "link": "https://sspai.com/post/71605",
+                "published": "2022-02-24"
+            },
+            {
+                "title": "新玩意 095｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/71648",
+                "published": "2022-02-24"
+            },
+            {
+                "title": "求职遭遇全英文面试，我靠这些方法度过难关",
+                "link": "https://sspai.com/post/71647",
+                "published": "2022-02-24"
+            },
+            {
+                "title": "今年首款「满分神作」？《艾尔登法环》试玩体验报告",
+                "link": "https://sspai.com/post/71619",
+                "published": "2022-02-24"
+            },
             {
                 "title": "电动车到底为什么在涨价？",
                 "link": "https://sspai.com/post/71602",
@@ -2783,7 +2818,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -33239,6 +33274,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "为什么讨论极致跑车离不开路特斯？",
+                "link": "http://www.zhihu.com/question/517824705/answer/2363157711?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-25"
+            },
+            {
+                "title": "路特斯所代表的英国跑车文化跟保时捷代表的德国跑车文化有什么不同？",
+                "link": "http://www.zhihu.com/question/517812169/answer/2362896639?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-25"
+            },
+            {
+                "title": "漫谈缩表：美国的回购市场",
+                "link": "http://zhuanlan.zhihu.com/p/463721684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-25"
+            },
+            {
+                "title": "揭露财务造假之预付账款",
+                "link": "http://zhuanlan.zhihu.com/p/471924720?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-24"
+            },
+            {
+                "title": "车企开始纷纷进军手机行业，自己出手机对智能电动汽车生态有什么帮助？",
+                "link": "http://www.zhihu.com/question/518068361/answer/2361739691?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-24"
+            },
+            {
                 "title": "直播行业创造的不是简单的网红，而是新的企业家",
                 "link": "http://zhuanlan.zhihu.com/p/334824600?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-02-23"
@@ -35459,6 +35519,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 5
     }
 ]
