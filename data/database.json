@@ -115,13 +115,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "iPhone 上想拥有一个锁屏天气？不妨用上快捷指令和 Scriptable 自己实现",
+                "link": "https://sspai.com/post/71645",
+                "published": "2022-02-26"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/71681",
+                "published": "2022-02-25"
+            },
+            {
+                "title": "戴上耳机酷跑全球？Apple Fitness+ Time to Run 简评",
+                "link": "https://sspai.com/post/71627",
+                "published": "2022-02-25"
+            },
+            {
+                "title": "「颜值」即是生产力：聊聊那些好看又实用的黑白数码产品",
+                "link": "https://sspai.com/post/71639",
+                "published": "2022-02-25"
+            },
+            {
+                "title": "一键连接、电量提醒…… 为 Mac 补上缺失的蓝牙设备管理体验：AirBuddy",
+                "link": "https://sspai.com/post/71570",
+                "published": "2022-02-25"
+            },
             {
                 "title": "春节七天乐，SwiftUI 开发从入门到商店推荐：Becord 开发故事",
                 "link": "https://sspai.com/post/71593",
@@ -2818,7 +2843,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -33274,6 +33299,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "目前乌克兰局势动荡，乌克兰国内和附近国家（比如波兰）游戏公司们会受到影响吗？",
+                "link": "http://www.zhihu.com/question/518459260/answer/2362270635?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-25"
+            },
+            {
+                "title": "「打工人」模拟器国产独立游戏《大多数》上架 Steam，有哪些亮点值得关注？",
+                "link": "http://www.zhihu.com/question/504379982/answer/2304695443?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-25"
+            },
+            {
                 "title": "为什么讨论极致跑车离不开路特斯？",
                 "link": "http://www.zhihu.com/question/517824705/answer/2363157711?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-02-25"
@@ -35519,6 +35554,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     }
 ]
