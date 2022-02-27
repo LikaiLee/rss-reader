@@ -123,6 +123,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "寻找工作与生活的平衡：少数派「上班族关怀」专题",
+                "link": "https://sspai.com/post/71680",
+                "published": "2022-02-27"
+            },
+            {
+                "title": "年度征文｜2021 年，拥抱一个关于女孩的梦",
+                "link": "https://sspai.com/post/71349",
+                "published": "2022-02-26"
+            },
+            {
+                "title": "都 2022 年了，千篇一律的手机该怎么做出「差异」？",
+                "link": "https://sspai.com/post/71676",
+                "published": "2022-02-26"
+            },
+            {
                 "title": "iPhone 上想拥有一个锁屏天气？不妨用上快捷指令和 Scriptable 自己实现",
                 "link": "https://sspai.com/post/71645",
                 "published": "2022-02-26"
@@ -2843,7 +2858,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -33298,6 +33313,16 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "俄乌冲突以来，为什么数字货币一直在跌，是否有避险属性，如何理解数字货币在金融市场的作用?",
+                "link": "http://www.zhihu.com/question/518461362/answer/2364494644?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-26"
+            },
+            {
+                "title": "为什么讨论超级性能跑车离不开路特斯？",
+                "link": "http://www.zhihu.com/question/517824705/answer/2363157711?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-25"
+            },
             {
                 "title": "目前乌克兰局势动荡，乌克兰国内和附近国家（比如波兰）游戏公司们会受到影响吗？",
                 "link": "http://www.zhihu.com/question/518459260/answer/2362270635?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",

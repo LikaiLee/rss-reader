@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+2】
 
@@ -34,6 +34,9 @@
     </summary>
 
 
+* [【2022-02-27】 寻找工作与生活的平衡：少数派「上班族关怀」专题](https://sspai.com/post/71680)
+* [【2022-02-26】 年度征文｜2021 年，拥抱一个关于女孩的梦](https://sspai.com/post/71349)
+* [【2022-02-26】 都 2022 年了，千篇一律的手机该怎么做出「差异」？](https://sspai.com/post/71676)
 * [【2022-02-26】 iPhone 上想拥有一个锁屏天气？不妨用上快捷指令和 Scriptable 自己实现](https://sspai.com/post/71645)
 * [【2022-02-25】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/71681)
 * [【2022-02-25】 戴上耳机酷跑全球？Apple Fitness+ Time to Run 简评](https://sspai.com/post/71627)
@@ -41,9 +44,6 @@
 * [【2022-02-25】 一键连接、电量提醒…… 为 Mac 补上缺失的蓝牙设备管理体验：AirBuddy](https://sspai.com/post/71570)
 * [【2022-02-25】 春节七天乐，SwiftUI 开发从入门到商店推荐：Becord 开发故事](https://sspai.com/post/71593)
 * [【2022-02-25】 派早报：OPPO 举办春季新品发布会、佳能 EOS R5c 国行发布](https://sspai.com/post/71668)
-* [【2022-02-24】 无线耳机不只 AirPods，我还想推荐音质「超能打」的它](https://sspai.com/post/71605)
-* [【2022-02-24】 新玩意 095｜少数派的作者们最近买了啥？](https://sspai.com/post/71648)
-* [【2022-02-24】 求职遭遇全英文面试，我靠这些方法度过难关](https://sspai.com/post/71647)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,8 @@
     </summary>
 
 
+* [【2022-02-26】 俄乌冲突以来，为什么数字货币一直在跌，是否有避险属性，如何理解数字货币在金融市场的作用?](http://www.zhihu.com/question/518461362/answer/2364494644?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-25】 为什么讨论超级性能跑车离不开路特斯？](http://www.zhihu.com/question/517824705/answer/2363157711?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-25】 目前乌克兰局势动荡，乌克兰国内和附近国家（比如波兰）游戏公司们会受到影响吗？](http://www.zhihu.com/question/518459260/answer/2362270635?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-25】 「打工人」模拟器国产独立游戏《大多数》上架 Steam，有哪些亮点值得关注？](http://www.zhihu.com/question/504379982/answer/2304695443?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-25】 为什么讨论极致跑车离不开路特斯？](http://www.zhihu.com/question/517824705/answer/2363157711?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,8 +82,6 @@
 * [【2022-02-24】 揭露财务造假之预付账款](http://zhuanlan.zhihu.com/p/471924720?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-24】 车企开始纷纷进军手机行业，自己出手机对智能电动汽车生态有什么帮助？](http://www.zhihu.com/question/518068361/answer/2361739691?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-23】 直播行业创造的不是简单的网红，而是新的企业家](http://zhuanlan.zhihu.com/p/334824600?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-23】 亲眼见到银河是怎样的体验？](http://www.zhihu.com/question/469139163/answer/1983962160?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-23】 BMW i4 上市，售价 44.99万 - 53.99 万元，市场前景如何？](http://www.zhihu.com/question/517993482/answer/2359806271?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-02-26 05:12:17
+:alarm_clock: 更新时间: 2022-02-27 05:12:49
