@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+2】
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-02-28】 年度征文 | 节时提效，用飞书妙记提升学习体验](https://sspai.com/post/70960)
+* [【2022-02-28】 派早报：Steam Deck 首批评测出炉；多平台就国际局势讨论提出倡议](https://sspai.com/post/71725)
+* [【2022-02-27】 了解这些小技巧，今晚开始努力睡个好觉](https://sspai.com/post/71679)
+* [【2022-02-27】 年轻人的体检指南 01：体检在检查什么](https://sspai.com/post/71677)
+* [【2022-02-27】 直面「猝死」这个话题：你需要了解哪些知识？](https://sspai.com/post/71678)
+* [【2022-02-27】 睡得少、赚得多，但这里没人喜欢 996](https://sspai.com/prime/story/vol03-the-966-story)
 * [【2022-02-27】 寻找工作与生活的平衡：少数派「上班族关怀」专题](https://sspai.com/post/71680)
 * [【2022-02-26】 年度征文｜2021 年，拥抱一个关于女孩的梦](https://sspai.com/post/71349)
 * [【2022-02-26】 都 2022 年了，千篇一律的手机该怎么做出「差异」？](https://sspai.com/post/71676)
 * [【2022-02-26】 iPhone 上想拥有一个锁屏天气？不妨用上快捷指令和 Scriptable 自己实现](https://sspai.com/post/71645)
-* [【2022-02-25】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/71681)
-* [【2022-02-25】 戴上耳机酷跑全球？Apple Fitness+ Time to Run 简评](https://sspai.com/post/71627)
-* [【2022-02-25】 「颜值」即是生产力：聊聊那些好看又实用的黑白数码产品](https://sspai.com/post/71639)
-* [【2022-02-25】 一键连接、电量提醒…… 为 Mac 补上缺失的蓝牙设备管理体验：AirBuddy](https://sspai.com/post/71570)
-* [【2022-02-25】 春节七天乐，SwiftUI 开发从入门到商店推荐：Becord 开发故事](https://sspai.com/post/71593)
-* [【2022-02-25】 派早报：OPPO 举办春季新品发布会、佳能 EOS R5c 国行发布](https://sspai.com/post/71668)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,8 @@
     </summary>
 
 
+* [【2022-02-28】 为什么有的赛车起步时会翘车头？](http://www.zhihu.com/question/21132322/answer/2366495819?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-02-28】 甘南有哪些比较有创意的旅行线路以及攻略？](http://www.zhihu.com/question/482390844/answer/2367287358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-26】 俄乌冲突以来，为什么数字货币一直在跌，是否有避险属性，如何理解数字货币在金融市场的作用?](http://www.zhihu.com/question/518461362/answer/2364494644?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-25】 为什么讨论超级性能跑车离不开路特斯？](http://www.zhihu.com/question/517824705/answer/2363157711?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-25】 目前乌克兰局势动荡，乌克兰国内和附近国家（比如波兰）游戏公司们会受到影响吗？](http://www.zhihu.com/question/518459260/answer/2362270635?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,8 +82,6 @@
 * [【2022-02-25】 路特斯所代表的英国跑车文化跟保时捷代表的德国跑车文化有什么不同？](http://www.zhihu.com/question/517812169/answer/2362896639?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-25】 漫谈缩表：美国的回购市场](http://zhuanlan.zhihu.com/p/463721684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-24】 揭露财务造假之预付账款](http://zhuanlan.zhihu.com/p/471924720?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-24】 车企开始纷纷进军手机行业，自己出手机对智能电动汽车生态有什么帮助？](http://www.zhihu.com/question/518068361/answer/2361739691?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-23】 直播行业创造的不是简单的网红，而是新的企业家](http://zhuanlan.zhihu.com/p/334824600?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-02-27 05:12:49
+:alarm_clock: 更新时间: 2022-02-28 05:12:58

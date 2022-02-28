@@ -123,6 +123,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 节时提效，用飞书妙记提升学习体验",
+                "link": "https://sspai.com/post/70960",
+                "published": "2022-02-28"
+            },
+            {
+                "title": "派早报：Steam Deck 首批评测出炉；多平台就国际局势讨论提出倡议",
+                "link": "https://sspai.com/post/71725",
+                "published": "2022-02-28"
+            },
+            {
+                "title": "了解这些小技巧，今晚开始努力睡个好觉",
+                "link": "https://sspai.com/post/71679",
+                "published": "2022-02-27"
+            },
+            {
+                "title": "年轻人的体检指南 01：体检在检查什么",
+                "link": "https://sspai.com/post/71677",
+                "published": "2022-02-27"
+            },
+            {
+                "title": "直面「猝死」这个话题：你需要了解哪些知识？",
+                "link": "https://sspai.com/post/71678",
+                "published": "2022-02-27"
+            },
+            {
+                "title": "睡得少、赚得多，但这里没人喜欢 996",
+                "link": "https://sspai.com/prime/story/vol03-the-966-story",
+                "published": "2022-02-27"
+            },
+            {
                 "title": "寻找工作与生活的平衡：少数派「上班族关怀」专题",
                 "link": "https://sspai.com/post/71680",
                 "published": "2022-02-27"
@@ -2858,7 +2888,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -33313,6 +33343,16 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "为什么有的赛车起步时会翘车头？",
+                "link": "http://www.zhihu.com/question/21132322/answer/2366495819?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-28"
+            },
+            {
+                "title": "甘南有哪些比较有创意的旅行线路以及攻略？",
+                "link": "http://www.zhihu.com/question/482390844/answer/2367287358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-28"
+            },
             {
                 "title": "俄乌冲突以来，为什么数字货币一直在跌，是否有避险属性，如何理解数字货币在金融市场的作用?",
                 "link": "http://www.zhihu.com/question/518461362/answer/2364494644?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
