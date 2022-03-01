@@ -123,6 +123,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 在沙龙与艺术之间跑来跑去 —— 独立摄影师创作指南",
+                "link": "https://sspai.com/post/71374",
+                "published": "2022-03-01"
+            },
+            {
+                "title": "派早报：华为发布 Mate40E Pro 5G、微信支付宝将新设「个人经营收款码」等",
+                "link": "https://sspai.com/post/71769",
+                "published": "2022-03-01"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/71749",
+                "published": "2022-02-28"
+            },
+            {
+                "title": "想要开启自己创作之旅？这份写作建议为你助力",
+                "link": "https://sspai.com/post/71724",
+                "published": "2022-02-28"
+            },
+            {
+                "title": "年度征文 | 我是如何艰难地克服「效率成瘾」的？",
+                "link": "https://sspai.com/post/71518",
+                "published": "2022-02-28"
+            },
+            {
+                "title": "互联网反垄断怎么就变热了？——与反垄断律师对谈",
+                "link": "https://sspai.com/post/71738",
+                "published": "2022-02-28"
+            },
+            {
                 "title": "年度征文 | 节时提效，用飞书妙记提升学习体验",
                 "link": "https://sspai.com/post/70960",
                 "published": "2022-02-28"
@@ -33344,6 +33374,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "未来3-5年，国产厂商在自动驾驶领域会实现哪些突破？",
+                "link": "http://www.zhihu.com/question/401592483/answer/2368577926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-01"
+            },
+            {
+                "title": "鸡蛋在中国人的食材里面是什么地位？",
+                "link": "http://www.zhihu.com/question/288273712/answer/2368304645?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-28"
+            },
+            {
+                "title": "如何评价游戏《SIFU》（师父）的结局？",
+                "link": "http://www.zhihu.com/question/516125655/answer/2367773891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-28"
+            },
+            {
+                "title": "游戏《艾尔登法环》有哪些技巧？",
+                "link": "http://www.zhihu.com/question/518456865/answer/2367584543?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-02-28"
+            },
+            {
                 "title": "为什么有的赛车起步时会翘车头？",
                 "link": "http://www.zhihu.com/question/21132322/answer/2366495819?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-02-28"
@@ -35619,6 +35669,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     }
 ]
