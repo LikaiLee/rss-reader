@@ -123,6 +123,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 放弃纠结、拥抱妥协，重器轻用就是高效",
+                "link": "https://sspai.com/post/71576",
+                "published": "2022-03-02"
+            },
+            {
+                "title": "派早报：联发科发布天玑 8000 系列移动平台、VESA 针对 DP 2.0 产品推出认证等",
+                "link": "https://sspai.com/post/71781",
+                "published": "2022-03-02"
+            },
+            {
+                "title": "年度征文 | 打工人如何每周用两小时准备一周食材",
+                "link": "https://sspai.com/post/70146",
+                "published": "2022-03-01"
+            },
+            {
+                "title": "玩 FPS 游戏，手柄还是键鼠？",
+                "link": "https://sspai.com/post/71659",
+                "published": "2022-03-01"
+            },
+            {
+                "title": "会员播客试听 | 让文字和音乐再靠近一点：和街声聊聊独立音乐与版权",
+                "link": "https://sspai.com/post/71777",
+                "published": "2022-03-01"
+            },
+            {
+                "title": "年度征文｜我有一只柴犬，名叫爱丽丝",
+                "link": "https://sspai.com/post/71496",
+                "published": "2022-03-01"
+            },
+            {
+                "title": "译文 | 过去 12 年里，我的生产力工具只是一个 .txt 文件",
+                "link": "https://sspai.com/post/71705",
+                "published": "2022-03-01"
+            },
+            {
                 "title": "年度征文 | 在沙龙与艺术之间跑来跑去 —— 独立摄影师创作指南",
                 "link": "https://sspai.com/post/71374",
                 "published": "2022-03-01"
@@ -2918,7 +2953,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -33374,6 +33409,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何看待腾讯、字节、快手成为2021年用户使用时长最长的移动互联网产品，互联网下一波机会在哪些领域？",
+                "link": "http://www.zhihu.com/question/518501824/answer/2368685727?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-01"
+            },
+            {
+                "title": "如何选择一款适合自己的轮胎？",
+                "link": "http://www.zhihu.com/question/389977356/answer/2369542477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-01"
+            },
+            {
                 "title": "未来3-5年，国产厂商在自动驾驶领域会实现哪些突破？",
                 "link": "http://www.zhihu.com/question/401592483/answer/2368577926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-03-01"
@@ -35669,6 +35714,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     }
 ]

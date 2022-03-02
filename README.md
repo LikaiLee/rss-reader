@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+2】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-03-02】 年度征文 | 放弃纠结、拥抱妥协，重器轻用就是高效](https://sspai.com/post/71576)
+* [【2022-03-02】 派早报：联发科发布天玑 8000 系列移动平台、VESA 针对 DP 2.0 产品推出认证等](https://sspai.com/post/71781)
+* [【2022-03-01】 年度征文 | 打工人如何每周用两小时准备一周食材](https://sspai.com/post/70146)
+* [【2022-03-01】 玩 FPS 游戏，手柄还是键鼠？](https://sspai.com/post/71659)
+* [【2022-03-01】 会员播客试听 | 让文字和音乐再靠近一点：和街声聊聊独立音乐与版权](https://sspai.com/post/71777)
+* [【2022-03-01】 年度征文｜我有一只柴犬，名叫爱丽丝](https://sspai.com/post/71496)
+* [【2022-03-01】 译文 | 过去 12 年里，我的生产力工具只是一个 .txt 文件](https://sspai.com/post/71705)
 * [【2022-03-01】 年度征文 | 在沙龙与艺术之间跑来跑去 —— 独立摄影师创作指南](https://sspai.com/post/71374)
 * [【2022-03-01】 派早报：华为发布 Mate40E Pro 5G、微信支付宝将新设「个人经营收款码」等](https://sspai.com/post/71769)
 * [【2022-02-28】 派评 | 近期值得关注的 App](https://sspai.com/post/71749)
-* [【2022-02-28】 想要开启自己创作之旅？这份写作建议为你助力](https://sspai.com/post/71724)
-* [【2022-02-28】 年度征文 | 我是如何艰难地克服「效率成瘾」的？](https://sspai.com/post/71518)
-* [【2022-02-28】 互联网反垄断怎么就变热了？——与反垄断律师对谈](https://sspai.com/post/71738)
-* [【2022-02-28】 年度征文 | 节时提效，用飞书妙记提升学习体验](https://sspai.com/post/70960)
-* [【2022-02-28】 派早报：Steam Deck 首批评测出炉；多平台就国际局势讨论提出倡议](https://sspai.com/post/71725)
-* [【2022-02-27】 了解这些小技巧，今晚开始努力睡个好觉](https://sspai.com/post/71679)
-* [【2022-02-27】 年轻人的体检指南 01：体检在检查什么](https://sspai.com/post/71677)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,8 @@
     </summary>
 
 
+* [【2022-03-01】 如何看待腾讯、字节、快手成为2021年用户使用时长最长的移动互联网产品，互联网下一波机会在哪些领域？](http://www.zhihu.com/question/518501824/answer/2368685727?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-01】 如何选择一款适合自己的轮胎？](http://www.zhihu.com/question/389977356/answer/2369542477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-03-01】 未来3-5年，国产厂商在自动驾驶领域会实现哪些突破？](http://www.zhihu.com/question/401592483/answer/2368577926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-28】 鸡蛋在中国人的食材里面是什么地位？](http://www.zhihu.com/question/288273712/answer/2368304645?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-28】 如何评价游戏《SIFU》（师父）的结局？](http://www.zhihu.com/question/516125655/answer/2367773891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,8 +82,6 @@
 * [【2022-02-28】 甘南有哪些比较有创意的旅行线路以及攻略？](http://www.zhihu.com/question/482390844/answer/2367287358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-26】 俄乌冲突以来，为什么数字货币一直在跌，是否有避险属性，如何理解数字货币在金融市场的作用?](http://www.zhihu.com/question/518461362/answer/2364494644?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-02-25】 为什么讨论超级性能跑车离不开路特斯？](http://www.zhihu.com/question/517824705/answer/2363157711?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-25】 目前乌克兰局势动荡，乌克兰国内和附近国家（比如波兰）游戏公司们会受到影响吗？](http://www.zhihu.com/question/518459260/answer/2362270635?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-02-25】 「打工人」模拟器国产独立游戏《大多数》上架 Steam，有哪些亮点值得关注？](http://www.zhihu.com/question/504379982/answer/2304695443?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-03-01 05:14:00
+:alarm_clock: 更新时间: 2022-03-02 05:12:47
