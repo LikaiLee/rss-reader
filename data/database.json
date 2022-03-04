@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 197 期）：如果这个世界有快乐机",
+                "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html",
+                "published": "2022-03-04"
+            },
+            {
                 "title": "科技爱好者周刊（第 196 期）：掌机的未来",
                 "link": "http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html",
                 "published": "2022-02-25"
@@ -115,13 +120,53 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "年度征文 | 海南打工记",
+                "link": "https://sspai.com/post/71720",
+                "published": "2022-03-04"
+            },
+            {
+                "title": "派早报：vivo 高端子品牌 NEX 撤销、Epic Games 收购音乐平台 Bandcamp",
+                "link": "https://sspai.com/post/71837",
+                "published": "2022-03-04"
+            },
+            {
+                "title": "年度征文 | 你听说过猫界《我不是药神》的故事吗？",
+                "link": "https://sspai.com/post/70920",
+                "published": "2022-03-03"
+            },
+            {
+                "title": "新玩意 096｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/71826",
+                "published": "2022-03-03"
+            },
+            {
+                "title": "用快捷指令将 Safari 标签页导出为文本链接",
+                "link": "https://sspai.com/prime/story/safari-export-links",
+                "published": "2022-03-03"
+            },
+            {
+                "title": "少数派会员三月更新：全新的文章展示和公告系统来啦",
+                "link": "https://sspai.com/post/71791",
+                "published": "2022-03-03"
+            },
+            {
+                "title": "年度征文 | 也许生活本该碎片化：聊聊 flomo 这款工具如何改变我的生活",
+                "link": "https://sspai.com/post/71673",
+                "published": "2022-03-03"
+            },
+            {
+                "title": "年度征文 | 何以为家——从一次装修聊到我对「家」的看法",
+                "link": "https://sspai.com/post/71746",
+                "published": "2022-03-03"
+            },
             {
                 "title": "年度征文｜写作六年，我终于摸索出一套适合自己的高效写作方式",
                 "link": "https://sspai.com/post/71654",
@@ -2988,7 +3033,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 8
     },
     {
         "id": 2,
@@ -33444,6 +33489,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "在乌克兰的众多博物馆中有哪些重要的馆藏作品？战火中，艺术品会面临怎样的风险？",
+                "link": "http://www.zhihu.com/question/518636519/answer/2372871116?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-03"
+            },
+            {
+                "title": "如何评价《画江湖之不良人》第 5 季第 8 集？",
+                "link": "http://www.zhihu.com/question/517086941/answer/2372198436?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-03"
+            },
+            {
                 "title": "如何评价国产动画《少年歌行 风花雪月篇》23 集（下部第 7 集）？",
                 "link": "http://www.zhihu.com/question/519578224/answer/2370511503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-03-03"
@@ -35784,6 +35839,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 2
     }
 ]
