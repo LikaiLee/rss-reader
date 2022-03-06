@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+7】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -34,6 +34,9 @@
     </summary>
 
 
+* [【2022-03-06】 年度征文｜逃离豆瓣，用飞书搭建自己的资料库](https://sspai.com/post/71766)
+* [【2022-03-05】 iPhone SE、iPad Air、新款 Mac…… 下周的 Apple 发布会可能有这些看点](https://sspai.com/post/71832)
+* [【2022-03-05】 《光环：无限》多人对战浮与沉](https://sspai.com/post/71835)
 * [【2022-03-05】 年度征文 | 今天开始享受无聊](https://sspai.com/post/70209)
 * [【2022-03-04】 本周看什么丨最近值得一看的 8 部作品](https://sspai.com/post/71846)
 * [【2022-03-04】 Heptabase：面向未来的知识操作系统](https://sspai.com/post/71842)
@@ -41,9 +44,6 @@
 * [【2022-03-04】 Matrix 专栏导读 01：卡片笔记写作法与数字生活](https://sspai.com/post/71836)
 * [【2022-03-04】 年度征文｜从「用高射炮打蚊子」到「用高射炮精准打蚊子」](https://sspai.com/post/71562)
 * [【2022-03-04】 把你的童年找回来：复古游戏设备入坑指南](https://sspai.com/post/71758)
-* [【2022-03-04】 年度征文 | 海南打工记](https://sspai.com/post/71720)
-* [【2022-03-04】 派早报：vivo 高端子品牌 NEX 撤销、Epic Games 收购音乐平台 Bandcamp](https://sspai.com/post/71837)
-* [【2022-03-03】 年度征文 | 你听说过猫界《我不是药神》的故事吗？](https://sspai.com/post/70920)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-03-05 05:12:01
+:alarm_clock: 更新时间: 2022-03-06 05:12:39

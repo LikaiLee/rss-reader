@@ -128,6 +128,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文｜逃离豆瓣，用飞书搭建自己的资料库",
+                "link": "https://sspai.com/post/71766",
+                "published": "2022-03-06"
+            },
+            {
+                "title": "iPhone SE、iPad Air、新款 Mac…… 下周的 Apple 发布会可能有这些看点",
+                "link": "https://sspai.com/post/71832",
+                "published": "2022-03-05"
+            },
+            {
+                "title": "《光环：无限》多人对战浮与沉",
+                "link": "https://sspai.com/post/71835",
+                "published": "2022-03-05"
+            },
+            {
                 "title": "年度征文 | 今天开始享受无聊",
                 "link": "https://sspai.com/post/70209",
                 "published": "2022-03-05"
@@ -3068,7 +3083,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -35894,6 +35909,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 0
     }
 ]
