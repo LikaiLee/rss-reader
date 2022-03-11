@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 198 期）：美国制造是否可能",
+                "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html",
+                "published": "2022-03-11"
+            },
+            {
                 "title": "科技爱好者周刊（第 197 期）：如果这个世界有快乐机",
                 "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html",
                 "published": "2022-03-04"
@@ -120,13 +125,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "软硬件双管齐下，旧回忆栩栩如生——我的老照片数码化心得",
+                "link": "https://sspai.com/post/71669",
+                "published": "2022-03-11"
+            },
+            {
+                "title": "派早报：AMD 确认 Ryzen 处理器会导致 Windows 间歇性卡顿、Studio Display 可以配合 PC 使用",
+                "link": "https://sspai.com/post/71991",
+                "published": "2022-03-11"
+            },
+            {
+                "title": "新玩意 097｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/71977",
+                "published": "2022-03-10"
+            },
+            {
+                "title": "价值 15 美元的第三方 Android 启动器，究竟好用在哪里？",
+                "link": "https://sspai.com/post/71818",
+                "published": "2022-03-10"
+            },
+            {
+                "title": "我这里只能让它变长一点：我与富士「电老虎」的七年之痒",
+                "link": "https://sspai.com/post/64336",
+                "published": "2022-03-10"
+            },
             {
                 "title": "当听障者遇见骨传导：韶音 OpenRun Pro 体验",
                 "link": "https://sspai.com/post/71889",
@@ -33644,6 +33674,71 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "NEDC、WLTP、EPA 三种续航工况计算方式有什么区别？哪个对消费者更具参考价值？",
+                "link": "http://www.zhihu.com/question/520432531/answer/2384107159?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-11"
+            },
+            {
+                "title": "《少年Jump》历史前20的作品排行榜应该怎么排？",
+                "link": "http://www.zhihu.com/question/520027181/answer/2375181576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-11"
+            },
+            {
+                "title": "都说特斯拉汽车的电池好，到底好在哪里？",
+                "link": "http://www.zhihu.com/question/520435159/answer/2383819257?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-11"
+            },
+            {
+                "title": "大众发布电动面包车 ID.BUZZ，带有诸多 T1 元素，该款电动 MPV 还有哪些值得关注的地方？",
+                "link": "http://www.zhihu.com/question/521084132/answer/2383445677?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-11"
+            },
+            {
+                "title": "LME 为何取消 3 月 8 日及以后的镍交易，会带来怎样的深远影响？",
+                "link": "http://www.zhihu.com/question/520801629/answer/2382981642?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-10"
+            },
+            {
+                "title": "身处南北方交界处，四季分明，买电车究竟是买三元锂电池还是磷酸铁锂电池？",
+                "link": "http://www.zhihu.com/question/520427647/answer/2382205686?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-10"
+            },
+            {
+                "title": "许多电池都宣传「不起火」，现在的技术可以真的不起火吗？为什么还时有发生起火的情况？",
+                "link": "http://www.zhihu.com/question/520430637/answer/2382417067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-10"
+            },
+            {
+                "title": "甲醛有可能在短时间内彻底去除吗？",
+                "link": "http://www.zhihu.com/question/520420693/answer/2382899046?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-10"
+            },
+            {
+                "title": "甲醛重灾区只存在于家具板材吗？",
+                "link": "http://www.zhihu.com/question/520043296/answer/2381062750?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-10"
+            },
+            {
+                "title": "甲醛重灾区只存在于家具板材吗？",
+                "link": "http://www.zhihu.com/question/520043296/answer/2380925107?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-10"
+            },
+            {
+                "title": "大众发布电动面包车 ID.BUZZ，带有诸多 T1 元素，该款电动 MPV 还有哪些值得关注的地方？",
+                "link": "http://www.zhihu.com/question/521084132/answer/2382685149?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-10"
+            },
+            {
+                "title": "繁育涉保鹦鹉卖 380 元有可能判十年，最终不予起诉；争议背后，有哪些法律细节值得关注？",
+                "link": "http://www.zhihu.com/question/519987830/answer/2382399850?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-10"
+            },
+            {
+                "title": "如何评价《画江湖之不良人》第 5 季第 9  集？",
+                "link": "http://www.zhihu.com/question/519830352/answer/2382566123?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-10"
+            },
+            {
                 "title": "艰难一跃 | 从美联储走过的弯路看我国货币政策框架改革（笔记012)",
                 "link": "http://zhuanlan.zhihu.com/p/323600594?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-03-10"
@@ -36124,6 +36219,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 13
     }
 ]

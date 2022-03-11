@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+10】
+* [知乎每日精选](#知乎每日精选) 【+13】
 
 ## 文章链接
 
@@ -15,6 +15,7 @@
     </summary>
 
 
+* [【2022-03-11】 科技爱好者周刊（第 198 期）：美国制造是否可能](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)
 * [【2022-03-04】 科技爱好者周刊（第 197 期）：如果这个世界有快乐机](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)
 * [【2022-02-25】 科技爱好者周刊（第 196 期）：掌机的未来](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html)
 * [【2022-02-18】 科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html)
@@ -24,7 +25,6 @@
 * [【2022-01-21】 科技爱好者周刊（第 193 期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html)
 * [【2022-01-14】 科技爱好者周刊（第 192 期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html)
 * [【2022-01-07】 科技爱好者周刊（第 191 期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)
-* [【2021-12-31】 科技爱好者周刊（第 190 期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-03-11】 软硬件双管齐下，旧回忆栩栩如生——我的老照片数码化心得](https://sspai.com/post/71669)
+* [【2022-03-11】 派早报：AMD 确认 Ryzen 处理器会导致 Windows 间歇性卡顿、Studio Display 可以配合 PC 使用](https://sspai.com/post/71991)
+* [【2022-03-10】 新玩意 097｜少数派的编辑们最近买了啥？](https://sspai.com/post/71977)
+* [【2022-03-10】 价值 15 美元的第三方 Android 启动器，究竟好用在哪里？](https://sspai.com/post/71818)
+* [【2022-03-10】 我这里只能让它变长一点：我与富士「电老虎」的七年之痒](https://sspai.com/post/64336)
 * [【2022-03-10】 当听障者遇见骨传导：韶音 OpenRun Pro 体验](https://sspai.com/post/71889)
 * [【2022-03-10】 派早报：AMD 推出新款工作站级 CPU 及 GPU、理想 L9 公布等](https://sspai.com/post/71969)
 * [【2022-03-09】 你只管 Markdown，它帮你 PPT：用 Deckset 一键生成精美幻灯片](https://sspai.com/post/71776)
 * [【2022-03-09】 Steam Deck Polygon 评测：我的主机新宠](https://sspai.com/post/71923)
 * [【2022-03-09】 Refresh 周报 #25：Pixel 功能更新、Android 12L 正式版发布等](https://sspai.com/post/71950)
-* [【2022-03-09】 派早报：Apple 发布多款新品、Android 将支持应用归档功能等](https://sspai.com/post/71951)
-* [【2022-03-08】 一图流｜Apple 2022 年春季新品发布会回顾](https://sspai.com/post/71949)
-* [【2022-03-08】 Mac Studio 高能来袭：Apple 春季发布会回顾](https://sspai.com/post/71948)
-* [【2022-03-08】 这 17 种避孕方法，每个人都应该好好了解](https://sspai.com/post/71934)
-* [【2022-03-08】 女性运动安全的第一道护身符：如何正确挑选 Sports Bra](https://sspai.com/post/71939)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,16 +72,16 @@
     </summary>
 
 
-* [【2022-03-10】 艰难一跃 | 从美联储走过的弯路看我国货币政策框架改革（笔记012)](http://zhuanlan.zhihu.com/p/323600594?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-10】 从Archegos中概股爆仓说金融业基础设施建设](http://zhuanlan.zhihu.com/p/360914139?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-10】 推荐一款纳秒级的C++日志Nanolog](http://zhuanlan.zhihu.com/p/136208506?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-10】 有人说「买电车就是买电池」，购车小白怎么快速判断电池好与坏？](http://www.zhihu.com/question/520427167/answer/2382174151?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-09】 什么叫经济学直觉？](http://www.zhihu.com/question/399498141/answer/1281349035?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-09】 有人说「买电车就是买电池」，购车小白怎么快速判断电池好与坏？](http://www.zhihu.com/question/520427167/answer/2381765753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-09】 如何看待著名游戏制作人陈星汉的公司获 1.6 亿美元巨额投资（曾开发过《光·遇》《风之旅人》等游戏）？](http://www.zhihu.com/question/519952913/answer/2381704343?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-09】 对迪士尼的初步理解](http://zhuanlan.zhihu.com/p/475390287?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-09】 为什么电池一样的情况下高配车型的续航比低配车型的续航短？](http://www.zhihu.com/question/520434238/answer/2381230656?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-09】 国产碳板竞速跑鞋中底的解读与对比：李宁、特步、乔丹和361，各自交出怎样的答卷？](http://zhuanlan.zhihu.com/p/477777971?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-11】 NEDC、WLTP、EPA 三种续航工况计算方式有什么区别？哪个对消费者更具参考价值？](http://www.zhihu.com/question/520432531/answer/2384107159?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-11】 《少年Jump》历史前20的作品排行榜应该怎么排？](http://www.zhihu.com/question/520027181/answer/2375181576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-11】 都说特斯拉汽车的电池好，到底好在哪里？](http://www.zhihu.com/question/520435159/answer/2383819257?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-11】 大众发布电动面包车 ID.BUZZ，带有诸多 T1 元素，该款电动 MPV 还有哪些值得关注的地方？](http://www.zhihu.com/question/521084132/answer/2383445677?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-10】 LME 为何取消 3 月 8 日及以后的镍交易，会带来怎样的深远影响？](http://www.zhihu.com/question/520801629/answer/2382981642?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-10】 身处南北方交界处，四季分明，买电车究竟是买三元锂电池还是磷酸铁锂电池？](http://www.zhihu.com/question/520427647/answer/2382205686?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-10】 许多电池都宣传「不起火」，现在的技术可以真的不起火吗？为什么还时有发生起火的情况？](http://www.zhihu.com/question/520430637/answer/2382417067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-10】 甲醛有可能在短时间内彻底去除吗？](http://www.zhihu.com/question/520420693/answer/2382899046?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-10】 甲醛重灾区只存在于家具板材吗？](http://www.zhihu.com/question/520043296/answer/2381062750?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-10】 甲醛重灾区只存在于家具板材吗？](http://www.zhihu.com/question/520043296/answer/2380925107?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-03-10 05:13:05
+:alarm_clock: 更新时间: 2022-03-11 05:12:46
