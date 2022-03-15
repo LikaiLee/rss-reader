@@ -133,6 +133,46 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Face ID 支持戴口罩解锁、通用控制首次登场：iOS 15.4 正式版详解",
+                "link": "https://sspai.com/post/71256",
+                "published": "2022-03-15"
+            },
+            {
+                "title": "派早报：iOS/iPadOS 15.4 与 macOS 12.3 等正式版推送等",
+                "link": "https://sspai.com/post/72068",
+                "published": "2022-03-15"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/72062",
+                "published": "2022-03-14"
+            },
+            {
+                "title": "内容、社群、商业模式的少数派经验：与《新闻实验室》对谈",
+                "link": "https://sspai.com/post/72042",
+                "published": "2022-03-14"
+            },
+            {
+                "title": "少数派十周年：正版软件特惠限时开启，低至 5 折起",
+                "link": "https://sspai.com/post/72028",
+                "published": "2022-03-14"
+            },
+            {
+                "title": "少数派十周年：创始人老麦的十问十答",
+                "link": "https://sspai.com/post/72041",
+                "published": "2022-03-14"
+            },
+            {
+                "title": "关于效率的三重反思与少数派的 6 种生活：2021 年度征文获奖结果公布",
+                "link": "https://sspai.com/post/72048",
+                "published": "2022-03-14"
+            },
+            {
+                "title": "少数派十周年商店促销开启，「新獭」向你 Say Hi",
+                "link": "https://sspai.com/post/72015",
+                "published": "2022-03-14"
+            },
+            {
                 "title": "让 AMD Yes 不起来的小模块：fTPM 性能问题的成因与解决",
                 "link": "https://sspai.com/post/72029",
                 "published": "2022-03-14"
@@ -3263,7 +3303,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 8
     },
     {
         "id": 2,
@@ -33719,6 +33759,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价斯巴鲁官方宣布「将不再推出燃油版 STI，但不排除纯电版本的 STI」？",
+                "link": "http://www.zhihu.com/question/521916576/answer/2389322605?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-15"
+            },
+            {
+                "title": "北方哪个城市海鲜好吃？",
+                "link": "http://www.zhihu.com/question/293974922/answer/2388549380?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-15"
+            },
+            {
+                "title": "日本正宗传统的关东煮是什么样子，味道和做法又和国内经常吃到的有什么不一样？",
+                "link": "http://www.zhihu.com/question/21856189/answer/2385012314?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-14"
+            },
+            {
+                "title": "当破裂的感情，怎样回到刚开始的时候？没离婚，没有爱，没有关心，甚至还觉得你虚伪，这样的婚姻还能过吗？",
+                "link": "http://www.zhihu.com/question/521522490/answer/2386100642?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-14"
+            },
+            {
+                "title": "超充快充会影响电池寿命吗？有没有什么别的风险？",
+                "link": "http://www.zhihu.com/question/520431913/answer/2388493243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-14"
+            },
+            {
+                "title": "身处南北方交界处，四季分明，买电车究竟是买三元锂电池还是磷酸铁锂电池？",
+                "link": "http://www.zhihu.com/question/520427647/answer/2388513047?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-14"
+            },
+            {
                 "title": "面对结婚后一地鸡毛的生活，为什么有的人坚持不离婚？",
                 "link": "http://www.zhihu.com/question/515143415/answer/2387531876?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-03-14"
@@ -36294,6 +36364,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     }
 ]
