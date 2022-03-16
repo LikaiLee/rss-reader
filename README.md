@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+8】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+6】
+* [知乎每日精选](#知乎每日精选) 【+9】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-03-16】 在 Google 上搜索你想要的答案，为什么越来越难了？](https://sspai.com/post/72065)
+* [【2022-03-16】 派早报：亚马逊即将完成对米高梅的收购、微软推出面向 Windows 的 DirectStorage 技术等](https://sspai.com/post/72084)
+* [【2022-03-15】 怎样才能算好用的一站式录屏工具？我想从大学教师的角度谈谈](https://sspai.com/post/71918)
+* [【2022-03-15】 被 Apple 「鸽」了半年的通用控制终于来了，它是否依然充满「魔法」？](https://sspai.com/post/71231)
+* [【2022-03-15】 疫情蔓延，我给同事们买了这款「隔离险」](https://sspai.com/post/72070)
+* [【2022-03-15】 疫情再度来袭，Music Mate 用音乐连接你我](https://sspai.com/post/72010)
 * [【2022-03-15】 Face ID 支持戴口罩解锁、通用控制首次登场：iOS 15.4 正式版详解](https://sspai.com/post/71256)
 * [【2022-03-15】 派早报：iOS/iPadOS 15.4 与 macOS 12.3 等正式版推送等](https://sspai.com/post/72068)
 * [【2022-03-14】 派评 | 近期值得关注的 App](https://sspai.com/post/72062)
 * [【2022-03-14】 内容、社群、商业模式的少数派经验：与《新闻实验室》对谈](https://sspai.com/post/72042)
-* [【2022-03-14】 少数派十周年：正版软件特惠限时开启，低至 5 折起](https://sspai.com/post/72028)
-* [【2022-03-14】 少数派十周年：创始人老麦的十问十答](https://sspai.com/post/72041)
-* [【2022-03-14】 关于效率的三重反思与少数派的 6 种生活：2021 年度征文获奖结果公布](https://sspai.com/post/72048)
-* [【2022-03-14】 少数派十周年商店促销开启，「新獭」向你 Say Hi](https://sspai.com/post/72015)
-* [【2022-03-14】 让 AMD Yes 不起来的小模块：fTPM 性能问题的成因与解决](https://sspai.com/post/72029)
-* [【2022-03-14】 派早报：少数派迎接十周岁生日；Google 宣布推动个人数据平台间迁移等](https://sspai.com/post/72038)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,16 +72,16 @@
     </summary>
 
 
+* [【2022-03-16】 腾讯游戏某文章中提出了「魂系列游戏总销量远不及自家游戏流水」这一比较观点，如何看待这种论调？](http://www.zhihu.com/question/521845175/answer/2391122495?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-16】 如何评价动画《万圣街》第三季？](http://www.zhihu.com/question/522130609/answer/2391373064?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-15】 「固态电池」和现在的电动车电池有什么区别？](http://www.zhihu.com/question/520427982/answer/2390555151?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-15】 住在甲醛超标的房子里，人体会出现哪些「不健康」反应？](http://www.zhihu.com/question/519982036/answer/2390354958?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-15】 上汽奥迪 Q6 申报信息曝光，定位为中大型 SUV，你觉得这款车设计如何？](http://www.zhihu.com/question/521917325/answer/2389126108?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-15】 为什么电池一样的情况下高配车型的续航比低配车型的续航短？](http://www.zhihu.com/question/520434238/answer/2390317633?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-15】 为什么电池一样的情况下高配车型的续航比低配车型的续航短？](http://www.zhihu.com/question/520434238/answer/2388031548?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-15】 NEDC、WLTP、EPA 三种续航工况计算方式有什么区别？哪个对消费者更具参考价值？](http://www.zhihu.com/question/520432531/answer/2390200268?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-15】 作为消费者，有必要在意电池到底是 18650、2170 或者未来的 4680 吗？](http://www.zhihu.com/question/520428517/answer/2390166811?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-03-15】 如何评价斯巴鲁官方宣布「将不再推出燃油版 STI，但不排除纯电版本的 STI」？](http://www.zhihu.com/question/521916576/answer/2389322605?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-15】 北方哪个城市海鲜好吃？](http://www.zhihu.com/question/293974922/answer/2388549380?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-14】 日本正宗传统的关东煮是什么样子，味道和做法又和国内经常吃到的有什么不一样？](http://www.zhihu.com/question/21856189/answer/2385012314?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-14】 当破裂的感情，怎样回到刚开始的时候？没离婚，没有爱，没有关心，甚至还觉得你虚伪，这样的婚姻还能过吗？](http://www.zhihu.com/question/521522490/answer/2386100642?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-14】 超充快充会影响电池寿命吗？有没有什么别的风险？](http://www.zhihu.com/question/520431913/answer/2388493243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-14】 身处南北方交界处，四季分明，买电车究竟是买三元锂电池还是磷酸铁锂电池？](http://www.zhihu.com/question/520427647/answer/2388513047?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-14】 面对结婚后一地鸡毛的生活，为什么有的人坚持不离婚？](http://www.zhihu.com/question/515143415/answer/2387531876?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-14】 荷兰弟的《神秘海域》拍得怎么样？值得去看吗？](http://www.zhihu.com/question/520724384/answer/2388347961?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-13】 住了很多年的老房子，甲醛还会超标吗？](http://www.zhihu.com/question/519981421/answer/2383109294?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-13】 甲醛检测合格，为什么家里味道还是很大？](http://www.zhihu.com/question/520421245/answer/2385985760?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-03-15 05:13:30
+:alarm_clock: 更新时间: 2022-03-16 05:13:22
