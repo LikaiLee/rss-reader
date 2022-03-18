@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题",
+                "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html",
+                "published": "2022-03-18"
+            },
+            {
                 "title": "科技爱好者周刊（第 198 期）：美国制造是否可能",
                 "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html",
                 "published": "2022-03-11"
@@ -125,13 +130,63 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "世界睡眠日特别策划：明天周末，睡个好觉",
+                "link": "https://sspai.com/post/72129",
+                "published": "2022-03-18"
+            },
+            {
+                "title": "AutoSleep：睡得怎么样，一看便知",
+                "link": "https://sspai.com/post/72130",
+                "published": "2022-03-18"
+            },
+            {
+                "title": "不买可以先收藏 09：好枕头睡好觉，收下这份「枕头百科」祝你夜夜好眠",
+                "link": "https://sspai.com/post/72136",
+                "published": "2022-03-18"
+            },
+            {
+                "title": "设置好勿扰模式，你的夜晚也能酣然入梦",
+                "link": "https://sspai.com/post/72135",
+                "published": "2022-03-18"
+            },
+            {
+                "title": "了解这些小技巧，今晚开始努力睡个好觉",
+                "link": "https://sspai.com/post/72134",
+                "published": "2022-03-18"
+            },
+            {
+                "title": "打鼾：你熟悉的夜间惊雷，究竟是什么？",
+                "link": "https://sspai.com/post/72133",
+                "published": "2022-03-18"
+            },
+            {
+                "title": "派早报：Redmi 发布 K50 系列等多款新品、荣耀发布 Magic4 系列手机等多款新品",
+                "link": "https://sspai.com/post/72126",
+                "published": "2022-03-18"
+            },
+            {
+                "title": "新玩意 098｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/72116",
+                "published": "2022-03-17"
+            },
+            {
+                "title": "看起来很快的 Wi-Fi 看视频老是需要缓冲？家庭 Wi-Fi 优化指南",
+                "link": "https://sspai.com/post/72111",
+                "published": "2022-03-17"
+            },
+            {
+                "title": "与你共创下一个十年：少数派共创体系更新",
+                "link": "https://sspai.com/post/72089",
+                "published": "2022-03-17"
+            },
             {
                 "title": "标准意义上的「平板电脑」——第五代 iPad Air 使用体验",
                 "link": "https://sspai.com/post/72104",
@@ -3358,7 +3413,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 10
     },
     {
         "id": 2,
@@ -33814,6 +33869,41 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "国内有哪些值得一去再去的露营地？",
+                "link": "http://www.zhihu.com/question/522429536/answer/2393353415?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-18"
+            },
+            {
+                "title": "国内有哪些值得一去再去的露营地？",
+                "link": "http://www.zhihu.com/question/522429536/answer/2394376425?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-18"
+            },
+            {
+                "title": "国内有哪些值得一去再去的露营地？",
+                "link": "http://www.zhihu.com/question/522429536/answer/2393943795?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-18"
+            },
+            {
+                "title": "创作者请回答｜叶小白：不会写故事的理工男不是好编剧",
+                "link": "http://zhuanlan.zhihu.com/p/482706337?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-18"
+            },
+            {
+                "title": "汽车音响系统升级全面讲解",
+                "link": "http://zhuanlan.zhihu.com/p/110273421?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-17"
+            },
+            {
+                "title": "为什么同排量的柴油车比汽油车省油？",
+                "link": "http://www.zhihu.com/question/21044512/answer/2393587827?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-17"
+            },
+            {
+                "title": "为什么 4S 店保养一次要三四个小时？",
+                "link": "http://www.zhihu.com/question/341386481/answer/2394154747?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-17"
+            },
+            {
                 "title": "如何评价动画《万圣街》第三季？",
                 "link": "http://www.zhihu.com/question/522130609/answer/2392674961?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-03-17"
@@ -36484,6 +36574,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 7
     }
 ]
