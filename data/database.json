@@ -138,6 +138,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "解决科研人痛点的大突破——Zotero 6.0 亮点速览",
+                "link": "https://sspai.com/post/72163",
+                "published": "2022-03-21"
+            },
+            {
+                "title": "派早报：M1 Ultra 拆解显示巨大封装尺寸；新司法解释规范虚假刷量等",
+                "link": "https://sspai.com/post/72188",
+                "published": "2022-03-21"
+            },
+            {
+                "title": "从答辩秘书的视角，告诉你考研复试该注意什么",
+                "link": "https://sspai.com/post/72144",
+                "published": "2022-03-20"
+            },
+            {
                 "title": "Android 13 新功能解析：第二个开发者预览版值得关注的 5 大变化",
                 "link": "https://sspai.com/post/72164",
                 "published": "2022-03-19"
@@ -3428,7 +3443,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -33883,6 +33898,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "有哪些长的帅但不出名的男演员？",
+                "link": "http://www.zhihu.com/question/285651116/answer/2399561473?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-21"
+            },
             {
                 "title": "PE/VC 的 LP 们对于本次二级市场大跌都有怎样的反应，会影响到基金后续的投资吗？",
                 "link": "http://www.zhihu.com/question/522228621/answer/2396079570?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
