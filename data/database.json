@@ -138,6 +138,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Nothing 手机公布、NVIDIA 发布全新显卡等",
+                "link": "https://sspai.com/post/72261",
+                "published": "2022-03-24"
+            },
+            {
+                "title": "想要五步成诗？这是我的写诗方法论",
+                "link": "https://sspai.com/post/71712",
+                "published": "2022-03-23"
+            },
+            {
+                "title": "一套键鼠跨平台、跨设备使用，除了通用控制还有哪些软硬件方案？",
+                "link": "https://sspai.com/post/72143",
+                "published": "2022-03-23"
+            },
+            {
+                "title": "跳绳计数、在线对战、勋章挑战…… 用跃动为健康增值：YaoYao",
+                "link": "https://sspai.com/post/71936",
+                "published": "2022-03-23"
+            },
+            {
                 "title": "在 2022 年重新寻找 GB 游戏的乐趣：Analogue Pocket 体验",
                 "link": "https://sspai.com/prime/story/sr03-analogue-pocket-gaming-experience",
                 "published": "2022-03-23"
@@ -3508,7 +3528,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -33964,6 +33984,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "超越罐头：艾尔登法环与下一代开放世界",
+                "link": "http://zhuanlan.zhihu.com/p/485618682?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-24"
+            },
+            {
+                "title": "出色不如走运 (VII)?",
+                "link": "http://zhuanlan.zhihu.com/p/476007400?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-23"
+            },
+            {
                 "title": "投资领袖和他们的思想之光",
                 "link": "http://zhuanlan.zhihu.com/p/483040741?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-03-23"
@@ -36724,6 +36754,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     }
 ]
