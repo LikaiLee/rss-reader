@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 200 期）：低期望，多尝试",
+                "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html",
+                "published": "2022-03-25"
+            },
+            {
                 "title": "科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题",
                 "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html",
                 "published": "2022-03-18"
@@ -130,13 +135,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "咖啡地图：咖啡基因库，埃塞俄比亚",
+                "link": "https://sspai.com/post/72263",
+                "published": "2022-03-25"
+            },
+            {
+                "title": "派早报：Insta360 发布 ONE RS、Intel 公布 XeSS 分辨率超采样技术",
+                "link": "https://sspai.com/post/72285",
+                "published": "2022-03-25"
+            },
+            {
+                "title": "新玩意 099｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/72271",
+                "published": "2022-03-24"
+            },
+            {
+                "title": "一派·在线沙龙 07：2022 年的知识付费应该怎么做？",
+                "link": "https://sspai.com/post/72259",
+                "published": "2022-03-24"
+            },
+            {
+                "title": "意识先行，工具辅助：谈谈我们该怎样分辨虚假信息",
+                "link": "https://sspai.com/post/72274",
+                "published": "2022-03-24"
+            },
+            {
+                "title": "App+1 | Android 12 装机必备，免 root 实现 Material You 二次定制：Repainter",
+                "link": "https://sspai.com/post/72269",
+                "published": "2022-03-24"
+            },
             {
                 "title": "派早报：Nothing 手机公布、NVIDIA 发布全新显卡等",
                 "link": "https://sspai.com/post/72261",
@@ -3528,7 +3563,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -33984,6 +34019,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "滴滴答答的？",
+                "link": "http://www.zhihu.com/question/508061182/answer/2367548529?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-25"
+            },
+            {
+                "title": "三国杀八人局，每个人中闪电的概率一样吗？",
+                "link": "http://www.zhihu.com/question/20838535/answer/2405960080?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-25"
+            },
+            {
+                "title": "四十岁的女人难道真的没人要了吗？",
+                "link": "http://www.zhihu.com/question/503533937/answer/2404974127?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-24"
+            },
+            {
+                "title": "已婚男会为了爱情离婚吗？",
+                "link": "http://www.zhihu.com/question/517222643/answer/2405088504?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-24"
+            },
+            {
+                "title": "路特斯发布首款纯电 SUV TYPE 132 预告图，你对这款 SUV 有哪些期待？",
+                "link": "http://www.zhihu.com/question/523829700/answer/2405104665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-24"
+            },
+            {
+                "title": "如何评价《画江湖之不良人》第 5 季第 11 集？",
+                "link": "http://www.zhihu.com/question/517087086/answer/2405056220?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-24"
+            },
+            {
                 "title": "超越罐头：艾尔登法环与下一代开放世界",
                 "link": "http://zhuanlan.zhihu.com/p/485618682?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-03-24"
@@ -36754,6 +36819,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     }
 ]
