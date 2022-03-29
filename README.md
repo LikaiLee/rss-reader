@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+6】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-03-29】 简悦 +Logseq 个人知识库搭建 | 从零开始完全指南](https://sspai.com/post/72022)
+* [【2022-03-29】 派早报：《健听女孩》获得奥斯卡最佳影片奖等](https://sspai.com/post/72352)
+* [【2022-03-28】 派评 | 近期值得关注的 App](https://sspai.com/post/72347)
+* [【2022-03-28】 零基础也可以写歌吗？纸片人 AI 或许能帮忙](https://sspai.com/post/72344)
+* [【2022-03-28】 一日一技｜巧用「远程同乐」，让次世代 Xbox 支持旧手柄](https://sspai.com/post/72265)
 * [【2022-03-28】 爱人怀孕期间，准奶爸应该做什么？](https://sspai.com/post/69905)
 * [【2022-03-28】 派早报：欧盟就数字市场法案达成一致；3·15 晚会曝光企业受罚等](https://sspai.com/post/72322)
 * [【2022-03-27】 看懂设计里的门道：区分字体的 16 种特征](https://sspai.com/post/71957)
 * [【2022-03-27】 [送码] 给居家植人的礼物，我为家里的花花草草写了一个 App：植物宝](https://sspai.com/post/72260)
 * [【2022-03-26】 边听歌边写稿：送给新作者们的写稿歌单](https://sspai.com/post/72302)
-* [【2022-03-26】 你的输入法，原来也可以当作效率和知识管理工具？](https://sspai.com/post/71703)
-* [【2022-03-25】 格式错误挥之即去，中英留白呼之即来——Markdown 检查器入门](https://sspai.com/prime/story/markdown-linter-a-primer)
-* [【2022-03-25】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/72294)
-* [【2022-03-25】 联想拯救者 Y700 上手体验：拒绝生产力，选择爱奇艺](https://sspai.com/post/72278)
-* [【2022-03-25】 咖啡地图 | 为什么说埃塞俄比亚是咖啡的基因库？](https://sspai.com/post/72263)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,16 +72,16 @@
     </summary>
 
 
+* [【2022-03-29】 三国杀对武将的设计应该多侧重于旧武将的突破，还是新武将的出品？](http://www.zhihu.com/question/522725234/answer/2411996108?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-29】 《Sky 光·遇》宣布动画化，首支预告 PV 公开，你有什么想说的？](http://www.zhihu.com/question/524567704/answer/2412233925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-28】 换人就能行吗？表面看是业务问题，实际上是组织问题 | 写在凌晨1点的读书笔记No.03](http://zhuanlan.zhihu.com/p/489137798?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-28】 古蛋白质：第二扇门](http://zhuanlan.zhihu.com/p/488205762?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-28】 如何优雅地参与开源开发？](http://zhuanlan.zhihu.com/p/204492805?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-03-26】 三国杀设计师在设计皮肤的时候会考虑植入彩蛋么？彩蛋数量会有做预估么？](http://www.zhihu.com/question/523235885/answer/2407987325?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-03-28】 《三国杀》中有哪些历史小细节设计的特别精妙？](http://www.zhihu.com/question/523235899/answer/2410875769?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-03-26】 如何评价动画《新秦时明月》第 19 集？](http://www.zhihu.com/question/524206401/answer/2408090381?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-03-26】 如何评价游戏《艾尔登法环》最终 BOSS 拉达冈？](http://www.zhihu.com/question/518457267/answer/2408132666?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-03-26】 如何评价游戏《艾尔登法环》最终 BOSS？](http://www.zhihu.com/question/518457267/answer/2408132666?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-26】 设计师在设计皮肤的时候会考虑植入彩蛋么？彩蛋数量会有做预估么？](http://www.zhihu.com/question/523235885/answer/2407987325?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-26】 为什么《进击的巨人》中巨人的身材比例不一样？](http://www.zhihu.com/question/523798811/answer/2407852679?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-25】 什么是汽车HMI设计？未来的发展方向是什么样的？](http://www.zhihu.com/question/515370941/answer/2406910588?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-25】 如何评价任天堂 Switch 独占游戏《星之卡比 探索发现》？](http://www.zhihu.com/question/523597688/answer/2406692475?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-25】 如何评价任天堂 Switch 独占游戏《星之卡比 探索发现》？](http://www.zhihu.com/question/523597688/answer/2406682001?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-03-25】 滴滴答答的？](http://www.zhihu.com/question/508061182/answer/2367548529?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-03-28 05:13:20
+:alarm_clock: 更新时间: 2022-03-29 05:14:35
