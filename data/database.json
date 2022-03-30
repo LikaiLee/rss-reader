@@ -143,6 +143,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "跨越十年的无线充电器：「点金石」与 MagSafe 的幕后哲学",
+                "link": "https://sspai.com/post/72370",
+                "published": "2022-03-30"
+            },
+            {
+                "title": "派早报：米家发布全能扫拖机器人、索尼推出全新 PlayStation Plus 订阅服务等",
+                "link": "https://sspai.com/post/72369",
+                "published": "2022-03-30"
+            },
+            {
+                "title": "试播集 04 | 少数派作者们最近读完了啥（上）",
+                "link": "https://sspai.com/post/72335",
+                "published": "2022-03-29"
+            },
+            {
+                "title": "从时代弃子回归主流：智能手机的「副屏」经历过什么？| 怪才科技 · 01",
+                "link": "https://sspai.com/post/72206",
+                "published": "2022-03-29"
+            },
+            {
+                "title": "一日一技｜告别声音「忽大忽小」，借助 Reaper 实现播客音量均衡",
+                "link": "https://sspai.com/post/72348",
+                "published": "2022-03-29"
+            },
+            {
                 "title": "简悦 +Logseq 个人知识库搭建 | 从零开始完全指南",
                 "link": "https://sspai.com/post/72022",
                 "published": "2022-03-29"
@@ -34094,6 +34119,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《进击的巨人》到底有多少地鸣巨人？",
+                "link": "http://www.zhihu.com/question/524277410/answer/2413636802?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-29"
+            },
+            {
+                "title": "如何评论《三国杀》这款游戏？",
+                "link": "http://www.zhihu.com/question/284031072/answer/2413504350?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-29"
+            },
+            {
                 "title": "三国杀对武将的设计应该多侧重于旧武将的突破，还是新武将的出品？",
                 "link": "http://www.zhihu.com/question/522725234/answer/2411996108?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-03-29"
@@ -36969,6 +37004,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     }
 ]
