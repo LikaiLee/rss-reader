@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 201 期）：中国需要成立半导体部",
+                "link": "http://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html",
+                "published": "2022-04-01"
+            },
+            {
                 "title": "科技爱好者周刊（第 200 期）：低期望，多尝试",
                 "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html",
                 "published": "2022-03-25"
@@ -135,13 +140,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派早报增刊：少数派近期重要新闻动态",
+                "link": "https://sspai.com/post/72397",
+                "published": "2022-04-01"
+            },
+            {
+                "title": "派早报：小米发布全色激光影院、戴森推出空气净化器蓝牙降噪耳机",
+                "link": "https://sspai.com/post/72404",
+                "published": "2022-04-01"
+            },
+            {
+                "title": "新玩意 100｜100 元可以买到啥？",
+                "link": "https://sspai.com/post/72398",
+                "published": "2022-03-31"
+            },
+            {
+                "title": "每日笔记、日程管理、工作复盘——这是我钻研出的 Obsidian 八般武艺",
+                "link": "https://sspai.com/post/72385",
+                "published": "2022-03-31"
+            },
+            {
+                "title": "从「用爱发电」到成为「稿霸」，聊聊我在少数派写稿的 6 年",
+                "link": "https://sspai.com/post/72319",
+                "published": "2022-03-31"
+            },
             {
                 "title": "将网站收藏汇集一处，我是这样用 Notion API 搭建个人「剪藏」的",
                 "link": "https://sspai.com/post/72090",
@@ -34144,6 +34174,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "智能座舱最理想的交互模式应该是什么样的？目前己经发展到了哪个阶段？",
+                "link": "http://www.zhihu.com/question/515398912/answer/2417706724?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-01"
+            },
+            {
+                "title": "有哪些「王炸级别」的春季美食，让你疯狂吹爆？",
+                "link": "http://www.zhihu.com/question/521291003/answer/2417062665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-31"
+            },
+            {
+                "title": "为什么老司机都不喜欢去 4S 店保养？",
+                "link": "http://www.zhihu.com/question/520888270/answer/2416771464?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-31"
+            },
+            {
+                "title": "如何评价《画江湖之不良人》第 5 季第 12 集？",
+                "link": "http://www.zhihu.com/question/525146162/answer/2416444915?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-31"
+            },
+            {
+                "title": "如何评价《画江湖之不良人》第 5 季第 12 集？",
+                "link": "http://www.zhihu.com/question/525146162/answer/2416322528?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-31"
+            },
+            {
+                "title": "《三国杀》中有哪些历史小细节设计得特别精妙？",
+                "link": "http://www.zhihu.com/question/523235899/answer/2410875769?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-03-28"
+            },
+            {
                 "title": "冷门高频股票因子（0）",
                 "link": "http://zhuanlan.zhihu.com/p/490402735?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-03-31"
@@ -37039,6 +37099,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     }
 ]
