@@ -140,13 +140,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "拥有一座「移动城堡」：聊聊我的房车及体验",
+                "link": "https://sspai.com/post/72337",
+                "published": "2022-04-02"
+            },
+            {
+                "title": "派早报：E3 2022 电子娱乐展取消，图灵奖颁给超算跑分开创者等",
+                "link": "https://sspai.com/post/72420",
+                "published": "2022-04-02"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/72421",
+                "published": "2022-04-01"
+            },
+            {
+                "title": "一人独享整片天空的浪漫：私人飞机选购指南",
+                "link": "https://sspai.com/post/72110",
+                "published": "2022-04-01"
+            },
+            {
+                "title": "自带键盘的「Mac mini」好用吗？这是我的半台 MacBook Pro 踩坑体验",
+                "link": "https://sspai.com/post/72313",
+                "published": "2022-04-01"
+            },
             {
                 "title": "派早报增刊：少数派近期重要新闻动态",
                 "link": "https://sspai.com/post/72397",
@@ -34174,6 +34199,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "李想解释理想汽车涨价原因「碳酸锂会跟石油一样，不再按成本计算」，这种说法依据是什么？你认可这个观点吗？",
+                "link": "http://www.zhihu.com/question/524618092/answer/2418462302?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-01"
+            },
+            {
+                "title": "古罗马服装的裁剪与缝制",
+                "link": "http://zhuanlan.zhihu.com/p/472667618?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-01"
+            },
+            {
+                "title": "如何评价《画江湖之不良人》第 5 季第 12 集？",
+                "link": "http://www.zhihu.com/question/525146162/answer/2416560958?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-01"
+            },
+            {
+                "title": "你自驾过国内哪些有意思的线路？",
+                "link": "http://www.zhihu.com/question/291164310/answer/2416074159?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-01"
+            },
+            {
+                "title": "如何评价国产 Roguelike 卡牌游戏《Indie's Lies》？",
+                "link": "http://www.zhihu.com/question/525066809/answer/2417164116?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-01"
+            },
+            {
                 "title": "智能座舱最理想的交互模式应该是什么样的？目前己经发展到了哪个阶段？",
                 "link": "http://www.zhihu.com/question/515398912/answer/2417706724?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-04-01"
@@ -37099,6 +37149,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     }
 ]
