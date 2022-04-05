@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -34,6 +34,9 @@
     </summary>
 
 
+* [【2022-04-05】 保险公司倒闭保单会受影响吗？细数保险公司的十大安全机制](https://sspai.com/post/72358)
+* [【2022-04-04】 Matrix Talk丨从一线回到家乡二线城市定居，你后悔了吗？](https://sspai.com/post/72376)
+* [【2022-04-04】 不会游泳还想玩潜水，这是一个旱鸭子的潜水考证之旅](https://sspai.com/post/72334)
 * [【2022-04-03】 试播集 04 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/72353)
 * [【2022-04-03】 在浅薄的信息时代中，我们应该注意什么？](https://sspai.com/post/72052)
 * [【2022-04-02】 我想要的可不是这个「中杯」：三星 Galaxy S22 评测](https://sspai.com/post/72441)
@@ -41,9 +44,6 @@
 * [【2022-04-02】 家的风格 | 是装修时的意料之外，也是我的自成一派](https://sspai.com/post/72431)
 * [【2022-04-02】 拥有一座「移动城堡」：聊聊我的房车及体验](https://sspai.com/post/72337)
 * [【2022-04-02】 派早报：E3 2022 电子娱乐展取消，图灵奖颁给超算跑分开创者等](https://sspai.com/post/72420)
-* [【2022-04-01】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/72421)
-* [【2022-04-01】 一人独享整片天空的浪漫：私人飞机选购指南](https://sspai.com/post/72110)
-* [【2022-04-01】 自带键盘的「Mac mini」好用吗？这是我的半台 MacBook Pro 踩坑体验](https://sspai.com/post/72313)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,7 @@
     </summary>
 
 
+* [【2022-04-04】 游戏界有哪些称得上大师的人物？](http://www.zhihu.com/question/26057340/answer/2422951691?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-04】 如何评价《原神》2.6版本神里绫人传说任务「神守柏之章」？](http://www.zhihu.com/question/524619076/answer/2415773160?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-04】 如何评价游戏《原神》2.6版本新地图「层岩巨渊」的设计水平？](http://www.zhihu.com/question/524984169/answer/2418785277?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-04】 如何评价 4 月新番动画《影之诗F》第一集？](http://www.zhihu.com/question/525212756/answer/2421972032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,7 +82,6 @@
 * [【2022-04-02】 《三国杀》国战有哪些神组合？](http://www.zhihu.com/question/21349175/answer/2420085891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-02】 手哥的「编辑小课堂」——第二期！](http://zhuanlan.zhihu.com/p/492039461?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-02】 你自驾过国内哪些有意思的线路？](http://www.zhihu.com/question/291164310/answer/2419745960?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-04-01】 李想解释理想汽车涨价原因「碳酸锂会跟石油一样，不再按成本计算」，这种说法依据是什么？你认可这个观点吗？](http://www.zhihu.com/question/524618092/answer/2418462302?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-04-04 05:13:41
+:alarm_clock: 更新时间: 2022-04-05 05:13:41
