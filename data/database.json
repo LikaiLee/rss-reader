@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 202 期）：三个有启发的学习方法",
+                "link": "http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html",
+                "published": "2022-04-08"
+            },
+            {
                 "title": "科技爱好者周刊（第 201 期）：中国需要成立半导体部",
                 "link": "http://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html",
                 "published": "2022-04-01"
@@ -140,13 +145,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "LaunchBar 与 Zotero 联动，补齐文献搜索短板",
+                "link": "https://sspai.com/post/72459",
+                "published": "2022-04-08"
+            },
+            {
+                "title": "派早报：可口可乐推出「像素味」无糖可乐、荣耀发布 Play6T 系列新品",
+                "link": "https://sspai.com/post/72537",
+                "published": "2022-04-08"
+            },
+            {
+                "title": "新玩意 101｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/72523",
+                "published": "2022-04-07"
+            },
+            {
+                "title": "为了能更好地做饭，有人做了个「程序员做饭指南」",
+                "link": "https://sspai.com/post/72308",
+                "published": "2022-04-07"
+            },
+            {
+                "title": "一派·Podcast｜机械键盘——从入坑到发疯（不是",
+                "link": "https://sspai.com/post/72498",
+                "published": "2022-04-07"
+            },
             {
                 "title": "除了五险一金，为什么我要给员工上「百万医疗险」",
                 "link": "https://sspai.com/post/72491",
@@ -34278,6 +34308,41 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "创作者请回答｜浙三爷：「废柴逆袭」的爽文人生",
+                "link": "http://zhuanlan.zhihu.com/p/494367633?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-08"
+            },
+            {
+                "title": "潍柴动力董事长谭旭光称「无人驾驶就是忽悠，辅助驾驶是希望」背后有那些信息值得关注？你认可这个观点吗？",
+                "link": "http://www.zhihu.com/question/525589861/answer/2425829101?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-07"
+            },
+            {
+                "title": "【小考据】高畑勋与初音未来",
+                "link": "http://zhuanlan.zhihu.com/p/494525483?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-07"
+            },
+            {
+                "title": "《艾尔登法环》打很多 Boss 都有逃课的方法，是宫崎英高有意而为之，还是设计组没有想到的 BUG?",
+                "link": "http://www.zhihu.com/question/526277021/answer/2427635348?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-07"
+            },
+            {
+                "title": "如何评价漫画《间谍过家家》?",
+                "link": "http://www.zhihu.com/question/320063279/answer/1280690456?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-07"
+            },
+            {
+                "title": "虚幻引擎 5 现已正式推出，是否是使用新版引擎开发游戏的好时机呢？",
+                "link": "http://www.zhihu.com/question/526248363/answer/2426865410?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-07"
+            },
+            {
+                "title": "虚幻引擎 5 现已正式推出，是否是使用新版引擎开发游戏的好时机呢？",
+                "link": "http://www.zhihu.com/question/526248363/answer/2426839028?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-07"
+            },
             {
                 "title": "中文的直角引号 「」、『』 源自哪里？",
                 "link": "http://www.zhihu.com/question/19867627/answer/2420839332?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
