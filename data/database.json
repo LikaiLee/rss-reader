@@ -145,13 +145,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么丨最近值得一看的一大堆作品",
+                "link": "https://sspai.com/post/72547",
+                "published": "2022-04-08"
+            },
+            {
+                "title": "[送码] 注入情绪与故事，它想成为你的相片处理「最后一步」：卡片馆 2.0",
+                "link": "https://sspai.com/post/72329",
+                "published": "2022-04-08"
+            },
             {
                 "title": "LaunchBar 与 Zotero 联动，补齐文献搜索短板",
                 "link": "https://sspai.com/post/72459",
@@ -3853,7 +3863,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -34309,6 +34319,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "第三排座椅和后备箱空间是鱼与熊掌的关系吗？",
+                "link": "http://www.zhihu.com/question/525018448/answer/2429603333?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-08"
+            },
+            {
+                "title": "你自驾过国内哪些有意思的线路？",
+                "link": "http://www.zhihu.com/question/291164310/answer/2420811989?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-08"
+            },
+            {
                 "title": "创作者请回答｜浙三爷：「废柴逆袭」的爽文人生",
                 "link": "http://zhuanlan.zhihu.com/p/494367633?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-04-08"
@@ -37419,6 +37439,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 2
     }
 ]
