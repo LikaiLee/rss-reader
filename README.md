@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -34,6 +34,9 @@
     </summary>
 
 
+* [【2022-04-10】 如何高效利用下班后的时间？你也可以试试我的这些办法](https://sspai.com/post/72494)
+* [【2022-04-09】 万门大学倒闭，我想借此聊聊在线课堂怎么才能做下去](https://sspai.com/post/72413)
+* [【2022-04-09】 老牌播客客户端的新变化——Overcast 迎来 2022 年更新](https://sspai.com/post/72525)
 * [【2022-04-08】 本周看什么丨最近值得一看的一大堆作品](https://sspai.com/post/72547)
 * [【2022-04-08】 [送码] 注入情绪与故事，它想成为你的相片处理「最后一步」：卡片馆 2.0](https://sspai.com/post/72329)
 * [【2022-04-08】 LaunchBar 与 Zotero 联动，补齐文献搜索短板](https://sspai.com/post/72459)
@@ -41,9 +44,6 @@
 * [【2022-04-07】 新玩意 101｜少数派的编辑们最近买了啥？](https://sspai.com/post/72523)
 * [【2022-04-07】 为了能更好地做饭，有人做了个「程序员做饭指南」](https://sspai.com/post/72308)
 * [【2022-04-07】 一派·Podcast｜机械键盘——从入坑到发疯（不是](https://sspai.com/post/72498)
-* [【2022-04-07】 除了五险一金，为什么我要给员工上「百万医疗险」](https://sspai.com/post/72491)
-* [【2022-04-07】 派早报：B 站发布耳机新品、联想公布新款小新 Pro 16 等](https://sspai.com/post/72501)
-* [【2022-04-06】 送码 | 为了在 Safari 中愉快地摘录文章，我开发了一个 Obsidian 插件](https://sspai.com/post/72231)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-04-09 05:12:55
+:alarm_clock: 更新时间: 2022-04-10 05:13:09
