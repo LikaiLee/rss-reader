@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+4】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-04-13】 App+1 | 将网页固定在菜单栏，你可以试试 MenubarX](https://sspai.com/post/72555)
+* [【2022-04-13】 派早报：Beats Studio Buds 推出新配色、中国移动发布 5G 新通话产品等](https://sspai.com/post/72629)
+* [【2022-04-12】 二〇二二年，来试试双拼输入法吧](https://sspai.com/post/72622)
+* [【2022-04-12】 从开始菜单和任务栏出发，聊聊我用过的 3 款 Windows 11 实用小工具](https://sspai.com/post/72458)
+* [【2022-04-12】 一日一技特别版 | 善用自带识图功能，收集检索物资信息](https://sspai.com/post/72613)
+* [【2022-04-12】 家的风格｜沪漂合租者的「温馨小窝」](https://sspai.com/post/72564)
 * [【2022-04-12】 派早报：vivo 发布首款折叠屏手机与首款平板，Windows 11 将开放第三方小组件等](https://sspai.com/post/72610)
 * [【2022-04-11】 派评 | 近期值得关注的 App](https://sspai.com/post/72604)
 * [【2022-04-11】 [限时福利]产品沉思录：微软如何能做到市值 $10T ？](https://sspai.com/post/71904)
 * [【2022-04-11】 医疗的未来还是资本的大饼：在线问诊平台横评](https://sspai.com/prime/story/vol016-online-consultation-01)
-* [【2022-04-11】 能少一个是一个：我用 Raycast 替代了这些应用](https://sspai.com/post/72540)
-* [【2022-04-11】 城市如何给我们带来「幸福感」？聊聊我的经历与看法](https://sspai.com/post/72543)
-* [【2022-04-11】 派早报：Google 将为 Pixel 提供维修备件、马斯克评论 Twitter 活跃度和订阅制等](https://sspai.com/post/72585)
-* [【2022-04-10】 家的风格 | 从法压壶到意式咖啡机，一步步搭起家中咖啡角](https://sspai.com/post/72446)
-* [【2022-04-10】 如何高效利用下班后的时间？你也可以试试我的这些办法](https://sspai.com/post/72494)
-* [【2022-04-09】 万门大学倒闭，我想借此聊聊在线课堂怎么才能做下去](https://sspai.com/post/72413)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,16 +72,16 @@
     </summary>
 
 
+* [【2022-04-13】 最近奶爸 MPV 很火，小年轻日常上班和带娃，兼顾少量全家出行，是买大 SUV 还是 MPV 好呢？](http://www.zhihu.com/question/513095644/answer/2436413195?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-04-13】 为什么同一款车型敞篷比不敞篷贵那么多？](http://www.zhihu.com/question/524843833/answer/2436554021?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-04-12】 为什么是 iPad？](http://zhuanlan.zhihu.com/p/497443371?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-04-12】 运动套件除了好看以外，能带来空气动力学的提升吗？](http://www.zhihu.com/question/525008862/answer/2432605971?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-12】 以「驾驶者为中心」的的设计有什么特点，会带来什么样不同的体验？](http://www.zhihu.com/question/525006497/answer/2435350524?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-11】 第三排座椅和后备箱空间是鱼与熊掌的关系吗？](http://www.zhihu.com/question/525018448/answer/2431884258?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-11】 「零重力座椅」是什么意思？](http://www.zhihu.com/question/524839563/answer/2434354772?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-11】 如何看待丰田发布燃料电池轿车Mirai的第二代？丰田未来的新能源路线会是怎样的？](http://www.zhihu.com/question/437669177/answer/2433808087?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-11】 女生考研频频被他人恶意修改志愿，疑因个人信息泄漏，具体情况如何？谁该为此负责？](http://www.zhihu.com/question/527223061/answer/2433677873?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-11】 车载传声器工作原理是什么？如何在嘈杂的环境音中识别到驾驶员的指令？](http://www.zhihu.com/question/516520178/answer/2426723737?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-04-11】 汽车座椅那么多方向调节有很大意义吗？](http://www.zhihu.com/question/524837502/answer/2433142595?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-04-11】 汽车座椅那么多方向调节有很大意义吗？](http://www.zhihu.com/question/524837502/answer/2428239775?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-04-11】 如何看待美国消费者报告指出大部分驾驶员监控系统毫无价值，反而存在隐私担忧？](http://www.zhihu.com/question/515210126/answer/2430654938?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-04-11】 无框式车门真的高级吗？](http://www.zhihu.com/question/524843396/answer/2430031370?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-04-12 05:13:26
+:alarm_clock: 更新时间: 2022-04-13 05:13:39

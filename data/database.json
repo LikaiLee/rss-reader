@@ -153,6 +153,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 | 将网页固定在菜单栏，你可以试试 MenubarX",
+                "link": "https://sspai.com/post/72555",
+                "published": "2022-04-13"
+            },
+            {
+                "title": "派早报：Beats Studio Buds 推出新配色、中国移动发布 5G 新通话产品等",
+                "link": "https://sspai.com/post/72629",
+                "published": "2022-04-13"
+            },
+            {
+                "title": "二〇二二年，来试试双拼输入法吧",
+                "link": "https://sspai.com/post/72622",
+                "published": "2022-04-12"
+            },
+            {
+                "title": "从开始菜单和任务栏出发，聊聊我用过的 3 款 Windows 11 实用小工具",
+                "link": "https://sspai.com/post/72458",
+                "published": "2022-04-12"
+            },
+            {
+                "title": "一日一技特别版 | 善用自带识图功能，收集检索物资信息",
+                "link": "https://sspai.com/post/72613",
+                "published": "2022-04-12"
+            },
+            {
+                "title": "家的风格｜沪漂合租者的「温馨小窝」",
+                "link": "https://sspai.com/post/72564",
+                "published": "2022-04-12"
+            },
+            {
                 "title": "派早报：vivo 发布首款折叠屏手机与首款平板，Windows 11 将开放第三方小组件等",
                 "link": "https://sspai.com/post/72610",
                 "published": "2022-04-12"
@@ -3918,7 +3948,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -34374,6 +34404,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "最近奶爸 MPV 很火，小年轻日常上班和带娃，兼顾少量全家出行，是买大 SUV 还是 MPV 好呢？",
+                "link": "http://www.zhihu.com/question/513095644/answer/2436413195?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-13"
+            },
+            {
+                "title": "为什么同一款车型敞篷比不敞篷贵那么多？",
+                "link": "http://www.zhihu.com/question/524843833/answer/2436554021?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-13"
+            },
+            {
+                "title": "为什么是 iPad？",
+                "link": "http://zhuanlan.zhihu.com/p/497443371?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-12"
+            },
+            {
+                "title": "运动套件除了好看以外，能带来空气动力学的提升吗？",
+                "link": "http://www.zhihu.com/question/525008862/answer/2432605971?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-12"
+            },
+            {
                 "title": "以「驾驶者为中心」的的设计有什么特点，会带来什么样不同的体验？",
                 "link": "http://www.zhihu.com/question/525006497/answer/2435350524?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-04-12"
@@ -37564,6 +37614,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     }
 ]
