@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育",
+                "link": "http://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html",
+                "published": "2022-04-15"
+            },
+            {
                 "title": "科技爱好者周刊（第 202 期）：三个有启发的学习方法",
                 "link": "http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html",
                 "published": "2022-04-08"
@@ -145,13 +150,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "从餐巾纸到你的思维伴侣：Napkin 如何让灵感收集变得简单易用？",
+                "link": "https://sspai.com/post/72633",
+                "published": "2022-04-15"
+            },
+            {
+                "title": "派早报：飞利浦推出新款量子点 miniLED 显示器、Google 推出 Switch To Android 应用",
+                "link": "https://sspai.com/post/72673",
+                "published": "2022-04-15"
+            },
+            {
+                "title": "升级背后的取舍与不足：对 iPhone 13 Pro 镜头切换逻辑的一些抱怨",
+                "link": "https://sspai.com/post/72614",
+                "published": "2022-04-14"
+            },
+            {
+                "title": "家的风格 | 小改动累加起来，是居住舒适度的质变",
+                "link": "https://sspai.com/post/72530",
+                "published": "2022-04-14"
+            },
+            {
+                "title": "Matrix 专栏导读 02：关注自己的成长与进步",
+                "link": "https://sspai.com/post/72649",
+                "published": "2022-04-14"
+            },
             {
                 "title": "十年 iPhone 用户的折叠屏初体验：vivo X Fold 这些地方让我觉得「做对了」",
                 "link": "https://sspai.com/post/72648",
@@ -34429,6 +34459,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "日产汽车提出的「永恒的日式未来主义」设计理念，应该如何理解？",
+                "link": "http://www.zhihu.com/question/527575542/answer/2440446606?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-15"
+            },
+            {
+                "title": "圈速表现相近但宽度、配方不同的轮胎，用起来会有什么区别？",
+                "link": "http://www.zhihu.com/question/527954505/answer/2440454945?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-15"
+            },
+            {
+                "title": "面试官如何判断面试者的机器学习水平？",
+                "link": "http://www.zhihu.com/question/62482926/answer/2432399802?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-14"
+            },
+            {
+                "title": "麋鹿测试可以说明什么，为什么很多跑车都没有 GK5 的麋鹿成绩好？",
+                "link": "http://www.zhihu.com/question/315423961/answer/2403447083?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-14"
+            },
+            {
+                "title": "解包分析《艾尔登法环》中的BOSS AI设计（读指令篇）",
+                "link": "http://zhuanlan.zhihu.com/p/492629716?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-14"
+            },
+            {
                 "title": "相同轴距的两厢车和三厢车哪个储物空间更大？",
                 "link": "http://www.zhihu.com/question/525007784/answer/2438045418?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-04-14"
@@ -37684,6 +37739,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 5
     }
 ]
