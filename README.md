@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -34,6 +34,8 @@
     </summary>
 
 
+* [【2022-04-17】 从微信读书到免费网文，聊聊我眼中的移动阅读行业](https://sspai.com/post/72640)
+* [【2022-04-16】 App+1 | Shortery，为 macOS 捷径增加自动化运行的新方式](https://sspai.com/post/72692)
 * [【2022-04-16】 掀起一波「求码潮」的跨平台阅读工具：识区｜App +1](https://sspai.com/post/72690)
 * [【2022-04-15】 本周看什么丨最近值得一看的一大摞作品](https://sspai.com/post/72684)
 * [【2022-04-15】 感受来自遥远时空的音乐魅力，用这些歌曲体验古典乐之美](https://sspai.com/post/72679)
@@ -42,8 +44,6 @@
 * [【2022-04-15】 派早报：飞利浦推出新款量子点 miniLED 显示器、Google 推出 Switch To Android 应用](https://sspai.com/post/72673)
 * [【2022-04-14】 升级背后的取舍与不足：对 iPhone 13 Pro 镜头切换逻辑的一些抱怨](https://sspai.com/post/72614)
 * [【2022-04-14】 家的风格 | 小改动累加起来，是居住舒适度的质变](https://sspai.com/post/72530)
-* [【2022-04-14】 Matrix 专栏导读 02：关注自己的成长与进步](https://sspai.com/post/72649)
-* [【2022-04-14】 十年 iPhone 用户的折叠屏初体验：vivo X Fold 这些地方让我觉得「做对了」](https://sspai.com/post/72648)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-04-16 05:13:01
+:alarm_clock: 更新时间: 2022-04-17 05:13:17

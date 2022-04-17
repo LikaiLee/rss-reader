@@ -158,6 +158,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从微信读书到免费网文，聊聊我眼中的移动阅读行业",
+                "link": "https://sspai.com/post/72640",
+                "published": "2022-04-17"
+            },
+            {
+                "title": "App+1 | Shortery，为 macOS 捷径增加自动化运行的新方式",
+                "link": "https://sspai.com/post/72692",
+                "published": "2022-04-16"
+            },
+            {
                 "title": "掀起一波「求码潮」的跨平台阅读工具：识区｜App +1",
                 "link": "https://sspai.com/post/72690",
                 "published": "2022-04-16"
@@ -4023,7 +4033,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -37774,6 +37784,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     }
 ]
