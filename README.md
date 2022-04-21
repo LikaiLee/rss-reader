@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+5】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-04-21】 回归 Obsidian 的纯与真，写给普通人的入门指南](https://sspai.com/post/72697)
+* [【2022-04-21】 派早报：真我推出 Q5 系列手机、vivo 召开双芯影像技术沟通会等](https://sspai.com/post/72793)
+* [【2022-04-20】 写给想用代码建造新世界的你](https://sspai.com/post/72729)
+* [【2022-04-20】 「干净又卫生」受人喜爱的原因，被我用 Python 爬出来了](https://sspai.com/post/72756)
+* [【2022-04-20】 从成因到预防，带你全面了解「体态杀手」脊柱侧弯](https://sspai.com/post/72780)
 * [【2022-04-20】 App+1 | 姗姗来迟的 logseq 移动版，能否满足你的期待？](https://sspai.com/post/72774)
 * [【2022-04-20】 派早报：Apple 在产品中增加对再生材料的使用、Hi nova 9 SE 正式发布等](https://sspai.com/post/72770)
 * [【2022-04-19】 随时可用的 PC 体验是这样「炼」成的，Windows 新版睡眠机制详解](https://sspai.com/post/72757)
 * [【2022-04-19】 不读可以先收藏 10：最近值得「稍后读」的 6 篇好文章](https://sspai.com/post/72753)
 * [【2022-04-19】 阅读批注样样通，我的 Calibre 书籍库管理方法论](https://sspai.com/post/72748)
-* [【2022-04-19】 城市漫步指南：台北，上山下海忠孝东路走九遍](https://sspai.com/post/72651)
-* [【2022-04-19】 派早报：铠侠和西部数据投资新 3D 闪存工厂等](https://sspai.com/post/72742)
-* [【2022-04-18】 派评 | 近期值得关注的 App](https://sspai.com/post/72730)
-* [【2022-04-18】 除了对比风味和口感，我还探寻了朝鲜啤酒的历史](https://sspai.com/prime/story/vol018-north-korean-beer)
-* [【2022-04-18】 家的风格 | 摄影师的家不能没有艺术，于是常被喜欢的一切环绕](https://sspai.com/post/72623)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,7 @@
     </summary>
 
 
+* [【2022-04-21】 “变态”与“戏精” | 中生代往事·昆虫帝国的“二次革命”（上）](http://zhuanlan.zhihu.com/p/502210130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-20】 《艾尔登法环》推出 1.04 版本更新，游戏里又有哪些大的变动，你感受如何？](http://www.zhihu.com/question/528892738/answer/2448366081?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-20】 油价又涨了，到底买油车还是新能源汽车？](http://www.zhihu.com/question/522472424/answer/2447275783?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-19】 维克里拍卖（Vickrey auction）为什么得不到广泛应用？](http://www.zhihu.com/question/454149961/answer/2324921788?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,7 +82,6 @@
 * [【2022-04-17】 如何评价国产动画《凡人修仙传》年番第二十五集？](http://www.zhihu.com/question/528262379/answer/2444096429?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-16】 2022 年密室逃脱 EGA 评选有哪些看点？未来线下游戏会怎么发展？](http://www.zhihu.com/question/528126420/answer/2441675829?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-16】 如何评价动画《完美世界》 双石大战的整体节奏？](http://www.zhihu.com/question/528129257/answer/2441288417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-04-15】 何小鹏称「若供应链企业无法找到复产方式，中国所有整车厂或将停工」，会有哪些影响？](http://www.zhihu.com/question/527966984/answer/2440544395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-04-20 05:32:11
+:alarm_clock: 更新时间: 2022-04-21 05:34:41
