@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 204 期）：如何度过疫情、裁员、还有战争",
+                "link": "http://www.ruanyifeng.com/blog/2022/04/weekly-issue-204.html",
+                "published": "2022-04-22"
+            },
+            {
                 "title": "科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育",
                 "link": "http://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html",
                 "published": "2022-04-15"
@@ -150,13 +155,53 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "Wordle 玩累了，你也可以试试这两款「中文版」",
+                "link": "https://sspai.com/post/72765",
+                "published": "2022-04-22"
+            },
+            {
+                "title": "派早报：一加发布 Ace 系列新机、B&O 推出主动降噪无线耳机 Beoplay EX",
+                "link": "https://sspai.com/post/72830",
+                "published": "2022-04-22"
+            },
+            {
+                "title": "一派·在线沙龙 08：阅读，不该只在读书日",
+                "link": "https://sspai.com/post/72789",
+                "published": "2022-04-21"
+            },
+            {
+                "title": "一派·Podcast 番外｜一名文科生的愿望，是做程序员",
+                "link": "https://sspai.com/post/72769",
+                "published": "2022-04-21"
+            },
+            {
+                "title": "处理器简史 05 | 七年抗辩官司和解，一朝发难反目成仇",
+                "link": "https://sspai.com/prime/story/sv-anecdotes-05",
+                "published": "2022-04-21"
+            },
+            {
+                "title": "新玩意 102｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/72821",
+                "published": "2022-04-21"
+            },
+            {
+                "title": "作为一名读者，你要有「甲方思维」",
+                "link": "https://sspai.com/post/72767",
+                "published": "2022-04-21"
+            },
+            {
+                "title": "旧电脑装 Chrome OS，官方「刷机」方案来了：Chrome OS Flex 安装与体验",
+                "link": "https://sspai.com/post/72764",
+                "published": "2022-04-21"
+            },
             {
                 "title": "回归 Obsidian 的纯与真，写给普通人的入门指南",
                 "link": "https://sspai.com/post/72697",
@@ -4118,7 +4163,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 8
     },
     {
         "id": 2,
@@ -34574,6 +34619,56 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "灰太狼的刀疤是哪来的？",
+                "link": "http://www.zhihu.com/question/311763237/answer/2447501697?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-22"
+            },
+            {
+                "title": "如何评价刚刚全球首发的宝马全新一代 7 系和 i7？",
+                "link": "http://www.zhihu.com/question/529064619/answer/2451038369?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-22"
+            },
+            {
+                "title": "2022 年了，新能源汽车的保值率怎么样了？",
+                "link": "http://www.zhihu.com/question/529025280/answer/2450906601?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-21"
+            },
+            {
+                "title": "如何看待动画《新秦时明月》第23集？",
+                "link": "http://www.zhihu.com/question/529273418/answer/2450845457?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-21"
+            },
+            {
+                "title": "创作者请回答｜李鸿政医生：像侦探一样，书写医学科普故事",
+                "link": "http://zhuanlan.zhihu.com/p/502409715?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-21"
+            },
+            {
+                "title": "为什么电动汽车很少听说加价销售？",
+                "link": "http://www.zhihu.com/question/528890987/answer/2449518474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-21"
+            },
+            {
+                "title": "金融战史鉴（上）：战争，海盗，黄金和美元霸权",
+                "link": "http://zhuanlan.zhihu.com/p/500782215?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-21"
+            },
+            {
+                "title": "金融战史鉴（下）：金融安全从哪里来？",
+                "link": "http://zhuanlan.zhihu.com/p/502093198?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-21"
+            },
+            {
+                "title": "王小波逝世 25 周年，你对他生前有哪些评价？",
+                "link": "http://www.zhihu.com/question/527232976/answer/2435647231?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-21"
+            },
+            {
+                "title": "解包分析《艾尔登法环》中的BOSS AI设计（快慢刀篇）",
+                "link": "http://zhuanlan.zhihu.com/p/495737108?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-21"
+            },
+            {
                 "title": "“变态”与“戏精” | 中生代往事·昆虫帝国的“二次革命”（上）",
                 "link": "http://zhuanlan.zhihu.com/p/502210130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-04-21"
@@ -37909,6 +38004,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 10
     }
 ]
