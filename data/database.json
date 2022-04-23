@@ -155,13 +155,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "Matrix Talk × 试播集：聊聊关于读书的那些小事",
+                "link": "https://sspai.com/post/72835",
+                "published": "2022-04-23"
+            },
+            {
+                "title": "主题书单推荐：吃是天底下头等大事",
+                "link": "https://sspai.com/post/72822",
+                "published": "2022-04-23"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的一大把作品",
+                "link": "https://sspai.com/post/72839",
+                "published": "2022-04-22"
+            },
+            {
+                "title": "App+1丨想把食材吃出花样？《隔离食用手册》值得一试",
+                "link": "https://sspai.com/post/72815",
+                "published": "2022-04-22"
+            },
+            {
+                "title": "手机里的芯片到底有什么用？为什么大家都想要「更强」",
+                "link": "https://sspai.com/post/72758",
+                "published": "2022-04-22"
+            },
+            {
+                "title": "Glass：属于摄影爱好者的下一个 Instagram？",
+                "link": "https://sspai.com/post/72747",
+                "published": "2022-04-22"
+            },
             {
                 "title": "Wordle 玩累了，你也可以试试这两款「中文版」",
                 "link": "https://sspai.com/post/72765",
@@ -4163,7 +4193,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -34619,6 +34649,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "行业十年——聊聊【密室逃脱】、【剧本杀】、【线下实景RPG游戏】的那些事",
+                "link": "http://zhuanlan.zhihu.com/p/498993111?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-22"
+            },
+            {
+                "title": "想在五线城市开一个密室逃脱，需要多少钱？",
+                "link": "http://www.zhihu.com/question/526587289/answer/2435758804?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-22"
+            },
+            {
+                "title": "特斯拉一季度净利润飙升 255%，日赚 2.7 亿人民币，卖「碳」收入翻倍，哪些信息值得关注？",
+                "link": "http://www.zhihu.com/question/529210655/answer/2451997925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-22"
+            },
+            {
+                "title": "为什么有些人换了一辆车就不会开车了？",
+                "link": "http://www.zhihu.com/question/529257859/answer/2451907237?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-22"
+            },
+            {
                 "title": "灰太狼的刀疤是哪来的？",
                 "link": "http://www.zhihu.com/question/311763237/answer/2447501697?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-04-22"
@@ -38004,6 +38054,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 4
     }
 ]
