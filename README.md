@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+3】
 
 ## 文章链接
 
@@ -34,6 +34,7 @@
     </summary>
 
 
+* [【2022-04-24】 皮克斯这些电影陪伴了我的童年，也治愈了我长大后的心灵](https://sspai.com/post/72762)
 * [【2022-04-23】 Matrix Talk × 试播集：聊聊关于读书的那些小事](https://sspai.com/post/72835)
 * [【2022-04-23】 主题书单推荐：吃是天底下头等大事](https://sspai.com/post/72822)
 * [【2022-04-22】 本周看什么丨最近值得一看的一大把作品](https://sspai.com/post/72839)
@@ -43,7 +44,6 @@
 * [【2022-04-22】 Wordle 玩累了，你也可以试试这两款「中文版」](https://sspai.com/post/72765)
 * [【2022-04-22】 派早报：一加发布 Ace 系列新机、B&O 推出主动降噪无线耳机 Beoplay EX](https://sspai.com/post/72830)
 * [【2022-04-21】 一派·在线沙龙 08：阅读，不该只在读书日](https://sspai.com/post/72789)
-* [【2022-04-21】 一派·Podcast 番外｜一名文科生的愿望，是做程序员](https://sspai.com/post/72769)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,9 @@
     </summary>
 
 
+* [【2022-04-24】 马斯克透露「特斯拉 2024 年量产无方向盘和踏板的 Robotaxi 」，对此你有哪些期待？](http://www.zhihu.com/question/529255721/answer/2454770495?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-04-24】 为什么有些人换了一辆车就不会开车了？](http://www.zhihu.com/question/529257859/answer/2454051439?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-04-24】 能不能通俗易懂地说说电池包热管理到底是什么，它的意义是什么？](http://www.zhihu.com/question/505242375/answer/2453317813?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-22】 行业十年——聊聊【密室逃脱】、【剧本杀】、【线下实景RPG游戏】的那些事](http://zhuanlan.zhihu.com/p/498993111?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-22】 想在五线城市开一个密室逃脱，需要多少钱？](http://www.zhihu.com/question/526587289/answer/2435758804?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-22】 特斯拉一季度净利润飙升 255%，日赚 2.7 亿人民币，卖「碳」收入翻倍，哪些信息值得关注？](http://www.zhihu.com/question/529210655/answer/2451997925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -79,9 +82,6 @@
 * [【2022-04-22】 灰太狼的刀疤是哪来的？](http://www.zhihu.com/question/311763237/answer/2447501697?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-22】 如何评价刚刚全球首发的宝马全新一代 7 系和 i7？](http://www.zhihu.com/question/529064619/answer/2451038369?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-21】 2022 年了，新能源汽车的保值率怎么样了？](http://www.zhihu.com/question/529025280/answer/2450906601?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-04-21】 如何看待动画《新秦时明月》第23集？](http://www.zhihu.com/question/529273418/answer/2450845457?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-04-21】 创作者请回答｜李鸿政医生：像侦探一样，书写医学科普故事](http://zhuanlan.zhihu.com/p/502409715?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-04-21】 为什么电动汽车很少听说加价销售？](http://www.zhihu.com/question/528890987/answer/2449518474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-04-23 05:13:00
+:alarm_clock: 更新时间: 2022-04-24 05:13:15
