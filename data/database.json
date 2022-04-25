@@ -163,6 +163,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "MagSafe 外接电池还是充电宝？全网首发原理分析",
+                "link": "https://sspai.com/post/72838",
+                "published": "2022-04-25"
+            },
+            {
+                "title": "派早报：欧盟新法要求科技公司解释算法，App Store 大量下架久未更新应用等",
+                "link": "https://sspai.com/post/72873",
+                "published": "2022-04-25"
+            },
+            {
+                "title": "Google 的无障碍团队是怎样工作的？与全球无障碍团队总监座谈",
+                "link": "https://sspai.com/post/72859",
+                "published": "2022-04-24"
+            },
+            {
                 "title": "皮克斯这些电影陪伴了我的童年，也治愈了我长大后的心灵",
                 "link": "https://sspai.com/post/72762",
                 "published": "2022-04-24"
@@ -4198,7 +4213,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -34654,6 +34669,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "没有知识基础的人可以读懂量子力学吗？",
+                "link": "http://www.zhihu.com/question/278469566/answer/2453873860?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-24"
+            },
+            {
+                "title": "美元指数涨，美元对人民币汇率涨，说明国际资本都正在流向美国，那么这些资本流到美国的哪些地方？",
+                "link": "http://www.zhihu.com/question/529537098/answer/2453942123?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-24"
+            },
+            {
                 "title": "马斯克透露「特斯拉 2024 年量产无方向盘和踏板的 Robotaxi 」，对此你有哪些期待？",
                 "link": "http://www.zhihu.com/question/529255721/answer/2454770495?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-04-24"
@@ -38074,6 +38099,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     }
 ]
