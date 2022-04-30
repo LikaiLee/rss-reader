@@ -160,13 +160,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一派·Podcast｜焦虑的反面不是不焦虑，而是「具体」",
+                "link": "https://sspai.com/post/72881",
+                "published": "2022-04-30"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/72966",
+                "published": "2022-04-29"
+            },
+            {
+                "title": "App+1 |「没什么东西」的明星公司，做了个有点东西的启动器：Nothing Launcher",
+                "link": "https://sspai.com/post/72962",
+                "published": "2022-04-29"
+            },
+            {
+                "title": "有了这些第三方 App，你的 iOS 健康数据还能更好用",
+                "link": "https://sspai.com/post/72761",
+                "published": "2022-04-29"
+            },
             {
                 "title": "听过很多道理，仍然捋不清 USB 这一生",
                 "link": "https://sspai.com/post/72867",
@@ -4333,7 +4353,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -34789,6 +34809,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "在纯电动车电能补充方式上，换电模式和充电模式哪种更合理？",
+                "link": "http://www.zhihu.com/question/268391745/answer/2462740438?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-04-29"
+            },
+            {
                 "title": "《龙珠》鸟山明的哪些细节处理让人咋舌？",
                 "link": "http://www.zhihu.com/question/50831512/answer/2462048376?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-04-29"
@@ -38339,6 +38364,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     }
 ]

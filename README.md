@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-04-30】 一派·Podcast｜焦虑的反面不是不焦虑，而是「具体」](https://sspai.com/post/72881)
+* [【2022-04-29】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/72966)
+* [【2022-04-29】 App+1 |「没什么东西」的明星公司，做了个有点东西的启动器：Nothing Launcher](https://sspai.com/post/72962)
+* [【2022-04-29】 有了这些第三方 App，你的 iOS 健康数据还能更好用](https://sspai.com/post/72761)
 * [【2022-04-29】 听过很多道理，仍然捋不清 USB 这一生](https://sspai.com/post/72867)
 * [【2022-04-29】 派早报：华为召开春季新品发布会、戴尔 XPS 13 Plus 笔记本正式开售](https://sspai.com/post/72955)
 * [【2022-04-28】 新玩意 103｜少数派的编辑们最近买了啥？](https://sspai.com/post/72948)
 * [【2022-04-28】 咖啡地图 | 揭秘世界咖啡产量第一的巴西](https://sspai.com/post/72787)
 * [【2022-04-28】 少数派 x 潮汐 | 疫情当下希望人人都能少些焦虑：我们为你准备了份小礼物](https://sspai.com/post/72870)
 * [【2022-04-28】 5 折换电池、9.4 折以旧换新……「京东版 AppleCare+」体验](https://sspai.com/post/72916)
-* [【2022-04-28】 线下活动｜欢迎光临，这里是少数派「春日发声」音乐影像计划](https://sspai.com/post/72944)
-* [【2022-04-28】 派早报：Apple 正式推出自助维修计划、多款新机即将发布等](https://sspai.com/post/72945)
-* [【2022-04-27】 具透 | 它太爱在播放控件上整活了：Android 13 首个测试版上线](https://sspai.com/post/72935)
-* [【2022-04-27】 试播集 05 | 少数派作者们最近读完了啥](https://sspai.com/post/72904)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,7 @@
     </summary>
 
 
+* [【2022-04-29】 在纯电动车电能补充方式上，换电模式和充电模式哪种更合理？](http://www.zhihu.com/question/268391745/answer/2462740438?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-29】 《龙珠》鸟山明的哪些细节处理让人咋舌？](http://www.zhihu.com/question/50831512/answer/2462048376?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-28】 如何评价香草社游戏《十三机兵防卫圈》登录 Nintendo Switch？这意味着什么？](http://www.zhihu.com/question/502270782/answer/2461886665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-28】 《光·遇》表演季揭幕，说说那些发生在剧场舞台和留影蜡烛中温暖有趣的故事？](http://www.zhihu.com/question/530428963/answer/2461886449?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,7 +82,6 @@
 * [【2022-04-27】 作家的日常是怎样的？有没有比较有趣的事情？](http://www.zhihu.com/question/42982102/answer/2453755598?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-27】 ICLR2022文章速览（二）](http://zhuanlan.zhihu.com/p/505617266?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-04-27】 谈恋爱到底能不能让人加快成长，成熟？](http://www.zhihu.com/question/271226347/answer/2458523980?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-04-26】 如何评价 4 月新番动画《间谍过家家》第三集？](http://www.zhihu.com/question/529491054/answer/2458823093?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-04-29 05:17:44
+:alarm_clock: 更新时间: 2022-04-30 05:13:57
