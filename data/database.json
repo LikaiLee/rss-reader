@@ -168,6 +168,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "身体健康百病不侵，ICU 医生助你抢鲜了解《中国居民膳食指南（2022）》",
+                "link": "https://sspai.com/post/72984",
+                "published": "2022-05-01"
+            },
+            {
                 "title": "运动界的「合家欢」游戏：《Nintendo Switch 运动》上手体验",
                 "link": "https://sspai.com/post/72979",
                 "published": "2022-05-01"
@@ -4363,7 +4368,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -34819,6 +34824,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "混合动力汽车为何只用电池储能，而不用飞轮、压缩空气、超级电容等方式储能？",
+                "link": "http://www.zhihu.com/question/319174675/answer/2464922188?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-02"
+            },
+            {
+                "title": "电动车没有大幅提高续航里程的情况下，研发方向是不是应该转向快充技术？",
+                "link": "http://www.zhihu.com/question/514658377/answer/2464031731?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-02"
+            },
+            {
                 "title": "如何评价《明日方舟》三周年前瞻特别节目？",
                 "link": "http://www.zhihu.com/question/529085857/answer/2454155094?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-05-01"
@@ -38394,6 +38409,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     }
 ]
