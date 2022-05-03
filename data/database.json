@@ -168,6 +168,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "核酸、抗原、抗体检测，三种新冠检测方式有何差别？",
+                "link": "https://sspai.com/post/72950",
+                "published": "2022-05-03"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/73000",
+                "published": "2022-05-02"
+            },
+            {
+                "title": "[送码] 影视爱好者不能错过的 App：用 Apollo 打造专属影视信息库",
+                "link": "https://sspai.com/post/72871",
+                "published": "2022-05-02"
+            },
+            {
                 "title": "身体健康百病不侵，ICU 医生助你抢鲜了解《中国居民膳食指南（2022）》",
                 "link": "https://sspai.com/post/72984",
                 "published": "2022-05-01"
@@ -4368,7 +4383,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -38409,6 +38424,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     }
 ]
