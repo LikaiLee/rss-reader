@@ -168,6 +168,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "缩短命令、调整按键、自动补全，这些代码值得你放进 PowerShell 配置文件",
+                "link": "https://sspai.com/post/73019",
+                "published": "2022-05-04"
+            },
+            {
+                "title": "App+1 | 在家里来一场说走就走的旅行：GeoGuessr",
+                "link": "https://sspai.com/post/72968",
+                "published": "2022-05-03"
+            },
+            {
                 "title": "核酸、抗原、抗体检测，三种新冠检测方式有何差别？",
                 "link": "https://sspai.com/post/72950",
                 "published": "2022-05-03"
@@ -4383,7 +4393,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 2,

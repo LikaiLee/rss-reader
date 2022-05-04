@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 
@@ -34,6 +34,8 @@
     </summary>
 
 
+* [【2022-05-04】 缩短命令、调整按键、自动补全，这些代码值得你放进 PowerShell 配置文件](https://sspai.com/post/73019)
+* [【2022-05-03】 App+1 | 在家里来一场说走就走的旅行：GeoGuessr](https://sspai.com/post/72968)
 * [【2022-05-03】 核酸、抗原、抗体检测，三种新冠检测方式有何差别？](https://sspai.com/post/72950)
 * [【2022-05-02】 派评 | 近期值得关注的 App](https://sspai.com/post/73000)
 * [【2022-05-02】 [送码] 影视爱好者不能错过的 App：用 Apollo 打造专属影视信息库](https://sspai.com/post/72871)
@@ -42,8 +44,6 @@
 * [【2022-04-30】 推特到底是怎么被买下来的？——跟马斯克学公司并购实战](https://sspai.com/prime/story/twitter-merger-explained)
 * [【2022-04-30】 一派·Podcast｜焦虑的反面不是不焦虑，而是「具体」](https://sspai.com/post/72881)
 * [【2022-04-29】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/72966)
-* [【2022-04-29】 App+1 |「没什么东西」的明星公司，做了个有点东西的启动器：Nothing Launcher](https://sspai.com/post/72962)
-* [【2022-04-29】 有了这些第三方 App，你的 iOS 健康数据还能更好用](https://sspai.com/post/72761)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-05-03 05:17:53
+:alarm_clock: 更新时间: 2022-05-04 05:17:41
