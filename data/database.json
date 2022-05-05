@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "打包工具 rollup.js 入门教程",
+                "link": "http://www.ruanyifeng.com/blog/2022/05/rollup.html",
+                "published": "2022-05-05"
+            },
+            {
                 "title": "微服务是什么？",
                 "link": "http://www.ruanyifeng.com/blog/2022/04/microservice.html",
                 "published": "2022-04-29"
@@ -160,13 +165,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "颜值与性能兼得，开箱即用、易于同步的终端美化方案：Starship",
+                "link": "https://sspai.com/post/72888",
+                "published": "2022-05-05"
+            },
+            {
+                "title": "派早报：三星发布 UFS 4.0、AMD 公布锐龙 7000 系列产品路线图等",
+                "link": "https://sspai.com/post/73029",
+                "published": "2022-05-05"
+            },
+            {
+                "title": "作为学习型工具，文石 Note5+ 用起来怎么样？",
+                "link": "https://sspai.com/post/71542",
+                "published": "2022-05-04"
+            },
             {
                 "title": "缩短命令、调整按键、自动补全，这些代码值得你放进 PowerShell 配置文件",
                 "link": "https://sspai.com/post/73019",
@@ -4393,7 +4413,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -34849,6 +34869,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "你是如何被护肤成分「维生素 C」圈粉的？",
+                "link": "http://www.zhihu.com/question/446102132/answer/2264274182?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-04"
+            },
+            {
                 "title": "混合动力汽车为何只用电池储能，而不用飞轮、压缩空气、超级电容等方式储能？",
                 "link": "http://www.zhihu.com/question/319174675/answer/2464922188?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-05-02"
@@ -38434,6 +38459,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
