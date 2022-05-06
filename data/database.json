@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 205 期）：互联网风口过去了吗？",
+                "link": "http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html",
+                "published": "2022-05-06"
+            },
+            {
                 "title": "打包工具 rollup.js 入门教程",
                 "link": "http://www.ruanyifeng.com/blog/2022/05/rollup.html",
                 "published": "2022-05-05"
@@ -172,6 +177,31 @@
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "征服用户、走向市场：像「乐高」一样的 Notion 用了这些策略",
+                "link": "https://sspai.com/post/72987",
+                "published": "2022-05-06"
+            },
+            {
+                "title": "派早报：Marshall 发布 Emberton II 蓝牙音箱、北京发布一系列快递包装绿色化新规",
+                "link": "https://sspai.com/post/73046",
+                "published": "2022-05-06"
+            },
+            {
+                "title": "新玩意 104｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/73036",
+                "published": "2022-05-05"
+            },
+            {
+                "title": "体检报告出现高尿酸，你该如何在饮食方面控制风险？",
+                "link": "https://sspai.com/post/73031",
+                "published": "2022-05-05"
+            },
+            {
+                "title": "Matrix Talk丨你的专业究竟是做什么的？",
+                "link": "https://sspai.com/post/72892",
+                "published": "2022-05-05"
+            },
             {
                 "title": "颜值与性能兼得，开箱即用、易于同步的终端美化方案：Starship",
                 "link": "https://sspai.com/post/72888",
@@ -4413,7 +4443,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -34869,6 +34899,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "各家新能源车企是如何避免出现锂电池热失控现象的？",
+                "link": "http://www.zhihu.com/question/529055903/answer/2470287834?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-06"
+            },
+            {
+                "title": "在两亿年前，昆虫就会“搞间谍”与“牵红线” | 中生代往事（下）",
+                "link": "http://zhuanlan.zhihu.com/p/509956618?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-06"
+            },
+            {
+                "title": "汽车热管理系统目前有哪些技术难点呢？",
+                "link": "http://www.zhihu.com/question/27453167/answer/2468910625?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-06"
+            },
+            {
+                "title": "为什么炸食物要炸两遍？真的会使外表更脆吗？详细原理是什么？",
+                "link": "http://www.zhihu.com/question/323027010/answer/2466270062?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-05"
+            },
+            {
                 "title": "你是如何被护肤成分「维生素 C」圈粉的？",
                 "link": "http://www.zhihu.com/question/446102132/answer/2264274182?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-05-04"
@@ -38459,6 +38509,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     }
 ]
