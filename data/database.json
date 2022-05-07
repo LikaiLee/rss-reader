@@ -170,13 +170,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "用好 Quicklink 功能，让 Raycast 启动器更强大",
+                "link": "https://sspai.com/post/72951",
+                "published": "2022-05-07"
+            },
+            {
+                "title": "派早报：Apple、谷歌与微软承诺拓展对 FIDO 标准的支持，YouTube Go 即将关闭等",
+                "link": "https://sspai.com/post/73067",
+                "published": "2022-05-07"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的一大沓作品",
+                "link": "https://sspai.com/post/73054",
+                "published": "2022-05-06"
+            },
+            {
+                "title": "M1 CPU 那么多的核，macOS 是怎样管理的？",
+                "link": "https://sspai.com/post/73048",
+                "published": "2022-05-06"
+            },
+            {
+                "title": "办公时应该听什么？——专注音乐类型解析",
+                "link": "https://sspai.com/prime/story/vol019-focus-music",
+                "published": "2022-05-06"
+            },
             {
                 "title": "征服用户、走向市场：像「乐高」一样的 Notion 用了这些策略",
                 "link": "https://sspai.com/post/72987",
@@ -34899,6 +34924,46 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "创作者请回答｜藩篱：开局身陷债款，手边只有一台旧电脑，99 年男孩该怎么破？",
+                "link": "http://zhuanlan.zhihu.com/p/510046738?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-07"
+            },
+            {
+                "title": "宝马 M4 雷霆（G82）的M牵引力控制系统如何使用？",
+                "link": "http://www.zhihu.com/question/531703030/answer/2473979192?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-07"
+            },
+            {
+                "title": "一台优秀家用SUV该拥有怎样的素质？",
+                "link": "http://www.zhihu.com/question/522659530/answer/2473188545?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-07"
+            },
+            {
+                "title": "如何评价《悠哉日常大王剧场版：假期活动》？",
+                "link": "http://www.zhihu.com/question/314069440/answer/2457190421?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-06"
+            },
+            {
+                "title": "如何评价动画《鸭子侦探》及主人公梅拉德小姐？",
+                "link": "http://www.zhihu.com/question/25715432/answer/2086624573?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-06"
+            },
+            {
+                "title": "如何看待动画《新秦时明月》第25集？",
+                "link": "http://www.zhihu.com/question/531591558/answer/2472733210?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-06"
+            },
+            {
+                "title": "大家怎么看氢储能？",
+                "link": "http://www.zhihu.com/question/413851108/answer/2472739777?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-06"
+            },
+            {
+                "title": "为什么经济学诺贝尔奖预测不了金融危机？",
+                "link": "http://www.zhihu.com/question/523298037/answer/2472347715?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-06"
+            },
+            {
                 "title": "各家新能源车企是如何避免出现锂电池热失控现象的？",
                 "link": "http://www.zhihu.com/question/529055903/answer/2470287834?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-05-06"
@@ -38509,6 +38574,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 8
     }
 ]
