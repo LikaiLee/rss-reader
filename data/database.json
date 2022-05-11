@@ -178,6 +178,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Refresh 周报：Google I/O 22 前瞻",
+                "link": "https://sspai.com/post/73144",
+                "published": "2022-05-11"
+            },
+            {
+                "title": "派早报：iPod touch 宣布停产、大疆发布 DJI Mini 3 Pro 等",
+                "link": "https://sspai.com/post/73145",
+                "published": "2022-05-11"
+            },
+            {
+                "title": "PowerShell 新手入门（上）——认识基本概念",
+                "link": "https://sspai.com/prime/story/powershell-primer-01",
+                "published": "2022-05-10"
+            },
+            {
+                "title": "「黑泽明电影」风格作品，一部横版卷轴剑戟片：《黄泉之路》游玩体验",
+                "link": "https://sspai.com/post/73122",
+                "published": "2022-05-10"
+            },
+            {
+                "title": "或许是 Apple 最没有存在感的服务：macOS Server 消亡史",
+                "link": "https://sspai.com/post/73125",
+                "published": "2022-05-10"
+            },
+            {
                 "title": "项目笔记很重要，于是我用「链接」让它成为笔记系统中枢",
                 "link": "https://sspai.com/post/72942",
                 "published": "2022-05-10"
@@ -34984,6 +35009,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "看海应该去舟山的哪个岛?",
+                "link": "http://www.zhihu.com/question/343960753/answer/2478566355?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-11"
+            },
+            {
+                "title": "燃油系统清洗有必要吗？多久清洗一次？",
+                "link": "http://www.zhihu.com/question/531498990/answer/2479182810?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-10"
+            },
+            {
+                "title": "为什么买了新车后，4S 店非要免费贴膜？这都是套路吗？",
+                "link": "http://www.zhihu.com/question/531576025/answer/2479173698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-10"
+            },
+            {
+                "title": "零基础的小白第一次去做保养，都需要做哪些功课？",
+                "link": "http://www.zhihu.com/question/531487339/answer/2479126471?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-10"
+            },
+            {
+                "title": "如果行驶里程不足保养里程，需要每年至少保养一次吗？",
+                "link": "http://www.zhihu.com/question/531487981/answer/2479025436?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-10"
+            },
+            {
+                "title": "有哪些有用的发动机积碳清洗方法？",
+                "link": "http://www.zhihu.com/question/531499257/answer/2476745601?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-10"
+            },
+            {
                 "title": "米哈游新游《绝区零》上线预热网站，有哪些信息值得关注？",
                 "link": "http://www.zhihu.com/question/531845710/answer/2476291427?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-05-09"
@@ -38644,6 +38699,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 6
     }
 ]
