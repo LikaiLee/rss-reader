@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+3】
 
 ## 文章链接
 
@@ -15,6 +15,7 @@
     </summary>
 
 
+* [【2022-05-13】 科技爱好者周刊（第 206 期）：如何走出失望和怀疑](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)
 * [【2022-05-06】 科技爱好者周刊（第 205 期）：互联网风口过去了吗？](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)
 * [【2022-05-05】 打包工具 rollup.js 入门教程](http://www.ruanyifeng.com/blog/2022/05/rollup.html)
 * [【2022-04-29】 微服务是什么？](http://www.ruanyifeng.com/blog/2022/04/microservice.html)
@@ -24,7 +25,6 @@
 * [【2022-04-01】 科技爱好者周刊（第 201 期）：中国需要成立半导体部](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html)
 * [【2022-03-25】 科技爱好者周刊（第 200 期）：低期望，多尝试](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)
 * [【2022-03-18】 科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)
-* [【2022-03-11】 科技爱好者周刊（第 198 期）：美国制造是否可能](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-05-13】 追求奇效不如先「用对」：聊聊火遍全网的筋膜枪](https://sspai.com/post/73097)
+* [【2022-05-13】 派早报：Sony 推出新款 WH-1000XM5 耳机、英伟达宣布开源其 Linux GPU 驱动](https://sspai.com/post/73177)
+* [【2022-05-12】 新玩意 105｜少数派的编辑们最近买了啥？](https://sspai.com/post/73170)
+* [【2022-05-12】 咖啡地图 | 你可能猜不到越南是世界咖啡产量第二大国](https://sspai.com/post/73142)
+* [【2022-05-12】 任天堂 Indie World 回顾：这些游戏值得加入你的愿望清单](https://sspai.com/post/73157)
 * [【2022-05-12】 派早报：Google 召开 I/O 大会、索尼发布 Xperia 系列新品等](https://sspai.com/post/73164)
 * [【2022-05-11】 官宣、爆料齐发，重新定义信息获取……Google I/O 22 Keynote 看点回顾](https://sspai.com/post/73161)
 * [【2022-05-11】 Matrix 专栏导读 03 | 不要追求完美的自己](https://sspai.com/post/73119)
 * [【2022-05-11】 本月玩什么 | 战锤 40K：混沌之门 - 恶魔猎人、鬼玩人、迷走深空：碎舰师](https://sspai.com/post/73149)
 * [【2022-05-11】 Krispee Street：来自 Netflix 游戏世界里的一抹禅意](https://sspai.com/post/73123)
-* [【2022-05-11】 Refresh 周报：Google I/O 22 前瞻](https://sspai.com/post/73144)
-* [【2022-05-11】 派早报：iPod touch 宣布停产、大疆发布 DJI Mini 3 Pro 等](https://sspai.com/post/73145)
-* [【2022-05-10】 PowerShell 新手入门（上）——认识基本概念](https://sspai.com/prime/story/powershell-primer-01)
-* [【2022-05-10】 「黑泽明电影」风格作品，一部横版卷轴剑戟片：《黄泉之路》游玩体验](https://sspai.com/post/73122)
-* [【2022-05-10】 或许是 Apple 最没有存在感的服务：macOS Server 消亡史](https://sspai.com/post/73125)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,9 @@
     </summary>
 
 
+* [【2022-05-13】 如何评价动画《新秦时明月》第26集？](http://www.zhihu.com/question/532485112/answer/2482333727?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-05-12】 被Linux之父骂醒？英伟达破天荒开源GPU内核驱动，网友：活久见](http://zhuanlan.zhihu.com/p/513210646?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-05-12】 2亿人在4月静止](http://zhuanlan.zhihu.com/p/513344126?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-12】 如何拯救黑眼圈和眼袋?](http://www.zhihu.com/question/526252172/answer/2481715128?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-12】 我们能够从苹果的文案中学到什么？](http://zhuanlan.zhihu.com/p/25744274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-11】 你对《舞冰的祈愿》这部漫画有什么看法？](http://www.zhihu.com/question/516614137/answer/2475074059?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -79,9 +82,6 @@
 * [【2022-05-11】 看海应该去舟山的哪个岛?](http://www.zhihu.com/question/343960753/answer/2478566355?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-10】 燃油系统清洗有必要吗？多久清洗一次？](http://www.zhihu.com/question/531498990/answer/2479182810?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-10】 为什么买了新车后，4S 店非要免费贴膜？这都是套路吗？](http://www.zhihu.com/question/531576025/answer/2479173698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-10】 零基础的小白第一次去做保养，都需要做哪些功课？](http://www.zhihu.com/question/531487339/answer/2479126471?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-10】 如果行驶里程不足保养里程，需要每年至少保养一次吗？](http://www.zhihu.com/question/531487981/answer/2479025436?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-10】 有哪些有用的发动机积碳清洗方法？](http://www.zhihu.com/question/531499257/answer/2476745601?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-05-12 05:22:19
+:alarm_clock: 更新时间: 2022-05-13 05:38:48

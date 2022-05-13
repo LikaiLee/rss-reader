@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 206 期）：如何走出失望和怀疑",
+                "link": "http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html",
+                "published": "2022-05-13"
+            },
+            {
                 "title": "科技爱好者周刊（第 205 期）：互联网风口过去了吗？",
                 "link": "http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html",
                 "published": "2022-05-06"
@@ -170,13 +175,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "追求奇效不如先「用对」：聊聊火遍全网的筋膜枪",
+                "link": "https://sspai.com/post/73097",
+                "published": "2022-05-13"
+            },
+            {
+                "title": "派早报：Sony 推出新款 WH-1000XM5 耳机、英伟达宣布开源其 Linux GPU 驱动",
+                "link": "https://sspai.com/post/73177",
+                "published": "2022-05-13"
+            },
+            {
+                "title": "新玩意 105｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/73170",
+                "published": "2022-05-12"
+            },
+            {
+                "title": "咖啡地图 | 你可能猜不到越南是世界咖啡产量第二大国",
+                "link": "https://sspai.com/post/73142",
+                "published": "2022-05-12"
+            },
+            {
+                "title": "任天堂 Indie World 回顾：这些游戏值得加入你的愿望清单",
+                "link": "https://sspai.com/post/73157",
+                "published": "2022-05-12"
+            },
             {
                 "title": "派早报：Google 召开 I/O 大会、索尼发布 Xperia 系列新品等",
                 "link": "https://sspai.com/post/73164",
@@ -35034,6 +35064,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价动画《新秦时明月》第26集？",
+                "link": "http://www.zhihu.com/question/532485112/answer/2482333727?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-13"
+            },
+            {
+                "title": "被Linux之父骂醒？英伟达破天荒开源GPU内核驱动，网友：活久见",
+                "link": "http://zhuanlan.zhihu.com/p/513210646?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-12"
+            },
+            {
+                "title": "2亿人在4月静止",
+                "link": "http://zhuanlan.zhihu.com/p/513344126?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-12"
+            },
+            {
                 "title": "如何拯救黑眼圈和眼袋?",
                 "link": "http://www.zhihu.com/question/526252172/answer/2481715128?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-05-12"
@@ -38744,6 +38789,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     }
 ]
