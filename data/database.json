@@ -175,13 +175,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一日一技 | 用 Pandoc 和 Sigil，将 Markdown 文档做成电子书",
+                "link": "https://sspai.com/post/72536",
+                "published": "2022-05-14"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的一大波作品",
+                "link": "https://sspai.com/post/73199",
+                "published": "2022-05-13"
+            },
+            {
+                "title": "第一次组装台式机要从何下手？这是我的经验与推荐",
+                "link": "https://sspai.com/post/73187",
+                "published": "2022-05-13"
+            },
+            {
+                "title": "为了高效阅读 Newsletter，我把它们放进了 Cubox",
+                "link": "https://sspai.com/post/73188",
+                "published": "2022-05-13"
+            },
             {
                 "title": "追求奇效不如先「用对」：聊聊火遍全网的筋膜枪",
                 "link": "https://sspai.com/post/73097",
@@ -4608,7 +4628,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -35064,6 +35084,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "「麋鹿测试」到底是什么？对我们买车有何参考?",
+                "link": "http://www.zhihu.com/question/532088553/answer/2484259485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-13"
+            },
+            {
+                "title": "你有多久没旅游了？你的下一站旅行计划是什么？",
+                "link": "http://www.zhihu.com/question/532422014/answer/2482250095?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-13"
+            },
+            {
                 "title": "如何评价动画《新秦时明月》第26集？",
                 "link": "http://www.zhihu.com/question/532485112/answer/2482333727?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-05-13"
@@ -38789,6 +38819,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     }
 ]
