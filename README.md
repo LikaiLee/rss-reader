@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+3】
@@ -15,6 +15,7 @@
     </summary>
 
 
+* [【2022-05-20】 科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
 * [【2022-05-13】 科技爱好者周刊（第 206 期）：如何走出失望和怀疑](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)
 * [【2022-05-06】 科技爱好者周刊（第 205 期）：互联网风口过去了吗？](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)
 * [【2022-05-05】 打包工具 rollup.js 入门教程](http://www.ruanyifeng.com/blog/2022/05/rollup.html)
@@ -24,7 +25,6 @@
 * [【2022-04-08】 科技爱好者周刊（第 202 期）：三个有启发的学习方法](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html)
 * [【2022-04-01】 科技爱好者周刊（第 201 期）：中国需要成立半导体部](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html)
 * [【2022-03-25】 科技爱好者周刊（第 200 期）：低期望，多尝试](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)
-* [【2022-03-18】 科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-05-20】 译文 | 无障碍字体指南：如何让字体更为友好](https://sspai.com/post/73290)
+* [【2022-05-20】 派早报：Apple 武汉零售店将于 5 月 21 日开幕、vivo S15 系列正式发布](https://sspai.com/post/73318)
+* [【2022-05-19】 新玩意 106｜少数派的作者们最近买了啥？](https://sspai.com/post/73311)
+* [【2022-05-19】 旧酒换新杯，Linux 游戏的春天](https://sspai.com/post/73238)
+* [【2022-05-19】 App+1 | 国产小组件库，为笔记嵌入可视化模块：NotionPet](https://sspai.com/post/73211)
 * [【2022-05-19】 两个月的居家隔离，我收获了什么](https://sspai.com/post/73240)
 * [【2022-05-19】 派早报：Apple 公布创新辅助功能、研究人员发现特斯拉安全漏洞等](https://sspai.com/post/73300)
 * [【2022-05-18】 如何让家务分工更和谐？不妨试试量化分工的模式](https://sspai.com/post/73229)
 * [【2022-05-18】 macOS 的「预览」有几种用法？](https://sspai.com/post/73291)
 * [【2022-05-18】 别被 root 挡在门外：Shizuku 让 Android 玩机更简单](https://sspai.com/post/73294)
-* [【2022-05-18】 App+1 | 看起来好看、用起来趁手，高颜值 SSH 客户端：NextSSH](https://sspai.com/post/73201)
-* [【2022-05-18】 派早报：Apple 允许开发者无需用户确认上调订阅费用、「5G 通信壳」亮相等](https://sspai.com/post/73288)
-* [【2022-05-17】 不读可以先收藏 11：本月值得一读的 5 篇好文](https://sspai.com/post/73281)
-* [【2022-05-17】 普通的你我，都有值得以创作分享的价值](https://sspai.com/post/73265)
-* [【2022-05-17】 年度设计大会 Config 2022 落幕，Figma 的这些新特性值得你关注](https://sspai.com/post/73275)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,9 @@
     </summary>
 
 
+* [【2022-05-19】 创作者请回答｜没错就是我：用文字走进一场「完美谋杀」](http://zhuanlan.zhihu.com/p/516827572?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-05-19】 风投公司 a16z 宣布设立第一支 6 亿美元的游戏基金，致力于打造游戏行业的未来，如何解读这一行为？](http://www.zhihu.com/question/533526443/answer/2492571900?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-05-19】 招商证券首席策略在朋友圈表示「现在就是底！」，目前A股已经触底了吗？](http://www.zhihu.com/question/529425809/answer/2459157917?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-19】 静音轮胎真的“静音”吗？原理是什么？](http://www.zhihu.com/question/54960847/answer/2491235528?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-18】 腾讯第一季度营收 1355 亿元人民币，盈利 255.45 亿元人民币，哪些信息值得关注？](http://www.zhihu.com/question/533433320/answer/2491246001?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-18】 如何看待国家统计局表示「一旦疫情得到有效控制，正常生活秩序得到恢复，被压抑的消费需求会得到较快释放」？](http://www.zhihu.com/question/533037443/answer/2490856319?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -79,9 +82,6 @@
 * [【2022-05-17】 央行表示 2022 年 4 月社会融资规模增量为 9102 亿元，这数据说明了什么？](http://www.zhihu.com/question/532654339/answer/2486648045?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-16】 周冠宇 23 年有希望继续续约吗?](http://www.zhihu.com/question/527084204/answer/2482776911?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-16】 车企所谓的「终身质保、免费保养」全是坑？是否有猫腻？](http://www.zhihu.com/question/531597174/answer/2487467684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-16】 汽车空调异味怎么处理效果好？](http://www.zhihu.com/question/531670401/answer/2476749136?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-16】 节气门清洗的作用是什么？需要多久做一次？](http://www.zhihu.com/question/531500237/answer/2481228491?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-16】 新能源汽车与传统汽车保养的区别有哪些？](http://www.zhihu.com/question/531486982/answer/2485547941?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-05-19 05:19:44
+:alarm_clock: 更新时间: 2022-05-20 05:16:50
