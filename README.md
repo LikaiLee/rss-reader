@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+1】
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-05-21】 一日一技 | 从原理出发，聊聊如何简化二维码](https://sspai.com/post/72727)
+* [【2022-05-20】 怎样一键并列显示双语网页](https://sspai.com/prime/story/translate-webpage-in-new-window-automation)
+* [【2022-05-20】 一派·Podcast | 魔术练习生](https://sspai.com/post/73321)
+* [【2022-05-20】 本周看什么丨最近值得一看的一大批作品](https://sspai.com/post/73325)
+* [【2022-05-20】 Macintosh ：38 年之前的故事](https://sspai.com/post/73310)
+* [【2022-05-20】 咖啡地图 | 哥伦比亚的咖啡与宗教](https://sspai.com/post/73296)
 * [【2022-05-20】 译文 | 无障碍字体指南：如何让字体更为友好](https://sspai.com/post/73290)
 * [【2022-05-20】 派早报：Apple 武汉零售店将于 5 月 21 日开幕、vivo S15 系列正式发布](https://sspai.com/post/73318)
 * [【2022-05-19】 新玩意 106｜少数派的作者们最近买了啥？](https://sspai.com/post/73311)
 * [【2022-05-19】 旧酒换新杯，Linux 游戏的春天](https://sspai.com/post/73238)
-* [【2022-05-19】 App+1 | 国产小组件库，为笔记嵌入可视化模块：NotionPet](https://sspai.com/post/73211)
-* [【2022-05-19】 两个月的居家隔离，我收获了什么](https://sspai.com/post/73240)
-* [【2022-05-19】 派早报：Apple 公布创新辅助功能、研究人员发现特斯拉安全漏洞等](https://sspai.com/post/73300)
-* [【2022-05-18】 如何让家务分工更和谐？不妨试试量化分工的模式](https://sspai.com/post/73229)
-* [【2022-05-18】 macOS 的「预览」有几种用法？](https://sspai.com/post/73291)
-* [【2022-05-18】 别被 root 挡在门外：Shizuku 让 Android 玩机更简单](https://sspai.com/post/73294)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +72,7 @@
     </summary>
 
 
+* [【2022-05-20】 由 SE 发行的悬疑推理游戏《春逝百年抄》已上线，游戏质量如何？](http://www.zhihu.com/question/515973950/answer/2489593379?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-19】 创作者请回答｜没错就是我：用文字走进一场「完美谋杀」](http://zhuanlan.zhihu.com/p/516827572?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-19】 风投公司 a16z 宣布设立第一支 6 亿美元的游戏基金，致力于打造游戏行业的未来，如何解读这一行为？](http://www.zhihu.com/question/533526443/answer/2492571900?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-19】 招商证券首席策略在朋友圈表示「现在就是底！」，目前A股已经触底了吗？](http://www.zhihu.com/question/529425809/answer/2459157917?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,7 +82,6 @@
 * [【2022-05-18】 数据拾遗：美债拍卖数据【2】](http://zhuanlan.zhihu.com/p/516037009?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-17】 央行表示 2022 年 4 月社会融资规模增量为 9102 亿元，这数据说明了什么？](http://www.zhihu.com/question/532654339/answer/2486648045?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-16】 周冠宇 23 年有希望继续续约吗?](http://www.zhihu.com/question/527084204/answer/2482776911?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-16】 车企所谓的「终身质保、免费保养」全是坑？是否有猫腻？](http://www.zhihu.com/question/531597174/answer/2487467684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-05-20 05:16:50
+:alarm_clock: 更新时间: 2022-05-21 05:14:46

@@ -180,13 +180,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一日一技 | 从原理出发，聊聊如何简化二维码",
+                "link": "https://sspai.com/post/72727",
+                "published": "2022-05-21"
+            },
+            {
+                "title": "怎样一键并列显示双语网页",
+                "link": "https://sspai.com/prime/story/translate-webpage-in-new-window-automation",
+                "published": "2022-05-20"
+            },
+            {
+                "title": "一派·Podcast | 魔术练习生",
+                "link": "https://sspai.com/post/73321",
+                "published": "2022-05-20"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的一大批作品",
+                "link": "https://sspai.com/post/73325",
+                "published": "2022-05-20"
+            },
+            {
+                "title": "Macintosh ：38 年之前的故事",
+                "link": "https://sspai.com/post/73310",
+                "published": "2022-05-20"
+            },
+            {
+                "title": "咖啡地图 | 哥伦比亚的咖啡与宗教",
+                "link": "https://sspai.com/post/73296",
+                "published": "2022-05-20"
+            },
             {
                 "title": "译文 | 无障碍字体指南：如何让字体更为友好",
                 "link": "https://sspai.com/post/73290",
@@ -4763,7 +4793,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -35219,6 +35249,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "由 SE 发行的悬疑推理游戏《春逝百年抄》已上线，游戏质量如何？",
+                "link": "http://www.zhihu.com/question/515973950/answer/2489593379?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-20"
+            },
+            {
                 "title": "创作者请回答｜没错就是我：用文字走进一场「完美谋杀」",
                 "link": "http://zhuanlan.zhihu.com/p/516827572?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-05-19"
@@ -39054,6 +39089,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     }
 ]
