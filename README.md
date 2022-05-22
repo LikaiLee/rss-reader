@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -34,6 +34,7 @@
     </summary>
 
 
+* [【2022-05-21】 [送码]《白描》开发者新作，一站式解决的你的拍照和修图需求：方弗相机](https://sspai.com/post/73183)
 * [【2022-05-21】 一日一技 | 从原理出发，聊聊如何简化二维码](https://sspai.com/post/72727)
 * [【2022-05-20】 怎样一键并列显示双语网页](https://sspai.com/prime/story/translate-webpage-in-new-window-automation)
 * [【2022-05-20】 一派·Podcast | 魔术练习生](https://sspai.com/post/73321)
@@ -43,7 +44,6 @@
 * [【2022-05-20】 译文 | 无障碍字体指南：如何让字体更为友好](https://sspai.com/post/73290)
 * [【2022-05-20】 派早报：Apple 武汉零售店将于 5 月 21 日开幕、vivo S15 系列正式发布](https://sspai.com/post/73318)
 * [【2022-05-19】 新玩意 106｜少数派的作者们最近买了啥？](https://sspai.com/post/73311)
-* [【2022-05-19】 旧酒换新杯，Linux 游戏的春天](https://sspai.com/post/73238)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-05-21 05:14:46
+:alarm_clock: 更新时间: 2022-05-22 05:14:36

@@ -188,6 +188,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "[送码]《白描》开发者新作，一站式解决的你的拍照和修图需求：方弗相机",
+                "link": "https://sspai.com/post/73183",
+                "published": "2022-05-21"
+            },
+            {
                 "title": "一日一技 | 从原理出发，聊聊如何简化二维码",
                 "link": "https://sspai.com/post/72727",
                 "published": "2022-05-21"
@@ -4793,7 +4798,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -39089,6 +39094,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
