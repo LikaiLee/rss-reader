@@ -188,6 +188,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我是如何将旧设备的 Micro-USB 改为 Type-C 充电口的",
+                "link": "https://sspai.com/post/73056",
+                "published": "2022-05-23"
+            },
+            {
+                "title": "派早报：高通推出骁龙 8+ 等多款新品；YC 建议创业公司做最坏打算等",
+                "link": "https://sspai.com/post/73367",
+                "published": "2022-05-23"
+            },
+            {
+                "title": "科普 | 下载应用这件事，Play 商店为什么比国内软件商店更好？",
+                "link": "https://sspai.com/post/73356",
+                "published": "2022-05-22"
+            },
+            {
+                "title": "网上冲浪时，我是如何搭建网页收藏夹体系的",
+                "link": "https://sspai.com/post/73208",
+                "published": "2022-05-22"
+            },
+            {
                 "title": "[送码]《白描》开发者新作，一站式解决的你的拍照和修图需求：方弗相机",
                 "link": "https://sspai.com/post/73183",
                 "published": "2022-05-21"
@@ -4798,7 +4818,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 2,
