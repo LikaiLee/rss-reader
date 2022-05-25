@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+7】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 
 ## 文章链接
 
@@ -34,16 +34,16 @@
     </summary>
 
 
+* [【2022-05-25】 闭关家中，我将监控摄像对准了自己](https://sspai.com/post/73362)
+* [【2022-05-25】 派早报：Redmi Note 11T Pro 系列发布、WWDC22 日程公布等](https://sspai.com/post/73418)
+* [【2022-05-24】 费曼学习法真的好用吗？我尝试用费曼学习法去理解它自己](https://sspai.com/post/73353)
+* [【2022-05-24】 你忽略的「报到证」终于被取消，这件事究竟有什么影响？](https://sspai.com/post/73399)
 * [【2022-05-24】 #热门话题的两端藏着一段历史#](https://sspai.com/post/73345)
 * [【2022-05-24】 个人养老金制度热议背后，你可以了解一下这款金融产品](https://sspai.com/post/73390)
 * [【2022-05-24】 派早报：国家开放大学终身教育平台上线，OPPO Reno8 系列及其他新品发布等](https://sspai.com/post/73398)
 * [【2022-05-23】 派评 | 近期值得关注的 App](https://sspai.com/post/73391)
 * [【2022-05-23】 站在用户的角度，聊聊「旗舰芯片」给我们带来的体验改变](https://sspai.com/post/73388)
 * [【2022-05-23】 用 Option 给 macOS 操作加点料](https://sspai.com/post/73385)
-* [【2022-05-23】 平台内容的供给之道：以 YouTube 的成王之路为例](https://sspai.com/post/73271)
-* [【2022-05-23】 我是如何将旧设备的 Micro-USB 改为 Type-C 充电口的](https://sspai.com/post/73056)
-* [【2022-05-23】 派早报：高通推出骁龙 8+ 等多款新品；YC 建议创业公司做最坏打算等](https://sspai.com/post/73367)
-* [【2022-05-22】 科普 | 下载应用这件事，Play 商店为什么比国内软件商店更好？](https://sspai.com/post/73356)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -91,4 +91,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-05-24 05:20:17
+:alarm_clock: 更新时间: 2022-05-25 05:19:10
