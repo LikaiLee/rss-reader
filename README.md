@@ -2,10 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派)
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+5】
+* [知乎每日精选](#知乎每日精选)
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -34,6 +35,9 @@
     </summary>
 
 
+* [【2022-05-27】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/73467)
+* [【2022-05-27】 无需 Root，一键分辨手机自带系统应用用途或卸载：Universal Android Debloater](https://sspai.com/post/73328)
+* [【2022-05-27】 从盲目崇拜到理性使用，谈谈我眼中的「双向链接」](https://sspai.com/post/73407)
 * [【2022-05-27】 从标准与参数配置出发，讲讲如何为电动汽车挑选「随车充」](https://sspai.com/post/73424)
 * [【2022-05-27】 记一个平平无奇的春天：「春日发声」活动回顾](https://sspai.com/post/73431)
 * [【2022-05-27】 派早报：深圳推出一系列促进消费新规、宜家推出支持 Matter](https://sspai.com/post/73461)
@@ -41,9 +45,6 @@
 * [【2022-05-26】 普通人有必要进行力量训练吗？](https://sspai.com/post/73440)
 * [【2022-05-26】 Figma 的核心概念：Frame](https://sspai.com/prime/story/SR-05-Figma-03)
 * [【2022-05-26】 网页语言选单背后也有大学问，设计师是这样看待语言选单的](https://sspai.com/post/73349)
-* [【2022-05-26】 派早报：Apple 要求应用必须内置账号删除功能、使命召唤公布新作发售日等](https://sspai.com/post/73438)
-* [【2022-05-25】 试播集 06 | 少数派作者们最近读完了啥（上）](https://sspai.com/post/73426)
-* [【2022-05-25】 为大屏体验优化的 Android 与 Windows 碰撞：WSA 新版升级与体验](https://sspai.com/post/73422)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -72,6 +73,7 @@
     </summary>
 
 
+* [【2022-05-27】 游戏开发工具的真正价值是什么？是在于激发创意吗？](http://www.zhihu.com/question/534519807/answer/2501596051?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-26】 《巫师 3：狂猎》中有哪些隐藏较深或难以发现的细节？](http://www.zhihu.com/question/31119815/answer/2503137916?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-26】 如何评价动画《新秦时明月》第28集？](http://www.zhihu.com/question/534703801/answer/2502927214?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-26】 电动汽车驱动电机的类型都有哪些？有哪些优缺点？](http://www.zhihu.com/question/532024680/answer/2500508875?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,26 @@
 * [【2022-05-23】 【041】机器学习驱动的基本面量化投资](http://zhuanlan.zhihu.com/p/88233451?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-23】 01-经济思想的源与流-经济哲学的主要争论](http://zhuanlan.zhihu.com/p/82175350?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-20】 由 SE 发行的悬疑推理游戏《春逝百年抄》已上线，游戏质量如何？](http://www.zhihu.com/question/515973950/answer/2489593379?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-19】 创作者请回答｜没错就是我：用文字走进一场「完美谋杀」](http://zhuanlan.zhihu.com/p/516827572?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
+</details>
+
+<details open>
+    <summary id="好工具周刊">
+     好工具周刊
+    </summary>
+
+
+* [【2022-05-26】 好工具周刊（第 14 期）: GitHub Profile Page Creator, CodeCaptcha, Q.Link, ASCII banners, ASCII Tree Generator](https://bestxtools.zhubai.love/posts/2141427899847180288)
+* [【2022-05-19】 好工具周刊（第 13 期）: uiverse.io, Neumorphism, cssbuttons, AutoDraw, Shape Shifter, 网名在线生成器](https://bestxtools.zhubai.love/posts/2138889468513034240)
+* [【2022-05-12】 好工具周刊（第 12 期）: Hoppscotch, Blob Animation, Svg Wave, Array Builder, WEBP 转 PNG 转换器, MBTI, SVG PORN](https://bestxtools.zhubai.love/posts/2136356432089108480)
+* [【2022-05-05】 好工具周刊（第 11 期）: favicon.io, Pixel Art Together, Look Scanned, Coverview, bookmark.style, ...](https://bestxtools.zhubai.love/posts/2133814505174749184)
+* [【2022-04-28】 好工具周刊（第 10 期）: 【特别篇】写在第 10 期，对于这个周刊的思考, 不可见零宽字符 (invisible zero-width characters) 相关工具](https://bestxtools.zhubai.love/posts/2131289842624032768)
+* [【2022-04-21】 好工具周刊（第 9 期）: tree.nathanfriend.io, ASCIIFlow, WeekToDo, Ray.so, 数字帝国, Arteater](https://bestxtools.zhubai.love/posts/2128746103750725632)
+* [【2022-04-14】 好工具周刊（第 8 期）: tldraw, TableConvert, markmap, B64, 词云小工具, EmojiAI, Reshot](https://bestxtools.zhubai.love/posts/2126209870226264064)
+* [【2022-04-07】 好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh](https://bestxtools.zhubai.love/posts/2123675438500397056)
+* [【2022-03-31】 好工具周刊（第 6 期）: Excalidraw, 正则表达式可视化编辑器, SimpleLogin, Qwerty Learner](https://bestxtools.zhubai.love/posts/2121146982378106880)
+* [【2022-03-24】 好工具周刊（第 5 期）: 用 RSS 订阅竹白的 3 个方法 / 竹白转 RSS, imgggg, Screely, Kill the Newsletter!](https://bestxtools.zhubai.love/posts/2118581375060803584)
+* [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
 
@@ -91,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-05-27 05:19:33
+:alarm_clock: 更新时间: 2022-05-27 22:18:56
