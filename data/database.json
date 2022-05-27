@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 208 期）：晋升制度的问题",
+                "link": "http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html",
+                "published": "2022-05-27"
+            },
+            {
                 "title": "科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了",
                 "link": "http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html",
                 "published": "2022-05-20"
@@ -180,13 +185,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "从标准与参数配置出发，讲讲如何为电动汽车挑选「随车充」",
+                "link": "https://sspai.com/post/73424",
+                "published": "2022-05-27"
+            },
+            {
+                "title": "记一个平平无奇的春天：「春日发声」活动回顾",
+                "link": "https://sspai.com/post/73431",
+                "published": "2022-05-27"
+            },
+            {
+                "title": "派早报：深圳推出一系列促进消费新规、宜家推出支持 Matter",
+                "link": "https://sspai.com/post/73461",
+                "published": "2022-05-27"
+            },
+            {
+                "title": "试播集 06 | 少数派作者们最近读完了啥（下）",
+                "link": "https://sspai.com/post/73425",
+                "published": "2022-05-26"
+            },
+            {
+                "title": "普通人有必要进行力量训练吗？",
+                "link": "https://sspai.com/post/73440",
+                "published": "2022-05-26"
+            },
+            {
+                "title": "Figma 的核心概念：Frame",
+                "link": "https://sspai.com/prime/story/SR-05-Figma-03",
+                "published": "2022-05-26"
+            },
             {
                 "title": "网页语言选单背后也有大学问，设计师是这样看待语言选单的",
                 "link": "https://sspai.com/post/73349",
@@ -35359,6 +35394,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《巫师 3：狂猎》中有哪些隐藏较深或难以发现的细节？",
+                "link": "http://www.zhihu.com/question/31119815/answer/2503137916?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-26"
+            },
+            {
+                "title": "如何评价动画《新秦时明月》第28集？",
+                "link": "http://www.zhihu.com/question/534703801/answer/2502927214?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-26"
+            },
+            {
+                "title": "电动汽车驱动电机的类型都有哪些？有哪些优缺点？",
+                "link": "http://www.zhihu.com/question/532024680/answer/2500508875?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-26"
+            },
+            {
+                "title": "车企扎堆押注固态电池，这条技术路线胜算有多大？",
+                "link": "http://www.zhihu.com/question/504141889/answer/2501649348?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-26"
+            },
+            {
+                "title": "为什么三电技术中，电池、电机技术受到很大关注，反而电控技术却很少被提及？",
+                "link": "http://www.zhihu.com/question/533112992/answer/2501854761?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-05-26"
+            },
+            {
                 "title": "如何评价如龙工作室新作《审判之眼:死神的遗言》？",
                 "link": "http://www.zhihu.com/question/305570613/answer/2499211785?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-05-25"
@@ -39214,6 +39274,6 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 5
     }
 ]
