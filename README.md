@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2022-05-28】 Apple 与「聚光灯」下的开发者们：App Store 交出阶段性成绩单](https://sspai.com/post/73472)
 * [【2022-05-27】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/73467)
 * [【2022-05-27】 无需 Root，一键分辨手机自带系统应用用途或卸载：Universal Android Debloater](https://sspai.com/post/73328)
 * [【2022-05-27】 从盲目崇拜到理性使用，谈谈我眼中的「双向链接」](https://sspai.com/post/73407)
@@ -44,7 +45,6 @@
 * [【2022-05-26】 试播集 06 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/73425)
 * [【2022-05-26】 普通人有必要进行力量训练吗？](https://sspai.com/post/73440)
 * [【2022-05-26】 Figma 的核心概念：Frame](https://sspai.com/prime/story/SR-05-Figma-03)
-* [【2022-05-26】 网页语言选单背后也有大学问，设计师是这样看待语言选单的](https://sspai.com/post/73349)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-05-27 14:20:48
+:alarm_clock: 更新时间: 2022-05-28 05:14:49

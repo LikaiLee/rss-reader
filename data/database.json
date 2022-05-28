@@ -193,6 +193,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Apple 与「聚光灯」下的开发者们：App Store 交出阶段性成绩单",
+                "link": "https://sspai.com/post/73472",
+                "published": "2022-05-28"
+            },
+            {
                 "title": "本周看什么丨最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/73467",
                 "published": "2022-05-27"
@@ -4953,7 +4958,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
