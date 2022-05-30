@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2022-05-30】 为什么任务清单如此令人不满？](https://sspai.com/post/73453)
+* [【2022-05-30】 派早报：博通收购 VMware、三星将减产三千万台手机等](https://sspai.com/post/73508)
+* [【2022-05-29】 游戏阵容「缩水」、玩家问题不断，全新 PlayStation Plus 会员值得订阅吗？](https://sspai.com/post/73490)
 * [【2022-05-29】 看什么 · 特别篇丨小孩子看有点幼稚，但成年人看刚刚好](https://sspai.com/post/73495)
 * [【2022-05-28】 新电脑、新芯片：COMPUTEX 2022 展会带来了这些新玩意](https://sspai.com/post/73484)
 * [【2022-05-28】 TA 有好物 | 618 将至，为你挑选 5 款多场景风扇](https://sspai.com/post/73304)
@@ -42,9 +45,6 @@
 * [【2022-05-27】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/73467)
 * [【2022-05-27】 无需 Root，一键分辨手机自带系统应用用途或卸载：Universal Android Debloater](https://sspai.com/post/73328)
 * [【2022-05-27】 从盲目崇拜到理性使用，谈谈我眼中的「双向链接」](https://sspai.com/post/73407)
-* [【2022-05-27】 从标准与参数配置出发，讲讲如何为电动汽车挑选「随车充」](https://sspai.com/post/73424)
-* [【2022-05-27】 记一个平平无奇的春天：「春日发声」活动回顾](https://sspai.com/post/73431)
-* [【2022-05-27】 派早报：深圳推出一系列促进消费新规、宜家推出支持 Matter](https://sspai.com/post/73461)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2022-05-30】 Missing Financial Data](http://zhuanlan.zhihu.com/p/517848480?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-05-30】 有没有那种男女主暧昧不清的心动小鹿乱撞的感觉的现言小说？](http://www.zhihu.com/question/515356903/answer/2352326613?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-05-30】 游戏技术策划（Technical Designer）核心竞争力是什么？在团队中能够起到怎样的关键作用？](http://www.zhihu.com/question/534544209/answer/2507277531?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-05-29】 如何评价动画电影《哆啦A梦：大雄的宇宙小战争2021》？](http://www.zhihu.com/question/519952582/answer/2505693635?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-28】 在《白色相簿2》里，哪一条线最完美，哪一条线最真实？为什么？](http://www.zhihu.com/question/25383860/answer/2495916520?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-28】 白色相簿2  introductory chapter剧情发生在什么日期？](http://www.zhihu.com/question/41694862/answer/2453877246?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-27】 游戏开发工具的真正价值是什么？是在于激发创意吗？](http://www.zhihu.com/question/534519807/answer/2501596051?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-26】 《巫师 3：狂猎》中有哪些隐藏较深或难以发现的细节？](http://www.zhihu.com/question/31119815/answer/2503137916?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-26】 如何评价动画《新秦时明月》第28集？](http://www.zhihu.com/question/534703801/answer/2502927214?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-26】 电动汽车驱动电机的类型都有哪些？有哪些优缺点？](http://www.zhihu.com/question/532024680/answer/2500508875?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-26】 车企扎堆押注固态电池，这条技术路线胜算有多大？](http://www.zhihu.com/question/504141889/answer/2501649348?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-26】 为什么三电技术中，电池、电机技术受到很大关注，反而电控技术却很少被提及？](http://www.zhihu.com/question/533112992/answer/2501854761?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-25】 如何评价如龙工作室新作《审判之眼:死神的遗言》？](http://www.zhihu.com/question/305570613/answer/2499211785?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-23】 【041】机器学习驱动的基本面量化投资](http://zhuanlan.zhihu.com/p/88233451?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-05-29 05:17:54
+:alarm_clock: 更新时间: 2022-05-30 05:24:07
