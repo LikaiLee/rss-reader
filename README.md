@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-05-31】 别被默认绊住脚：老 MacBook 的 Linux 新体验](https://sspai.com/post/73539)
+* [【2022-05-31】 派早报：荣耀发布 70 系列手机，长虹佳华成为国行 Switch 总代理等](https://sspai.com/post/73550)
+* [【2022-05-30】 派评 | 近期值得关注的 App](https://sspai.com/post/73533)
+* [【2022-05-30】 力量训练：办卡之前需要了解的训练基础与细节制定](https://sspai.com/post/73443)
+* [【2022-05-30】 版本众多、结果各异：泛滥的 MBTI 测试你该信多少](https://sspai.com/post/73511)
 * [【2022-05-30】 为什么任务清单如此令人不满？](https://sspai.com/post/73453)
 * [【2022-05-30】 派早报：博通收购 VMware、三星将减产三千万台手机等](https://sspai.com/post/73508)
 * [【2022-05-29】 游戏阵容「缩水」、玩家问题不断，全新 PlayStation Plus 会员值得订阅吗？](https://sspai.com/post/73490)
 * [【2022-05-29】 看什么 · 特别篇丨小孩子看有点幼稚，但成年人看刚刚好](https://sspai.com/post/73495)
 * [【2022-05-28】 新电脑、新芯片：COMPUTEX 2022 展会带来了这些新玩意](https://sspai.com/post/73484)
-* [【2022-05-28】 TA 有好物 | 618 将至，为你挑选 5 款多场景风扇](https://sspai.com/post/73304)
-* [【2022-05-28】 Apple 与「聚光灯」下的开发者们：App Store 交出阶段性成绩单](https://sspai.com/post/73472)
-* [【2022-05-27】 本周看什么丨最近值得一看的 9 部作品](https://sspai.com/post/73467)
-* [【2022-05-27】 无需 Root，一键分辨手机自带系统应用用途或卸载：Universal Android Debloater](https://sspai.com/post/73328)
-* [【2022-05-27】 从盲目崇拜到理性使用，谈谈我眼中的「双向链接」](https://sspai.com/post/73407)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-05-31】 如何评价 galgame《forest》？](http://www.zhihu.com/question/455707897/answer/2506929425?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-30】 Missing Financial Data](http://zhuanlan.zhihu.com/p/517848480?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-30】 有没有那种男女主暧昧不清的心动小鹿乱撞的感觉的现言小说？](http://www.zhihu.com/question/515356903/answer/2352326613?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-30】 游戏技术策划（Technical Designer）核心竞争力是什么？在团队中能够起到怎样的关键作用？](http://www.zhihu.com/question/534544209/answer/2507277531?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-05-27】 游戏开发工具的真正价值是什么？是在于激发创意吗？](http://www.zhihu.com/question/534519807/answer/2501596051?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-26】 《巫师 3：狂猎》中有哪些隐藏较深或难以发现的细节？](http://www.zhihu.com/question/31119815/answer/2503137916?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-05-26】 如何评价动画《新秦时明月》第28集？](http://www.zhihu.com/question/534703801/answer/2502927214?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-05-26】 电动汽车驱动电机的类型都有哪些？有哪些优缺点？](http://www.zhihu.com/question/532024680/answer/2500508875?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-05-30 05:24:07
+:alarm_clock: 更新时间: 2022-05-31 05:20:45
