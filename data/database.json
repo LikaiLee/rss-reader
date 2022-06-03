@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "字节序探析：大端与小端的比较",
+                "link": "http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html",
+                "published": "2022-06-02"
+            },
+            {
                 "title": "科技爱好者周刊（第 208 期）：晋升制度的问题",
                 "link": "http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html",
                 "published": "2022-05-27"
@@ -185,13 +190,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "这份迪士尼动画清单，带你重温记忆中的烟火城堡",
+                "link": "https://sspai.com/post/73536",
+                "published": "2022-06-03"
+            },
+            {
+                "title": "新玩意 107｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/73605",
+                "published": "2022-06-02"
+            },
+            {
+                "title": "一日一技 | 不刷机体验 Android 新系统，这个自带功能助你一键尝鲜",
+                "link": "https://sspai.com/post/73603",
+                "published": "2022-06-02"
+            },
+            {
+                "title": "又是一年 618，鼠标键盘买什么？——鼠标篇",
+                "link": "https://sspai.com/post/73599",
+                "published": "2022-06-02"
+            },
             {
                 "title": "你所「了解」的 macOS 中其实还隐藏了这些实用技巧",
                 "link": "https://sspai.com/post/73598",
@@ -5058,7 +5083,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -35514,6 +35539,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "近年来，游戏行业的分工与工作流正在经历哪些变化与趋势？",
+                "link": "http://www.zhihu.com/question/534521002/answer/2502167415?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-03"
+            },
+            {
+                "title": "有没有科代表来总结一下明日方舟主线剧情？",
+                "link": "http://www.zhihu.com/question/363554452/answer/956349665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-02"
+            },
+            {
+                "title": "如何赏析《名侦探柯南：通向天国的倒计时》？",
+                "link": "http://www.zhihu.com/question/487786605/answer/2511972989?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-02"
+            },
+            {
+                "title": "汽车发展至今，在发动机技术上都经历了哪些具有代表性的变革？",
+                "link": "http://www.zhihu.com/question/58699325/answer/2473890654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-02"
+            },
+            {
+                "title": "智能汽车技术发展这么快，现在买了会后悔吗？",
+                "link": "http://www.zhihu.com/question/534628145/answer/2508389646?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-02"
+            },
+            {
+                "title": "国产动画《新围棋少年》六一已开播，你觉得如何？",
+                "link": "http://www.zhihu.com/question/535574103/answer/2511630376?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-02"
+            },
+            {
                 "title": "都说SUV视野好，但我却总看不到车周围的物体，该怎么解决呢？",
                 "link": "http://www.zhihu.com/question/535424439/answer/2510317609?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-02"
@@ -39489,7 +39544,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 6
     },
     {
         "id": 4,
@@ -39577,6 +39632,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
