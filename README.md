@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+5】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-06-05】 当你的日常衣物开始聊参数，怎样的细节才不算枯燥？](https://sspai.com/post/73608)
+* [【2022-06-04】 《生化危机 4》重制版公布、《最终幻想 16》发售窗口确认：State of Play 回顾](https://sspai.com/post/73616)
 * [【2022-06-04】 不想加装电视盒子，又不满意国行 Sony 电视原生系统怎么办？](https://sspai.com/post/73588)
 * [【2022-06-03】 又是一年 618，鼠标键盘买什么？——键盘篇](https://sspai.com/post/73610)
 * [【2022-06-03】 这份迪士尼动画清单，带你重温记忆中的烟火城堡](https://sspai.com/post/73536)
@@ -43,8 +45,6 @@
 * [【2022-06-02】 又是一年 618，鼠标键盘买什么？——鼠标篇](https://sspai.com/post/73599)
 * [【2022-06-02】 你所「了解」的 macOS 中其实还隐藏了这些实用技巧](https://sspai.com/post/73598)
 * [【2022-06-02】 派早报：微软推出 Surface Laptop Go 2、富士发布 X-H2S 相机等](https://sspai.com/post/73592)
-* [【2022-06-01】 WWDC22 前瞻：即将到来的 Apple 发布会可能有这 10+ 个重要看点](https://sspai.com/post/73572)
-* [【2022-06-01】 [有奖] 动手吧！《100 小时后请叫我设计师》课程设计等你挑战](https://sspai.com/post/73574)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-06-04 05:12:52
+:alarm_clock: 更新时间: 2022-06-05 05:13:59
