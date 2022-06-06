@@ -198,6 +198,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新家买什么：这是我热乎的厨房好物推荐",
+                "link": "https://sspai.com/post/73604",
+                "published": "2022-06-06"
+            },
+            {
+                "title": "派早报：亚马逊将关闭 Kindle 中国电子书店、滴滴申请从纽交所退市等",
+                "link": "https://sspai.com/post/73635",
+                "published": "2022-06-06"
+            },
+            {
+                "title": "Kindle 停止运营，那些亚马逊回答和没有回答的问题",
+                "link": "https://sspai.com/prime/story/kindle-migration-guide",
+                "published": "2022-06-05"
+            },
+            {
+                "title": "WWDC22 线上特别活动：欢迎你来与我们一起聊聊本届开发者大会",
+                "link": "https://sspai.com/post/73619",
+                "published": "2022-06-05"
+            },
+            {
                 "title": "当你的日常衣物开始聊参数，怎样的细节才不算枯燥？",
                 "link": "https://sspai.com/post/73608",
                 "published": "2022-06-05"
@@ -5103,7 +5123,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -35559,6 +35579,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "写一下风雨中的上海和她的市民",
+                "link": "http://zhuanlan.zhihu.com/p/502209235?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-06"
+            },
+            {
+                "title": "一些AI系统的技术随思",
+                "link": "http://zhuanlan.zhihu.com/p/514448455?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-06"
+            },
+            {
                 "title": "有什么事情是只有漫画这一媒介能做到的?",
                 "link": "http://www.zhihu.com/question/535590151/answer/2513470814?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-04"
@@ -39589,7 +39619,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,

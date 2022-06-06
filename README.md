@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-06-06】 新家买什么：这是我热乎的厨房好物推荐](https://sspai.com/post/73604)
+* [【2022-06-06】 派早报：亚马逊将关闭 Kindle 中国电子书店、滴滴申请从纽交所退市等](https://sspai.com/post/73635)
+* [【2022-06-05】 Kindle 停止运营，那些亚马逊回答和没有回答的问题](https://sspai.com/prime/story/kindle-migration-guide)
+* [【2022-06-05】 WWDC22 线上特别活动：欢迎你来与我们一起聊聊本届开发者大会](https://sspai.com/post/73619)
 * [【2022-06-05】 当你的日常衣物开始聊参数，怎样的细节才不算枯燥？](https://sspai.com/post/73608)
 * [【2022-06-04】 《生化危机 4》重制版公布、《最终幻想 16》发售窗口确认：State of Play 回顾](https://sspai.com/post/73616)
 * [【2022-06-04】 不想加装电视盒子，又不满意国行 Sony 电视原生系统怎么办？](https://sspai.com/post/73588)
 * [【2022-06-03】 又是一年 618，鼠标键盘买什么？——键盘篇](https://sspai.com/post/73610)
 * [【2022-06-03】 这份迪士尼动画清单，带你重温记忆中的烟火城堡](https://sspai.com/post/73536)
 * [【2022-06-02】 新玩意 107｜少数派的编辑们最近买了啥？](https://sspai.com/post/73605)
-* [【2022-06-02】 一日一技 | 不刷机体验 Android 新系统，这个自带功能助你一键尝鲜](https://sspai.com/post/73603)
-* [【2022-06-02】 又是一年 618，鼠标键盘买什么？——鼠标篇](https://sspai.com/post/73599)
-* [【2022-06-02】 你所「了解」的 macOS 中其实还隐藏了这些实用技巧](https://sspai.com/post/73598)
-* [【2022-06-02】 派早报：微软推出 Surface Laptop Go 2、富士发布 X-H2S 相机等](https://sspai.com/post/73592)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-06-06】 写一下风雨中的上海和她的市民](http://zhuanlan.zhihu.com/p/502209235?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-06-06】 一些AI系统的技术随思](http://zhuanlan.zhihu.com/p/514448455?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-04】 有什么事情是只有漫画这一媒介能做到的?](http://www.zhihu.com/question/535590151/answer/2513470814?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-03】 pandas 在使用时语法感觉很乱，有什么学习的技巧吗？](http://www.zhihu.com/question/289788451/answer/2495499460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-03】 Python自学指南与书籍推荐](http://zhuanlan.zhihu.com/p/523792371?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-06-03】 近年来，游戏行业的分工与工作流正在经历哪些变化与趋势？](http://www.zhihu.com/question/534521002/answer/2502167415?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-02】 有没有科代表来总结一下明日方舟主线剧情？](http://www.zhihu.com/question/363554452/answer/956349665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-02】 如何赏析《名侦探柯南：通向天国的倒计时》？](http://www.zhihu.com/question/487786605/answer/2511972989?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-02】 汽车发展至今，在发动机技术上都经历了哪些具有代表性的变革？](http://www.zhihu.com/question/58699325/answer/2473890654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-02】 智能汽车技术发展这么快，现在买了会后悔吗？](http://www.zhihu.com/question/534628145/answer/2508389646?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-06-05 05:13:59
+:alarm_clock: 更新时间: 2022-06-06 05:15:49
