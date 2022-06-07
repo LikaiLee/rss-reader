@@ -198,6 +198,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：WWDC22 开幕，Pixel 发布 6 月功能更新等",
+                "link": "https://sspai.com/post/73656",
+                "published": "2022-06-07"
+            },
+            {
+                "title": "一图流 | Apple WWDC 2022 回顾",
+                "link": "https://sspai.com/post/73653",
+                "published": "2022-06-06"
+            },
+            {
+                "title": "系统更新如期而至，M2 芯片意外登场：WWDC22 发布会回顾",
+                "link": "https://sspai.com/post/73654",
+                "published": "2022-06-06"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/73646",
+                "published": "2022-06-06"
+            },
+            {
+                "title": "当飞盘成为人类的玩具，我们该如何参与这场游戏",
+                "link": "https://sspai.com/post/73505",
+                "published": "2022-06-06"
+            },
+            {
+                "title": "减肥真的好难，但瘦素真的不瘦",
+                "link": "https://sspai.com/prime/story/vol020-Leptin",
+                "published": "2022-06-06"
+            },
+            {
                 "title": "新家买什么：这是我热乎的厨房好物推荐",
                 "link": "https://sspai.com/post/73604",
                 "published": "2022-06-06"
@@ -5123,7 +5153,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -35579,6 +35609,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "日企社畜的 Kaggle GM 之路",
+                "link": "http://zhuanlan.zhihu.com/p/157373052?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-06"
+            },
+            {
                 "title": "写一下风雨中的上海和她的市民",
                 "link": "http://zhuanlan.zhihu.com/p/502209235?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-06"
@@ -39619,7 +39654,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,

@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-06-07】 派早报：WWDC22 开幕，Pixel 发布 6 月功能更新等](https://sspai.com/post/73656)
+* [【2022-06-06】 一图流 | Apple WWDC 2022 回顾](https://sspai.com/post/73653)
+* [【2022-06-06】 系统更新如期而至，M2 芯片意外登场：WWDC22 发布会回顾](https://sspai.com/post/73654)
+* [【2022-06-06】 派评 | 近期值得关注的 App](https://sspai.com/post/73646)
+* [【2022-06-06】 当飞盘成为人类的玩具，我们该如何参与这场游戏](https://sspai.com/post/73505)
+* [【2022-06-06】 减肥真的好难，但瘦素真的不瘦](https://sspai.com/prime/story/vol020-Leptin)
 * [【2022-06-06】 新家买什么：这是我热乎的厨房好物推荐](https://sspai.com/post/73604)
 * [【2022-06-06】 派早报：亚马逊将关闭 Kindle 中国电子书店、滴滴申请从纽交所退市等](https://sspai.com/post/73635)
 * [【2022-06-05】 Kindle 停止运营，那些亚马逊回答和没有回答的问题](https://sspai.com/prime/story/kindle-migration-guide)
 * [【2022-06-05】 WWDC22 线上特别活动：欢迎你来与我们一起聊聊本届开发者大会](https://sspai.com/post/73619)
-* [【2022-06-05】 当你的日常衣物开始聊参数，怎样的细节才不算枯燥？](https://sspai.com/post/73608)
-* [【2022-06-04】 《生化危机 4》重制版公布、《最终幻想 16》发售窗口确认：State of Play 回顾](https://sspai.com/post/73616)
-* [【2022-06-04】 不想加装电视盒子，又不满意国行 Sony 电视原生系统怎么办？](https://sspai.com/post/73588)
-* [【2022-06-03】 又是一年 618，鼠标键盘买什么？——键盘篇](https://sspai.com/post/73610)
-* [【2022-06-03】 这份迪士尼动画清单，带你重温记忆中的烟火城堡](https://sspai.com/post/73536)
-* [【2022-06-02】 新玩意 107｜少数派的编辑们最近买了啥？](https://sspai.com/post/73605)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-06-06】 日企社畜的 Kaggle GM 之路](http://zhuanlan.zhihu.com/p/157373052?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-06】 写一下风雨中的上海和她的市民](http://zhuanlan.zhihu.com/p/502209235?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-06】 一些AI系统的技术随思](http://zhuanlan.zhihu.com/p/514448455?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-04】 有什么事情是只有漫画这一媒介能做到的?](http://www.zhihu.com/question/535590151/answer/2513470814?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-06-03】 如何评价国产动画《新围棋少年》 3- 4 集？](http://www.zhihu.com/question/535902362/answer/2513419319?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-03】 近年来，游戏行业的分工与工作流正在经历哪些变化与趋势？](http://www.zhihu.com/question/534521002/answer/2502167415?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-02】 有没有科代表来总结一下明日方舟主线剧情？](http://www.zhihu.com/question/363554452/answer/956349665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-02】 如何赏析《名侦探柯南：通向天国的倒计时》？](http://www.zhihu.com/question/487786605/answer/2511972989?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-06-06 05:15:49
+:alarm_clock: 更新时间: 2022-06-07 05:12:51
