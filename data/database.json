@@ -198,6 +198,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Apple Design Award 年度设计奖揭晓，中国开发者大放异彩",
+                "link": "https://sspai.com/post/73667",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "派早报：Apple 设计大奖得主公布、欧盟就 USB-C 充电接口达成临时协议等",
+                "link": "https://sspai.com/post/73671",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "Kindle 笔记导出方法大合集",
+                "link": "https://sspai.com/post/73662",
+                "published": "2022-06-07"
+            },
+            {
+                "title": "集自动发布、本地管理于一身：基于 WordPress 同步的博客管理方案分享",
+                "link": "https://sspai.com/post/73658",
+                "published": "2022-06-07"
+            },
+            {
                 "title": "派早报：WWDC22 开幕，Pixel 发布 6 月功能更新等",
                 "link": "https://sspai.com/post/73656",
                 "published": "2022-06-07"
@@ -5153,7 +5173,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -35609,6 +35629,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有什么让你忍不住姨母笑的小说？",
+                "link": "http://www.zhihu.com/question/443447926/answer/2510801552?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "我也试试啊",
+                "link": "http://zhuanlan.zhihu.com/p/191178729?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-07"
+            },
+            {
                 "title": "日企社畜的 Kaggle GM 之路",
                 "link": "http://zhuanlan.zhihu.com/p/157373052?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-06"
@@ -39654,7 +39684,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
