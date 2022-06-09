@@ -198,6 +198,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：戴尔发布新款工作站、Nothing 手机确认正式发布日等",
+                "link": "https://sspai.com/post/73686",
+                "published": "2022-06-09"
+            },
+            {
+                "title": "懒人写作的行动力与产出：我的写拉松闭环是这样构建的",
+                "link": "https://sspai.com/post/73648",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "爱好「喜加一」：轮滑运动如何科学入门",
+                "link": "https://sspai.com/post/73677",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "创意当先，兼顾娱乐——联想小新 Pro 16 使用体验",
+                "link": "https://sspai.com/post/73663",
+                "published": "2022-06-08"
+            },
+            {
                 "title": "Apple Design Award 年度设计奖揭晓，中国开发者大放异彩",
                 "link": "https://sspai.com/post/73667",
                 "published": "2022-06-08"
@@ -35629,6 +35649,51 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "网友发数学题求答案被疑泄露高考题，教育部考试院回应「已接到举报」，高考作弊将承担哪些责任？",
+                "link": "http://www.zhihu.com/question/536554228/answer/2519002205?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "宠物内容行业调研",
+                "link": "http://zhuanlan.zhihu.com/p/468690363?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "如何评价《境界触发者》漫画第223话内容?",
+                "link": "http://www.zhihu.com/question/535870581/answer/2518618768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "离开北京去武汉定居，要注意什么?",
+                "link": "http://www.zhihu.com/question/535498067/answer/2515142198?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "宝马3系一年养车费用大概是多少？",
+                "link": "http://www.zhihu.com/question/38610351/answer/1739408550?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "动力电池安全设计的要点是什么？如何能够设计不起火的电池？",
+                "link": "http://www.zhihu.com/question/425762666/answer/2513611570?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "电动车磷酸铁锂电池、镍钴锰三元电池、镍钴铝三元锂电池哪种好？",
+                "link": "http://www.zhihu.com/question/438868135/answer/2514581238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "大家认为目前电动汽车电池管理系统最需要解决的几个难点和热点是什么？",
+                "link": "http://www.zhihu.com/question/323377560/answer/2516460654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-08"
+            },
+            {
+                "title": "为什么电动小轿车不采用超级电容代替锂电池呢？为什么大型公交车就可以采用超级电容作为能量容器呢？",
+                "link": "http://www.zhihu.com/question/20268843/answer/2518038423?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-08"
+            },
+            {
                 "title": "有什么让你忍不住姨母笑的小说？",
                 "link": "http://www.zhihu.com/question/443447926/answer/2510801552?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-08"
@@ -39684,13 +39749,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 9
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, TweetPics, SPEEDTEST",
+                "link": "https://bestxtools.zhubai.love/posts/2146500725667651584",
+                "published": "2022-06-09"
+            },
             {
                 "title": "好工具周刊（第 15 期）: GitHub Profile Header Generator, Curl UI, Domcomp, 巴别英语, DAREBEE, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2143964812269535232",
@@ -39772,6 +39842,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
