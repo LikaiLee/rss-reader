@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 209 期）：程序员是怎样的人",
+                "link": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html",
+                "published": "2022-06-10"
+            },
+            {
                 "title": "字节序探析：大端与小端的比较",
                 "link": "http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html",
                 "published": "2022-06-02"
@@ -190,13 +195,48 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "如何选到一杯好牛奶？",
+                "link": "https://sspai.com/post/73650",
+                "published": "2022-06-10"
+            },
+            {
+                "title": "派早报：Android 13 Beta 3 发布、Apple 推出「先买后付」金融服务等",
+                "link": "https://sspai.com/post/73705",
+                "published": "2022-06-10"
+            },
+            {
+                "title": "新玩意 108｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/73699",
+                "published": "2022-06-09"
+            },
+            {
+                "title": "一日一技 | 除了交通卡和 Apple Pay，你也可以自己动手制作 Wallet 凭证",
+                "link": "https://sspai.com/post/73580",
+                "published": "2022-06-09"
+            },
+            {
+                "title": "WWDC22 线上特别活动：听少数派编辑与你聊聊新系统体验和观点",
+                "link": "https://sspai.com/post/73678",
+                "published": "2022-06-09"
+            },
+            {
+                "title": "让窗口管理也能自动化，基于 yabai+skhd 的 macOS 窗口管理系统",
+                "link": "https://sspai.com/post/73620",
+                "published": "2022-06-09"
+            },
+            {
+                "title": "iOS 快捷指令搭配 Notion API，不打开应用实现快速记录",
+                "link": "https://sspai.com/post/73645",
+                "published": "2022-06-09"
+            },
             {
                 "title": "派早报：戴尔发布新款工作站、Nothing 手机确认正式发布日等",
                 "link": "https://sspai.com/post/73686",
@@ -5193,7 +5233,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -35649,6 +35689,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "城市的烟火气——回来了，但没完全回来",
+                "link": "http://zhuanlan.zhihu.com/p/526846237?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-10"
+            },
+            {
                 "title": "网友发数学题求答案被疑泄露高考题，教育部考试院回应「已接到举报」，高考作弊将承担哪些责任？",
                 "link": "http://www.zhihu.com/question/536554228/answer/2519002205?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-08"
@@ -39749,7 +39794,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 1
     },
     {
         "id": 4,
@@ -39842,6 +39887,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

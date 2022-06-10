@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+9】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+1】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-06-10】 科技爱好者周刊（第 209 期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)
 * [【2022-06-02】 字节序探析：大端与小端的比较](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)
 * [【2022-05-27】 科技爱好者周刊（第 208 期）：晋升制度的问题](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)
 * [【2022-05-20】 科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
@@ -25,7 +26,6 @@
 * [【2022-04-29】 微服务是什么？](http://www.ruanyifeng.com/blog/2022/04/microservice.html)
 * [【2022-04-22】 科技爱好者周刊（第 204 期）：如何度过疫情、裁员、还有战争](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-204.html)
 * [【2022-04-15】 科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html)
-* [【2022-04-08】 科技爱好者周刊（第 202 期）：三个有启发的学习方法](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-06-10】 如何选到一杯好牛奶？](https://sspai.com/post/73650)
+* [【2022-06-10】 派早报：Android 13 Beta 3 发布、Apple 推出「先买后付」金融服务等](https://sspai.com/post/73705)
+* [【2022-06-09】 新玩意 108｜少数派的作者们最近买了啥？](https://sspai.com/post/73699)
+* [【2022-06-09】 一日一技 | 除了交通卡和 Apple Pay，你也可以自己动手制作 Wallet 凭证](https://sspai.com/post/73580)
+* [【2022-06-09】 WWDC22 线上特别活动：听少数派编辑与你聊聊新系统体验和观点](https://sspai.com/post/73678)
+* [【2022-06-09】 让窗口管理也能自动化，基于 yabai+skhd 的 macOS 窗口管理系统](https://sspai.com/post/73620)
+* [【2022-06-09】 iOS 快捷指令搭配 Notion API，不打开应用实现快速记录](https://sspai.com/post/73645)
 * [【2022-06-09】 派早报：戴尔发布新款工作站、Nothing 手机确认正式发布日等](https://sspai.com/post/73686)
 * [【2022-06-08】 懒人写作的行动力与产出：我的写拉松闭环是这样构建的](https://sspai.com/post/73648)
 * [【2022-06-08】 爱好「喜加一」：轮滑运动如何科学入门](https://sspai.com/post/73677)
-* [【2022-06-08】 创意当先，兼顾娱乐——联想小新 Pro 16 使用体验](https://sspai.com/post/73663)
-* [【2022-06-08】 Apple Design Award 年度设计奖揭晓，中国开发者大放异彩](https://sspai.com/post/73667)
-* [【2022-06-08】 派早报：Apple 设计大奖得主公布、欧盟就 USB-C 充电接口达成临时协议等](https://sspai.com/post/73671)
-* [【2022-06-07】 Kindle 笔记导出方法大合集](https://sspai.com/post/73662)
-* [【2022-06-07】 集自动发布、本地管理于一身：基于 WordPress 同步的博客管理方案分享](https://sspai.com/post/73658)
-* [【2022-06-07】 派早报：WWDC22 开幕，Pixel 发布 6 月功能更新等](https://sspai.com/post/73656)
-* [【2022-06-06】 一图流 | Apple WWDC 2022 回顾](https://sspai.com/post/73653)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-06-10】 城市的烟火气——回来了，但没完全回来](http://zhuanlan.zhihu.com/p/526846237?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-08】 网友发数学题求答案被疑泄露高考题，教育部考试院回应「已接到举报」，高考作弊将承担哪些责任？](http://www.zhihu.com/question/536554228/answer/2519002205?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-08】 宠物内容行业调研](http://zhuanlan.zhihu.com/p/468690363?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-08】 如何评价《境界触发者》漫画第223话内容?](http://www.zhihu.com/question/535870581/answer/2518618768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-06-08】 电动车磷酸铁锂电池、镍钴锰三元电池、镍钴铝三元锂电池哪种好？](http://www.zhihu.com/question/438868135/answer/2514581238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-08】 大家认为目前电动汽车电池管理系统最需要解决的几个难点和热点是什么？](http://www.zhihu.com/question/323377560/answer/2516460654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-08】 为什么电动小轿车不采用超级电容代替锂电池呢？为什么大型公交车就可以采用超级电容作为能量容器呢？](http://www.zhihu.com/question/20268843/answer/2518038423?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-08】 有什么让你忍不住姨母笑的小说？](http://www.zhihu.com/question/443447926/answer/2510801552?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-06-09 05:14:07
+:alarm_clock: 更新时间: 2022-06-10 05:13:04
