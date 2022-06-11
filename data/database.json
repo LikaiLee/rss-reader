@@ -195,13 +195,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "满手高招，满满 iPad 范：iPadOS 16 中值得关注的新特性",
+                "link": "https://sspai.com/post/73738",
+                "published": "2022-06-11"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的一大团作品",
+                "link": "https://sspai.com/post/73725",
+                "published": "2022-06-10"
+            },
+            {
+                "title": "开发者、设计师、产品经理…… 他们眼里的 WWDC22 开发者大会是怎样的？",
+                "link": "https://sspai.com/post/73708",
+                "published": "2022-06-10"
+            },
+            {
+                "title": "个性就是力量：iOS 16 中值得关注的新特性",
+                "link": "https://sspai.com/post/73707",
+                "published": "2022-06-10"
+            },
             {
                 "title": "如何选到一杯好牛奶？",
                 "link": "https://sspai.com/post/73650",
@@ -5233,7 +5253,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -35689,6 +35709,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "「单身研究室」夏日冲浪季，开启！",
+                "link": "http://zhuanlan.zhihu.com/p/526591090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-10"
+            },
+            {
+                "title": "每年开放四个月，被称为「中国最美公路」的独库公路到底有多美？",
+                "link": "http://www.zhihu.com/question/489261464/answer/2522498989?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-10"
+            },
+            {
+                "title": "如何评价动画《新秦时明月》第30集？",
+                "link": "http://www.zhihu.com/question/536892638/answer/2521695648?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-10"
+            },
+            {
                 "title": "城市的烟火气——回来了，但没完全回来",
                 "link": "http://zhuanlan.zhihu.com/p/526846237?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-10"
@@ -39794,7 +39829,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 4,
