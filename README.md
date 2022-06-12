@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-06-12】 WWDC22 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/73742)
+* [【2022-06-11】 App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备](https://sspai.com/post/73727)
 * [【2022-06-11】 满手高招，满满 iPad 范：iPadOS 16 中值得关注的新特性](https://sspai.com/post/73738)
 * [【2022-06-10】 本周看什么丨最近值得一看的一大团作品](https://sspai.com/post/73725)
 * [【2022-06-10】 开发者、设计师、产品经理…… 他们眼里的 WWDC22 开发者大会是怎样的？](https://sspai.com/post/73708)
@@ -43,8 +45,6 @@
 * [【2022-06-10】 派早报：Android 13 Beta 3 发布、Apple 推出「先买后付」金融服务等](https://sspai.com/post/73705)
 * [【2022-06-09】 新玩意 108｜少数派的作者们最近买了啥？](https://sspai.com/post/73699)
 * [【2022-06-09】 一日一技 | 除了交通卡和 Apple Pay，你也可以自己动手制作 Wallet 凭证](https://sspai.com/post/73580)
-* [【2022-06-09】 WWDC22 线上特别活动：听少数派编辑与你聊聊新系统体验和观点](https://sspai.com/post/73678)
-* [【2022-06-09】 让窗口管理也能自动化，基于 yabai+skhd 的 macOS 窗口管理系统](https://sspai.com/post/73620)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-06-11 05:12:59
+:alarm_clock: 更新时间: 2022-06-12 05:12:39

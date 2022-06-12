@@ -203,6 +203,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "WWDC22 发布会上，Apple 没告诉你的那些事",
+                "link": "https://sspai.com/post/73742",
+                "published": "2022-06-12"
+            },
+            {
+                "title": "App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备",
+                "link": "https://sspai.com/post/73727",
+                "published": "2022-06-11"
+            },
+            {
                 "title": "满手高招，满满 iPad 范：iPadOS 16 中值得关注的新特性",
                 "link": "https://sspai.com/post/73738",
                 "published": "2022-06-11"
@@ -5253,7 +5263,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -39829,7 +39839,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     },
     {
         "id": 4,
