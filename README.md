@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-06-13】 第三方特斯拉随车充用起来怎么样？普诺得随车充使用体验](https://sspai.com/post/73737)
+* [【2022-06-13】 派早报：AMD 更新 CPU 和 GPU 路线图、知网向个人提供查重服务等](https://sspai.com/post/73758)
 * [【2022-06-12】 WWDC22 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/73742)
 * [【2022-06-11】 App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备](https://sspai.com/post/73727)
 * [【2022-06-11】 满手高招，满满 iPad 范：iPadOS 16 中值得关注的新特性](https://sspai.com/post/73738)
@@ -43,8 +45,6 @@
 * [【2022-06-10】 个性就是力量：iOS 16 中值得关注的新特性](https://sspai.com/post/73707)
 * [【2022-06-10】 如何选到一杯好牛奶？](https://sspai.com/post/73650)
 * [【2022-06-10】 派早报：Android 13 Beta 3 发布、Apple 推出「先买后付」金融服务等](https://sspai.com/post/73705)
-* [【2022-06-09】 新玩意 108｜少数派的作者们最近买了啥？](https://sspai.com/post/73699)
-* [【2022-06-09】 一日一技 | 除了交通卡和 Apple Pay，你也可以自己动手制作 Wallet 凭证](https://sspai.com/post/73580)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-06-12 05:12:39
+:alarm_clock: 更新时间: 2022-06-13 05:20:02
