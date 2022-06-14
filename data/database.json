@@ -203,6 +203,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "WWDC22 全球开发者大会期间，我们和 Tim Cook 聊了聊",
+                "link": "https://sspai.com/post/73751",
+                "published": "2022-06-14"
+            },
+            {
+                "title": "派早报：魅族科技 79.09% 股权将被收购，Google 员工称 LaMDA AI 有感知后被停职等",
+                "link": "https://sspai.com/post/73790",
+                "published": "2022-06-14"
+            },
+            {
+                "title": "派评 · 特别篇 | 聊聊我们心中的设计奖与好 App",
+                "link": "https://sspai.com/post/73777",
+                "published": "2022-06-13"
+            },
+            {
+                "title": "正版软件放「价」了：少数派 618 促销活动限时开启",
+                "link": "https://sspai.com/post/73753",
+                "published": "2022-06-13"
+            },
+            {
+                "title": "享受专注与生态互通：macOS Ventura 值得关注的新特性",
+                "link": "https://sspai.com/post/73769",
+                "published": "2022-06-13"
+            },
+            {
+                "title": "听色盲者聊聊五彩斑斓的世界",
+                "link": "https://sspai.com/post/73698",
+                "published": "2022-06-13"
+            },
+            {
                 "title": "第三方特斯拉随车充用起来怎么样？普诺得随车充使用体验",
                 "link": "https://sspai.com/post/73737",
                 "published": "2022-06-13"
@@ -5273,7 +5303,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -35729,6 +35759,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "臭豆腐在变臭的过程中发生了什么？",
+                "link": "http://www.zhihu.com/question/22018826/answer/2526634834?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-13"
+            },
+            {
                 "title": "「单身研究室」夏日冲浪季，开启！",
                 "link": "http://zhuanlan.zhihu.com/p/526591090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-10"
@@ -39849,7 +39884,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
