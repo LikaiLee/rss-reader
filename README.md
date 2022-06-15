@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-06-15】 音乐和故事的化学反应：用这些歌曲入门音乐剧](https://sspai.com/post/73078)
+* [【2022-06-15】 派早报：新款 MacBook Pro 即将开始预订、微信上线群聊消息置顶功能等](https://sspai.com/post/73806)
+* [【2022-06-14】 少数派会员第二季，来自我们对「社群共创」的执念](https://sspai.com/post/73780)
+* [【2022-06-14】 不读可以先收藏 12：本月不容错过的 8 篇好文章](https://sspai.com/post/73800)
+* [【2022-06-14】 跟着网络视频「瞎练」之前，我建议你先理解健身动作](https://sspai.com/post/73773)
+* [【2022-06-14】 进一步巩固「最强」素材管理工具地位：Eagle 3.0 大更新](https://sspai.com/post/73795)
 * [【2022-06-14】 WWDC22 全球开发者大会期间，我们和 Tim Cook 聊了聊](https://sspai.com/post/73751)
 * [【2022-06-14】 派早报：魅族科技 79.09% 股权将被收购，Google 员工称 LaMDA AI 有感知后被停职等](https://sspai.com/post/73790)
 * [【2022-06-13】 派评 · 特别篇 | 聊聊我们心中的设计奖与好 App](https://sspai.com/post/73777)
 * [【2022-06-13】 正版软件放「价」了：少数派 618 促销活动限时开启](https://sspai.com/post/73753)
-* [【2022-06-13】 享受专注与生态互通：macOS Ventura 值得关注的新特性](https://sspai.com/post/73769)
-* [【2022-06-13】 听色盲者聊聊五彩斑斓的世界](https://sspai.com/post/73698)
-* [【2022-06-13】 第三方特斯拉随车充用起来怎么样？普诺得随车充使用体验](https://sspai.com/post/73737)
-* [【2022-06-13】 派早报：AMD 更新 CPU 和 GPU 路线图、知网向个人提供查重服务等](https://sspai.com/post/73758)
-* [【2022-06-12】 WWDC22 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/73742)
-* [【2022-06-11】 App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备](https://sspai.com/post/73727)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2022-06-15】 为什么电动汽车电池不能精确显示剩余电量？](http://www.zhihu.com/question/24778938/answer/2525327698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-06-15】 锌空气电池是否比锂电池好？](http://www.zhihu.com/question/266539528/answer/2521887430?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-06-15】 长时间住在风景宜人的海岛是怎样的体验？](http://www.zhihu.com/question/537639567/answer/2529482193?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-13】 臭豆腐在变臭的过程中发生了什么？](http://www.zhihu.com/question/22018826/answer/2526634834?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-10】 「单身研究室」夏日冲浪季，开启！](http://zhuanlan.zhihu.com/p/526591090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-10】 每年开放四个月，被称为「中国最美公路」的独库公路到底有多美？](http://www.zhihu.com/question/489261464/answer/2522498989?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2022-06-10】 城市的烟火气——回来了，但没完全回来](http://zhuanlan.zhihu.com/p/526846237?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-08】 网友发数学题求答案被疑泄露高考题，教育部考试院回应「已接到举报」，高考作弊将承担哪些责任？](http://www.zhihu.com/question/536554228/answer/2519002205?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-08】 宠物内容行业调研](http://zhuanlan.zhihu.com/p/468690363?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-08】 如何评价《境界触发者》漫画第223话内容?](http://www.zhihu.com/question/535870581/answer/2518618768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-08】 离开北京去武汉定居，要注意什么?](http://www.zhihu.com/question/535498067/answer/2515142198?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-08】 宝马3系一年养车费用大概是多少？](http://www.zhihu.com/question/38610351/answer/1739408550?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-06-14 05:28:00
+:alarm_clock: 更新时间: 2022-06-15 05:18:34

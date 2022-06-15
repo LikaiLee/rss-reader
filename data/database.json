@@ -203,6 +203,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "音乐和故事的化学反应：用这些歌曲入门音乐剧",
+                "link": "https://sspai.com/post/73078",
+                "published": "2022-06-15"
+            },
+            {
+                "title": "派早报：新款 MacBook Pro 即将开始预订、微信上线群聊消息置顶功能等",
+                "link": "https://sspai.com/post/73806",
+                "published": "2022-06-15"
+            },
+            {
+                "title": "少数派会员第二季，来自我们对「社群共创」的执念",
+                "link": "https://sspai.com/post/73780",
+                "published": "2022-06-14"
+            },
+            {
+                "title": "不读可以先收藏 12：本月不容错过的 8 篇好文章",
+                "link": "https://sspai.com/post/73800",
+                "published": "2022-06-14"
+            },
+            {
+                "title": "跟着网络视频「瞎练」之前，我建议你先理解健身动作",
+                "link": "https://sspai.com/post/73773",
+                "published": "2022-06-14"
+            },
+            {
+                "title": "进一步巩固「最强」素材管理工具地位：Eagle 3.0 大更新",
+                "link": "https://sspai.com/post/73795",
+                "published": "2022-06-14"
+            },
+            {
                 "title": "WWDC22 全球开发者大会期间，我们和 Tim Cook 聊了聊",
                 "link": "https://sspai.com/post/73751",
                 "published": "2022-06-14"
@@ -35759,6 +35789,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "为什么电动汽车电池不能精确显示剩余电量？",
+                "link": "http://www.zhihu.com/question/24778938/answer/2525327698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-15"
+            },
+            {
+                "title": "锌空气电池是否比锂电池好？",
+                "link": "http://www.zhihu.com/question/266539528/answer/2521887430?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-15"
+            },
+            {
+                "title": "长时间住在风景宜人的海岛是怎样的体验？",
+                "link": "http://www.zhihu.com/question/537639567/answer/2529482193?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-15"
+            },
+            {
                 "title": "臭豆腐在变臭的过程中发生了什么？",
                 "link": "http://www.zhihu.com/question/22018826/answer/2526634834?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-13"
@@ -39884,7 +39929,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 4,
