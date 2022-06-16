@@ -203,6 +203,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "作为读者，我们为什么还需要 Newsletter",
+                "link": "https://sspai.com/post/73820",
+                "published": "2022-06-16"
+            },
+            {
+                "title": "派早报：英特尔推出桌面级独显、蔚来发布新款 SUV 等",
+                "link": "https://sspai.com/post/73817",
+                "published": "2022-06-16"
+            },
+            {
+                "title": "少数派 Prime 会员（第二季）开启预售",
+                "link": "https://sspai.com/post/73772",
+                "published": "2022-06-15"
+            },
+            {
+                "title": "跨时空圆桌：伟大创作者们如何安排日常生活",
+                "link": "https://sspai.com/post/73779",
+                "published": "2022-06-15"
+            },
+            {
+                "title": "各种懂行，个性爆表：watchOS 9 中值得关注的新功能",
+                "link": "https://sspai.com/post/73802",
+                "published": "2022-06-15"
+            },
+            {
+                "title": "互联网时代下的个人信息保护——与数据合规律师对谈",
+                "link": "https://sspai.com/post/73809",
+                "published": "2022-06-15"
+            },
+            {
+                "title": "618 「挤爆牙膏」：我们又为你带来了六款新周边",
+                "link": "https://sspai.com/post/73770",
+                "published": "2022-06-15"
+            },
+            {
                 "title": "音乐和故事的化学反应：用这些歌曲入门音乐剧",
                 "link": "https://sspai.com/post/73078",
                 "published": "2022-06-15"
@@ -5333,7 +5368,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -35789,6 +35824,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有哪些冷门但好玩的海边城市/海岛？",
+                "link": "http://www.zhihu.com/question/41585407/answer/2529994061?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-16"
+            },
+            {
+                "title": "杭州周边自驾 3 小时有哪些适合旅行的地方？",
+                "link": "http://www.zhihu.com/question/371774019/answer/2528081615?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-15"
+            },
+            {
                 "title": "为什么电动汽车电池不能精确显示剩余电量？",
                 "link": "http://www.zhihu.com/question/24778938/answer/2525327698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-15"
@@ -39929,13 +39974,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, Colorsandfonts, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2149044131228536832",
+                "published": "2022-06-16"
+            },
             {
                 "title": "好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, TweetPics, SPEEDTEST",
                 "link": "https://bestxtools.zhubai.love/posts/2146500725667651584",
@@ -40022,6 +40072,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

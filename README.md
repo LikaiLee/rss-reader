@@ -3,10 +3,10 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+2】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-06-16】 作为读者，我们为什么还需要 Newsletter](https://sspai.com/post/73820)
+* [【2022-06-16】 派早报：英特尔推出桌面级独显、蔚来发布新款 SUV 等](https://sspai.com/post/73817)
+* [【2022-06-15】 少数派 Prime 会员（第二季）开启预售](https://sspai.com/post/73772)
+* [【2022-06-15】 跨时空圆桌：伟大创作者们如何安排日常生活](https://sspai.com/post/73779)
+* [【2022-06-15】 各种懂行，个性爆表：watchOS 9 中值得关注的新功能](https://sspai.com/post/73802)
+* [【2022-06-15】 互联网时代下的个人信息保护——与数据合规律师对谈](https://sspai.com/post/73809)
+* [【2022-06-15】 618 「挤爆牙膏」：我们又为你带来了六款新周边](https://sspai.com/post/73770)
 * [【2022-06-15】 音乐和故事的化学反应：用这些歌曲入门音乐剧](https://sspai.com/post/73078)
 * [【2022-06-15】 派早报：新款 MacBook Pro 即将开始预订、微信上线群聊消息置顶功能等](https://sspai.com/post/73806)
 * [【2022-06-14】 少数派会员第二季，来自我们对「社群共创」的执念](https://sspai.com/post/73780)
-* [【2022-06-14】 不读可以先收藏 12：本月不容错过的 8 篇好文章](https://sspai.com/post/73800)
-* [【2022-06-14】 跟着网络视频「瞎练」之前，我建议你先理解健身动作](https://sspai.com/post/73773)
-* [【2022-06-14】 进一步巩固「最强」素材管理工具地位：Eagle 3.0 大更新](https://sspai.com/post/73795)
-* [【2022-06-14】 WWDC22 全球开发者大会期间，我们和 Tim Cook 聊了聊](https://sspai.com/post/73751)
-* [【2022-06-14】 派早报：魅族科技 79.09% 股权将被收购，Google 员工称 LaMDA AI 有感知后被停职等](https://sspai.com/post/73790)
-* [【2022-06-13】 派评 · 特别篇 | 聊聊我们心中的设计奖与好 App](https://sspai.com/post/73777)
-* [【2022-06-13】 正版软件放「价」了：少数派 618 促销活动限时开启](https://sspai.com/post/73753)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-06-16】 有哪些冷门但好玩的海边城市/海岛？](http://www.zhihu.com/question/41585407/answer/2529994061?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-06-15】 杭州周边自驾 3 小时有哪些适合旅行的地方？](http://www.zhihu.com/question/371774019/answer/2528081615?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-15】 为什么电动汽车电池不能精确显示剩余电量？](http://www.zhihu.com/question/24778938/answer/2525327698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-15】 锌空气电池是否比锂电池好？](http://www.zhihu.com/question/266539528/answer/2521887430?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-15】 长时间住在风景宜人的海岛是怎样的体验？](http://www.zhihu.com/question/537639567/answer/2529482193?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-06-10】 每年开放四个月，被称为「中国最美公路」的独库公路到底有多美？](http://www.zhihu.com/question/489261464/answer/2522498989?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-10】 如何评价动画《新秦时明月》第30集？](http://www.zhihu.com/question/536892638/answer/2521695648?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-10】 城市的烟火气——回来了，但没完全回来](http://zhuanlan.zhihu.com/p/526846237?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-08】 网友发数学题求答案被疑泄露高考题，教育部考试院回应「已接到举报」，高考作弊将承担哪些责任？](http://www.zhihu.com/question/536554228/answer/2519002205?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-08】 宠物内容行业调研](http://zhuanlan.zhihu.com/p/468690363?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-06-16】 好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, Colorsandfonts, ...](https://bestxtools.zhubai.love/posts/2149044131228536832)
 * [【2022-06-09】 好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, TweetPics, SPEEDTEST](https://bestxtools.zhubai.love/posts/2146500725667651584)
 * [【2022-06-02】 好工具周刊（第 15 期）: GitHub Profile Header Generator, Curl UI, Domcomp, 巴别英语, DAREBEE, ...](https://bestxtools.zhubai.love/posts/2143964812269535232)
 * [【2022-05-26】 好工具周刊（第 14 期）: GitHub Profile Page Creator, CodeCaptcha, Q.Link, ASCII banners, ASCII Tree Generator](https://bestxtools.zhubai.love/posts/2141427899847180288)
@@ -101,7 +102,6 @@
 * [【2022-04-28】 好工具周刊（第 10 期）: 【特别篇】写在第 10 期，对于这个周刊的思考, 不可见零宽字符 (invisible zero-width characters) 相关工具](https://bestxtools.zhubai.love/posts/2131289842624032768)
 * [【2022-04-21】 好工具周刊（第 9 期）: tree.nathanfriend.io, ASCIIFlow, WeekToDo, Ray.so, 数字帝国, Arteater](https://bestxtools.zhubai.love/posts/2128746103750725632)
 * [【2022-04-14】 好工具周刊（第 8 期）: tldraw, TableConvert, markmap, B64, 词云小工具, EmojiAI, Reshot](https://bestxtools.zhubai.love/posts/2126209870226264064)
-* [【2022-04-07】 好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh](https://bestxtools.zhubai.love/posts/2123675438500397056)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-06-15 05:18:34
+:alarm_clock: 更新时间: 2022-06-16 05:16:59
