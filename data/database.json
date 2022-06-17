@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 210 期）：为什么软件变得复杂",
+                "link": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html",
+                "published": "2022-06-17"
+            },
+            {
                 "title": "科技爱好者周刊（第 209 期）：程序员是怎样的人",
                 "link": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html",
                 "published": "2022-06-10"
@@ -195,13 +200,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "Karabiner 助力，让你的键盘操作快人一步",
+                "link": "https://sspai.com/post/73827",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "派早报：飞傲发布新款 BTR7 耳放、HP  推出新款战 99 设计师本",
+                "link": "https://sspai.com/post/73833",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "新玩意 109｜少数派的编辑们 618 买了啥？",
+                "link": "https://sspai.com/post/73826",
+                "published": "2022-06-16"
+            },
+            {
+                "title": "抓住购物节的小尾巴：618 值得关注的 Windows 笔记本新品",
+                "link": "https://sspai.com/post/73823",
+                "published": "2022-06-16"
+            },
+            {
+                "title": "压力来到了索尼这边：微软 Xbox & Bethesda 游戏展示会资讯汇总",
+                "link": "https://sspai.com/post/73816",
+                "published": "2022-06-16"
+            },
             {
                 "title": "作为读者，我们为什么还需要 Newsletter",
                 "link": "https://sspai.com/post/73820",
@@ -5368,7 +5398,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -35824,6 +35854,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "一个人去衢州怎么玩？",
+                "link": "http://www.zhihu.com/question/35924480/answer/2529622287?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "为什么结婚大家都会买戒指而非项链、耳环？",
+                "link": "http://www.zhihu.com/question/533442303/answer/2531573395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-16"
+            },
+            {
                 "title": "有哪些冷门但好玩的海边城市/海岛？",
                 "link": "http://www.zhihu.com/question/41585407/answer/2529994061?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-16"
@@ -40072,6 +40112,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
