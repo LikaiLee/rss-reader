@@ -200,13 +200,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "从游戏种类入手，挑选你的第一款游戏鼠标",
+                "link": "https://sspai.com/post/73862",
+                "published": "2022-06-18"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的一点点作品",
+                "link": "https://sspai.com/post/73863",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "用 59 分钟，找到工具的效率之源",
+                "link": "https://sspai.com/post/73829",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "付费栏目今年 618 怎么玩？上新，打折，抽奖，一个也不能少！",
+                "link": "https://sspai.com/post/73828",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "不买可以先收藏 11：体脂秤怎么选？",
+                "link": "https://sspai.com/post/73850",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "一派·Podcast | 从 WWDC22 看 Apple 的未来",
+                "link": "https://sspai.com/post/73835",
+                "published": "2022-06-17"
+            },
             {
                 "title": "Karabiner 助力，让你的键盘操作快人一步",
                 "link": "https://sspai.com/post/73827",
@@ -5398,7 +5428,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -35854,6 +35884,41 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价动画《新秦时明月》第31集？",
+                "link": "http://www.zhihu.com/question/538197742/answer/2533287582?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "游戏技术策划（Technical Designer）核心竞争力是什么？在团队中能够起到怎样的关键作用？",
+                "link": "http://www.zhihu.com/question/534544209/answer/2503912123?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "游戏技术策划（Technical Designer）核心竞争力是什么？在团队中能够起到怎样的关键作用？",
+                "link": "http://www.zhihu.com/question/534544209/answer/2503666658?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "2022年，有哪些游戏领域的新技术令你期待？这些技术可能催生出怎样的游戏内容？",
+                "link": "http://www.zhihu.com/question/534520143/answer/2504050253?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "游戏当中有哪些跨行业应用的前沿技术？",
+                "link": "http://www.zhihu.com/question/534542532/answer/2502458298?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "为什么大型游戏公司越来越重视技术美术（TA）、技术策划（TD）等复合型岗位？",
+                "link": "http://www.zhihu.com/question/534544070/answer/2503557269?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-17"
+            },
+            {
+                "title": "什么特质会让你立刻觉得一个游戏技术策划（Technical Designer）很靠谱？",
+                "link": "http://www.zhihu.com/question/534524335/answer/2502617201?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-17"
+            },
+            {
                 "title": "一个人去衢州怎么玩？",
                 "link": "http://www.zhihu.com/question/35924480/answer/2529622287?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-17"
@@ -40014,7 +40079,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 7
     },
     {
         "id": 4,
