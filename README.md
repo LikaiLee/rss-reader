@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+7】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-06-19】 重新理解「好奇心」：学习动机的自救指南](https://sspai.com/post/72993)
+* [【2022-06-18】 WWDC22 Swift 学生挑战赛落幕，中国学生们表现亮眼](https://sspai.com/post/73872)
 * [【2022-06-18】 从游戏种类入手，挑选你的第一款游戏鼠标](https://sspai.com/post/73862)
 * [【2022-06-17】 本周看什么丨最近值得一看的一点点作品](https://sspai.com/post/73863)
 * [【2022-06-17】 用 59 分钟，找到工具的效率之源](https://sspai.com/post/73829)
@@ -43,8 +45,6 @@
 * [【2022-06-17】 一派·Podcast | 从 WWDC22 看 Apple 的未来](https://sspai.com/post/73835)
 * [【2022-06-17】 Karabiner 助力，让你的键盘操作快人一步](https://sspai.com/post/73827)
 * [【2022-06-17】 派早报：飞傲发布新款 BTR7 耳放、HP  推出新款战 99 设计师本](https://sspai.com/post/73833)
-* [【2022-06-16】 新玩意 109｜少数派的编辑们 618 买了啥？](https://sspai.com/post/73826)
-* [【2022-06-16】 抓住购物节的小尾巴：618 值得关注的 Windows 笔记本新品](https://sspai.com/post/73823)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-06-19】 成为爸爸后，有哪些事情让你更深刻地理解了父爱？](http://www.zhihu.com/question/538201412/answer/2535069905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-17】 如何评价动画《新秦时明月》第31集？](http://www.zhihu.com/question/538197742/answer/2533287582?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-17】 游戏技术策划（Technical Designer）核心竞争力是什么？在团队中能够起到怎样的关键作用？](http://www.zhihu.com/question/534544209/answer/2503912123?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-17】 游戏技术策划（Technical Designer）核心竞争力是什么？在团队中能够起到怎样的关键作用？](http://www.zhihu.com/question/534544209/answer/2503666658?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-06-17】 什么特质会让你立刻觉得一个游戏技术策划（Technical Designer）很靠谱？](http://www.zhihu.com/question/534524335/answer/2502617201?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-17】 一个人去衢州怎么玩？](http://www.zhihu.com/question/35924480/answer/2529622287?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-16】 为什么结婚大家都会买戒指而非项链、耳环？](http://www.zhihu.com/question/533442303/answer/2531573395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-16】 有哪些冷门但好玩的海边城市/海岛？](http://www.zhihu.com/question/41585407/answer/2529994061?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-06-18 05:12:26
+:alarm_clock: 更新时间: 2022-06-19 05:15:36

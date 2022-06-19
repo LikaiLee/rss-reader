@@ -208,6 +208,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "重新理解「好奇心」：学习动机的自救指南",
+                "link": "https://sspai.com/post/72993",
+                "published": "2022-06-19"
+            },
+            {
+                "title": "WWDC22 Swift 学生挑战赛落幕，中国学生们表现亮眼",
+                "link": "https://sspai.com/post/73872",
+                "published": "2022-06-18"
+            },
+            {
                 "title": "从游戏种类入手，挑选你的第一款游戏鼠标",
                 "link": "https://sspai.com/post/73862",
                 "published": "2022-06-18"
@@ -5428,7 +5438,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -35884,6 +35894,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "成为爸爸后，有哪些事情让你更深刻地理解了父爱？",
+                "link": "http://www.zhihu.com/question/538201412/answer/2535069905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-19"
+            },
+            {
                 "title": "如何评价动画《新秦时明月》第31集？",
                 "link": "http://www.zhihu.com/question/538197742/answer/2533287582?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-17"
@@ -40079,7 +40094,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 1
     },
     {
         "id": 4,
