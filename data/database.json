@@ -208,6 +208,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "「人设」的陷阱——如何应对网络中的「虚拟自我」？",
+                "link": "https://sspai.com/post/73818",
+                "published": "2022-06-20"
+            },
+            {
+                "title": "派早报：微软以违规为由取消大量 XGP 订阅；比特币跌破 2 万美元等",
+                "link": "https://sspai.com/post/73890",
+                "published": "2022-06-20"
+            },
+            {
+                "title": "本月玩什么 | 怪物猎人崛起 曙光、火纹无双 风花雪月、采石场惊魂",
+                "link": "https://sspai.com/post/73887",
+                "published": "2022-06-19"
+            },
+            {
                 "title": "重新理解「好奇心」：学习动机的自救指南",
                 "link": "https://sspai.com/post/72993",
                 "published": "2022-06-19"
@@ -5438,7 +5453,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -35893,6 +35908,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "如何评价电影《机动战士高达：库库鲁斯·多安的岛》？",
+                "link": "http://www.zhihu.com/question/535877635/answer/2533457835?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-19"
+            },
             {
                 "title": "成为爸爸后，有哪些事情让你更深刻地理解了父爱？",
                 "link": "http://www.zhihu.com/question/538201412/answer/2535069905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
