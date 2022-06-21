@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-06-21】 exping：一个地图创作工具是怎么诞生的？](https://sspai.com/post/73855)
+* [【2022-06-21】 派早报：ThinkPad X13s 上市、小米回应显示器全面采用公模传闻等](https://sspai.com/post/73914)
+* [【2022-06-20】 派评 | 近期值得关注的 App](https://sspai.com/post/73906)
+* [【2022-06-20】 定格相机的机械之美：宾得 SP 的拆解与装裱](https://sspai.com/post/73807)
+* [【2022-06-20】 一日一技 | 为 Google Pixel 6 解锁国内 5G 网络支持](https://sspai.com/post/73886)
 * [【2022-06-20】 「人设」的陷阱——如何应对网络中的「虚拟自我」？](https://sspai.com/post/73818)
 * [【2022-06-20】 派早报：微软以违规为由取消大量 XGP 订阅；比特币跌破 2 万美元等](https://sspai.com/post/73890)
 * [【2022-06-19】 本月玩什么 | 怪物猎人崛起 曙光、火纹无双 风花雪月、采石场惊魂](https://sspai.com/post/73887)
 * [【2022-06-19】 重新理解「好奇心」：学习动机的自救指南](https://sspai.com/post/72993)
 * [【2022-06-18】 WWDC22 Swift 学生挑战赛落幕，中国学生们表现亮眼](https://sspai.com/post/73872)
-* [【2022-06-18】 从游戏种类入手，挑选你的第一款游戏鼠标](https://sspai.com/post/73862)
-* [【2022-06-17】 本周看什么丨最近值得一看的一点点作品](https://sspai.com/post/73863)
-* [【2022-06-17】 用 59 分钟，找到工具的效率之源](https://sspai.com/post/73829)
-* [【2022-06-17】 付费栏目今年 618 怎么玩？上新，打折，抽奖，一个也不能少！](https://sspai.com/post/73828)
-* [【2022-06-17】 不买可以先收藏 11：体脂秤怎么选？](https://sspai.com/post/73850)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-06-21】 请推荐几款2015年后的战棋类电脑单机游戏，太旧太老的不要？](http://www.zhihu.com/question/537439656/answer/2531069840?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-06-20】 《艾尔登法环》（Elden Ring）讲了一个怎样的故事?](http://www.zhihu.com/question/517963071/answer/2425746560?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-19】 如何评价电影《机动战士高达：库库鲁斯·多安的岛》？](http://www.zhihu.com/question/535877635/answer/2533457835?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-19】 成为爸爸后，有哪些事情让你更深刻地理解了父爱？](http://www.zhihu.com/question/538201412/answer/2535069905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-17】 如何评价动画《新秦时明月》第31集？](http://www.zhihu.com/question/538197742/answer/2533287582?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-06-17】 2022年，有哪些游戏领域的新技术令你期待？这些技术可能催生出怎样的游戏内容？](http://www.zhihu.com/question/534520143/answer/2504050253?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-17】 游戏当中有哪些跨行业应用的前沿技术？](http://www.zhihu.com/question/534542532/answer/2502458298?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-17】 为什么大型游戏公司越来越重视技术美术（TA）、技术策划（TD）等复合型岗位？](http://www.zhihu.com/question/534544070/answer/2503557269?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-17】 什么特质会让你立刻觉得一个游戏技术策划（Technical Designer）很靠谱？](http://www.zhihu.com/question/534524335/answer/2502617201?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-17】 一个人去衢州怎么玩？](http://www.zhihu.com/question/35924480/answer/2529622287?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-06-20 05:13:59
+:alarm_clock: 更新时间: 2022-06-21 05:19:18
