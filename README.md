@@ -5,8 +5,8 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+7】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-06-23】 而立之年，我当择何处而居？](https://sspai.com/post/72677)
+* [【2022-06-23】 派早报：多亲公布新款手机、亚马逊 Alexa 将可以模拟人声等](https://sspai.com/post/73954)
+* [【2022-06-22】 试播集 07 | 少数派作者们最近读完了啥（上）](https://sspai.com/post/73939)
+* [【2022-06-22】 不用密码但不能代替密码：通行密钥如何让登录这件事更简单？](https://sspai.com/post/73937)
+* [【2022-06-22】 没有方向盘也能影响驾驶体验，这样的副驾或许比自动驾驶更靠谱](https://sspai.com/post/73938)
 * [【2022-06-22】 从方法到动机，聊聊在 2022 年坚持写博客的心得](https://sspai.com/post/73934)
 * [【2022-06-22】 派早报：理想 L9 正式发布、联发科推出天玑 9000+ 芯片组等](https://sspai.com/post/73933)
 * [【2022-06-21】 [送码] 始于小组件、玩出新花样：用 OneWidget 让 iPhone「一键换肤」](https://sspai.com/post/73810)
 * [【2022-06-21】 对驾驶座的体验负责：试驾多点细节，选车少些纠结](https://sspai.com/post/73917)
 * [【2022-06-21】 不用看管理员脸色，Linux 服务器装软件也能自给自足](https://sspai.com/post/73822)
-* [【2022-06-21】 exping：一个地图创作工具是怎么诞生的？](https://sspai.com/post/73855)
-* [【2022-06-21】 派早报：ThinkPad X13s 上市、小米回应显示器全面采用公模传闻等](https://sspai.com/post/73914)
-* [【2022-06-20】 派评 | 近期值得关注的 App](https://sspai.com/post/73906)
-* [【2022-06-20】 定格相机的机械之美：宾得 SP 的拆解与装裱](https://sspai.com/post/73807)
-* [【2022-06-20】 一日一技 | 为 Google Pixel 6 解锁国内 5G 网络支持](https://sspai.com/post/73886)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2022-06-23】 核心体验分析——明日方舟](http://zhuanlan.zhihu.com/p/527745985?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-06-23】 核心体验分析——最终幻想14](http://zhuanlan.zhihu.com/p/530667682?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-06-23】 如何看待北京近期的「自行车骑行热」和一车难求等现象？](http://www.zhihu.com/question/537693355/answer/2532368490?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-06-23】 孩子在班级各种期末评优都没中，做父母的该怎么看？](http://www.zhihu.com/question/419176329/answer/2532184792?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-06-22】 郑州发布关于部分村镇银行储户被赋红码问题调查问责情况的通报，有哪些信息值得关注？](http://www.zhihu.com/question/538986890/answer/2540274150?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-06-22】 为什么说舟山观音法界让人叹为观止？有哪些原因？](http://www.zhihu.com/question/523949149/answer/2532589956?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-06-22】 光荣的《太阁立志传 5 DX》现已上线，游戏体验如何，符合预期吗？](http://www.zhihu.com/question/533540516/answer/2538862277?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-22】 钱学森明明是造导弹的，但为什么很多人都觉得钱学森造原子弹的？](http://www.zhihu.com/question/296211541/answer/2537917985?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-21】 玩露营绕不开小红书](http://zhuanlan.zhihu.com/p/531444236?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-06-21】 钢琴调音师的调音真的比电脑调音更精准吗？](http://www.zhihu.com/question/52747892/answer/321369044?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-19】 如何评价动画电影《机动战士高达：库库鲁斯·多安的岛》？](http://www.zhihu.com/question/535877635/answer/2533457835?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-21】 请推荐几款2015年后的战棋类电脑单机游戏，太旧太老的不要？](http://www.zhihu.com/question/537439656/answer/2531069840?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-20】 《艾尔登法环》（Elden Ring）讲了一个怎样的故事?](http://www.zhihu.com/question/517963071/answer/2425746560?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-19】 如何评价电影《机动战士高达：库库鲁斯·多安的岛》？](http://www.zhihu.com/question/535877635/answer/2533457835?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-19】 成为爸爸后，有哪些事情让你更深刻地理解了父爱？](http://www.zhihu.com/question/538201412/answer/2535069905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-17】 如何评价动画《新秦时明月》第31集？](http://www.zhihu.com/question/538197742/answer/2533287582?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-06-17】 游戏技术策划（Technical Designer）核心竞争力是什么？在团队中能够起到怎样的关键作用？](http://www.zhihu.com/question/534544209/answer/2503912123?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-06-23】 好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, Flex Box Adventure, ...](https://bestxtools.zhubai.love/posts/2151574254901452800)
 * [【2022-06-16】 好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, Colorsandfonts, ...](https://bestxtools.zhubai.love/posts/2149044131228536832)
 * [【2022-06-09】 好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, TweetPics, SPEEDTEST](https://bestxtools.zhubai.love/posts/2146500725667651584)
 * [【2022-06-02】 好工具周刊（第 15 期）: GitHub Profile Header Generator, Curl UI, Domcomp, 巴别英语, DAREBEE, ...](https://bestxtools.zhubai.love/posts/2143964812269535232)
@@ -101,7 +102,6 @@
 * [【2022-05-05】 好工具周刊（第 11 期）: favicon.io, Pixel Art Together, Look Scanned, Coverview, bookmark.style, ...](https://bestxtools.zhubai.love/posts/2133814505174749184)
 * [【2022-04-28】 好工具周刊（第 10 期）: 【特别篇】写在第 10 期，对于这个周刊的思考, 不可见零宽字符 (invisible zero-width characters) 相关工具](https://bestxtools.zhubai.love/posts/2131289842624032768)
 * [【2022-04-21】 好工具周刊（第 9 期）: tree.nathanfriend.io, ASCIIFlow, WeekToDo, Ray.so, 数字帝国, Arteater](https://bestxtools.zhubai.love/posts/2128746103750725632)
-* [【2022-04-14】 好工具周刊（第 8 期）: tldraw, TableConvert, markmap, B64, 词云小工具, EmojiAI, Reshot](https://bestxtools.zhubai.love/posts/2126209870226264064)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-06-22 05:18:20
+:alarm_clock: 更新时间: 2022-06-23 05:19:48
