@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP",
+                "link": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html",
+                "published": "2022-06-24"
+            },
+            {
                 "title": "科技爱好者周刊（第 210 期）：为什么软件变得复杂",
                 "link": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html",
                 "published": "2022-06-17"
@@ -200,13 +205,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "玩转 Obsidian 08：利用 Dataview 打造自动化 HomePage",
+                "link": "https://sspai.com/post/73958",
+                "published": "2022-06-24"
+            },
+            {
+                "title": "派早报：索尼发布 2022 电视新品、AMD GPU 对比工具上线",
+                "link": "https://sspai.com/post/73974",
+                "published": "2022-06-24"
+            },
+            {
+                "title": "新玩意 110｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/73964",
+                "published": "2022-06-23"
+            },
+            {
+                "title": "为什么你应该试试一句话换一行",
+                "link": "https://sspai.com/post/73957",
+                "published": "2022-06-23"
+            },
+            {
+                "title": "大船靠岸，激动暂缓：以 Pixel 为例谈二手/水货 Android 手机验机",
+                "link": "https://sspai.com/prime/story/inspecting-imported-used-pixel",
+                "published": "2022-06-23"
+            },
             {
                 "title": "而立之年，我当择何处而居？",
                 "link": "https://sspai.com/post/72677",
@@ -35984,6 +36014,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "去大连旅游，有什么推荐的攻略？",
+                "link": "http://www.zhihu.com/question/22877999/answer/2469176830?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-24"
+            },
+            {
                 "title": "核心体验分析——明日方舟",
                 "link": "http://zhuanlan.zhihu.com/p/527745985?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-23"
@@ -40254,7 +40289,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 1
     },
     {
         "id": 4,
@@ -40357,6 +40392,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
