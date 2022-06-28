@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-06-28】 一台 17 年前的 iPod，我是如何将它改成「透明探索版」的？](https://sspai.com/post/74022)
+* [【2022-06-28】 派早报：中国广电 5G 已上线，腾讯 QQ 回应大批账号被盗等](https://sspai.com/post/74028)
+* [【2022-06-27】 派评 | 近期值得关注的 App](https://sspai.com/post/74021)
+* [【2022-06-27】 既不遥远，也不神秘——谈谈雪茄](https://sspai.com/post/74017)
+* [【2022-06-27】 Apple Watch 房颤功能再迎升级，手腕上的心脏检测有多靠谱？](https://sspai.com/post/74014)
+* [【2022-06-27】 BOOOM 挑战赛的百余游戏作品，我用 Notion 做成了个人收藏](https://sspai.com/post/74002)
 * [【2022-06-27】 福利 | Steam 夏日特卖「检查清单」，这些游戏值得入库](https://sspai.com/post/74005)
 * [【2022-06-27】 派早报：美主要科技企业响应罗伊案被推翻，知网受到网络安全审查等](https://sspai.com/post/74001)
 * [【2022-06-26】 筋膜枪？泡沫轴？运动后怎样才能科学地恢复身体机能](https://sspai.com/post/73944)
 * [【2022-06-25】 Matrix 专栏导读 04 | 值得一听的人生与读书建议](https://sspai.com/post/73986)
-* [【2022-06-25】 给电邮插上翅膀——这是我的 Outlook 插件推荐](https://sspai.com/post/73976)
-* [【2022-06-24】 本周看什么丨最近值得一看的一大筐作品](https://sspai.com/post/73985)
-* [【2022-06-24】 有奖征文 | 地大物博的华夏，哪些是你的风物推荐？](https://sspai.com/post/73978)
-* [【2022-06-24】 VSCO：一次关于大更新的大更新](https://sspai.com/post/73960)
-* [【2022-06-24】 玩转 Obsidian 08：利用 Dataview 打造自动化 HomePage](https://sspai.com/post/73958)
-* [【2022-06-24】 派早报：索尼发布 2022 电视新品、AMD GPU 对比工具上线](https://sspai.com/post/73974)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-06-27 05:26:12
+:alarm_clock: 更新时间: 2022-06-28 05:23:43

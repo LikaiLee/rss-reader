@@ -213,6 +213,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一台 17 年前的 iPod，我是如何将它改成「透明探索版」的？",
+                "link": "https://sspai.com/post/74022",
+                "published": "2022-06-28"
+            },
+            {
+                "title": "派早报：中国广电 5G 已上线，腾讯 QQ 回应大批账号被盗等",
+                "link": "https://sspai.com/post/74028",
+                "published": "2022-06-28"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/74021",
+                "published": "2022-06-27"
+            },
+            {
+                "title": "既不遥远，也不神秘——谈谈雪茄",
+                "link": "https://sspai.com/post/74017",
+                "published": "2022-06-27"
+            },
+            {
+                "title": "Apple Watch 房颤功能再迎升级，手腕上的心脏检测有多靠谱？",
+                "link": "https://sspai.com/post/74014",
+                "published": "2022-06-27"
+            },
+            {
+                "title": "BOOOM 挑战赛的百余游戏作品，我用 Notion 做成了个人收藏",
+                "link": "https://sspai.com/post/74002",
+                "published": "2022-06-27"
+            },
+            {
                 "title": "福利 | Steam 夏日特卖「检查清单」，这些游戏值得入库",
                 "link": "https://sspai.com/post/74005",
                 "published": "2022-06-27"
@@ -5598,7 +5628,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     },
     {
         "id": 2,
