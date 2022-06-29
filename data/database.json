@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "云主机上手教程：轻量应用服务器体验",
+                "link": "http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html",
+                "published": "2022-06-29"
+            },
+            {
                 "title": "科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP",
                 "link": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html",
                 "published": "2022-06-24"
@@ -205,13 +210,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "思考、方法与信念——我应该怎么与这个世界相处？",
+                "link": "https://sspai.com/post/73704",
+                "published": "2022-06-29"
+            },
+            {
+                "title": "派早报：星巴克推出三星手机、耳机保护壳，保时捷设计推出 PDH80",
+                "link": "https://sspai.com/post/74045",
+                "published": "2022-06-29"
+            },
+            {
+                "title": "遵循医嘱吃药不是一件小事，Apple 为了这件事专门做了一个应用",
+                "link": "https://sspai.com/post/74030",
+                "published": "2022-06-28"
+            },
+            {
+                "title": "咖啡地图 | 巴拿马的瑰夏故事",
+                "link": "https://sspai.com/post/74024",
+                "published": "2022-06-28"
+            },
+            {
+                "title": "Fantastical 的有力竞争者，老牌日历应用效率再升级：Calendars",
+                "link": "https://sspai.com/post/73991",
+                "published": "2022-06-28"
+            },
+            {
+                "title": "未必尝试，聊备一格——谈谈雪茄",
+                "link": "https://sspai.com/post/74017",
+                "published": "2022-06-27"
+            },
             {
                 "title": "一台 17 年前的 iPod，我是如何将它改成「透明探索版」的？",
                 "link": "https://sspai.com/post/74022",
@@ -36084,6 +36119,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有什么事情是只有漫画这一媒介能做到的?",
+                "link": "http://www.zhihu.com/question/535590151/answer/2549845417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-29"
+            },
+            {
+                "title": "乐山 / 宜宾，在小城与菜场吃掉春天",
+                "link": "http://zhuanlan.zhihu.com/p/534986693?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-28"
+            },
+            {
                 "title": "2022 年高考报志愿哪些专业就业前景比较好？作为过来人，你有什么经验分享？",
                 "link": "http://www.zhihu.com/question/537010715/answer/2544901173?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-25"
@@ -40379,7 +40424,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
