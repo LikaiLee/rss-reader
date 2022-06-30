@@ -210,13 +210,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "白板与笔记融合：我的四个氢图使用场景",
+                "link": "https://sspai.com/post/73246",
+                "published": "2022-06-30"
+            },
+            {
+                "title": "派早报：尼康发布 Z 30 相机、ARM 推出新一代移动端 CPU 和 GPU 等",
+                "link": "https://sspai.com/post/74063",
+                "published": "2022-06-30"
+            },
+            {
+                "title": "迷你直面会说大事：任天堂又为你的 Switch 带来了哪些「新游戏」？",
+                "link": "https://sspai.com/post/74047",
+                "published": "2022-06-29"
+            },
+            {
+                "title": "微信发布 8.0.24 更新，这 5 个变化值得关注",
+                "link": "https://sspai.com/post/74042",
+                "published": "2022-06-29"
+            },
+            {
+                "title": "技术播客月，我们一起聊聊技术与开源",
+                "link": "https://sspai.com/post/72270",
+                "published": "2022-06-29"
+            },
             {
                 "title": "思考、方法与信念——我应该怎么与这个世界相处？",
                 "link": "https://sspai.com/post/73704",
@@ -5663,7 +5688,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -40424,13 +40449,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 19 期）: Remover.app, Enpuz, regex101, Regexper, Stormah, fffuel, Hovercode",
+                "link": "https://bestxtools.zhubai.love/posts/2154116824852905984",
+                "published": "2022-06-30"
+            },
             {
                 "title": "好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, Flex Box Adventure, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2151574254901452800",
@@ -40527,6 +40557,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
