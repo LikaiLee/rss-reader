@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 212 期）：人生不短",
+                "link": "http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html",
+                "published": "2022-07-01"
+            },
+            {
                 "title": "云主机上手教程：轻量应用服务器体验",
                 "link": "http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html",
                 "published": "2022-06-29"
@@ -210,13 +215,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "为什么我们对修真的世界如此着迷？",
+                "link": "https://sspai.com/post/73432",
+                "published": "2022-07-01"
+            },
+            {
+                "title": "派早报：三星开始生产 3nm 芯片、树莓派推出 Pico W 微控制器等",
+                "link": "https://sspai.com/post/74081",
+                "published": "2022-07-01"
+            },
+            {
+                "title": "试播集 07 | 少数派作者们最近读完了啥（下）",
+                "link": "https://sspai.com/post/74070",
+                "published": "2022-06-30"
+            },
+            {
+                "title": "一派·在线沙龙 09 | 流媒体为何突然不「香」了",
+                "link": "https://sspai.com/post/74075",
+                "published": "2022-06-30"
+            },
+            {
+                "title": "GitHub Copilot：革命未竟，未来可期",
+                "link": "https://sspai.com/prime/story/on-copilot",
+                "published": "2022-06-30"
+            },
+            {
+                "title": "流媒体之前我们如何听歌：音乐载体的百年变迁",
+                "link": "https://sspai.com/post/74067",
+                "published": "2022-06-30"
+            },
             {
                 "title": "白板与笔记融合：我的四个氢图使用场景",
                 "link": "https://sspai.com/post/73246",
@@ -5688,7 +5723,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -36144,6 +36179,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "堵车时，发动机频繁启停会对发动机寿命造成严重的不良影响吗？",
+                "link": "http://www.zhihu.com/question/538637976/answer/2552123746?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-30"
+            },
+            {
+                "title": "如何让发动机用更少的油得到更多的动力？",
+                "link": "http://www.zhihu.com/question/538030795/answer/2548950607?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-30"
+            },
+            {
+                "title": "醇电混动专用发动机的工作原理是什么？未来醇电混动会取代燃油混动吗？",
+                "link": "http://www.zhihu.com/question/539092380/answer/2547100112?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-30"
+            },
+            {
+                "title": "《明日方舟》SideStory「绿野幻梦」活动先导 PV 已出 ，有哪些值得关注的信息？",
+                "link": "http://www.zhihu.com/question/540527597/answer/2551358619?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-06-30"
+            },
+            {
                 "title": "有什么事情是只有漫画这一媒介能做到的?",
                 "link": "http://www.zhihu.com/question/535590151/answer/2549845417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-29"
@@ -40449,7 +40504,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 4,
@@ -40557,6 +40612,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
