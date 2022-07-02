@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2022-07-01】 本周看什么丨最近值得一看一大锅作品](https://sspai.com/post/74085)
+* [【2022-07-01】 走进小众但不冷门的房车世界](https://sspai.com/post/74043)
+* [【2022-07-01】 把桌面级功能放进平板电脑——Capture One for iPad 上手体验](https://sspai.com/post/71744)
 * [【2022-07-01】 为什么我们对修真的世界如此着迷？](https://sspai.com/post/73432)
 * [【2022-07-01】 派早报：三星开始生产 3nm 芯片、树莓派推出 Pico W 微控制器等](https://sspai.com/post/74081)
 * [【2022-06-30】 试播集 07 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/74070)
@@ -42,9 +45,6 @@
 * [【2022-06-30】 GitHub Copilot：革命未竟，未来可期](https://sspai.com/prime/story/on-copilot)
 * [【2022-06-30】 流媒体之前我们如何听歌：音乐载体的百年变迁](https://sspai.com/post/74067)
 * [【2022-06-30】 白板与笔记融合：我的四个氢图使用场景](https://sspai.com/post/73246)
-* [【2022-06-30】 派早报：尼康发布 Z 30 相机、ARM 推出新一代移动端 CPU 和 GPU 等](https://sspai.com/post/74063)
-* [【2022-06-29】 迷你直面会说大事：任天堂又为你的 Switch 带来了哪些「新游戏」？](https://sspai.com/post/74047)
-* [【2022-06-29】 微信发布 8.0.24 更新，这 5 个变化值得关注](https://sspai.com/post/74042)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-01 05:31:19
+:alarm_clock: 更新时间: 2022-07-02 05:16:29

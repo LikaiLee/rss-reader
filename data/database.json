@@ -215,13 +215,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么丨最近值得一看一大锅作品",
+                "link": "https://sspai.com/post/74085",
+                "published": "2022-07-01"
+            },
+            {
+                "title": "走进小众但不冷门的房车世界",
+                "link": "https://sspai.com/post/74043",
+                "published": "2022-07-01"
+            },
+            {
+                "title": "把桌面级功能放进平板电脑——Capture One for iPad 上手体验",
+                "link": "https://sspai.com/post/71744",
+                "published": "2022-07-01"
+            },
             {
                 "title": "为什么我们对修真的世界如此着迷？",
                 "link": "https://sspai.com/post/73432",
@@ -5723,7 +5738,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -40504,7 +40519,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 0
     },
     {
         "id": 4,
