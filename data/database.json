@@ -223,6 +223,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "消毒剂选购不完全指南",
+                "link": "https://sspai.com/prime/story/disinfectant",
+                "published": "2022-07-03"
+            },
+            {
+                "title": "大家都说好的蛋白粉，我们应该如何取舍",
+                "link": "https://sspai.com/post/74090",
+                "published": "2022-07-02"
+            },
+            {
+                "title": "设计、体验都出彩，白板工具的又一选择：Muse",
+                "link": "https://sspai.com/post/74009",
+                "published": "2022-07-02"
+            },
+            {
                 "title": "本周看什么丨最近值得一看一大锅作品",
                 "link": "https://sspai.com/post/74085",
                 "published": "2022-07-01"
@@ -36194,6 +36209,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价动画《开心宝贝》（又名开心超人）？",
+                "link": "http://www.zhihu.com/question/40589001/answer/2554854471?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-02"
+            },
+            {
                 "title": "堵车时，发动机频繁启停会对发动机寿命造成严重的不良影响吗？",
                 "link": "http://www.zhihu.com/question/538637976/answer/2552123746?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-06-30"
@@ -40519,7 +40539,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
