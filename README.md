@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-07-04】 随时待命的听歌识曲，这项 Pixel 独占功能现在你也可以体验：Ambient Music Mod](https://sspai.com/post/74109)
+* [【2022-07-04】 派早报：欧盟通过控制加密资产新规，显卡缺货显缓解趋势等](https://sspai.com/post/74102)
 * [【2022-07-03】 消毒剂选购不完全指南](https://sspai.com/prime/story/disinfectant)
 * [【2022-07-02】 大家都说好的蛋白粉，我们应该如何取舍](https://sspai.com/post/74090)
 * [【2022-07-02】 设计、体验都出彩，白板工具的又一选择：Muse](https://sspai.com/post/74009)
@@ -43,8 +45,6 @@
 * [【2022-07-01】 把桌面级功能放进平板电脑——Capture One for iPad 上手体验](https://sspai.com/post/71744)
 * [【2022-07-01】 为什么我们对修真的世界如此着迷？](https://sspai.com/post/73432)
 * [【2022-07-01】 派早报：三星开始生产 3nm 芯片、树莓派推出 Pico W 微控制器等](https://sspai.com/post/74081)
-* [【2022-06-30】 试播集 07 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/74070)
-* [【2022-06-30】 一派·在线沙龙 09 | 流媒体为何突然不「香」了](https://sspai.com/post/74075)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-03 05:13:12
+:alarm_clock: 更新时间: 2022-07-04 05:26:15

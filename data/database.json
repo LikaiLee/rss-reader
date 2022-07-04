@@ -223,6 +223,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "随时待命的听歌识曲，这项 Pixel 独占功能现在你也可以体验：Ambient Music Mod",
+                "link": "https://sspai.com/post/74109",
+                "published": "2022-07-04"
+            },
+            {
+                "title": "派早报：欧盟通过控制加密资产新规，显卡缺货显缓解趋势等",
+                "link": "https://sspai.com/post/74102",
+                "published": "2022-07-04"
+            },
+            {
                 "title": "消毒剂选购不完全指南",
                 "link": "https://sspai.com/prime/story/disinfectant",
                 "published": "2022-07-03"
@@ -5753,7 +5763,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -40539,7 +40549,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
