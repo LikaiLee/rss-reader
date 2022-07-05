@@ -223,6 +223,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我开发了时间管理工具 Polytime，期待用它和世界建立连接",
+                "link": "https://sspai.com/post/74034",
+                "published": "2022-07-05"
+            },
+            {
+                "title": "派早报：华为举办夏季新品发布会，小米发布小米 12S 系列新机等",
+                "link": "https://sspai.com/post/74121",
+                "published": "2022-07-05"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/74114",
+                "published": "2022-07-04"
+            },
+            {
+                "title": "拉伸真的有用吗？",
+                "link": "https://sspai.com/post/74069",
+                "published": "2022-07-04"
+            },
+            {
+                "title": "「E3 月」点评：好玩的游戏那么多，值得关注的有哪些？",
+                "link": "https://sspai.com/post/74107",
+                "published": "2022-07-04"
+            },
+            {
+                "title": "当我在拍照时，我在思考什么？",
+                "link": "https://sspai.com/post/74083",
+                "published": "2022-07-04"
+            },
+            {
+                "title": "随时待命的听歌识曲，这项 Pixel 独占功能现在你也可以体验",
+                "link": "https://sspai.com/post/74109",
+                "published": "2022-07-04"
+            },
+            {
                 "title": "随时待命的听歌识曲，这项 Pixel 独占功能现在你也可以体验：Ambient Music Mod",
                 "link": "https://sspai.com/post/74109",
                 "published": "2022-07-04"
@@ -5763,7 +5798,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -36219,6 +36254,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "「妖镍」事件终局：华尔街失算，摩根大通 1.2 亿美元认亏出局， 谁是「妖镍大战」真正的幕后黑手？",
+                "link": "http://www.zhihu.com/question/541434384/answer/2558738508?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-05"
+            },
+            {
+                "title": "WBGvsTES复盘：BP背后的策略变化，为何优势总被翻盘？",
+                "link": "http://zhuanlan.zhihu.com/p/536964215?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-05"
+            },
+            {
+                "title": "北京有哪些景点是属于世界遗产级的？",
+                "link": "http://www.zhihu.com/question/497862110/answer/2557628102?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-04"
+            },
+            {
+                "title": "苹果 Safari 浏览器突破 10 亿用户大关，该浏览器都有哪些亮点？",
+                "link": "http://www.zhihu.com/question/535493086/answer/2557197309?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-04"
+            },
+            {
                 "title": "如何评价动画《开心宝贝》（又名开心超人）？",
                 "link": "http://www.zhihu.com/question/40589001/answer/2554854471?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-02"
@@ -40549,7 +40604,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 4,
