@@ -223,6 +223,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "用乐高，重现心目中那些「最伟大的作品」",
+                "link": "https://sspai.com/post/74141",
+                "published": "2022-07-07"
+            },
+            {
+                "title": "派早报：M2 版 MacBook Air 将开启预购、NS 推出限定版机型等",
+                "link": "https://sspai.com/post/74151",
+                "published": "2022-07-07"
+            },
+            {
+                "title": "为创作者和读者建立桥梁，一站式内容创作工具：竹白",
+                "link": "https://sspai.com/post/74066",
+                "published": "2022-07-06"
+            },
+            {
+                "title": "最早的房车在中国？浅谈世界房车发展史",
+                "link": "https://sspai.com/post/74136",
+                "published": "2022-07-06"
+            },
+            {
+                "title": "App+1 | 创造语言环境，浏览器插件 Toucan 让你边读网页边背单词",
+                "link": "https://sspai.com/post/74140",
+                "published": "2022-07-06"
+            },
+            {
                 "title": "学摄影就是每天摆弄相机吗？——谈谈我眼中的摄影硕士之旅",
                 "link": "https://sspai.com/post/74118",
                 "published": "2022-07-06"
@@ -36279,6 +36304,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "长沙有哪些深藏不露的餐馆？",
+                "link": "http://www.zhihu.com/question/31025946/answer/2558267928?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-07"
+            },
+            {
+                "title": "如何看待北大教授姚洋表示「未来 30 年内中国世界工厂地位都不可能被印度越南取代」？",
+                "link": "http://www.zhihu.com/question/538171631/answer/2539324313?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-06"
+            },
+            {
                 "title": "「合伙人」",
                 "link": "http://zhuanlan.zhihu.com/p/537835923?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-06"
@@ -40659,13 +40694,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, Star Charts, LetsMarkdown, ui-color",
+                "link": "https://bestxtools.zhubai.love/posts/2156659650731491328",
+                "published": "2022-07-07"
+            },
             {
                 "title": "好工具周刊（第 19 期）: Remover.app, Enpuz, regex101, Regexper, Stormah, fffuel, Hovercode",
                 "link": "https://bestxtools.zhubai.love/posts/2154116824852905984",
@@ -40767,6 +40807,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
