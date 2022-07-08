@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+6】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-07-08】 科技爱好者周刊（第 213 期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)
 * [【2022-07-01】 科技爱好者周刊（第 212 期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)
 * [【2022-06-29】 云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)
 * [【2022-06-24】 科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)
@@ -25,7 +26,6 @@
 * [【2022-05-27】 科技爱好者周刊（第 208 期）：晋升制度的问题](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)
 * [【2022-05-20】 科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
 * [【2022-05-13】 科技爱好者周刊（第 206 期）：如何走出失望和怀疑](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)
-* [【2022-05-06】 科技爱好者周刊（第 205 期）：互联网风口过去了吗？](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-07-08】 为 WSL 配置这些新功能，不用虚拟机也能体验完整 Linux](https://sspai.com/post/74167)
+* [【2022-07-08】 派早报：华硕发布新款 ROG 真无线耳机、宜家发布 BETTORP 无线充电台灯](https://sspai.com/post/74164)
+* [【2022-07-07】 新玩意 111｜少数派的编辑们最近买了啥？](https://sspai.com/post/74158)
+* [【2022-07-07】 可能是 iOS 平台的最强录音工具——Just Press Record 使用体验](https://sspai.com/prime/story/just-press-record)
 * [【2022-07-07】 用乐高，重现心目中那些「最伟大的作品」](https://sspai.com/post/74141)
 * [【2022-07-07】 派早报：M2 版 MacBook Air 将开启预购、NS 推出限定版机型等](https://sspai.com/post/74151)
 * [【2022-07-06】 为创作者和读者建立桥梁，一站式内容创作工具：竹白](https://sspai.com/post/74066)
 * [【2022-07-06】 最早的房车在中国？浅谈世界房车发展史](https://sspai.com/post/74136)
 * [【2022-07-06】 App+1 | 创造语言环境，浏览器插件 Toucan 让你边读网页边背单词](https://sspai.com/post/74140)
 * [【2022-07-06】 学摄影就是每天摆弄相机吗？——谈谈我眼中的摄影硕士之旅](https://sspai.com/post/74118)
-* [【2022-07-06】 派早报：腾讯 ROG 游戏手机 6 发布、网易云音乐将上线「空间音频」专区等](https://sspai.com/post/74139)
-* [【2022-07-05】 创建自己的第一个 Power Automate 工作流，从此繁琐操作是路人](https://sspai.com/post/73710)
-* [【2022-07-05】 Mac 上最老牌的 PDF 编辑器之一，PDF Expert 迎来 3.0 大更新](https://sspai.com/post/74101)
-* [【2022-07-05】 吃了我就不疼了？服用止痛药前，你最好了解这些](https://sspai.com/post/74125)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2022-07-08】 FPS类游戏如何研究它的数值？](http://www.zhihu.com/question/25984519/answer/2564215888?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-07】 汽车上的48伏轻混系统的原理是什么？它的用处大吗？](http://www.zhihu.com/question/532021977/answer/2560448817?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-07】 比亚迪推出了DM-i、吉利推出了雷神、长城有了柠檬DHT……国产混动技术究竟是什么水平？](http://www.zhihu.com/question/531029649/answer/2555913925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-07】 谁能很全面的解释一下汽车的排量、马力、功率、扭矩之间的关系以及作用？](http://www.zhihu.com/question/268735662/answer/2555381239?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-07】 增程式电动车一定要用传统的汽油发动机驱动发电机来发电吗？](http://www.zhihu.com/question/528171482/answer/2554895380?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-07】 堵车时，发动机频繁启停会对发动机寿命造成严重的不良影响吗？](http://www.zhihu.com/question/538637976/answer/2554346886?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-07】 长沙有哪些深藏不露的餐馆？](http://www.zhihu.com/question/31025946/answer/2558267928?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-06】 如何看待北大教授姚洋表示「未来 30 年内中国世界工厂地位都不可能被印度越南取代」？](http://www.zhihu.com/question/538171631/answer/2539324313?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-06】 「合伙人」](http://zhuanlan.zhihu.com/p/537835923?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-06】 甘肃省甘南州值得一去吗？](http://www.zhihu.com/question/364784408/answer/2560741493?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-05】 基于方言之间的预测相似度进行方言聚类](http://zhuanlan.zhihu.com/p/464735745?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-05】 如何评价特斯拉展示最新采用 4680 电芯的结构性电池组？](http://www.zhihu.com/question/491883479/answer/2559885291?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-05】 如何看待 2022 F1 英国大奖赛周冠宇起步遭遇严重撞车退赛？Halo 系统是什么？](http://www.zhihu.com/question/541334225/answer/2559745157?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-05】 国际视野下中国企业债券违约的若干法律问题研究（一）](http://zhuanlan.zhihu.com/p/525592382?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-05】 「妖镍」事件终局：华尔街失算，摩根大通 1.2 亿美元认亏出局， 谁是「妖镍大战」真正的幕后黑手？](http://www.zhihu.com/question/541434384/answer/2558738508?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-05】 WBGvsTES复盘：BP背后的策略变化，为何优势总被翻盘？](http://zhuanlan.zhihu.com/p/536964215?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-07 05:23:02
+:alarm_clock: 更新时间: 2022-07-08 05:21:26

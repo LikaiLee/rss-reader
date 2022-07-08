@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 213 期）：知识孤岛，知识软件",
+                "link": "http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html",
+                "published": "2022-07-08"
+            },
+            {
                 "title": "科技爱好者周刊（第 212 期）：人生不短",
                 "link": "http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html",
                 "published": "2022-07-01"
@@ -215,13 +220,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "为 WSL 配置这些新功能，不用虚拟机也能体验完整 Linux",
+                "link": "https://sspai.com/post/74167",
+                "published": "2022-07-08"
+            },
+            {
+                "title": "派早报：华硕发布新款 ROG 真无线耳机、宜家发布 BETTORP 无线充电台灯",
+                "link": "https://sspai.com/post/74164",
+                "published": "2022-07-08"
+            },
+            {
+                "title": "新玩意 111｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/74158",
+                "published": "2022-07-07"
+            },
+            {
+                "title": "可能是 iOS 平台的最强录音工具——Just Press Record 使用体验",
+                "link": "https://sspai.com/prime/story/just-press-record",
+                "published": "2022-07-07"
+            },
             {
                 "title": "用乐高，重现心目中那些「最伟大的作品」",
                 "link": "https://sspai.com/post/74141",
@@ -5848,7 +5873,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -36304,6 +36329,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "FPS类游戏如何研究它的数值？",
+                "link": "http://www.zhihu.com/question/25984519/answer/2564215888?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-08"
+            },
+            {
+                "title": "汽车上的48伏轻混系统的原理是什么？它的用处大吗？",
+                "link": "http://www.zhihu.com/question/532021977/answer/2560448817?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-07"
+            },
+            {
+                "title": "比亚迪推出了DM-i、吉利推出了雷神、长城有了柠檬DHT……国产混动技术究竟是什么水平？",
+                "link": "http://www.zhihu.com/question/531029649/answer/2555913925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-07"
+            },
+            {
+                "title": "谁能很全面的解释一下汽车的排量、马力、功率、扭矩之间的关系以及作用？",
+                "link": "http://www.zhihu.com/question/268735662/answer/2555381239?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-07"
+            },
+            {
+                "title": "增程式电动车一定要用传统的汽油发动机驱动发电机来发电吗？",
+                "link": "http://www.zhihu.com/question/528171482/answer/2554895380?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-07"
+            },
+            {
+                "title": "堵车时，发动机频繁启停会对发动机寿命造成严重的不良影响吗？",
+                "link": "http://www.zhihu.com/question/538637976/answer/2554346886?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-07"
+            },
+            {
                 "title": "长沙有哪些深藏不露的餐馆？",
                 "link": "http://www.zhihu.com/question/31025946/answer/2558267928?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-07"
@@ -40694,7 +40749,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     },
     {
         "id": 4,
@@ -40807,6 +40862,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
