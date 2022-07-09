@@ -220,13 +220,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么丨最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/74174",
+                "published": "2022-07-08"
+            },
+            {
+                "title": "工作党如何做好日常备餐？这是我的经验和食谱分享",
+                "link": "https://sspai.com/post/74169",
+                "published": "2022-07-08"
+            },
+            {
+                "title": "在 Android 的词典里，「通知延后」可能不是你以为的意思",
+                "link": "https://sspai.com/prime/story/android-snooze-explained",
+                "published": "2022-07-08"
+            },
+            {
+                "title": "iOS 16 Beta 2 & Beta 3 中值得关注的新特性",
+                "link": "https://sspai.com/post/74162",
+                "published": "2022-07-08"
+            },
             {
                 "title": "为 WSL 配置这些新功能，不用虚拟机也能体验完整 Linux",
                 "link": "https://sspai.com/post/74167",
@@ -36329,6 +36349,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "怎样计划好穷游骑车环海南岛？有哪些要注意的地方？",
+                "link": "http://www.zhihu.com/question/19776522/answer/2478056578?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-08"
+            },
+            {
                 "title": "FPS类游戏如何研究它的数值？",
                 "link": "http://www.zhihu.com/question/25984519/answer/2564215888?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-08"
@@ -40749,7 +40774,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 1
     },
     {
         "id": 4,
