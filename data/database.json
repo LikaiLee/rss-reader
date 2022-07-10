@@ -228,6 +228,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "听完第 33 届金曲奖入围作品，我为你总结了一份歌单",
+                "link": "https://sspai.com/post/74185",
+                "published": "2022-07-10"
+            },
+            {
+                "title": "从看热闹到看门道，如何以设计者的角度看世界？",
+                "link": "https://sspai.com/post/73962",
+                "published": "2022-07-09"
+            },
+            {
                 "title": "本周看什么丨最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/74174",
                 "published": "2022-07-08"
@@ -5893,7 +5903,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -36348,6 +36358,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "如何评价动画《新秦时明月》第33集？",
+                "link": "http://www.zhihu.com/question/542267596/answer/2565270277?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-09"
+            },
             {
                 "title": "怎样计划好穷游骑车环海南岛？有哪些要注意的地方？",
                 "link": "http://www.zhihu.com/question/19776522/answer/2478056578?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
