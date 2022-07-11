@@ -228,6 +228,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "买个雪糕也要「防背刺」，聊聊「雪糕刺客」背后的价格欺诈",
+                "link": "https://sspai.com/post/74183",
+                "published": "2022-07-11"
+            },
+            {
+                "title": "派早报：马斯克试图终止收购推特，内存芯片价格回落等",
+                "link": "https://sspai.com/post/74202",
+                "published": "2022-07-11"
+            },
+            {
+                "title": "咖啡美酒冷泡茶，这些消暑饮品在家就能动手做",
+                "link": "https://sspai.com/post/74196",
+                "published": "2022-07-10"
+            },
+            {
                 "title": "听完第 33 届金曲奖入围作品，我为你总结了一份歌单",
                 "link": "https://sspai.com/post/74185",
                 "published": "2022-07-10"
@@ -5903,7 +5918,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -36359,6 +36374,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "为什么绿豆汤有时煮完是绿色有时煮完是红色？什么因素影响了汤的颜色？",
+                "link": "http://www.zhihu.com/question/539023926/answer/2561210507?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-11"
+            },
+            {
+                "title": "比亚迪推出了 DM-i、吉利推出了雷神、长城有了柠檬 DHT，国产混动技术究竟是什么水平？",
+                "link": "http://www.zhihu.com/question/531029649/answer/2555913925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-07"
+            },
+            {
                 "title": "如何评价动画《新秦时明月》第33集？",
                 "link": "http://www.zhihu.com/question/542267596/answer/2565270277?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-09"
@@ -40789,7 +40814,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
