@@ -228,6 +228,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "iOS / iPadOS 16 公测版来了：新系统升降级指南 & 注意事项",
+                "link": "https://sspai.com/post/74155",
+                "published": "2022-07-12"
+            },
+            {
+                "title": "派早报：iOS 16 Public Beta 等发布、腾讯游戏发布暑假期间未成年人限玩日历等",
+                "link": "https://sspai.com/post/74227",
+                "published": "2022-07-12"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/74192",
+                "published": "2022-07-11"
+            },
+            {
+                "title": "打开终端总有好心情：我的美化方案及配置分享",
+                "link": "https://sspai.com/post/74216",
+                "published": "2022-07-11"
+            },
+            {
+                "title": "一派·Podcast | 谈谈中美工具类 SaaS 的异同",
+                "link": "https://sspai.com/post/74214",
+                "published": "2022-07-11"
+            },
+            {
                 "title": "买个雪糕也要「防背刺」，聊聊「雪糕刺客」背后的价格欺诈",
                 "link": "https://sspai.com/post/74183",
                 "published": "2022-07-11"
@@ -5918,7 +5943,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -36374,6 +36399,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价《原神》提瓦特篇幕间 PV「冬夜愚戏」？",
+                "link": "http://www.zhihu.com/question/542662634/answer/2570371038?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-12"
+            },
+            {
+                "title": "如何度过一个充实有料的夏天？",
+                "link": "http://www.zhihu.com/question/542718098/answer/2569400484?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-11"
+            },
+            {
+                "title": "比亚迪推出了 DM-i、吉利推出了雷神、长城有了柠檬 DHT，国产混动技术究竟是什么水平？",
+                "link": "http://www.zhihu.com/question/531029649/answer/2554718172?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-11"
+            },
+            {
                 "title": "为什么绿豆汤有时煮完是绿色有时煮完是红色？什么因素影响了汤的颜色？",
                 "link": "http://www.zhihu.com/question/539023926/answer/2561210507?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-11"
@@ -40814,7 +40854,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 4,
