@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-07-13】 iPadOS 16 公开测试版来了，升级以后可以试试这些新功能](https://sspai.com/post/74252)
+* [【2022-07-13】 派早报：Nothing Phone (1) 发布、Twitter 起诉马斯克等](https://sspai.com/post/74249)
+* [【2022-07-12】 不读可以先收藏 13：本月不容错过的 6 篇好文章](https://sspai.com/post/74237)
+* [【2022-07-12】 iOS 16 Public Beta 公测版来了，哪些新功能值得尝鲜？](https://sspai.com/post/74156)
+* [【2022-07-12】 关于猴痘病毒，你现在需要了解这些](https://sspai.com/post/74231)
 * [【2022-07-12】 iOS / iPadOS 16 公测版来了：新系统升降级指南 & 注意事项](https://sspai.com/post/74155)
 * [【2022-07-12】 派早报：iOS 16 Public Beta 等发布、腾讯游戏发布暑假期间未成年人限玩日历等](https://sspai.com/post/74227)
 * [【2022-07-11】 派评 | 近期值得关注的 App](https://sspai.com/post/74192)
 * [【2022-07-11】 打开终端总有好心情：我的美化方案及配置分享](https://sspai.com/post/74216)
 * [【2022-07-11】 一派·Podcast | 谈谈中美工具类 SaaS 的异同](https://sspai.com/post/74214)
-* [【2022-07-11】 买个雪糕也要「防背刺」，聊聊「雪糕刺客」背后的价格欺诈](https://sspai.com/post/74183)
-* [【2022-07-11】 派早报：马斯克试图终止收购推特，内存芯片价格回落等](https://sspai.com/post/74202)
-* [【2022-07-10】 咖啡美酒冷泡茶，这些消暑饮品在家就能动手做](https://sspai.com/post/74196)
-* [【2022-07-10】 听完第 33 届金曲奖入围作品，我为你总结了一份歌单](https://sspai.com/post/74185)
-* [【2022-07-09】 从看热闹到看门道，如何以设计者的角度看世界？](https://sspai.com/post/73962)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-07-12】 如何看待知乎《拆车实验室》拆理想 one 座椅未发现水银却发现大面积生锈？](http://www.zhihu.com/question/475149068/answer/2027259245?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-12】 为什么汽车不能设计成快撞车就自动刹车？](http://www.zhihu.com/question/20498808/answer/2176579917?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-12】 如何评价《原神》提瓦特篇幕间 PV「冬夜愚戏」？](http://www.zhihu.com/question/542662634/answer/2570371038?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-11】 如何度过一个充实有料的夏天？](http://www.zhihu.com/question/542718098/answer/2569400484?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-11】 比亚迪推出了 DM-i、吉利推出了雷神、长城有了柠檬 DHT，国产混动技术究竟是什么水平？](http://www.zhihu.com/question/531029649/answer/2554718172?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-07-09】 如何评价动画《新秦时明月》第33集？](http://www.zhihu.com/question/542267596/answer/2565270277?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-08】 怎样计划好穷游骑车环海南岛？有哪些要注意的地方？](http://www.zhihu.com/question/19776522/answer/2478056578?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-08】 FPS类游戏如何研究它的数值？](http://www.zhihu.com/question/25984519/answer/2564215888?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-07】 汽车上的48伏轻混系统的原理是什么？它的用处大吗？](http://www.zhihu.com/question/532021977/answer/2560448817?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-07】 比亚迪推出了DM-i、吉利推出了雷神、长城有了柠檬DHT……国产混动技术究竟是什么水平？](http://www.zhihu.com/question/531029649/answer/2555913925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-12 05:35:13
+:alarm_clock: 更新时间: 2022-07-13 05:18:52

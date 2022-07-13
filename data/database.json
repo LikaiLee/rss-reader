@@ -228,6 +228,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "iPadOS 16 公开测试版来了，升级以后可以试试这些新功能",
+                "link": "https://sspai.com/post/74252",
+                "published": "2022-07-13"
+            },
+            {
+                "title": "派早报：Nothing Phone (1) 发布、Twitter 起诉马斯克等",
+                "link": "https://sspai.com/post/74249",
+                "published": "2022-07-13"
+            },
+            {
+                "title": "不读可以先收藏 13：本月不容错过的 6 篇好文章",
+                "link": "https://sspai.com/post/74237",
+                "published": "2022-07-12"
+            },
+            {
+                "title": "iOS 16 Public Beta 公测版来了，哪些新功能值得尝鲜？",
+                "link": "https://sspai.com/post/74156",
+                "published": "2022-07-12"
+            },
+            {
+                "title": "关于猴痘病毒，你现在需要了解这些",
+                "link": "https://sspai.com/post/74231",
+                "published": "2022-07-12"
+            },
+            {
                 "title": "iOS / iPadOS 16 公测版来了：新系统升降级指南 & 注意事项",
                 "link": "https://sspai.com/post/74155",
                 "published": "2022-07-12"
@@ -36399,6 +36424,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何看待知乎《拆车实验室》拆理想 one 座椅未发现水银却发现大面积生锈？",
+                "link": "http://www.zhihu.com/question/475149068/answer/2027259245?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-12"
+            },
+            {
+                "title": "为什么汽车不能设计成快撞车就自动刹车？",
+                "link": "http://www.zhihu.com/question/20498808/answer/2176579917?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-12"
+            },
+            {
                 "title": "如何评价《原神》提瓦特篇幕间 PV「冬夜愚戏」？",
                 "link": "http://www.zhihu.com/question/542662634/answer/2570371038?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-12"
@@ -40854,7 +40889,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 4,
