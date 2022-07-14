@@ -228,6 +228,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "2022 年 Apple 返校季活动上线，买 iPad、Mac 可免费加购 AirPods",
+                "link": "https://sspai.com/post/74266",
+                "published": "2022-07-14"
+            },
+            {
+                "title": "派早报：Apple 结束与艾维的合作、Nvidia 发布量子计算平台等",
+                "link": "https://sspai.com/post/74268",
+                "published": "2022-07-14"
+            },
+            {
+                "title": "咖啡地图 | 埃塞俄比亚的瑰夏故事",
+                "link": "https://sspai.com/post/74255",
+                "published": "2022-07-13"
+            },
+            {
+                "title": "谁能凭空玩出一家游戏公司？",
+                "link": "https://sspai.com/post/74212",
+                "published": "2022-07-13"
+            },
+            {
+                "title": "[送码] 自己动手做出喜欢的壁纸，让你的主屏永远「新鲜」：InPaper",
+                "link": "https://sspai.com/post/74217",
+                "published": "2022-07-13"
+            },
+            {
                 "title": "iPadOS 16 公开测试版来了，升级以后可以试试这些新功能",
                 "link": "https://sspai.com/post/74252",
                 "published": "2022-07-13"
@@ -36424,6 +36449,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价国产动画《紫川》第 32 集的制作表现？",
+                "link": "http://www.zhihu.com/question/542864354/answer/2570655130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-14"
+            },
+            {
+                "title": "如何评价国产动画《紫川》第 32 集的制作表现？",
+                "link": "http://www.zhihu.com/question/542864354/answer/2573249309?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-14"
+            },
+            {
+                "title": "「非常规历史开题报告」活动开始——征集历史相关的有趣问题，提问赢大奖！",
+                "link": "http://zhuanlan.zhihu.com/p/540788961?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-14"
+            },
+            {
                 "title": "如何看待知乎《拆车实验室》拆理想 one 座椅未发现水银却发现大面积生锈？",
                 "link": "http://www.zhihu.com/question/475149068/answer/2027259245?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-12"
@@ -40889,13 +40929,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, perfect-freehand, TypeLit.io, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2159035276579110912",
+                "published": "2022-07-13"
+            },
             {
                 "title": "好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, Star Charts, LetsMarkdown, ui-color",
                 "link": "https://bestxtools.zhubai.love/posts/2156659650731491328",
@@ -41002,6 +41047,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
