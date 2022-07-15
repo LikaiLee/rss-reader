@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选)
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-07-14】 科技爱好者周刊（第 214 期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)
 * [【2022-07-08】 科技爱好者周刊（第 213 期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)
 * [【2022-07-01】 科技爱好者周刊（第 212 期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)
 * [【2022-06-29】 云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)
@@ -25,7 +26,6 @@
 * [【2022-06-02】 字节序探析：大端与小端的比较](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)
 * [【2022-05-27】 科技爱好者周刊（第 208 期）：晋升制度的问题](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)
 * [【2022-05-20】 科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
-* [【2022-05-13】 科技爱好者周刊（第 206 期）：如何走出失望和怀疑](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-07-15】 watchOS 9 推出首个公测版，这些新功能值得尝鲜](https://sspai.com/post/74223)
+* [【2022-07-15】 一派·PowerUp 05 | 用 MoneyWiz 完成个人记账](https://sspai.com/post/74279)
+* [【2022-07-15】 派早报：蒸汽平台召开游戏发布会、Android 13 将支持蓝牙 LE Audio 技术等](https://sspai.com/post/74280)
+* [【2022-07-14】 性能小提升，外观大变样——M2 版 MacBook Air 上手体验](https://sspai.com/post/74235)
+* [【2022-07-14】 新玩意 112｜少数派的作者们最近买了啥？](https://sspai.com/post/74271)
+* [【2022-07-14】 macOS Ventura 推出公开测试版，这些新特性值得一试](https://sspai.com/post/74222)
 * [【2022-07-14】 2022 年 Apple 返校季活动上线，买 iPad、Mac 可免费加购 AirPods](https://sspai.com/post/74266)
 * [【2022-07-14】 派早报：Apple 结束与艾维的合作、Nvidia 发布量子计算平台等](https://sspai.com/post/74268)
 * [【2022-07-13】 咖啡地图 | 埃塞俄比亚的瑰夏故事](https://sspai.com/post/74255)
 * [【2022-07-13】 谁能凭空玩出一家游戏公司？](https://sspai.com/post/74212)
-* [【2022-07-13】 [送码] 自己动手做出喜欢的壁纸，让你的主屏永远「新鲜」：InPaper](https://sspai.com/post/74217)
-* [【2022-07-13】 iPadOS 16 公开测试版来了，升级以后可以试试这些新功能](https://sspai.com/post/74252)
-* [【2022-07-13】 派早报：Nothing Phone (1) 发布、Twitter 起诉马斯克等](https://sspai.com/post/74249)
-* [【2022-07-12】 不读可以先收藏 13：本月不容错过的 6 篇好文章](https://sspai.com/post/74237)
-* [【2022-07-12】 iOS 16 Public Beta 公测版来了，哪些新功能值得尝鲜？](https://sspai.com/post/74156)
-* [【2022-07-12】 关于猴痘病毒，你现在需要了解这些](https://sspai.com/post/74231)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-14 05:28:13
+:alarm_clock: 更新时间: 2022-07-15 05:38:51
