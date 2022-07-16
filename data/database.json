@@ -225,13 +225,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "真正的新生力量：从金曲奖最佳新人入围者看乐坛新风向",
+                "link": "https://sspai.com/post/74289",
+                "published": "2022-07-16"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/74288",
+                "published": "2022-07-15"
+            },
+            {
+                "title": "第一次独居？我们为你准备了一份「租房攻略合订本」",
+                "link": "https://sspai.com/post/74285",
+                "published": "2022-07-15"
+            },
+            {
+                "title": "App+1 | 能与腾讯会议联动的腾讯日历 2.0，真的足够好用了吗？",
+                "link": "https://sspai.com/post/74256",
+                "published": "2022-07-15"
+            },
             {
                 "title": "watchOS 9 推出首个公测版，这些新功能值得尝鲜",
                 "link": "https://sspai.com/post/74223",
@@ -6028,7 +6048,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -36484,6 +36504,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《喜羊羊与灰太狼之奇妙大营救》开播，有哪些值得关注的点？",
+                "link": "http://www.zhihu.com/question/543486924/answer/2576409939?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-15"
+            },
+            {
+                "title": "你热爱旅行吗？旅行对你来说意味着什么？",
+                "link": "http://www.zhihu.com/question/461860087/answer/2573922543?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-15"
+            },
+            {
                 "title": "如何评价国产动画《紫川》第 32 集的制作表现？",
                 "link": "http://www.zhihu.com/question/542864354/answer/2570655130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-14"
@@ -40964,7 +40994,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
