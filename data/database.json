@@ -233,6 +233,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "把握浏览器的「门面」：少数派作者们都在用什么启动页？",
+                "link": "https://sspai.com/post/74276",
+                "published": "2022-07-16"
+            },
+            {
                 "title": "真正的新生力量：从金曲奖最佳新人入围者看乐坛新风向",
                 "link": "https://sspai.com/post/74289",
                 "published": "2022-07-16"
@@ -6048,7 +6053,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -40994,7 +40999,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,

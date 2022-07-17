@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2022-07-16】 把握浏览器的「门面」：少数派作者们都在用什么启动页？](https://sspai.com/post/74276)
 * [【2022-07-16】 真正的新生力量：从金曲奖最佳新人入围者看乐坛新风向](https://sspai.com/post/74289)
 * [【2022-07-15】 本周看什么丨最近值得一看的 8 部作品](https://sspai.com/post/74288)
 * [【2022-07-15】 第一次独居？我们为你准备了一份「租房攻略合订本」](https://sspai.com/post/74285)
@@ -44,7 +45,6 @@
 * [【2022-07-15】 派早报：蒸汽平台召开游戏发布会、Android 13 将支持蓝牙 LE Audio 技术等](https://sspai.com/post/74280)
 * [【2022-07-14】 性能小提升，外观大变样——M2 版 MacBook Air 上手体验](https://sspai.com/post/74235)
 * [【2022-07-14】 新玩意 112｜少数派的作者们最近买了啥？](https://sspai.com/post/74271)
-* [【2022-07-14】 macOS Ventura 推出公开测试版，这些新特性值得一试](https://sspai.com/post/74222)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-16 05:14:09
+:alarm_clock: 更新时间: 2022-07-17 05:16:16
