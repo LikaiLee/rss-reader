@@ -233,6 +233,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "用乐高，重现心目中那些「最伟大的作品」（下）",
+                "link": "https://sspai.com/post/74309",
+                "published": "2022-07-18"
+            },
+            {
+                "title": "派早报：英特尔以成本上涨为由计划涨价，FCC 提议提高宽带标准等",
+                "link": "https://sspai.com/post/74312",
+                "published": "2022-07-18"
+            },
+            {
+                "title": "笔记本电脑太烫了？收下这份指南，你也可以清理它内部的灰尘",
+                "link": "https://sspai.com/post/74307",
+                "published": "2022-07-17"
+            },
+            {
+                "title": "本月玩什么 | 异度神剑 3、数码宝贝 绝境求生、时空勇士",
+                "link": "https://sspai.com/post/74287",
+                "published": "2022-07-17"
+            },
+            {
                 "title": "把握浏览器的「门面」：少数派作者们都在用什么启动页？",
                 "link": "https://sspai.com/post/74276",
                 "published": "2022-07-16"
@@ -6053,7 +6073,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -36509,6 +36529,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "从技术开发层面来说，一款发动机的研发一般要经历几个阶段？",
+                "link": "http://www.zhihu.com/question/538008768/answer/2573083387?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-18"
+            },
+            {
+                "title": "国产发动机制造中有哪些被卡脖子的环节？",
+                "link": "http://www.zhihu.com/question/538554296/answer/2571491783?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-18"
+            },
+            {
+                "title": "发动机多个活塞同时工作，是如何保证发动机的平衡的？",
+                "link": "http://www.zhihu.com/question/538800499/answer/2567565980?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-18"
+            },
+            {
+                "title": "增程式汽车、插电混动汽车、油电混动汽车三者技术壁垒哪个更高？未来前景哪个更好？",
+                "link": "http://www.zhihu.com/question/526762703/answer/2557803850?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-18"
+            },
+            {
+                "title": "《原神》大陆是真有小城市那么大还是被缩放了?",
+                "link": "http://www.zhihu.com/question/543286662/answer/2578308292?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-18"
+            },
+            {
                 "title": "《喜羊羊与灰太狼之奇妙大营救》开播，有哪些值得关注的点？",
                 "link": "http://www.zhihu.com/question/543486924/answer/2576409939?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-15"
@@ -40999,7 +41044,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 5
     },
     {
         "id": 4,
