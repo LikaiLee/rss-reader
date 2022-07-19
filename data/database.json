@@ -233,6 +233,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：哔哩哔哩将展示账号 IP 归属地、小米公布虚拟角色繁殖专利等",
+                "link": "https://sspai.com/post/74340",
+                "published": "2022-07-19"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/74336",
+                "published": "2022-07-18"
+            },
+            {
+                "title": "用快捷指令实现一键拼图",
+                "link": "https://sspai.com/prime/story/shortcut-collage-howto",
+                "published": "2022-07-18"
+            },
+            {
+                "title": "从 macOS 迁移到 Windows，我用这 6 个软件度过「阵痛期」",
+                "link": "https://sspai.com/post/74329",
+                "published": "2022-07-18"
+            },
+            {
                 "title": "用乐高，重现心目中那些「最伟大的作品」（下）",
                 "link": "https://sspai.com/post/74309",
                 "published": "2022-07-18"
@@ -36529,6 +36549,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "瓶装、罐装和桶装啤酒有什么差异，你更爱哪种？",
+                "link": "http://www.zhihu.com/question/531636893/answer/2581204912?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-19"
+            },
+            {
+                "title": "如何评价 7 月新番动画《契约之吻》第三集？",
+                "link": "http://www.zhihu.com/question/543734972/answer/2578931231?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-18"
+            },
+            {
+                "title": "如果汽车油箱里加入75%的酒精会怎样？",
+                "link": "http://www.zhihu.com/question/389013760/answer/2575828137?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-18"
+            },
+            {
+                "title": "动画《喜羊羊与灰太狼之奇妙大营救》开播，有哪些值得关注的点？",
+                "link": "http://www.zhihu.com/question/543486924/answer/2576409939?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-15"
+            },
+            {
                 "title": "从技术开发层面来说，一款发动机的研发一般要经历几个阶段？",
                 "link": "http://www.zhihu.com/question/538008768/answer/2573083387?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-18"
@@ -41044,7 +41084,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 4,
