@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+7】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-07-20】 第一时间用上 Windows 11 新功能，尝鲜用户必备小工具：ViVeTool](https://sspai.com/post/74286)
+* [【2022-07-20】 派早报: iQOO 10 系列手机发布、高通推出骁龙 W5+ Gen 1 等](https://sspai.com/post/74356)
+* [【2022-07-19】 想要原生主屏体验，没有 Material You 怎么行：Nova Launcher 8.0 速览](https://sspai.com/post/74347)
+* [【2022-07-19】 敬畏热度、保持热情：如何在夏季坚持跑步](https://sspai.com/post/74342)
+* [【2022-07-19】 装了啥 | 机核主编西总布都装了啥？](https://sspai.com/prime/story/zhuanglesha-vol01-xizongbu)
+* [【2022-07-19】 「一颗柠檬戴着墨镜在沙滩上休息」—— 人工智能请创作](https://sspai.com/post/74302)
 * [【2022-07-19】 派早报：哔哩哔哩将展示账号 IP 归属地、小米公布虚拟角色繁殖专利等](https://sspai.com/post/74340)
 * [【2022-07-18】 派评 | 近期值得关注的 App](https://sspai.com/post/74336)
 * [【2022-07-18】 用快捷指令实现一键拼图](https://sspai.com/prime/story/shortcut-collage-howto)
 * [【2022-07-18】 从 macOS 迁移到 Windows，我用这 6 个软件度过「阵痛期」](https://sspai.com/post/74329)
-* [【2022-07-18】 用乐高，重现心目中那些「最伟大的作品」（下）](https://sspai.com/post/74309)
-* [【2022-07-18】 派早报：英特尔以成本上涨为由计划涨价，FCC 提议提高宽带标准等](https://sspai.com/post/74312)
-* [【2022-07-17】 笔记本电脑太烫了？收下这份指南，你也可以清理它内部的灰尘](https://sspai.com/post/74307)
-* [【2022-07-17】 本月玩什么 | 异度神剑 3、数码宝贝 绝境求生、时空勇士](https://sspai.com/post/74287)
-* [【2022-07-16】 把握浏览器的「门面」：少数派作者们都在用什么启动页？](https://sspai.com/post/74276)
-* [【2022-07-16】 真正的新生力量：从金曲奖最佳新人入围者看乐坛新风向](https://sspai.com/post/74289)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2022-07-20】 如何花十分钟快速分析一家上市公司？](http://www.zhihu.com/question/543193716/answer/2577426309?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-20】 【塔山之石】塔勒布比特币黑皮书](http://zhuanlan.zhihu.com/p/543127242?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-19】 某校金融学老师贬低劳动价值论、吹捧效用价值论，应该如何评价两者？](http://www.zhihu.com/question/447645647/answer/1767994448?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-19】 如何评价漫画家高桥和希？](http://www.zhihu.com/question/22165594/answer/2582135308?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-19】 高级宏观经济学怎么学？](http://www.zhihu.com/question/440602564/answer/2579056101?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-19】 有哪些适合八月份旅游的景点推荐？](http://www.zhihu.com/question/410587628/answer/2579920095?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-19】 量化投资中的因子模型，因子暴露，因子收益具体指的是什么？如何使用？](http://www.zhihu.com/question/423950484/answer/2568980776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-19】 瓶装、罐装和桶装啤酒有什么差异，你更爱哪种？](http://www.zhihu.com/question/531636893/answer/2581204912?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-18】 如何评价 7 月新番动画《契约之吻》第三集？](http://www.zhihu.com/question/543734972/answer/2578931231?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-18】 如果汽车油箱里加入75%的酒精会怎样？](http://www.zhihu.com/question/389013760/answer/2575828137?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-15】 动画《喜羊羊与灰太狼之奇妙大营救》开播，有哪些值得关注的点？](http://www.zhihu.com/question/543486924/answer/2576409939?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-18】 从技术开发层面来说，一款发动机的研发一般要经历几个阶段？](http://www.zhihu.com/question/538008768/answer/2573083387?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-18】 国产发动机制造中有哪些被卡脖子的环节？](http://www.zhihu.com/question/538554296/answer/2571491783?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-18】 发动机多个活塞同时工作，是如何保证发动机的平衡的？](http://www.zhihu.com/question/538800499/answer/2567565980?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-18】 增程式汽车、插电混动汽车、油电混动汽车三者技术壁垒哪个更高？未来前景哪个更好？](http://www.zhihu.com/question/526762703/answer/2557803850?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-18】 《原神》大陆是真有小城市那么大还是被缩放了?](http://www.zhihu.com/question/543286662/answer/2578308292?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-15】 《喜羊羊与灰太狼之奇妙大营救》开播，有哪些值得关注的点？](http://www.zhihu.com/question/543486924/answer/2576409939?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-19 05:42:40
+:alarm_clock: 更新时间: 2022-07-20 05:21:48

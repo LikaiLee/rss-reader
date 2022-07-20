@@ -233,6 +233,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "第一时间用上 Windows 11 新功能，尝鲜用户必备小工具：ViVeTool",
+                "link": "https://sspai.com/post/74286",
+                "published": "2022-07-20"
+            },
+            {
+                "title": "派早报: iQOO 10 系列手机发布、高通推出骁龙 W5+ Gen 1 等",
+                "link": "https://sspai.com/post/74356",
+                "published": "2022-07-20"
+            },
+            {
+                "title": "想要原生主屏体验，没有 Material You 怎么行：Nova Launcher 8.0 速览",
+                "link": "https://sspai.com/post/74347",
+                "published": "2022-07-19"
+            },
+            {
+                "title": "敬畏热度、保持热情：如何在夏季坚持跑步",
+                "link": "https://sspai.com/post/74342",
+                "published": "2022-07-19"
+            },
+            {
+                "title": "装了啥 | 机核主编西总布都装了啥？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-vol01-xizongbu",
+                "published": "2022-07-19"
+            },
+            {
+                "title": "「一颗柠檬戴着墨镜在沙滩上休息」—— 人工智能请创作",
+                "link": "https://sspai.com/post/74302",
+                "published": "2022-07-19"
+            },
+            {
                 "title": "派早报：哔哩哔哩将展示账号 IP 归属地、小米公布虚拟角色繁殖专利等",
                 "link": "https://sspai.com/post/74340",
                 "published": "2022-07-19"
@@ -6093,7 +6123,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -36549,6 +36579,41 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何花十分钟快速分析一家上市公司？",
+                "link": "http://www.zhihu.com/question/543193716/answer/2577426309?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-20"
+            },
+            {
+                "title": "【塔山之石】塔勒布比特币黑皮书",
+                "link": "http://zhuanlan.zhihu.com/p/543127242?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-20"
+            },
+            {
+                "title": "某校金融学老师贬低劳动价值论、吹捧效用价值论，应该如何评价两者？",
+                "link": "http://www.zhihu.com/question/447645647/answer/1767994448?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-19"
+            },
+            {
+                "title": "如何评价漫画家高桥和希？",
+                "link": "http://www.zhihu.com/question/22165594/answer/2582135308?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-19"
+            },
+            {
+                "title": "高级宏观经济学怎么学？",
+                "link": "http://www.zhihu.com/question/440602564/answer/2579056101?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-19"
+            },
+            {
+                "title": "有哪些适合八月份旅游的景点推荐？",
+                "link": "http://www.zhihu.com/question/410587628/answer/2579920095?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-19"
+            },
+            {
+                "title": "量化投资中的因子模型，因子暴露，因子收益具体指的是什么？如何使用？",
+                "link": "http://www.zhihu.com/question/423950484/answer/2568980776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-19"
+            },
+            {
                 "title": "瓶装、罐装和桶装啤酒有什么差异，你更爱哪种？",
                 "link": "http://www.zhihu.com/question/531636893/answer/2581204912?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-19"
@@ -41084,7 +41149,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 7
     },
     {
         "id": 4,
