@@ -233,6 +233,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Make AMD Yes again：FSR 2.0 让老显卡焕发第二春",
+                "link": "https://sspai.com/post/74721",
+                "published": "2022-07-21"
+            },
+            {
+                "title": "派早报：努比亚发布 Z40S Pro 手机、高通公布骁龙峰会时间等",
+                "link": "https://sspai.com/post/74719",
+                "published": "2022-07-21"
+            },
+            {
+                "title": "试播集 08 | 少数派作者们最近读完了啥（上）",
+                "link": "https://sspai.com/post/74364",
+                "published": "2022-07-20"
+            },
+            {
+                "title": "奏折 | Nothing Phone (1) 消息汇总、Android 社区的新鲜事等",
+                "link": "https://sspai.com/prime/story/zouzhe-vol01",
+                "published": "2022-07-20"
+            },
+            {
+                "title": "爱人「坐月子」期间，奶爸可以做什么？",
+                "link": "https://sspai.com/post/74361",
+                "published": "2022-07-20"
+            },
+            {
                 "title": "第一时间用上 Windows 11 新功能，尝鲜用户必备小工具：ViVeTool",
                 "link": "https://sspai.com/post/74286",
                 "published": "2022-07-20"
@@ -6123,7 +6148,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -36579,6 +36604,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "北京周边自驾游有哪些避暑好去处？",
+                "link": "http://www.zhihu.com/question/539036789/answer/2583897941?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-21"
+            },
+            {
+                "title": "如何评价奥迪R8？",
+                "link": "http://www.zhihu.com/question/31220205/answer/2584243161?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-20"
+            },
+            {
+                "title": "要在《原神》中造访所有七天神像，最短的路线是什么样的？",
+                "link": "http://www.zhihu.com/question/544325397/answer/2583790425?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-20"
+            },
+            {
                 "title": "如何花十分钟快速分析一家上市公司？",
                 "link": "http://www.zhihu.com/question/543193716/answer/2577426309?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-20"
@@ -41149,13 +41189,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 3
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, Trianglify, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2161764591545049088",
+                "published": "2022-07-21"
+            },
             {
                 "title": "好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, perfect-freehand, TypeLit.io, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2159035276579110912",
@@ -41267,6 +41312,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
