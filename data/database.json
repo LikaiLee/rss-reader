@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式",
+                "link": "http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html",
+                "published": "2022-07-22"
+            },
+            {
                 "title": "科技爱好者周刊（第 214 期）：你的地图是错的",
                 "link": "http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html",
                 "published": "2022-07-14"
@@ -225,13 +230,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "新玩意 113｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/74727",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "獭可派 | 用脚投票，Allbirds 可能是世界上最舒服的鞋",
+                "link": "https://sspai.com/post/74317",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "派早报：滴滴出行因多项违规被处以 80.26 亿元罚款、荣耀新品发布会",
+                "link": "https://sspai.com/post/74741",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "露一手 | 豆米火锅——20 分钟搞定贵州家常菜",
+                "link": "https://sspai.com/prime/story/recipe-doumihuoguo",
+                "published": "2022-07-21"
+            },
+            {
+                "title": "微信 8.0.26 更新：「小窗模式」终于来了，还有 1 个实用功能",
+                "link": "https://sspai.com/post/74722",
+                "published": "2022-07-21"
+            },
             {
                 "title": "Make AMD Yes again：FSR 2.0 让老显卡焕发第二春",
                 "link": "https://sspai.com/post/74721",
@@ -36604,6 +36634,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《英雄联盟》「极地大乱斗」模式有哪些鲜为人知的细节和机制？",
+                "link": "http://www.zhihu.com/question/544544809/answer/2587118067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "精酿啤酒的口感是不是比普通啤酒好，为什么？",
+                "link": "http://www.zhihu.com/question/538819628/answer/2577233731?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "家里不给买相机感觉心里不平衡？",
+                "link": "http://www.zhihu.com/question/544451105/answer/2585304712?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-21"
+            },
+            {
                 "title": "北京周边自驾游有哪些避暑好去处？",
                 "link": "http://www.zhihu.com/question/539036789/answer/2583897941?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-21"
@@ -41312,6 +41357,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
