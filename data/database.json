@@ -230,13 +230,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治",
+                "link": "https://sspai.com/post/74761",
+                "published": "2022-07-23"
+            },
+            {
+                "title": "本周看什么丨最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/74754",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "派周报 | 本周会员内容提要；跑题：康熙发微",
+                "link": "https://sspai.com/prime/story/pi-weekly-001",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "暑期特别征文 | 聊聊你的「数字文具盒」，我们为你报销",
+                "link": "https://sspai.com/post/74751",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "线下活动 | 少数派线下活动来啦！这次我们想和你唠唠「家」常",
+                "link": "https://sspai.com/post/74715",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "编辑部的代糖饮料「公费试喝」，这次的坑有点多",
+                "link": "https://sspai.com/post/74748",
+                "published": "2022-07-22"
+            },
             {
                 "title": "新玩意 113｜少数派的编辑们最近买了啥？",
                 "link": "https://sspai.com/post/74727",
@@ -6178,7 +6208,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -36634,6 +36664,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价动画电影《开心超人之英雄的心》？",
+                "link": "http://www.zhihu.com/question/532280167/answer/2587667231?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "啤酒太涨肚，白酒又太烈，有什么度数不高的夏日好酒推荐？",
+                "link": "http://www.zhihu.com/question/535453251/answer/2587654005?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "书法美学和建筑形式——林散之书画院建成小记",
+                "link": "http://zhuanlan.zhihu.com/p/540856036?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "二次疫情对游戏行业流水的影响以及其它",
+                "link": "http://zhuanlan.zhihu.com/p/518051192?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-22"
+            },
+            {
+                "title": "重估腾讯式赛道方法的价值，或商分/战略在游戏重塑时代的落地思考",
+                "link": "http://zhuanlan.zhihu.com/p/543488242?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-22"
+            },
+            {
                 "title": "《英雄联盟》「极地大乱斗」模式有哪些鲜为人知的细节和机制？",
                 "link": "http://www.zhihu.com/question/544544809/answer/2587118067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-22"
@@ -41234,7 +41289,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 4,
