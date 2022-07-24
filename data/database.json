@@ -238,6 +238,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 想体验 WSL 但系统盘不够大？简单几步就可以将 WSL 装进非系统盘",
+                "link": "https://sspai.com/post/74757",
+                "published": "2022-07-24"
+            },
+            {
+                "title": "播客 Plus | Disney 卖的是糖，HBO 卖的是酒，Netflix 卖的是毒",
+                "link": "https://sspai.com/prime/story/PC-06",
+                "published": "2022-07-23"
+            },
+            {
                 "title": "「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治",
                 "link": "https://sspai.com/post/74761",
                 "published": "2022-07-23"
@@ -6208,7 +6218,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -41289,7 +41299,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 0
     },
     {
         "id": 4,

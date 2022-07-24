@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+5】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-07-24】 一日一技 | 想体验 WSL 但系统盘不够大？简单几步就可以将 WSL 装进非系统盘](https://sspai.com/post/74757)
+* [【2022-07-23】 播客 Plus | Disney 卖的是糖，HBO 卖的是酒，Netflix 卖的是毒](https://sspai.com/prime/story/PC-06)
 * [【2022-07-23】 「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治](https://sspai.com/post/74761)
 * [【2022-07-22】 本周看什么丨最近值得一看的 7 部作品](https://sspai.com/post/74754)
 * [【2022-07-22】 派周报 | 本周会员内容提要；跑题：康熙发微](https://sspai.com/prime/story/pi-weekly-001)
@@ -43,8 +45,6 @@
 * [【2022-07-22】 编辑部的代糖饮料「公费试喝」，这次的坑有点多](https://sspai.com/post/74748)
 * [【2022-07-22】 新玩意 113｜少数派的编辑们最近买了啥？](https://sspai.com/post/74727)
 * [【2022-07-22】 獭可派 | 用脚投票，Allbirds 可能是世界上最舒服的鞋](https://sspai.com/post/74317)
-* [【2022-07-22】 派早报：滴滴出行因多项违规被处以 80.26 亿元罚款、荣耀新品发布会](https://sspai.com/post/74741)
-* [【2022-07-21】 露一手 | 豆米火锅——20 分钟搞定贵州家常菜](https://sspai.com/prime/story/recipe-doumihuoguo)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-23 05:16:41
+:alarm_clock: 更新时间: 2022-07-24 05:17:38
