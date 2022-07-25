@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2022-07-25】 为了迈出写作的第一步，我做了一个有趣的应用](https://sspai.com/post/74365)
+* [【2022-07-25】 派早报：原 eBay 中国版将于 8 月关闭，抖音发布高频不规范词语清单等](https://sspai.com/post/74770)
+* [【2022-07-24】 7 款软件、4 大维度，远程桌面控制软件横评](https://sspai.com/post/74204)
 * [【2022-07-24】 一日一技 | 想体验 WSL 但系统盘不够大？简单几步就可以将 WSL 装进非系统盘](https://sspai.com/post/74757)
 * [【2022-07-23】 播客 Plus | Disney 卖的是糖，HBO 卖的是酒，Netflix 卖的是毒](https://sspai.com/prime/story/PC-06)
 * [【2022-07-23】 「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治](https://sspai.com/post/74761)
@@ -42,9 +45,6 @@
 * [【2022-07-22】 派周报 | 本周会员内容提要；跑题：康熙发微](https://sspai.com/prime/story/pi-weekly-001)
 * [【2022-07-22】 暑期特别征文 | 聊聊你的「数字文具盒」，我们为你报销](https://sspai.com/post/74751)
 * [【2022-07-22】 线下活动 | 少数派线下活动来啦！这次我们想和你唠唠「家」常](https://sspai.com/post/74715)
-* [【2022-07-22】 编辑部的代糖饮料「公费试喝」，这次的坑有点多](https://sspai.com/post/74748)
-* [【2022-07-22】 新玩意 113｜少数派的编辑们最近买了啥？](https://sspai.com/post/74727)
-* [【2022-07-22】 獭可派 | 用脚投票，Allbirds 可能是世界上最舒服的鞋](https://sspai.com/post/74317)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-24 05:17:38
+:alarm_clock: 更新时间: 2022-07-25 05:25:26
