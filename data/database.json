@@ -238,6 +238,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透 | 下个 Android 大版本更新，Google 想为你「众筹」一套图标包",
+                "link": "https://sspai.com/post/74800",
+                "published": "2022-07-26"
+            },
+            {
+                "title": "派早报：Apple 中国即将开始官网优惠活动、推特 500 多万个账号信息被泄露等",
+                "link": "https://sspai.com/post/74801",
+                "published": "2022-07-26"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/74797",
+                "published": "2022-07-25"
+            },
+            {
+                "title": "用 AI 为图片「摘下面纱」，waifu2x 如何拯救你的 macOS 修图体验",
+                "link": "https://sspai.com/post/74786",
+                "published": "2022-07-25"
+            },
+            {
+                "title": "抛弃目标与计划，我发现好好读书并不难",
+                "link": "https://sspai.com/post/74767",
+                "published": "2022-07-25"
+            },
+            {
+                "title": "为了帮你迈出写作的第一步，我做了这个有趣的应用",
+                "link": "https://sspai.com/post/74365",
+                "published": "2022-07-25"
+            },
+            {
                 "title": "为了迈出写作的第一步，我做了一个有趣的应用",
                 "link": "https://sspai.com/post/74365",
                 "published": "2022-07-25"
@@ -6233,7 +6263,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -36689,6 +36719,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "美国财长称，即使美国经济增速连续两个季度为负，也不意味着衰退，目前美国经济形势如何？",
+                "link": "http://www.zhihu.com/question/545170537/answer/2592225277?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-26"
+            },
+            {
+                "title": "中国金融业现状是怎样的？",
+                "link": "http://www.zhihu.com/question/61452206/answer/2502167235?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-25"
+            },
+            {
                 "title": "如何评价动画电影《开心超人之英雄的心》？",
                 "link": "http://www.zhihu.com/question/532280167/answer/2587667231?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-22"
@@ -41314,7 +41354,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
