@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-07-27】 能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)
 * [【2022-07-22】 科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)
 * [【2022-07-14】 科技爱好者周刊（第 214 期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)
 * [【2022-07-08】 科技爱好者周刊（第 213 期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)
@@ -25,7 +26,6 @@
 * [【2022-06-17】 科技爱好者周刊（第 210 期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
 * [【2022-06-10】 科技爱好者周刊（第 209 期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)
 * [【2022-06-02】 字节序探析：大端与小端的比较](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)
-* [【2022-05-27】 科技爱好者周刊（第 208 期）：晋升制度的问题](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-07-27】 你真的理解色彩管理吗？安卓苹果色彩管理深度解析](https://sspai.com/post/74822)
+* [【2022-07-27】 派早报：Anker 发布多款新品、多家科技公司呼吁废除闰秒等](https://sspai.com/post/74821)
+* [【2022-07-26】 少数派会员第二季正式上线，现在加入可享超值优惠](https://sspai.com/post/74803)
+* [【2022-07-26】 手腕上的「心率检测」靠谱吗？智能手表能帮你了解哪些数据？](https://sspai.com/post/74805)
 * [【2022-07-26】 具透 | 下个 Android 大版本更新，Google 想为你「众筹」一套图标包](https://sspai.com/post/74800)
 * [【2022-07-26】 派早报：Apple 中国即将开始官网优惠活动、推特 500 多万个账号信息被泄露等](https://sspai.com/post/74801)
 * [【2022-07-25】 派评 | 近期值得关注的 App](https://sspai.com/post/74797)
 * [【2022-07-25】 用 AI 为图片「摘下面纱」，waifu2x 如何拯救你的 macOS 修图体验](https://sspai.com/post/74786)
 * [【2022-07-25】 抛弃目标与计划，我发现好好读书并不难](https://sspai.com/post/74767)
 * [【2022-07-25】 为了帮你迈出写作的第一步，我做了这个有趣的应用](https://sspai.com/post/74365)
-* [【2022-07-25】 为了迈出写作的第一步，我做了一个有趣的应用](https://sspai.com/post/74365)
-* [【2022-07-25】 派早报：原 eBay 中国版将于 8 月关闭，抖音发布高频不规范词语清单等](https://sspai.com/post/74770)
-* [【2022-07-24】 7 款软件、4 大维度，远程桌面控制软件横评](https://sspai.com/post/74204)
-* [【2022-07-24】 一日一技 | 想体验 WSL 但系统盘不够大？简单几步就可以将 WSL 装进非系统盘](https://sspai.com/post/74757)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-26 05:38:12
+:alarm_clock: 更新时间: 2022-07-27 05:31:08

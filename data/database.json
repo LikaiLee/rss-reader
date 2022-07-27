@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "能源的极限",
+                "link": "http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html",
+                "published": "2022-07-27"
+            },
+            {
                 "title": "科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式",
                 "link": "http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html",
                 "published": "2022-07-22"
@@ -230,13 +235,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "你真的理解色彩管理吗？安卓苹果色彩管理深度解析",
+                "link": "https://sspai.com/post/74822",
+                "published": "2022-07-27"
+            },
+            {
+                "title": "派早报：Anker 发布多款新品、多家科技公司呼吁废除闰秒等",
+                "link": "https://sspai.com/post/74821",
+                "published": "2022-07-27"
+            },
+            {
+                "title": "少数派会员第二季正式上线，现在加入可享超值优惠",
+                "link": "https://sspai.com/post/74803",
+                "published": "2022-07-26"
+            },
+            {
+                "title": "手腕上的「心率检测」靠谱吗？智能手表能帮你了解哪些数据？",
+                "link": "https://sspai.com/post/74805",
+                "published": "2022-07-26"
+            },
             {
                 "title": "具透 | 下个 Android 大版本更新，Google 想为你「众筹」一套图标包",
                 "link": "https://sspai.com/post/74800",
@@ -6263,7 +6288,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -41354,7 +41379,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
