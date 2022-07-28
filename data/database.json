@@ -235,13 +235,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "有没有想过，MarginNote 也可以拿来写文章捏？",
+                "link": "https://sspai.com/post/74820",
+                "published": "2022-07-28"
+            },
+            {
+                "title": "派早报：华为发布 HarmonyOS 3 及多款新品、realme 推出 Q5 狂欢版等",
+                "link": "https://sspai.com/post/74835",
+                "published": "2022-07-28"
+            },
+            {
+                "title": "用 59 分钟，找到个人记账的完备方案",
+                "link": "https://sspai.com/post/74808",
+                "published": "2022-07-27"
+            },
+            {
+                "title": "试播集 08 | 少数派作者们最近读完了啥（下）",
+                "link": "https://sspai.com/post/74827",
+                "published": "2022-07-27"
+            },
+            {
+                "title": "解决你的送礼困难症，七夕到了送这 10+ 件礼物",
+                "link": "https://sspai.com/post/74802",
+                "published": "2022-07-27"
+            },
+            {
+                "title": "装了啥 | 结构工程师、科技达人戴老师都装了啥？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-vol02-dailaoshi",
+                "published": "2022-07-27"
+            },
             {
                 "title": "你真的理解色彩管理吗？安卓苹果色彩管理深度解析",
                 "link": "https://sspai.com/post/74822",
@@ -6288,7 +6318,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -36744,6 +36774,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "美联储再次加息 75 个基点，重申控通胀的坚定承诺，本次加息能否有效控制通胀上升？对全球经济有何影响？",
+                "link": "http://www.zhihu.com/question/545511029/answer/2596750833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-28"
+            },
+            {
                 "title": "美国财长称，即使美国经济增速连续两个季度为负，也不意味着衰退，目前美国经济形势如何？",
                 "link": "http://www.zhihu.com/question/545170537/answer/2592225277?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-26"
@@ -41379,7 +41414,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
