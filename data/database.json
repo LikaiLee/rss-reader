@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 216 期）：极简主义的胜利",
+                "link": "http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html",
+                "published": "2022-07-29"
+            },
+            {
                 "title": "能源的极限",
                 "link": "http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html",
                 "published": "2022-07-27"
@@ -235,13 +240,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "iOS 16 Beta 4 中值得关注的新特性",
+                "link": "https://sspai.com/post/74861",
+                "published": "2022-07-29"
+            },
+            {
+                "title": "派早报：索尼 PlayStation 的新动态、华硕发布 Zenfone 9 小屏旗舰手机等",
+                "link": "https://sspai.com/post/74862",
+                "published": "2022-07-29"
+            },
+            {
+                "title": "新玩意 114｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/74845",
+                "published": "2022-07-28"
+            },
+            {
+                "title": "如何做一款好玩的「猫咪模拟器」：从《Stray》拆解游戏关卡设计和美术",
+                "link": "https://sspai.com/post/74810",
+                "published": "2022-07-28"
+            },
+            {
+                "title": "城市收藏夹 | 那些北京的特色书店们",
+                "link": "https://sspai.com/post/74837",
+                "published": "2022-07-28"
+            },
+            {
+                "title": "数字文具盒 | 有没有想过，MarginNote 也可以拿来写文章捏？",
+                "link": "https://sspai.com/post/74820",
+                "published": "2022-07-28"
+            },
             {
                 "title": "有没有想过，MarginNote 也可以拿来写文章捏？",
                 "link": "https://sspai.com/post/74820",
@@ -36774,6 +36809,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "CTP、CTC 和 CTB 三种电池底盘技术方案区别是什么？哪个更有发展前景？",
+                "link": "http://www.zhihu.com/question/544762247/answer/2598374115?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-29"
+            },
+            {
+                "title": "为什么有些人把游戏当信仰？",
+                "link": "http://www.zhihu.com/question/335668249/answer/2596282522?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-07-28"
+            },
+            {
                 "title": "美联储再次加息 75 个基点，重申控通胀的坚定承诺，本次加息能否有效控制通胀上升？对全球经济有何影响？",
                 "link": "http://www.zhihu.com/question/545511029/answer/2596750833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-28"
@@ -41414,13 +41459,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, Vue Color Avatar, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2164322347946172416",
+                "published": "2022-07-28"
+            },
             {
                 "title": "好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, Trianglify, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2161764591545049088",
@@ -41537,6 +41587,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

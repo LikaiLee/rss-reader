@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+2】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-07-29】 科技爱好者周刊（第 216 期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
 * [【2022-07-27】 能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)
 * [【2022-07-22】 科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)
 * [【2022-07-14】 科技爱好者周刊（第 214 期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)
@@ -25,7 +26,6 @@
 * [【2022-06-24】 科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)
 * [【2022-06-17】 科技爱好者周刊（第 210 期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
 * [【2022-06-10】 科技爱好者周刊（第 209 期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)
-* [【2022-06-02】 字节序探析：大端与小端的比较](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-07-29】 iOS 16 Beta 4 中值得关注的新特性](https://sspai.com/post/74861)
+* [【2022-07-29】 派早报：索尼 PlayStation 的新动态、华硕发布 Zenfone 9 小屏旗舰手机等](https://sspai.com/post/74862)
+* [【2022-07-28】 新玩意 114｜少数派的编辑们最近买了啥？](https://sspai.com/post/74845)
+* [【2022-07-28】 如何做一款好玩的「猫咪模拟器」：从《Stray》拆解游戏关卡设计和美术](https://sspai.com/post/74810)
+* [【2022-07-28】 城市收藏夹 | 那些北京的特色书店们](https://sspai.com/post/74837)
+* [【2022-07-28】 数字文具盒 | 有没有想过，MarginNote 也可以拿来写文章捏？](https://sspai.com/post/74820)
 * [【2022-07-28】 有没有想过，MarginNote 也可以拿来写文章捏？](https://sspai.com/post/74820)
 * [【2022-07-28】 派早报：华为发布 HarmonyOS 3 及多款新品、realme 推出 Q5 狂欢版等](https://sspai.com/post/74835)
 * [【2022-07-27】 用 59 分钟，找到个人记账的完备方案](https://sspai.com/post/74808)
 * [【2022-07-27】 试播集 08 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/74827)
-* [【2022-07-27】 解决你的送礼困难症，七夕到了送这 10+ 件礼物](https://sspai.com/post/74802)
-* [【2022-07-27】 装了啥 | 结构工程师、科技达人戴老师都装了啥？](https://sspai.com/prime/story/zhuanglesha-vol02-dailaoshi)
-* [【2022-07-27】 你真的理解色彩管理吗？安卓苹果色彩管理深度解析](https://sspai.com/post/74822)
-* [【2022-07-27】 派早报：Anker 发布多款新品、多家科技公司呼吁废除闰秒等](https://sspai.com/post/74821)
-* [【2022-07-26】 少数派会员第二季正式上线，现在加入可享超值优惠](https://sspai.com/post/74803)
-* [【2022-07-26】 手腕上的「心率检测」靠谱吗？智能手表能帮你了解哪些数据？](https://sspai.com/post/74805)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-07-29】 CTP、CTC 和 CTB 三种电池底盘技术方案区别是什么？哪个更有发展前景？](http://www.zhihu.com/question/544762247/answer/2598374115?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-07-28】 为什么有些人把游戏当信仰？](http://www.zhihu.com/question/335668249/answer/2596282522?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-28】 美联储再次加息 75 个基点，重申控通胀的坚定承诺，本次加息能否有效控制通胀上升？对全球经济有何影响？](http://www.zhihu.com/question/545511029/answer/2596750833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-26】 美国财长称，即使美国经济增速连续两个季度为负，也不意味着衰退，目前美国经济形势如何？](http://www.zhihu.com/question/545170537/answer/2592225277?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-25】 中国金融业现状是怎样的？](http://www.zhihu.com/question/61452206/answer/2502167235?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-07-22】 书法美学和建筑形式——林散之书画院建成小记](http://zhuanlan.zhihu.com/p/540856036?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-22】 二次疫情对游戏行业流水的影响以及其它](http://zhuanlan.zhihu.com/p/518051192?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-22】 重估腾讯式赛道方法的价值，或商分/战略在游戏重塑时代的落地思考](http://zhuanlan.zhihu.com/p/543488242?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-22】 《英雄联盟》「极地大乱斗」模式有哪些鲜为人知的细节和机制？](http://www.zhihu.com/question/544544809/answer/2587118067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-22】 精酿啤酒的口感是不是比普通啤酒好，为什么？](http://www.zhihu.com/question/538819628/answer/2577233731?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-07-28】 好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, Vue Color Avatar, ...](https://bestxtools.zhubai.love/posts/2164322347946172416)
 * [【2022-07-21】 好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, Trianglify, ...](https://bestxtools.zhubai.love/posts/2161764591545049088)
 * [【2022-07-13】 好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, perfect-freehand, TypeLit.io, ...](https://bestxtools.zhubai.love/posts/2159035276579110912)
 * [【2022-07-07】 好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, Star Charts, LetsMarkdown, ui-color](https://bestxtools.zhubai.love/posts/2156659650731491328)
@@ -101,7 +102,6 @@
 * [【2022-06-09】 好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, TweetPics, SPEEDTEST](https://bestxtools.zhubai.love/posts/2146500725667651584)
 * [【2022-06-02】 好工具周刊（第 15 期）: GitHub Profile Header Generator, Curl UI, Domcomp, 巴别英语, DAREBEE, ...](https://bestxtools.zhubai.love/posts/2143964812269535232)
 * [【2022-05-26】 好工具周刊（第 14 期）: GitHub Profile Page Creator, CodeCaptcha, Q.Link, ASCII banners, ASCII Tree Generator](https://bestxtools.zhubai.love/posts/2141427899847180288)
-* [【2022-05-19】 好工具周刊（第 13 期）: uiverse.io, Neumorphism, cssbuttons, AutoDraw, Shape Shifter, 网名在线生成器](https://bestxtools.zhubai.love/posts/2138889468513034240)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-28 05:24:08
+:alarm_clock: 更新时间: 2022-07-29 05:26:34
