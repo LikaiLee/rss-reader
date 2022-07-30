@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+1】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-07-30】 来一场义工旅行，就可以改变人生吗？](https://sspai.com/post/74875)
+* [【2022-07-29】 派周报 | 本周会员内容提要；跑题：裁员语文](https://sspai.com/prime/story/pi-weekly-002)
+* [【2022-07-29】 本周看什么丨最近值得一看的 6 部作品](https://sspai.com/post/74896)
+* [【2022-07-29】 身体、心境到生活，练习瑜伽一年为我带来了哪些改变](https://sspai.com/post/74887)
 * [【2022-07-29】 iOS 16 Beta 4 中值得关注的新特性](https://sspai.com/post/74861)
 * [【2022-07-29】 派早报：索尼 PlayStation 的新动态、华硕发布 Zenfone 9 小屏旗舰手机等](https://sspai.com/post/74862)
 * [【2022-07-28】 新玩意 114｜少数派的编辑们最近买了啥？](https://sspai.com/post/74845)
 * [【2022-07-28】 如何做一款好玩的「猫咪模拟器」：从《Stray》拆解游戏关卡设计和美术](https://sspai.com/post/74810)
 * [【2022-07-28】 城市收藏夹 | 那些北京的特色书店们](https://sspai.com/post/74837)
 * [【2022-07-28】 数字文具盒 | 有没有想过，MarginNote 也可以拿来写文章捏？](https://sspai.com/post/74820)
-* [【2022-07-28】 有没有想过，MarginNote 也可以拿来写文章捏？](https://sspai.com/post/74820)
-* [【2022-07-28】 派早报：华为发布 HarmonyOS 3 及多款新品、realme 推出 Q5 狂欢版等](https://sspai.com/post/74835)
-* [【2022-07-27】 用 59 分钟，找到个人记账的完备方案](https://sspai.com/post/74808)
-* [【2022-07-27】 试播集 08 | 少数派作者们最近读完了啥（下）](https://sspai.com/post/74827)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-07-29】 创作者请回答｜伞阿花伞大王：那些辞职写小说的人，后来都怎么样了？](http://zhuanlan.zhihu.com/p/547601766?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-29】 CTP、CTC 和 CTB 三种电池底盘技术方案区别是什么？哪个更有发展前景？](http://www.zhihu.com/question/544762247/answer/2598374115?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-28】 为什么有些人把游戏当信仰？](http://www.zhihu.com/question/335668249/answer/2596282522?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-28】 美联储再次加息 75 个基点，重申控通胀的坚定承诺，本次加息能否有效控制通胀上升？对全球经济有何影响？](http://www.zhihu.com/question/545511029/answer/2596750833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-07-22】 啤酒太涨肚，白酒又太烈，有什么度数不高的夏日好酒推荐？](http://www.zhihu.com/question/535453251/answer/2587654005?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-22】 书法美学和建筑形式——林散之书画院建成小记](http://zhuanlan.zhihu.com/p/540856036?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-22】 二次疫情对游戏行业流水的影响以及其它](http://zhuanlan.zhihu.com/p/518051192?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-22】 重估腾讯式赛道方法的价值，或商分/战略在游戏重塑时代的落地思考](http://zhuanlan.zhihu.com/p/543488242?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-29 05:26:34
+:alarm_clock: 更新时间: 2022-07-30 05:17:51
