@@ -248,6 +248,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "还在苦恼如何寻找研究选题？不妨来试一试这个人工智能吧",
+                "link": "https://sspai.com/post/74901",
+                "published": "2022-08-01"
+            },
+            {
+                "title": "派早报：AMD 市值再超英特尔，二季度智能手机出货量同比明显下降等",
+                "link": "https://sspai.com/post/74917",
+                "published": "2022-08-01"
+            },
+            {
+                "title": "即将涨价的 VR 头显，买来可以玩什么？",
+                "link": "https://sspai.com/post/74918",
+                "published": "2022-07-31"
+            },
+            {
+                "title": "用插件让新标签页回归空白，和恼人的搜索栏与广告标说再见",
+                "link": "https://sspai.com/post/74325",
+                "published": "2022-07-31"
+            },
+            {
                 "title": "任意键｜初见月迅龙；爱生气的巫妖王；奶刃三部曲及其他",
                 "link": "https://sspai.com/post/74890",
                 "published": "2022-07-30"
@@ -6378,7 +6398,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -36834,6 +36854,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价 7 月新番动画《彻夜之歌》第三集？",
+                "link": "http://www.zhihu.com/question/544528995/answer/2596058476?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-01"
+            },
+            {
+                "title": "《画书大王》(简称画王)中都有哪些经典的国漫作品，包括港台的？",
+                "link": "http://www.zhihu.com/question/286775795/answer/2603044530?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-01"
+            },
+            {
                 "title": "如何看待《原神》须弥前瞻短片 03 「明慧的序曲」？",
                 "link": "http://www.zhihu.com/question/545922798/answer/2599210015?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-07-31"
@@ -41494,7 +41524,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,

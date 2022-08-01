@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-08-01】 还在苦恼如何寻找研究选题？不妨来试一试这个人工智能吧](https://sspai.com/post/74901)
+* [【2022-08-01】 派早报：AMD 市值再超英特尔，二季度智能手机出货量同比明显下降等](https://sspai.com/post/74917)
+* [【2022-07-31】 即将涨价的 VR 头显，买来可以玩什么？](https://sspai.com/post/74918)
+* [【2022-07-31】 用插件让新标签页回归空白，和恼人的搜索栏与广告标说再见](https://sspai.com/post/74325)
 * [【2022-07-30】 任意键｜初见月迅龙；爱生气的巫妖王；奶刃三部曲及其他](https://sspai.com/post/74890)
 * [【2022-07-30】 来一场义工旅行，就可以改变人生吗？](https://sspai.com/post/74875)
 * [【2022-07-29】 派周报 | 本周会员内容提要；跑题：裁员语文](https://sspai.com/prime/story/pi-weekly-002)
 * [【2022-07-29】 本周看什么丨最近值得一看的 6 部作品](https://sspai.com/post/74896)
 * [【2022-07-29】 身体、心境到生活，练习瑜伽一年为我带来了哪些改变](https://sspai.com/post/74887)
 * [【2022-07-29】 iOS 16 Beta 4 中值得关注的新特性](https://sspai.com/post/74861)
-* [【2022-07-29】 派早报：索尼 PlayStation 的新动态、华硕发布 Zenfone 9 小屏旗舰手机等](https://sspai.com/post/74862)
-* [【2022-07-28】 新玩意 114｜少数派的编辑们最近买了啥？](https://sspai.com/post/74845)
-* [【2022-07-28】 如何做一款好玩的「猫咪模拟器」：从《Stray》拆解游戏关卡设计和美术](https://sspai.com/post/74810)
-* [【2022-07-28】 城市收藏夹 | 那些北京的特色书店们](https://sspai.com/post/74837)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-08-01】 如何评价 7 月新番动画《彻夜之歌》第三集？](http://www.zhihu.com/question/544528995/answer/2596058476?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-01】 《画书大王》(简称画王)中都有哪些经典的国漫作品，包括港台的？](http://www.zhihu.com/question/286775795/answer/2603044530?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-31】 如何看待《原神》须弥前瞻短片 03 「明慧的序曲」？](http://www.zhihu.com/question/545922798/answer/2599210015?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-29】 创作者请回答｜伞阿花伞大王：那些辞职写小说的人，后来都怎么样了？](http://zhuanlan.zhihu.com/p/547601766?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-29】 CTP、CTC 和 CTB 三种电池底盘技术方案区别是什么？哪个更有发展前景？](http://www.zhihu.com/question/544762247/answer/2598374115?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-07-26】 美国财长称，即使美国经济增速连续两个季度为负，也不意味着衰退，目前美国经济形势如何？](http://www.zhihu.com/question/545170537/answer/2592225277?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-25】 中国金融业现状是怎样的？](http://www.zhihu.com/question/61452206/answer/2502167235?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-07-22】 如何评价动画电影《开心超人之英雄的心》？](http://www.zhihu.com/question/532280167/answer/2587667231?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-22】 啤酒太涨肚，白酒又太烈，有什么度数不高的夏日好酒推荐？](http://www.zhihu.com/question/535453251/answer/2587654005?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-22】 书法美学和建筑形式——林散之书画院建成小记](http://zhuanlan.zhihu.com/p/540856036?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-07-31 05:16:38
+:alarm_clock: 更新时间: 2022-08-01 05:51:01
