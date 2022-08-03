@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "DNS 查询原理详解",
+                "link": "http://www.ruanyifeng.com/blog/2022/08/dns-query.html",
+                "published": "2022-08-02"
+            },
+            {
                 "title": "科技爱好者周刊（第 216 期）：极简主义的胜利",
                 "link": "http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html",
                 "published": "2022-07-29"
@@ -240,13 +245,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "身体乳入门攻略：除了品牌和价格，你还需要考虑什么？",
+                "link": "https://sspai.com/post/74973",
+                "published": "2022-08-03"
+            },
+            {
+                "title": "派早报：影石发布 Link 4K 网络摄像头、Apple 更新「过时产品」名单等",
+                "link": "https://sspai.com/post/74969",
+                "published": "2022-08-03"
+            },
+            {
+                "title": "距离新 iPhone 不到两个月，为什么我买了一台 iPhone 13 mini",
+                "link": "https://sspai.com/post/74960",
+                "published": "2022-08-02"
+            },
+            {
+                "title": "App+1 | OCR 录入、金字塔减糖，HiWater 想成为你的喝水管家",
+                "link": "https://sspai.com/post/74956",
+                "published": "2022-08-02"
+            },
+            {
+                "title": "在小宇宙收听播客 200 小时后，我体会到了播客的魅力",
+                "link": "https://sspai.com/post/74915",
+                "published": "2022-08-02"
+            },
             {
                 "title": "特别直播｜少数派会员第二季都有哪些「新意」？",
                 "link": "https://sspai.com/post/74940",
@@ -36879,6 +36909,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价国产动画《毛头的深夜理发店》？",
+                "link": "http://www.zhihu.com/question/546532267/answer/2606579839?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-03"
+            },
+            {
+                "title": "如何评价知音漫客漫画《零班编年史》，为什么现在都很难找得到了？",
+                "link": "http://www.zhihu.com/question/278025029/answer/2605507630?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-02"
+            },
+            {
+                "title": "如何评价 Steam 游戏《晴末置雨》？",
+                "link": "http://www.zhihu.com/question/545882212/answer/2605390530?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-02"
+            },
+            {
                 "title": "如何评价中国漫画家章磊以及他的国产漫画作品《蝴蝶少年》？",
                 "link": "http://www.zhihu.com/question/518189820/answer/2604749536?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-08-02"
@@ -41574,7 +41619,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 4,

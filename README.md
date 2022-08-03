@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+5】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-08-02】 DNS 查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html)
 * [【2022-07-29】 科技爱好者周刊（第 216 期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
 * [【2022-07-27】 能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)
 * [【2022-07-22】 科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)
@@ -25,7 +26,6 @@
 * [【2022-06-29】 云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)
 * [【2022-06-24】 科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)
 * [【2022-06-17】 科技爱好者周刊（第 210 期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
-* [【2022-06-10】 科技爱好者周刊（第 209 期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-08-03】 身体乳入门攻略：除了品牌和价格，你还需要考虑什么？](https://sspai.com/post/74973)
+* [【2022-08-03】 派早报：影石发布 Link 4K 网络摄像头、Apple 更新「过时产品」名单等](https://sspai.com/post/74969)
+* [【2022-08-02】 距离新 iPhone 不到两个月，为什么我买了一台 iPhone 13 mini](https://sspai.com/post/74960)
+* [【2022-08-02】 App+1 | OCR 录入、金字塔减糖，HiWater 想成为你的喝水管家](https://sspai.com/post/74956)
+* [【2022-08-02】 在小宇宙收听播客 200 小时后，我体会到了播客的魅力](https://sspai.com/post/74915)
 * [【2022-08-02】 特别直播｜少数派会员第二季都有哪些「新意」？](https://sspai.com/post/74940)
 * [【2022-08-02】 派早报：微信上线视频号「个人专栏」、小米发布米家眼镜相机等](https://sspai.com/post/74953)
 * [【2022-08-01】 派评 | 近期值得关注的 App](https://sspai.com/post/74943)
 * [【2022-08-01】 在录音之前你需要知道的事](https://sspai.com/prime/story/sr-06-01)
 * [【2022-08-01】 施救者会在心肺复苏过程中感染疾病吗](https://sspai.com/post/74931)
-* [【2022-08-01】 还在苦恼如何寻找研究选题？不妨来试一试这个人工智能吧](https://sspai.com/post/74901)
-* [【2022-08-01】 派早报：AMD 市值再超英特尔，二季度智能手机出货量同比明显下降等](https://sspai.com/post/74917)
-* [【2022-07-31】 即将涨价的 VR 头显，买来可以玩什么？](https://sspai.com/post/74918)
-* [【2022-07-31】 用插件让新标签页回归空白，和恼人的搜索栏与广告标说再见](https://sspai.com/post/74325)
-* [【2022-07-30】 任意键｜初见月迅龙；爱生气的巫妖王；奶刃三部曲及其他](https://sspai.com/post/74890)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2022-08-03】 如何评价国产动画《毛头的深夜理发店》？](http://www.zhihu.com/question/546532267/answer/2606579839?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-02】 如何评价知音漫客漫画《零班编年史》，为什么现在都很难找得到了？](http://www.zhihu.com/question/278025029/answer/2605507630?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-02】 如何评价 Steam 游戏《晴末置雨》？](http://www.zhihu.com/question/545882212/answer/2605390530?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-02】 如何评价中国漫画家章磊以及他的国产漫画作品《蝴蝶少年》？](http://www.zhihu.com/question/518189820/answer/2604749536?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-02】 国产动画《诛仙》开播，有哪些看点？](http://www.zhihu.com/question/546526862/answer/2604929575?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-02】 国家新闻出版署发布 8 月国产网络游戏审批信息，共 69 款游戏获批。还有哪些信息值得关注？](http://www.zhihu.com/question/546439183/answer/2604844123?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2022-08-02】 哪些人改变了汽车发展的历史？](http://www.zhihu.com/question/543080732/answer/2603213362?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-01】 如何评价 7 月新番动画《彻夜之歌》第三集？](http://www.zhihu.com/question/544528995/answer/2596058476?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-01】 《画书大王》(简称画王)中都有哪些经典的国漫作品，包括港台的？](http://www.zhihu.com/question/286775795/answer/2603044530?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-31】 如何看待《原神》须弥前瞻短片 03 「明慧的序曲」？](http://www.zhihu.com/question/545922798/answer/2599210015?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-29】 创作者请回答｜伞阿花伞大王：那些辞职写小说的人，后来都怎么样了？](http://zhuanlan.zhihu.com/p/547601766?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-07-29】 CTP、CTC 和 CTB 三种电池底盘技术方案区别是什么？哪个更有发展前景？](http://www.zhihu.com/question/544762247/answer/2598374115?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-08-02 05:40:52
+:alarm_clock: 更新时间: 2022-08-03 05:39:03
