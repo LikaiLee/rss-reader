@@ -245,13 +245,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "消费降级生活不降级，我的 1688 购物心得",
+                "link": "https://sspai.com/post/74991",
+                "published": "2022-08-04"
+            },
+            {
+                "title": "派早报：Apple 在大陆推出闪送服务、徕卡将进入激光电视领域等",
+                "link": "https://sspai.com/post/74986",
+                "published": "2022-08-04"
+            },
+            {
+                "title": "微软出品、Windows 用户必备的瑞士军刀：PowerToys 可以怎么用",
+                "link": "https://sspai.com/post/74979",
+                "published": "2022-08-03"
+            },
+            {
+                "title": "让手机变身电脑配件，这些 App 帮你应对突发意外",
+                "link": "https://sspai.com/post/74978",
+                "published": "2022-08-03"
+            },
+            {
+                "title": "还原经典的细节与质感，将复古音乐播放器装进口袋：OneMusic | App+1",
+                "link": "https://sspai.com/post/74850",
+                "published": "2022-08-03"
+            },
             {
                 "title": "身体乳入门攻略：除了品牌和价格，你还需要考虑什么？",
                 "link": "https://sspai.com/post/74973",
@@ -36909,6 +36934,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何看待《泡面超人》这本漫画？",
+                "link": "http://www.zhihu.com/question/290486411/answer/2609215337?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-04"
+            },
+            {
                 "title": "如何评价国产动画《毛头的深夜理发店》？",
                 "link": "http://www.zhihu.com/question/546532267/answer/2606579839?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-08-03"
@@ -41619,13 +41649,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 24 期）: OSS Insight, Active GitHub Forks, Hat.sh, snappify, Purple Photo, stooge, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2166817480273465344",
+                "published": "2022-08-04"
+            },
             {
                 "title": "好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, Vue Color Avatar, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2164322347946172416",
@@ -41747,6 +41782,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

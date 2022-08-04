@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+1】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-08-04】 消费降级生活不降级，我的 1688 购物心得](https://sspai.com/post/74991)
+* [【2022-08-04】 派早报：Apple 在大陆推出闪送服务、徕卡将进入激光电视领域等](https://sspai.com/post/74986)
+* [【2022-08-03】 微软出品、Windows 用户必备的瑞士军刀：PowerToys 可以怎么用](https://sspai.com/post/74979)
+* [【2022-08-03】 让手机变身电脑配件，这些 App 帮你应对突发意外](https://sspai.com/post/74978)
+* [【2022-08-03】 还原经典的细节与质感，将复古音乐播放器装进口袋：OneMusic | App+1](https://sspai.com/post/74850)
 * [【2022-08-03】 身体乳入门攻略：除了品牌和价格，你还需要考虑什么？](https://sspai.com/post/74973)
 * [【2022-08-03】 派早报：影石发布 Link 4K 网络摄像头、Apple 更新「过时产品」名单等](https://sspai.com/post/74969)
 * [【2022-08-02】 距离新 iPhone 不到两个月，为什么我买了一台 iPhone 13 mini](https://sspai.com/post/74960)
 * [【2022-08-02】 App+1 | OCR 录入、金字塔减糖，HiWater 想成为你的喝水管家](https://sspai.com/post/74956)
 * [【2022-08-02】 在小宇宙收听播客 200 小时后，我体会到了播客的魅力](https://sspai.com/post/74915)
-* [【2022-08-02】 特别直播｜少数派会员第二季都有哪些「新意」？](https://sspai.com/post/74940)
-* [【2022-08-02】 派早报：微信上线视频号「个人专栏」、小米发布米家眼镜相机等](https://sspai.com/post/74953)
-* [【2022-08-01】 派评 | 近期值得关注的 App](https://sspai.com/post/74943)
-* [【2022-08-01】 在录音之前你需要知道的事](https://sspai.com/prime/story/sr-06-01)
-* [【2022-08-01】 施救者会在心肺复苏过程中感染疾病吗](https://sspai.com/post/74931)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-08-04】 如何看待《泡面超人》这本漫画？](http://www.zhihu.com/question/290486411/answer/2609215337?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-03】 如何评价国产动画《毛头的深夜理发店》？](http://www.zhihu.com/question/546532267/answer/2606579839?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-02】 如何评价知音漫客漫画《零班编年史》，为什么现在都很难找得到了？](http://www.zhihu.com/question/278025029/answer/2605507630?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-02】 如何评价 Steam 游戏《晴末置雨》？](http://www.zhihu.com/question/545882212/answer/2605390530?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-08-02】 哪些人改变了汽车发展的历史？](http://www.zhihu.com/question/543080732/answer/2603213673?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-02】 哪些人改变了汽车发展的历史？](http://www.zhihu.com/question/543080732/answer/2603213362?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-01】 如何评价 7 月新番动画《彻夜之歌》第三集？](http://www.zhihu.com/question/544528995/answer/2596058476?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-01】 《画书大王》(简称画王)中都有哪些经典的国漫作品，包括港台的？](http://www.zhihu.com/question/286775795/answer/2603044530?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-08-04】 好工具周刊（第 24 期）: OSS Insight, Active GitHub Forks, Hat.sh, snappify, Purple Photo, stooge, ...](https://bestxtools.zhubai.love/posts/2166817480273465344)
 * [【2022-07-28】 好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, Vue Color Avatar, ...](https://bestxtools.zhubai.love/posts/2164322347946172416)
 * [【2022-07-21】 好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, Trianglify, ...](https://bestxtools.zhubai.love/posts/2161764591545049088)
 * [【2022-07-13】 好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, perfect-freehand, TypeLit.io, ...](https://bestxtools.zhubai.love/posts/2159035276579110912)
@@ -101,7 +102,6 @@
 * [【2022-06-16】 好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, Colorsandfonts, ...](https://bestxtools.zhubai.love/posts/2149044131228536832)
 * [【2022-06-09】 好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, TweetPics, SPEEDTEST](https://bestxtools.zhubai.love/posts/2146500725667651584)
 * [【2022-06-02】 好工具周刊（第 15 期）: GitHub Profile Header Generator, Curl UI, Domcomp, 巴别英语, DAREBEE, ...](https://bestxtools.zhubai.love/posts/2143964812269535232)
-* [【2022-05-26】 好工具周刊（第 14 期）: GitHub Profile Page Creator, CodeCaptcha, Q.Link, ASCII banners, ASCII Tree Generator](https://bestxtools.zhubai.love/posts/2141427899847180288)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-08-03 05:39:03
+:alarm_clock: 更新时间: 2022-08-04 05:27:50
