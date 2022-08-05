@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+6】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-08-05】 科技爱好者周刊（第 217 期）：沙特的新未来城](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)
 * [【2022-08-02】 DNS 查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html)
 * [【2022-07-29】 科技爱好者周刊（第 216 期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
 * [【2022-07-27】 能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)
@@ -25,7 +26,6 @@
 * [【2022-07-01】 科技爱好者周刊（第 212 期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)
 * [【2022-06-29】 云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)
 * [【2022-06-24】 科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)
-* [【2022-06-17】 科技爱好者周刊（第 210 期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-08-05】 没有按摩师也没关系，你可以用这些方法和工具「自我修复」](https://sspai.com/post/75002)
+* [【2022-08-05】 派早报：InnLead Innovative 推出无线便携显示器、Apple 上线全新诊断工具](https://sspai.com/post/75000)
+* [【2022-08-04】 新玩意 115｜少数派的编辑们最近买了啥？](https://sspai.com/post/74997)
+* [【2022-08-04】 有无相生，长短相形：Nothing Phone (1) 上手体验](https://sspai.com/post/74925)
+* [【2022-08-04】 一派·Podcast | 旅居、阅读、写作，以及身体和灵魂的自由](https://sspai.com/post/74990)
 * [【2022-08-04】 消费降级生活不降级，我的 1688 购物心得](https://sspai.com/post/74991)
 * [【2022-08-04】 派早报：Apple 在大陆推出闪送服务、徕卡将进入激光电视领域等](https://sspai.com/post/74986)
 * [【2022-08-03】 微软出品、Windows 用户必备的瑞士军刀：PowerToys 可以怎么用](https://sspai.com/post/74979)
 * [【2022-08-03】 让手机变身电脑配件，这些 App 帮你应对突发意外](https://sspai.com/post/74978)
 * [【2022-08-03】 还原经典的细节与质感，将复古音乐播放器装进口袋：OneMusic | App+1](https://sspai.com/post/74850)
-* [【2022-08-03】 身体乳入门攻略：除了品牌和价格，你还需要考虑什么？](https://sspai.com/post/74973)
-* [【2022-08-03】 派早报：影石发布 Link 4K 网络摄像头、Apple 更新「过时产品」名单等](https://sspai.com/post/74969)
-* [【2022-08-02】 距离新 iPhone 不到两个月，为什么我买了一台 iPhone 13 mini](https://sspai.com/post/74960)
-* [【2022-08-02】 App+1 | OCR 录入、金字塔减糖，HiWater 想成为你的喝水管家](https://sspai.com/post/74956)
-* [【2022-08-02】 在小宇宙收听播客 200 小时后，我体会到了播客的魅力](https://sspai.com/post/74915)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2022-08-05】 台湾GDP对大陆的依赖程度究竟有多高，假设处于极端情况，我们能够用哪些经济制裁措施？](http://www.zhihu.com/question/546732404/answer/2610212587?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-04】 汽车做底盘装甲是智商税吗？什么情况建议做，什么情况不用做？](http://www.zhihu.com/question/544552962/answer/2608485373?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-04】 双叉臂悬架和麦弗逊悬架在驾驶感受上有哪些的差异？](http://www.zhihu.com/question/322431971/answer/2602450244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-04】 滑板底盘近来特别火，到底是在炒概念还是真的发展趋势？](http://www.zhihu.com/question/520614454/answer/2602234908?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-04】 空气悬架「又贵又容易坏」，为什么没有被淘汰？](http://www.zhihu.com/question/544751559/answer/2601920649?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-04】 如何评价民俗悬疑AVG游戏《山：临界幸存者》？](http://www.zhihu.com/question/545194401/answer/2592831352?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-04】 如何看待《泡面超人》这本漫画？](http://www.zhihu.com/question/290486411/answer/2609215337?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-03】 如何评价国产动画《毛头的深夜理发店》？](http://www.zhihu.com/question/546532267/answer/2606579839?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-02】 如何评价知音漫客漫画《零班编年史》，为什么现在都很难找得到了？](http://www.zhihu.com/question/278025029/answer/2605507630?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-02】 如何评价 Steam 游戏《晴末置雨》？](http://www.zhihu.com/question/545882212/answer/2605390530?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-02】 如何评价中国漫画家章磊以及他的国产漫画作品《蝴蝶少年》？](http://www.zhihu.com/question/518189820/answer/2604749536?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-02】 国产动画《诛仙》开播，有哪些看点？](http://www.zhihu.com/question/546526862/answer/2604929575?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-02】 国家新闻出版署发布 8 月国产网络游戏审批信息，共 69 款游戏获批。还有哪些信息值得关注？](http://www.zhihu.com/question/546439183/answer/2604844123?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-02】 哪些人改变了汽车发展的历史？](http://www.zhihu.com/question/543080732/answer/2603213673?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-02】 哪些人改变了汽车发展的历史？](http://www.zhihu.com/question/543080732/answer/2603213362?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-01】 如何评价 7 月新番动画《彻夜之歌》第三集？](http://www.zhihu.com/question/544528995/answer/2596058476?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-08-04 05:27:50
+:alarm_clock: 更新时间: 2022-08-05 05:30:02

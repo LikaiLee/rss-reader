@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 217 期）：沙特的新未来城",
+                "link": "http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html",
+                "published": "2022-08-05"
+            },
+            {
                 "title": "DNS 查询原理详解",
                 "link": "http://www.ruanyifeng.com/blog/2022/08/dns-query.html",
                 "published": "2022-08-02"
@@ -245,13 +250,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "没有按摩师也没关系，你可以用这些方法和工具「自我修复」",
+                "link": "https://sspai.com/post/75002",
+                "published": "2022-08-05"
+            },
+            {
+                "title": "派早报：InnLead Innovative 推出无线便携显示器、Apple 上线全新诊断工具",
+                "link": "https://sspai.com/post/75000",
+                "published": "2022-08-05"
+            },
+            {
+                "title": "新玩意 115｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/74997",
+                "published": "2022-08-04"
+            },
+            {
+                "title": "有无相生，长短相形：Nothing Phone (1) 上手体验",
+                "link": "https://sspai.com/post/74925",
+                "published": "2022-08-04"
+            },
+            {
+                "title": "一派·Podcast | 旅居、阅读、写作，以及身体和灵魂的自由",
+                "link": "https://sspai.com/post/74990",
+                "published": "2022-08-04"
+            },
             {
                 "title": "消费降级生活不降级，我的 1688 购物心得",
                 "link": "https://sspai.com/post/74991",
@@ -36934,6 +36964,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "台湾GDP对大陆的依赖程度究竟有多高，假设处于极端情况，我们能够用哪些经济制裁措施？",
+                "link": "http://www.zhihu.com/question/546732404/answer/2610212587?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-05"
+            },
+            {
+                "title": "汽车做底盘装甲是智商税吗？什么情况建议做，什么情况不用做？",
+                "link": "http://www.zhihu.com/question/544552962/answer/2608485373?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-04"
+            },
+            {
+                "title": "双叉臂悬架和麦弗逊悬架在驾驶感受上有哪些的差异？",
+                "link": "http://www.zhihu.com/question/322431971/answer/2602450244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-04"
+            },
+            {
+                "title": "滑板底盘近来特别火，到底是在炒概念还是真的发展趋势？",
+                "link": "http://www.zhihu.com/question/520614454/answer/2602234908?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-04"
+            },
+            {
+                "title": "空气悬架「又贵又容易坏」，为什么没有被淘汰？",
+                "link": "http://www.zhihu.com/question/544751559/answer/2601920649?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-04"
+            },
+            {
+                "title": "如何评价民俗悬疑AVG游戏《山：临界幸存者》？",
+                "link": "http://www.zhihu.com/question/545194401/answer/2592831352?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-04"
+            },
+            {
                 "title": "如何看待《泡面超人》这本漫画？",
                 "link": "http://www.zhihu.com/question/290486411/answer/2609215337?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-08-04"
@@ -41649,7 +41709,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 6
     },
     {
         "id": 4,
@@ -41782,6 +41842,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
