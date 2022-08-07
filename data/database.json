@@ -250,13 +250,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "任意键｜第九世代宝可梦；彩虹六号出手游；骗情怀的仙剑七及其他",
+                "link": "https://sspai.com/post/75012",
+                "published": "2022-08-06"
+            },
+            {
+                "title": "离开书本几年后，我开始重新思考读书这件事",
+                "link": "https://sspai.com/post/75009",
+                "published": "2022-08-06"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/75007",
+                "published": "2022-08-05"
+            },
+            {
+                "title": "派周报 | 本周会员内容提要；跑题：果园鸽鸣",
+                "link": "https://sspai.com/prime/story/pi-weekly-003",
+                "published": "2022-08-05"
+            },
+            {
+                "title": "一篇文章，读懂中文播客前世今生",
+                "link": "https://sspai.com/post/74874",
+                "published": "2022-08-05"
+            },
+            {
+                "title": "一日一技 | 把日历同步交给私有云：群晖 NAS 配置 Synology Calendar",
+                "link": "https://sspai.com/post/74993",
+                "published": "2022-08-05"
+            },
             {
                 "title": "没有按摩师也没关系，你可以用这些方法和工具「自我修复」",
                 "link": "https://sspai.com/post/75002",
@@ -6508,7 +6538,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -41709,7 +41739,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 0
     },
     {
         "id": 4,

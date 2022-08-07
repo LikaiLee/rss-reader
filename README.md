@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+6】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-08-06】 任意键｜第九世代宝可梦；彩虹六号出手游；骗情怀的仙剑七及其他](https://sspai.com/post/75012)
+* [【2022-08-06】 离开书本几年后，我开始重新思考读书这件事](https://sspai.com/post/75009)
+* [【2022-08-05】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/75007)
+* [【2022-08-05】 派周报 | 本周会员内容提要；跑题：果园鸽鸣](https://sspai.com/prime/story/pi-weekly-003)
+* [【2022-08-05】 一篇文章，读懂中文播客前世今生](https://sspai.com/post/74874)
+* [【2022-08-05】 一日一技 | 把日历同步交给私有云：群晖 NAS 配置 Synology Calendar](https://sspai.com/post/74993)
 * [【2022-08-05】 没有按摩师也没关系，你可以用这些方法和工具「自我修复」](https://sspai.com/post/75002)
 * [【2022-08-05】 派早报：InnLead Innovative 推出无线便携显示器、Apple 上线全新诊断工具](https://sspai.com/post/75000)
 * [【2022-08-04】 新玩意 115｜少数派的编辑们最近买了啥？](https://sspai.com/post/74997)
 * [【2022-08-04】 有无相生，长短相形：Nothing Phone (1) 上手体验](https://sspai.com/post/74925)
-* [【2022-08-04】 一派·Podcast | 旅居、阅读、写作，以及身体和灵魂的自由](https://sspai.com/post/74990)
-* [【2022-08-04】 消费降级生活不降级，我的 1688 购物心得](https://sspai.com/post/74991)
-* [【2022-08-04】 派早报：Apple 在大陆推出闪送服务、徕卡将进入激光电视领域等](https://sspai.com/post/74986)
-* [【2022-08-03】 微软出品、Windows 用户必备的瑞士军刀：PowerToys 可以怎么用](https://sspai.com/post/74979)
-* [【2022-08-03】 让手机变身电脑配件，这些 App 帮你应对突发意外](https://sspai.com/post/74978)
-* [【2022-08-03】 还原经典的细节与质感，将复古音乐播放器装进口袋：OneMusic | App+1](https://sspai.com/post/74850)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-08-05 05:30:02
+:alarm_clock: 更新时间: 2022-08-07 05:13:07
