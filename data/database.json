@@ -258,6 +258,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透 | 更新幅度远超预期——全面分析 iOS 16 版 Books 的新特性",
+                "link": "https://sspai.com/post/75010",
+                "published": "2022-08-08"
+            },
+            {
+                "title": "派早报：亚马逊收购 iRobot、加州交管局指控特斯拉虚假宣传自动驾驶等",
+                "link": "https://sspai.com/post/75029",
+                "published": "2022-08-08"
+            },
+            {
+                "title": "多标签页浏览，如何才能游刃有余？",
+                "link": "https://sspai.com/post/75031",
+                "published": "2022-08-07"
+            },
+            {
+                "title": "跨平台、功能足、体验好：我为什么在用 iA Writer 写作",
+                "link": "https://sspai.com/post/75025",
+                "published": "2022-08-07"
+            },
+            {
                 "title": "任意键｜第九世代宝可梦；彩虹六号出手游；骗情怀的仙剑七及其他",
                 "link": "https://sspai.com/post/75012",
                 "published": "2022-08-06"
@@ -6538,7 +6558,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -36994,6 +37014,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "陕西有哪些国家级历史文化名城值得游玩？",
+                "link": "http://www.zhihu.com/question/534757699/answer/2603624766?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-08"
+            },
+            {
+                "title": "如何评价动画《新秦时明月》第37集？",
+                "link": "http://www.zhihu.com/question/547146071/answer/2611887801?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-07"
+            },
+            {
+                "title": "如何评价雨人Redregan创作的国产漫画《白乐园》以及其他作品？",
+                "link": "http://www.zhihu.com/question/515277181/answer/2609837734?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-07"
+            },
+            {
+                "title": "如何评价白骁编绘的拳击漫画作品《4.9x4.9》?",
+                "link": "http://www.zhihu.com/question/518695974/answer/2610832574?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-07"
+            },
+            {
+                "title": "如何评价国产漫画家核燃黑猫的《魔王全书》以及其他作品？",
+                "link": "http://www.zhihu.com/question/515382430/answer/2611600825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-07"
+            },
+            {
+                "title": "游戏《明日方舟》中有什么好听的配乐？",
+                "link": "http://www.zhihu.com/question/545847669/answer/2599514604?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-07"
+            },
+            {
                 "title": "台湾GDP对大陆的依赖程度究竟有多高，假设处于极端情况，我们能够用哪些经济制裁措施？",
                 "link": "http://www.zhihu.com/question/546732404/answer/2610212587?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-08-05"
@@ -41739,7 +41789,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 6
     },
     {
         "id": 4,

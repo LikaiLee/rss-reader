@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+6】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-08-08】 具透 | 更新幅度远超预期——全面分析 iOS 16 版 Books 的新特性](https://sspai.com/post/75010)
+* [【2022-08-08】 派早报：亚马逊收购 iRobot、加州交管局指控特斯拉虚假宣传自动驾驶等](https://sspai.com/post/75029)
+* [【2022-08-07】 多标签页浏览，如何才能游刃有余？](https://sspai.com/post/75031)
+* [【2022-08-07】 跨平台、功能足、体验好：我为什么在用 iA Writer 写作](https://sspai.com/post/75025)
 * [【2022-08-06】 任意键｜第九世代宝可梦；彩虹六号出手游；骗情怀的仙剑七及其他](https://sspai.com/post/75012)
 * [【2022-08-06】 离开书本几年后，我开始重新思考读书这件事](https://sspai.com/post/75009)
 * [【2022-08-05】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/75007)
 * [【2022-08-05】 派周报 | 本周会员内容提要；跑题：果园鸽鸣](https://sspai.com/prime/story/pi-weekly-003)
 * [【2022-08-05】 一篇文章，读懂中文播客前世今生](https://sspai.com/post/74874)
 * [【2022-08-05】 一日一技 | 把日历同步交给私有云：群晖 NAS 配置 Synology Calendar](https://sspai.com/post/74993)
-* [【2022-08-05】 没有按摩师也没关系，你可以用这些方法和工具「自我修复」](https://sspai.com/post/75002)
-* [【2022-08-05】 派早报：InnLead Innovative 推出无线便携显示器、Apple 上线全新诊断工具](https://sspai.com/post/75000)
-* [【2022-08-04】 新玩意 115｜少数派的编辑们最近买了啥？](https://sspai.com/post/74997)
-* [【2022-08-04】 有无相生，长短相形：Nothing Phone (1) 上手体验](https://sspai.com/post/74925)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2022-08-08】 陕西有哪些国家级历史文化名城值得游玩？](http://www.zhihu.com/question/534757699/answer/2603624766?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-07】 如何评价动画《新秦时明月》第37集？](http://www.zhihu.com/question/547146071/answer/2611887801?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-07】 如何评价雨人Redregan创作的国产漫画《白乐园》以及其他作品？](http://www.zhihu.com/question/515277181/answer/2609837734?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-07】 如何评价白骁编绘的拳击漫画作品《4.9x4.9》?](http://www.zhihu.com/question/518695974/answer/2610832574?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-07】 如何评价国产漫画家核燃黑猫的《魔王全书》以及其他作品？](http://www.zhihu.com/question/515382430/answer/2611600825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-07】 游戏《明日方舟》中有什么好听的配乐？](http://www.zhihu.com/question/545847669/answer/2599514604?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-05】 台湾GDP对大陆的依赖程度究竟有多高，假设处于极端情况，我们能够用哪些经济制裁措施？](http://www.zhihu.com/question/546732404/answer/2610212587?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-04】 汽车做底盘装甲是智商税吗？什么情况建议做，什么情况不用做？](http://www.zhihu.com/question/544552962/answer/2608485373?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-04】 双叉臂悬架和麦弗逊悬架在驾驶感受上有哪些的差异？](http://www.zhihu.com/question/322431971/answer/2602450244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-04】 滑板底盘近来特别火，到底是在炒概念还是真的发展趋势？](http://www.zhihu.com/question/520614454/answer/2602234908?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-04】 空气悬架「又贵又容易坏」，为什么没有被淘汰？](http://www.zhihu.com/question/544751559/answer/2601920649?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-04】 如何评价民俗悬疑AVG游戏《山：临界幸存者》？](http://www.zhihu.com/question/545194401/answer/2592831352?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-04】 如何看待《泡面超人》这本漫画？](http://www.zhihu.com/question/290486411/answer/2609215337?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-03】 如何评价国产动画《毛头的深夜理发店》？](http://www.zhihu.com/question/546532267/answer/2606579839?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-02】 如何评价知音漫客漫画《零班编年史》，为什么现在都很难找得到了？](http://www.zhihu.com/question/278025029/answer/2605507630?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-02】 如何评价 Steam 游戏《晴末置雨》？](http://www.zhihu.com/question/545882212/answer/2605390530?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-08-07 05:13:07
+:alarm_clock: 更新时间: 2022-08-08 05:19:42
