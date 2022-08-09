@@ -258,6 +258,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫步指南（半份）｜愿您在合肥找到「平静」",
+                "link": "https://sspai.com/post/74998",
+                "published": "2022-08-09"
+            },
+            {
+                "title": "派早报：Apple 推送 iOS/iPadOS 16 开发者预览版 Beta 5 等",
+                "link": "https://sspai.com/post/75056",
+                "published": "2022-08-09"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/75051",
+                "published": "2022-08-08"
+            },
+            {
+                "title": "被风吹过的「痛」：关于痛风你可能想要了解这些",
+                "link": "https://sspai.com/post/75049",
+                "published": "2022-08-08"
+            },
+            {
+                "title": "送码 | 一款好用的录屏讲解工具背后的秘密：为什么他们都选择了《芦笋》？",
+                "link": "https://sspai.com/post/74865",
+                "published": "2022-08-08"
+            },
+            {
+                "title": "Steam Deck 半月谈：让 Valve 再一次变酷",
+                "link": "https://sspai.com/post/75032",
+                "published": "2022-08-08"
+            },
+            {
                 "title": "具透 | 更新幅度远超预期——全面分析 iOS 16 版 Books 的新特性",
                 "link": "https://sspai.com/post/75010",
                 "published": "2022-08-08"
@@ -6558,7 +6588,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -37014,6 +37044,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "日首相又找联合国秘书长「告状」称，中方军演事关日本安全保障和国民安全，有哪些信息值得注意？",
+                "link": "http://www.zhihu.com/question/547487669/answer/2617254710?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-09"
+            },
+            {
+                "title": "如何评价《明日方舟》对于小车机械的执念？",
+                "link": "http://www.zhihu.com/question/547315961/answer/2616430213?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-08"
+            },
+            {
+                "title": "如何评价漫画《5秒童话》？",
+                "link": "http://www.zhihu.com/question/27155359/answer/2615381800?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-08"
+            },
+            {
                 "title": "陕西有哪些国家级历史文化名城值得游玩？",
                 "link": "http://www.zhihu.com/question/534757699/answer/2603624766?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-08-08"
@@ -41789,7 +41834,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 4,
