@@ -258,6 +258,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "iOS 16 Beta 5 中值得关注的新特性",
+                "link": "https://sspai.com/post/75075",
+                "published": "2022-08-10"
+            },
+            {
+                "title": "派早报：一加 Ace Pro 发布、阿维塔 11 发售等",
+                "link": "https://sspai.com/post/75072",
+                "published": "2022-08-10"
+            },
+            {
+                "title": "一日一技 | 一个注册表键让微软的录制功能停止歧视苹果设备",
+                "link": "https://sspai.com/post/75019",
+                "published": "2022-08-09"
+            },
+            {
+                "title": "定向运动：集竞速、烧脑、体能、越野为一体的高强度户外运动",
+                "link": "https://sspai.com/post/75052",
+                "published": "2022-08-09"
+            },
+            {
+                "title": "借我一小时，来和 500 人一起在线编程",
+                "link": "https://sspai.com/post/74959",
+                "published": "2022-08-09"
+            },
+            {
                 "title": "城市漫步指南（半份）｜愿您在合肥找到「平静」",
                 "link": "https://sspai.com/post/74998",
                 "published": "2022-08-09"
@@ -6588,7 +6613,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -37043,6 +37068,21 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "预告 | 8月12日，拆车实验室带电来袭，奥迪Q4 e-tron全网首拆！",
+                "link": "http://zhuanlan.zhihu.com/p/551798255?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-10"
+            },
+            {
+                "title": "Unity 宣布成立「Unity中国」合资企业，对游戏行业有哪些影响？",
+                "link": "http://www.zhihu.com/question/547720778/answer/2618332990?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-09"
+            },
+            {
+                "title": "如何评价原 SFC 游戏《LIVE A LIVE（时空勇士）》以及其 Switch 重制？",
+                "link": "http://www.zhihu.com/question/322852465/answer/2616727204?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-09"
+            },
             {
                 "title": "日首相又找联合国秘书长「告状」称，中方军演事关日本安全保障和国民安全，有哪些信息值得注意？",
                 "link": "http://www.zhihu.com/question/547487669/answer/2617254710?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
