@@ -258,6 +258,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "电增电的少数派，极氪 001 使用体验分享",
+                "link": "https://sspai.com/post/75033",
+                "published": "2022-08-11"
+            },
+            {
+                "title": "派早报：三星、OPPO 召开新品发布会，新款 moto razr 售价公布等",
+                "link": "https://sspai.com/post/75095",
+                "published": "2022-08-11"
+            },
+            {
+                "title": "一派·Podcast | 中元特辑：马来异闻和人间轶事",
+                "link": "https://sspai.com/post/75061",
+                "published": "2022-08-10"
+            },
+            {
+                "title": "找到写作者的位置：如何在满足自身创作欲时也让读者满意",
+                "link": "https://sspai.com/post/75067",
+                "published": "2022-08-10"
+            },
+            {
+                "title": "少一点用车的烦恼，多一分出行的便利：MaaS 是什么？",
+                "link": "https://sspai.com/post/74977",
+                "published": "2022-08-10"
+            },
+            {
                 "title": "iOS 16 Beta 5 中值得关注的新特性",
                 "link": "https://sspai.com/post/75075",
                 "published": "2022-08-10"
@@ -37069,6 +37094,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "一级市场变形记",
+                "link": "http://zhuanlan.zhihu.com/p/552489106?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-11"
+            },
+            {
+                "title": "如何评价《崩坏3》7月29日开放的新主线《致爱莉希雅》？",
+                "link": "http://www.zhihu.com/question/545930945/answer/2599984120?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-11"
+            },
+            {
+                "title": "如何评价剧本杀《永不褪色的山楂林》？",
+                "link": "http://www.zhihu.com/question/546528584/answer/2604901998?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-10"
+            },
+            {
+                "title": "如何评价剧本杀《大山》？",
+                "link": "http://www.zhihu.com/question/547076651/answer/2610878484?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-10"
+            },
+            {
+                "title": "如何评价明日方舟官方漫画《罗德岛源石记事——莱茵生命》？",
+                "link": "http://www.zhihu.com/question/541270649/answer/2572054498?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-10"
+            },
+            {
+                "title": "根据《明日方舟》夏活直播中透露的信息，你对全新水月主题集成战略有什么期待？",
+                "link": "http://www.zhihu.com/question/547316567/answer/2618813763?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-10"
+            },
+            {
                 "title": "预告 | 8月12日，拆车实验室带电来袭，奥迪Q4 e-tron全网首拆！",
                 "link": "http://zhuanlan.zhihu.com/p/551798255?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-08-10"
@@ -41874,13 +41929,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 25 期）: QuickRef, Dillinger, Tomodoro, Line Graph Maker, Ava Maker, Gofile, Ventusky",
+                "link": "https://bestxtools.zhubai.love/posts/2169191886840389632",
+                "published": "2022-08-10"
+            },
             {
                 "title": "好工具周刊（第 24 期）: OSS Insight, Active GitHub Forks, Hat.sh, snappify, Purple Photo, stooge, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2166817480273465344",
@@ -42007,6 +42067,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
