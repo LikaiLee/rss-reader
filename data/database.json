@@ -263,6 +263,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App +1 | 给你的播客加上章节——Podcast Chapter 使用体验",
+                "link": "https://sspai.com/post/75079",
+                "published": "2022-08-14"
+            },
+            {
+                "title": "你的日子有几种过法？聊聊日历应用中的阳历与阴历",
+                "link": "https://sspai.com/post/75137",
+                "published": "2022-08-13"
+            },
+            {
+                "title": "App+1｜DailyBean 日记说：你的所有小事，都值得铭记",
+                "link": "https://sspai.com/post/75093",
+                "published": "2022-08-13"
+            },
+            {
                 "title": "派周报 | 本周会员内容提要；跑题：扎网恢恢",
                 "link": "https://sspai.com/prime/story/pi-weekly-004",
                 "published": "2022-08-12"
@@ -6693,7 +6708,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -42044,7 +42059,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 0
     },
     {
         "id": 4,

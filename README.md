@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+8】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2022-08-14】 App +1 | 给你的播客加上章节——Podcast Chapter 使用体验](https://sspai.com/post/75079)
+* [【2022-08-13】 你的日子有几种过法？聊聊日历应用中的阳历与阴历](https://sspai.com/post/75137)
+* [【2022-08-13】 App+1｜DailyBean 日记说：你的所有小事，都值得铭记](https://sspai.com/post/75093)
 * [【2022-08-12】 派周报 | 本周会员内容提要；跑题：扎网恢恢](https://sspai.com/prime/story/pi-weekly-004)
 * [【2022-08-12】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/75122)
 * [【2022-08-12】 文科博士生的数字文具盒：这一年里我真正在用的那些 App](https://sspai.com/post/75111)
@@ -42,9 +45,6 @@
 * [【2022-08-12】 以徕卡相机而闻名的徕卡，到底是一家什么样的厂商](https://sspai.com/post/74124)
 * [【2022-08-12】 派早报：小米新品发布会、微软宣布开源超 1500 款 3D Emoji 等](https://sspai.com/post/75115)
 * [【2022-08-11】 新玩意 116｜少数派的作者们最近买了啥？](https://sspai.com/post/75102)
-* [【2022-08-11】 依然是最佳密码管理器选择之一，1Password 8 这次却让我有点失望](https://sspai.com/post/75104)
-* [【2022-08-11】 掌握这些设置技巧，让 Edge 浏览器的体验更干净](https://sspai.com/post/75083)
-* [【2022-08-10】 一派·Podcast | 中元节特辑：马来西亚异闻和人间奇妙轶事](https://sspai.com/post/75061)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-08-13 05:13:13
+:alarm_clock: 更新时间: 2022-08-14 05:14:45
