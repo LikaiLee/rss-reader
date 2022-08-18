@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+7】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-08-18】 最好看的 Q1！少数派 Keychron 联名 Q1 键盘体验+改造](https://sspai.com/post/75188)
+* [【2022-08-18】 派早报：黑鲨 5 高能版发布、英特尔推出 NUC 12 Pro 等](https://sspai.com/post/75213)
+* [【2022-08-17】 这是我们迈出的一大步：少数派「面向 Z 世代的家」线下活动回顾](https://sspai.com/post/75192)
+* [【2022-08-17】 一派 | 编辑部都用什么 app 看天气？](https://sspai.com/post/75189)
+* [【2022-08-17】 新人律师需要掌握哪些方法论与技巧？](https://sspai.com/post/75186)
 * [【2022-08-17】 特别直播｜少数派会员第二季都有哪些「新意」？](https://sspai.com/post/74940)
 * [【2022-08-17】 谈谈我的数字文具「盒」：如何围绕 Mac 桌面构建简易数字化工作流程](https://sspai.com/post/75146)
 * [【2022-08-17】 派早报：文石发布 BOOX Tab8 平板、微星发布 Prestige 16 笔记本等](https://sspai.com/post/75183)
 * [【2022-08-16】 应用内浏览器瞒天过海，苹果的隐私策略被 Instagram「扎」破了吗？](https://sspai.com/post/75176)
 * [【2022-08-16】 绽放在桌面的英雄梦，6 寸美漫可动人偶入坑指南](https://sspai.com/prime/story/doll-and-your-hero-dream)
-* [【2022-08-16】 城市漫步指南：风物长宜放眼量，坐参禅意望佛山](https://sspai.com/post/75110)
-* [【2022-08-16】 基因组学数据科学双专业学生拯救知识点记不住：本科生学习工作流](https://sspai.com/post/75145)
-* [【2022-08-16】 派早报：iOS 16 beta 6 开始推送、Android 13 开始推送等](https://sspai.com/post/75171)
-* [【2022-08-15】 派评 | 近期值得关注的 App](https://sspai.com/post/75164)
-* [【2022-08-15】 一日一技 | 如何快速上手注音输入法](https://sspai.com/post/75103)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2022-08-18】 宁德时代为什么要选择在匈牙利建厂，匈牙利有什么独特的产业优势吗？](http://www.zhihu.com/question/548456761/answer/2630818125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-18】 8 月 13 日乌鲁木齐 101 中在高中篮球联赛淘汰清华附中，如何评价乌鲁木齐 101 中的表现？](http://www.zhihu.com/question/548326889/answer/2632333370?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-18】 知乎出品邀你开启追综热聊模式，十万创作奖金等你来拿！](http://zhuanlan.zhihu.com/p/551556185?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-17】 如何评价动画电影《深海》在 8 月 17 日的放出首支预告片，你有什么期待？](http://www.zhihu.com/question/548783611/answer/2630971384?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-17】 你看过最治愈的视频是什么？](http://www.zhihu.com/question/286525154/answer/2629903710?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-17】 如何评价《明日方舟》保全派驻新关卡「格里布采矿平台」？](http://www.zhihu.com/question/548737601/answer/2630917265?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-17】 一瓶500ml的啤酒里面大概有多少糖?](http://www.zhihu.com/question/536063717/answer/2629261287?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-17】 如何评价手机游戏《你已经猜到结局了吗》？](http://www.zhihu.com/question/481172877/answer/2630198672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-16】 新手准备去玩剧本杀，可以给一些建议或科普吗？](http://www.zhihu.com/question/546843772/answer/2629927943?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-16】 如何评价动画《新秦时明月》第38集？](http://www.zhihu.com/question/547789108/answer/2621591094?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-16】 如何评价国漫《手机少年》？](http://www.zhihu.com/question/39229413/answer/2621472713?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-16】 如何看待剧本杀定价逐渐升高，城限/独家本甚至赶超密室逃脱的价格，未来会产生何种影响?](http://www.zhihu.com/question/542960255/answer/2627641378?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-16】 假如能回到初入职场的时候，你最想对当时的自己说点什么？](http://www.zhihu.com/question/548490633/answer/2629097983?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-16】 如何评价《明日方舟》2022 年 8 月开放的测试小游戏「博士行为测试」？](http://www.zhihu.com/question/548513490/answer/2628795593?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-16】 量化的职业发展简介](http://zhuanlan.zhihu.com/p/553758119?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-15】 虚幻4灯光拼多多练习12附上期点评](http://zhuanlan.zhihu.com/p/377044268?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-15】 如何评价 Unreal Engine 5 Early-Access?](http://www.zhihu.com/question/461580449/answer/1909345506?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-08-17 05:38:37
+:alarm_clock: 更新时间: 2022-08-18 05:32:54
