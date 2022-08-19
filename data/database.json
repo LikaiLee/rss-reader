@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 219 期）：如何防止帐号被黑",
+                "link": "http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html",
+                "published": "2022-08-19"
+            },
+            {
                 "title": "科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖",
                 "link": "http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html",
                 "published": "2022-08-12"
@@ -255,13 +260,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "游牧教室的数字文具盒：主体为本，舒适第一",
+                "link": "https://sspai.com/post/75159",
+                "published": "2022-08-19"
+            },
+            {
+                "title": "派早报：联想新品发布会、Windows 11 小部件现在可以在任务栏触发通知",
+                "link": "https://sspai.com/post/75230",
+                "published": "2022-08-19"
+            },
+            {
+                "title": "弧光未照明路，新衣难解旧愁——评 Arc 浏览器",
+                "link": "https://sspai.com/post/75216",
+                "published": "2022-08-18"
+            },
+            {
+                "title": "让移动游戏越来越「好玩」的秘密：我们与 4 位游戏制作团队聊了聊",
+                "link": "https://sspai.com/post/75175",
+                "published": "2022-08-18"
+            },
+            {
+                "title": "城市漫步指南：如果故宫是一座围城",
+                "link": "https://sspai.com/post/72464",
+                "published": "2022-08-18"
+            },
+            {
+                "title": "CalDigit TS4 评测：如何用一根雷电 4 线驱动 2 块最高规格的 XDR？",
+                "link": "https://sspai.com/post/75166",
+                "published": "2022-08-18"
+            },
             {
                 "title": "最好看的 Q1！少数派 Keychron 联名 Q1 键盘体验+改造",
                 "link": "https://sspai.com/post/75188",
@@ -6803,7 +6838,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -37259,6 +37294,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价动画《新秦时明月》第39集(大结局）？",
+                "link": "http://www.zhihu.com/question/549067271/answer/2634280313?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-19"
+            },
+            {
+                "title": "一键清仓中概互联",
+                "link": "http://zhuanlan.zhihu.com/p/554871686?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-18"
+            },
+            {
+                "title": "多地出现热射病死亡病例，热射病是什么？我们应当如何预防？",
+                "link": "http://www.zhihu.com/question/543250289/answer/2581172697?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-18"
+            },
+            {
                 "title": "宁德时代为什么要选择在匈牙利建厂，匈牙利有什么独特的产业优势吗？",
                 "link": "http://www.zhihu.com/question/548456761/answer/2630818125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-08-18"
@@ -42289,13 +42339,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 3
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 26 期）: Kludd, Koodo Reader, 画图本, Uchinoko Maker, 反向词典, nbnhhsh (能不能好好说话)",
+                "link": "https://bestxtools.zhubai.love/posts/2171964393314566144",
+                "published": "2022-08-18"
+            },
             {
                 "title": "好工具周刊（第 25 期）: QuickRef, Dillinger, Tomodoro, Line Graph Maker, Ava Maker, Gofile, Ventusky",
                 "link": "https://bestxtools.zhubai.love/posts/2169191886840389632",
@@ -42427,6 +42482,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
