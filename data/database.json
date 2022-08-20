@@ -260,13 +260,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "重新认识拼音与发音：聊聊汉语拼音与注音符号方案的差异",
+                "link": "https://sspai.com/post/75248",
+                "published": "2022-08-20"
+            },
+            {
+                "title": "派周报 | 本周会员内容提要；跑题：小处不可随便",
+                "link": "https://sspai.com/prime/story/pi-weekly-005",
+                "published": "2022-08-19"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 6 部作品",
+                "link": "https://sspai.com/post/75245",
+                "published": "2022-08-19"
+            },
+            {
+                "title": "一日一技 | 从这些记忆技巧开始，你也能学会注音输入法",
+                "link": "https://sspai.com/post/75244",
+                "published": "2022-08-19"
+            },
+            {
+                "title": "苹果与游戏开发者之间的黑盒",
+                "link": "https://sspai.com/post/75219",
+                "published": "2022-08-19"
+            },
             {
                 "title": "游牧教室的数字文具盒：主体为本，舒适第一",
                 "link": "https://sspai.com/post/75159",
@@ -6838,7 +6863,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -37294,6 +37319,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "电动汽车对轮胎设计有什么不一样的需求？",
+                "link": "http://www.zhihu.com/question/321598145/answer/2632625075?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-19"
+            },
+            {
+                "title": "线控底盘技术会成为汽车行业里的「标配」吗？安全性如何保证？",
+                "link": "http://www.zhihu.com/question/498205340/answer/2603161485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-19"
+            },
+            {
+                "title": "为什么车开久了底盘会松散？会有异响?",
+                "link": "http://www.zhihu.com/question/543816084/answer/2623691591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-19"
+            },
+            {
+                "title": "氪金抽卡机制多久才会被明令禁止？",
+                "link": "http://www.zhihu.com/question/427907303/answer/1571507830?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-19"
+            },
+            {
+                "title": "当务之急是及时缓解房地产行业现金流压力",
+                "link": "http://zhuanlan.zhihu.com/p/555068953?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-19"
+            },
+            {
                 "title": "如何评价动画《新秦时明月》第39集(大结局）？",
                 "link": "http://www.zhihu.com/question/549067271/answer/2634280313?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-08-19"
@@ -42339,7 +42389,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 4,
@@ -42482,6 +42532,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+5】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-08-20】 重新认识拼音与发音：聊聊汉语拼音与注音符号方案的差异](https://sspai.com/post/75248)
+* [【2022-08-19】 派周报 | 本周会员内容提要；跑题：小处不可随便](https://sspai.com/prime/story/pi-weekly-005)
+* [【2022-08-19】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75245)
+* [【2022-08-19】 一日一技 | 从这些记忆技巧开始，你也能学会注音输入法](https://sspai.com/post/75244)
+* [【2022-08-19】 苹果与游戏开发者之间的黑盒](https://sspai.com/post/75219)
 * [【2022-08-19】 游牧教室的数字文具盒：主体为本，舒适第一](https://sspai.com/post/75159)
 * [【2022-08-19】 派早报：联想新品发布会、Windows 11 小部件现在可以在任务栏触发通知](https://sspai.com/post/75230)
 * [【2022-08-18】 弧光未照明路，新衣难解旧愁——评 Arc 浏览器](https://sspai.com/post/75216)
 * [【2022-08-18】 让移动游戏越来越「好玩」的秘密：我们与 4 位游戏制作团队聊了聊](https://sspai.com/post/75175)
 * [【2022-08-18】 城市漫步指南：如果故宫是一座围城](https://sspai.com/post/72464)
-* [【2022-08-18】 CalDigit TS4 评测：如何用一根雷电 4 线驱动 2 块最高规格的 XDR？](https://sspai.com/post/75166)
-* [【2022-08-18】 最好看的 Q1！少数派 Keychron 联名 Q1 键盘体验+改造](https://sspai.com/post/75188)
-* [【2022-08-18】 派早报：黑鲨 5 高能版发布、英特尔推出 NUC 12 Pro 等](https://sspai.com/post/75213)
-* [【2022-08-17】 这是我们迈出的一大步：少数派「面向 Z 世代的家」线下活动回顾](https://sspai.com/post/75192)
-* [【2022-08-17】 一派 | 编辑部都用什么 app 看天气？](https://sspai.com/post/75189)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2022-08-19】 电动汽车对轮胎设计有什么不一样的需求？](http://www.zhihu.com/question/321598145/answer/2632625075?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-19】 线控底盘技术会成为汽车行业里的「标配」吗？安全性如何保证？](http://www.zhihu.com/question/498205340/answer/2603161485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-19】 为什么车开久了底盘会松散？会有异响?](http://www.zhihu.com/question/543816084/answer/2623691591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-19】 氪金抽卡机制多久才会被明令禁止？](http://www.zhihu.com/question/427907303/answer/1571507830?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-19】 当务之急是及时缓解房地产行业现金流压力](http://zhuanlan.zhihu.com/p/555068953?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-19】 如何评价动画《新秦时明月》第39集(大结局）？](http://www.zhihu.com/question/549067271/answer/2634280313?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-18】 一键清仓中概互联](http://zhuanlan.zhihu.com/p/554871686?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-18】 多地出现热射病死亡病例，热射病是什么？我们应当如何预防？](http://www.zhihu.com/question/543250289/answer/2581172697?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-18】 宁德时代为什么要选择在匈牙利建厂，匈牙利有什么独特的产业优势吗？](http://www.zhihu.com/question/548456761/answer/2630818125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-18】 8 月 13 日乌鲁木齐 101 中在高中篮球联赛淘汰清华附中，如何评价乌鲁木齐 101 中的表现？](http://www.zhihu.com/question/548326889/answer/2632333370?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-18】 知乎出品邀你开启追综热聊模式，十万创作奖金等你来拿！](http://zhuanlan.zhihu.com/p/551556185?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-17】 如何评价动画电影《深海》在 8 月 17 日的放出首支预告片，你有什么期待？](http://www.zhihu.com/question/548783611/answer/2630971384?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-17】 你看过最治愈的视频是什么？](http://www.zhihu.com/question/286525154/answer/2629903710?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-17】 如何评价《明日方舟》保全派驻新关卡「格里布采矿平台」？](http://www.zhihu.com/question/548737601/answer/2630917265?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-17】 一瓶500ml的啤酒里面大概有多少糖?](http://www.zhihu.com/question/536063717/answer/2629261287?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-08-19 05:25:12
+:alarm_clock: 更新时间: 2022-08-20 05:16:27
