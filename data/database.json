@@ -268,6 +268,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "数字文具盒 | 我的知识加工厂——拒绝搬运",
+                "link": "https://sspai.com/post/75264",
+                "published": "2022-08-22"
+            },
+            {
+                "title": "派早报：扎克伯格回应受嘲元宇宙自拍；AirPower 操作视频展示原型机细节等",
+                "link": "https://sspai.com/post/75274",
+                "published": "2022-08-22"
+            },
+            {
+                "title": "升级也要图个明白：8000 字详解 Android 13 正式版的 9 个新变化",
+                "link": "https://sspai.com/post/75272",
+                "published": "2022-08-21"
+            },
+            {
                 "title": "一派·Podcast | 老麦——花十年时间，找到自己热爱",
                 "link": "https://sspai.com/post/75252",
                 "published": "2022-08-21"
@@ -6873,7 +6888,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -37328,6 +37343,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "如何评价 AVG 游戏《葬花·暗黑桃花源》的 DLC《葬花：折镜之蝶》？",
+                "link": "http://www.zhihu.com/question/548806947/answer/2636664519?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-22"
+            },
             {
                 "title": "坦克世界里有哪些圈内术语、黑话？",
                 "link": "http://www.zhihu.com/question/264986903/answer/2635199797?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
