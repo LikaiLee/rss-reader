@@ -268,6 +268,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "短播客是播客的未来吗？",
+                "link": "https://sspai.com/post/75269",
+                "published": "2022-08-23"
+            },
+            {
+                "title": "派早报：抖音开始测试「发文助手」、沙特批准微软收购动视暴雪等",
+                "link": "https://sspai.com/post/75306",
+                "published": "2022-08-23"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/75296",
+                "published": "2022-08-22"
+            },
+            {
+                "title": "药不能停的方法有几种：9 款服药 app 横评",
+                "link": "https://sspai.com/post/75293",
+                "published": "2022-08-22"
+            },
+            {
+                "title": "给你的进度添点态度：如何使用 Notion 的原生进度条？",
+                "link": "https://sspai.com/post/75271",
+                "published": "2022-08-22"
+            },
+            {
                 "title": "数字文具盒 | 我的知识加工厂——拒绝搬运",
                 "link": "https://sspai.com/post/75264",
                 "published": "2022-08-22"
@@ -6888,7 +6913,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -37344,6 +37369,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "7月美联储会议纪要",
+                "link": "http://zhuanlan.zhihu.com/p/556152757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-23"
+            },
+            {
+                "title": "《黑神话：悟空》8 月 20 日实机剧情片段与 GeForce 独家实机试玩中，有哪些值得关注的信息？",
+                "link": "http://www.zhihu.com/question/549196095/answer/2637716419?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-22"
+            },
+            {
+                "title": "暗黑破坏神1-3(暗黑2为主）究竟讲了一个什么故事",
+                "link": "http://zhuanlan.zhihu.com/p/556003099?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-22"
+            },
+            {
+                "title": "如何评价游戏《信长之野望：新生》?",
+                "link": "http://www.zhihu.com/question/451730539/answer/2639566370?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-22"
+            },
+            {
                 "title": "如何评价 AVG 游戏《葬花·暗黑桃花源》的 DLC《葬花：折镜之蝶》？",
                 "link": "http://www.zhihu.com/question/548806947/answer/2636664519?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-08-22"
@@ -42424,7 +42469,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 4,
