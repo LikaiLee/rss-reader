@@ -268,6 +268,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Matrix Talk | 咖啡馆 or 自己家，你会选择在哪里写作",
+                "link": "https://sspai.com/post/75328",
+                "published": "2022-08-25"
+            },
+            {
+                "title": "派早报：Apple 或将直接推出 iPadOS 16.1、索尼发布新款游戏手柄等",
+                "link": "https://sspai.com/post/75347",
+                "published": "2022-08-25"
+            },
+            {
+                "title": "付费栏目开学季促销开启: 重磅上新，限时折扣，还有免费加更",
+                "link": "https://sspai.com/post/75334",
+                "published": "2022-08-24"
+            },
+            {
+                "title": "经验就是力量，用二十余年的科研经验带你入门学术写作",
+                "link": "https://sspai.com/post/75332",
+                "published": "2022-08-24"
+            },
+            {
+                "title": "一款脑洞大开的「神作」，我的 2021 年度游戏：脑航员 2",
+                "link": "https://sspai.com/post/75331",
+                "published": "2022-08-24"
+            },
+            {
+                "title": "记派友的一次求婚",
+                "link": "https://sspai.com/prime/story/witnessing-a-proposal",
+                "published": "2022-08-24"
+            },
+            {
                 "title": "抛弃知识管理软件的尝试：把博客变为知识库",
                 "link": "https://sspai.com/post/75329",
                 "published": "2022-08-24"
@@ -6938,7 +6968,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -37394,6 +37424,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "玩真人密室逃脱有什么诀窍吗？",
+                "link": "http://www.zhihu.com/question/26481374/answer/2644128970?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-25"
+            },
+            {
+                "title": "一篇攻略带你游遍泉州：乘风破浪姐姐的爱乐之城",
+                "link": "http://zhuanlan.zhihu.com/p/329673745?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-24"
+            },
+            {
                 "title": "你有过哪些有意思的旅游经历？",
                 "link": "http://www.zhihu.com/question/24612119/answer/46969025?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-08-24"
@@ -42499,7 +42539,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
