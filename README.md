@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+2】
-* [好工具周刊](#好工具周刊)
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-08-26】 科技爱好者周刊（第 220 期）：人工智能的机会在哪里](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)
 * [【2022-08-19】 科技爱好者周刊（第 219 期）：如何防止帐号被黑](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)
 * [【2022-08-12】 科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)
 * [【2022-08-05】 科技爱好者周刊（第 217 期）：沙特的新未来城](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)
@@ -25,7 +26,6 @@
 * [【2022-07-22】 科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)
 * [【2022-07-14】 科技爱好者周刊（第 214 期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)
 * [【2022-07-08】 科技爱好者周刊（第 213 期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)
-* [【2022-07-01】 科技爱好者周刊（第 212 期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-08-26】 一日一技 | 没有满意的 Obsidian 外观？不如自己动手做一个](https://sspai.com/post/75363)
+* [【2022-08-26】 派早报：iQOO 发布 Z6 系列手机、大疆发布无人机新品 DJI Avata](https://sspai.com/post/75369)
+* [【2022-08-25】 新玩意 117｜少数派的编辑们最近买了啥？](https://sspai.com/post/75357)
+* [【2022-08-25】 甜味剂解密 2：关于代糖的几点迷思](https://sspai.com/post/75350)
+* [【2022-08-25】 一日一技 | WSA 定制安装，找回你需要的 Google 服务和 Magisk](https://sspai.com/post/75351)
 * [【2022-08-25】 Matrix Talk | 咖啡馆 or 自己家，你会选择在哪里写作](https://sspai.com/post/75328)
 * [【2022-08-25】 派早报：Apple 或将直接推出 iPadOS 16.1、索尼发布新款游戏手柄等](https://sspai.com/post/75347)
 * [【2022-08-24】 付费栏目开学季促销开启: 重磅上新，限时折扣，还有免费加更](https://sspai.com/post/75334)
 * [【2022-08-24】 经验就是力量，用二十余年的科研经验带你入门学术写作](https://sspai.com/post/75332)
 * [【2022-08-24】 一款脑洞大开的「神作」，我的 2021 年度游戏：脑航员 2](https://sspai.com/post/75331)
-* [【2022-08-24】 记派友的一次求婚](https://sspai.com/prime/story/witnessing-a-proposal)
-* [【2022-08-24】 抛弃知识管理软件的尝试：把博客变为知识库](https://sspai.com/post/75329)
-* [【2022-08-24】 派早报：Nreal 中国推出两款 AR 眼镜、Apple 自助维修计划拓展至笔记本电脑等](https://sspai.com/post/75326)
-* [【2022-08-23】 不读可以先收藏 14：本月值得一读的 6 篇好文](https://sspai.com/post/75317)
-* [【2022-08-23】 本月玩什么 | 双点校园、灵魂骇客 2、咩咩启示录、酷极轮滑](https://sspai.com/post/75301)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-08-26】 如何评价大宇出品的中式惊悚游戏《女鬼桥 开魂路》？](http://www.zhihu.com/question/549659151/answer/2645020171?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-25】 什么是行为金融学，这门学科的支柱理论是什么？](http://www.zhihu.com/question/35839533/answer/1039918399?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-25】 玩真人密室逃脱有什么诀窍吗？](http://www.zhihu.com/question/26481374/answer/2644128970?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-24】 一篇攻略带你游遍泉州：乘风破浪姐姐的爱乐之城](http://zhuanlan.zhihu.com/p/329673745?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-24】 你有过哪些有意思的旅游经历？](http://www.zhihu.com/question/24612119/answer/46969025?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-08-22】 暗黑破坏神1-3(暗黑2为主）究竟讲了一个什么故事](http://zhuanlan.zhihu.com/p/556003099?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-22】 如何评价游戏《信长之野望：新生》?](http://www.zhihu.com/question/451730539/answer/2639566370?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-22】 如何评价 AVG 游戏《葬花·暗黑桃花源》的 DLC《葬花：折镜之蝶》？](http://www.zhihu.com/question/548806947/answer/2636664519?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-20】 坦克世界里有哪些圈内术语、黑话？](http://www.zhihu.com/question/264986903/answer/2635199797?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-19】 电动汽车对轮胎设计有什么不一样的需求？](http://www.zhihu.com/question/321598145/answer/2632625075?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-08-25】 好工具周刊（第 27 期）: BgSub, Txtmoji, Slickr, Moodly, Windy, 一起听播客, 图形方格纸](https://bestxtools.zhubai.love/posts/2174508953806163968)
 * [【2022-08-18】 好工具周刊（第 26 期）: Kludd, Koodo Reader, 画图本, Uchinoko Maker, 反向词典, nbnhhsh (能不能好好说话)](https://bestxtools.zhubai.love/posts/2171964393314566144)
 * [【2022-08-10】 好工具周刊（第 25 期）: QuickRef, Dillinger, Tomodoro, Line Graph Maker, Ava Maker, Gofile, Ventusky](https://bestxtools.zhubai.love/posts/2169191886840389632)
 * [【2022-08-04】 好工具周刊（第 24 期）: OSS Insight, Active GitHub Forks, Hat.sh, snappify, Purple Photo, stooge, ...](https://bestxtools.zhubai.love/posts/2166817480273465344)
@@ -101,7 +102,6 @@
 * [【2022-07-07】 好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, Star Charts, LetsMarkdown, ui-color](https://bestxtools.zhubai.love/posts/2156659650731491328)
 * [【2022-06-30】 好工具周刊（第 19 期）: Remover.app, Enpuz, regex101, Regexper, Stormah, fffuel, Hovercode](https://bestxtools.zhubai.love/posts/2154116824852905984)
 * [【2022-06-23】 好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, Flex Box Adventure, ...](https://bestxtools.zhubai.love/posts/2151574254901452800)
-* [【2022-06-16】 好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, Colorsandfonts, ...](https://bestxtools.zhubai.love/posts/2149044131228536832)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-08-25 05:52:03
+:alarm_clock: 更新时间: 2022-08-26 05:56:57
