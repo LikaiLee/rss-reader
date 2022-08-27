@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选)
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-08-27】 我是如何在 Notion 中运用 PARA 模型来整理第二大脑](https://sspai.com/post/74753)
+* [【2022-08-26】 派周报 | 本周会员内容提要；跑题：啁啾哨音](https://sspai.com/prime/story/pi-weekly-006)
+* [【2022-08-26】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/75382)
+* [【2022-08-26】 找出歌名，让歌出名：来头不小的 Shazam 是怎么来的？](https://sspai.com/post/75362)
+* [【2022-08-26】 一派·Podcast | 一场设计梦，做了十余年](https://sspai.com/post/75359)
 * [【2022-08-26】 一日一技 | 没有满意的 Obsidian 外观？不如自己动手做一个](https://sspai.com/post/75363)
 * [【2022-08-26】 派早报：iQOO 发布 Z6 系列手机、大疆发布无人机新品 DJI Avata](https://sspai.com/post/75369)
 * [【2022-08-25】 新玩意 117｜少数派的编辑们最近买了啥？](https://sspai.com/post/75357)
 * [【2022-08-25】 甜味剂解密 2：关于代糖的几点迷思](https://sspai.com/post/75350)
 * [【2022-08-25】 一日一技 | WSA 定制安装，找回你需要的 Google 服务和 Magisk](https://sspai.com/post/75351)
-* [【2022-08-25】 Matrix Talk | 咖啡馆 or 自己家，你会选择在哪里写作](https://sspai.com/post/75328)
-* [【2022-08-25】 派早报：Apple 或将直接推出 iPadOS 16.1、索尼发布新款游戏手柄等](https://sspai.com/post/75347)
-* [【2022-08-24】 付费栏目开学季促销开启: 重磅上新，限时折扣，还有免费加更](https://sspai.com/post/75334)
-* [【2022-08-24】 经验就是力量，用二十余年的科研经验带你入门学术写作](https://sspai.com/post/75332)
-* [【2022-08-24】 一款脑洞大开的「神作」，我的 2021 年度游戏：脑航员 2](https://sspai.com/post/75331)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-08-26 05:56:57
+:alarm_clock: 更新时间: 2022-08-27 05:27:53

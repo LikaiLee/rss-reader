@@ -265,13 +265,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "我是如何在 Notion 中运用 PARA 模型来整理第二大脑",
+                "link": "https://sspai.com/post/74753",
+                "published": "2022-08-27"
+            },
+            {
+                "title": "派周报 | 本周会员内容提要；跑题：啁啾哨音",
+                "link": "https://sspai.com/prime/story/pi-weekly-006",
+                "published": "2022-08-26"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/75382",
+                "published": "2022-08-26"
+            },
+            {
+                "title": "找出歌名，让歌出名：来头不小的 Shazam 是怎么来的？",
+                "link": "https://sspai.com/post/75362",
+                "published": "2022-08-26"
+            },
+            {
+                "title": "一派·Podcast | 一场设计梦，做了十余年",
+                "link": "https://sspai.com/post/75359",
+                "published": "2022-08-26"
+            },
             {
                 "title": "一日一技 | 没有满意的 Obsidian 外观？不如自己动手做一个",
                 "link": "https://sspai.com/post/75363",
@@ -42579,7 +42604,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
@@ -42727,6 +42752,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
