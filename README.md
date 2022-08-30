@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+6】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-08-30】 现实的伤，在游戏里得到治愈——谈谈《光遇》玩家现状](https://sspai.com/post/75397)
+* [【2022-08-30】 周边新品 | 我们做了一款能玩又能用的「赛獭」野餐垫](https://sspai.com/post/75425)
+* [【2022-08-30】 派早报：AMD 举办 7000 系处理器发布会，《冒险岛 2》将停服](https://sspai.com/post/75431)
+* [【2022-08-29】 派评 | 近期值得关注的 App](https://sspai.com/post/75429)
+* [【2022-08-29】 给更年期的妈妈多一点爱：我们该懂什么、能做什么](https://sspai.com/post/75419)
+* [【2022-08-29】 挑台二手机，体验原生味：银河系 Google Pixel 漫游指南](https://sspai.com/post/75385)
 * [【2022-08-29】 我与 Flomo 的半年：不徐不疾，爱上记录](https://sspai.com/post/74904)
 * [【2022-08-29】 派早报：SpaceX 合作提供手机卫星连接服务，LastPass 承认源码被窃等](https://sspai.com/post/75400)
 * [【2022-08-28】 [送码] 更完善的中文拼音搜索体验：效率启动器 HapiGO 带来多项更新](https://sspai.com/post/75346)
 * [【2022-08-28】 从「整理」来讲日式美学及生活之道](https://sspai.com/post/74764)
-* [【2022-08-27】 忏悔 24 小时——关于微信被封禁，我想告诉你这些](https://sspai.com/post/75353)
-* [【2022-08-27】 我是如何在 Notion 中运用 PARA 模型来整理第二大脑](https://sspai.com/post/74753)
-* [【2022-08-26】 派周报 | 本周会员内容提要；跑题：啁啾哨音](https://sspai.com/prime/story/pi-weekly-006)
-* [【2022-08-26】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/75382)
-* [【2022-08-26】 找出歌名，让歌出名：来头不小的 Shazam 是怎么来的？](https://sspai.com/post/75362)
-* [【2022-08-26】 一派·Podcast | 一场设计梦，做了十余年](https://sspai.com/post/75359)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2022-08-30】 哪个技术路线代表动力电池的未来？](http://www.zhihu.com/question/264888419/answer/2652124361?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-30】 目前磷酸铁锂电池能量密度是否己经到了技术极限？未来还有发展空间吗？](http://www.zhihu.com/question/532638462/answer/2652030563?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-30】 设计回合制战棋类游戏的棋盘时，正方形的地图和六角形地图各有哪些优劣？](http://www.zhihu.com/question/53428327/answer/2597348774?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-29】 目前主流车企都使用的哪些车机芯片和智能驾驶芯片？](http://www.zhihu.com/question/462757332/answer/2650888340?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-29】 自动驾驶大时代智能座舱会有什么样新的发展趋势？](http://www.zhihu.com/question/401680193/answer/2651174790?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-08-29】 在未来，终极智能座舱应该是什么样的？](http://www.zhihu.com/question/515185119/answer/2651191979?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-29】 你知道哪些京剧里面惊艳四座的戏词？](http://www.zhihu.com/question/488377476/answer/2598430350?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-28】 95 后女生因染粉红色头发被网暴，当事人称生活受到严重影响，准备起诉网暴者，如何看待此事？](http://www.zhihu.com/question/545531331/answer/2596182125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-27】 为什么吃东西时会感觉第一口最好吃？](http://www.zhihu.com/question/20969272/answer/2648078614?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-08-26】 如何评价大宇出品的中式惊悚游戏《女鬼桥 开魂路》？](http://www.zhihu.com/question/549659151/answer/2645020171?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-25】 什么是行为金融学，这门学科的支柱理论是什么？](http://www.zhihu.com/question/35839533/answer/1039918399?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-25】 玩真人密室逃脱有什么诀窍吗？](http://www.zhihu.com/question/26481374/answer/2644128970?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-24】 一篇攻略带你游遍泉州：乘风破浪姐姐的爱乐之城](http://zhuanlan.zhihu.com/p/329673745?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-24】 你有过哪些有意思的旅游经历？](http://www.zhihu.com/question/24612119/answer/46969025?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-23】 7月美联储会议纪要](http://zhuanlan.zhihu.com/p/556152757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-08-22】 《黑神话：悟空》8 月 20 日实机剧情片段与 GeForce 独家实机试玩中，有哪些值得关注的信息？](http://www.zhihu.com/question/549196095/answer/2637716419?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-08-29 06:05:04
+:alarm_clock: 更新时间: 2022-08-30 06:10:02

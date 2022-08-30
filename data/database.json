@@ -273,6 +273,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "现实的伤，在游戏里得到治愈——谈谈《光遇》玩家现状",
+                "link": "https://sspai.com/post/75397",
+                "published": "2022-08-30"
+            },
+            {
+                "title": "周边新品 | 我们做了一款能玩又能用的「赛獭」野餐垫",
+                "link": "https://sspai.com/post/75425",
+                "published": "2022-08-30"
+            },
+            {
+                "title": "派早报：AMD 举办 7000 系处理器发布会，《冒险岛 2》将停服",
+                "link": "https://sspai.com/post/75431",
+                "published": "2022-08-30"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/75429",
+                "published": "2022-08-29"
+            },
+            {
+                "title": "给更年期的妈妈多一点爱：我们该懂什么、能做什么",
+                "link": "https://sspai.com/post/75419",
+                "published": "2022-08-29"
+            },
+            {
+                "title": "挑台二手机，体验原生味：银河系 Google Pixel 漫游指南",
+                "link": "https://sspai.com/post/75385",
+                "published": "2022-08-29"
+            },
+            {
                 "title": "我与 Flomo 的半年：不徐不疾，爱上记录",
                 "link": "https://sspai.com/post/74904",
                 "published": "2022-08-29"
@@ -7048,7 +7078,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -37504,6 +37534,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "哪个技术路线代表动力电池的未来？",
+                "link": "http://www.zhihu.com/question/264888419/answer/2652124361?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-30"
+            },
+            {
+                "title": "目前磷酸铁锂电池能量密度是否己经到了技术极限？未来还有发展空间吗？",
+                "link": "http://www.zhihu.com/question/532638462/answer/2652030563?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-30"
+            },
+            {
+                "title": "设计回合制战棋类游戏的棋盘时，正方形的地图和六角形地图各有哪些优劣？",
+                "link": "http://www.zhihu.com/question/53428327/answer/2597348774?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-30"
+            },
+            {
+                "title": "目前主流车企都使用的哪些车机芯片和智能驾驶芯片？",
+                "link": "http://www.zhihu.com/question/462757332/answer/2650888340?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-29"
+            },
+            {
+                "title": "自动驾驶大时代智能座舱会有什么样新的发展趋势？",
+                "link": "http://www.zhihu.com/question/401680193/answer/2651174790?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-29"
+            },
+            {
+                "title": "在未来，终极智能座舱应该是什么样的？",
+                "link": "http://www.zhihu.com/question/515185119/answer/2651191979?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-29"
+            },
+            {
                 "title": "你知道哪些京剧里面惊艳四座的戏词？",
                 "link": "http://www.zhihu.com/question/488377476/answer/2598430350?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-08-29"
@@ -42644,7 +42704,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     },
     {
         "id": 4,
