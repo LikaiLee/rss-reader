@@ -273,6 +273,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "为了让自己早睡一小时，我花六个月做了一个 App",
+                "link": "https://sspai.com/post/75467",
+                "published": "2022-09-01"
+            },
+            {
+                "title": "派早报：LG 发布新款 OLED Flex 电视、游戏领域发生多笔重磅收购等",
+                "link": "https://sspai.com/post/75471",
+                "published": "2022-09-01"
+            },
+            {
+                "title": "苹果发布会超前瞻：常规新品之外，或许还有惊喜「One More Thing」？",
+                "link": "https://sspai.com/post/75457",
+                "published": "2022-08-31"
+            },
+            {
+                "title": "底大一级，词堆一沓：手机相机传感器术语解惑",
+                "link": "https://sspai.com/post/75454",
+                "published": "2022-08-31"
+            },
+            {
+                "title": "吃代餐，是一种行之有效的减肥手段吗？",
+                "link": "https://sspai.com/post/75414",
+                "published": "2022-08-31"
+            },
+            {
                 "title": "我开发了一款轻量的数字白板——PegBoard",
                 "link": "https://sspai.com/post/75384",
                 "published": "2022-08-31"
@@ -37559,6 +37584,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "战争与产业政策",
+                "link": "http://zhuanlan.zhihu.com/p/558859527?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-01"
+            },
+            {
+                "title": "目前磷酸铁锂电池能量密度是否己经到了技术极限？未来还有发展空间吗？",
+                "link": "http://www.zhihu.com/question/532638462/answer/2654026551?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-08-31"
+            },
+            {
                 "title": "新手准备去玩剧本杀，可以给一些建议或科普吗？",
                 "link": "http://www.zhihu.com/question/546843772/answer/2632005910?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-08-31"
@@ -42764,7 +42799,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 2
     },
     {
         "id": 4,
