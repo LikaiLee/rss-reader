@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 221 期）：全世界最繁荣的行业",
+                "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html",
+                "published": "2022-09-02"
+            },
+            {
                 "title": "科技爱好者周刊（第 220 期）：人工智能的机会在哪里",
                 "link": "http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html",
                 "published": "2022-08-26"
@@ -265,13 +270,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一派·PowerUp 06 | 活用简悦，让阅读成为有用功",
+                "link": "https://sspai.com/post/75495",
+                "published": "2022-09-02"
+            },
+            {
+                "title": "派早报：联想发布眼镜显示器、折叠屏笔记本电脑以及华硕折叠屏电脑等",
+                "link": "https://sspai.com/post/75497",
+                "published": "2022-09-02"
+            },
+            {
+                "title": "送码 | 用 59 分钟，让阅读成为有用功",
+                "link": "https://sspai.com/post/75473",
+                "published": "2022-09-01"
+            },
+            {
+                "title": "新玩意 118｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/75481",
+                "published": "2022-09-01"
+            },
+            {
+                "title": "石在盆底埋，花在盆中泣：为什么垫碎石可能对植物有害无益",
+                "link": "https://sspai.com/post/75472",
+                "published": "2022-09-01"
+            },
             {
                 "title": "为了让自己早睡一小时，我花六个月做了一个 App",
                 "link": "https://sspai.com/post/75467",
@@ -37584,6 +37614,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "你怎么看待密室逃脱中的非恐密室？",
+                "link": "http://www.zhihu.com/question/519268963/answer/2434159140?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-02"
+            },
+            {
+                "title": "漫画《刺客信条：王朝》完结，你有什么想说的？",
+                "link": "http://www.zhihu.com/question/551197770/answer/2656493817?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-02"
+            },
+            {
+                "title": "2022 LPL 夏季总决赛 JDG 3:2 击败 TES 时隔两年再夺联赛冠军，对此你有什么想说的？",
+                "link": "http://www.zhihu.com/question/551204252/answer/2656077801?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-02"
+            },
+            {
                 "title": "战争与产业政策",
                 "link": "http://zhuanlan.zhihu.com/p/558859527?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-01"
@@ -42799,13 +42844,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 28 期）: DuckDuckGo Email Protection, BentoJam, Hacker News RSS, Hacker News Digest, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2177023307428327424",
+                "published": "2022-09-01"
+            },
             {
                 "title": "好工具周刊（第 27 期）: BgSub, Txtmoji, Slickr, Moodly, Windy, 一起听播客, 图形方格纸",
                 "link": "https://bestxtools.zhubai.love/posts/2174508953806163968",
@@ -42947,6 +42997,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
