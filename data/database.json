@@ -278,6 +278,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "任意键｜最后生还者回归；高达站立于大地；索尼独占喜减一及其他",
+                "link": "https://sspai.com/post/75523",
+                "published": "2022-09-04"
+            },
+            {
+                "title": "无缝播放：被数字音乐「弄丢」的专辑之美",
+                "link": "https://sspai.com/post/75517",
+                "published": "2022-09-03"
+            },
+            {
                 "title": "皮蛋漫游播客 | Tesla vs 问界，和少数派老麦换车开一周",
                 "link": "https://sspai.com/post/75508",
                 "published": "2022-09-03"
@@ -7183,7 +7193,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -42879,7 +42889,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,

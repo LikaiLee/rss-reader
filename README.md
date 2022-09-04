@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-09-04】 任意键｜最后生还者回归；高达站立于大地；索尼独占喜减一及其他](https://sspai.com/post/75523)
+* [【2022-09-03】 无缝播放：被数字音乐「弄丢」的专辑之美](https://sspai.com/post/75517)
 * [【2022-09-03】 皮蛋漫游播客 | Tesla vs 问界，和少数派老麦换车开一周](https://sspai.com/post/75508)
 * [【2022-09-02】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75511)
 * [【2022-09-02】 派周报：十年 Medium 途](https://sspai.com/prime/story/pi-weekly-007)
@@ -43,8 +45,6 @@
 * [【2022-09-02】 一派·PowerUp 06 | 活用简悦，让阅读成为有用功](https://sspai.com/post/75495)
 * [【2022-09-02】 派早报：联想发布眼镜显示器、折叠屏笔记本电脑以及华硕折叠屏电脑等](https://sspai.com/post/75497)
 * [【2022-09-01】 送码 | 用 59 分钟，让阅读成为有用功](https://sspai.com/post/75473)
-* [【2022-09-01】 新玩意 118｜少数派的作者们最近买了啥？](https://sspai.com/post/75481)
-* [【2022-09-01】 石在盆底埋，花在盆中泣：为什么垫碎石可能对植物有害无益](https://sspai.com/post/75472)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-03 05:30:32
+:alarm_clock: 更新时间: 2022-09-04 05:32:59
