@@ -278,6 +278,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "集成百家所长的 Matter，也是智能家居的未来（系列文章之一）",
+                "link": "https://sspai.com/prime/story/matter-explained-01",
+                "published": "2022-09-06"
+            },
+            {
+                "title": "派早报：LG 推出新款 XBOOM 360 / Go 蓝牙音箱、NIO Air AR Glasses 正式发布等",
+                "link": "https://sspai.com/post/75558",
+                "published": "2022-09-06"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/75553",
+                "published": "2022-09-05"
+            },
+            {
+                "title": "把 AI 作画引擎搬进家用电脑：Stable Diffusion 配置与使用指南",
+                "link": "https://sspai.com/post/75544",
+                "published": "2022-09-05"
+            },
+            {
+                "title": "一日一技 | 如何给自制电子书添加脚注",
+                "link": "https://sspai.com/post/75170",
+                "published": "2022-09-05"
+            },
+            {
                 "title": "拿什么装你的一机 N 镜？谈谈我的摄影包折腾经历和推荐",
                 "link": "https://sspai.com/post/75524",
                 "published": "2022-09-05"
@@ -7208,7 +7233,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -37664,6 +37689,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "除了鲍威尔讲话，全球央行年会还揭露了什么？",
+                "link": "http://zhuanlan.zhihu.com/p/561595557?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-06"
+            },
+            {
+                "title": "如何评价推理游戏类型「海龟汤」？",
+                "link": "http://www.zhihu.com/question/487824820/answer/2633736057?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-06"
+            },
+            {
+                "title": "密室逃脱是如何保持重复可玩性的?",
+                "link": "http://www.zhihu.com/question/23898381/answer/2661192984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-05"
+            },
+            {
+                "title": "超长篇哆啦A梦漫画哪一部水平最高？",
+                "link": "http://www.zhihu.com/question/37527964/answer/2658274638?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-05"
+            },
+            {
                 "title": "俄乌战争还在打，查了下俄罗斯能源出口对欧洲和中国的依赖程度",
                 "link": "http://zhuanlan.zhihu.com/p/560809315?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-05"
@@ -42934,7 +42979,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 4,
