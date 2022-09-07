@@ -278,6 +278,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "给 Spotify 换个好看的皮肤：Spicetify 配置说明",
+                "link": "https://sspai.com/post/75576",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "派早报：华为发布多款新品、索尼将为 PS5 带来新配色等",
+                "link": "https://sspai.com/post/75590",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "开学季 | 少数派正版软件商城专属特惠活动，助你新学期有新气象",
+                "link": "https://sspai.com/post/75561",
+                "published": "2022-09-06"
+            },
+            {
+                "title": "App+1 | 为笔记本 CPU 减负，让 Windows 11 的续航加分：能源之星 X",
+                "link": "https://sspai.com/post/75565",
+                "published": "2022-09-06"
+            },
+            {
                 "title": "集成百家所长的 Matter，也是智能家居的未来（系列文章之一）",
                 "link": "https://sspai.com/prime/story/matter-explained-01",
                 "published": "2022-09-06"
@@ -7233,7 +7253,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -37689,6 +37709,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "两份相同汽油，一份给燃油车用，另一份先发电再给电动汽车充电，假设两辆汽车总质量相当，哪种车跑得更远？",
+                "link": "http://www.zhihu.com/question/549701825/answer/2658183113?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "如何突破关键技术，降低燃料电池的成本？",
+                "link": "http://www.zhihu.com/question/549921373/answer/2657431822?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "能不能研究核动力汽车，5年以上不更换电池那种？",
+                "link": "http://www.zhihu.com/question/549668847/answer/2656456599?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "公共交通更符合低碳出行的理念但是却无法满足个性化需求，有没有融合两者的解决方案？",
+                "link": "http://www.zhihu.com/question/549647084/answer/2653644962?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "电动汽车能减少污染但为什么人们却普遍不愿接受？",
+                "link": "http://www.zhihu.com/question/549823162/answer/2652612047?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "终于找全了！木桐1945-2019所有酒标都在这了！",
+                "link": "http://zhuanlan.zhihu.com/p/561336682?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-07"
+            },
+            {
                 "title": "除了鲍威尔讲话，全球央行年会还揭露了什么？",
                 "link": "http://zhuanlan.zhihu.com/p/561595557?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-06"
@@ -42979,7 +43029,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 4,
