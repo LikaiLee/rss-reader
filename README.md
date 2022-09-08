@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+6】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-09-07】 派早报：Apple 召开秋季新品发布会、哈苏推出新款相机等](https://sspai.com/post/75625)
+* [【2022-09-07】 一图流 | Apple 秋季新品发布会回顾](https://sspai.com/post/75627)
+* [【2022-09-07】 常规之外也有惊喜，iPhone 迎来全新交互方式：Apple 发布会回顾](https://sspai.com/post/75626)
+* [【2022-09-07】 佳作频出，后生可畏：与葛越聊「移动应用创新赛」](https://sspai.com/post/75611)
+* [【2022-09-07】 首发特惠 | 拿下这本蓝皮书，你就是朋友圈里最懂 iOS 的人](https://sspai.com/post/75603)
+* [【2022-09-07】 找到适合自己的「浏览器门面」，7 款启动页插件横评](https://sspai.com/post/75591)
+* [【2022-09-07】 99 划算节，派商店又为你准备了这些周边和产品](https://sspai.com/post/75577)
 * [【2022-09-07】 给 Spotify 换个好看的皮肤：Spicetify 配置说明](https://sspai.com/post/75576)
 * [【2022-09-07】 派早报：华为发布多款新品、索尼将为 PS5 带来新配色等](https://sspai.com/post/75590)
 * [【2022-09-06】 开学季 | 少数派正版软件商城专属特惠活动，助你新学期有新气象](https://sspai.com/post/75561)
-* [【2022-09-06】 App+1 | 为笔记本 CPU 减负，让 Windows 11 的续航加分：能源之星 X](https://sspai.com/post/75565)
-* [【2022-09-06】 集成百家所长的 Matter，也是智能家居的未来（系列文章之一）](https://sspai.com/prime/story/matter-explained-01)
-* [【2022-09-06】 派早报：LG 推出新款 XBOOM 360 / Go 蓝牙音箱、NIO Air AR Glasses 正式发布等](https://sspai.com/post/75558)
-* [【2022-09-05】 派评 | 近期值得关注的 App](https://sspai.com/post/75553)
-* [【2022-09-05】 把 AI 作画引擎搬进家用电脑：Stable Diffusion 配置与使用指南](https://sspai.com/post/75544)
-* [【2022-09-05】 一日一技 | 如何给自制电子书添加脚注](https://sspai.com/post/75170)
-* [【2022-09-05】 拿什么装你的一机 N 镜？谈谈我的摄影包折腾经历和推荐](https://sspai.com/post/75524)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-07 06:13:21
+:alarm_clock: 更新时间: 2022-09-08 05:59:04

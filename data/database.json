@@ -278,6 +278,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Apple 召开秋季新品发布会、哈苏推出新款相机等",
+                "link": "https://sspai.com/post/75625",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "一图流 | Apple 秋季新品发布会回顾",
+                "link": "https://sspai.com/post/75627",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "常规之外也有惊喜，iPhone 迎来全新交互方式：Apple 发布会回顾",
+                "link": "https://sspai.com/post/75626",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "佳作频出，后生可畏：与葛越聊「移动应用创新赛」",
+                "link": "https://sspai.com/post/75611",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "首发特惠 | 拿下这本蓝皮书，你就是朋友圈里最懂 iOS 的人",
+                "link": "https://sspai.com/post/75603",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "找到适合自己的「浏览器门面」，7 款启动页插件横评",
+                "link": "https://sspai.com/post/75591",
+                "published": "2022-09-07"
+            },
+            {
+                "title": "99 划算节，派商店又为你准备了这些周边和产品",
+                "link": "https://sspai.com/post/75577",
+                "published": "2022-09-07"
+            },
+            {
                 "title": "给 Spotify 换个好看的皮肤：Spicetify 配置说明",
                 "link": "https://sspai.com/post/75576",
                 "published": "2022-09-07"
@@ -7253,7 +7288,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -43029,7 +43064,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 0
     },
     {
         "id": 4,
