@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 222 期）：四十年编程感想",
+                "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html",
+                "published": "2022-09-09"
+            },
+            {
                 "title": "科技爱好者周刊（第 221 期）：全世界最繁荣的行业",
                 "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html",
                 "published": "2022-09-02"
@@ -270,13 +275,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "毕业留港找工作，这些建议请笑纳",
+                "link": "https://sspai.com/post/75323",
+                "published": "2022-09-09"
+            },
+            {
+                "title": "派早报：Tim Cook 透露 Apple 暂无计划支持 RCS 等",
+                "link": "https://sspai.com/post/75644",
+                "published": "2022-09-09"
+            },
+            {
+                "title": "新玩意 119｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/75633",
+                "published": "2022-09-08"
+            },
+            {
+                "title": "生活不止眼前的苟且，还有眼下的厕纸：关于卫生纸你应该知道的",
+                "link": "https://sspai.com/post/75552",
+                "published": "2022-09-08"
+            },
             {
                 "title": "派早报：Apple 召开秋季新品发布会、哈苏推出新款相机等",
                 "link": "https://sspai.com/post/75625",
@@ -7288,7 +7313,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -43072,6 +43097,11 @@
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
             {
+                "title": "好工具周刊（第 29 期）: Squoosh, AI Background Generator, Motionity, Privnote, 小鸡词典, 发音纠正器, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2179567147990081536",
+                "published": "2022-09-08"
+            },
+            {
                 "title": "好工具周刊（第 28 期）: DuckDuckGo Email Protection, BentoJam, Hacker News RSS, Hacker News Digest, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2177023307428327424",
                 "published": "2022-09-01"
@@ -43217,6 +43247,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
