@@ -275,13 +275,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "大厂出品不等于又大又慢，这 6 个小应用值得一试",
+                "link": "https://sspai.com/post/75275",
+                "published": "2022-09-10"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 6 部作品",
+                "link": "https://sspai.com/post/75654",
+                "published": "2022-09-09"
+            },
+            {
+                "title": "App+1 | 人人可用、不取分文，Android 平台习惯养成应用首选：Loop",
+                "link": "https://sspai.com/post/75650",
+                "published": "2022-09-09"
+            },
+            {
+                "title": "今晚下单新品前，先来看看外媒真机上手体验",
+                "link": "https://sspai.com/post/75651",
+                "published": "2022-09-09"
+            },
             {
                 "title": "毕业留港找工作，这些建议请笑纳",
                 "link": "https://sspai.com/post/75323",
@@ -43247,6 +43267,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
