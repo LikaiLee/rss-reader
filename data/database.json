@@ -283,6 +283,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "任意键｜乌贼娘大战章鱼哥；守望先锋闪电般归来；大名鼎鼎的 V 及其他",
+                "link": "https://sspai.com/post/75669",
+                "published": "2022-09-11"
+            },
+            {
+                "title": "从选购到使用，让 3D 打印机打开新世界的大门",
+                "link": "https://sspai.com/post/75665",
+                "published": "2022-09-10"
+            },
+            {
                 "title": "大厂出品不等于又大又慢，这 6 个小应用值得一试",
                 "link": "https://sspai.com/post/75275",
                 "published": "2022-09-10"
@@ -7333,7 +7343,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
