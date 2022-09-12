@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-09-12】 少数派们都得过啥病？谈谈编辑部面对的健康问题](https://sspai.com/post/75678)
+* [【2022-09-11】 Apple 新品发布会上没告诉你的那些事](https://sspai.com/post/75672)
 * [【2022-09-11】 任意键｜乌贼娘大战章鱼哥；守望先锋闪电般归来；大名鼎鼎的 V 及其他](https://sspai.com/post/75669)
 * [【2022-09-10】 从选购到使用，让 3D 打印机打开新世界的大门](https://sspai.com/post/75665)
 * [【2022-09-10】 大厂出品不等于又大又慢，这 6 个小应用值得一试](https://sspai.com/post/75275)
@@ -43,8 +45,6 @@
 * [【2022-09-09】 今晚下单新品前，先来看看外媒真机上手体验](https://sspai.com/post/75651)
 * [【2022-09-09】 毕业留港找工作，这些建议请笑纳](https://sspai.com/post/75323)
 * [【2022-09-09】 派早报：Tim Cook 透露 Apple 暂无计划支持 RCS 等](https://sspai.com/post/75644)
-* [【2022-09-08】 新玩意 119｜少数派的编辑们最近买了啥？](https://sspai.com/post/75633)
-* [【2022-09-08】 生活不止眼前的苟且，还有眼下的厕纸：关于卫生纸你应该知道的](https://sspai.com/post/75552)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-11 05:36:42
+:alarm_clock: 更新时间: 2022-09-12 06:13:17
