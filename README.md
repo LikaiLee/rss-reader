@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-09-13】 iOS 16 正式版来了，升级后先试试这些新功能](https://sspai.com/post/75688)
+* [【2022-09-13】 派早报：iOS 16 与 watchOS 9 等系统正式版推送、Sony 召开新品发布会](https://sspai.com/post/75691)
 * [【2022-09-12】 少数派们都得过啥病？谈谈编辑部面对的健康问题](https://sspai.com/post/75678)
 * [【2022-09-11】 Apple 新品发布会上没告诉你的那些事](https://sspai.com/post/75672)
 * [【2022-09-11】 任意键｜乌贼娘大战章鱼哥；守望先锋闪电般归来；大名鼎鼎的 V 及其他](https://sspai.com/post/75669)
@@ -43,8 +45,6 @@
 * [【2022-09-09】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75654)
 * [【2022-09-09】 App+1 | 人人可用、不取分文，Android 平台习惯养成应用首选：Loop](https://sspai.com/post/75650)
 * [【2022-09-09】 今晚下单新品前，先来看看外媒真机上手体验](https://sspai.com/post/75651)
-* [【2022-09-09】 毕业留港找工作，这些建议请笑纳](https://sspai.com/post/75323)
-* [【2022-09-09】 派早报：Tim Cook 透露 Apple 暂无计划支持 RCS 等](https://sspai.com/post/75644)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-09-13】 明星冯雷称一款气泡水竟有 232 种配料，出品公司回应是复合元素酵素粉，什么是复合元素酵素粉？](http://www.zhihu.com/question/552699851/answer/2668473314?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-07】 两份相同汽油，一份给燃油车用，另一份先发电再给电动汽车充电，假设两辆汽车总质量相当，哪种车跑得更远？](http://www.zhihu.com/question/549701825/answer/2658183113?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-07】 如何突破关键技术，降低燃料电池的成本？](http://www.zhihu.com/question/549921373/answer/2657431822?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-07】 能不能研究核动力汽车，5年以上不更换电池那种？](http://www.zhihu.com/question/549668847/answer/2656456599?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-09-06】 除了鲍威尔讲话，全球央行年会还揭露了什么？](http://zhuanlan.zhihu.com/p/561595557?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-06】 如何评价推理游戏类型「海龟汤」？](http://www.zhihu.com/question/487824820/answer/2633736057?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-05】 密室逃脱是如何保持重复可玩性的?](http://www.zhihu.com/question/23898381/answer/2661192984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-05】 超长篇哆啦A梦漫画哪一部水平最高？](http://www.zhihu.com/question/37527964/answer/2658274638?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-12 06:13:17
+:alarm_clock: 更新时间: 2022-09-13 06:11:12
