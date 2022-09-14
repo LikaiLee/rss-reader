@@ -283,6 +283,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从软硬协同到「不思进取」的资本：iPhone 14 Pro 对「高端产品」的启示",
+                "link": "https://sspai.com/post/75630",
+                "published": "2022-09-14"
+            },
+            {
+                "title": "獭可派 | 你应该拥有一个更先进的充电头",
+                "link": "https://sspai.com/post/75453",
+                "published": "2022-09-14"
+            },
+            {
+                "title": "派早报：Sonos 推出 Sub Mini 无线音箱、Apple 将对未认证 AirPods 进行弹窗提醒等",
+                "link": "https://sspai.com/post/75714",
+                "published": "2022-09-14"
+            },
+            {
+                "title": "再犹豫，到年底：iPhone 14 系列选购指南",
+                "link": "https://sspai.com/post/75686",
+                "published": "2022-09-13"
+            },
+            {
+                "title": "新赛季小组赛已经开打，我们来谈谈即将到来的欧冠改制",
+                "link": "https://sspai.com/post/75671",
+                "published": "2022-09-13"
+            },
+            {
+                "title": "谈不上多有用，但就是喜欢：从实用主义走向恋物情结",
+                "link": "https://sspai.com/post/75666",
+                "published": "2022-09-13"
+            },
+            {
                 "title": "iOS 16 正式版来了，升级后先试试这些新功能",
                 "link": "https://sspai.com/post/75688",
                 "published": "2022-09-13"
@@ -7363,7 +7393,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -37819,6 +37849,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《Minecraft》mod模组盘点/科普/打分（第四期，轻松愉快的）",
+                "link": "http://zhuanlan.zhihu.com/p/555029475?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-14"
+            },
+            {
+                "title": "如何评价密室逃脱游戏《\t山村贞子》？你的游玩体验如何？",
+                "link": "http://www.zhihu.com/question/527674041/answer/2459820150?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-13"
+            },
+            {
+                "title": "经济学博士怎么能有多篇working paper呢？",
+                "link": "http://www.zhihu.com/question/536795472/answer/2669780758?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-13"
+            },
+            {
+                "title": "经济学博士怎么能有多篇working paper呢？",
+                "link": "http://www.zhihu.com/question/536795472/answer/2640402550?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-13"
+            },
+            {
+                "title": "如何评价游戏《勇敢的哈克》？",
+                "link": "http://www.zhihu.com/question/534578671/answer/2662918514?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-13"
+            },
+            {
+                "title": "《原神》3.0 版本「千朵玫瑰带来的黎明」更新，你的体验如何？",
+                "link": "http://www.zhihu.com/question/549752067/answer/2669602044?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-13"
+            },
+            {
                 "title": "明星冯雷称一款气泡水竟有 232 种配料，出品公司回应是复合元素酵素粉，什么是复合元素酵素粉？",
                 "link": "http://www.zhihu.com/question/552699851/answer/2668473314?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-13"
@@ -43144,7 +43204,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 6
     },
     {
         "id": 4,
