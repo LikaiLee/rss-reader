@@ -283,6 +283,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "握好手柄，看住钱包：任天堂、索尼 9 月发布会资讯汇总",
+                "link": "https://sspai.com/post/75727",
+                "published": "2022-09-15"
+            },
+            {
+                "title": "派早报：GoPro 推出 GoPro Hero 11 系列运动相机、大疆发布 Osmo Action 3 运动相机等",
+                "link": "https://sspai.com/post/75728",
+                "published": "2022-09-15"
+            },
+            {
+                "title": "Apple 秋季发布会线上回顾：一起聊聊新品和新系统体验",
+                "link": "https://sspai.com/post/75681",
+                "published": "2022-09-14"
+            },
+            {
+                "title": "Android 设备省电与流畅的「临界点」：uperf 如何让你的电量都花在刀刃上",
+                "link": "https://sspai.com/post/75695",
+                "published": "2022-09-14"
+            },
+            {
+                "title": "用 Tasker 实现一键分享保存哔哩哔哩视频封面",
+                "link": "https://sspai.com/prime/story/tasker-bilibili-cover-image",
+                "published": "2022-09-14"
+            },
+            {
                 "title": "从软硬协同到「不思进取」的资本：iPhone 14 Pro 对「高端产品」的启示",
                 "link": "https://sspai.com/post/75630",
                 "published": "2022-09-14"
@@ -7393,7 +7418,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -37849,6 +37874,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "读懂《百年孤独》才算真正开始了人生，孤独是生命的本色",
+                "link": "http://zhuanlan.zhihu.com/p/557117784?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-14"
+            },
+            {
+                "title": "如何看待国产动画《一念永恒》第二季？",
+                "link": "http://www.zhihu.com/question/553370270/answer/2673226010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-14"
+            },
+            {
                 "title": "《Minecraft》mod模组盘点/科普/打分（第四期，轻松愉快的）",
                 "link": "http://zhuanlan.zhihu.com/p/555029475?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-14"
@@ -43204,7 +43239,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 4,

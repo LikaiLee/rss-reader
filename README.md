@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+6】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-09-15】 握好手柄，看住钱包：任天堂、索尼 9 月发布会资讯汇总](https://sspai.com/post/75727)
+* [【2022-09-15】 派早报：GoPro 推出 GoPro Hero 11 系列运动相机、大疆发布 Osmo Action 3 运动相机等](https://sspai.com/post/75728)
+* [【2022-09-14】 Apple 秋季发布会线上回顾：一起聊聊新品和新系统体验](https://sspai.com/post/75681)
+* [【2022-09-14】 Android 设备省电与流畅的「临界点」：uperf 如何让你的电量都花在刀刃上](https://sspai.com/post/75695)
+* [【2022-09-14】 用 Tasker 实现一键分享保存哔哩哔哩视频封面](https://sspai.com/prime/story/tasker-bilibili-cover-image)
 * [【2022-09-14】 从软硬协同到「不思进取」的资本：iPhone 14 Pro 对「高端产品」的启示](https://sspai.com/post/75630)
 * [【2022-09-14】 獭可派 | 你应该拥有一个更先进的充电头](https://sspai.com/post/75453)
 * [【2022-09-14】 派早报：Sonos 推出 Sub Mini 无线音箱、Apple 将对未认证 AirPods 进行弹窗提醒等](https://sspai.com/post/75714)
 * [【2022-09-13】 再犹豫，到年底：iPhone 14 系列选购指南](https://sspai.com/post/75686)
 * [【2022-09-13】 新赛季小组赛已经开打，我们来谈谈即将到来的欧冠改制](https://sspai.com/post/75671)
-* [【2022-09-13】 谈不上多有用，但就是喜欢：从实用主义走向恋物情结](https://sspai.com/post/75666)
-* [【2022-09-13】 iOS 16 正式版来了，升级后先试试这些新功能](https://sspai.com/post/75688)
-* [【2022-09-13】 派早报：iOS 16 与 watchOS 9 等系统正式版推送、Sony 召开新品发布会](https://sspai.com/post/75691)
-* [【2022-09-12】 少数派们都得过啥病？谈谈编辑部面对的健康问题](https://sspai.com/post/75678)
-* [【2022-09-11】 Apple 新品发布会上没告诉你的那些事](https://sspai.com/post/75672)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-09-14】 读懂《百年孤独》才算真正开始了人生，孤独是生命的本色](http://zhuanlan.zhihu.com/p/557117784?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-09-14】 如何看待国产动画《一念永恒》第二季？](http://www.zhihu.com/question/553370270/answer/2673226010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-14】 《Minecraft》mod模组盘点/科普/打分（第四期，轻松愉快的）](http://zhuanlan.zhihu.com/p/555029475?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-13】 如何评价密室逃脱游戏《	山村贞子》？你的游玩体验如何？](http://www.zhihu.com/question/527674041/answer/2459820150?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-13】 经济学博士怎么能有多篇working paper呢？](http://www.zhihu.com/question/536795472/answer/2669780758?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-09-13】 《原神》3.0 版本「千朵玫瑰带来的黎明」更新，你的体验如何？](http://www.zhihu.com/question/549752067/answer/2669602044?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-13】 明星冯雷称一款气泡水竟有 232 种配料，出品公司回应是复合元素酵素粉，什么是复合元素酵素粉？](http://www.zhihu.com/question/552699851/answer/2668473314?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-07】 两份相同汽油，一份给燃油车用，另一份先发电再给电动汽车充电，假设两辆汽车总质量相当，哪种车跑得更远？](http://www.zhihu.com/question/549701825/answer/2658183113?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-07】 如何突破关键技术，降低燃料电池的成本？](http://www.zhihu.com/question/549921373/answer/2657431822?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-07】 能不能研究核动力汽车，5年以上不更换电池那种？](http://www.zhihu.com/question/549668847/answer/2656456599?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-14 06:04:42
+:alarm_clock: 更新时间: 2022-09-15 06:00:07
