@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？",
+                "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html",
+                "published": "2022-09-16"
+            },
+            {
                 "title": "科技爱好者周刊（第 222 期）：四十年编程感想",
                 "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html",
                 "published": "2022-09-09"
@@ -275,13 +280,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "零代码体验 AI 绘画：在 M1/M2 Mac 本地运行 Stable Diffusion",
+                "link": "https://sspai.com/post/75682",
+                "published": "2022-09-16"
+            },
+            {
+                "title": "派早报：Adobe 收购 Figma，荣耀发布 MagicBook V 14 2022 系列",
+                "link": "https://sspai.com/post/75739",
+                "published": "2022-09-16"
+            },
+            {
+                "title": "新配色、新亮点：iPhone 14 系列、新款 Apple Watch 快速上手体验",
+                "link": "https://sspai.com/post/75737",
+                "published": "2022-09-15"
+            },
+            {
+                "title": "在 AI 绘画的世界里，怎样才算一名合格的「甲方」？",
+                "link": "https://sspai.com/post/75629",
+                "published": "2022-09-15"
+            },
+            {
+                "title": "城市收藏夹 | 北京精酿啤酒不完全赏味指南",
+                "link": "https://sspai.com/post/68914",
+                "published": "2022-09-15"
+            },
+            {
+                "title": "我相信这是它一开始就想到达的地方——文石 Tab8 上手体验",
+                "link": "https://sspai.com/post/75710",
+                "published": "2022-09-15"
+            },
             {
                 "title": "握好手柄，看住钱包：任天堂、索尼 9 月发布会资讯汇总",
                 "link": "https://sspai.com/post/75727",
@@ -7418,7 +7453,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -37874,6 +37909,41 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "怎样当一个好的漫画编辑？",
+                "link": "http://www.zhihu.com/question/22528311/answer/2674988456?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-16"
+            },
+            {
+                "title": "如何看待 Adobe 以 200 亿美元收购 Figma？",
+                "link": "http://www.zhihu.com/question/553789736/answer/2675600758?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-16"
+            },
+            {
+                "title": "有没有什么科学的办法破解《jojo的奇妙冒险：石之海》缪缪只能记住三件新事情的能力？",
+                "link": "http://www.zhihu.com/question/551831388/answer/2673015379?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-16"
+            },
+            {
+                "title": "《三角战略》游戏中人物强度哪些角色好用？",
+                "link": "http://www.zhihu.com/question/527176295/answer/2581815244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-15"
+            },
+            {
+                "title": "《崩坏三》中的崩坏能是什么样的设定？",
+                "link": "http://www.zhihu.com/question/544823829/answer/2588428479?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-15"
+            },
+            {
+                "title": "如何评价 Steam 游戏《鸡从天降》？",
+                "link": "http://www.zhihu.com/question/552636369/answer/2666979556?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-15"
+            },
+            {
+                "title": "以太坊8年挖矿时代结束：V神、中国矿业，与英伟达",
+                "link": "http://zhuanlan.zhihu.com/p/564697171?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-15"
+            },
+            {
                 "title": "读懂《百年孤独》才算真正开始了人生，孤独是生命的本色",
                 "link": "http://zhuanlan.zhihu.com/p/557117784?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-14"
@@ -43239,13 +43309,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 7
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, OurBoard, AnimatiSS, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2182124891627585536",
+                "published": "2022-09-15"
+            },
             {
                 "title": "好工具周刊（第 29 期）: Squoosh, AI Background Generator, Motionity, Privnote, 小鸡词典, 发音纠正器, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2179567147990081536",
@@ -43397,6 +43472,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

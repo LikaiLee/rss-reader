@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+7】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-09-16】 科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html)
 * [【2022-09-09】 科技爱好者周刊（第 222 期）：四十年编程感想](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html)
 * [【2022-09-02】 科技爱好者周刊（第 221 期）：全世界最繁荣的行业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)
 * [【2022-08-26】 科技爱好者周刊（第 220 期）：人工智能的机会在哪里](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)
@@ -25,7 +26,6 @@
 * [【2022-08-02】 DNS 查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html)
 * [【2022-07-29】 科技爱好者周刊（第 216 期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
 * [【2022-07-27】 能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)
-* [【2022-07-22】 科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-09-16】 零代码体验 AI 绘画：在 M1/M2 Mac 本地运行 Stable Diffusion](https://sspai.com/post/75682)
+* [【2022-09-16】 派早报：Adobe 收购 Figma，荣耀发布 MagicBook V 14 2022 系列](https://sspai.com/post/75739)
+* [【2022-09-15】 新配色、新亮点：iPhone 14 系列、新款 Apple Watch 快速上手体验](https://sspai.com/post/75737)
+* [【2022-09-15】 在 AI 绘画的世界里，怎样才算一名合格的「甲方」？](https://sspai.com/post/75629)
+* [【2022-09-15】 城市收藏夹 | 北京精酿啤酒不完全赏味指南](https://sspai.com/post/68914)
+* [【2022-09-15】 我相信这是它一开始就想到达的地方——文石 Tab8 上手体验](https://sspai.com/post/75710)
 * [【2022-09-15】 握好手柄，看住钱包：任天堂、索尼 9 月发布会资讯汇总](https://sspai.com/post/75727)
 * [【2022-09-15】 派早报：GoPro 推出 GoPro Hero 11 系列运动相机、大疆发布 Osmo Action 3 运动相机等](https://sspai.com/post/75728)
 * [【2022-09-14】 Apple 秋季发布会线上回顾：一起聊聊新品和新系统体验](https://sspai.com/post/75681)
 * [【2022-09-14】 Android 设备省电与流畅的「临界点」：uperf 如何让你的电量都花在刀刃上](https://sspai.com/post/75695)
-* [【2022-09-14】 用 Tasker 实现一键分享保存哔哩哔哩视频封面](https://sspai.com/prime/story/tasker-bilibili-cover-image)
-* [【2022-09-14】 从软硬协同到「不思进取」的资本：iPhone 14 Pro 对「高端产品」的启示](https://sspai.com/post/75630)
-* [【2022-09-14】 獭可派 | 你应该拥有一个更先进的充电头](https://sspai.com/post/75453)
-* [【2022-09-14】 派早报：Sonos 推出 Sub Mini 无线音箱、Apple 将对未认证 AirPods 进行弹窗提醒等](https://sspai.com/post/75714)
-* [【2022-09-13】 再犹豫，到年底：iPhone 14 系列选购指南](https://sspai.com/post/75686)
-* [【2022-09-13】 新赛季小组赛已经开打，我们来谈谈即将到来的欧冠改制](https://sspai.com/post/75671)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2022-09-16】 怎样当一个好的漫画编辑？](http://www.zhihu.com/question/22528311/answer/2674988456?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-09-16】 如何看待 Adobe 以 200 亿美元收购 Figma？](http://www.zhihu.com/question/553789736/answer/2675600758?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-09-16】 有没有什么科学的办法破解《jojo的奇妙冒险：石之海》缪缪只能记住三件新事情的能力？](http://www.zhihu.com/question/551831388/answer/2673015379?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-09-15】 《三角战略》游戏中人物强度哪些角色好用？](http://www.zhihu.com/question/527176295/answer/2581815244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-09-15】 《崩坏三》中的崩坏能是什么样的设定？](http://www.zhihu.com/question/544823829/answer/2588428479?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-09-15】 如何评价 Steam 游戏《鸡从天降》？](http://www.zhihu.com/question/552636369/answer/2666979556?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-09-15】 以太坊8年挖矿时代结束：V神、中国矿业，与英伟达](http://zhuanlan.zhihu.com/p/564697171?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-14】 读懂《百年孤独》才算真正开始了人生，孤独是生命的本色](http://zhuanlan.zhihu.com/p/557117784?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-14】 如何看待国产动画《一念永恒》第二季？](http://www.zhihu.com/question/553370270/answer/2673226010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-14】 《Minecraft》mod模组盘点/科普/打分（第四期，轻松愉快的）](http://zhuanlan.zhihu.com/p/555029475?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-13】 如何评价密室逃脱游戏《	山村贞子》？你的游玩体验如何？](http://www.zhihu.com/question/527674041/answer/2459820150?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-13】 经济学博士怎么能有多篇working paper呢？](http://www.zhihu.com/question/536795472/answer/2669780758?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-13】 经济学博士怎么能有多篇working paper呢？](http://www.zhihu.com/question/536795472/answer/2640402550?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-13】 如何评价游戏《勇敢的哈克》？](http://www.zhihu.com/question/534578671/answer/2662918514?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-13】 《原神》3.0 版本「千朵玫瑰带来的黎明」更新，你的体验如何？](http://www.zhihu.com/question/549752067/answer/2669602044?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-13】 明星冯雷称一款气泡水竟有 232 种配料，出品公司回应是复合元素酵素粉，什么是复合元素酵素粉？](http://www.zhihu.com/question/552699851/answer/2668473314?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-07】 两份相同汽油，一份给燃油车用，另一份先发电再给电动汽车充电，假设两辆汽车总质量相当，哪种车跑得更远？](http://www.zhihu.com/question/549701825/answer/2658183113?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-09-15】 好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, OurBoard, AnimatiSS, ...](https://bestxtools.zhubai.love/posts/2182124891627585536)
 * [【2022-09-08】 好工具周刊（第 29 期）: Squoosh, AI Background Generator, Motionity, Privnote, 小鸡词典, 发音纠正器, ...](https://bestxtools.zhubai.love/posts/2179567147990081536)
 * [【2022-09-01】 好工具周刊（第 28 期）: DuckDuckGo Email Protection, BentoJam, Hacker News RSS, Hacker News Digest, ...](https://bestxtools.zhubai.love/posts/2177023307428327424)
 * [【2022-08-25】 好工具周刊（第 27 期）: BgSub, Txtmoji, Slickr, Moodly, Windy, 一起听播客, 图形方格纸](https://bestxtools.zhubai.love/posts/2174508953806163968)
@@ -101,7 +102,6 @@
 * [【2022-07-28】 好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, Vue Color Avatar, ...](https://bestxtools.zhubai.love/posts/2164322347946172416)
 * [【2022-07-21】 好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, Trianglify, ...](https://bestxtools.zhubai.love/posts/2161764591545049088)
 * [【2022-07-13】 好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, perfect-freehand, TypeLit.io, ...](https://bestxtools.zhubai.love/posts/2159035276579110912)
-* [【2022-07-07】 好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, Star Charts, LetsMarkdown, ui-color](https://bestxtools.zhubai.love/posts/2156659650731491328)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-15 06:00:07
+:alarm_clock: 更新时间: 2022-09-16 06:03:14
