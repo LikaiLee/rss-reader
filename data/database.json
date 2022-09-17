@@ -280,13 +280,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "AOD、灵动岛、相机，这才是 Pro 的完全体？iPhone 14 Pro 首发体验",
+                "link": "https://sspai.com/post/75762",
+                "published": "2022-09-17"
+            },
+            {
+                "title": "一派·Podcast | 毕业论文避坑指南",
+                "link": "https://sspai.com/post/75448",
+                "published": "2022-09-17"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/75760",
+                "published": "2022-09-16"
+            },
+            {
+                "title": "派周报 Vol. 009：知果罪果，其惟春秋",
+                "link": "https://sspai.com/prime/story/pi-weekly-009",
+                "published": "2022-09-16"
+            },
+            {
+                "title": "买新还是买旧，一步到位还是浅尝辄止：Apple Watch 系列导购",
+                "link": "https://sspai.com/post/75707",
+                "published": "2022-09-16"
+            },
+            {
+                "title": "数字文具盒｜用 Obsidian 来打造你的学术外脑",
+                "link": "https://sspai.com/post/75690",
+                "published": "2022-09-16"
+            },
             {
                 "title": "零代码体验 AI 绘画：在 M1/M2 Mac 本地运行 Stable Diffusion",
                 "link": "https://sspai.com/post/75682",
@@ -37909,6 +37939,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价 7 月新番动画《契约之吻》第八集？",
+                "link": "http://www.zhihu.com/question/547658854/answer/2638992010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-17"
+            },
+            {
+                "title": "漫画家鸟山明为什么没有培养出一些好弟子传承衣钵？",
+                "link": "http://www.zhihu.com/question/549035440/answer/2676256330?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-17"
+            },
+            {
                 "title": "怎样当一个好的漫画编辑？",
                 "link": "http://www.zhihu.com/question/22528311/answer/2674988456?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-16"
@@ -43309,7 +43349,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 2
     },
     {
         "id": 4,
@@ -43472,6 +43512,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
