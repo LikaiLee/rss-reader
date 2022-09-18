@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-09-18】 [送码] 白描 App 推出 Windows 版，朝「最佳中文 OCR 识别工具」更进一步](https://sspai.com/post/75705)
+* [【2022-09-17】 更新 watchOS 9 正式版后，这些功能值得一试](https://sspai.com/post/75744)
 * [【2022-09-17】 AOD、灵动岛、相机，这才是 Pro 的完全体？iPhone 14 Pro 首发体验](https://sspai.com/post/75762)
 * [【2022-09-17】 一派·Podcast | 毕业论文避坑指南](https://sspai.com/post/75448)
 * [【2022-09-16】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/75760)
@@ -43,8 +45,6 @@
 * [【2022-09-16】 数字文具盒｜用 Obsidian 来打造你的学术外脑](https://sspai.com/post/75690)
 * [【2022-09-16】 零代码体验 AI 绘画：在 M1/M2 Mac 本地运行 Stable Diffusion](https://sspai.com/post/75682)
 * [【2022-09-16】 派早报：Adobe 收购 Figma，荣耀发布 MagicBook V 14 2022 系列](https://sspai.com/post/75739)
-* [【2022-09-15】 新配色、新亮点：iPhone 14 系列、新款 Apple Watch 快速上手体验](https://sspai.com/post/75737)
-* [【2022-09-15】 在 AI 绘画的世界里，怎样才算一名合格的「甲方」？](https://sspai.com/post/75629)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-09-18】 有哪些陪伴你度过漫长岁月的好物？丨「向美好生活提案」每周精选](http://zhuanlan.zhihu.com/p/565129816?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-17】 如何评价 7 月新番动画《契约之吻》第八集？](http://www.zhihu.com/question/547658854/answer/2638992010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-17】 漫画家鸟山明为什么没有培养出一些好弟子传承衣钵？](http://www.zhihu.com/question/549035440/answer/2676256330?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-16】 怎样当一个好的漫画编辑？](http://www.zhihu.com/question/22528311/answer/2674988456?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-09-15】 《崩坏三》中的崩坏能是什么样的设定？](http://www.zhihu.com/question/544823829/answer/2588428479?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-15】 如何评价 Steam 游戏《鸡从天降》？](http://www.zhihu.com/question/552636369/answer/2666979556?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-15】 以太坊8年挖矿时代结束：V神、中国矿业，与英伟达](http://zhuanlan.zhihu.com/p/564697171?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-14】 读懂《百年孤独》才算真正开始了人生，孤独是生命的本色](http://zhuanlan.zhihu.com/p/557117784?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-17 05:36:01
+:alarm_clock: 更新时间: 2022-09-18 05:40:14
