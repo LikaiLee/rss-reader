@@ -288,6 +288,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "本月玩什么 | 斯普拉遁 3、最后生还者 第一部、NBA 2K23、FIFA 23",
+                "link": "https://sspai.com/post/75766",
+                "published": "2022-09-19"
+            },
+            {
+                "title": "派早报：EVGA 终止与英伟达合作，英特尔将弃用奔腾和赛扬品牌等",
+                "link": "https://sspai.com/post/75782",
+                "published": "2022-09-19"
+            },
+            {
+                "title": "iOS 16 锁屏小组件怎么玩？不妨试试这些 App",
+                "link": "https://sspai.com/post/75777",
+                "published": "2022-09-18"
+            },
+            {
+                "title": "[送码]《白描》推出 Windows 版，朝「最佳中文 OCR 识别工具」更进一步",
+                "link": "https://sspai.com/post/75705",
+                "published": "2022-09-18"
+            },
+            {
                 "title": "[送码] 白描 App 推出 Windows 版，朝「最佳中文 OCR 识别工具」更进一步",
                 "link": "https://sspai.com/post/75705",
                 "published": "2022-09-18"
@@ -7493,7 +7513,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -37949,6 +37969,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何看待 Adobe 以 200 亿美元收购 Figma？",
+                "link": "http://www.zhihu.com/question/553789736/answer/2676053072?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-19"
+            },
+            {
+                "title": "AI 绘图可以辅助游戏创作么，未来对游戏行业有哪些影响？",
+                "link": "http://www.zhihu.com/question/553504702/answer/2675777154?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-18"
+            },
+            {
                 "title": "有哪些陪伴你度过漫长岁月的好物？丨「向美好生活提案」每周精选",
                 "link": "http://zhuanlan.zhihu.com/p/565129816?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-18"
@@ -43364,7 +43394,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,

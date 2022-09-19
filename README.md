@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-09-19】 本月玩什么 | 斯普拉遁 3、最后生还者 第一部、NBA 2K23、FIFA 23](https://sspai.com/post/75766)
+* [【2022-09-19】 派早报：EVGA 终止与英伟达合作，英特尔将弃用奔腾和赛扬品牌等](https://sspai.com/post/75782)
+* [【2022-09-18】 iOS 16 锁屏小组件怎么玩？不妨试试这些 App](https://sspai.com/post/75777)
+* [【2022-09-18】 [送码]《白描》推出 Windows 版，朝「最佳中文 OCR 识别工具」更进一步](https://sspai.com/post/75705)
 * [【2022-09-18】 [送码] 白描 App 推出 Windows 版，朝「最佳中文 OCR 识别工具」更进一步](https://sspai.com/post/75705)
 * [【2022-09-17】 更新 watchOS 9 正式版后，这些功能值得一试](https://sspai.com/post/75744)
 * [【2022-09-17】 AOD、灵动岛、相机，这才是 Pro 的完全体？iPhone 14 Pro 首发体验](https://sspai.com/post/75762)
 * [【2022-09-17】 一派·Podcast | 毕业论文避坑指南](https://sspai.com/post/75448)
 * [【2022-09-16】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/75760)
 * [【2022-09-16】 派周报 Vol. 009：知果罪果，其惟春秋](https://sspai.com/prime/story/pi-weekly-009)
-* [【2022-09-16】 买新还是买旧，一步到位还是浅尝辄止：Apple Watch 系列导购](https://sspai.com/post/75707)
-* [【2022-09-16】 数字文具盒｜用 Obsidian 来打造你的学术外脑](https://sspai.com/post/75690)
-* [【2022-09-16】 零代码体验 AI 绘画：在 M1/M2 Mac 本地运行 Stable Diffusion](https://sspai.com/post/75682)
-* [【2022-09-16】 派早报：Adobe 收购 Figma，荣耀发布 MagicBook V 14 2022 系列](https://sspai.com/post/75739)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-09-19】 如何看待 Adobe 以 200 亿美元收购 Figma？](http://www.zhihu.com/question/553789736/answer/2676053072?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-09-18】 AI 绘图可以辅助游戏创作么，未来对游戏行业有哪些影响？](http://www.zhihu.com/question/553504702/answer/2675777154?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-18】 有哪些陪伴你度过漫长岁月的好物？丨「向美好生活提案」每周精选](http://zhuanlan.zhihu.com/p/565129816?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-17】 如何评价 7 月新番动画《契约之吻》第八集？](http://www.zhihu.com/question/547658854/answer/2638992010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-17】 漫画家鸟山明为什么没有培养出一些好弟子传承衣钵？](http://www.zhihu.com/question/549035440/answer/2676256330?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-09-16】 有没有什么科学的办法破解《jojo的奇妙冒险：石之海》缪缪只能记住三件新事情的能力？](http://www.zhihu.com/question/551831388/answer/2673015379?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-15】 《三角战略》游戏中人物强度哪些角色好用？](http://www.zhihu.com/question/527176295/answer/2581815244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-15】 《崩坏三》中的崩坏能是什么样的设定？](http://www.zhihu.com/question/544823829/answer/2588428479?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-15】 如何评价 Steam 游戏《鸡从天降》？](http://www.zhihu.com/question/552636369/answer/2666979556?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-15】 以太坊8年挖矿时代结束：V神、中国矿业，与英伟达](http://zhuanlan.zhihu.com/p/564697171?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-18 05:40:14
+:alarm_clock: 更新时间: 2022-09-19 06:10:51
