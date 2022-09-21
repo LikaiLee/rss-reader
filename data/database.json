@@ -288,6 +288,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "信息爆炸的时代，我这样搭建自己的全链路知识系统",
+                "link": "https://sspai.com/post/74992",
+                "published": "2022-09-21"
+            },
+            {
+                "title": "派早报：英伟达发布 RTX 40 系列显卡、AMD 发布 7020 系列处理器等",
+                "link": "https://sspai.com/post/75843",
+                "published": "2022-09-21"
+            },
+            {
+                "title": "一派·Podcast | 聊聊 Apple 秋季发布会以及新品体验",
+                "link": "https://sspai.com/post/75820",
+                "published": "2022-09-20"
+            },
+            {
+                "title": "全面、全能、全天候：跃我 GTR 4 & GTS 4 使用体验",
+                "link": "https://sspai.com/post/75747",
+                "published": "2022-09-20"
+            },
+            {
+                "title": "同型号共用总出问题，显示器的「身份证」为什么没用了？",
+                "link": "https://sspai.com/post/75834",
+                "published": "2022-09-20"
+            },
+            {
+                "title": "如何克服精神内耗并对抗分心",
+                "link": "https://sspai.com/post/75687",
+                "published": "2022-09-20"
+            },
+            {
                 "title": "工作、运动两不误，我是这样实现的",
                 "link": "https://sspai.com/post/75799",
                 "published": "2022-09-20"
@@ -7538,7 +7568,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -37994,6 +38024,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "融资到底谁说了算",
+                "link": "http://zhuanlan.zhihu.com/p/566481472?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-21"
+            },
+            {
+                "title": "如何评价鹤戾申创作的国产漫画《画漫画太难了》？",
+                "link": "http://www.zhihu.com/question/514831350/answer/2608048228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-21"
+            },
+            {
                 "title": "电动汽车的生命周期比燃油车的要更长吗？",
                 "link": "http://www.zhihu.com/question/552123306/answer/2677356072?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-20"
@@ -43459,7 +43499,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 2
     },
     {
         "id": 4,
