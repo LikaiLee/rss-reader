@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-09-22】 今年仅此一次大更新，Windows 11「正式版」亮点速览](https://sspai.com/post/75861)
+* [【2022-09-22】 派早报：小鹏发布 G9 SUV、Spotify 推出有声书服务等](https://sspai.com/post/75859)
+* [【2022-09-21】 早鸟特惠 | 按下录音键，以播客的名义记录你的世界](https://sspai.com/post/75849)
+* [【2022-09-21】 看什么 Café | 从《教父》的剧本改编，看如何渐进式阅读、思考和沉淀](https://sspai.com/post/75646)
+* [【2022-09-21】 译文 | 把听播客当成维基百科：完美的非正式学习资源库](https://sspai.com/post/75756)
 * [【2022-09-21】 信息爆炸的时代，我这样搭建自己的全链路知识系统](https://sspai.com/post/74992)
 * [【2022-09-21】 派早报：英伟达发布 RTX 40 系列显卡、AMD 发布 7020 系列处理器等](https://sspai.com/post/75843)
 * [【2022-09-20】 一派·Podcast | 聊聊 Apple 秋季发布会以及新品体验](https://sspai.com/post/75820)
 * [【2022-09-20】 全面、全能、全天候：跃我 GTR 4 & GTS 4 使用体验](https://sspai.com/post/75747)
 * [【2022-09-20】 同型号共用总出问题，显示器的「身份证」为什么没用了？](https://sspai.com/post/75834)
-* [【2022-09-20】 如何克服精神内耗并对抗分心](https://sspai.com/post/75687)
-* [【2022-09-20】 工作、运动两不误，我是这样实现的](https://sspai.com/post/75799)
-* [【2022-09-20】 派早报：华硕 ROG 游戏手机 6 天玑版发布、华米推出 Amazfit 跃我 GTR 4 手表等](https://sspai.com/post/75831)
-* [【2022-09-19】 派评 | 近期值得关注的 App](https://sspai.com/post/75818)
-* [【2022-09-19】 奔放的优雅：国标舞入坑指南](https://sspai.com/post/75746)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-09-21】 【机器学习】逻辑回归（非常详细）](http://zhuanlan.zhihu.com/p/74874291?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-21】 融资到底谁说了算](http://zhuanlan.zhihu.com/p/566481472?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-21】 如何评价鹤戾申创作的国产漫画《画漫画太难了》？](http://www.zhihu.com/question/514831350/answer/2608048228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-20】 电动汽车的生命周期比燃油车的要更长吗？](http://www.zhihu.com/question/552123306/answer/2677356072?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-09-20】 巴西的很多汽车是烧酒精的，为什么国内不可以效仿他们去造酒精汽车呢？](http://www.zhihu.com/question/294651406/answer/2669237809?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-20】 无人驾驶汽车真的适合城市道路吗？](http://www.zhihu.com/question/384519954/answer/2663706879?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-19】 藤本树的分镜能力怎么样，有哪些分镜能力和藤本差不多或者在他之上的漫画家？](http://www.zhihu.com/question/384099531/answer/2612213110?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-19】 9 月 19 日「英女王葬礼」在伦敦威斯敏斯特大教堂举行，具体流程如何？有哪些文化习俗？](http://www.zhihu.com/question/554342210/answer/2680313149?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-21 06:05:51
+:alarm_clock: 更新时间: 2022-09-22 06:01:27

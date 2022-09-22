@@ -288,6 +288,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "今年仅此一次大更新，Windows 11「正式版」亮点速览",
+                "link": "https://sspai.com/post/75861",
+                "published": "2022-09-22"
+            },
+            {
+                "title": "派早报：小鹏发布 G9 SUV、Spotify 推出有声书服务等",
+                "link": "https://sspai.com/post/75859",
+                "published": "2022-09-22"
+            },
+            {
+                "title": "早鸟特惠 | 按下录音键，以播客的名义记录你的世界",
+                "link": "https://sspai.com/post/75849",
+                "published": "2022-09-21"
+            },
+            {
+                "title": "看什么 Café | 从《教父》的剧本改编，看如何渐进式阅读、思考和沉淀",
+                "link": "https://sspai.com/post/75646",
+                "published": "2022-09-21"
+            },
+            {
+                "title": "译文 | 把听播客当成维基百科：完美的非正式学习资源库",
+                "link": "https://sspai.com/post/75756",
+                "published": "2022-09-21"
+            },
+            {
                 "title": "信息爆炸的时代，我这样搭建自己的全链路知识系统",
                 "link": "https://sspai.com/post/74992",
                 "published": "2022-09-21"
@@ -7568,7 +7593,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -38024,6 +38049,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "【机器学习】逻辑回归（非常详细）",
+                "link": "http://zhuanlan.zhihu.com/p/74874291?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-21"
+            },
+            {
                 "title": "融资到底谁说了算",
                 "link": "http://zhuanlan.zhihu.com/p/566481472?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-21"
@@ -43499,7 +43529,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,
