@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
-* [好工具周刊](#好工具周刊) 【+1】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-09-24】 数字文具盒｜Word 写论文，也可以很好用](https://sspai.com/post/75217)
+* [【2022-09-23】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75887)
+* [【2022-09-23】 派周报：年年焕新，不换不能新？](https://sspai.com/prime/story/pi-weekly-010)
+* [【2022-09-23】 灵动岛：欲盖弥彰与巧夺天工](https://sspai.com/post/75830)
+* [【2022-09-23】 iPhone mini 系列停更后，小屏手机还能选什么？](https://sspai.com/post/75884)
 * [【2022-09-23】 数字文具盒｜这些 app 帮我度过读研时光](https://sspai.com/post/75209)
 * [【2022-09-23】 派早报：索尼发布 PlayStation VR2 预热视频、Getty Image 禁止上传和销售由 AI 生成的图像](https://sspai.com/post/75876)
 * [【2022-09-22】 新玩意 120｜少数派的编辑们最近买了啥？](https://sspai.com/post/75867)
 * [【2022-09-22】 App+1 | 用三个单词定位世界的任一角落：what3words](https://sspai.com/post/75865)
 * [【2022-09-22】 数字文具盒｜软件打造的工作流，也是我的「外部个性」](https://sspai.com/post/75169)
-* [【2022-09-22】 今年仅此一次大更新，Windows 11「正式版」亮点速览](https://sspai.com/post/75861)
-* [【2022-09-22】 派早报：小鹏发布 G9 SUV、Spotify 推出有声书服务等](https://sspai.com/post/75859)
-* [【2022-09-21】 早鸟特惠 | 按下录音键，以播客的名义记录你的世界](https://sspai.com/post/75849)
-* [【2022-09-21】 看什么 Café | 从《教父》的剧本改编，看如何渐进式阅读、思考和沉淀](https://sspai.com/post/75646)
-* [【2022-09-21】 译文 | 把听播客当成维基百科：完美的非正式学习资源库](https://sspai.com/post/75756)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-09-23】 如果让你设计十年后的家，你觉得会长成什么样子？](http://www.zhihu.com/question/555159612/answer/2686421336?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-22】 汽车轮胎品牌那么多，该怎样选？](http://www.zhihu.com/question/338882903/answer/2684497936?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-21】 【机器学习】逻辑回归（非常详细）](http://zhuanlan.zhihu.com/p/74874291?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-21】 融资到底谁说了算](http://zhuanlan.zhihu.com/p/566481472?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-09-20】 无人驾驶汽车真的适合城市道路吗？](http://www.zhihu.com/question/384519954/answer/2675291404?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-20】 国家大力发展电动车，但是电池使用五年之后效率大幅降低，而更换电池费用又过高，到时候又该怎么处理呢？](http://www.zhihu.com/question/300419422/answer/2670950233?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-20】 巴西的很多汽车是烧酒精的，为什么国内不可以效仿他们去造酒精汽车呢？](http://www.zhihu.com/question/294651406/answer/2669237809?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-20】 无人驾驶汽车真的适合城市道路吗？](http://www.zhihu.com/question/384519954/answer/2663706879?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-23 05:59:30
+:alarm_clock: 更新时间: 2022-09-24 05:42:10

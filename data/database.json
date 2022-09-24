@@ -285,13 +285,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "数字文具盒｜Word 写论文，也可以很好用",
+                "link": "https://sspai.com/post/75217",
+                "published": "2022-09-24"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 6 部作品",
+                "link": "https://sspai.com/post/75887",
+                "published": "2022-09-23"
+            },
+            {
+                "title": "派周报：年年焕新，不换不能新？",
+                "link": "https://sspai.com/prime/story/pi-weekly-010",
+                "published": "2022-09-23"
+            },
+            {
+                "title": "灵动岛：欲盖弥彰与巧夺天工",
+                "link": "https://sspai.com/post/75830",
+                "published": "2022-09-23"
+            },
+            {
+                "title": "iPhone mini 系列停更后，小屏手机还能选什么？",
+                "link": "https://sspai.com/post/75884",
+                "published": "2022-09-23"
+            },
             {
                 "title": "数字文具盒｜这些 app 帮我度过读研时光",
                 "link": "https://sspai.com/post/75209",
@@ -38079,6 +38104,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如果让你设计十年后的家，你觉得会长成什么样子？",
+                "link": "http://www.zhihu.com/question/555159612/answer/2686421336?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-23"
+            },
+            {
                 "title": "汽车轮胎品牌那么多，该怎样选？",
                 "link": "http://www.zhihu.com/question/338882903/answer/2684497936?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-22"
@@ -43732,6 +43762,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
