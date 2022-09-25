@@ -293,6 +293,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "数字文具盒｜将知识内化为个人数据库：这是我的笔记工作流",
+                "link": "https://sspai.com/post/75364",
+                "published": "2022-09-25"
+            },
+            {
+                "title": "具透 | iOS 16 通知管理迷思，一个通知的 N 种呈现方式",
+                "link": "https://sspai.com/post/75895",
+                "published": "2022-09-24"
+            },
+            {
                 "title": "数字文具盒｜Word 写论文，也可以很好用",
                 "link": "https://sspai.com/post/75217",
                 "published": "2022-09-24"
@@ -7648,7 +7658,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -43594,7 +43604,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

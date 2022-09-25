@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-09-25】 数字文具盒｜将知识内化为个人数据库：这是我的笔记工作流](https://sspai.com/post/75364)
+* [【2022-09-24】 具透 | iOS 16 通知管理迷思，一个通知的 N 种呈现方式](https://sspai.com/post/75895)
 * [【2022-09-24】 数字文具盒｜Word 写论文，也可以很好用](https://sspai.com/post/75217)
 * [【2022-09-23】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75887)
 * [【2022-09-23】 派周报：年年焕新，不换不能新？](https://sspai.com/prime/story/pi-weekly-010)
@@ -43,8 +45,6 @@
 * [【2022-09-23】 数字文具盒｜这些 app 帮我度过读研时光](https://sspai.com/post/75209)
 * [【2022-09-23】 派早报：索尼发布 PlayStation VR2 预热视频、Getty Image 禁止上传和销售由 AI 生成的图像](https://sspai.com/post/75876)
 * [【2022-09-22】 新玩意 120｜少数派的编辑们最近买了啥？](https://sspai.com/post/75867)
-* [【2022-09-22】 App+1 | 用三个单词定位世界的任一角落：what3words](https://sspai.com/post/75865)
-* [【2022-09-22】 数字文具盒｜软件打造的工作流，也是我的「外部个性」](https://sspai.com/post/75169)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-24 05:42:10
+:alarm_clock: 更新时间: 2022-09-25 05:36:26
