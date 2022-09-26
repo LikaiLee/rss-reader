@@ -293,6 +293,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从信息获取到内容产出，这是一位新闻传媒学生的「数字文具盒」",
+                "link": "https://sspai.com/post/75398",
+                "published": "2022-09-26"
+            },
+            {
+                "title": "派早报：Mozilla 指责强迫使用默认浏览器行为，支付宝宣布治理虚假刷单等",
+                "link": "https://sspai.com/post/75908",
+                "published": "2022-09-26"
+            },
+            {
+                "title": "任意键｜《赛博朋克 2077》稳了，暂时",
+                "link": "https://sspai.com/post/75907",
+                "published": "2022-09-25"
+            },
+            {
                 "title": "数字文具盒｜将知识内化为个人数据库：这是我的笔记工作流",
                 "link": "https://sspai.com/post/75364",
                 "published": "2022-09-25"
@@ -7658,7 +7673,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -38114,6 +38129,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "从专业的角度来说，买电车还是油车还是混动好？",
+                "link": "http://www.zhihu.com/question/471889503/answer/2689267420?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-26"
+            },
+            {
                 "title": "如果让你设计十年后的家，你觉得会长成什么样子？",
                 "link": "http://www.zhihu.com/question/555159612/answer/2686421336?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-23"
@@ -43604,7 +43624,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
