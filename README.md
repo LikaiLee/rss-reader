@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-09-27】 为什么 iPhone 14 Pro 在我看来是「里程碑式」的一代？](https://sspai.com/post/75926)
+* [【2022-09-27】 听播客也要收集精彩片段，哪个应用更适合？](https://sspai.com/post/75736)
+* [【2022-09-27】 派早报：vivo X Fold+ 折叠屏手机发布、QQ 阅读电子书将停止运营等](https://sspai.com/post/75943)
+* [【2022-09-26】 派评 | 近期值得关注的 App](https://sspai.com/post/75936)
+* [【2022-09-26】 超 200 款模板全新登场，让人人都能轻松做出好设计：Pixelmator Pro 3.0](https://sspai.com/post/75914)
+* [【2022-09-26】 城市漫步指南：游尽江南淡泊处，书香落畔梦姑苏](https://sspai.com/post/75918)
 * [【2022-09-26】 从信息获取到内容产出，这是一位新闻传媒学生的「数字文具盒」](https://sspai.com/post/75398)
 * [【2022-09-26】 派早报：Mozilla 指责强迫使用默认浏览器行为，支付宝宣布治理虚假刷单等](https://sspai.com/post/75908)
 * [【2022-09-25】 任意键｜《赛博朋克 2077》稳了，暂时](https://sspai.com/post/75907)
 * [【2022-09-25】 数字文具盒｜将知识内化为个人数据库：这是我的笔记工作流](https://sspai.com/post/75364)
-* [【2022-09-24】 具透 | iOS 16 通知管理迷思，一个通知的 N 种呈现方式](https://sspai.com/post/75895)
-* [【2022-09-24】 数字文具盒｜Word 写论文，也可以很好用](https://sspai.com/post/75217)
-* [【2022-09-23】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75887)
-* [【2022-09-23】 派周报：年年焕新，不换不能新？](https://sspai.com/prime/story/pi-weekly-010)
-* [【2022-09-23】 灵动岛：欲盖弥彰与巧夺天工](https://sspai.com/post/75830)
-* [【2022-09-23】 iPhone mini 系列停更后，小屏手机还能选什么？](https://sspai.com/post/75884)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-26 06:08:09
+:alarm_clock: 更新时间: 2022-09-27 05:59:26

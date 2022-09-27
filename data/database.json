@@ -293,6 +293,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "为什么 iPhone 14 Pro 在我看来是「里程碑式」的一代？",
+                "link": "https://sspai.com/post/75926",
+                "published": "2022-09-27"
+            },
+            {
+                "title": "听播客也要收集精彩片段，哪个应用更适合？",
+                "link": "https://sspai.com/post/75736",
+                "published": "2022-09-27"
+            },
+            {
+                "title": "派早报：vivo X Fold+ 折叠屏手机发布、QQ 阅读电子书将停止运营等",
+                "link": "https://sspai.com/post/75943",
+                "published": "2022-09-27"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/75936",
+                "published": "2022-09-26"
+            },
+            {
+                "title": "超 200 款模板全新登场，让人人都能轻松做出好设计：Pixelmator Pro 3.0",
+                "link": "https://sspai.com/post/75914",
+                "published": "2022-09-26"
+            },
+            {
+                "title": "城市漫步指南：游尽江南淡泊处，书香落畔梦姑苏",
+                "link": "https://sspai.com/post/75918",
+                "published": "2022-09-26"
+            },
+            {
                 "title": "从信息获取到内容产出，这是一位新闻传媒学生的「数字文具盒」",
                 "link": "https://sspai.com/post/75398",
                 "published": "2022-09-26"
@@ -7673,7 +7703,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -43624,7 +43654,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
