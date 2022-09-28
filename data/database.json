@@ -293,6 +293,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "用代码编辑器进行知识管理：我用 VSCode 构建自己的笔记系统",
+                "link": "https://sspai.com/post/75940",
+                "published": "2022-09-28"
+            },
+            {
+                "title": "派早报：PICO 4 系列 VR 一体机发布、Xiaomi Civi 2 发布等",
+                "link": "https://sspai.com/post/75962",
+                "published": "2022-09-28"
+            },
+            {
+                "title": "沙里淘金、自力更生：如何在大学官网里找到有用的信息",
+                "link": "https://sspai.com/post/75946",
+                "published": "2022-09-27"
+            },
+            {
+                "title": "咖啡地图 | 亚洲产地综合篇",
+                "link": "https://sspai.com/post/75920",
+                "published": "2022-09-27"
+            },
+            {
                 "title": "为什么 iPhone 14 Pro 在我看来是「里程碑式」的一代？",
                 "link": "https://sspai.com/post/75926",
                 "published": "2022-09-27"
@@ -7703,7 +7723,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -38159,6 +38179,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "美联储大放水是在收割全世界，现在加息又是收割全世界，为什么他一直在赢，这其中有什么经济学原理吗?",
+                "link": "http://www.zhihu.com/question/555030440/answer/2690525820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-27"
+            },
+            {
+                "title": "你有没有穿了 10 年以上的衣服还是很喜欢，舍不得丢它？",
+                "link": "http://www.zhihu.com/question/486469860/answer/2690429038?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-27"
+            },
+            {
                 "title": "从专业的角度来说，买电车还是油车还是混动好？",
                 "link": "http://www.zhihu.com/question/471889503/answer/2689267420?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-26"
@@ -43654,7 +43684,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
