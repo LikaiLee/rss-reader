@@ -293,6 +293,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫步指南：武汉，属于大江大湖的浪漫",
+                "link": "https://sspai.com/post/75964",
+                "published": "2022-09-29"
+            },
+            {
+                "title": "派早报：亚马逊推出多款新品、罗技更新 Mac 专属产品线等",
+                "link": "https://sspai.com/post/75987",
+                "published": "2022-09-29"
+            },
+            {
+                "title": "从世乒赛团体赛开始，看懂每一场乒乓球比赛",
+                "link": "https://sspai.com/post/75965",
+                "published": "2022-09-28"
+            },
+            {
+                "title": "面向小众的 TWS：Cyberblade 主观体验",
+                "link": "https://sspai.com/post/75968",
+                "published": "2022-09-28"
+            },
+            {
+                "title": "Notion 的自动化改造之路：Notion x Zapier 初尝试",
+                "link": "https://sspai.com/post/75842",
+                "published": "2022-09-28"
+            },
+            {
                 "title": "用代码编辑器进行知识管理：我用 VSCode 构建自己的笔记系统",
                 "link": "https://sspai.com/post/75940",
                 "published": "2022-09-28"
@@ -7723,7 +7748,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -38179,6 +38204,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "对于现在欧元暴跌成美元这个事件，大家有什么看法吗？",
+                "link": "http://www.zhihu.com/question/27521281/answer/2691526918?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-29"
+            },
+            {
+                "title": "适量喝咖啡对身体有哪些好处？",
+                "link": "http://www.zhihu.com/question/546343871/answer/2692019428?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-29"
+            },
+            {
+                "title": "日本式的“深刻”----1995版《攻壳机动队》",
+                "link": "http://zhuanlan.zhihu.com/p/568411385?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-28"
+            },
+            {
                 "title": "美联储大放水是在收割全世界，现在加息又是收割全世界，为什么他一直在赢，这其中有什么经济学原理吗?",
                 "link": "http://www.zhihu.com/question/555030440/answer/2690525820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-27"
@@ -43684,7 +43724,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 4,
