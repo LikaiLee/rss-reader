@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 225 期）：NPC 演员也是一种职业",
+                "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html",
+                "published": "2022-09-30"
+            },
+            {
                 "title": "科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch",
                 "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html",
                 "published": "2022-09-23"
@@ -285,13 +290,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "户外不完全吃饱指南",
+                "link": "https://sspai.com/post/75980",
+                "published": "2022-09-30"
+            },
+            {
+                "title": "派早报：Cloudflare 推出 CAPTCHA 替代方案 Turnstile、Google 宣布关闭 Stadia 云游戏串流平台",
+                "link": "https://sspai.com/post/76002",
+                "published": "2022-09-30"
+            },
+            {
+                "title": "新玩意 121｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/75992",
+                "published": "2022-09-29"
+            },
+            {
+                "title": "相信对谈的力量，一些播客小心得",
+                "link": "https://sspai.com/post/75945",
+                "published": "2022-09-29"
+            },
+            {
+                "title": "用手机给自己的环境建个模，没有 LiDAR 也能用：Polycam",
+                "link": "https://sspai.com/post/75985",
+                "published": "2022-09-29"
+            },
             {
                 "title": "城市漫步指南：武汉，属于大江大湖的浪漫",
                 "link": "https://sspai.com/post/75964",
@@ -38204,6 +38234,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何看待国内经济学研究中reduced form的应用微观实证研究泛滥？",
+                "link": "http://www.zhihu.com/question/264825623/answer/2687447623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-09-29"
+            },
+            {
                 "title": "对于现在欧元暴跌成美元这个事件，大家有什么看法吗？",
                 "link": "http://www.zhihu.com/question/27521281/answer/2691526918?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-29"
@@ -43724,13 +43759,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1",
+                "link": "https://bestxtools.zhubai.love/posts/2187203672369479680",
+                "published": "2022-09-29"
+            },
             {
                 "title": "好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons",
                 "link": "https://bestxtools.zhubai.love/posts/2184646951055171584",
@@ -43892,6 +43932,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+1】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-09-30】 科技爱好者周刊（第 225 期）：NPC 演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)
 * [【2022-09-23】 科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html)
 * [【2022-09-16】 科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html)
 * [【2022-09-09】 科技爱好者周刊（第 222 期）：四十年编程感想](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html)
@@ -25,7 +26,6 @@
 * [【2022-08-12】 科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)
 * [【2022-08-05】 科技爱好者周刊（第 217 期）：沙特的新未来城](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)
 * [【2022-08-02】 DNS 查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html)
-* [【2022-07-29】 科技爱好者周刊（第 216 期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-09-30】 户外不完全吃饱指南](https://sspai.com/post/75980)
+* [【2022-09-30】 派早报：Cloudflare 推出 CAPTCHA 替代方案 Turnstile、Google 宣布关闭 Stadia 云游戏串流平台](https://sspai.com/post/76002)
+* [【2022-09-29】 新玩意 121｜少数派的编辑们最近买了啥？](https://sspai.com/post/75992)
+* [【2022-09-29】 相信对谈的力量，一些播客小心得](https://sspai.com/post/75945)
+* [【2022-09-29】 用手机给自己的环境建个模，没有 LiDAR 也能用：Polycam](https://sspai.com/post/75985)
 * [【2022-09-29】 城市漫步指南：武汉，属于大江大湖的浪漫](https://sspai.com/post/75964)
 * [【2022-09-29】 派早报：亚马逊推出多款新品、罗技更新 Mac 专属产品线等](https://sspai.com/post/75987)
 * [【2022-09-28】 从世乒赛团体赛开始，看懂每一场乒乓球比赛](https://sspai.com/post/75965)
 * [【2022-09-28】 面向小众的 TWS：Cyberblade 主观体验](https://sspai.com/post/75968)
 * [【2022-09-28】 Notion 的自动化改造之路：Notion x Zapier 初尝试](https://sspai.com/post/75842)
-* [【2022-09-28】 用代码编辑器进行知识管理：我用 VSCode 构建自己的笔记系统](https://sspai.com/post/75940)
-* [【2022-09-28】 派早报：PICO 4 系列 VR 一体机发布、Xiaomi Civi 2 发布等](https://sspai.com/post/75962)
-* [【2022-09-27】 沙里淘金、自力更生：如何在大学官网里找到有用的信息](https://sspai.com/post/75946)
-* [【2022-09-27】 咖啡地图 | 亚洲产地综合篇](https://sspai.com/post/75920)
-* [【2022-09-27】 为什么 iPhone 14 Pro 在我看来是「里程碑式」的一代？](https://sspai.com/post/75926)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-09-29】 如何看待国内经济学研究中reduced form的应用微观实证研究泛滥？](http://www.zhihu.com/question/264825623/answer/2687447623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-29】 对于现在欧元暴跌成美元这个事件，大家有什么看法吗？](http://www.zhihu.com/question/27521281/answer/2691526918?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-29】 适量喝咖啡对身体有哪些好处？](http://www.zhihu.com/question/546343871/answer/2692019428?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-28】 日本式的“深刻”----1995版《攻壳机动队》](http://zhuanlan.zhihu.com/p/568411385?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-09-23】 如果让你设计十年后的家，你觉得会长成什么样子？](http://www.zhihu.com/question/555159612/answer/2686421336?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-22】 汽车轮胎品牌那么多，该怎样选？](http://www.zhihu.com/question/338882903/answer/2684497936?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-21】 【机器学习】逻辑回归（非常详细）](http://zhuanlan.zhihu.com/p/74874291?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-21】 融资到底谁说了算](http://zhuanlan.zhihu.com/p/566481472?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-09-29】 好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://bestxtools.zhubai.love/posts/2187203672369479680)
 * [【2022-09-22】 好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons](https://bestxtools.zhubai.love/posts/2184646951055171584)
 * [【2022-09-15】 好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, OurBoard, AnimatiSS, ...](https://bestxtools.zhubai.love/posts/2182124891627585536)
 * [【2022-09-08】 好工具周刊（第 29 期）: Squoosh, AI Background Generator, Motionity, Privnote, 小鸡词典, 发音纠正器, ...](https://bestxtools.zhubai.love/posts/2179567147990081536)
@@ -101,7 +102,6 @@
 * [【2022-08-10】 好工具周刊（第 25 期）: QuickRef, Dillinger, Tomodoro, Line Graph Maker, Ava Maker, Gofile, Ventusky](https://bestxtools.zhubai.love/posts/2169191886840389632)
 * [【2022-08-04】 好工具周刊（第 24 期）: OSS Insight, Active GitHub Forks, Hat.sh, snappify, Purple Photo, stooge, ...](https://bestxtools.zhubai.love/posts/2166817480273465344)
 * [【2022-07-28】 好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, Vue Color Avatar, ...](https://bestxtools.zhubai.love/posts/2164322347946172416)
-* [【2022-07-21】 好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, Trianglify, ...](https://bestxtools.zhubai.love/posts/2161764591545049088)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-09-29 06:07:30
+:alarm_clock: 更新时间: 2022-09-30 06:11:50
