@@ -290,13 +290,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "城市漫步指南 | 为我踟蹰停酒盏，与君约略说杭州",
+                "link": "https://sspai.com/post/75929",
+                "published": "2022-10-01"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/76013",
+                "published": "2022-09-30"
+            },
+            {
+                "title": "派周报：搜索的边界",
+                "link": "https://sspai.com/prime/story/pi-weekly-011",
+                "published": "2022-09-30"
+            },
+            {
+                "title": "十一宅家出行都适宜，这些产品值得选购",
+                "link": "https://sspai.com/post/75982",
+                "published": "2022-09-30"
+            },
+            {
+                "title": "这些关于摄影的装备、技巧和理论，助你假期拍摄更顺利",
+                "link": "https://sspai.com/post/75837",
+                "published": "2022-09-30"
+            },
+            {
+                "title": "在 iOS 找回你需要的「节假日闹钟」",
+                "link": "https://sspai.com/prime/story/shortcuts-holiday-alarm",
+                "published": "2022-09-30"
+            },
             {
                 "title": "户外不完全吃饱指南",
                 "link": "https://sspai.com/post/75980",
@@ -7778,7 +7808,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -43759,7 +43789,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
@@ -43932,6 +43962,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
