@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-10-02】 6 个视频，3 万粉丝，少数派作者是怎么运营 B 站的？](https://sspai.com/post/75780)
+* [【2022-10-01】 一日一技｜Obsidian Command 进阶用法三则](https://sspai.com/post/75847)
 * [【2022-10-01】 城市漫步指南 | 为我踟蹰停酒盏，与君约略说杭州](https://sspai.com/post/75929)
 * [【2022-09-30】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/76013)
 * [【2022-09-30】 派周报：搜索的边界](https://sspai.com/prime/story/pi-weekly-011)
@@ -43,8 +45,6 @@
 * [【2022-09-30】 在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm)
 * [【2022-09-30】 户外不完全吃饱指南](https://sspai.com/post/75980)
 * [【2022-09-30】 派早报：Cloudflare 推出 CAPTCHA 替代方案 Turnstile、Google 宣布关闭 Stadia 云游戏串流平台](https://sspai.com/post/76002)
-* [【2022-09-29】 新玩意 121｜少数派的编辑们最近买了啥？](https://sspai.com/post/75992)
-* [【2022-09-29】 相信对谈的力量，一些播客小心得](https://sspai.com/post/75945)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-01 05:58:08
+:alarm_clock: 更新时间: 2022-10-02 05:44:11
