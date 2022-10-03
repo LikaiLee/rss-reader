@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-10-03】 译文 | 一年一会：听职业摄影师 Austin Mann 聊 iPhone 14 Pro 影像系统](https://sspai.com/post/76025)
+* [【2022-10-02】 趁着换季，给衣柜来一次断舍离](https://sspai.com/post/75973)
 * [【2022-10-02】 6 个视频，3 万粉丝，少数派作者是怎么运营 B 站的？](https://sspai.com/post/75780)
 * [【2022-10-01】 一日一技｜Obsidian Command 进阶用法三则](https://sspai.com/post/75847)
 * [【2022-10-01】 城市漫步指南 | 为我踟蹰停酒盏，与君约略说杭州](https://sspai.com/post/75929)
@@ -43,8 +45,6 @@
 * [【2022-09-30】 十一宅家出行都适宜，这些产品值得选购](https://sspai.com/post/75982)
 * [【2022-09-30】 这些关于摄影的装备、技巧和理论，助你假期拍摄更顺利](https://sspai.com/post/75837)
 * [【2022-09-30】 在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm)
-* [【2022-09-30】 户外不完全吃饱指南](https://sspai.com/post/75980)
-* [【2022-09-30】 派早报：Cloudflare 推出 CAPTCHA 替代方案 Turnstile、Google 宣布关闭 Stadia 云游戏串流平台](https://sspai.com/post/76002)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-02 05:44:11
+:alarm_clock: 更新时间: 2022-10-03 05:40:03
