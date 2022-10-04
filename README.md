@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-10-04】 数据可视化怎么配色？这些技巧值得一试。](https://sspai.com/post/75989)
+* [【2022-10-03】 派评 | 近期值得关注的 App](https://sspai.com/post/76029)
 * [【2022-10-03】 译文 | 一年一会：听职业摄影师 Austin Mann 聊 iPhone 14 Pro 影像系统](https://sspai.com/post/76025)
 * [【2022-10-02】 趁着换季，给衣柜来一次断舍离](https://sspai.com/post/75973)
 * [【2022-10-02】 6 个视频，3 万粉丝，少数派作者是怎么运营 B 站的？](https://sspai.com/post/75780)
@@ -43,8 +45,6 @@
 * [【2022-09-30】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/76013)
 * [【2022-09-30】 派周报：搜索的边界](https://sspai.com/prime/story/pi-weekly-011)
 * [【2022-09-30】 十一宅家出行都适宜，这些产品值得选购](https://sspai.com/post/75982)
-* [【2022-09-30】 这些关于摄影的装备、技巧和理论，助你假期拍摄更顺利](https://sspai.com/post/75837)
-* [【2022-09-30】 在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-03 05:40:03
+:alarm_clock: 更新时间: 2022-10-04 05:42:11
