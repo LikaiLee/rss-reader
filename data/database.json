@@ -298,6 +298,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不买可以先收藏 12：如何理性高效地选购适合自己的二手房",
+                "link": "https://sspai.com/post/75977",
+                "published": "2022-10-05"
+            },
+            {
+                "title": "锁屏小组件、专注模式过滤、状态标签……文本效率工具 Drafts 5 更新详解",
+                "link": "https://sspai.com/post/76034",
+                "published": "2022-10-04"
+            },
+            {
                 "title": "数据可视化怎么配色？这些技巧值得一试。",
                 "link": "https://sspai.com/post/75989",
                 "published": "2022-10-04"
@@ -38294,6 +38304,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "你错了，爱因斯坦先生！【诺贝尔物理学奖预测——贝尔不等式】",
+                "link": "http://zhuanlan.zhihu.com/p/570522549?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-04"
+            },
+            {
+                "title": "你觉得你离诺贝尔奖最近的一刻是什么时候？",
+                "link": "http://www.zhihu.com/question/36037775/answer/2701248853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-04"
+            },
+            {
                 "title": "如何看待国内经济学研究中reduced form的应用微观实证研究泛滥？",
                 "link": "http://www.zhihu.com/question/264825623/answer/2687447623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-09-29"
@@ -43819,7 +43839,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
