@@ -298,6 +298,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "看什么 Café | 千变万化不离其宗，电影片头那些有趣「改编」",
+                "link": "https://sspai.com/post/76017",
+                "published": "2022-10-06"
+            },
+            {
+                "title": "以最简单的方式理解 HIIT，然后动起来",
+                "link": "https://sspai.com/post/76004",
+                "published": "2022-10-05"
+            },
+            {
                 "title": "不买可以先收藏 12：如何理性高效地选购适合自己的二手房",
                 "link": "https://sspai.com/post/75977",
                 "published": "2022-10-05"
@@ -43839,7 +43849,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
