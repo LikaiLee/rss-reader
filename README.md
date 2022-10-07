@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-10-07】 Google 的新手机和第一款手表，讲的是你已经听过的老故事](https://sspai.com/post/76051)
+* [【2022-10-06】 新玩意 122｜少数派的作者们最近买了啥？](https://sspai.com/post/76045)
 * [【2022-10-06】 看什么 Café | 千变万化不离其宗，电影片头那些有趣「改编」](https://sspai.com/post/76017)
 * [【2022-10-05】 以最简单的方式理解 HIIT，然后动起来](https://sspai.com/post/76004)
 * [【2022-10-05】 不买可以先收藏 12：如何理性高效地选购适合自己的二手房](https://sspai.com/post/75977)
@@ -43,8 +45,6 @@
 * [【2022-10-03】 派评 | 近期值得关注的 App](https://sspai.com/post/76029)
 * [【2022-10-03】 译文 | 一年一会：听职业摄影师 Austin Mann 聊 iPhone 14 Pro 影像系统](https://sspai.com/post/76025)
 * [【2022-10-02】 趁着换季，给衣柜来一次断舍离](https://sspai.com/post/75973)
-* [【2022-10-02】 6 个视频，3 万粉丝，少数派作者是怎么运营 B 站的？](https://sspai.com/post/75780)
-* [【2022-10-01】 一日一技｜Obsidian Command 进阶用法三则](https://sspai.com/post/75847)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-10-06】 2022 年诺贝尔化学奖授予点击化学和生物正交化学，夏普莱斯第二次获奖，有哪些信息值得关注？](http://www.zhihu.com/question/557810306/answer/2702654423?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-04】 你错了，爱因斯坦先生！【诺贝尔物理学奖预测——贝尔不等式】](http://zhuanlan.zhihu.com/p/570522549?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-04】 你觉得你离诺贝尔奖最近的一刻是什么时候？](http://www.zhihu.com/question/36037775/answer/2701248853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-29】 如何看待国内经济学研究中reduced form的应用微观实证研究泛滥？](http://www.zhihu.com/question/264825623/answer/2687447623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-09-27】 美联储大放水是在收割全世界，现在加息又是收割全世界，为什么他一直在赢，这其中有什么经济学原理吗?](http://www.zhihu.com/question/555030440/answer/2690525820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-27】 你有没有穿了 10 年以上的衣服还是很喜欢，舍不得丢它？](http://www.zhihu.com/question/486469860/answer/2690429038?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-26】 从专业的角度来说，买电车还是油车还是混动好？](http://www.zhihu.com/question/471889503/answer/2689267420?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-23】 如果让你设计十年后的家，你觉得会长成什么样子？](http://www.zhihu.com/question/555159612/answer/2686421336?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-06 05:33:49
+:alarm_clock: 更新时间: 2022-10-07 05:33:59
