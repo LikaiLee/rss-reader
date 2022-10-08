@@ -298,6 +298,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 妙用 Keynote 实现数据可视化",
+                "link": "https://sspai.com/post/76001",
+                "published": "2022-10-08"
+            },
+            {
+                "title": "派早报：Pixel 7 系列及 Pixel Watch 发布、欧洲议会通过充电器规格统一法案等",
+                "link": "https://sspai.com/post/76061",
+                "published": "2022-10-08"
+            },
+            {
+                "title": "你不曾想到的奇妙用处，「在线会议」还有这些新玩法",
+                "link": "https://sspai.com/post/76043",
+                "published": "2022-10-07"
+            },
+            {
                 "title": "Google 的新手机和第一款手表，讲的是你已经听过的老故事",
                 "link": "https://sspai.com/post/76051",
                 "published": "2022-10-07"
@@ -7868,7 +7883,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -38323,6 +38338,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "2022年，游戏行业目前现状如何？将会发生哪些变化？",
+                "link": "http://www.zhihu.com/question/551231716/answer/2705219750?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-08"
+            },
             {
                 "title": "2022 年诺贝尔化学奖授予点击化学和生物正交化学，夏普莱斯第二次获奖，有哪些信息值得关注？",
                 "link": "http://www.zhihu.com/question/557810306/answer/2702654423?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
