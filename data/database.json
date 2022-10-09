@@ -298,6 +298,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "幕后 | 去往「夜之城」的故事背后：CDPR 开发团队核心成员专访",
+                "link": "https://sspai.com/post/76056",
+                "published": "2022-10-09"
+            },
+            {
+                "title": "派早报：Steam Deck 开启现货销售模式、特斯拉将交付电动卡车等",
+                "link": "https://sspai.com/post/76071",
+                "published": "2022-10-09"
+            },
+            {
+                "title": "城市漫步指南：濑户内海的夏天",
+                "link": "https://sspai.com/post/76059",
+                "published": "2022-10-08"
+            },
+            {
+                "title": "如何理解摄影：浅议摄影的创造性",
+                "link": "https://sspai.com/post/76044",
+                "published": "2022-10-08"
+            },
+            {
+                "title": "今天是世界候鸟日，来聊聊科技以外的事……",
+                "link": "https://sspai.com/post/76066",
+                "published": "2022-10-08"
+            },
+            {
+                "title": "回首 16 载，经典永流传：MacBook Pro 发展史",
+                "link": "https://sspai.com/post/76007",
+                "published": "2022-10-08"
+            },
+            {
                 "title": "一日一技 | 妙用 Keynote 实现数据可视化",
                 "link": "https://sspai.com/post/76001",
                 "published": "2022-10-08"
@@ -7883,7 +7913,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -38338,6 +38368,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "如何评价《英雄联盟》S13 季前赛改动前瞻？",
+                "link": "http://www.zhihu.com/question/557579391/answer/2700486345?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-08"
+            },
             {
                 "title": "2022年，游戏行业目前现状如何？将会发生哪些变化？",
                 "link": "http://www.zhihu.com/question/551231716/answer/2705219750?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",

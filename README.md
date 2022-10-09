@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-10-09】 幕后 | 去往「夜之城」的故事背后：CDPR 开发团队核心成员专访](https://sspai.com/post/76056)
+* [【2022-10-09】 派早报：Steam Deck 开启现货销售模式、特斯拉将交付电动卡车等](https://sspai.com/post/76071)
+* [【2022-10-08】 城市漫步指南：濑户内海的夏天](https://sspai.com/post/76059)
+* [【2022-10-08】 如何理解摄影：浅议摄影的创造性](https://sspai.com/post/76044)
+* [【2022-10-08】 今天是世界候鸟日，来聊聊科技以外的事……](https://sspai.com/post/76066)
+* [【2022-10-08】 回首 16 载，经典永流传：MacBook Pro 发展史](https://sspai.com/post/76007)
 * [【2022-10-08】 一日一技 | 妙用 Keynote 实现数据可视化](https://sspai.com/post/76001)
 * [【2022-10-08】 派早报：Pixel 7 系列及 Pixel Watch 发布、欧洲议会通过充电器规格统一法案等](https://sspai.com/post/76061)
 * [【2022-10-07】 你不曾想到的奇妙用处，「在线会议」还有这些新玩法](https://sspai.com/post/76043)
 * [【2022-10-07】 Google 的新手机和第一款手表，讲的是你已经听过的老故事](https://sspai.com/post/76051)
-* [【2022-10-06】 新玩意 122｜少数派的作者们最近买了啥？](https://sspai.com/post/76045)
-* [【2022-10-06】 看什么 Café | 千变万化不离其宗，电影片头那些有趣「改编」](https://sspai.com/post/76017)
-* [【2022-10-05】 以最简单的方式理解 HIIT，然后动起来](https://sspai.com/post/76004)
-* [【2022-10-05】 不买可以先收藏 12：如何理性高效地选购适合自己的二手房](https://sspai.com/post/75977)
-* [【2022-10-04】 锁屏小组件、专注模式过滤、状态标签……文本效率工具 Drafts 5 更新详解](https://sspai.com/post/76034)
-* [【2022-10-04】 数据可视化怎么配色？这些技巧值得一试。](https://sspai.com/post/75989)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-10-08】 如何评价《英雄联盟》S13 季前赛改动前瞻？](http://www.zhihu.com/question/557579391/answer/2700486345?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-08】 2022年，游戏行业目前现状如何？将会发生哪些变化？](http://www.zhihu.com/question/551231716/answer/2705219750?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-06】 2022 年诺贝尔化学奖授予点击化学和生物正交化学，夏普莱斯第二次获奖，有哪些信息值得关注？](http://www.zhihu.com/question/557810306/answer/2702654423?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-04】 你错了，爱因斯坦先生！【诺贝尔物理学奖预测——贝尔不等式】](http://zhuanlan.zhihu.com/p/570522549?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-09-29】 适量喝咖啡对身体有哪些好处？](http://www.zhihu.com/question/546343871/answer/2692019428?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-28】 日本式的“深刻”----1995版《攻壳机动队》](http://zhuanlan.zhihu.com/p/568411385?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-27】 美联储大放水是在收割全世界，现在加息又是收割全世界，为什么他一直在赢，这其中有什么经济学原理吗?](http://www.zhihu.com/question/555030440/answer/2690525820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-27】 你有没有穿了 10 年以上的衣服还是很喜欢，舍不得丢它？](http://www.zhihu.com/question/486469860/answer/2690429038?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-08 05:28:21
+:alarm_clock: 更新时间: 2022-10-09 05:37:09
