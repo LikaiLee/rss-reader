@@ -298,6 +298,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不是你的怀旧助手：多亲 F22 Pro 两周体验",
+                "link": "https://sspai.com/post/76092",
+                "published": "2022-10-10"
+            },
+            {
+                "title": "派早报：法官推迟推特诉马斯克案庭审；微软推出新款 Xbox 迷你冰箱等",
+                "link": "https://sspai.com/post/76088",
+                "published": "2022-10-10"
+            },
+            {
+                "title": "临终关怀——用生命的质量代替无谓的时长",
+                "link": "https://sspai.com/prime/story/hospice-care",
+                "published": "2022-10-09"
+            },
+            {
+                "title": "了解干眼症：让眼里常含泪水，别对屏幕爱得深沉",
+                "link": "https://sspai.com/post/76078",
+                "published": "2022-10-09"
+            },
+            {
+                "title": "鼠标搭配 iPadOS，如何设置才能更好用？",
+                "link": "https://sspai.com/post/76060",
+                "published": "2022-10-09"
+            },
+            {
                 "title": "幕后 | 去往「夜之城」的故事背后：CDPR 开发团队核心成员专访",
                 "link": "https://sspai.com/post/76056",
                 "published": "2022-10-09"
@@ -7913,7 +7938,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -43919,7 +43944,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

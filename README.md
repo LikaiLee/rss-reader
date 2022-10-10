@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-10-10】 不是你的怀旧助手：多亲 F22 Pro 两周体验](https://sspai.com/post/76092)
+* [【2022-10-10】 派早报：法官推迟推特诉马斯克案庭审；微软推出新款 Xbox 迷你冰箱等](https://sspai.com/post/76088)
+* [【2022-10-09】 临终关怀——用生命的质量代替无谓的时长](https://sspai.com/prime/story/hospice-care)
+* [【2022-10-09】 了解干眼症：让眼里常含泪水，别对屏幕爱得深沉](https://sspai.com/post/76078)
+* [【2022-10-09】 鼠标搭配 iPadOS，如何设置才能更好用？](https://sspai.com/post/76060)
 * [【2022-10-09】 幕后 | 去往「夜之城」的故事背后：CDPR 开发团队核心成员专访](https://sspai.com/post/76056)
 * [【2022-10-09】 派早报：Steam Deck 开启现货销售模式、特斯拉将交付电动卡车等](https://sspai.com/post/76071)
 * [【2022-10-08】 城市漫步指南：濑户内海的夏天](https://sspai.com/post/76059)
 * [【2022-10-08】 如何理解摄影：浅议摄影的创造性](https://sspai.com/post/76044)
 * [【2022-10-08】 今天是世界候鸟日，来聊聊科技以外的事……](https://sspai.com/post/76066)
-* [【2022-10-08】 回首 16 载，经典永流传：MacBook Pro 发展史](https://sspai.com/post/76007)
-* [【2022-10-08】 一日一技 | 妙用 Keynote 实现数据可视化](https://sspai.com/post/76001)
-* [【2022-10-08】 派早报：Pixel 7 系列及 Pixel Watch 发布、欧洲议会通过充电器规格统一法案等](https://sspai.com/post/76061)
-* [【2022-10-07】 你不曾想到的奇妙用处，「在线会议」还有这些新玩法](https://sspai.com/post/76043)
-* [【2022-10-07】 Google 的新手机和第一款手表，讲的是你已经听过的老故事](https://sspai.com/post/76051)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-09 05:37:09
+:alarm_clock: 更新时间: 2022-10-10 06:00:16
