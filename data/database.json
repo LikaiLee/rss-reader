@@ -298,6 +298,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "巧思外加树莓派，特斯拉用上 CarPlay",
+                "link": "https://sspai.com/post/76097",
+                "published": "2022-10-11"
+            },
+            {
+                "title": "派早报：过山车可能触发 iPhone 车祸检测，微软确认 22H2 版本有复制问题等",
+                "link": "https://sspai.com/post/76112",
+                "published": "2022-10-11"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/76102",
+                "published": "2022-10-10"
+            },
+            {
+                "title": "不惧静默凛冬，在消费主义陷阱里填补家的快乐",
+                "link": "https://sspai.com/post/76093",
+                "published": "2022-10-10"
+            },
+            {
                 "title": "不是你的怀旧助手：多亲 F22 Pro 两周体验",
                 "link": "https://sspai.com/post/76092",
                 "published": "2022-10-10"
@@ -7938,7 +7958,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
