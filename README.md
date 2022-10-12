@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-10-12】 掌握数据的主动权：我的全自动文档备份、加密与安全策略](https://sspai.com/post/76130)
+* [【2022-10-12】 派早报：Meta Quest Pro 发布、联发科推出天玑 1080 移动平台等](https://sspai.com/post/76134)
+* [【2022-10-11】 Matrix 圆桌 | 2022 年选择米家，除了性价比你还能获得什么？](https://sspai.com/post/76118)
+* [【2022-10-11】 属于大众的 iPhone：iPhone 14 上手体验](https://sspai.com/post/76104)
+* [【2022-10-11】 因突发情况被困外地，怎样尽可能坐上正常航班离开？](https://sspai.com/post/76106)
 * [【2022-10-11】 巧思外加树莓派，特斯拉用上 CarPlay](https://sspai.com/post/76097)
 * [【2022-10-11】 派早报：过山车可能触发 iPhone 车祸检测，微软确认 22H2 版本有复制问题等](https://sspai.com/post/76112)
 * [【2022-10-10】 派评 | 近期值得关注的 App](https://sspai.com/post/76102)
 * [【2022-10-10】 不惧静默凛冬，在消费主义陷阱里填补家的快乐](https://sspai.com/post/76093)
 * [【2022-10-10】 不是你的怀旧助手：多亲 F22 Pro 两周体验](https://sspai.com/post/76092)
-* [【2022-10-10】 派早报：法官推迟推特诉马斯克案庭审；微软推出新款 Xbox 迷你冰箱等](https://sspai.com/post/76088)
-* [【2022-10-09】 临终关怀——用生命的质量代替无谓的时长](https://sspai.com/prime/story/hospice-care)
-* [【2022-10-09】 了解干眼症：让眼里常含泪水，别对屏幕爱得深沉](https://sspai.com/post/76078)
-* [【2022-10-09】 鼠标搭配 iPadOS，如何设置才能更好用？](https://sspai.com/post/76060)
-* [【2022-10-09】 幕后 | 去往「夜之城」的故事背后：CDPR 开发团队核心成员专访](https://sspai.com/post/76056)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-11 05:58:29
+:alarm_clock: 更新时间: 2022-10-12 05:43:09

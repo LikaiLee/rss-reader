@@ -298,6 +298,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "掌握数据的主动权：我的全自动文档备份、加密与安全策略",
+                "link": "https://sspai.com/post/76130",
+                "published": "2022-10-12"
+            },
+            {
+                "title": "派早报：Meta Quest Pro 发布、联发科推出天玑 1080 移动平台等",
+                "link": "https://sspai.com/post/76134",
+                "published": "2022-10-12"
+            },
+            {
+                "title": "Matrix 圆桌 | 2022 年选择米家，除了性价比你还能获得什么？",
+                "link": "https://sspai.com/post/76118",
+                "published": "2022-10-11"
+            },
+            {
+                "title": "属于大众的 iPhone：iPhone 14 上手体验",
+                "link": "https://sspai.com/post/76104",
+                "published": "2022-10-11"
+            },
+            {
+                "title": "因突发情况被困外地，怎样尽可能坐上正常航班离开？",
+                "link": "https://sspai.com/post/76106",
+                "published": "2022-10-11"
+            },
+            {
                 "title": "巧思外加树莓派，特斯拉用上 CarPlay",
                 "link": "https://sspai.com/post/76097",
                 "published": "2022-10-11"
@@ -7958,7 +7983,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
