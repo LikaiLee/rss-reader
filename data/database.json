@@ -298,6 +298,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "獭可派 | 远离职业病，我们换一种方式办公",
+                "link": "https://sspai.com/post/76155",
+                "published": "2022-10-13"
+            },
+            {
+                "title": "派早报：微软召开新品发布会、三星召开 SDC22 开发者大会等",
+                "link": "https://sspai.com/post/76153",
+                "published": "2022-10-13"
+            },
+            {
+                "title": "软硬上新菜，AI 作甜点：微软秋季硬件发布会回顾",
+                "link": "https://sspai.com/post/76152",
+                "published": "2022-10-12"
+            },
+            {
+                "title": "城市漫步指南：北海道的夏日浪漫",
+                "link": "https://sspai.com/post/76091",
+                "published": "2022-10-12"
+            },
+            {
+                "title": "App Store 生态日渐完善，离不开背后它的支持：与开发者聊应用审核",
+                "link": "https://sspai.com/post/75316",
+                "published": "2022-10-12"
+            },
+            {
                 "title": "掌握数据的主动权：我的全自动文档备份、加密与安全策略",
                 "link": "https://sspai.com/post/76130",
                 "published": "2022-10-12"
@@ -38439,6 +38464,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "iPhone 14 Pro Max两周体验，除了灵动岛，还有哪些惊喜？",
+                "link": "http://zhuanlan.zhihu.com/p/572846308?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-12"
+            },
+            {
+                "title": "有没有什么奇诡的故事或者脑洞？",
+                "link": "http://www.zhihu.com/question/40950470/answer/2704435882?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-12"
+            },
+            {
+                "title": "有哪些因为一时冲动而卷入绝境的故事？",
+                "link": "http://www.zhihu.com/question/555673690/answer/2696269418?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-12"
+            },
+            {
                 "title": "如何评价《英雄联盟》S13 季前赛改动前瞻？",
                 "link": "http://www.zhihu.com/question/557579391/answer/2700486345?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-10-08"
@@ -43989,7 +44029,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 4,

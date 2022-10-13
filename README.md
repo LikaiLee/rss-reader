@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-10-13】 獭可派 | 远离职业病，我们换一种方式办公](https://sspai.com/post/76155)
+* [【2022-10-13】 派早报：微软召开新品发布会、三星召开 SDC22 开发者大会等](https://sspai.com/post/76153)
+* [【2022-10-12】 软硬上新菜，AI 作甜点：微软秋季硬件发布会回顾](https://sspai.com/post/76152)
+* [【2022-10-12】 城市漫步指南：北海道的夏日浪漫](https://sspai.com/post/76091)
+* [【2022-10-12】 App Store 生态日渐完善，离不开背后它的支持：与开发者聊应用审核](https://sspai.com/post/75316)
 * [【2022-10-12】 掌握数据的主动权：我的全自动文档备份、加密与安全策略](https://sspai.com/post/76130)
 * [【2022-10-12】 派早报：Meta Quest Pro 发布、联发科推出天玑 1080 移动平台等](https://sspai.com/post/76134)
 * [【2022-10-11】 Matrix 圆桌 | 2022 年选择米家，除了性价比你还能获得什么？](https://sspai.com/post/76118)
 * [【2022-10-11】 属于大众的 iPhone：iPhone 14 上手体验](https://sspai.com/post/76104)
 * [【2022-10-11】 因突发情况被困外地，怎样尽可能坐上正常航班离开？](https://sspai.com/post/76106)
-* [【2022-10-11】 巧思外加树莓派，特斯拉用上 CarPlay](https://sspai.com/post/76097)
-* [【2022-10-11】 派早报：过山车可能触发 iPhone 车祸检测，微软确认 22H2 版本有复制问题等](https://sspai.com/post/76112)
-* [【2022-10-10】 派评 | 近期值得关注的 App](https://sspai.com/post/76102)
-* [【2022-10-10】 不惧静默凛冬，在消费主义陷阱里填补家的快乐](https://sspai.com/post/76093)
-* [【2022-10-10】 不是你的怀旧助手：多亲 F22 Pro 两周体验](https://sspai.com/post/76092)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2022-10-12】 iPhone 14 Pro Max两周体验，除了灵动岛，还有哪些惊喜？](http://zhuanlan.zhihu.com/p/572846308?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-10-12】 有没有什么奇诡的故事或者脑洞？](http://www.zhihu.com/question/40950470/answer/2704435882?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-10-12】 有哪些因为一时冲动而卷入绝境的故事？](http://www.zhihu.com/question/555673690/answer/2696269418?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-08】 如何评价《英雄联盟》S13 季前赛改动前瞻？](http://www.zhihu.com/question/557579391/answer/2700486345?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-08】 2022年，游戏行业目前现状如何？将会发生哪些变化？](http://www.zhihu.com/question/551231716/answer/2705219750?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-06】 2022 年诺贝尔化学奖授予点击化学和生物正交化学，夏普莱斯第二次获奖，有哪些信息值得关注？](http://www.zhihu.com/question/557810306/answer/2702654423?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2022-10-04】 你觉得你离诺贝尔奖最近的一刻是什么时候？](http://www.zhihu.com/question/36037775/answer/2701248853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-29】 如何看待国内经济学研究中reduced form的应用微观实证研究泛滥？](http://www.zhihu.com/question/264825623/answer/2687447623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-09-29】 对于现在欧元暴跌成美元这个事件，大家有什么看法吗？](http://www.zhihu.com/question/27521281/answer/2691526918?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-29】 适量喝咖啡对身体有哪些好处？](http://www.zhihu.com/question/546343871/answer/2692019428?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-28】 日本式的“深刻”----1995版《攻壳机动队》](http://zhuanlan.zhihu.com/p/568411385?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-27】 美联储大放水是在收割全世界，现在加息又是收割全世界，为什么他一直在赢，这其中有什么经济学原理吗?](http://www.zhihu.com/question/555030440/answer/2690525820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-12 05:43:09
+:alarm_clock: 更新时间: 2022-10-13 05:59:07
