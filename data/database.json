@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 226 期）：谷歌出了什么问题？",
+                "link": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html",
+                "published": "2022-10-14"
+            },
+            {
                 "title": "科技爱好者周刊（第 225 期）：NPC 演员也是一种职业",
                 "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html",
                 "published": "2022-09-30"
@@ -290,13 +295,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "《少数派创作手册》现已上线，欢迎与我们继续共创",
+                "link": "https://sspai.com/post/76154",
+                "published": "2022-10-14"
+            },
+            {
+                "title": "派早报：荣耀 X40 GT 5G 发布、Netflix 推出带有广告的基础订阅等级",
+                "link": "https://sspai.com/post/76173",
+                "published": "2022-10-14"
+            },
+            {
+                "title": "新玩意 123｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/76169",
+                "published": "2022-10-13"
+            },
+            {
+                "title": "一度成为「网红爆款」的 CCD 相机，它拍照真的更好看吗？",
+                "link": "https://sspai.com/post/76138",
+                "published": "2022-10-13"
+            },
+            {
+                "title": "一日一技 | 怎样将 iPhone 备份保存到 Mac 的外部存储设备",
+                "link": "https://sspai.com/post/76016",
+                "published": "2022-10-13"
+            },
             {
                 "title": "獭可派 | 远离职业病，我们换一种方式办公",
                 "link": "https://sspai.com/post/76155",
@@ -38464,6 +38494,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "iPhone 14 Pro Max 的主摄提升到 4800 万像素后，日常拍照还需要单反吗？",
+                "link": "http://www.zhihu.com/question/543159792/answer/2713995240?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-13"
+            },
+            {
+                "title": "舔舔的文明6大图书馆~（文明6攻略帖子整理）",
+                "link": "http://zhuanlan.zhihu.com/p/563873566?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-13"
+            },
+            {
                 "title": "iPhone 14 Pro Max两周体验，除了灵动岛，还有哪些惊喜？",
                 "link": "http://zhuanlan.zhihu.com/p/572846308?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-10-12"
@@ -44029,13 +44069,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 33 期）: Ele types, SpeedCoder, Typing Practice, 自由钢琴, Compress PNG to 100KB, 图片马赛克转换器, 谐音工具",
+                "link": "https://bestxtools.zhubai.love/posts/2192281020718419968",
+                "published": "2022-10-13"
+            },
             {
                 "title": "好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1",
                 "link": "https://bestxtools.zhubai.love/posts/2187203672369479680",
@@ -44202,6 +44247,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

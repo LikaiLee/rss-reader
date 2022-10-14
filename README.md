@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+2】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-10-14】 科技爱好者周刊（第 226 期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)
 * [【2022-09-30】 科技爱好者周刊（第 225 期）：NPC 演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)
 * [【2022-09-23】 科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html)
 * [【2022-09-16】 科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html)
@@ -25,7 +26,6 @@
 * [【2022-08-19】 科技爱好者周刊（第 219 期）：如何防止帐号被黑](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)
 * [【2022-08-12】 科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)
 * [【2022-08-05】 科技爱好者周刊（第 217 期）：沙特的新未来城](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)
-* [【2022-08-02】 DNS 查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-10-14】 《少数派创作手册》现已上线，欢迎与我们继续共创](https://sspai.com/post/76154)
+* [【2022-10-14】 派早报：荣耀 X40 GT 5G 发布、Netflix 推出带有广告的基础订阅等级](https://sspai.com/post/76173)
+* [【2022-10-13】 新玩意 123｜少数派的编辑们最近买了啥？](https://sspai.com/post/76169)
+* [【2022-10-13】 一度成为「网红爆款」的 CCD 相机，它拍照真的更好看吗？](https://sspai.com/post/76138)
+* [【2022-10-13】 一日一技 | 怎样将 iPhone 备份保存到 Mac 的外部存储设备](https://sspai.com/post/76016)
 * [【2022-10-13】 獭可派 | 远离职业病，我们换一种方式办公](https://sspai.com/post/76155)
 * [【2022-10-13】 派早报：微软召开新品发布会、三星召开 SDC22 开发者大会等](https://sspai.com/post/76153)
 * [【2022-10-12】 软硬上新菜，AI 作甜点：微软秋季硬件发布会回顾](https://sspai.com/post/76152)
 * [【2022-10-12】 城市漫步指南：北海道的夏日浪漫](https://sspai.com/post/76091)
 * [【2022-10-12】 App Store 生态日渐完善，离不开背后它的支持：与开发者聊应用审核](https://sspai.com/post/75316)
-* [【2022-10-12】 掌握数据的主动权：我的全自动文档备份、加密与安全策略](https://sspai.com/post/76130)
-* [【2022-10-12】 派早报：Meta Quest Pro 发布、联发科推出天玑 1080 移动平台等](https://sspai.com/post/76134)
-* [【2022-10-11】 Matrix 圆桌 | 2022 年选择米家，除了性价比你还能获得什么？](https://sspai.com/post/76118)
-* [【2022-10-11】 属于大众的 iPhone：iPhone 14 上手体验](https://sspai.com/post/76104)
-* [【2022-10-11】 因突发情况被困外地，怎样尽可能坐上正常航班离开？](https://sspai.com/post/76106)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-10-13】 iPhone 14 Pro Max 的主摄提升到 4800 万像素后，日常拍照还需要单反吗？](http://www.zhihu.com/question/543159792/answer/2713995240?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-10-13】 舔舔的文明6大图书馆~（文明6攻略帖子整理）](http://zhuanlan.zhihu.com/p/563873566?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-12】 iPhone 14 Pro Max两周体验，除了灵动岛，还有哪些惊喜？](http://zhuanlan.zhihu.com/p/572846308?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-12】 有没有什么奇诡的故事或者脑洞？](http://www.zhihu.com/question/40950470/answer/2704435882?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-12】 有哪些因为一时冲动而卷入绝境的故事？](http://www.zhihu.com/question/555673690/answer/2696269418?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-10-06】 2022 年诺贝尔化学奖授予点击化学和生物正交化学，夏普莱斯第二次获奖，有哪些信息值得关注？](http://www.zhihu.com/question/557810306/answer/2702654423?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-04】 你错了，爱因斯坦先生！【诺贝尔物理学奖预测——贝尔不等式】](http://zhuanlan.zhihu.com/p/570522549?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-04】 你觉得你离诺贝尔奖最近的一刻是什么时候？](http://www.zhihu.com/question/36037775/answer/2701248853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-29】 如何看待国内经济学研究中reduced form的应用微观实证研究泛滥？](http://www.zhihu.com/question/264825623/answer/2687447623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-09-29】 对于现在欧元暴跌成美元这个事件，大家有什么看法吗？](http://www.zhihu.com/question/27521281/answer/2691526918?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-10-13】 好工具周刊（第 33 期）: Ele types, SpeedCoder, Typing Practice, 自由钢琴, Compress PNG to 100KB, 图片马赛克转换器, 谐音工具](https://bestxtools.zhubai.love/posts/2192281020718419968)
 * [【2022-09-29】 好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://bestxtools.zhubai.love/posts/2187203672369479680)
 * [【2022-09-22】 好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons](https://bestxtools.zhubai.love/posts/2184646951055171584)
 * [【2022-09-15】 好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, OurBoard, AnimatiSS, ...](https://bestxtools.zhubai.love/posts/2182124891627585536)
@@ -101,7 +102,6 @@
 * [【2022-08-18】 好工具周刊（第 26 期）: Kludd, Koodo Reader, 画图本, Uchinoko Maker, 反向词典, nbnhhsh (能不能好好说话)](https://bestxtools.zhubai.love/posts/2171964393314566144)
 * [【2022-08-10】 好工具周刊（第 25 期）: QuickRef, Dillinger, Tomodoro, Line Graph Maker, Ava Maker, Gofile, Ventusky](https://bestxtools.zhubai.love/posts/2169191886840389632)
 * [【2022-08-04】 好工具周刊（第 24 期）: OSS Insight, Active GitHub Forks, Hat.sh, snappify, Purple Photo, stooge, ...](https://bestxtools.zhubai.love/posts/2166817480273465344)
-* [【2022-07-28】 好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, Vue Color Avatar, ...](https://bestxtools.zhubai.love/posts/2164322347946172416)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-13 05:59:07
+:alarm_clock: 更新时间: 2022-10-14 06:05:49
