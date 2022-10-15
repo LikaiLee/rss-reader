@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+7】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-10-14】 派周报 | 强推 USB Type-C 会阻碍创新吗？](https://sspai.com/prime/story/pi-weekly-013)
+* [【2022-10-14】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/76185)
+* [【2022-10-14】 新功能感知不强、旧体验原地踏步：BOSE QuietComfort 消噪耳塞 II 体验报告](https://sspai.com/post/76164)
+* [【2022-10-14】 基础入门到高效进阶，我的 macOS 术与器](https://sspai.com/post/75805)
 * [【2022-10-14】 《少数派创作手册》现已上线，欢迎与我们继续共创](https://sspai.com/post/76154)
 * [【2022-10-14】 派早报：荣耀 X40 GT 5G 发布、Netflix 推出带有广告的基础订阅等级](https://sspai.com/post/76173)
 * [【2022-10-13】 新玩意 123｜少数派的编辑们最近买了啥？](https://sspai.com/post/76169)
 * [【2022-10-13】 一度成为「网红爆款」的 CCD 相机，它拍照真的更好看吗？](https://sspai.com/post/76138)
 * [【2022-10-13】 一日一技 | 怎样将 iPhone 备份保存到 Mac 的外部存储设备](https://sspai.com/post/76016)
 * [【2022-10-13】 獭可派 | 远离职业病，我们换一种方式办公](https://sspai.com/post/76155)
-* [【2022-10-13】 派早报：微软召开新品发布会、三星召开 SDC22 开发者大会等](https://sspai.com/post/76153)
-* [【2022-10-12】 软硬上新菜，AI 作甜点：微软秋季硬件发布会回顾](https://sspai.com/post/76152)
-* [【2022-10-12】 城市漫步指南：北海道的夏日浪漫](https://sspai.com/post/76091)
-* [【2022-10-12】 App Store 生态日渐完善，离不开背后它的支持：与开发者聊应用审核](https://sspai.com/post/75316)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2022-10-14】 如何看待特斯拉即将取消超声波雷达，采用纯视觉方案？](http://www.zhihu.com/question/558212074/answer/2708994833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-10-14】 如何评价新能源汽车的换电模式？以及如何看待其未来的发展前景？](http://www.zhihu.com/question/411769140/answer/2702210121?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-10-14】 为什么毫米波雷达无法识别静态物体？](http://www.zhihu.com/question/308426613/answer/2702035684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-10-14】 如何加快汽车与互联网、通信、大数据、人工智能、可再生能源等技术的跨界融合？需要解决哪些阻碍？](http://www.zhihu.com/question/435131276/answer/2699531032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-10-14】 车联网功能给我们的用车生活带来了哪些便利？](http://www.zhihu.com/question/555877608/answer/2698840274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-10-14】 自动驾驶／智能驾驶已经成为了时下最热门的话题之一，那么实现这个技术的决定性因素有哪些呢？](http://www.zhihu.com/question/47741800/answer/2698756795?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-10-14】 日本无线充电技术已进行测试，该技术有望解除电动汽车里程问题吗？](http://www.zhihu.com/question/555812724/answer/2693100335?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-13】 iPhone 14 Pro Max 的主摄提升到 4800 万像素后，日常拍照还需要单反吗？](http://www.zhihu.com/question/543159792/answer/2713995240?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-13】 舔舔的文明6大图书馆~（文明6攻略帖子整理）](http://zhuanlan.zhihu.com/p/563873566?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-12】 iPhone 14 Pro Max两周体验，除了灵动岛，还有哪些惊喜？](http://zhuanlan.zhihu.com/p/572846308?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-12】 有没有什么奇诡的故事或者脑洞？](http://www.zhihu.com/question/40950470/answer/2704435882?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-12】 有哪些因为一时冲动而卷入绝境的故事？](http://www.zhihu.com/question/555673690/answer/2696269418?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-08】 如何评价《英雄联盟》S13 季前赛改动前瞻？](http://www.zhihu.com/question/557579391/answer/2700486345?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-08】 2022年，游戏行业目前现状如何？将会发生哪些变化？](http://www.zhihu.com/question/551231716/answer/2705219750?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-06】 2022 年诺贝尔化学奖授予点击化学和生物正交化学，夏普莱斯第二次获奖，有哪些信息值得关注？](http://www.zhihu.com/question/557810306/answer/2702654423?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-04】 你错了，爱因斯坦先生！【诺贝尔物理学奖预测——贝尔不等式】](http://zhuanlan.zhihu.com/p/570522549?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-04】 你觉得你离诺贝尔奖最近的一刻是什么时候？](http://www.zhihu.com/question/36037775/answer/2701248853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-14 06:05:49
+:alarm_clock: 更新时间: 2022-10-15 05:44:59

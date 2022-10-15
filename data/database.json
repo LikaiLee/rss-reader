@@ -295,13 +295,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派周报 | 强推 USB Type-C 会阻碍创新吗？",
+                "link": "https://sspai.com/prime/story/pi-weekly-013",
+                "published": "2022-10-14"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/76185",
+                "published": "2022-10-14"
+            },
+            {
+                "title": "新功能感知不强、旧体验原地踏步：BOSE QuietComfort 消噪耳塞 II 体验报告",
+                "link": "https://sspai.com/post/76164",
+                "published": "2022-10-14"
+            },
+            {
+                "title": "基础入门到高效进阶，我的 macOS 术与器",
+                "link": "https://sspai.com/post/75805",
+                "published": "2022-10-14"
+            },
             {
                 "title": "《少数派创作手册》现已上线，欢迎与我们继续共创",
                 "link": "https://sspai.com/post/76154",
@@ -8038,7 +8058,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -38494,6 +38514,41 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何看待特斯拉即将取消超声波雷达，采用纯视觉方案？",
+                "link": "http://www.zhihu.com/question/558212074/answer/2708994833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-14"
+            },
+            {
+                "title": "如何评价新能源汽车的换电模式？以及如何看待其未来的发展前景？",
+                "link": "http://www.zhihu.com/question/411769140/answer/2702210121?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-14"
+            },
+            {
+                "title": "为什么毫米波雷达无法识别静态物体？",
+                "link": "http://www.zhihu.com/question/308426613/answer/2702035684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-14"
+            },
+            {
+                "title": "如何加快汽车与互联网、通信、大数据、人工智能、可再生能源等技术的跨界融合？需要解决哪些阻碍？",
+                "link": "http://www.zhihu.com/question/435131276/answer/2699531032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-14"
+            },
+            {
+                "title": "车联网功能给我们的用车生活带来了哪些便利？",
+                "link": "http://www.zhihu.com/question/555877608/answer/2698840274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-14"
+            },
+            {
+                "title": "自动驾驶／智能驾驶已经成为了时下最热门的话题之一，那么实现这个技术的决定性因素有哪些呢？",
+                "link": "http://www.zhihu.com/question/47741800/answer/2698756795?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-14"
+            },
+            {
+                "title": "日本无线充电技术已进行测试，该技术有望解除电动汽车里程问题吗？",
+                "link": "http://www.zhihu.com/question/555812724/answer/2693100335?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-14"
+            },
+            {
                 "title": "iPhone 14 Pro Max 的主摄提升到 4800 万像素后，日常拍照还需要单反吗？",
                 "link": "http://www.zhihu.com/question/543159792/answer/2713995240?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-10-13"
@@ -44069,7 +44124,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 7
     },
     {
         "id": 4,
@@ -44247,6 +44302,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
