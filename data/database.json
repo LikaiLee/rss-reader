@@ -303,6 +303,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "是什么让任天堂成为换壳之王？",
+                "link": "https://sspai.com/post/76205",
+                "published": "2022-10-16"
+            },
+            {
+                "title": "从配色选择到系统功能妙用：这些技巧让 iPhone 更有个性",
+                "link": "https://sspai.com/post/76168",
+                "published": "2022-10-15"
+            },
+            {
+                "title": "前瞻：也许没有发布会的十月，我们还能期待哪些 Apple 新品？",
+                "link": "https://sspai.com/post/76191",
+                "published": "2022-10-15"
+            },
+            {
                 "title": "派周报 | 强推 USB Type-C 会阻碍创新吗？",
                 "link": "https://sspai.com/prime/story/pi-weekly-013",
                 "published": "2022-10-14"
@@ -8058,7 +8073,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -44124,7 +44139,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 0
     },
     {
         "id": 4,

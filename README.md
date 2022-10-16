@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+7】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2022-10-16】 是什么让任天堂成为换壳之王？](https://sspai.com/post/76205)
+* [【2022-10-15】 从配色选择到系统功能妙用：这些技巧让 iPhone 更有个性](https://sspai.com/post/76168)
+* [【2022-10-15】 前瞻：也许没有发布会的十月，我们还能期待哪些 Apple 新品？](https://sspai.com/post/76191)
 * [【2022-10-14】 派周报 | 强推 USB Type-C 会阻碍创新吗？](https://sspai.com/prime/story/pi-weekly-013)
 * [【2022-10-14】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/76185)
 * [【2022-10-14】 新功能感知不强、旧体验原地踏步：BOSE QuietComfort 消噪耳塞 II 体验报告](https://sspai.com/post/76164)
@@ -42,9 +45,6 @@
 * [【2022-10-14】 《少数派创作手册》现已上线，欢迎与我们继续共创](https://sspai.com/post/76154)
 * [【2022-10-14】 派早报：荣耀 X40 GT 5G 发布、Netflix 推出带有广告的基础订阅等级](https://sspai.com/post/76173)
 * [【2022-10-13】 新玩意 123｜少数派的编辑们最近买了啥？](https://sspai.com/post/76169)
-* [【2022-10-13】 一度成为「网红爆款」的 CCD 相机，它拍照真的更好看吗？](https://sspai.com/post/76138)
-* [【2022-10-13】 一日一技 | 怎样将 iPhone 备份保存到 Mac 的外部存储设备](https://sspai.com/post/76016)
-* [【2022-10-13】 獭可派 | 远离职业病，我们换一种方式办公](https://sspai.com/post/76155)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-15 05:44:59
+:alarm_clock: 更新时间: 2022-10-16 05:42:51
