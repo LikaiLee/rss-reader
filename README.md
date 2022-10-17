@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2022-10-17】 全平台、更智能，老牌邮件应用 Spark 推出 3.0 大更新](https://sspai.com/post/76214)
+* [【2022-10-17】 派早报：英伟达取消受争议的 RTX 4080 12GB 版；Razer 发布 Android 系统掌机 Edge](https://sspai.com/post/76206)
+* [【2022-10-16】 编程新手如何远离「依赖冲突」？盘点 Python 虚拟环境搭建方案](https://sspai.com/post/75978)
 * [【2022-10-16】 是什么让任天堂成为换壳之王？](https://sspai.com/post/76205)
 * [【2022-10-15】 从配色选择到系统功能妙用：这些技巧让 iPhone 更有个性](https://sspai.com/post/76168)
 * [【2022-10-15】 前瞻：也许没有发布会的十月，我们还能期待哪些 Apple 新品？](https://sspai.com/post/76191)
@@ -42,9 +45,6 @@
 * [【2022-10-14】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/76185)
 * [【2022-10-14】 新功能感知不强、旧体验原地踏步：BOSE QuietComfort 消噪耳塞 II 体验报告](https://sspai.com/post/76164)
 * [【2022-10-14】 基础入门到高效进阶，我的 macOS 术与器](https://sspai.com/post/75805)
-* [【2022-10-14】 《少数派创作手册》现已上线，欢迎与我们继续共创](https://sspai.com/post/76154)
-* [【2022-10-14】 派早报：荣耀 X40 GT 5G 发布、Netflix 推出带有广告的基础订阅等级](https://sspai.com/post/76173)
-* [【2022-10-13】 新玩意 123｜少数派的编辑们最近买了啥？](https://sspai.com/post/76169)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-16 05:42:51
+:alarm_clock: 更新时间: 2022-10-17 06:14:43

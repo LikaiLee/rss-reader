@@ -303,6 +303,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "全平台、更智能，老牌邮件应用 Spark 推出 3.0 大更新",
+                "link": "https://sspai.com/post/76214",
+                "published": "2022-10-17"
+            },
+            {
+                "title": "派早报：英伟达取消受争议的 RTX 4080 12GB 版；Razer 发布 Android 系统掌机 Edge",
+                "link": "https://sspai.com/post/76206",
+                "published": "2022-10-17"
+            },
+            {
+                "title": "编程新手如何远离「依赖冲突」？盘点 Python 虚拟环境搭建方案",
+                "link": "https://sspai.com/post/75978",
+                "published": "2022-10-16"
+            },
+            {
                 "title": "是什么让任天堂成为换壳之王？",
                 "link": "https://sspai.com/post/76205",
                 "published": "2022-10-16"
