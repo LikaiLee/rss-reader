@@ -303,6 +303,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不算成功的探索，寻找 macOS 本地音乐播放管理软件",
+                "link": "https://sspai.com/post/76158",
+                "published": "2022-10-18"
+            },
+            {
+                "title": "派早报：VESA 公布 DisplayPort 2.1 标准，Amazon 计划发射互联网卫星等",
+                "link": "https://sspai.com/post/76251",
+                "published": "2022-10-18"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/76235",
+                "published": "2022-10-17"
+            },
+            {
+                "title": "有惊喜也有遗憾，浅聊 iPhone 14 Pro 使用体验",
+                "link": "https://sspai.com/post/76215",
+                "published": "2022-10-17"
+            },
+            {
+                "title": "用 Tasker 实现一键下载/更新小米应用商店安装包",
+                "link": "https://sspai.com/prime/story/tasker-miui-store-download-update",
+                "published": "2022-10-17"
+            },
+            {
+                "title": "是什么让任天堂成为换壳之王？｜「世界主宰」的掌机之路 · 柒",
+                "link": "https://sspai.com/post/76205",
+                "published": "2022-10-16"
+            },
+            {
                 "title": "全平台、更智能，老牌邮件应用 Spark 推出 3.0 大更新",
                 "link": "https://sspai.com/post/76214",
                 "published": "2022-10-17"
@@ -8088,7 +8118,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -38544,6 +38574,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "虚幻引擎30岁可以学吗？",
+                "link": "http://www.zhihu.com/question/549618917/answer/2718900483?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-17"
+            },
+            {
                 "title": "如何看待特斯拉即将取消超声波雷达，采用纯视觉方案？",
                 "link": "http://www.zhihu.com/question/558212074/answer/2708994833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-10-14"
@@ -44154,7 +44189,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

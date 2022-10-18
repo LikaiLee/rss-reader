@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-10-18】 不算成功的探索，寻找 macOS 本地音乐播放管理软件](https://sspai.com/post/76158)
+* [【2022-10-18】 派早报：VESA 公布 DisplayPort 2.1 标准，Amazon 计划发射互联网卫星等](https://sspai.com/post/76251)
+* [【2022-10-17】 派评 | 近期值得关注的 App](https://sspai.com/post/76235)
+* [【2022-10-17】 有惊喜也有遗憾，浅聊 iPhone 14 Pro 使用体验](https://sspai.com/post/76215)
+* [【2022-10-17】 用 Tasker 实现一键下载/更新小米应用商店安装包](https://sspai.com/prime/story/tasker-miui-store-download-update)
+* [【2022-10-16】 是什么让任天堂成为换壳之王？｜「世界主宰」的掌机之路 · 柒](https://sspai.com/post/76205)
 * [【2022-10-17】 全平台、更智能，老牌邮件应用 Spark 推出 3.0 大更新](https://sspai.com/post/76214)
 * [【2022-10-17】 派早报：英伟达取消受争议的 RTX 4080 12GB 版；Razer 发布 Android 系统掌机 Edge](https://sspai.com/post/76206)
 * [【2022-10-16】 编程新手如何远离「依赖冲突」？盘点 Python 虚拟环境搭建方案](https://sspai.com/post/75978)
 * [【2022-10-16】 是什么让任天堂成为换壳之王？](https://sspai.com/post/76205)
-* [【2022-10-15】 从配色选择到系统功能妙用：这些技巧让 iPhone 更有个性](https://sspai.com/post/76168)
-* [【2022-10-15】 前瞻：也许没有发布会的十月，我们还能期待哪些 Apple 新品？](https://sspai.com/post/76191)
-* [【2022-10-14】 派周报 | 强推 USB Type-C 会阻碍创新吗？](https://sspai.com/prime/story/pi-weekly-013)
-* [【2022-10-14】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/76185)
-* [【2022-10-14】 新功能感知不强、旧体验原地踏步：BOSE QuietComfort 消噪耳塞 II 体验报告](https://sspai.com/post/76164)
-* [【2022-10-14】 基础入门到高效进阶，我的 macOS 术与器](https://sspai.com/post/75805)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-10-17】 虚幻引擎30岁可以学吗？](http://www.zhihu.com/question/549618917/answer/2718900483?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-14】 如何看待特斯拉即将取消超声波雷达，采用纯视觉方案？](http://www.zhihu.com/question/558212074/answer/2708994833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-14】 如何评价新能源汽车的换电模式？以及如何看待其未来的发展前景？](http://www.zhihu.com/question/411769140/answer/2702210121?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-14】 为什么毫米波雷达无法识别静态物体？](http://www.zhihu.com/question/308426613/answer/2702035684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-10-14】 日本无线充电技术已进行测试，该技术有望解除电动汽车里程问题吗？](http://www.zhihu.com/question/555812724/answer/2693100335?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-13】 iPhone 14 Pro Max 的主摄提升到 4800 万像素后，日常拍照还需要单反吗？](http://www.zhihu.com/question/543159792/answer/2713995240?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-13】 舔舔的文明6大图书馆~（文明6攻略帖子整理）](http://zhuanlan.zhihu.com/p/563873566?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-12】 iPhone 14 Pro Max两周体验，除了灵动岛，还有哪些惊喜？](http://zhuanlan.zhihu.com/p/572846308?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-17 06:14:43
+:alarm_clock: 更新时间: 2022-10-18 06:08:58
