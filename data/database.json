@@ -303,6 +303,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Apple 推出多款新品、微软开始推送资源管理器标签页功能等",
+                "link": "https://sspai.com/post/76275",
+                "published": "2022-10-19"
+            },
+            {
+                "title": "一图流 | Apple 十月新品回顾",
+                "link": "https://sspai.com/post/76273",
+                "published": "2022-10-18"
+            },
+            {
+                "title": "全面屏 iPad、M2 芯片 iPad Pro…… Apple 新品信息汇总",
+                "link": "https://sspai.com/post/76272",
+                "published": "2022-10-18"
+            },
+            {
+                "title": "被「双链」掩盖光芒的优秀功能：探索大纲和内容块的正确打开方式",
+                "link": "https://sspai.com/post/76245",
+                "published": "2022-10-18"
+            },
+            {
+                "title": "咖啡地图 | 不能被忽略的非洲肯尼亚",
+                "link": "https://sspai.com/post/76220",
+                "published": "2022-10-18"
+            },
+            {
+                "title": "用好这 2 个系统功能，让 iPhone 实现「多卡多待」 | 一日一技",
+                "link": "https://sspai.com/post/76198",
+                "published": "2022-10-18"
+            },
+            {
                 "title": "不算成功的探索，寻找 macOS 本地音乐播放管理软件",
                 "link": "https://sspai.com/post/76158",
                 "published": "2022-10-18"
@@ -38574,6 +38604,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "为什么现在越来越多的人不爱发朋友圈了？",
+                "link": "http://www.zhihu.com/question/310673334/answer/2720304685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-19"
+            },
+            {
+                "title": "有哪些中国本土化的克苏鲁作品？",
+                "link": "http://www.zhihu.com/question/406328985/answer/2702516366?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-19"
+            },
+            {
+                "title": "用 Taichi 实现 GPU 图像处理：从入门到入魔",
+                "link": "http://zhuanlan.zhihu.com/p/573894977?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-18"
+            },
+            {
                 "title": "虚幻引擎30岁可以学吗？",
                 "link": "http://www.zhihu.com/question/549618917/answer/2718900483?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-10-17"
@@ -44189,7 +44234,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 4,
