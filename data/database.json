@@ -303,6 +303,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "iPhone 14 系列相机操作指南",
+                "link": "https://sspai.com/post/76181",
+                "published": "2022-10-20"
+            },
+            {
+                "title": "派早报：开发者已可提交适配灵动岛的 App、英特尔透露雷电 5 规格等",
+                "link": "https://sspai.com/post/76307",
+                "published": "2022-10-20"
+            },
+            {
+                "title": "解放双手，用 Biblioshiny 和 VOSviewer 快速梳理领域文献",
+                "link": "https://sspai.com/post/75107",
+                "published": "2022-10-19"
+            },
+            {
+                "title": "人工智能可以取代艺术家吗？在 AI 生成艺术元年聊聊 AI",
+                "link": "https://sspai.com/post/76277",
+                "published": "2022-10-19"
+            },
+            {
+                "title": "手机影像横评：2022 年，哪台设备能拍出「好看」的照片？",
+                "link": "https://sspai.com/post/76259",
+                "published": "2022-10-19"
+            },
+            {
                 "title": "派早报：Apple 推出多款新品、微软开始推送资源管理器标签页功能等",
                 "link": "https://sspai.com/post/76275",
                 "published": "2022-10-19"
@@ -8148,7 +8173,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -38604,6 +38629,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价游戏《大富翁 11》？",
+                "link": "http://www.zhihu.com/question/560601178/answer/2722664197?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-20"
+            },
+            {
                 "title": "为什么现在越来越多的人不爱发朋友圈了？",
                 "link": "http://www.zhihu.com/question/310673334/answer/2720304685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-10-19"
@@ -44234,7 +44264,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,

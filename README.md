@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-10-20】 iPhone 14 系列相机操作指南](https://sspai.com/post/76181)
+* [【2022-10-20】 派早报：开发者已可提交适配灵动岛的 App、英特尔透露雷电 5 规格等](https://sspai.com/post/76307)
+* [【2022-10-19】 解放双手，用 Biblioshiny 和 VOSviewer 快速梳理领域文献](https://sspai.com/post/75107)
+* [【2022-10-19】 人工智能可以取代艺术家吗？在 AI 生成艺术元年聊聊 AI](https://sspai.com/post/76277)
+* [【2022-10-19】 手机影像横评：2022 年，哪台设备能拍出「好看」的照片？](https://sspai.com/post/76259)
 * [【2022-10-19】 派早报：Apple 推出多款新品、微软开始推送资源管理器标签页功能等](https://sspai.com/post/76275)
 * [【2022-10-18】 一图流 | Apple 十月新品回顾](https://sspai.com/post/76273)
 * [【2022-10-18】 全面屏 iPad、M2 芯片 iPad Pro…… Apple 新品信息汇总](https://sspai.com/post/76272)
 * [【2022-10-18】 被「双链」掩盖光芒的优秀功能：探索大纲和内容块的正确打开方式](https://sspai.com/post/76245)
 * [【2022-10-18】 咖啡地图 | 不能被忽略的非洲肯尼亚](https://sspai.com/post/76220)
-* [【2022-10-18】 用好这 2 个系统功能，让 iPhone 实现「多卡多待」 | 一日一技](https://sspai.com/post/76198)
-* [【2022-10-18】 不算成功的探索，寻找 macOS 本地音乐播放管理软件](https://sspai.com/post/76158)
-* [【2022-10-18】 派早报：VESA 公布 DisplayPort 2.1 标准，Amazon 计划发射互联网卫星等](https://sspai.com/post/76251)
-* [【2022-10-17】 派评 | 近期值得关注的 App](https://sspai.com/post/76235)
-* [【2022-10-17】 有惊喜也有遗憾，浅聊 iPhone 14 Pro 使用体验](https://sspai.com/post/76215)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-10-20】 如何评价游戏《大富翁 11》？](http://www.zhihu.com/question/560601178/answer/2722664197?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-19】 为什么现在越来越多的人不爱发朋友圈了？](http://www.zhihu.com/question/310673334/answer/2720304685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-19】 有哪些中国本土化的克苏鲁作品？](http://www.zhihu.com/question/406328985/answer/2702516366?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-18】 用 Taichi 实现 GPU 图像处理：从入门到入魔](http://zhuanlan.zhihu.com/p/573894977?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-10-14】 为什么毫米波雷达无法识别静态物体？](http://www.zhihu.com/question/308426613/answer/2702035684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-14】 如何加快汽车与互联网、通信、大数据、人工智能、可再生能源等技术的跨界融合？需要解决哪些阻碍？](http://www.zhihu.com/question/435131276/answer/2699531032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-14】 车联网功能给我们的用车生活带来了哪些便利？](http://www.zhihu.com/question/555877608/answer/2698840274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-14】 自动驾驶／智能驾驶已经成为了时下最热门的话题之一，那么实现这个技术的决定性因素有哪些呢？](http://www.zhihu.com/question/47741800/answer/2698756795?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-19 06:12:04
+:alarm_clock: 更新时间: 2022-10-20 05:38:56
