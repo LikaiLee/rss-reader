@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选)
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-10-21】 科技爱好者周刊（第 227 期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)
 * [【2022-10-14】 科技爱好者周刊（第 226 期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)
 * [【2022-09-30】 科技爱好者周刊（第 225 期）：NPC 演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)
 * [【2022-09-23】 科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html)
@@ -25,7 +26,6 @@
 * [【2022-08-26】 科技爱好者周刊（第 220 期）：人工智能的机会在哪里](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)
 * [【2022-08-19】 科技爱好者周刊（第 219 期）：如何防止帐号被黑](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)
 * [【2022-08-12】 科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)
-* [【2022-08-05】 科技爱好者周刊（第 217 期）：沙特的新未来城](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-10-21】 比二手更可靠，比全新价更低：值得关注的官翻渠道汇总](https://sspai.com/post/76354)
+* [【2022-10-21】 派早报：Google 将为信息 app 添加一系列新功能、iQOO 发布 iQOO Neo7 新机等](https://sspai.com/post/76351)
+* [【2022-10-20】 新玩意 124｜少数派的编辑们最近买了啥？](https://sspai.com/post/76320)
+* [【2022-10-20】 这次 Android 版微信的大更新，可以「展开讲讲」](https://sspai.com/post/76313)
+* [【2022-10-20】 我换上了 Wi-Fi 6，它用起来怎么样？](https://sspai.com/post/76305)
 * [【2022-10-20】 iPhone 14 系列相机操作指南](https://sspai.com/post/76181)
 * [【2022-10-20】 派早报：开发者已可提交适配灵动岛的 App、英特尔透露雷电 5 规格等](https://sspai.com/post/76307)
 * [【2022-10-19】 解放双手，用 Biblioshiny 和 VOSviewer 快速梳理领域文献](https://sspai.com/post/75107)
 * [【2022-10-19】 人工智能可以取代艺术家吗？在 AI 生成艺术元年聊聊 AI](https://sspai.com/post/76277)
 * [【2022-10-19】 手机影像横评：2022 年，哪台设备能拍出「好看」的照片？](https://sspai.com/post/76259)
-* [【2022-10-19】 派早报：Apple 推出多款新品、微软开始推送资源管理器标签页功能等](https://sspai.com/post/76275)
-* [【2022-10-18】 一图流 | Apple 十月新品回顾](https://sspai.com/post/76273)
-* [【2022-10-18】 全面屏 iPad、M2 芯片 iPad Pro…… Apple 新品信息汇总](https://sspai.com/post/76272)
-* [【2022-10-18】 被「双链」掩盖光芒的优秀功能：探索大纲和内容块的正确打开方式](https://sspai.com/post/76245)
-* [【2022-10-18】 咖啡地图 | 不能被忽略的非洲肯尼亚](https://sspai.com/post/76220)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-10-20】 好工具周刊（第 34 期）: Excalidraw Animate, Excalidraw Claymate, dazidazi, Silk, Big Heads, ...](https://bestxtools.zhubai.love/posts/2194796415966781440)
 * [【2022-10-13】 好工具周刊（第 33 期）: Ele types, SpeedCoder, Typing Practice, 自由钢琴, Compress PNG to 100KB, 图片马赛克转换器, 谐音工具](https://bestxtools.zhubai.love/posts/2192281020718419968)
 * [【2022-09-29】 好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://bestxtools.zhubai.love/posts/2187203672369479680)
 * [【2022-09-22】 好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons](https://bestxtools.zhubai.love/posts/2184646951055171584)
@@ -101,7 +102,6 @@
 * [【2022-08-25】 好工具周刊（第 27 期）: BgSub, Txtmoji, Slickr, Moodly, Windy, 一起听播客, 图形方格纸](https://bestxtools.zhubai.love/posts/2174508953806163968)
 * [【2022-08-18】 好工具周刊（第 26 期）: Kludd, Koodo Reader, 画图本, Uchinoko Maker, 反向词典, nbnhhsh (能不能好好说话)](https://bestxtools.zhubai.love/posts/2171964393314566144)
 * [【2022-08-10】 好工具周刊（第 25 期）: QuickRef, Dillinger, Tomodoro, Line Graph Maker, Ava Maker, Gofile, Ventusky](https://bestxtools.zhubai.love/posts/2169191886840389632)
-* [【2022-08-04】 好工具周刊（第 24 期）: OSS Insight, Active GitHub Forks, Hat.sh, snappify, Purple Photo, stooge, ...](https://bestxtools.zhubai.love/posts/2166817480273465344)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-20 05:38:56
+:alarm_clock: 更新时间: 2022-10-21 05:47:52
