@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
-* [好工具周刊](#好工具周刊) 【+1】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-10-22】 赛博朋克风再起时，香港霓虹正在消失](https://sspai.com/post/76030)
+* [【2022-10-21】 派周报 | AI 创作的重重争议](https://sspai.com/prime/story/pi-weekly-014)
+* [【2022-10-21】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/76363)
+* [【2022-10-21】 直播预告 | 这个周末，我们一起聊聊 Ask Apple、XR 和 Future](https://sspai.com/post/76321)
+* [【2022-10-21】 用「功能性训练」来升级你的训练计划](https://sspai.com/post/76345)
 * [【2022-10-21】 比二手更可靠，比全新价更低：值得关注的官翻渠道汇总](https://sspai.com/post/76354)
 * [【2022-10-21】 派早报：Google 将为信息 app 添加一系列新功能、iQOO 发布 iQOO Neo7 新机等](https://sspai.com/post/76351)
 * [【2022-10-20】 新玩意 124｜少数派的编辑们最近买了啥？](https://sspai.com/post/76320)
 * [【2022-10-20】 这次 Android 版微信的大更新，可以「展开讲讲」](https://sspai.com/post/76313)
 * [【2022-10-20】 我换上了 Wi-Fi 6，它用起来怎么样？](https://sspai.com/post/76305)
-* [【2022-10-20】 iPhone 14 系列相机操作指南](https://sspai.com/post/76181)
-* [【2022-10-20】 派早报：开发者已可提交适配灵动岛的 App、英特尔透露雷电 5 规格等](https://sspai.com/post/76307)
-* [【2022-10-19】 解放双手，用 Biblioshiny 和 VOSviewer 快速梳理领域文献](https://sspai.com/post/75107)
-* [【2022-10-19】 人工智能可以取代艺术家吗？在 AI 生成艺术元年聊聊 AI](https://sspai.com/post/76277)
-* [【2022-10-19】 手机影像横评：2022 年，哪台设备能拍出「好看」的照片？](https://sspai.com/post/76259)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-21 05:47:52
+:alarm_clock: 更新时间: 2022-10-22 05:40:22

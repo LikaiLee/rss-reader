@@ -300,13 +300,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "赛博朋克风再起时，香港霓虹正在消失",
+                "link": "https://sspai.com/post/76030",
+                "published": "2022-10-22"
+            },
+            {
+                "title": "派周报 | AI 创作的重重争议",
+                "link": "https://sspai.com/prime/story/pi-weekly-014",
+                "published": "2022-10-21"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 6 部作品",
+                "link": "https://sspai.com/post/76363",
+                "published": "2022-10-21"
+            },
+            {
+                "title": "直播预告 | 这个周末，我们一起聊聊 Ask Apple、XR 和 Future",
+                "link": "https://sspai.com/post/76321",
+                "published": "2022-10-21"
+            },
+            {
+                "title": "用「功能性训练」来升级你的训练计划",
+                "link": "https://sspai.com/post/76345",
+                "published": "2022-10-21"
+            },
             {
                 "title": "比二手更可靠，比全新价更低：值得关注的官翻渠道汇总",
                 "link": "https://sspai.com/post/76354",
@@ -44477,6 +44502,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
