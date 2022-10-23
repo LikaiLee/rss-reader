@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-10-23】 PKM 又一年，我的困惑与心得](https://sspai.com/post/75897)
+* [【2022-10-22】 从三个维度出发，改出一篇好文章](https://sspai.com/post/71660)
 * [【2022-10-22】 赛博朋克风再起时，香港霓虹正在消失](https://sspai.com/post/76030)
 * [【2022-10-21】 派周报 | AI 创作的重重争议](https://sspai.com/prime/story/pi-weekly-014)
 * [【2022-10-21】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/76363)
@@ -43,8 +45,6 @@
 * [【2022-10-21】 比二手更可靠，比全新价更低：值得关注的官翻渠道汇总](https://sspai.com/post/76354)
 * [【2022-10-21】 派早报：Google 将为信息 app 添加一系列新功能、iQOO 发布 iQOO Neo7 新机等](https://sspai.com/post/76351)
 * [【2022-10-20】 新玩意 124｜少数派的编辑们最近买了啥？](https://sspai.com/post/76320)
-* [【2022-10-20】 这次 Android 版微信的大更新，可以「展开讲讲」](https://sspai.com/post/76313)
-* [【2022-10-20】 我换上了 Wi-Fi 6，它用起来怎么样？](https://sspai.com/post/76305)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-22 05:40:22
+:alarm_clock: 更新时间: 2022-10-23 05:41:52

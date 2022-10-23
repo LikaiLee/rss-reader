@@ -308,6 +308,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "PKM 又一年，我的困惑与心得",
+                "link": "https://sspai.com/post/75897",
+                "published": "2022-10-23"
+            },
+            {
+                "title": "从三个维度出发，改出一篇好文章",
+                "link": "https://sspai.com/post/71660",
+                "published": "2022-10-22"
+            },
+            {
                 "title": "赛博朋克风再起时，香港霓虹正在消失",
                 "link": "https://sspai.com/post/76030",
                 "published": "2022-10-22"
@@ -8228,7 +8238,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
