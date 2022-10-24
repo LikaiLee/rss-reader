@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "最简单的 Git 服务器",
+                "link": "http://www.ruanyifeng.com/blog/2022/10/git-server.html",
+                "published": "2022-10-23"
+            },
+            {
                 "title": "科技爱好者周刊（第 227 期）：脸书的公司入职教育",
                 "link": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html",
                 "published": "2022-10-21"
@@ -300,13 +305,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "獭可派 | 降温换个火热手感， 保价双十一键盘上新",
+                "link": "https://sspai.com/post/76356",
+                "published": "2022-10-24"
+            },
+            {
+                "title": "派早报：Apple 硬件设计负责人离职，印度对 Google 开出高额反垄断罚单等",
+                "link": "https://sspai.com/post/76381",
+                "published": "2022-10-24"
+            },
+            {
+                "title": "App+1 | 忍不了了，做了个插件让 OneNote 支持 Markdown",
+                "link": "https://sspai.com/post/76228",
+                "published": "2022-10-23"
+            },
             {
                 "title": "PKM 又一年，我的困惑与心得",
                 "link": "https://sspai.com/post/75897",
@@ -8238,7 +8258,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
