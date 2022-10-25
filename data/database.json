@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "羊了个羊，如何自己实现（暨\"码上掘金\"编程挑战赛介绍）",
+                "link": "http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html",
+                "published": "2022-10-25"
+            },
+            {
                 "title": "最简单的 Git 服务器",
                 "link": "http://www.ruanyifeng.com/blog/2022/10/git-server.html",
                 "published": "2022-10-23"
@@ -312,6 +317,36 @@
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "iOS 16.1 更新：实时活动上线、「灵动岛」上新，还有多项体验优化",
+                "link": "https://sspai.com/post/76360",
+                "published": "2022-10-25"
+            },
+            {
+                "title": "派早报：iPadOS 16 与 macOS Ventura 开始推送，Apple 上调多项服务价格等",
+                "link": "https://sspai.com/post/76403",
+                "published": "2022-10-25"
+            },
+            {
+                "title": "依然是你熟悉的那台最强 iPad：新款 iPad Pro 首发体验",
+                "link": "https://sspai.com/post/76389",
+                "published": "2022-10-24"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/76398",
+                "published": "2022-10-24"
+            },
+            {
+                "title": "玩游戏，交朋友——「少数派 x 万物破元」线下活动回顾",
+                "link": "https://sspai.com/prime/story/members-gathering-guangzhou-writeup",
+                "published": "2022-10-24"
+            },
+            {
+                "title": "在忙碌的生活中坚持阅读：我的得到阅读器三年使用体验",
+                "link": "https://sspai.com/post/76372",
+                "published": "2022-10-24"
+            },
             {
                 "title": "獭可派 | 降温换个火热手感， 保价双十一键盘上新",
                 "link": "https://sspai.com/post/76356",
@@ -8258,7 +8293,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -38714,6 +38749,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "当未来自动驾驶成为常态，汽车会出现哪些「意想不到」的功能、设计？",
+                "link": "http://www.zhihu.com/question/50384514/answer/2721415432?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-25"
+            },
+            {
                 "title": "如何评价游戏《大富翁 11》？",
                 "link": "http://www.zhihu.com/question/560601178/answer/2722664197?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-10-20"
@@ -44349,7 +44389,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

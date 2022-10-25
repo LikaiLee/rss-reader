@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-10-25】 羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html)
 * [【2022-10-23】 最简单的 Git 服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)
 * [【2022-10-21】 科技爱好者周刊（第 227 期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)
 * [【2022-10-14】 科技爱好者周刊（第 226 期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)
@@ -25,7 +26,6 @@
 * [【2022-09-09】 科技爱好者周刊（第 222 期）：四十年编程感想](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html)
 * [【2022-09-02】 科技爱好者周刊（第 221 期）：全世界最繁荣的行业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)
 * [【2022-08-26】 科技爱好者周刊（第 220 期）：人工智能的机会在哪里](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)
-* [【2022-08-19】 科技爱好者周刊（第 219 期）：如何防止帐号被黑](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-10-25】 iOS 16.1 更新：实时活动上线、「灵动岛」上新，还有多项体验优化](https://sspai.com/post/76360)
+* [【2022-10-25】 派早报：iPadOS 16 与 macOS Ventura 开始推送，Apple 上调多项服务价格等](https://sspai.com/post/76403)
+* [【2022-10-24】 依然是你熟悉的那台最强 iPad：新款 iPad Pro 首发体验](https://sspai.com/post/76389)
+* [【2022-10-24】 派评 | 近期值得关注的 App](https://sspai.com/post/76398)
+* [【2022-10-24】 玩游戏，交朋友——「少数派 x 万物破元」线下活动回顾](https://sspai.com/prime/story/members-gathering-guangzhou-writeup)
+* [【2022-10-24】 在忙碌的生活中坚持阅读：我的得到阅读器三年使用体验](https://sspai.com/post/76372)
 * [【2022-10-24】 獭可派 | 降温换个火热手感， 保价双十一键盘上新](https://sspai.com/post/76356)
 * [【2022-10-24】 派早报：Apple 硬件设计负责人离职，印度对 Google 开出高额反垄断罚单等](https://sspai.com/post/76381)
 * [【2022-10-23】 App+1 | 忍不了了，做了个插件让 OneNote 支持 Markdown](https://sspai.com/post/76228)
 * [【2022-10-23】 PKM 又一年，我的困惑与心得](https://sspai.com/post/75897)
-* [【2022-10-22】 从三个维度出发，改出一篇好文章](https://sspai.com/post/71660)
-* [【2022-10-22】 赛博朋克风再起时，香港霓虹正在消失](https://sspai.com/post/76030)
-* [【2022-10-21】 派周报 | AI 创作的重重争议](https://sspai.com/prime/story/pi-weekly-014)
-* [【2022-10-21】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/76363)
-* [【2022-10-21】 直播预告 | 这个周末，我们一起聊聊 Ask Apple、XR 和 Future](https://sspai.com/post/76321)
-* [【2022-10-21】 用「功能性训练」来升级你的训练计划](https://sspai.com/post/76345)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-10-25】 当未来自动驾驶成为常态，汽车会出现哪些「意想不到」的功能、设计？](http://www.zhihu.com/question/50384514/answer/2721415432?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-20】 如何评价游戏《大富翁 11》？](http://www.zhihu.com/question/560601178/answer/2722664197?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-19】 为什么现在越来越多的人不爱发朋友圈了？](http://www.zhihu.com/question/310673334/answer/2720304685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-19】 有哪些中国本土化的克苏鲁作品？](http://www.zhihu.com/question/406328985/answer/2702516366?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-10-14】 如何评价新能源汽车的换电模式？以及如何看待其未来的发展前景？](http://www.zhihu.com/question/411769140/answer/2702210121?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-14】 为什么毫米波雷达无法识别静态物体？](http://www.zhihu.com/question/308426613/answer/2702035684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-14】 如何加快汽车与互联网、通信、大数据、人工智能、可再生能源等技术的跨界融合？需要解决哪些阻碍？](http://www.zhihu.com/question/435131276/answer/2699531032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-14】 车联网功能给我们的用车生活带来了哪些便利？](http://www.zhihu.com/question/555877608/answer/2698840274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-24 06:18:05
+:alarm_clock: 更新时间: 2022-10-25 06:12:38
