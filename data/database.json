@@ -310,13 +310,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "macOS Ventura 正式版来了，升级之后试试这些新变化",
+                "link": "https://sspai.com/post/76393",
+                "published": "2022-10-26"
+            },
+            {
+                "title": "派早报：云米发布多款新品、微软发布 Windows Dev Kit 套件等",
+                "link": "https://sspai.com/post/76426",
+                "published": "2022-10-26"
+            },
+            {
+                "title": "「千呼万唤始出来」的 iPadOS 16.1，这些新功能值得关注",
+                "link": "https://sspai.com/post/76416",
+                "published": "2022-10-25"
+            },
+            {
+                "title": "一部合格的入门级 iPad：2022 款 iPad 上手体验",
+                "link": "https://sspai.com/post/76399",
+                "published": "2022-10-25"
+            },
+            {
+                "title": "微信是如何一步步告别「小而美」的？",
+                "link": "https://sspai.com/post/75731",
+                "published": "2022-10-25"
+            },
             {
                 "title": "iOS 16.1 更新：实时活动上线、「灵动岛」上新，还有多项体验优化",
                 "link": "https://sspai.com/post/76360",
@@ -8293,7 +8318,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -44389,7 +44414,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
