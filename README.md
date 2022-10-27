@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-10-27】 全线涨价，种类繁多，冬季新 iPad 怎么选？](https://sspai.com/post/76423)
+* [【2022-10-27】 派早报：索尼推出 A7R V 相机、CDPR 确认《巫师》重制版开发中等](https://sspai.com/post/76441)
+* [【2022-10-26】 任意键｜让玩家苦等八年的《蔑视》，曲高和寡还是虚有其表？](https://sspai.com/post/76430)
+* [【2022-10-26】 对着白纸文思枯竭？LEX 想用 AI 帮你算出第一段](https://sspai.com/post/76362)
+* [【2022-10-26】 小众与流行交织，乱象与发展并存——一个玩家兼创作者眼中的键盘圈](https://sspai.com/post/76367)
 * [【2022-10-26】 macOS Ventura 正式版来了，升级之后试试这些新变化](https://sspai.com/post/76393)
 * [【2022-10-26】 派早报：云米发布多款新品、微软发布 Windows Dev Kit 套件等](https://sspai.com/post/76426)
 * [【2022-10-25】 「千呼万唤始出来」的 iPadOS 16.1，这些新功能值得关注](https://sspai.com/post/76416)
 * [【2022-10-25】 一部合格的入门级 iPad：2022 款 iPad 上手体验](https://sspai.com/post/76399)
 * [【2022-10-25】 微信是如何一步步告别「小而美」的？](https://sspai.com/post/75731)
-* [【2022-10-25】 iOS 16.1 更新：实时活动上线、「灵动岛」上新，还有多项体验优化](https://sspai.com/post/76360)
-* [【2022-10-25】 派早报：iPadOS 16 与 macOS Ventura 开始推送，Apple 上调多项服务价格等](https://sspai.com/post/76403)
-* [【2022-10-24】 依然是你熟悉的那台最强 iPad：新款 iPad Pro 首发体验](https://sspai.com/post/76389)
-* [【2022-10-24】 派评 | 近期值得关注的 App](https://sspai.com/post/76398)
-* [【2022-10-24】 玩游戏，交朋友——「少数派 x 万物破元」线下活动回顾](https://sspai.com/prime/story/members-gathering-guangzhou-writeup)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-26 05:28:35
+:alarm_clock: 更新时间: 2022-10-27 05:25:03
