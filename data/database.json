@@ -315,13 +315,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "从「爱奇艺」到生产力： iPad 发布这 12 年经历了什么",
+                "link": "https://sspai.com/post/76471",
+                "published": "2022-10-29"
+            },
+            {
+                "title": "派周报 | 明年复明年",
+                "link": "https://sspai.com/prime/story/pi-weekly-015",
+                "published": "2022-10-28"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/76469",
+                "published": "2022-10-28"
+            },
+            {
+                "title": "咖啡地图 | 美洲产地里的牙买加蓝山与夏威夷科纳",
+                "link": "https://sspai.com/post/76465",
+                "published": "2022-10-28"
+            },
             {
                 "title": "自己动手实现 Android 自动化：用 Auto.js 自动复制短信验证码",
                 "link": "https://sspai.com/post/76377",
@@ -8378,7 +8398,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -38834,6 +38854,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "欢迎重返德军总部：《重返德军总部》相关的三部作品整合推介",
+                "link": "http://zhuanlan.zhihu.com/p/571924667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-29"
+            },
+            {
                 "title": "如何评价游戏《夏日花火》？",
                 "link": "http://www.zhihu.com/question/562988546/answer/2733977666?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-10-28"
@@ -44667,6 +44692,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
