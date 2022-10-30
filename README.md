@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-10-30】 从《中国好歌曲》中淘金，怀念难得的华语原创音乐选秀](https://sspai.com/post/76482)
+* [【2022-10-29】 四步构建有效的个人记账系统：输入、处理、输出和预算](https://sspai.com/post/76246)
 * [【2022-10-29】 从「爱奇艺」到生产力： iPad 发布这 12 年经历了什么](https://sspai.com/post/76471)
 * [【2022-10-28】 派周报 | 明年复明年](https://sspai.com/prime/story/pi-weekly-015)
 * [【2022-10-28】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/76469)
@@ -43,8 +45,6 @@
 * [【2022-10-28】 派早报：Apple 推出新版网页版 iCloud、Spotify 称其将于 2023 年涨价等](https://sspai.com/post/76463)
 * [【2022-10-27】 新玩意 125｜少数派的作者们最近买了啥？](https://sspai.com/post/76455)
 * [【2022-10-27】 从零开始做好个人记账，和购物节血拼后遗症说拜拜](https://sspai.com/post/76437)
-* [【2022-10-27】 桌椅、键鼠、颈托……人体工学设备是智商税吗？](https://sspai.com/post/76452)
-* [【2022-10-27】 全线涨价、种类繁多：冬季新 iPad 怎么选？](https://sspai.com/post/76423)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-10-30】 舔舔的：全网最全文明6图文攻略合集（40w字2k图）](http://zhuanlan.zhihu.com/p/574517781?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-29】 欢迎重返德军总部：《重返德军总部》相关的三部作品整合推介](http://zhuanlan.zhihu.com/p/571924667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-28】 如何评价游戏《夏日花火》？](http://www.zhihu.com/question/562988546/answer/2733977666?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-25】 当未来自动驾驶成为常态，汽车会出现哪些「意想不到」的功能、设计？](http://www.zhihu.com/question/50384514/answer/2721415432?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-10-18】 用 Taichi 实现 GPU 图像处理：从入门到入魔](http://zhuanlan.zhihu.com/p/573894977?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-17】 虚幻引擎30岁可以学吗？](http://www.zhihu.com/question/549618917/answer/2718900483?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-14】 如何看待特斯拉即将取消超声波雷达，采用纯视觉方案？](http://www.zhihu.com/question/558212074/answer/2708994833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-14】 如何评价新能源汽车的换电模式？以及如何看待其未来的发展前景？](http://www.zhihu.com/question/411769140/answer/2702210121?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-29 05:20:18
+:alarm_clock: 更新时间: 2022-10-30 05:22:51

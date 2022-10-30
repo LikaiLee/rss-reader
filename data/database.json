@@ -323,6 +323,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从《中国好歌曲》中淘金，怀念难得的华语原创音乐选秀",
+                "link": "https://sspai.com/post/76482",
+                "published": "2022-10-30"
+            },
+            {
+                "title": "四步构建有效的个人记账系统：输入、处理、输出和预算",
+                "link": "https://sspai.com/post/76246",
+                "published": "2022-10-29"
+            },
+            {
                 "title": "从「爱奇艺」到生产力： iPad 发布这 12 年经历了什么",
                 "link": "https://sspai.com/post/76471",
                 "published": "2022-10-29"
@@ -8398,7 +8408,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -38853,6 +38863,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "舔舔的：全网最全文明6图文攻略合集（40w字2k图）",
+                "link": "http://zhuanlan.zhihu.com/p/574517781?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-30"
+            },
             {
                 "title": "欢迎重返德军总部：《重返德军总部》相关的三部作品整合推介",
                 "link": "http://zhuanlan.zhihu.com/p/571924667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
