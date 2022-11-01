@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+8】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-11-01】 一日一技：听说你不想瞄准标题栏再移动窗口](https://sspai.com/post/76530)
+* [【2022-11-01】 派早报：Nvidia 将修复 Windows 11 错误显示、微软提前透露了 Moment 2 早期内容等](https://sspai.com/post/76539)
+* [【2022-10-31】 当海尔也来做扫拖机器人，它用起来怎么样？](https://sspai.com/post/76513)
+* [【2022-10-31】 派评 | 近期值得关注的 App](https://sspai.com/post/76526)
+* [【2022-10-31】 上新、折扣、满赠，付费栏目开启三重双十一限时优惠](https://sspai.com/post/76495)
+* [【2022-10-31】 属于「表哥表姐」的电竞项目：这个锦标赛把 Excel 玩出花](https://sspai.com/post/76501)
+* [【2022-10-31】 满赠红包封面，还有周边上新，双十一为你种草这些新品](https://sspai.com/post/76409)
+* [【2022-10-31】 本月玩什么 | 守望先锋「归来」、维多利亚 3、蓓优妮塔 3、MARVEL SNAP](https://sspai.com/post/76498)
 * [【2022-10-31】 善用 iCloud 共享图库，多人回忆轻松收藏](https://sspai.com/post/76477)
 * [【2022-10-31】 派早报：马斯克完成推特收购、Adobe 从旗下软件中删除潘通色卡等](https://sspai.com/post/76486)
-* [【2022-10-30】 具透 | 三星 One UI 5 评测：当 Android 13 遇上 iOS 16](https://sspai.com/post/76488)
-* [【2022-10-30】 从《中国好歌曲》中淘金，怀念难得的华语原创音乐选秀](https://sspai.com/post/76482)
-* [【2022-10-29】 四步构建有效的个人记账系统：输入、处理、输出和预算](https://sspai.com/post/76246)
-* [【2022-10-29】 从「爱奇艺」到生产力： iPad 发布这 12 年经历了什么](https://sspai.com/post/76471)
-* [【2022-10-28】 派周报 | 明年复明年](https://sspai.com/prime/story/pi-weekly-015)
-* [【2022-10-28】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/76469)
-* [【2022-10-28】 咖啡地图 | 美洲产地里的牙买加蓝山与夏威夷科纳](https://sspai.com/post/76465)
-* [【2022-10-28】 自己动手实现 Android 自动化：用 Auto.js 自动复制短信验证码](https://sspai.com/post/76377)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2022-11-01】 如何评价 Steam 游戏《雨夜屠夫》？](http://www.zhihu.com/question/560883288/answer/2739324341?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-10-31】 如何评价超级恐怖密室逃脱游戏《瞳灵人》？你的游玩体验如何？](http://www.zhihu.com/question/528624043/answer/2738239637?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-10-31】 如何评价超级恐怖密室逃脱游戏《三更》？你的游玩体验如何？](http://www.zhihu.com/question/528623067/answer/2738175680?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-31】 如何评价游戏《发糖模拟器》？](http://www.zhihu.com/question/563031002/answer/2735035250?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-30】 舔舔的：全网最全文明6图文攻略合集（40w字2k图）](http://zhuanlan.zhihu.com/p/574517781?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-29】 欢迎重返德军总部：《重返德军总部》相关的三部作品整合推介](http://zhuanlan.zhihu.com/p/571924667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2022-10-25】 当未来自动驾驶成为常态，汽车会出现哪些「意想不到」的功能、设计？](http://www.zhihu.com/question/50384514/answer/2721415432?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-20】 如何评价游戏《大富翁 11》？](http://www.zhihu.com/question/560601178/answer/2722664197?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-10-19】 为什么现在越来越多的人不爱发朋友圈了？](http://www.zhihu.com/question/310673334/answer/2720304685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-19】 有哪些中国本土化的克苏鲁作品？](http://www.zhihu.com/question/406328985/answer/2702516366?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-18】 用 Taichi 实现 GPU 图像处理：从入门到入魔](http://zhuanlan.zhihu.com/p/573894977?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-17】 虚幻引擎30岁可以学吗？](http://www.zhihu.com/question/549618917/answer/2718900483?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-10-31 05:31:23
+:alarm_clock: 更新时间: 2022-11-01 05:45:09

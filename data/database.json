@@ -323,6 +323,46 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技：听说你不想瞄准标题栏再移动窗口",
+                "link": "https://sspai.com/post/76530",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "派早报：Nvidia 将修复 Windows 11 错误显示、微软提前透露了 Moment 2 早期内容等",
+                "link": "https://sspai.com/post/76539",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "当海尔也来做扫拖机器人，它用起来怎么样？",
+                "link": "https://sspai.com/post/76513",
+                "published": "2022-10-31"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/76526",
+                "published": "2022-10-31"
+            },
+            {
+                "title": "上新、折扣、满赠，付费栏目开启三重双十一限时优惠",
+                "link": "https://sspai.com/post/76495",
+                "published": "2022-10-31"
+            },
+            {
+                "title": "属于「表哥表姐」的电竞项目：这个锦标赛把 Excel 玩出花",
+                "link": "https://sspai.com/post/76501",
+                "published": "2022-10-31"
+            },
+            {
+                "title": "满赠红包封面，还有周边上新，双十一为你种草这些新品",
+                "link": "https://sspai.com/post/76409",
+                "published": "2022-10-31"
+            },
+            {
+                "title": "本月玩什么 | 守望先锋「归来」、维多利亚 3、蓓优妮塔 3、MARVEL SNAP",
+                "link": "https://sspai.com/post/76498",
+                "published": "2022-10-31"
+            },
+            {
                 "title": "善用 iCloud 共享图库，多人回忆轻松收藏",
                 "link": "https://sspai.com/post/76477",
                 "published": "2022-10-31"
@@ -8423,7 +8463,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 8
     },
     {
         "id": 2,
@@ -38879,6 +38919,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价 Steam 游戏《雨夜屠夫》？",
+                "link": "http://www.zhihu.com/question/560883288/answer/2739324341?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "如何评价超级恐怖密室逃脱游戏《瞳灵人》？你的游玩体验如何？",
+                "link": "http://www.zhihu.com/question/528624043/answer/2738239637?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-31"
+            },
+            {
+                "title": "如何评价超级恐怖密室逃脱游戏《三更》？你的游玩体验如何？",
+                "link": "http://www.zhihu.com/question/528623067/answer/2738175680?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-10-31"
+            },
+            {
                 "title": "如何评价游戏《发糖模拟器》？",
                 "link": "http://www.zhihu.com/question/563031002/answer/2735035250?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-10-31"
@@ -44539,7 +44594,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 4,
