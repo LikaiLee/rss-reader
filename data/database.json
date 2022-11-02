@@ -323,6 +323,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "做键盘 UP 主三年，聊聊我看到的键圈变化和我眼里键盘的未来",
+                "link": "https://sspai.com/post/76461",
+                "published": "2022-11-02"
+            },
+            {
+                "title": "派早报：马斯克出任 Twitter CEO、极氪 009 正式发布等",
+                "link": "https://sspai.com/post/76555",
+                "published": "2022-11-02"
+            },
+            {
+                "title": "我给乡村的孩子上了一堂「数字效率」课",
+                "link": "https://sspai.com/post/76548",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "无套路的双十一个人推荐：值得关注的耳机好价",
+                "link": "https://sspai.com/post/76544",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "让新买的显示器物尽其用，你需要这份 Windows HDR 使用指南",
+                "link": "https://sspai.com/post/76543",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "一派·Podcast | 聊聊播客制作的独立性和去圈子化",
+                "link": "https://sspai.com/post/76537",
+                "published": "2022-11-01"
+            },
+            {
                 "title": "一日一技：听说你不想瞄准标题栏再移动窗口",
                 "link": "https://sspai.com/post/76530",
                 "published": "2022-11-01"
@@ -8463,7 +8493,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -38919,6 +38949,46 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "叙事剧情游戏体验的反思",
+                "link": "http://zhuanlan.zhihu.com/p/404773708?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "从《摩尔庄园》手游看美术问题",
+                "link": "http://zhuanlan.zhihu.com/p/407965203?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "关卡美术与灯光对于游戏体验的影响",
+                "link": "http://zhuanlan.zhihu.com/p/498585928?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "从《动物派对》看美术风格",
+                "link": "http://zhuanlan.zhihu.com/p/431188358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "《最后的生还者》中的游戏内与电影灯光（GDC2014）",
+                "link": "http://zhuanlan.zhihu.com/p/519389282?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "大蛤蟆仙人、白蛇仙人、蛞蝓本体这三个通灵兽实力在什么水平？",
+                "link": "http://www.zhihu.com/question/358933272/answer/922500041?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "《绝代双骄》动画上线，你有什么想说的？",
+                "link": "http://www.zhihu.com/question/563697017/answer/2739655633?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-01"
+            },
+            {
+                "title": "如何评价悬疑解密 AVG 游戏《雨夜屠夫》？",
+                "link": "http://www.zhihu.com/question/560883288/answer/2739324341?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-01"
+            },
+            {
                 "title": "如何评价 Steam 游戏《雨夜屠夫》？",
                 "link": "http://www.zhihu.com/question/560883288/answer/2739324341?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-11-01"
@@ -44594,7 +44664,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 8
     },
     {
         "id": 4,
