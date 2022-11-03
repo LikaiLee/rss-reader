@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+8】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-11-03】 天天对着屏幕的你，应该知道这 7 个「护眼」的秘密](https://sspai.com/post/76517)
+* [【2022-11-03】 派早报：华为推出多款新品、小米发布概念手机等](https://sspai.com/post/76572)
+* [【2022-11-02】 首发特惠 | 人人都能学会的 PPT 制作方法论，超频你的生产力](https://sspai.com/post/76551)
+* [【2022-11-02】 iA Presenter：打动人心的是故事，而不是工具本身](https://sspai.com/post/76561)
+* [【2022-11-02】 Matrix 圆桌 | 写了若干年手帐，我有什么心得体会？](https://sspai.com/post/76562)
 * [【2022-11-02】 做键盘 UP 主三年，聊聊我看到的键圈变化和我眼里键盘的未来](https://sspai.com/post/76461)
 * [【2022-11-02】 派早报：马斯克出任 Twitter CEO、极氪 009 正式发布等](https://sspai.com/post/76555)
 * [【2022-11-01】 我给乡村的孩子上了一堂「数字效率」课](https://sspai.com/post/76548)
 * [【2022-11-01】 无套路的双十一个人推荐：值得关注的耳机好价](https://sspai.com/post/76544)
 * [【2022-11-01】 让新买的显示器物尽其用，你需要这份 Windows HDR 使用指南](https://sspai.com/post/76543)
-* [【2022-11-01】 一派·Podcast | 聊聊播客制作的独立性和去圈子化](https://sspai.com/post/76537)
-* [【2022-11-01】 一日一技：听说你不想瞄准标题栏再移动窗口](https://sspai.com/post/76530)
-* [【2022-11-01】 派早报：Nvidia 将修复 Windows 11 错误显示、微软提前透露了 Moment 2 早期内容等](https://sspai.com/post/76539)
-* [【2022-10-31】 当海尔也来做扫拖机器人，它用起来怎么样？](https://sspai.com/post/76513)
-* [【2022-10-31】 派评 | 近期值得关注的 App](https://sspai.com/post/76526)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2022-11-03】 如何评价《明日方舟》新活动叙拉古人？](http://www.zhihu.com/question/561890839/answer/2740412975?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-03】 如何评价国产 AVG 游戏《恋爱绮谭~不存在的真相~》？](http://www.zhihu.com/question/562740275/answer/2741348426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-02】 “我们”的现实正蠢蠢欲动——二十一世纪 10 年代日本动画电影关于“真实”的转向考察](http://zhuanlan.zhihu.com/p/579035072?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-01】 叙事剧情游戏体验的反思](http://zhuanlan.zhihu.com/p/404773708?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-01】 从《摩尔庄园》手游看美术问题](http://zhuanlan.zhihu.com/p/407965203?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-01】 关卡美术与灯光对于游戏体验的影响](http://zhuanlan.zhihu.com/p/498585928?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2022-11-01】 《最后的生还者》中的游戏内与电影灯光（GDC2014）](http://zhuanlan.zhihu.com/p/519389282?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-01】 大蛤蟆仙人、白蛇仙人、蛞蝓本体这三个通灵兽实力在什么水平？](http://www.zhihu.com/question/358933272/answer/922500041?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-01】 《绝代双骄》动画上线，你有什么想说的？](http://www.zhihu.com/question/563697017/answer/2739655633?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-01】 如何评价悬疑解密 AVG 游戏《雨夜屠夫》？](http://www.zhihu.com/question/560883288/answer/2739324341?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-01】 如何评价 Steam 游戏《雨夜屠夫》？](http://www.zhihu.com/question/560883288/answer/2739324341?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-10-31】 如何评价超级恐怖密室逃脱游戏《瞳灵人》？你的游玩体验如何？](http://www.zhihu.com/question/528624043/answer/2738239637?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-02 05:41:23
+:alarm_clock: 更新时间: 2022-11-03 05:20:52

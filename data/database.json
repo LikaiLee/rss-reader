@@ -323,6 +323,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "天天对着屏幕的你，应该知道这 7 个「护眼」的秘密",
+                "link": "https://sspai.com/post/76517",
+                "published": "2022-11-03"
+            },
+            {
+                "title": "派早报：华为推出多款新品、小米发布概念手机等",
+                "link": "https://sspai.com/post/76572",
+                "published": "2022-11-03"
+            },
+            {
+                "title": "首发特惠 | 人人都能学会的 PPT 制作方法论，超频你的生产力",
+                "link": "https://sspai.com/post/76551",
+                "published": "2022-11-02"
+            },
+            {
+                "title": "iA Presenter：打动人心的是故事，而不是工具本身",
+                "link": "https://sspai.com/post/76561",
+                "published": "2022-11-02"
+            },
+            {
+                "title": "Matrix 圆桌 | 写了若干年手帐，我有什么心得体会？",
+                "link": "https://sspai.com/post/76562",
+                "published": "2022-11-02"
+            },
+            {
                 "title": "做键盘 UP 主三年，聊聊我看到的键圈变化和我眼里键盘的未来",
                 "link": "https://sspai.com/post/76461",
                 "published": "2022-11-02"
@@ -8493,7 +8518,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -38949,6 +38974,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价《明日方舟》新活动叙拉古人？",
+                "link": "http://www.zhihu.com/question/561890839/answer/2740412975?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-03"
+            },
+            {
+                "title": "如何评价国产 AVG 游戏《恋爱绮谭~不存在的真相~》？",
+                "link": "http://www.zhihu.com/question/562740275/answer/2741348426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-03"
+            },
+            {
+                "title": "“我们”的现实正蠢蠢欲动——二十一世纪 10 年代日本动画电影关于“真实”的转向考察",
+                "link": "http://zhuanlan.zhihu.com/p/579035072?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-02"
+            },
+            {
                 "title": "叙事剧情游戏体验的反思",
                 "link": "http://zhuanlan.zhihu.com/p/404773708?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-11-01"
@@ -44664,7 +44704,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 3
     },
     {
         "id": 4,
