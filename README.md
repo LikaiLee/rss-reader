@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+3】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-11-05】 如何满足小众的录屏需求？自己配置 FFmpeg 解决问题](https://sspai.com/post/76637)
+* [【2022-11-04】 派周报 | 蓝 V 的钱可以躺着挣吗？](https://sspai.com/prime/story/pi-weekly-016)
+* [【2022-11-04】 本周看什么 | 最近值得一看的一大包作品](https://sspai.com/post/76605)
+* [【2022-11-04】 与 CSA 联盟总裁聊 Matter 1.0：为什么它能成为智能家居的未来](https://sspai.com/post/76585)
 * [【2022-11-04】 你也能看懂的 2022 年诺奖「主角」：聊聊量子纠缠与贝尔不等式](https://sspai.com/post/76592)
 * [【2022-11-04】 派早报：AMD 发布 RDNA 3 系列显卡、Aqara 正式公布 Matter 线路规划图](https://sspai.com/post/76600)
 * [【2022-11-03】 处理器简史 06｜尾大不掉，牙膏厂尽显本色；弯道超车，按摩店化险为夷](https://sspai.com/prime/story/sv-anecdotes-06)
 * [【2022-11-03】 新玩意 SP：少数派的编辑们最近想买/买了啥](https://sspai.com/post/76586)
 * [【2022-11-03】 物业不让装充电桩？不要怂，就是干！](https://sspai.com/post/76583)
 * [【2022-11-03】 天天对着屏幕的你，应该知道这 7 个「护眼」的秘密](https://sspai.com/post/76517)
-* [【2022-11-03】 派早报：华为推出多款新品、小米发布概念手机等](https://sspai.com/post/76572)
-* [【2022-11-02】 首发特惠 | 人人都能学会的 PPT 制作方法论，超频你的生产力](https://sspai.com/post/76551)
-* [【2022-11-02】 iA Presenter：打动人心的是故事，而不是工具本身](https://sspai.com/post/76561)
-* [【2022-11-02】 Matrix 圆桌 | 写了若干年手帐，我有什么心得体会？](https://sspai.com/post/76562)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2022-11-04】 如何评价密室逃脱游戏《灵隐寺》？](http://www.zhihu.com/question/563947517/answer/2741654005?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-04】 如何评价密室逃脱游戏《爱在黎明破晓前》？](http://www.zhihu.com/question/564381625/answer/2743162356?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-04】 如何评价密室逃脱游戏《家书》？](http://www.zhihu.com/question/564381053/answer/2743184776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-04】 什么是心理弹性，如何增强自己的心理弹性？](http://www.zhihu.com/question/29193402/answer/2743698807?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-03】 如何评价《明日方舟》新活动叙拉古人？](http://www.zhihu.com/question/561890839/answer/2740412975?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-03】 如何评价国产 AVG 游戏《恋爱绮谭~不存在的真相~》？](http://www.zhihu.com/question/562740275/answer/2741348426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2022-11-01】 叙事剧情游戏体验的反思](http://zhuanlan.zhihu.com/p/404773708?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-01】 从《摩尔庄园》手游看美术问题](http://zhuanlan.zhihu.com/p/407965203?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-01】 关卡美术与灯光对于游戏体验的影响](http://zhuanlan.zhihu.com/p/498585928?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-01】 从《动物派对》看美术风格](http://zhuanlan.zhihu.com/p/431188358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-01】 《最后的生还者》中的游戏内与电影灯光（GDC2014）](http://zhuanlan.zhihu.com/p/519389282?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-01】 大蛤蟆仙人、白蛇仙人、蛞蝓本体这三个通灵兽实力在什么水平？](http://www.zhihu.com/question/358933272/answer/922500041?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-04 05:21:45
+:alarm_clock: 更新时间: 2022-11-05 05:13:56

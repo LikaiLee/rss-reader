@@ -320,13 +320,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "如何满足小众的录屏需求？自己配置 FFmpeg 解决问题",
+                "link": "https://sspai.com/post/76637",
+                "published": "2022-11-05"
+            },
+            {
+                "title": "派周报 | 蓝 V 的钱可以躺着挣吗？",
+                "link": "https://sspai.com/prime/story/pi-weekly-016",
+                "published": "2022-11-04"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大包作品",
+                "link": "https://sspai.com/post/76605",
+                "published": "2022-11-04"
+            },
+            {
+                "title": "与 CSA 联盟总裁聊 Matter 1.0：为什么它能成为智能家居的未来",
+                "link": "https://sspai.com/post/76585",
+                "published": "2022-11-04"
+            },
             {
                 "title": "你也能看懂的 2022 年诺奖「主角」：聊聊量子纠缠与贝尔不等式",
                 "link": "https://sspai.com/post/76592",
@@ -8548,7 +8568,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -39004,6 +39024,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价密室逃脱游戏《灵隐寺》？",
+                "link": "http://www.zhihu.com/question/563947517/answer/2741654005?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-04"
+            },
+            {
+                "title": "如何评价密室逃脱游戏《爱在黎明破晓前》？",
+                "link": "http://www.zhihu.com/question/564381625/answer/2743162356?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-04"
+            },
+            {
+                "title": "如何评价密室逃脱游戏《家书》？",
+                "link": "http://www.zhihu.com/question/564381053/answer/2743184776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-04"
+            },
+            {
                 "title": "什么是心理弹性，如何增强自己的心理弹性？",
                 "link": "http://www.zhihu.com/question/29193402/answer/2743698807?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-11-04"
@@ -44739,7 +44774,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 4,
@@ -44932,6 +44967,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
