@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-11-06】 微软官方小工具更新，这些新特性你或许也能用得上](https://sspai.com/post/76649)
+* [【2022-11-05】 从两千到两万：双十一相机购买指南](https://sspai.com/post/76342)
 * [【2022-11-05】 如何满足小众的录屏需求？自己配置 FFmpeg 解决问题](https://sspai.com/post/76637)
 * [【2022-11-04】 派周报 | 蓝 V 的钱可以躺着挣吗？](https://sspai.com/prime/story/pi-weekly-016)
 * [【2022-11-04】 本周看什么 | 最近值得一看的一大包作品](https://sspai.com/post/76605)
@@ -43,8 +45,6 @@
 * [【2022-11-04】 派早报：AMD 发布 RDNA 3 系列显卡、Aqara 正式公布 Matter 线路规划图](https://sspai.com/post/76600)
 * [【2022-11-03】 处理器简史 06｜尾大不掉，牙膏厂尽显本色；弯道超车，按摩店化险为夷](https://sspai.com/prime/story/sv-anecdotes-06)
 * [【2022-11-03】 新玩意 SP：少数派的编辑们最近想买/买了啥](https://sspai.com/post/76586)
-* [【2022-11-03】 物业不让装充电桩？不要怂，就是干！](https://sspai.com/post/76583)
-* [【2022-11-03】 天天对着屏幕的你，应该知道这 7 个「护眼」的秘密](https://sspai.com/post/76517)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-11-05】 沮丧和接受——《万神殿》观后感“向死而生”（一）](http://zhuanlan.zhihu.com/p/580543379?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-05】 《大理寺日志》第二季发布定档 PV ，你有哪些期待？](http://www.zhihu.com/question/564815407/answer/2745497536?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-04】 如何评价密室逃脱游戏《灵隐寺》？](http://www.zhihu.com/question/563947517/answer/2741654005?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-04】 如何评价密室逃脱游戏《爱在黎明破晓前》？](http://www.zhihu.com/question/564381625/answer/2743162356?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-04】 如何评价密室逃脱游戏《家书》？](http://www.zhihu.com/question/564381053/answer/2743184776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-11-03】 如何评价国产 AVG 游戏《恋爱绮谭~不存在的真相~》？](http://www.zhihu.com/question/562740275/answer/2741348426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-02】 “我们”的现实正蠢蠢欲动——二十一世纪 10 年代日本动画电影关于“真实”的转向考察](http://zhuanlan.zhihu.com/p/579035072?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-01】 叙事剧情游戏体验的反思](http://zhuanlan.zhihu.com/p/404773708?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-01】 从《摩尔庄园》手游看美术问题](http://zhuanlan.zhihu.com/p/407965203?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-01】 关卡美术与灯光对于游戏体验的影响](http://zhuanlan.zhihu.com/p/498585928?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-05 05:13:56
+:alarm_clock: 更新时间: 2022-11-06 05:14:02

@@ -328,6 +328,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "微软官方小工具更新，这些新特性你或许也能用得上",
+                "link": "https://sspai.com/post/76649",
+                "published": "2022-11-06"
+            },
+            {
+                "title": "从两千到两万：双十一相机购买指南",
+                "link": "https://sspai.com/post/76342",
+                "published": "2022-11-05"
+            },
+            {
                 "title": "如何满足小众的录屏需求？自己配置 FFmpeg 解决问题",
                 "link": "https://sspai.com/post/76637",
                 "published": "2022-11-05"
@@ -8568,7 +8578,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -39024,6 +39034,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "沮丧和接受——《万神殿》观后感“向死而生”（一）",
+                "link": "http://zhuanlan.zhihu.com/p/580543379?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-05"
+            },
+            {
+                "title": "《大理寺日志》第二季发布定档 PV ，你有哪些期待？",
+                "link": "http://www.zhihu.com/question/564815407/answer/2745497536?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-05"
+            },
+            {
                 "title": "如何评价密室逃脱游戏《灵隐寺》？",
                 "link": "http://www.zhihu.com/question/563947517/answer/2741654005?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-11-04"
@@ -44774,7 +44794,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 4,
