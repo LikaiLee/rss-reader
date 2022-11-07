@@ -328,6 +328,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：美执法部门查封 Z-Library、推特开展大幅裁员等",
+                "link": "https://sspai.com/post/76658",
+                "published": "2022-11-07"
+            },
+            {
                 "title": "微软官方小工具更新，这些新特性你或许也能用得上",
                 "link": "https://sspai.com/post/76649",
                 "published": "2022-11-06"
@@ -8578,7 +8583,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -39034,6 +39039,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价密室逃脱游戏《冤有头》？",
+                "link": "http://www.zhihu.com/question/564377966/answer/2745599977?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-06"
+            },
+            {
                 "title": "沮丧和接受——《万神殿》观后感“向死而生”（一）",
                 "link": "http://zhuanlan.zhihu.com/p/580543379?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-11-05"
@@ -44794,7 +44804,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,
