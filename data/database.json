@@ -328,6 +328,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App Store 对订阅功能再出手：这是你需要关注的新变化",
+                "link": "https://sspai.com/post/76669",
+                "published": "2022-11-08"
+            },
+            {
+                "title": "派早报：Twitter 禁止未经标注的模仿账号，HBO 宣布取消《西部世界》等",
+                "link": "https://sspai.com/post/76689",
+                "published": "2022-11-08"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/76684",
+                "published": "2022-11-07"
+            },
+            {
+                "title": "Matrix 圆桌 | 把 Android 放在大屏上，用起来究竟怎么样？",
+                "link": "https://sspai.com/post/76683",
+                "published": "2022-11-07"
+            },
+            {
+                "title": "在 Matter 中国发布会现场，我们听到了这些声音",
+                "link": "https://sspai.com/post/76680",
+                "published": "2022-11-07"
+            },
+            {
+                "title": "从原理到实践：年轻人的第一篇染发及洗护指南",
+                "link": "https://sspai.com/prime/story/hair-dye-tutorial",
+                "published": "2022-11-07"
+            },
+            {
                 "title": "派早报：美执法部门查封 Z-Library、推特开展大幅裁员等",
                 "link": "https://sspai.com/post/76658",
                 "published": "2022-11-07"
@@ -8583,7 +8613,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -39038,6 +39068,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "十分钟之内，如何通过细节来判断一家咖啡馆是好是坏？",
+                "link": "http://www.zhihu.com/question/31130090/answer/2741095384?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-07"
+            },
             {
                 "title": "如何评价密室逃脱游戏《冤有头》？",
                 "link": "http://www.zhihu.com/question/564377966/answer/2745599977?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
