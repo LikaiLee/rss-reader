@@ -328,6 +328,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "天冷添新衣：买羽绒服可以关注的几个细节",
+                "link": "https://sspai.com/post/76706",
+                "published": "2022-11-09"
+            },
+            {
+                "title": "派早报：联发科推出天玑 9200 移动芯片 、OriginOS 3 发布等",
+                "link": "https://sspai.com/post/76709",
+                "published": "2022-11-09"
+            },
+            {
+                "title": "新活动、新玩法，少数派正版软件「双十一」开启",
+                "link": "https://sspai.com/post/76681",
+                "published": "2022-11-08"
+            },
+            {
+                "title": "一周快闪，少数派会员「消费者报告」限时登场中",
+                "link": "https://sspai.com/post/76685",
+                "published": "2022-11-08"
+            },
+            {
+                "title": "iPhone 相机的进化之路：细数历代 iPhone 传感器型号",
+                "link": "https://sspai.com/post/76639",
+                "published": "2022-11-08"
+            },
+            {
+                "title": "想要逃离 Chrome？请收下这份 Firefox 终极隐私指南",
+                "link": "https://sspai.com/post/76688",
+                "published": "2022-11-08"
+            },
+            {
                 "title": "App Store 对订阅功能再出手：这是你需要关注的新变化",
                 "link": "https://sspai.com/post/76669",
                 "published": "2022-11-08"
@@ -39069,6 +39099,56 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价 Steam 游戏《月圆之堡》？",
+                "link": "http://www.zhihu.com/question/560110345/answer/2748831426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-09"
+            },
+            {
+                "title": "如何评价游戏《残世界的鸢尾花》？",
+                "link": "http://www.zhihu.com/question/565564005/answer/2750853905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-09"
+            },
+            {
+                "title": "《百炼成神》动画上线，你有什么想说的？",
+                "link": "http://www.zhihu.com/question/564367647/answer/2749988533?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-08"
+            },
+            {
+                "title": "如何评价《明日方舟》新活动叙拉古人？",
+                "link": "http://www.zhihu.com/question/561890839/answer/2750073515?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-08"
+            },
+            {
+                "title": "在单机游戏里，有哪些暗中降低玩家通关难度的人性化设计？",
+                "link": "http://www.zhihu.com/question/67077659/answer/2748789644?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-08"
+            },
+            {
+                "title": "switch 目前有哪些值的入手的游戏?",
+                "link": "http://www.zhihu.com/question/64666613/answer/2724852543?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-08"
+            },
+            {
+                "title": "如何看待经典国产单机游戏《赵云传重制版》公布，计划2023年4月上线Steam平台？",
+                "link": "http://www.zhihu.com/question/564615106/answer/2748130888?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-08"
+            },
+            {
+                "title": "密室逃脱行业发展如何？",
+                "link": "http://www.zhihu.com/question/457579193/answer/2748530915?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-08"
+            },
+            {
+                "title": "如何评价境界触发者漫画第227、228话的内容?",
+                "link": "http://www.zhihu.com/question/564564578/answer/2747245486?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-08"
+            },
+            {
+                "title": "11 月 8 日晚迎来月全食，并上演「月掩天王星」奇观，你拍到了吗？有哪些特别之处？",
+                "link": "http://www.zhihu.com/question/565165374/answer/2748196222?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-08"
+            },
+            {
                 "title": "十分钟之内，如何通过细节来判断一家咖啡馆是好是坏？",
                 "link": "http://www.zhihu.com/question/31130090/answer/2741095384?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-11-07"
@@ -44839,7 +44919,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 10
     },
     {
         "id": 4,

@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+10】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-11-09】 天冷添新衣：买羽绒服可以关注的几个细节](https://sspai.com/post/76706)
+* [【2022-11-09】 派早报：联发科推出天玑 9200 移动芯片 、OriginOS 3 发布等](https://sspai.com/post/76709)
+* [【2022-11-08】 新活动、新玩法，少数派正版软件「双十一」开启](https://sspai.com/post/76681)
+* [【2022-11-08】 一周快闪，少数派会员「消费者报告」限时登场中](https://sspai.com/post/76685)
+* [【2022-11-08】 iPhone 相机的进化之路：细数历代 iPhone 传感器型号](https://sspai.com/post/76639)
+* [【2022-11-08】 想要逃离 Chrome？请收下这份 Firefox 终极隐私指南](https://sspai.com/post/76688)
 * [【2022-11-08】 App Store 对订阅功能再出手：这是你需要关注的新变化](https://sspai.com/post/76669)
 * [【2022-11-08】 派早报：Twitter 禁止未经标注的模仿账号，HBO 宣布取消《西部世界》等](https://sspai.com/post/76689)
 * [【2022-11-07】 派评 | 近期值得关注的 App](https://sspai.com/post/76684)
 * [【2022-11-07】 Matrix 圆桌 | 把 Android 放在大屏上，用起来究竟怎么样？](https://sspai.com/post/76683)
-* [【2022-11-07】 在 Matter 中国发布会现场，我们听到了这些声音](https://sspai.com/post/76680)
-* [【2022-11-07】 从原理到实践：年轻人的第一篇染发及洗护指南](https://sspai.com/prime/story/hair-dye-tutorial)
-* [【2022-11-07】 派早报：美执法部门查封 Z-Library、推特开展大幅裁员等](https://sspai.com/post/76658)
-* [【2022-11-06】 微软官方小工具更新，这些新特性你或许也能用得上](https://sspai.com/post/76649)
-* [【2022-11-05】 从两千到两万：双十一相机购买指南](https://sspai.com/post/76342)
-* [【2022-11-05】 如何满足小众的录屏需求？自己配置 FFmpeg 解决问题](https://sspai.com/post/76637)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
-* [【2022-11-07】 十分钟之内，如何通过细节来判断一家咖啡馆是好是坏？](http://www.zhihu.com/question/31130090/answer/2741095384?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-06】 如何评价密室逃脱游戏《冤有头》？](http://www.zhihu.com/question/564377966/answer/2745599977?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-05】 沮丧和接受——《万神殿》观后感“向死而生”（一）](http://zhuanlan.zhihu.com/p/580543379?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-05】 《大理寺日志》第二季发布定档 PV ，你有哪些期待？](http://www.zhihu.com/question/564815407/answer/2745497536?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-04】 如何评价密室逃脱游戏《灵隐寺》？](http://www.zhihu.com/question/563947517/answer/2741654005?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-04】 如何评价密室逃脱游戏《爱在黎明破晓前》？](http://www.zhihu.com/question/564381625/answer/2743162356?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-04】 如何评价密室逃脱游戏《家书》？](http://www.zhihu.com/question/564381053/answer/2743184776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-04】 什么是心理弹性，如何增强自己的心理弹性？](http://www.zhihu.com/question/29193402/answer/2743698807?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-03】 如何评价《明日方舟》新活动叙拉古人？](http://www.zhihu.com/question/561890839/answer/2740412975?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-03】 如何评价国产 AVG 游戏《恋爱绮谭~不存在的真相~》？](http://www.zhihu.com/question/562740275/answer/2741348426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-09】 如何评价 Steam 游戏《月圆之堡》？](http://www.zhihu.com/question/560110345/answer/2748831426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-09】 如何评价游戏《残世界的鸢尾花》？](http://www.zhihu.com/question/565564005/answer/2750853905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-08】 《百炼成神》动画上线，你有什么想说的？](http://www.zhihu.com/question/564367647/answer/2749988533?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-08】 如何评价《明日方舟》新活动叙拉古人？](http://www.zhihu.com/question/561890839/answer/2750073515?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-08】 在单机游戏里，有哪些暗中降低玩家通关难度的人性化设计？](http://www.zhihu.com/question/67077659/answer/2748789644?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-08】 switch 目前有哪些值的入手的游戏?](http://www.zhihu.com/question/64666613/answer/2724852543?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-08】 如何看待经典国产单机游戏《赵云传重制版》公布，计划2023年4月上线Steam平台？](http://www.zhihu.com/question/564615106/answer/2748130888?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-08】 密室逃脱行业发展如何？](http://www.zhihu.com/question/457579193/answer/2748530915?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-08】 如何评价境界触发者漫画第227、228话的内容?](http://www.zhihu.com/question/564564578/answer/2747245486?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-08】 11 月 8 日晚迎来月全食，并上演「月掩天王星」奇观，你拍到了吗？有哪些特别之处？](http://www.zhihu.com/question/565165374/answer/2748196222?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-08 05:23:19
+:alarm_clock: 更新时间: 2022-11-09 05:26:31
