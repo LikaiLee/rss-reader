@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 230 期）：电子产品的用电量",
+                "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html",
+                "published": "2022-11-11"
+            },
+            {
                 "title": "科技爱好者周刊（第 229 期）：手机充电问题的解决",
                 "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html",
                 "published": "2022-11-04"
@@ -320,13 +325,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "App+1 | 文献搜集一站搞定，多平台学术利器：Publish or Perish",
+                "link": "https://sspai.com/post/76766",
+                "published": "2022-11-11"
+            },
+            {
+                "title": "派早报：Windows 11 的照片应用正式支持 iCloud Photo、任天堂宣布和 DeNA 合资等",
+                "link": "https://sspai.com/post/76763",
+                "published": "2022-11-11"
+            },
+            {
+                "title": "高效制作幻灯片的思维范式：结构化、图像化、场景化",
+                "link": "https://sspai.com/post/76522",
+                "published": "2022-11-10"
+            },
+            {
+                "title": "新玩意 126｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/76749",
+                "published": "2022-11-10"
+            },
+            {
+                "title": "捡漏行为、盲盒体验，同样感受 DIY 的快乐：聊聊键盘垃圾包",
+                "link": "https://sspai.com/post/76742",
+                "published": "2022-11-10"
+            },
             {
                 "title": "Matrix Talk | 还在记账的人，他们是怎么坚持下来的？",
                 "link": "https://sspai.com/post/76730",
@@ -44949,13 +44979,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 37 期）: Eoapi, Tailwind CSS Gradient Generator, IconGo, Website Metadata, 竹白专栏检索, 直播中国, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2202403256725368832",
+                "published": "2022-11-10"
+            },
             {
                 "title": "好工具周刊（第 36 期）: SadServers, emgithub, Tkinter 布局助手, Copy Book, Pie Chart Maker, icons.download, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2199869505734766592",
@@ -45142,6 +45177,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
