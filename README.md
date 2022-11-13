@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-11-13】 任意键｜《战神 诸神黄昏》，虎父无犬子](https://sspai.com/post/76783)
+* [【2022-11-12】 从显示器的构成开始，重新认识 LCD 显示器内部的细节](https://sspai.com/post/76509)
 * [【2022-11-12】 iPhone 屏幕好在哪？OLED 次像素渲染深度解析](https://sspai.com/post/76773)
 * [【2022-11-11】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/76774)
 * [【2022-11-11】 Adobe 与潘通的「分手」始末，以及除了吃瓜你还能做些什么](https://sspai.com/post/76771)
@@ -43,8 +45,6 @@
 * [【2022-11-11】 派早报：Windows 11 的照片应用正式支持 iCloud Photo、任天堂宣布和 DeNA 合资等](https://sspai.com/post/76763)
 * [【2022-11-10】 高效制作幻灯片的思维范式：结构化、图像化、场景化](https://sspai.com/post/76522)
 * [【2022-11-10】 新玩意 126｜少数派的编辑们最近买了啥？](https://sspai.com/post/76749)
-* [【2022-11-10】 捡漏行为、盲盒体验，同样感受 DIY 的快乐：聊聊键盘垃圾包](https://sspai.com/post/76742)
-* [【2022-11-10】 Matrix Talk | 还在记账的人，他们是怎么坚持下来的？](https://sspai.com/post/76730)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-12 05:15:13
+:alarm_clock: 更新时间: 2022-11-13 05:16:07

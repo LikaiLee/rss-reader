@@ -333,6 +333,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "任意键｜《战神 诸神黄昏》，虎父无犬子",
+                "link": "https://sspai.com/post/76783",
+                "published": "2022-11-13"
+            },
+            {
+                "title": "从显示器的构成开始，重新认识 LCD 显示器内部的细节",
+                "link": "https://sspai.com/post/76509",
+                "published": "2022-11-12"
+            },
+            {
                 "title": "iPhone 屏幕好在哪？OLED 次像素渲染深度解析",
                 "link": "https://sspai.com/post/76773",
                 "published": "2022-11-12"
@@ -8718,7 +8728,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -45009,7 +45019,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
