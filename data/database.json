@@ -333,6 +333,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "聊聊新世纪前后十年的正版和盗版",
+                "link": "https://sspai.com/post/76781",
+                "published": "2022-11-14"
+            },
+            {
+                "title": "派早报：天猫京东未公布双十一成交总额，加密交易所 FTX 申请破产等",
+                "link": "https://sspai.com/post/76788",
+                "published": "2022-11-14"
+            },
+            {
+                "title": "谁能凭空玩出一家游戏公司？｜开发者列传 02 · 田尻智（中）",
+                "link": "https://sspai.com/post/76784",
+                "published": "2022-11-13"
+            },
+            {
                 "title": "任意键｜《战神 诸神黄昏》，虎父无犬子",
                 "link": "https://sspai.com/post/76783",
                 "published": "2022-11-13"
@@ -8728,7 +8743,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -39184,6 +39199,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价《死神 千年血战篇》？",
+                "link": "http://www.zhihu.com/question/322966257/answer/2754420406?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-14"
+            },
+            {
                 "title": "煮饺子为什么要多次加水？",
                 "link": "http://www.zhihu.com/question/27911488/answer/2754080938?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-11-11"
@@ -45019,7 +45039,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
