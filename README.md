@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-11-15】 除了用图文描绘每个城市，我们还期待听到你的声音](https://sspai.com/post/76807)
+* [【2022-11-15】 派早报：测试显示英伟达的 12VHPWR 转接线有两家供应商等](https://sspai.com/post/76819)
+* [【2022-11-14】 派评 | 近期值得关注的 App](https://sspai.com/post/76805)
+* [【2022-11-14】 Pixel Watch 上手体验：三家混血、二流产物、一等颜值](https://sspai.com/post/76787)
+* [【2022-11-14】 费眼族自救攻略](https://sspai.com/prime/story/vol02-protecting-eyes)
 * [【2022-11-14】 聊聊新世纪前后十年的正版和盗版](https://sspai.com/post/76781)
 * [【2022-11-14】 派早报：天猫京东未公布双十一成交总额，加密交易所 FTX 申请破产等](https://sspai.com/post/76788)
 * [【2022-11-13】 谁能凭空玩出一家游戏公司？｜开发者列传 02 · 田尻智（中）](https://sspai.com/post/76784)
 * [【2022-11-13】 任意键｜《战神 诸神黄昏》，虎父无犬子](https://sspai.com/post/76783)
 * [【2022-11-12】 从显示器的构成开始，重新认识 LCD 显示器内部的细节](https://sspai.com/post/76509)
-* [【2022-11-12】 iPhone 屏幕好在哪？OLED 次像素渲染深度解析](https://sspai.com/post/76773)
-* [【2022-11-11】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/76774)
-* [【2022-11-11】 Adobe 与潘通的「分手」始末，以及除了吃瓜你还能做些什么](https://sspai.com/post/76771)
-* [【2022-11-11】 像装应用一样轻松自建服务：YunoHost 使用指南](https://sspai.com/prime/story/yunohost-tutorial)
-* [【2022-11-11】 App+1 | 文献搜集一站搞定，多平台学术利器：Publish or Perish](https://sspai.com/post/76766)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-11-15】 1亿像素方向错了，2亿呢？｜Redmi Note 12 Pro+](http://zhuanlan.zhihu.com/p/583455065?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-15】 德国公布世界杯 26 人大名单，格策首度入选，你对该球员有哪些了解？](http://www.zhihu.com/question/565852485/answer/2757321596?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-14】 如何评价《死神 千年血战篇》？](http://www.zhihu.com/question/322966257/answer/2754420406?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-11】 煮饺子为什么要多次加水？](http://www.zhihu.com/question/27911488/answer/2754080938?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-11】 完美主义有错吗？](http://www.zhihu.com/question/497294134/answer/2753025871?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-11-09】 如何评价游戏《残世界的鸢尾花》？](http://www.zhihu.com/question/565564005/answer/2750853905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-08】 《百炼成神》动画上线，你有什么想说的？](http://www.zhihu.com/question/564367647/answer/2749988533?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-08】 如何评价《明日方舟》新活动叙拉古人？](http://www.zhihu.com/question/561890839/answer/2750073515?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-08】 在单机游戏里，有哪些暗中降低玩家通关难度的人性化设计？](http://www.zhihu.com/question/67077659/answer/2748789644?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-08】 switch 目前有哪些值的入手的游戏?](http://www.zhihu.com/question/64666613/answer/2724852543?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-14 05:23:02
+:alarm_clock: 更新时间: 2022-11-15 05:13:39
