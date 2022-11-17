@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-11-17】 1800 元打造 iPad 阅读器，这是我的低成本数字阅读实践](https://sspai.com/post/76830)
+* [【2022-11-17】 派早报：高通推出新款骁龙系列处理器、OPPO A1 Pro 发布等](https://sspai.com/post/76847)
+* [【2022-11-16】 上新特惠 | 用 59 分钟，见证卡片笔记与白板碰撞出的效率聚变](https://sspai.com/post/76831)
+* [【2022-11-16】 从这些技巧与工具入手，在 Windows 11 上做好文件管理](https://sspai.com/post/76827)
+* [【2022-11-16】 如何上好一堂线上课？这是我的实践与思考](https://sspai.com/post/76839)
 * [【2022-11-16】 在这份书单中，我们看到实体书店的存亡与困境](https://sspai.com/post/76799)
 * [【2022-11-16】 派早报：TP-Link 推出多款 Wi-Fi 7 路由器、TGA 2022 奖项提名公布等](https://sspai.com/post/76833)
 * [【2022-11-15】 录音的器与术：《博物志》主播婉莹是如何录制播客的？](https://sspai.com/post/76438)
 * [【2022-11-15】 有备无患地进行功能性训练，可以从这些动作开始](https://sspai.com/post/76821)
 * [【2022-11-15】 微信发布 8.0.30 版本，这 6 个更新值得关注](https://sspai.com/post/76809)
-* [【2022-11-15】 除了用图文描绘每个城市，我们还期待听到你的声音](https://sspai.com/post/76807)
-* [【2022-11-15】 派早报：测试显示英伟达的 12VHPWR 转接线有两家供应商等](https://sspai.com/post/76819)
-* [【2022-11-14】 派评 | 近期值得关注的 App](https://sspai.com/post/76805)
-* [【2022-11-14】 Pixel Watch 上手体验：三家混血、二流产物、一等颜值](https://sspai.com/post/76787)
-* [【2022-11-14】 费眼族自救攻略](https://sspai.com/prime/story/vol02-protecting-eyes)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-16 05:13:36
+:alarm_clock: 更新时间: 2022-11-17 05:15:10

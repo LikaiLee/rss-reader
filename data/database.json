@@ -333,6 +333,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "1800 元打造 iPad 阅读器，这是我的低成本数字阅读实践",
+                "link": "https://sspai.com/post/76830",
+                "published": "2022-11-17"
+            },
+            {
+                "title": "派早报：高通推出新款骁龙系列处理器、OPPO A1 Pro 发布等",
+                "link": "https://sspai.com/post/76847",
+                "published": "2022-11-17"
+            },
+            {
+                "title": "上新特惠 | 用 59 分钟，见证卡片笔记与白板碰撞出的效率聚变",
+                "link": "https://sspai.com/post/76831",
+                "published": "2022-11-16"
+            },
+            {
+                "title": "从这些技巧与工具入手，在 Windows 11 上做好文件管理",
+                "link": "https://sspai.com/post/76827",
+                "published": "2022-11-16"
+            },
+            {
+                "title": "如何上好一堂线上课？这是我的实践与思考",
+                "link": "https://sspai.com/post/76839",
+                "published": "2022-11-16"
+            },
+            {
                 "title": "在这份书单中，我们看到实体书店的存亡与困境",
                 "link": "https://sspai.com/post/76799",
                 "published": "2022-11-16"
@@ -45109,7 +45134,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
