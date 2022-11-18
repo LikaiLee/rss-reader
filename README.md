@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
-* [好工具周刊](#好工具周刊)
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-11-18】 科技爱好者周刊（第 231 期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)
 * [【2022-11-11】 科技爱好者周刊（第 230 期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html)
 * [【2022-11-04】 科技爱好者周刊（第 229 期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)
 * [【2022-10-28】 科技爱好者周刊（第 228 期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html)
@@ -25,7 +26,6 @@
 * [【2022-10-14】 科技爱好者周刊（第 226 期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)
 * [【2022-09-30】 科技爱好者周刊（第 225 期）：NPC 演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)
 * [【2022-09-23】 科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html)
-* [【2022-09-16】 科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-11-18】 直播预告 | 从 Ask Apple 畅想 Apple 生态的未来](https://sspai.com/post/76869)
+* [【2022-11-18】 派早报：网易和暴雪计划于明年 1 月结束合作关系、知名笔记应用 Evernote 收购](https://sspai.com/post/76868)
+* [【2022-11-17】 iOS 技巧胶囊：更高效的 iOS 文字输入](https://sspai.com/post/75696)
+* [【2022-11-17】 新玩意 127｜少数派的编辑们最近买了啥？](https://sspai.com/post/76858)
+* [【2022-11-17】 2022 卡塔尔世界杯观赛指南](https://sspai.com/post/76832)
+* [【2022-11-17】 屏风、MacBook 和断网：在山野中让头脑沉浸思考一天](https://sspai.com/post/76800)
 * [【2022-11-17】 1800 元打造 iPad 阅读器，这是我的低成本数字阅读实践](https://sspai.com/post/76830)
 * [【2022-11-17】 派早报：高通推出新款骁龙系列处理器、OPPO A1 Pro 发布等](https://sspai.com/post/76847)
 * [【2022-11-16】 上新特惠 | 用 59 分钟，见证卡片笔记与白板碰撞出的效率聚变](https://sspai.com/post/76831)
 * [【2022-11-16】 从这些技巧与工具入手，在 Windows 11 上做好文件管理](https://sspai.com/post/76827)
-* [【2022-11-16】 如何上好一堂线上课？这是我的实践与思考](https://sspai.com/post/76839)
-* [【2022-11-16】 在这份书单中，我们看到实体书店的存亡与困境](https://sspai.com/post/76799)
-* [【2022-11-16】 派早报：TP-Link 推出多款 Wi-Fi 7 路由器、TGA 2022 奖项提名公布等](https://sspai.com/post/76833)
-* [【2022-11-15】 录音的器与术：《博物志》主播婉莹是如何录制播客的？](https://sspai.com/post/76438)
-* [【2022-11-15】 有备无患地进行功能性训练，可以从这些动作开始](https://sspai.com/post/76821)
-* [【2022-11-15】 微信发布 8.0.30 版本，这 6 个更新值得关注](https://sspai.com/post/76809)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-11-17】 好工具周刊（第 38 期）: GitHub Business Card, ShortcutFoo, typing.io, Lingva Translate, Etymonline, ...](https://bestxtools.zhubai.love/posts/2204976619335163904)
 * [【2022-11-10】 好工具周刊（第 37 期）: Eoapi, Tailwind CSS Gradient Generator, IconGo, Website Metadata, 竹白专栏检索, 直播中国, ...](https://bestxtools.zhubai.love/posts/2202403256725368832)
 * [【2022-11-03】 好工具周刊（第 36 期）: SadServers, emgithub, Tkinter 布局助手, Copy Book, Pie Chart Maker, icons.download, ...](https://bestxtools.zhubai.love/posts/2199869505734766592)
 * [【2022-10-27】 好工具周刊（第 35 期）: HTTPie, Core Web Vitals Check, Resource Hint Validator, okso, Wormhole, ...](https://bestxtools.zhubai.love/posts/2197355853403787264)
@@ -101,7 +102,6 @@
 * [【2022-09-22】 好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons](https://bestxtools.zhubai.love/posts/2184646951055171584)
 * [【2022-09-15】 好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, OurBoard, AnimatiSS, ...](https://bestxtools.zhubai.love/posts/2182124891627585536)
 * [【2022-09-08】 好工具周刊（第 29 期）: Squoosh, AI Background Generator, Motionity, Privnote, 小鸡词典, 发音纠正器, ...](https://bestxtools.zhubai.love/posts/2179567147990081536)
-* [【2022-09-01】 好工具周刊（第 28 期）: DuckDuckGo Email Protection, BentoJam, Hacker News RSS, Hacker News Digest, ...](https://bestxtools.zhubai.love/posts/2177023307428327424)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-17 05:15:10
+:alarm_clock: 更新时间: 2022-11-18 05:14:22

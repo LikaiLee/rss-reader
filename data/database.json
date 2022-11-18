@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 231 期）：互联网公司需要多少员工？",
+                "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html",
+                "published": "2022-11-18"
+            },
+            {
                 "title": "科技爱好者周刊（第 230 期）：电子产品的用电量",
                 "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html",
                 "published": "2022-11-11"
@@ -325,13 +330,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "直播预告 | 从 Ask Apple 畅想 Apple 生态的未来",
+                "link": "https://sspai.com/post/76869",
+                "published": "2022-11-18"
+            },
+            {
+                "title": "派早报：网易和暴雪计划于明年 1 月结束合作关系、知名笔记应用 Evernote 收购",
+                "link": "https://sspai.com/post/76868",
+                "published": "2022-11-18"
+            },
+            {
+                "title": "iOS 技巧胶囊：更高效的 iOS 文字输入",
+                "link": "https://sspai.com/post/75696",
+                "published": "2022-11-17"
+            },
+            {
+                "title": "新玩意 127｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/76858",
+                "published": "2022-11-17"
+            },
+            {
+                "title": "2022 卡塔尔世界杯观赛指南",
+                "link": "https://sspai.com/post/76832",
+                "published": "2022-11-17"
+            },
+            {
+                "title": "屏风、MacBook 和断网：在山野中让头脑沉浸思考一天",
+                "link": "https://sspai.com/post/76800",
+                "published": "2022-11-17"
+            },
             {
                 "title": "1800 元打造 iPad 阅读器，这是我的低成本数字阅读实践",
                 "link": "https://sspai.com/post/76830",
@@ -8818,7 +8853,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -45142,6 +45177,11 @@
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
             {
+                "title": "好工具周刊（第 38 期）: GitHub Business Card, ShortcutFoo, typing.io, Lingva Translate, Etymonline, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2204976619335163904",
+                "published": "2022-11-17"
+            },
+            {
                 "title": "好工具周刊（第 37 期）: Eoapi, Tailwind CSS Gradient Generator, IconGo, Website Metadata, 竹白专栏检索, 直播中国, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2202403256725368832",
                 "published": "2022-11-10"
@@ -45332,6 +45372,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
