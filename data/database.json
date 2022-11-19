@@ -330,13 +330,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派周报 | 空留印象",
+                "link": "https://sspai.com/prime/story/pi-weekly-18",
+                "published": "2022-11-18"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/76880",
+                "published": "2022-11-18"
+            },
+            {
+                "title": "曲项向屏幕，上班族如何开启脖子拯救计划？",
+                "link": "https://sspai.com/post/76871",
+                "published": "2022-11-18"
+            },
+            {
+                "title": "电子时代，我们是否还需要纸笔笔记？",
+                "link": "https://sspai.com/prime/story/vol07-why-do-we-still-use-paper-notes",
+                "published": "2022-11-18"
+            },
+            {
+                "title": "退可搞定写作、进可任务管理，二合一时间轴式创作工具：Aeon Timeline",
+                "link": "https://sspai.com/post/76848",
+                "published": "2022-11-18"
+            },
             {
                 "title": "直播预告 | 从 Ask Apple 畅想 Apple 生态的未来",
                 "link": "https://sspai.com/post/76869",
@@ -8853,7 +8878,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -39309,6 +39334,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "新能源汽车工业能否带领中国走向世界第一强国？",
+                "link": "http://www.zhihu.com/question/515337233/answer/2756568238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-18"
+            },
+            {
+                "title": "2025 年动力电池回收市场规模预计超 400 亿元，透露了哪些信息？",
+                "link": "http://www.zhihu.com/question/543591712/answer/2751572021?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-18"
+            },
+            {
+                "title": "2022年，最让你「失望」的汽车品牌或者车型是？",
+                "link": "http://www.zhihu.com/question/563746375/answer/2740822158?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-18"
+            },
+            {
                 "title": "2022 年卡塔尔世界杯冠军可能是谁？",
                 "link": "http://www.zhihu.com/question/510506351/answer/2750342659?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-11-15"
@@ -45169,7 +45209,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 4,
@@ -45372,6 +45412,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+3】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-11-18】 派周报 | 空留印象](https://sspai.com/prime/story/pi-weekly-18)
+* [【2022-11-18】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/76880)
+* [【2022-11-18】 曲项向屏幕，上班族如何开启脖子拯救计划？](https://sspai.com/post/76871)
+* [【2022-11-18】 电子时代，我们是否还需要纸笔笔记？](https://sspai.com/prime/story/vol07-why-do-we-still-use-paper-notes)
+* [【2022-11-18】 退可搞定写作、进可任务管理，二合一时间轴式创作工具：Aeon Timeline](https://sspai.com/post/76848)
 * [【2022-11-18】 直播预告 | 从 Ask Apple 畅想 Apple 生态的未来](https://sspai.com/post/76869)
 * [【2022-11-18】 派早报：网易和暴雪计划于明年 1 月结束合作关系、知名笔记应用 Evernote 收购](https://sspai.com/post/76868)
 * [【2022-11-17】 iOS 技巧胶囊：更高效的 iOS 文字输入](https://sspai.com/post/75696)
 * [【2022-11-17】 新玩意 127｜少数派的编辑们最近买了啥？](https://sspai.com/post/76858)
 * [【2022-11-17】 2022 卡塔尔世界杯观赛指南](https://sspai.com/post/76832)
-* [【2022-11-17】 屏风、MacBook 和断网：在山野中让头脑沉浸思考一天](https://sspai.com/post/76800)
-* [【2022-11-17】 1800 元打造 iPad 阅读器，这是我的低成本数字阅读实践](https://sspai.com/post/76830)
-* [【2022-11-17】 派早报：高通推出新款骁龙系列处理器、OPPO A1 Pro 发布等](https://sspai.com/post/76847)
-* [【2022-11-16】 上新特惠 | 用 59 分钟，见证卡片笔记与白板碰撞出的效率聚变](https://sspai.com/post/76831)
-* [【2022-11-16】 从这些技巧与工具入手，在 Windows 11 上做好文件管理](https://sspai.com/post/76827)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2022-11-18】 新能源汽车工业能否带领中国走向世界第一强国？](http://www.zhihu.com/question/515337233/answer/2756568238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-18】 2025 年动力电池回收市场规模预计超 400 亿元，透露了哪些信息？](http://www.zhihu.com/question/543591712/answer/2751572021?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-18】 2022年，最让你「失望」的汽车品牌或者车型是？](http://www.zhihu.com/question/563746375/answer/2740822158?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-15】 2022 年卡塔尔世界杯冠军可能是谁？](http://www.zhihu.com/question/510506351/answer/2750342659?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-15】 如何评价《假面骑士Black Sun》？](http://www.zhihu.com/question/494129001/answer/2738226815?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-15】 1亿像素方向错了，2亿呢？｜Redmi Note 12 Pro+](http://zhuanlan.zhihu.com/p/583455065?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2022-11-14】 如何评价《死神 千年血战篇》？](http://www.zhihu.com/question/322966257/answer/2754420406?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-11】 煮饺子为什么要多次加水？](http://www.zhihu.com/question/27911488/answer/2754080938?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-11】 完美主义有错吗？](http://www.zhihu.com/question/497294134/answer/2753025871?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-09】 如何评价《原神》3.2版本新增魔神任务第五章《虚空鼓动，劫火高扬》？](http://www.zhihu.com/question/564069015/answer/2750333115?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-09】 如何评价 Steam 游戏《月圆之堡》？](http://www.zhihu.com/question/560110345/answer/2748831426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-09】 如何评价游戏《残世界的鸢尾花》？](http://www.zhihu.com/question/565564005/answer/2750853905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-18 05:14:22
+:alarm_clock: 更新时间: 2022-11-19 05:13:19
