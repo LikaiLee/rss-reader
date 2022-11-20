@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-11-20】 让好看的「香蕉机」变得可用：与诺基亚 8110 4G 和 KaiOS 斗智斗勇](https://sspai.com/post/76898)
+* [【2022-11-19】 你说它画、上手即用，微软出品的 AI 设计工具：Microsoft Designer](https://sspai.com/post/76895)
 * [【2022-11-18】 派周报 | 空留印象](https://sspai.com/prime/story/pi-weekly-18)
 * [【2022-11-18】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/76880)
 * [【2022-11-18】 曲项向屏幕，上班族如何开启脖子拯救计划？](https://sspai.com/post/76871)
@@ -43,8 +45,6 @@
 * [【2022-11-18】 直播预告 | 从 Ask Apple 畅想 Apple 生态的未来](https://sspai.com/post/76869)
 * [【2022-11-18】 派早报：网易和暴雪计划于明年 1 月结束合作关系、知名笔记应用 Evernote 收购](https://sspai.com/post/76868)
 * [【2022-11-17】 iOS 技巧胶囊：更高效的 iOS 文字输入](https://sspai.com/post/75696)
-* [【2022-11-17】 新玩意 127｜少数派的编辑们最近买了啥？](https://sspai.com/post/76858)
-* [【2022-11-17】 2022 卡塔尔世界杯观赛指南](https://sspai.com/post/76832)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-19 05:13:19
+:alarm_clock: 更新时间: 2022-11-20 05:13:22

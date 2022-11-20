@@ -338,6 +338,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "让好看的「香蕉机」变得可用：与诺基亚 8110 4G 和 KaiOS 斗智斗勇",
+                "link": "https://sspai.com/post/76898",
+                "published": "2022-11-20"
+            },
+            {
+                "title": "你说它画、上手即用，微软出品的 AI 设计工具：Microsoft Designer",
+                "link": "https://sspai.com/post/76895",
+                "published": "2022-11-19"
+            },
+            {
                 "title": "派周报 | 空留印象",
                 "link": "https://sspai.com/prime/story/pi-weekly-18",
                 "published": "2022-11-18"
@@ -8878,7 +8888,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -45209,7 +45219,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     },
     {
         "id": 4,
