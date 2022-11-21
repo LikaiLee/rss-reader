@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2022-11-21】 本月玩什么 | Pentiment、战神 诸神黄昏、宝可梦 朱/紫](https://sspai.com/post/76900)
+* [【2022-11-21】 派早报：闰秒将于 2035 年停用，Epic 称谷歌向暴雪付费避免竞争等](https://sspai.com/post/76903)
+* [【2022-11-20】 找不到现成的字幕？Whisper 让不懂外语的你也能看懂日剧](https://sspai.com/post/76899)
 * [【2022-11-20】 让好看的「香蕉机」变得可用：与诺基亚 8110 4G 和 KaiOS 斗智斗勇](https://sspai.com/post/76898)
 * [【2022-11-19】 你说它画、上手即用，微软出品的 AI 设计工具：Microsoft Designer](https://sspai.com/post/76895)
 * [【2022-11-18】 派周报 | 空留印象](https://sspai.com/prime/story/pi-weekly-18)
@@ -42,9 +45,6 @@
 * [【2022-11-18】 曲项向屏幕，上班族如何开启脖子拯救计划？](https://sspai.com/post/76871)
 * [【2022-11-18】 电子时代，我们是否还需要纸笔笔记？](https://sspai.com/prime/story/vol07-why-do-we-still-use-paper-notes)
 * [【2022-11-18】 退可搞定写作、进可任务管理，二合一时间轴式创作工具：Aeon Timeline](https://sspai.com/post/76848)
-* [【2022-11-18】 直播预告 | 从 Ask Apple 畅想 Apple 生态的未来](https://sspai.com/post/76869)
-* [【2022-11-18】 派早报：网易和暴雪计划于明年 1 月结束合作关系、知名笔记应用 Evernote 收购](https://sspai.com/post/76868)
-* [【2022-11-17】 iOS 技巧胶囊：更高效的 iOS 文字输入](https://sspai.com/post/75696)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-20 05:13:22
+:alarm_clock: 更新时间: 2022-11-21 05:14:14

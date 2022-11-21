@@ -338,6 +338,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "本月玩什么 | Pentiment、战神 诸神黄昏、宝可梦 朱/紫",
+                "link": "https://sspai.com/post/76900",
+                "published": "2022-11-21"
+            },
+            {
+                "title": "派早报：闰秒将于 2035 年停用，Epic 称谷歌向暴雪付费避免竞争等",
+                "link": "https://sspai.com/post/76903",
+                "published": "2022-11-21"
+            },
+            {
+                "title": "找不到现成的字幕？Whisper 让不懂外语的你也能看懂日剧",
+                "link": "https://sspai.com/post/76899",
+                "published": "2022-11-20"
+            },
+            {
                 "title": "让好看的「香蕉机」变得可用：与诺基亚 8110 4G 和 KaiOS 斗智斗勇",
                 "link": "https://sspai.com/post/76898",
                 "published": "2022-11-20"
@@ -8888,7 +8903,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
