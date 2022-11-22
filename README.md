@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-11-22】 Windows on ARM 笔记本能用了吗？聊聊我的 Surface Pro X 体验](https://sspai.com/post/76849)
+* [【2022-11-22】 派早报：微软修复打印机导致的升级问题，Twitter 已开始重启招聘等](https://sspai.com/post/76926)
+* [【2022-11-21】 派评 | 近期值得关注的 App](https://sspai.com/post/76918)
+* [【2022-11-21】 如何正确夸赞那位会乐器的朋友：萨克斯风欣赏入门](https://sspai.com/post/76915)
+* [【2022-11-21】 如何逃离办公室？——Tim Ferriss 和他的《每周工作 4 小时》](https://sspai.com/prime/story/vol1-four-hour-work-week)
 * [【2022-11-21】 本月玩什么 | Pentiment、战神 诸神黄昏、宝可梦 朱/紫](https://sspai.com/post/76900)
 * [【2022-11-21】 派早报：闰秒将于 2035 年停用，Epic 称谷歌向暴雪付费避免竞争等](https://sspai.com/post/76903)
 * [【2022-11-20】 找不到现成的字幕？Whisper 让不懂外语的你也能看懂日剧](https://sspai.com/post/76899)
 * [【2022-11-20】 让好看的「香蕉机」变得可用：与诺基亚 8110 4G 和 KaiOS 斗智斗勇](https://sspai.com/post/76898)
 * [【2022-11-19】 你说它画、上手即用，微软出品的 AI 设计工具：Microsoft Designer](https://sspai.com/post/76895)
-* [【2022-11-18】 派周报 | 空留印象](https://sspai.com/prime/story/pi-weekly-18)
-* [【2022-11-18】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/76880)
-* [【2022-11-18】 曲项向屏幕，上班族如何开启脖子拯救计划？](https://sspai.com/post/76871)
-* [【2022-11-18】 电子时代，我们是否还需要纸笔笔记？](https://sspai.com/prime/story/vol07-why-do-we-still-use-paper-notes)
-* [【2022-11-18】 退可搞定写作、进可任务管理，二合一时间轴式创作工具：Aeon Timeline](https://sspai.com/post/76848)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-11-22】 有没有追妻火葬场但破镜没重圆的故事？](http://www.zhihu.com/question/497122453/answer/2738463953?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-21】 把小城市的街头拍出「电影感」，是种什么体验？](http://www.zhihu.com/question/567250476/answer/2767740253?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-18】 新能源汽车工业能否带领中国走向世界第一强国？](http://www.zhihu.com/question/515337233/answer/2756568238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-18】 2025 年动力电池回收市场规模预计超 400 亿元，透露了哪些信息？](http://www.zhihu.com/question/543591712/answer/2751572021?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-18】 2022年，最让你「失望」的汽车品牌或者车型是？](http://www.zhihu.com/question/563746375/answer/2740822158?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-11-15】 1亿像素方向错了，2亿呢？｜Redmi Note 12 Pro+](http://zhuanlan.zhihu.com/p/583455065?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-15】 德国公布世界杯 26 人大名单，格策首度入选，你对该球员有哪些了解？](http://www.zhihu.com/question/565852485/answer/2757321596?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-14】 如何评价《死神 千年血战篇》？](http://www.zhihu.com/question/322966257/answer/2754420406?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-11】 煮饺子为什么要多次加水？](http://www.zhihu.com/question/27911488/answer/2754080938?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-11】 完美主义有错吗？](http://www.zhihu.com/question/497294134/answer/2753025871?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-21 05:14:14
+:alarm_clock: 更新时间: 2022-11-22 05:14:08

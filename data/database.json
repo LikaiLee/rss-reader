@@ -338,6 +338,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Windows on ARM 笔记本能用了吗？聊聊我的 Surface Pro X 体验",
+                "link": "https://sspai.com/post/76849",
+                "published": "2022-11-22"
+            },
+            {
+                "title": "派早报：微软修复打印机导致的升级问题，Twitter 已开始重启招聘等",
+                "link": "https://sspai.com/post/76926",
+                "published": "2022-11-22"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/76918",
+                "published": "2022-11-21"
+            },
+            {
+                "title": "如何正确夸赞那位会乐器的朋友：萨克斯风欣赏入门",
+                "link": "https://sspai.com/post/76915",
+                "published": "2022-11-21"
+            },
+            {
+                "title": "如何逃离办公室？——Tim Ferriss 和他的《每周工作 4 小时》",
+                "link": "https://sspai.com/prime/story/vol1-four-hour-work-week",
+                "published": "2022-11-21"
+            },
+            {
                 "title": "本月玩什么 | Pentiment、战神 诸神黄昏、宝可梦 朱/紫",
                 "link": "https://sspai.com/post/76900",
                 "published": "2022-11-21"
@@ -8903,7 +8928,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -39359,6 +39384,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有没有追妻火葬场但破镜没重圆的故事？",
+                "link": "http://www.zhihu.com/question/497122453/answer/2738463953?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-22"
+            },
+            {
+                "title": "把小城市的街头拍出「电影感」，是种什么体验？",
+                "link": "http://www.zhihu.com/question/567250476/answer/2767740253?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-21"
+            },
+            {
                 "title": "新能源汽车工业能否带领中国走向世界第一强国？",
                 "link": "http://www.zhihu.com/question/515337233/answer/2756568238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-11-18"
@@ -45234,7 +45269,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
