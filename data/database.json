@@ -338,6 +338,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "突破系统限制，使用 Alfred Workflow + Pass 在任意登录表单填充用户名与密码",
+                "link": "https://sspai.com/post/76909",
+                "published": "2022-11-23"
+            },
+            {
+                "title": "派早报：vivo X90 系列正式发布、荣耀推出 MagicOS 7.0 等",
+                "link": "https://sspai.com/post/76942",
+                "published": "2022-11-23"
+            },
+            {
+                "title": "深度详解 Heptabase 的四大功能模块",
+                "link": "https://sspai.com/post/76704",
+                "published": "2022-11-22"
+            },
+            {
+                "title": "家的风格 | 用一米八的桌面，承载两种截然不同却相伴而行的生活方式",
+                "link": "https://sspai.com/post/76861",
+                "published": "2022-11-22"
+            },
+            {
+                "title": "一派·Podcast | 从 Ask Apple 畅想 Apple 生态的未来",
+                "link": "https://sspai.com/post/76927",
+                "published": "2022-11-22"
+            },
+            {
                 "title": "Windows on ARM 笔记本能用了吗？聊聊我的 Surface Pro X 体验",
                 "link": "https://sspai.com/post/76849",
                 "published": "2022-11-22"
@@ -39383,6 +39408,16 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "山田尚子监督于伦敦·有关新作与旧作的访谈",
+                "link": "http://zhuanlan.zhihu.com/p/585421585?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-22"
+            },
+            {
+                "title": "有关于人文社科类的让人看了就放不下的超赞书籍推荐吗？",
+                "link": "http://www.zhihu.com/question/374206610/answer/2769600826?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-22"
+            },
             {
                 "title": "有没有追妻火葬场但破镜没重圆的故事？",
                 "link": "http://www.zhihu.com/question/497122453/answer/2738463953?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
