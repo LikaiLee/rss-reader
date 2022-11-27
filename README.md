@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2022-11-27】 工作十年，这些个人管理习惯让我受益良多](https://sspai.com/post/76984)
+* [【2022-11-26】 「黑五」值得买：亚马逊海外淘上可以看看的硬件优惠](https://sspai.com/post/77003)
+* [【2022-11-26】 「黑五」值得买：Steam、PS、Epic 和 Switch 上值得关注的游戏优惠](https://sspai.com/post/76987)
 * [【2022-11-25】 本周看什么 | 最近值得一看的一大罐作品](https://sspai.com/post/76996)
 * [【2022-11-25】 「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/76992)
 * [【2022-11-25】 评论有奖｜这些歌真好听：我的飞傲试音歌单](https://sspai.com/post/76952)
@@ -42,9 +45,6 @@
 * [【2022-11-25】 把暖通系统接入智能家居，设计师是这样考虑的](https://sspai.com/post/76956)
 * [【2022-11-25】 派早报：OPPO 新品发布会、高通发布骁龙 782G 中端芯片等](https://sspai.com/post/76983)
 * [【2022-11-24】 新玩意 128｜少数派的作者们最近买了啥？](https://sspai.com/post/76974)
-* [【2022-11-24】 咖啡地图 | 哥斯达黎加的土地上盛产着香蕉和咖啡豆](https://sspai.com/post/76914)
-* [【2022-11-24】 十年：镜头里的风景和自己](https://sspai.com/prime/story/vol017-camera-and-me)
-* [【2022-11-24】 如何用人工智能帮你剪视频？](https://sspai.com/post/76939)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-11-27】 国漫力作《大理寺日志 2》11 月 26 日开播连更三集，如何评价第 1-3 集？](http://www.zhihu.com/question/567977080/answer/2776236318?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-26】 世界杯小组赛第二轮伊朗 2-0 击败威尔士，至此亚洲球队已取得 3 场胜利，如何评价他们的表现？](http://www.zhihu.com/question/568827364/answer/2775763832?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-25】 18 岁西班牙小将加维成队史最年轻世界杯进球者，未来潜力如何？如何看待世界杯上 00 后掀起青春风暴？](http://www.zhihu.com/question/568469114/answer/2774796352?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-24】 卡塔尔世界杯多场比赛上演「毫米级越位」，阿根廷对沙特越位数多达7次，裁判技术进步如何影响足球运动发展？](http://www.zhihu.com/question/568216667/answer/2772809995?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-24】 关于VAR的系统讨论（3）VAR如何改进？](http://zhuanlan.zhihu.com/p/586336587?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-11-23】 2022 卡塔尔世界杯小组赛德国爆冷 1:2 不敌日本，如何评价本场比赛？](http://www.zhihu.com/question/568414222/answer/2771830013?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-23】 同一天中梅西输球、C 罗「失业」，诸神的黄昏真的到来了吗？](http://www.zhihu.com/question/568341015/answer/2771198945?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-22】 山田尚子监督于伦敦·有关新作与旧作的访谈](http://zhuanlan.zhihu.com/p/585421585?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-22】 有关于人文社科类的让人看了就放不下的超赞书籍推荐吗？](http://www.zhihu.com/question/374206610/answer/2769600826?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-22】 有没有追妻火葬场但破镜没重圆的故事？](http://www.zhihu.com/question/497122453/answer/2738463953?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-26 05:12:07
+:alarm_clock: 更新时间: 2022-11-27 05:12:30

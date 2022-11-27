@@ -343,6 +343,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "工作十年，这些个人管理习惯让我受益良多",
+                "link": "https://sspai.com/post/76984",
+                "published": "2022-11-27"
+            },
+            {
+                "title": "「黑五」值得买：亚马逊海外淘上可以看看的硬件优惠",
+                "link": "https://sspai.com/post/77003",
+                "published": "2022-11-26"
+            },
+            {
+                "title": "「黑五」值得买：Steam、PS、Epic 和 Switch 上值得关注的游戏优惠",
+                "link": "https://sspai.com/post/76987",
+                "published": "2022-11-26"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的一大罐作品",
                 "link": "https://sspai.com/post/76996",
                 "published": "2022-11-25"
@@ -9028,7 +9043,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -39484,6 +39499,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "国漫力作《大理寺日志 2》11 月 26 日开播连更三集，如何评价第 1-3 集？",
+                "link": "http://www.zhihu.com/question/567977080/answer/2776236318?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-27"
+            },
+            {
+                "title": "世界杯小组赛第二轮伊朗 2-0 击败威尔士，至此亚洲球队已取得 3 场胜利，如何评价他们的表现？",
+                "link": "http://www.zhihu.com/question/568827364/answer/2775763832?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-26"
+            },
+            {
                 "title": "18 岁西班牙小将加维成队史最年轻世界杯进球者，未来潜力如何？如何看待世界杯上 00 后掀起青春风暴？",
                 "link": "http://www.zhihu.com/question/568469114/answer/2774796352?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-11-25"
@@ -45414,7 +45439,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
