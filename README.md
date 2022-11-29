@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-11-29】 挑战也是机遇，从环境设计实例谈 AI 辅助设计的前景](https://sspai.com/post/77005)
+* [【2022-11-29】 派早报：苹果撤下推特广告投放，瑞典一国有基金起诉微软与动视暴雪等](https://sspai.com/post/77034)
+* [【2022-11-28】 派评 | 近期值得关注的 App](https://sspai.com/post/77029)
+* [【2022-11-28】 我们为什么需要 Matter：飞利浦 Hue 的跨平台联动探索记录](https://sspai.com/post/76922)
+* [【2022-11-28】 App+1 | 你的下一款可穿戴设备，最好支持这个新特性：Health Connect](https://sspai.com/post/77024)
 * [【2022-11-28】 九天教会小猫咪「说话」——我家咪咪的求学之旅](https://sspai.com/post/76995)
 * [【2022-11-28】 派早报：推特将推出人工审核的多种认证，巴西没收无充电器 iPhone 等](https://sspai.com/post/77008)
 * [【2022-11-27】 工作十年，这些个人管理习惯让我受益良多](https://sspai.com/post/76984)
 * [【2022-11-26】 「黑五」值得买：亚马逊海外淘上可以看看的硬件优惠](https://sspai.com/post/77003)
 * [【2022-11-26】 「黑五」值得买：Steam、PS、Epic 和 Switch 上值得关注的游戏优惠](https://sspai.com/post/76987)
-* [【2022-11-25】 本周看什么 | 最近值得一看的一大罐作品](https://sspai.com/post/76996)
-* [【2022-11-25】 「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/76992)
-* [【2022-11-25】 评论有奖｜这些歌真好听：我的飞傲试音歌单](https://sspai.com/post/76952)
-* [【2022-11-25】 本地化、ChromeOS、二合一：聊聊 Fydetab Duo 的三个关键词](https://sspai.com/post/76978)
-* [【2022-11-25】 把暖通系统接入智能家居，设计师是这样考虑的](https://sspai.com/post/76956)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-28 05:13:17
+:alarm_clock: 更新时间: 2022-11-29 05:13:07
