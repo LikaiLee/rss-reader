@@ -343,6 +343,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "感受他者，建立连接：在碎片与算法的洪流中抵抗同质化",
+                "link": "https://sspai.com/post/77017",
+                "published": "2022-11-30"
+            },
+            {
+                "title": "派早报：App Store Awards 2022 年度大奖结果公布等",
+                "link": "https://sspai.com/post/77044",
+                "published": "2022-11-30"
+            },
+            {
+                "title": "选对插件，让简悦也可以重器轻用",
+                "link": "https://sspai.com/post/75567",
+                "published": "2022-11-29"
+            },
+            {
+                "title": "最大化利用租房空间，我的十平米卧室布置思路",
+                "link": "https://sspai.com/post/77031",
+                "published": "2022-11-29"
+            },
+            {
+                "title": "App Store Awards 2022 年度大奖出炉，我们和获奖开发者聊了聊",
+                "link": "https://sspai.com/post/77038",
+                "published": "2022-11-29"
+            },
+            {
                 "title": "挑战也是机遇，从环境设计实例谈 AI 辅助设计的前景",
                 "link": "https://sspai.com/post/77005",
                 "published": "2022-11-29"
@@ -39534,6 +39559,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "股市为何又跌了？现在适合买房吗？理财到底怎么做？这场直播给出了答案",
+                "link": "http://zhuanlan.zhihu.com/p/587837390?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-29"
+            },
+            {
+                "title": "美国与伊朗在世界杯同组引发热议    两队 24 年后再相遇，本次比赛伊朗战胜美国希望有多大？",
+                "link": "http://www.zhihu.com/question/525565463/answer/2779696234?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-11-29"
+            },
+            {
                 "title": "如何评价密室逃脱游戏的同质化现象？",
                 "link": "http://www.zhihu.com/question/567243397/answer/2771726725?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-11-27"
@@ -45479,7 +45514,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,

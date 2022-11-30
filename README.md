@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-11-30】 感受他者，建立连接：在碎片与算法的洪流中抵抗同质化](https://sspai.com/post/77017)
+* [【2022-11-30】 派早报：App Store Awards 2022 年度大奖结果公布等](https://sspai.com/post/77044)
+* [【2022-11-29】 选对插件，让简悦也可以重器轻用](https://sspai.com/post/75567)
+* [【2022-11-29】 最大化利用租房空间，我的十平米卧室布置思路](https://sspai.com/post/77031)
+* [【2022-11-29】 App Store Awards 2022 年度大奖出炉，我们和获奖开发者聊了聊](https://sspai.com/post/77038)
 * [【2022-11-29】 挑战也是机遇，从环境设计实例谈 AI 辅助设计的前景](https://sspai.com/post/77005)
 * [【2022-11-29】 派早报：苹果撤下推特广告投放，瑞典一国有基金起诉微软与动视暴雪等](https://sspai.com/post/77034)
 * [【2022-11-28】 派评 | 近期值得关注的 App](https://sspai.com/post/77029)
 * [【2022-11-28】 我们为什么需要 Matter：飞利浦 Hue 的跨平台联动探索记录](https://sspai.com/post/76922)
 * [【2022-11-28】 App+1 | 你的下一款可穿戴设备，最好支持这个新特性：Health Connect](https://sspai.com/post/77024)
-* [【2022-11-28】 九天教会小猫咪「说话」——我家咪咪的求学之旅](https://sspai.com/post/76995)
-* [【2022-11-28】 派早报：推特将推出人工审核的多种认证，巴西没收无充电器 iPhone 等](https://sspai.com/post/77008)
-* [【2022-11-27】 工作十年，这些个人管理习惯让我受益良多](https://sspai.com/post/76984)
-* [【2022-11-26】 「黑五」值得买：亚马逊海外淘上可以看看的硬件优惠](https://sspai.com/post/77003)
-* [【2022-11-26】 「黑五」值得买：Steam、PS、Epic 和 Switch 上值得关注的游戏优惠](https://sspai.com/post/76987)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-11-29】 股市为何又跌了？现在适合买房吗？理财到底怎么做？这场直播给出了答案](http://zhuanlan.zhihu.com/p/587837390?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-11-29】 美国与伊朗在世界杯同组引发热议    两队 24 年后再相遇，本次比赛伊朗战胜美国希望有多大？](http://www.zhihu.com/question/525565463/answer/2779696234?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-27】 如何评价密室逃脱游戏的同质化现象？](http://www.zhihu.com/question/567243397/answer/2771726725?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-27】 国漫力作《大理寺日志 2》11 月 26 日开播连更三集，如何评价第 1-3 集？](http://www.zhihu.com/question/567977080/answer/2776236318?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-26】 世界杯小组赛第二轮伊朗 2-0 击败威尔士，至此亚洲球队已取得 3 场胜利，如何评价他们的表现？](http://www.zhihu.com/question/568827364/answer/2775763832?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-11-24】 关于VAR的系统讨论（3）VAR如何改进？](http://zhuanlan.zhihu.com/p/586336587?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-24】 日本队世界杯爆冷战胜德国，《足球小将》剧情走进现实，如何看待这部漫画对日本足球发展的影响？](http://www.zhihu.com/question/568554764/answer/2772800790?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-24】 日本队世界杯爆冷战胜德国，《足球小将》剧情走进现实，如何看待这部漫画对日本足球发展的影响？](http://www.zhihu.com/question/568554764/answer/2773087608?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-23】 2022 卡塔尔世界杯小组赛德国爆冷 1:2 不敌日本，如何评价本场比赛？](http://www.zhihu.com/question/568414222/answer/2771830013?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-23】 同一天中梅西输球、C 罗「失业」，诸神的黄昏真的到来了吗？](http://www.zhihu.com/question/568341015/answer/2771198945?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-29 05:13:07
+:alarm_clock: 更新时间: 2022-11-30 05:13:36
