@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-12-01】 我的数据我做主：动手搭建一套自己的数据中心](https://sspai.com/post/76919)
+* [【2022-12-01】 派早报：Apple 颁布年度播客、Steam Deck 港台版发货时间确认等](https://sspai.com/post/77057)
+* [【2022-11-30】 任意键｜差劲但好玩的《宝可梦 朱 / 紫》，至少开了个好头](https://sspai.com/post/77049)
+* [【2022-11-30】 从理论到实践，这些好文章帮你系统地入坑咖啡](https://sspai.com/post/77040)
+* [【2022-11-30】 App Store 年度获奖作品，它想帮你科学饮水、健康生活：喝水羊驼](https://sspai.com/post/77048)
 * [【2022-11-30】 感受他者，建立连接：在碎片与算法的洪流中抵抗同质化](https://sspai.com/post/77017)
 * [【2022-11-30】 派早报：App Store Awards 2022 年度大奖结果公布等](https://sspai.com/post/77044)
 * [【2022-11-29】 选对插件，让简悦也可以重器轻用](https://sspai.com/post/75567)
 * [【2022-11-29】 最大化利用租房空间，我的十平米卧室布置思路](https://sspai.com/post/77031)
 * [【2022-11-29】 App Store Awards 2022 年度大奖出炉，我们和获奖开发者聊了聊](https://sspai.com/post/77038)
-* [【2022-11-29】 挑战也是机遇，从环境设计实例谈 AI 辅助设计的前景](https://sspai.com/post/77005)
-* [【2022-11-29】 派早报：苹果撤下推特广告投放，瑞典一国有基金起诉微软与动视暴雪等](https://sspai.com/post/77034)
-* [【2022-11-28】 派评 | 近期值得关注的 App](https://sspai.com/post/77029)
-* [【2022-11-28】 我们为什么需要 Matter：飞利浦 Hue 的跨平台联动探索记录](https://sspai.com/post/76922)
-* [【2022-11-28】 App+1 | 你的下一款可穿戴设备，最好支持这个新特性：Health Connect](https://sspai.com/post/77024)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-11-30 05:13:36
+:alarm_clock: 更新时间: 2022-12-01 05:14:38
