@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 233 期）：生活就像一个鱼缸",
+                "link": "http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html",
+                "published": "2022-12-02"
+            },
+            {
                 "title": "科技爱好者周刊（第 232 期）：好用的平面设计软件",
                 "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html",
                 "published": "2022-11-25"
@@ -335,13 +340,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一日一技｜巧用开源软件 Mackup 在不同设备间同步各类软件设置",
+                "link": "https://sspai.com/post/77012",
+                "published": "2022-12-02"
+            },
+            {
+                "title": "派早报：Google 公布 2022 年 Play Store 最佳榜单、贝尔金推出 AirPods 清洁套装",
+                "link": "https://sspai.com/post/77075",
+                "published": "2022-12-02"
+            },
+            {
+                "title": "新玩意 129｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/77068",
+                "published": "2022-12-01"
+            },
+            {
+                "title": "在相纸定格瞬间美好：拍立得选购指南",
+                "link": "https://sspai.com/post/77064",
+                "published": "2022-12-01"
+            },
+            {
+                "title": "App+1 | 用一万个句子学会一门语言：Glossika",
+                "link": "https://sspai.com/post/76985",
+                "published": "2022-12-01"
+            },
             {
                 "title": "我的数据我做主：动手搭建一套自己的数据中心",
                 "link": "https://sspai.com/post/76919",
@@ -39584,6 +39614,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "连克德国、西班牙以小组头名晋级，如何评价日本队在卡塔尔世界杯小组赛上的表现？",
+                "link": "http://www.zhihu.com/question/570109114/answer/2783838578?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-02"
+            },
+            {
+                "title": "求推荐几个比较好的钢琴音源？",
+                "link": "http://www.zhihu.com/question/27103966/answer/2687889300?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-01"
+            },
+            {
                 "title": "股市为何又跌了？现在适合买房吗？理财到底怎么做？这场直播给出了答案",
                 "link": "http://zhuanlan.zhihu.com/p/587837390?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-11-29"
@@ -45539,13 +45579,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 40 期）: Sort Visualizer, Quick Reference, Compare OSS Projects, Random User Generator, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2210024210603786240",
+                "published": "2022-12-01"
+            },
             {
                 "title": "好工具周刊（第 39 期）: Color Palette Generator, Gradient Maker, Showcode, 中科大测速网站, FlipClocker, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2207495485110075392",
@@ -45747,6 +45792,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

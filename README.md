@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+2】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-12-02】 科技爱好者周刊（第 233 期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)
 * [【2022-11-25】 科技爱好者周刊（第 232 期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html)
 * [【2022-11-18】 科技爱好者周刊（第 231 期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)
 * [【2022-11-11】 科技爱好者周刊（第 230 期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html)
@@ -25,7 +26,6 @@
 * [【2022-10-23】 最简单的 Git 服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)
 * [【2022-10-21】 科技爱好者周刊（第 227 期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)
 * [【2022-10-14】 科技爱好者周刊（第 226 期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)
-* [【2022-09-30】 科技爱好者周刊（第 225 期）：NPC 演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-12-02】 一日一技｜巧用开源软件 Mackup 在不同设备间同步各类软件设置](https://sspai.com/post/77012)
+* [【2022-12-02】 派早报：Google 公布 2022 年 Play Store 最佳榜单、贝尔金推出 AirPods 清洁套装](https://sspai.com/post/77075)
+* [【2022-12-01】 新玩意 129｜少数派的编辑们最近买了啥？](https://sspai.com/post/77068)
+* [【2022-12-01】 在相纸定格瞬间美好：拍立得选购指南](https://sspai.com/post/77064)
+* [【2022-12-01】 App+1 | 用一万个句子学会一门语言：Glossika](https://sspai.com/post/76985)
 * [【2022-12-01】 我的数据我做主：动手搭建一套自己的数据中心](https://sspai.com/post/76919)
 * [【2022-12-01】 派早报：Apple 颁布年度播客、Steam Deck 港台版发货时间确认等](https://sspai.com/post/77057)
 * [【2022-11-30】 任意键｜差劲但好玩的《宝可梦 朱 / 紫》，至少开了个好头](https://sspai.com/post/77049)
 * [【2022-11-30】 从理论到实践，这些好文章帮你系统地入坑咖啡](https://sspai.com/post/77040)
 * [【2022-11-30】 App Store 年度获奖作品，它想帮你科学饮水、健康生活：喝水羊驼](https://sspai.com/post/77048)
-* [【2022-11-30】 感受他者，建立连接：在碎片与算法的洪流中抵抗同质化](https://sspai.com/post/77017)
-* [【2022-11-30】 派早报：App Store Awards 2022 年度大奖结果公布等](https://sspai.com/post/77044)
-* [【2022-11-29】 选对插件，让简悦也可以重器轻用](https://sspai.com/post/75567)
-* [【2022-11-29】 最大化利用租房空间，我的十平米卧室布置思路](https://sspai.com/post/77031)
-* [【2022-11-29】 App Store Awards 2022 年度大奖出炉，我们和获奖开发者聊了聊](https://sspai.com/post/77038)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2022-12-02】 连克德国、西班牙以小组头名晋级，如何评价日本队在卡塔尔世界杯小组赛上的表现？](http://www.zhihu.com/question/570109114/answer/2783838578?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-01】 求推荐几个比较好的钢琴音源？](http://www.zhihu.com/question/27103966/answer/2687889300?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-29】 股市为何又跌了？现在适合买房吗？理财到底怎么做？这场直播给出了答案](http://zhuanlan.zhihu.com/p/587837390?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-29】 美国与伊朗在世界杯同组引发热议    两队 24 年后再相遇，本次比赛伊朗战胜美国希望有多大？](http://www.zhihu.com/question/525565463/answer/2779696234?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-27】 如何评价密室逃脱游戏的同质化现象？](http://www.zhihu.com/question/567243397/answer/2771726725?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2022-11-25】 18 岁西班牙小将加维成队史最年轻世界杯进球者，未来潜力如何？如何看待世界杯上 00 后掀起青春风暴？](http://www.zhihu.com/question/568469114/answer/2774796352?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-24】 卡塔尔世界杯多场比赛上演「毫米级越位」，阿根廷对沙特越位数多达7次，裁判技术进步如何影响足球运动发展？](http://www.zhihu.com/question/568216667/answer/2772809995?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-11-24】 关于VAR的系统讨论（3）VAR如何改进？](http://zhuanlan.zhihu.com/p/586336587?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-24】 日本队世界杯爆冷战胜德国，《足球小将》剧情走进现实，如何看待这部漫画对日本足球发展的影响？](http://www.zhihu.com/question/568554764/answer/2772800790?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-24】 日本队世界杯爆冷战胜德国，《足球小将》剧情走进现实，如何看待这部漫画对日本足球发展的影响？](http://www.zhihu.com/question/568554764/answer/2773087608?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-12-01】 好工具周刊（第 40 期）: Sort Visualizer, Quick Reference, Compare OSS Projects, Random User Generator, ...](https://bestxtools.zhubai.love/posts/2210024210603786240)
 * [【2022-11-24】 好工具周刊（第 39 期）: Color Palette Generator, Gradient Maker, Showcode, 中科大测速网站, FlipClocker, ...](https://bestxtools.zhubai.love/posts/2207495485110075392)
 * [【2022-11-17】 好工具周刊（第 38 期）: GitHub Business Card, ShortcutFoo, typing.io, Lingva Translate, Etymonline, ...](https://bestxtools.zhubai.love/posts/2204976619335163904)
 * [【2022-11-10】 好工具周刊（第 37 期）: Eoapi, Tailwind CSS Gradient Generator, IconGo, Website Metadata, 竹白专栏检索, 直播中国, ...](https://bestxtools.zhubai.love/posts/2202403256725368832)
@@ -101,7 +102,6 @@
 * [【2022-10-13】 好工具周刊（第 33 期）: Ele types, SpeedCoder, Typing Practice, 自由钢琴, Compress PNG to 100KB, 图片马赛克转换器, 谐音工具](https://bestxtools.zhubai.love/posts/2192281020718419968)
 * [【2022-09-29】 好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://bestxtools.zhubai.love/posts/2187203672369479680)
 * [【2022-09-22】 好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons](https://bestxtools.zhubai.love/posts/2184646951055171584)
-* [【2022-09-15】 好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, OurBoard, AnimatiSS, ...](https://bestxtools.zhubai.love/posts/2182124891627585536)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-12-01 05:14:38
+:alarm_clock: 更新时间: 2022-12-02 05:12:19
