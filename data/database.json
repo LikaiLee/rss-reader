@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 234 期）：AI 聊天有多强？",
+                "link": "http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html",
+                "published": "2022-12-09"
+            },
+            {
                 "title": "科技爱好者周刊（第 233 期）：生活就像一个鱼缸",
                 "link": "http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html",
                 "published": "2022-12-02"
@@ -347,6 +352,56 @@
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/77194",
+                "published": "2022-12-09"
+            },
+            {
+                "title": "双十二｜少数派会员×读库 2023 全年阅读计划来了",
+                "link": "https://sspai.com/post/77152",
+                "published": "2022-12-09"
+            },
+            {
+                "title": "赏玩亦可实用，惊叹不忘反思：听少数派们谈 AI",
+                "link": "https://sspai.com/post/77172",
+                "published": "2022-12-09"
+            },
+            {
+                "title": "找笔记方便、写作又给力的知识库，我是这么搭建出来的",
+                "link": "https://sspai.com/post/77144",
+                "published": "2022-12-09"
+            },
+            {
+                "title": "评《战神 诸神黄昏》：庞杂，但缺乏表达",
+                "link": "https://sspai.com/post/77187",
+                "published": "2022-12-09"
+            },
+            {
+                "title": "派早报：Apple 计划推出全新 iCloud 加密系统、iQOO 发布旗舰手机 iQOO 11 系列",
+                "link": "https://sspai.com/post/77188",
+                "published": "2022-12-09"
+            },
+            {
+                "title": "好看、有趣，还能学知识：挑一本好看的日历迎接崭新的 2023 年",
+                "link": "https://sspai.com/post/77102",
+                "published": "2022-12-08"
+            },
+            {
+                "title": "总之，你就是想要出国旅游了……",
+                "link": "https://sspai.com/post/77127",
+                "published": "2022-12-08"
+            },
+            {
+                "title": "下班之后还想赚外快？拿好这份私活指南",
+                "link": "https://sspai.com/prime/story/vol05-how-to-become-a-moonlighter",
+                "published": "2022-12-08"
+            },
+            {
+                "title": "打造三十平米的温暖与精致，聊聊我选择的租房好物",
+                "link": "https://sspai.com/post/76216",
+                "published": "2022-12-08"
+            },
             {
                 "title": "一日一技｜巧用开源软件 Mackup 在不同设备间同步各类软件设置",
                 "link": "https://sspai.com/post/77012",
@@ -9158,7 +9213,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 10
     },
     {
         "id": 2,
@@ -39614,6 +39669,61 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "北京购买「四类药品」不再登记顾客信息；广州购药不查核酸，专家称可按普通感冒储备药物，哪些信息值得关注？",
+                "link": "http://www.zhihu.com/question/570256833/answer/2794167709?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-09"
+            },
+            {
+                "title": "第一次用 iPhone 需要注意什么?",
+                "link": "http://www.zhihu.com/question/461781319/answer/2759767148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-08"
+            },
+            {
+                "title": "禄来双反避坑宝典：维修师傅偷偷告诉你的选购秘籍",
+                "link": "http://zhuanlan.zhihu.com/p/473911528?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-08"
+            },
+            {
+                "title": "什么是低筋面粉，中筋面粉和高筋面粉？在使用方式上有什么区别？",
+                "link": "http://www.zhihu.com/question/568579880/answer/2790399896?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-08"
+            },
+            {
+                "title": "特斯拉人形机器人擎天柱原型机正式亮相，预计售价不到 2 万美元，未来产量可达数百万台，有哪些技术亮点？",
+                "link": "http://www.zhihu.com/question/557190222/answer/2697301542?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-08"
+            },
+            {
+                "title": "蔚来、理想、小鹏三家新势力造车公司，哪家最有可能先倒下？",
+                "link": "http://www.zhihu.com/question/436315339/answer/2792046412?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-08"
+            },
+            {
+                "title": "各大新能源车的续航里程都存在严重虚标，为什么没有相关部门出来管一管？",
+                "link": "http://www.zhihu.com/question/567822080/answer/2789173272?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-07"
+            },
+            {
+                "title": "站在 2022 尾巴上，目前自动驾驶技术发展到了什么水平？",
+                "link": "http://www.zhihu.com/question/570130511/answer/2791019283?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-07"
+            },
+            {
+                "title": "2023 年整个汽车行业预计会发生哪些变化？",
+                "link": "http://www.zhihu.com/question/568629776/answer/2778416660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-06"
+            },
+            {
+                "title": "2023 年整个汽车行业预计会发生哪些变化？",
+                "link": "http://www.zhihu.com/question/568629776/answer/2784775670?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-06"
+            },
+            {
+                "title": "soccer 与 football 有什么区别？这种区别的来源是哪？这两个词具体适用范围是什么?",
+                "link": "http://www.zhihu.com/question/21686897/answer/2786779449?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-04"
+            },
+            {
                 "title": "连克德国、西班牙以小组头名晋级，如何评价日本队在卡塔尔世界杯小组赛上的表现？",
                 "link": "http://www.zhihu.com/question/570109114/answer/2783838578?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-12-02"
@@ -45579,13 +45689,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 11
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 41 期）: SmartyNames, Rayst Domains, Screenshot.Rocks, Magic Mockups, ApiFlash, 竹白百科, sssbar",
+                "link": "https://bestxtools.zhubai.love/posts/2212546213424480256",
+                "published": "2022-12-08"
+            },
             {
                 "title": "好工具周刊（第 40 期）: Sort Visualizer, Quick Reference, Compare OSS Projects, Random User Generator, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2210024210603786240",

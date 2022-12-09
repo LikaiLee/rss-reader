@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+10】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+11】
 * [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-12-09】 科技爱好者周刊（第 234 期）：AI 聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html)
 * [【2022-12-02】 科技爱好者周刊（第 233 期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)
 * [【2022-11-25】 科技爱好者周刊（第 232 期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html)
 * [【2022-11-18】 科技爱好者周刊（第 231 期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)
@@ -25,7 +26,6 @@
 * [【2022-10-25】 羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html)
 * [【2022-10-23】 最简单的 Git 服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)
 * [【2022-10-21】 科技爱好者周刊（第 227 期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)
-* [【2022-10-14】 科技爱好者周刊（第 226 期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
-* [【2022-12-02】 一日一技｜巧用开源软件 Mackup 在不同设备间同步各类软件设置](https://sspai.com/post/77012)
-* [【2022-12-02】 派早报：Google 公布 2022 年 Play Store 最佳榜单、贝尔金推出 AirPods 清洁套装](https://sspai.com/post/77075)
-* [【2022-12-01】 新玩意 129｜少数派的编辑们最近买了啥？](https://sspai.com/post/77068)
-* [【2022-12-01】 在相纸定格瞬间美好：拍立得选购指南](https://sspai.com/post/77064)
-* [【2022-12-01】 App+1 | 用一万个句子学会一门语言：Glossika](https://sspai.com/post/76985)
-* [【2022-12-01】 我的数据我做主：动手搭建一套自己的数据中心](https://sspai.com/post/76919)
-* [【2022-12-01】 派早报：Apple 颁布年度播客、Steam Deck 港台版发货时间确认等](https://sspai.com/post/77057)
-* [【2022-11-30】 任意键｜差劲但好玩的《宝可梦 朱 / 紫》，至少开了个好头](https://sspai.com/post/77049)
-* [【2022-11-30】 从理论到实践，这些好文章帮你系统地入坑咖啡](https://sspai.com/post/77040)
-* [【2022-11-30】 App Store 年度获奖作品，它想帮你科学饮水、健康生活：喝水羊驼](https://sspai.com/post/77048)
+* [【2022-12-09】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/77194)
+* [【2022-12-09】 双十二｜少数派会员×读库 2023 全年阅读计划来了](https://sspai.com/post/77152)
+* [【2022-12-09】 赏玩亦可实用，惊叹不忘反思：听少数派们谈 AI](https://sspai.com/post/77172)
+* [【2022-12-09】 找笔记方便、写作又给力的知识库，我是这么搭建出来的](https://sspai.com/post/77144)
+* [【2022-12-09】 评《战神 诸神黄昏》：庞杂，但缺乏表达](https://sspai.com/post/77187)
+* [【2022-12-09】 派早报：Apple 计划推出全新 iCloud 加密系统、iQOO 发布旗舰手机 iQOO 11 系列](https://sspai.com/post/77188)
+* [【2022-12-08】 好看、有趣，还能学知识：挑一本好看的日历迎接崭新的 2023 年](https://sspai.com/post/77102)
+* [【2022-12-08】 总之，你就是想要出国旅游了……](https://sspai.com/post/77127)
+* [【2022-12-08】 下班之后还想赚外快？拿好这份私活指南](https://sspai.com/prime/story/vol05-how-to-become-a-moonlighter)
+* [【2022-12-08】 打造三十平米的温暖与精致，聊聊我选择的租房好物](https://sspai.com/post/76216)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
-* [【2022-12-02】 连克德国、西班牙以小组头名晋级，如何评价日本队在卡塔尔世界杯小组赛上的表现？](http://www.zhihu.com/question/570109114/answer/2783838578?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-12-01】 求推荐几个比较好的钢琴音源？](http://www.zhihu.com/question/27103966/answer/2687889300?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-29】 股市为何又跌了？现在适合买房吗？理财到底怎么做？这场直播给出了答案](http://zhuanlan.zhihu.com/p/587837390?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-29】 美国与伊朗在世界杯同组引发热议    两队 24 年后再相遇，本次比赛伊朗战胜美国希望有多大？](http://www.zhihu.com/question/525565463/answer/2779696234?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-27】 如何评价密室逃脱游戏的同质化现象？](http://www.zhihu.com/question/567243397/answer/2771726725?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-27】 国漫力作《大理寺日志 2》11 月 26 日开播连更三集，如何评价第 1-3 集？](http://www.zhihu.com/question/567977080/answer/2776236318?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-26】 世界杯小组赛第二轮伊朗 2-0 击败威尔士，至此亚洲球队已取得 3 场胜利，如何评价他们的表现？](http://www.zhihu.com/question/568827364/answer/2775763832?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-25】 18 岁西班牙小将加维成队史最年轻世界杯进球者，未来潜力如何？如何看待世界杯上 00 后掀起青春风暴？](http://www.zhihu.com/question/568469114/answer/2774796352?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-24】 卡塔尔世界杯多场比赛上演「毫米级越位」，阿根廷对沙特越位数多达7次，裁判技术进步如何影响足球运动发展？](http://www.zhihu.com/question/568216667/answer/2772809995?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-11-24】 关于VAR的系统讨论（3）VAR如何改进？](http://zhuanlan.zhihu.com/p/586336587?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-09】 北京购买「四类药品」不再登记顾客信息；广州购药不查核酸，专家称可按普通感冒储备药物，哪些信息值得关注？](http://www.zhihu.com/question/570256833/answer/2794167709?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-08】 第一次用 iPhone 需要注意什么?](http://www.zhihu.com/question/461781319/answer/2759767148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-08】 禄来双反避坑宝典：维修师傅偷偷告诉你的选购秘籍](http://zhuanlan.zhihu.com/p/473911528?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-08】 什么是低筋面粉，中筋面粉和高筋面粉？在使用方式上有什么区别？](http://www.zhihu.com/question/568579880/answer/2790399896?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-08】 特斯拉人形机器人擎天柱原型机正式亮相，预计售价不到 2 万美元，未来产量可达数百万台，有哪些技术亮点？](http://www.zhihu.com/question/557190222/answer/2697301542?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-08】 蔚来、理想、小鹏三家新势力造车公司，哪家最有可能先倒下？](http://www.zhihu.com/question/436315339/answer/2792046412?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-07】 各大新能源车的续航里程都存在严重虚标，为什么没有相关部门出来管一管？](http://www.zhihu.com/question/567822080/answer/2789173272?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-07】 站在 2022 尾巴上，目前自动驾驶技术发展到了什么水平？](http://www.zhihu.com/question/570130511/answer/2791019283?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-06】 2023 年整个汽车行业预计会发生哪些变化？](http://www.zhihu.com/question/568629776/answer/2778416660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-06】 2023 年整个汽车行业预计会发生哪些变化？](http://www.zhihu.com/question/568629776/answer/2784775670?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-12-08】 好工具周刊（第 41 期）: SmartyNames, Rayst Domains, Screenshot.Rocks, Magic Mockups, ApiFlash, 竹白百科, sssbar](https://bestxtools.zhubai.love/posts/2212546213424480256)
 * [【2022-12-01】 好工具周刊（第 40 期）: Sort Visualizer, Quick Reference, Compare OSS Projects, Random User Generator, ...](https://bestxtools.zhubai.love/posts/2210024210603786240)
 * [【2022-11-24】 好工具周刊（第 39 期）: Color Palette Generator, Gradient Maker, Showcode, 中科大测速网站, FlipClocker, ...](https://bestxtools.zhubai.love/posts/2207495485110075392)
 * [【2022-11-17】 好工具周刊（第 38 期）: GitHub Business Card, ShortcutFoo, typing.io, Lingva Translate, Etymonline, ...](https://bestxtools.zhubai.love/posts/2204976619335163904)
@@ -101,7 +102,6 @@
 * [【2022-10-20】 好工具周刊（第 34 期）: Excalidraw Animate, Excalidraw Claymate, dazidazi, Silk, Big Heads, ...](https://bestxtools.zhubai.love/posts/2194796415966781440)
 * [【2022-10-13】 好工具周刊（第 33 期）: Ele types, SpeedCoder, Typing Practice, 自由钢琴, Compress PNG to 100KB, 图片马赛克转换器, 谐音工具](https://bestxtools.zhubai.love/posts/2192281020718419968)
 * [【2022-09-29】 好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://bestxtools.zhubai.love/posts/2187203672369479680)
-* [【2022-09-22】 好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons](https://bestxtools.zhubai.love/posts/2184646951055171584)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-12-02 05:12:19
+:alarm_clock: 更新时间: 2022-12-09 15:20:17
