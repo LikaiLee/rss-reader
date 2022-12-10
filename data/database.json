@@ -345,13 +345,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "替室友按下静音键，回顾静音轴体的二十年",
+                "link": "https://sspai.com/post/77094",
+                "published": "2022-12-10"
+            },
             {
                 "title": "本周看什么 | 最近值得一看的 7 部作品",
                 "link": "https://sspai.com/post/77194",
@@ -9213,7 +9218,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -45689,7 +45694,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 0
     },
     {
         "id": 4,
@@ -45907,6 +45912,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

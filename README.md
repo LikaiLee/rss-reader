@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+10】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+11】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选)
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2022-12-10】 替室友按下静音键，回顾静音轴体的二十年](https://sspai.com/post/77094)
 * [【2022-12-09】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/77194)
 * [【2022-12-09】 双十二｜少数派会员×读库 2023 全年阅读计划来了](https://sspai.com/post/77152)
 * [【2022-12-09】 赏玩亦可实用，惊叹不忘反思：听少数派们谈 AI](https://sspai.com/post/77172)
@@ -44,7 +45,6 @@
 * [【2022-12-08】 好看、有趣，还能学知识：挑一本好看的日历迎接崭新的 2023 年](https://sspai.com/post/77102)
 * [【2022-12-08】 总之，你就是想要出国旅游了……](https://sspai.com/post/77127)
 * [【2022-12-08】 下班之后还想赚外快？拿好这份私活指南](https://sspai.com/prime/story/vol05-how-to-become-a-moonlighter)
-* [【2022-12-08】 打造三十平米的温暖与精致，聊聊我选择的租房好物](https://sspai.com/post/76216)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-12-09 15:20:17
+:alarm_clock: 更新时间: 2022-12-10 05:11:42
