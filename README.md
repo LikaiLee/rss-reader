@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-12-10】 一擦就净的万能清洁布，双十二为你带来今年最后的上新](https://sspai.com/post/77151)
+* [【2022-12-10】 一日一技 | 如何分享一个体面的购物链接](https://sspai.com/post/77189)
 * [【2022-12-10】 替室友按下静音键，回顾静音轴体的二十年](https://sspai.com/post/77094)
 * [【2022-12-09】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/77194)
 * [【2022-12-09】 双十二｜少数派会员×读库 2023 全年阅读计划来了](https://sspai.com/post/77152)
@@ -43,8 +45,6 @@
 * [【2022-12-09】 评《战神 诸神黄昏》：庞杂，但缺乏表达](https://sspai.com/post/77187)
 * [【2022-12-09】 派早报：Apple 计划推出全新 iCloud 加密系统、iQOO 发布旗舰手机 iQOO 11 系列](https://sspai.com/post/77188)
 * [【2022-12-08】 好看、有趣，还能学知识：挑一本好看的日历迎接崭新的 2023 年](https://sspai.com/post/77102)
-* [【2022-12-08】 总之，你就是想要出国旅游了……](https://sspai.com/post/77127)
-* [【2022-12-08】 下班之后还想赚外快？拿好这份私活指南](https://sspai.com/prime/story/vol05-how-to-become-a-moonlighter)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-12-10】 荷兰队主帅范加尔确认自己将离任，如何评价他在荷兰队的第三段执教生涯？](http://www.zhihu.com/question/571537053/answer/2795657416?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-09】 北京购买「四类药品」不再登记顾客信息；广州购药不查核酸，专家称可按普通感冒储备药物，哪些信息值得关注？](http://www.zhihu.com/question/570256833/answer/2794167709?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-08】 第一次用 iPhone 需要注意什么?](http://www.zhihu.com/question/461781319/answer/2759767148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-08】 禄来双反避坑宝典：维修师傅偷偷告诉你的选购秘籍](http://zhuanlan.zhihu.com/p/473911528?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-12-07】 各大新能源车的续航里程都存在严重虚标，为什么没有相关部门出来管一管？](http://www.zhihu.com/question/567822080/answer/2789173272?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-07】 站在 2022 尾巴上，目前自动驾驶技术发展到了什么水平？](http://www.zhihu.com/question/570130511/answer/2791019283?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-06】 2023 年整个汽车行业预计会发生哪些变化？](http://www.zhihu.com/question/568629776/answer/2778416660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-12-06】 2023 年整个汽车行业预计会发生哪些变化？](http://www.zhihu.com/question/568629776/answer/2784775670?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-12-10 05:11:42
+:alarm_clock: 更新时间: 2022-12-11 05:11:59

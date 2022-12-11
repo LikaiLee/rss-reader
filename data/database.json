@@ -353,6 +353,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一擦就净的万能清洁布，双十二为你带来今年最后的上新",
+                "link": "https://sspai.com/post/77151",
+                "published": "2022-12-10"
+            },
+            {
+                "title": "一日一技 | 如何分享一个体面的购物链接",
+                "link": "https://sspai.com/post/77189",
+                "published": "2022-12-10"
+            },
+            {
                 "title": "替室友按下静音键，回顾静音轴体的二十年",
                 "link": "https://sspai.com/post/77094",
                 "published": "2022-12-10"
@@ -9218,7 +9228,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -39674,6 +39684,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "荷兰队主帅范加尔确认自己将离任，如何评价他在荷兰队的第三段执教生涯？",
+                "link": "http://www.zhihu.com/question/571537053/answer/2795657416?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-10"
+            },
+            {
                 "title": "北京购买「四类药品」不再登记顾客信息；广州购药不查核酸，专家称可按普通感冒储备药物，哪些信息值得关注？",
                 "link": "http://www.zhihu.com/question/570256833/answer/2794167709?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-12-09"
@@ -45694,7 +45709,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
