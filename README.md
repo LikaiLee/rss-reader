@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-12-13】 一日一技 | 动手做个 Windows 快捷方式，拖拽搞定批量重命名](https://sspai.com/post/73026)
+* [【2022-12-13】 派早报：三大运营商同步删除通信行程卡相关数据等](https://sspai.com/post/77248)
+* [【2022-12-12】 派评 | 近期值得关注的 App](https://sspai.com/post/77243)
+* [【2022-12-12】 锁住专注力，让心流成为你的效率「推进器」](https://sspai.com/post/77239)
+* [【2022-12-12】 咖啡地图 | 总被忽视但正在迅速崛起的墨西哥咖啡豆](https://sspai.com/post/77233)
+* [【2022-12-12】 双十二想拥有一台新电脑？这些小巧灵活兼顾的 NUC 值得一看](https://sspai.com/post/77215)
 * [【2022-12-12】 如何在 Notion 建立多级标签体系](https://sspai.com/post/77197)
 * [【2022-12-12】 派早报：小米 13 系列发布，《互联网信息服务深度合成管理规定》发布等](https://sspai.com/post/77224)
 * [【2022-12-11】 App+1 | 给系统内置日历找个平替，它可以成为默认之选：一叶日历](https://sspai.com/post/77225)
 * [【2022-12-11】 一派·PowerUp 直播精华回放 : 即学即用的 PPT 动画制作技巧](https://sspai.com/post/77070)
-* [【2022-12-10】 一擦就净的万能清洁布，双十二为你带来今年最后的上新](https://sspai.com/post/77151)
-* [【2022-12-10】 一日一技 | 如何分享一个体面的购物链接](https://sspai.com/post/77189)
-* [【2022-12-10】 替室友按下静音键，回顾静音轴体的二十年](https://sspai.com/post/77094)
-* [【2022-12-09】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/77194)
-* [【2022-12-09】 双十二｜少数派会员×读库 2023 全年阅读计划来了](https://sspai.com/post/77152)
-* [【2022-12-09】 赏玩亦可实用，惊叹不忘反思：听少数派们谈 AI](https://sspai.com/post/77172)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-12-12 05:12:32
+:alarm_clock: 更新时间: 2022-12-13 05:12:28
