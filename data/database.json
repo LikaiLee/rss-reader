@@ -353,6 +353,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "无边记 App、Apple Music 唱歌…… iOS 16.2 值得关注的新特性",
+                "link": "https://sspai.com/post/77223",
+                "published": "2022-12-14"
+            },
+            {
+                "title": "派早报：iOS/iPadOS 16.2 与 macOS 13.1 等正式版推送、PlayStation 2022 年度回顾上线",
+                "link": "https://sspai.com/post/77270",
+                "published": "2022-12-14"
+            },
+            {
+                "title": "时间管理也许并不难，只是你还没找到适合自己的方法论",
+                "link": "https://sspai.com/post/77207",
+                "published": "2022-12-13"
+            },
+            {
+                "title": "Windows 生态信仰入门：微软 Surface 设备选购指南",
+                "link": "https://sspai.com/post/77256",
+                "published": "2022-12-13"
+            },
+            {
+                "title": "App+1 | 跨平台且开源的文本扩展器：Espanso",
+                "link": "https://sspai.com/post/77235",
+                "published": "2022-12-13"
+            },
+            {
                 "title": "一日一技 | 动手做个 Windows 快捷方式，拖拽搞定批量重命名",
                 "link": "https://sspai.com/post/73026",
                 "published": "2022-12-13"
@@ -9278,7 +9303,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
