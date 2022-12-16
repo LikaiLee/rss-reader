@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 235 期）：青年失业率与选择创业",
+                "link": "http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html",
+                "published": "2022-12-16"
+            },
+            {
                 "title": "科技爱好者周刊（第 234 期）：AI 聊天有多强？",
                 "link": "http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html",
                 "published": "2022-12-09"
@@ -345,13 +350,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "支持扩展的 Android 浏览器，你有一个清爽好用的新选择：狐猴浏览器",
+                "link": "https://sspai.com/post/77308",
+                "published": "2022-12-16"
+            },
+            {
+                "title": "派早报：OPPO Find N2 系列发布、Apple 将允许第三方应用商店等",
+                "link": "https://sspai.com/post/77305",
+                "published": "2022-12-16"
+            },
+            {
+                "title": "新玩意 130｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/77300",
+                "published": "2022-12-15"
+            },
+            {
+                "title": "家的风格 | 与书桌相处也是正经事",
+                "link": "https://sspai.com/post/76940",
+                "published": "2022-12-15"
+            },
+            {
+                "title": "Pandoc 从入门到精通，你也可以学会这一个文本转换利器",
+                "link": "https://sspai.com/post/77206",
+                "published": "2022-12-15"
+            },
             {
                 "title": "双十二过后想要出二手「回血」？这是我的闲鱼交易全指南",
                 "link": "https://sspai.com/post/77033",
@@ -39784,6 +39814,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "站在 2022 年，你认为增程技术的未来市场前景如何？",
+                "link": "http://www.zhihu.com/question/569728284/answer/2793524950?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-16"
+            },
+            {
+                "title": "2023 年整个汽车行业预计会发生哪些变化？",
+                "link": "http://www.zhihu.com/question/568629776/answer/2780454989?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-16"
+            },
+            {
+                "title": "如何看待毫米波雷达和激光雷达之间的差别，哪个才是自动驾驶感知的最优选择？",
+                "link": "http://www.zhihu.com/question/567807965/answer/2774079829?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-16"
+            },
+            {
                 "title": "如何评价国产动画《三体》第一季第二集?",
                 "link": "http://www.zhihu.com/question/571594511/answer/2800886471?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-12-14"
@@ -45814,7 +45859,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 4,

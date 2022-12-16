@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-12-16】 科技爱好者周刊（第 235 期）：青年失业率与选择创业](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html)
 * [【2022-12-09】 科技爱好者周刊（第 234 期）：AI 聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html)
 * [【2022-12-02】 科技爱好者周刊（第 233 期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)
 * [【2022-11-25】 科技爱好者周刊（第 232 期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html)
@@ -25,7 +26,6 @@
 * [【2022-10-28】 科技爱好者周刊（第 228 期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html)
 * [【2022-10-25】 羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html)
 * [【2022-10-23】 最简单的 Git 服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)
-* [【2022-10-21】 科技爱好者周刊（第 227 期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-12-16】 支持扩展的 Android 浏览器，你有一个清爽好用的新选择：狐猴浏览器](https://sspai.com/post/77308)
+* [【2022-12-16】 派早报：OPPO Find N2 系列发布、Apple 将允许第三方应用商店等](https://sspai.com/post/77305)
+* [【2022-12-15】 新玩意 130｜少数派的编辑们最近买了啥？](https://sspai.com/post/77300)
+* [【2022-12-15】 家的风格 | 与书桌相处也是正经事](https://sspai.com/post/76940)
+* [【2022-12-15】 Pandoc 从入门到精通，你也可以学会这一个文本转换利器](https://sspai.com/post/77206)
 * [【2022-12-15】 双十二过后想要出二手「回血」？这是我的闲鱼交易全指南](https://sspai.com/post/77033)
 * [【2022-12-15】 派早报：OPPO 推出第二颗自研芯片、Steam 登陆特斯拉等](https://sspai.com/post/77294)
 * [【2022-12-14】 评论有奖 | 用 Keynote 入门动画制作，简单的工具也能发挥无限创意](https://sspai.com/post/77285)
 * [【2022-12-14】 任意键｜TGA 年度最佳，宫崎英高的神来之笔，魂类游戏的魂在哪里？](https://sspai.com/post/77281)
 * [【2022-12-14】 Apple Music 唱歌功能全解析：计算音频助力，哼唱更开心](https://sspai.com/post/77265)
-* [【2022-12-14】 无边记 App、Apple Music 唱歌…… iOS 16.2 值得关注的新特性](https://sspai.com/post/77223)
-* [【2022-12-14】 派早报：iOS/iPadOS 16.2 与 macOS 13.1 等正式版推送、PlayStation 2022 年度回顾上线](https://sspai.com/post/77270)
-* [【2022-12-13】 时间管理也许并不难，只是你还没找到适合自己的方法论](https://sspai.com/post/77207)
-* [【2022-12-13】 Windows 生态信仰入门：微软 Surface 设备选购指南](https://sspai.com/post/77256)
-* [【2022-12-13】 App+1 | 跨平台且开源的文本扩展器：Espanso](https://sspai.com/post/77235)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2022-12-16】 站在 2022 年，你认为增程技术的未来市场前景如何？](http://www.zhihu.com/question/569728284/answer/2793524950?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-16】 2023 年整个汽车行业预计会发生哪些变化？](http://www.zhihu.com/question/568629776/answer/2780454989?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2022-12-16】 如何看待毫米波雷达和激光雷达之间的差别，哪个才是自动驾驶感知的最优选择？](http://www.zhihu.com/question/567807965/answer/2774079829?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-14】 如何评价国产动画《三体》第一季第二集?](http://www.zhihu.com/question/571594511/answer/2800886471?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-10】 荷兰队主帅范加尔确认自己将离任，如何评价他在荷兰队的第三段执教生涯？](http://www.zhihu.com/question/571537053/answer/2795657416?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-09】 北京购买「四类药品」不再登记顾客信息；广州购药不查核酸，专家称可按普通感冒储备药物，哪些信息值得关注？](http://www.zhihu.com/question/570256833/answer/2794167709?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2022-12-08】 禄来双反避坑宝典：维修师傅偷偷告诉你的选购秘籍](http://zhuanlan.zhihu.com/p/473911528?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-08】 什么是低筋面粉，中筋面粉和高筋面粉？在使用方式上有什么区别？](http://www.zhihu.com/question/568579880/answer/2790399896?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-08】 特斯拉人形机器人擎天柱原型机正式亮相，预计售价不到 2 万美元，未来产量可达数百万台，有哪些技术亮点？](http://www.zhihu.com/question/557190222/answer/2697301542?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-12-08】 蔚来、理想、小鹏三家新势力造车公司，哪家最有可能先倒下？](http://www.zhihu.com/question/436315339/answer/2792046412?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-12-07】 各大新能源车的续航里程都存在严重虚标，为什么没有相关部门出来管一管？](http://www.zhihu.com/question/567822080/answer/2789173272?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-12-07】 站在 2022 尾巴上，目前自动驾驶技术发展到了什么水平？](http://www.zhihu.com/question/570130511/answer/2791019283?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-12-15 05:12:42
+:alarm_clock: 更新时间: 2022-12-16 05:12:04
