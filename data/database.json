@@ -358,6 +358,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "解析动效设计原理，让你的 Keynote 也能「动」起来",
+                "link": "https://sspai.com/post/77157",
+                "published": "2022-12-17"
+            },
+            {
                 "title": "健康人也应该了解的血糖管理（上）：血糖监测方式概述",
                 "link": "https://sspai.com/post/77324",
                 "published": "2022-12-17"
@@ -9378,7 +9383,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -45894,7 +45899,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     },
     {
         "id": 4,
