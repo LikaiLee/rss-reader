@@ -358,6 +358,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1｜为 macOS 换图标，一共分几步？",
+                "link": "https://sspai.com/post/77350",
+                "published": "2022-12-20"
+            },
+            {
+                "title": "派早报：努比亚 Z50 发布，iPhone 在滑雪时可能触发车祸报警等",
+                "link": "https://sspai.com/post/77368",
+                "published": "2022-12-20"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/77362",
+                "published": "2022-12-19"
+            },
+            {
+                "title": "参加在线视频面试时，面试官都在关注些什么?",
+                "link": "https://sspai.com/post/77357",
+                "published": "2022-12-19"
+            },
+            {
                 "title": "健康人也应该了解的血糖管理（下）：实时血糖监测设备使用体验",
                 "link": "https://sspai.com/post/77348",
                 "published": "2022-12-19"
@@ -9398,7 +9418,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -39854,6 +39874,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "咨询师可以治愈自己的恋人吗？",
+                "link": "http://www.zhihu.com/question/558896071/answer/2804118917?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-19"
+            },
+            {
                 "title": "2022 年卡塔尔世界杯决赛阿根廷点球大战击败法国夺冠，如何评价本场比赛？",
                 "link": "http://www.zhihu.com/question/573009091/answer/2807022735?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-12-18"
@@ -45924,7 +45949,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,

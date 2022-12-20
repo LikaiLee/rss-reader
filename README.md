@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-12-20】 App+1｜为 macOS 换图标，一共分几步？](https://sspai.com/post/77350)
+* [【2022-12-20】 派早报：努比亚 Z50 发布，iPhone 在滑雪时可能触发车祸报警等](https://sspai.com/post/77368)
+* [【2022-12-19】 派评 | 近期值得关注的 App](https://sspai.com/post/77362)
+* [【2022-12-19】 参加在线视频面试时，面试官都在关注些什么?](https://sspai.com/post/77357)
 * [【2022-12-19】 健康人也应该了解的血糖管理（下）：实时血糖监测设备使用体验](https://sspai.com/post/77348)
 * [【2022-12-19】 派早报：编辑器 Atom 代码转为存档状态，推特禁止链接到其他社交平台等](https://sspai.com/post/77344)
 * [【2022-12-18】 尝试了七种形码输入法后，我想聊聊在 2022 年用五笔这件事](https://sspai.com/post/77340)
 * [【2022-12-17】 解析动效设计原理，让你的 Keynote 也能「动」起来](https://sspai.com/post/77157)
 * [【2022-12-17】 健康人也应该了解的血糖管理（上）：血糖监测方式概述](https://sspai.com/post/77324)
 * [【2022-12-16】 本周看什么 | 最近值得一看的一大盘作品](https://sspai.com/post/77312)
-* [【2022-12-16】 除味杀菌买这些，健康品质好生活](https://sspai.com/post/77306)
-* [【2022-12-16】 Standard Notes：优秀笔记应用里的「隐藏选手」](https://sspai.com/prime/story/vol04-standard-notes)
-* [【2022-12-16】 支持扩展的 Android 浏览器，你有一个清爽好用的新选择：狐猴浏览器](https://sspai.com/post/77308)
-* [【2022-12-16】 派早报：OPPO Find N2 系列发布、Apple 将允许第三方应用商店等](https://sspai.com/post/77305)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-12-19】 咨询师可以治愈自己的恋人吗？](http://www.zhihu.com/question/558896071/answer/2804118917?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-18】 2022 年卡塔尔世界杯决赛阿根廷点球大战击败法国夺冠，如何评价本场比赛？](http://www.zhihu.com/question/573009091/answer/2807022735?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-18】 如何评价动画《大理寺日志》第二季第六集？](http://www.zhihu.com/question/572875732/answer/2805287695?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-16】 如果不考虑买车的面子属性，是不是一直打车才更明智？](http://www.zhihu.com/question/572265370/answer/2804122204?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-12-16】 2023 年整个汽车行业预计会发生哪些变化？](http://www.zhihu.com/question/568629776/answer/2780454989?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-16】 如何看待毫米波雷达和激光雷达之间的差别，哪个才是自动驾驶感知的最优选择？](http://www.zhihu.com/question/567807965/answer/2774079829?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-14】 如何评价国产动画《三体》第一季第二集?](http://www.zhihu.com/question/571594511/answer/2800886471?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-12-10】 荷兰队主帅范加尔确认自己将离任，如何评价他在荷兰队的第三段执教生涯？](http://www.zhihu.com/question/571537053/answer/2795657416?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-12-19 05:11:59
+:alarm_clock: 更新时间: 2022-12-20 05:12:32
