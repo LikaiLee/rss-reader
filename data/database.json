@@ -358,6 +358,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "微信做了个「小而美」的输入法：微信键盘正式版上手体验",
+                "link": "https://sspai.com/post/77393",
+                "published": "2022-12-21"
+            },
+            {
+                "title": "派早报：一加服务将与 OPPO 服务融合、GitHub 与微信达成合作等",
+                "link": "https://sspai.com/post/77392",
+                "published": "2022-12-21"
+            },
+            {
+                "title": "一派·PowerUp 直播精华回放 : 用 MoneyWiz 管好口袋里的「一个亿」",
+                "link": "https://sspai.com/post/74726",
+                "published": "2022-12-20"
+            },
+            {
+                "title": "无密码、更安全的未来，你该如何登录？通行密钥上手体验",
+                "link": "https://sspai.com/post/77376",
+                "published": "2022-12-20"
+            },
+            {
                 "title": "App+1｜为 macOS 换图标，一共分几步？",
                 "link": "https://sspai.com/post/77350",
                 "published": "2022-12-20"
@@ -39874,6 +39894,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "年货节，迪卡侬最值得买的运动服是哪件？",
+                "link": "http://www.zhihu.com/question/572349992/answer/2810011643?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-21"
+            },
+            {
+                "title": "如何评价詹姆斯·卡梅隆导演的新片《阿凡达：水之道》？",
+                "link": "http://www.zhihu.com/question/572556184/answer/2809911169?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-21"
+            },
+            {
                 "title": "咨询师可以治愈自己的恋人吗？",
                 "link": "http://www.zhihu.com/question/558896071/answer/2804118917?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-12-19"
@@ -45949,7 +45979,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
