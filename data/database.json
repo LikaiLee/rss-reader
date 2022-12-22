@@ -358,6 +358,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "獭可派 | 有持无恐，这个家庭必备工具箱值得买",
+                "link": "https://sspai.com/post/77369",
+                "published": "2022-12-22"
+            },
+            {
+                "title": "派早报：腾讯 Nintendo Switch 推出延长保修计划、Apple 扩大自助维修计划使用机型范围",
+                "link": "https://sspai.com/post/77408",
+                "published": "2022-12-22"
+            },
+            {
+                "title": "《死亡空间》三部曲回顾：工业化娱乐体系下的奇迹与牺牲",
+                "link": "https://sspai.com/prime/story/vol011-the-developing-story-of-dead-space",
+                "published": "2022-12-21"
+            },
+            {
+                "title": "你与清爽 Mac 版 Edge 浏览器还差一个配置文件的距离",
+                "link": "https://sspai.com/post/77397",
+                "published": "2022-12-21"
+            },
+            {
+                "title": "跟 Apple Watch 学做扫地机器人软件",
+                "link": "https://sspai.com/post/77282",
+                "published": "2022-12-21"
+            },
+            {
                 "title": "微信做了个「小而美」的输入法：微信键盘正式版上手体验",
                 "link": "https://sspai.com/post/77393",
                 "published": "2022-12-21"
@@ -9438,7 +9463,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -39894,6 +39919,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "求装机大神指教组装电脑需要了解什么 ，怎么匹配硬件性能最高 ，及怎么买最实惠？",
+                "link": "http://www.zhihu.com/question/484397242/answer/2803590928?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-21"
+            },
+            {
+                "title": "家用NAS推荐买什么价位的？",
+                "link": "http://www.zhihu.com/question/566650643/answer/2809190517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-21"
+            },
+            {
+                "title": "「黄金时刻」氛围人像拍摄指南",
+                "link": "http://zhuanlan.zhihu.com/p/590321791?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2022-12-21"
+            },
+            {
                 "title": "年货节，迪卡侬最值得买的运动服是哪件？",
                 "link": "http://www.zhihu.com/question/572349992/answer/2810011643?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2022-12-21"
@@ -45979,13 +46019,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 42 期）: AnyWebP, VirScan, 聊聊, Maze Generator, 小学生口算题生成程序, 田字格字帖生成器, 追踪圣诞老人",
+                "link": "https://bestxtools.zhubai.love/posts/2217542996243800064",
+                "published": "2022-12-22"
+            },
             {
                 "title": "好工具周刊（第 41 期）: SmartyNames, Rayst Domains, Screenshot.Rocks, Magic Mockups, ApiFlash, 竹白百科, sssbar",
                 "link": "https://bestxtools.zhubai.love/posts/2212546213424480256",
@@ -46197,6 +46242,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
