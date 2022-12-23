@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+1】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2022-12-23】 科技爱好者周刊（第 236 期）：中国的阳光地带](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html)
 * [【2022-12-16】 科技爱好者周刊（第 235 期）：青年失业率与选择创业](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html)
 * [【2022-12-09】 科技爱好者周刊（第 234 期）：AI 聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html)
 * [【2022-12-02】 科技爱好者周刊（第 233 期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)
@@ -25,7 +26,6 @@
 * [【2022-11-04】 科技爱好者周刊（第 229 期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)
 * [【2022-10-28】 科技爱好者周刊（第 228 期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html)
 * [【2022-10-25】 羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html)
-* [【2022-10-23】 最简单的 Git 服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-12-23】 六天从「阳」转「阴」，我给大家分享一些新冠体验](https://sspai.com/post/77433)
+* [【2022-12-23】 派早报：vivo 发布 S16 系列新机、知名剪辑软件 DaVinci Resolve 现已登陆 iPad](https://sspai.com/post/77436)
+* [【2022-12-22】 用 Keynote 的「移到」动作，实现一个会动的打字机](https://sspai.com/post/77159)
+* [【2022-12-22】 笔记工具扎堆，为什么 Tana 让我感到惊艳？](https://sspai.com/post/77394)
 * [【2022-12-22】 獭可派 | 有持无恐，这个家庭必备工具箱值得买](https://sspai.com/post/77369)
 * [【2022-12-22】 派早报：腾讯 Nintendo Switch 推出延长保修计划、Apple 扩大自助维修计划使用机型范围](https://sspai.com/post/77408)
 * [【2022-12-21】 《死亡空间》三部曲回顾：工业化娱乐体系下的奇迹与牺牲](https://sspai.com/prime/story/vol011-the-developing-story-of-dead-space)
 * [【2022-12-21】 你与清爽 Mac 版 Edge 浏览器还差一个配置文件的距离](https://sspai.com/post/77397)
 * [【2022-12-21】 跟 Apple Watch 学做扫地机器人软件](https://sspai.com/post/77282)
 * [【2022-12-21】 微信做了个「小而美」的输入法：微信键盘正式版上手体验](https://sspai.com/post/77393)
-* [【2022-12-21】 派早报：一加服务将与 OPPO 服务融合、GitHub 与微信达成合作等](https://sspai.com/post/77392)
-* [【2022-12-20】 一派·PowerUp 直播精华回放 : 用 MoneyWiz 管好口袋里的「一个亿」](https://sspai.com/post/74726)
-* [【2022-12-20】 无密码、更安全的未来，你该如何登录？通行密钥上手体验](https://sspai.com/post/77376)
-* [【2022-12-20】 App+1｜为 macOS 换图标，一共分几步？](https://sspai.com/post/77350)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2022-12-22】 过年的杂物较多，有什么好用的置物架值得推荐？](http://www.zhihu.com/question/572504451/answer/2810333751?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-21】 求装机大神指教组装电脑需要了解什么 ，怎么匹配硬件性能最高 ，及怎么买最实惠？](http://www.zhihu.com/question/484397242/answer/2803590928?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-21】 家用NAS推荐买什么价位的？](http://www.zhihu.com/question/566650643/answer/2809190517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-21】 「黄金时刻」氛围人像拍摄指南](http://zhuanlan.zhihu.com/p/590321791?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-12-18】 2022 年卡塔尔世界杯决赛阿根廷点球大战击败法国夺冠，如何评价本场比赛？](http://www.zhihu.com/question/573009091/answer/2807022735?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-18】 如何评价动画《大理寺日志》第二季第六集？](http://www.zhihu.com/question/572875732/answer/2805287695?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-16】 如果不考虑买车的面子属性，是不是一直打车才更明智？](http://www.zhihu.com/question/572265370/answer/2804122204?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-12-16】 如何评价央视直播世界杯使用的开源字体「得意黑」？](http://www.zhihu.com/question/567954403/answer/2804088945?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-12-22 05:11:51
+:alarm_clock: 更新时间: 2022-12-23 05:12:00
