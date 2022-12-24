@@ -355,13 +355,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 6 部作品",
+                "link": "https://sspai.com/post/77443",
+                "published": "2022-12-23"
+            },
+            {
+                "title": "多任务与窗口管理游刃有余：我是这样使用 macOS 台前调度的",
+                "link": "https://sspai.com/post/77440",
+                "published": "2022-12-23"
+            },
+            {
+                "title": "App+1 | iOS 没有「分身」如何隐藏应用？场景化、一键式的解决方案：Cloak",
+                "link": "https://sspai.com/post/77439",
+                "published": "2022-12-23"
+            },
             {
                 "title": "六天从「阳」转「阴」，我给大家分享一些新冠体验",
                 "link": "https://sspai.com/post/77433",
@@ -9488,7 +9503,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -46049,7 +46064,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2022-12-23】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/77443)
+* [【2022-12-23】 多任务与窗口管理游刃有余：我是这样使用 macOS 台前调度的](https://sspai.com/post/77440)
+* [【2022-12-23】 App+1 | iOS 没有「分身」如何隐藏应用？场景化、一键式的解决方案：Cloak](https://sspai.com/post/77439)
 * [【2022-12-23】 六天从「阳」转「阴」，我给大家分享一些新冠体验](https://sspai.com/post/77433)
 * [【2022-12-23】 派早报：vivo 发布 S16 系列新机、知名剪辑软件 DaVinci Resolve 现已登陆 iPad](https://sspai.com/post/77436)
 * [【2022-12-22】 用 Keynote 的「移到」动作，实现一个会动的打字机](https://sspai.com/post/77159)
@@ -42,9 +45,6 @@
 * [【2022-12-22】 獭可派 | 有持无恐，这个家庭必备工具箱值得买](https://sspai.com/post/77369)
 * [【2022-12-22】 派早报：腾讯 Nintendo Switch 推出延长保修计划、Apple 扩大自助维修计划使用机型范围](https://sspai.com/post/77408)
 * [【2022-12-21】 《死亡空间》三部曲回顾：工业化娱乐体系下的奇迹与牺牲](https://sspai.com/prime/story/vol011-the-developing-story-of-dead-space)
-* [【2022-12-21】 你与清爽 Mac 版 Edge 浏览器还差一个配置文件的距离](https://sspai.com/post/77397)
-* [【2022-12-21】 跟 Apple Watch 学做扫地机器人软件](https://sspai.com/post/77282)
-* [【2022-12-21】 微信做了个「小而美」的输入法：微信键盘正式版上手体验](https://sspai.com/post/77393)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-12-23 05:12:00
+:alarm_clock: 更新时间: 2022-12-24 05:11:10
