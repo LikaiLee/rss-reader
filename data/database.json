@@ -360,13 +360,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大串作品",
+                "link": "https://sspai.com/post/77554",
+                "published": "2022-12-30"
+            },
+            {
+                "title": "行尽白云云里路，满身还带白云归：我的日本行经验分享",
+                "link": "https://sspai.com/post/77549",
+                "published": "2022-12-30"
+            },
+            {
+                "title": "即将到来的 2023，希望你与少数派都能一切「如常」",
+                "link": "https://sspai.com/post/77541",
+                "published": "2022-12-30"
+            },
+            {
+                "title": "这些好物和小技巧，让我保持数字健康",
+                "link": "https://sspai.com/prime/story/vol014-how-they-stay-on-digital-healthy",
+                "published": "2022-12-30"
+            },
             {
                 "title": "你的 2022，藏在这些数字里",
                 "link": "https://sspai.com/post/77519",
@@ -9623,7 +9643,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -46269,13 +46289,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "抽奖送话费，好工具周刊与 DTO 社区祝大家 2023 年好运连连",
+                "link": "https://bestxtools.zhubai.love/posts/2220452503982727168",
+                "published": "2022-12-30"
+            },
             {
                 "title": "好工具周刊（第 43 期）: 亲戚称谓计算器, 地铁数据库, Mozilla Observatory, Web Developer Checklist, jqplay, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2220148863686438912",

@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2022-12-30】 本周看什么 | 最近值得一看的一大串作品](https://sspai.com/post/77554)
+* [【2022-12-30】 行尽白云云里路，满身还带白云归：我的日本行经验分享](https://sspai.com/post/77549)
+* [【2022-12-30】 即将到来的 2023，希望你与少数派都能一切「如常」](https://sspai.com/post/77541)
+* [【2022-12-30】 这些好物和小技巧，让我保持数字健康](https://sspai.com/prime/story/vol014-how-they-stay-on-digital-healthy)
 * [【2022-12-30】 你的 2022，藏在这些数字里](https://sspai.com/post/77519)
 * [【2022-12-30】 派早报：iQOO Neo7 竞速版发布、科大讯飞推出讯飞有声书等](https://sspai.com/post/77538)
 * [【2022-12-29】 新玩意 131｜少数派的编辑们最近买了啥？](https://sspai.com/post/77527)
 * [【2022-12-29】 评论有奖 | 请给明年的自己种下一颗梦，100 小时后请叫我播客主理人](https://sspai.com/post/77510)
 * [【2022-12-29】 App +1 | 同文输入法：把 RIME 装进 Android 手机](https://sspai.com/post/77499)
 * [【2022-12-29】 跳进框框，你的 Markdown 链接可以更整洁](https://sspai.com/post/77513)
-* [【2022-12-29】 派早报：钉钉推出大版本升级、墨案发布新款电纸书等](https://sspai.com/post/77515)
-* [【2022-12-28】 看什么 · 特别篇 | 戏不嫌多、票不嫌少，这是我们的「年度看什么」](https://sspai.com/post/77483)
-* [【2022-12-28】 Apple 推出协作白板工具，想让你的创意灵感轻松「无边记」](https://sspai.com/post/77467)
-* [【2022-12-28】 家庭调酒要实用工具，但也不可失浪漫主义的器物之美](https://sspai.com/post/77255)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2022-12-30】 抽奖送话费，好工具周刊与 DTO 社区祝大家 2023 年好运连连](https://bestxtools.zhubai.love/posts/2220452503982727168)
 * [【2022-12-29】 好工具周刊（第 43 期）: 亲戚称谓计算器, 地铁数据库, Mozilla Observatory, Web Developer Checklist, jqplay, ...](https://bestxtools.zhubai.love/posts/2220148863686438912)
 * [【2022-12-22】 好工具周刊（第 42 期）: AnyWebP, VirScan, 聊聊, Maze Generator, 小学生口算题生成程序, 田字格字帖生成器, 追踪圣诞老人](https://bestxtools.zhubai.love/posts/2217542996243800064)
 * [【2022-12-08】 好工具周刊（第 41 期）: SmartyNames, Rayst Domains, Screenshot.Rocks, Magic Mockups, ApiFlash, 竹白百科, sssbar](https://bestxtools.zhubai.love/posts/2212546213424480256)
@@ -101,7 +102,6 @@
 * [【2022-11-10】 好工具周刊（第 37 期）: Eoapi, Tailwind CSS Gradient Generator, IconGo, Website Metadata, 竹白专栏检索, 直播中国, ...](https://bestxtools.zhubai.love/posts/2202403256725368832)
 * [【2022-11-03】 好工具周刊（第 36 期）: SadServers, emgithub, Tkinter 布局助手, Copy Book, Pie Chart Maker, icons.download, ...](https://bestxtools.zhubai.love/posts/2199869505734766592)
 * [【2022-10-27】 好工具周刊（第 35 期）: HTTPie, Core Web Vitals Check, Resource Hint Validator, okso, Wormhole, ...](https://bestxtools.zhubai.love/posts/2197355853403787264)
-* [【2022-10-20】 好工具周刊（第 34 期）: Excalidraw Animate, Excalidraw Claymate, dazidazi, Silk, Big Heads, ...](https://bestxtools.zhubai.love/posts/2194796415966781440)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-12-30 05:11:57
+:alarm_clock: 更新时间: 2022-12-31 05:11:11
