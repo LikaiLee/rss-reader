@@ -3,10 +3,10 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
-* [好工具周刊](#好工具周刊) 【+1】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2022-12-31】 少数派 2022 年度征文：高分创作，年度悬赏](https://sspai.com/post/77562)
+* [【2022-12-31】 旧手机的智能家居新使命：如何用 Notifya 把好门关](https://sspai.com/post/77556)
 * [【2022-12-30】 本周看什么 | 最近值得一看的一大串作品](https://sspai.com/post/77554)
 * [【2022-12-30】 行尽白云云里路，满身还带白云归：我的日本行经验分享](https://sspai.com/post/77549)
 * [【2022-12-30】 即将到来的 2023，希望你与少数派都能一切「如常」](https://sspai.com/post/77541)
@@ -43,8 +45,6 @@
 * [【2022-12-30】 派早报：iQOO Neo7 竞速版发布、科大讯飞推出讯飞有声书等](https://sspai.com/post/77538)
 * [【2022-12-29】 新玩意 131｜少数派的编辑们最近买了啥？](https://sspai.com/post/77527)
 * [【2022-12-29】 评论有奖 | 请给明年的自己种下一颗梦，100 小时后请叫我播客主理人](https://sspai.com/post/77510)
-* [【2022-12-29】 App +1 | 同文输入法：把 RIME 装进 Android 手机](https://sspai.com/post/77499)
-* [【2022-12-29】 跳进框框，你的 Markdown 链接可以更整洁](https://sspai.com/post/77513)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2022-12-31 05:11:11
+:alarm_clock: 更新时间: 2023-01-01 05:11:28
