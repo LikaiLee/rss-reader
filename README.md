@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-01-04】 一款充满矛盾与无奈的好产品：Kindle Scribe 上手体验](https://sspai.com/post/77539)
+* [【2023-01-04】 派早报：英伟达发布 RTX 4070 Ti、英特尔推出 13 代酷睿移动版处理器等](https://sspai.com/post/77608)
+* [【2023-01-03】 好照片也能「好便宜」，收下这份普通家庭也能游刃有余的相机推荐](https://sspai.com/post/77560)
+* [【2023-01-03】 一日一技 | 两种方法让 Windows 10 也能运行 Android 应用](https://sspai.com/post/77582)
 * [【2023-01-03】 搭在乐高积木上的机械键盘：MelGeek Pixel 开箱体验](https://sspai.com/post/77589)
 * [【2023-01-03】 派早报：Dark Sky 停止运营、海信 Hi Reader Pro 发布等](https://sspai.com/post/77585)
 * [【2023-01-02】 幕后 | 一款热门三消游戏的背后：对话 3 Tiles 开发团队](https://sspai.com/post/77575)
 * [【2023-01-01】 设计实战分析：用两天完成一次线下活动的物料设计](https://sspai.com/post/77572)
 * [【2022-12-31】 少数派 2022 年度征文：高分创作，年度悬赏](https://sspai.com/post/77562)
 * [【2022-12-31】 旧手机的智能家居新使命：如何用 Notifya 把好门关](https://sspai.com/post/77556)
-* [【2022-12-30】 本周看什么 | 最近值得一看的一大串作品](https://sspai.com/post/77554)
-* [【2022-12-30】 行尽白云云里路，满身还带白云归：我的日本行经验分享](https://sspai.com/post/77549)
-* [【2022-12-30】 即将到来的 2023，希望你与少数派都能一切「如常」](https://sspai.com/post/77541)
-* [【2022-12-30】 这些好物和小技巧，让我保持数字健康](https://sspai.com/prime/story/vol014-how-they-stay-on-digital-healthy)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-01-04】 risc-v 前景如何？会形成与 x86、arm 三分天下的局面吗？](http://www.zhihu.com/question/357557401/answer/2828629042?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-03】 动画《中国奇谭》开播，第 1 - 2 集有哪些关注点？](http://www.zhihu.com/question/576059467/answer/2827032927?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-01】 如何评价动画《大理寺日志》第二季第八集？](http://www.zhihu.com/question/575907778/answer/2823953519?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-29】 《回来的女儿》第二集中播放的《魔方大厦》是第几集，说的什么内容？](http://www.zhihu.com/question/574824753/answer/2820936216?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2022-12-27】 《人生大事》带来了哪些中国式生死价值观的呈现？](http://www.zhihu.com/question/569967802/answer/2818670056?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-27】 演员和角色的关系是什么？](http://www.zhihu.com/question/573580653/answer/2818600132?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2022-12-27】 电影中的方言台词对电影主旨表达有什么影响？](http://www.zhihu.com/question/569967650/answer/2818481759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-12-27】 演员在塑造一个角色时，如何使角色变得丰满？](http://www.zhihu.com/question/569975711/answer/2818383417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-01-03 05:11:47
+:alarm_clock: 更新时间: 2023-01-04 05:12:15
