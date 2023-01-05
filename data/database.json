@@ -368,6 +368,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "播客未来的更多可能：视频播客、线下场景与程序化购买",
+                "link": "https://sspai.com/post/77614",
+                "published": "2023-01-05"
+            },
+            {
+                "title": "派早报：一加 11 发布、CES 少数派现场体验等",
+                "link": "https://sspai.com/post/77629",
+                "published": "2023-01-05"
+            },
+            {
+                "title": "万字试读 01 | 新一年的必备技能，用 MoneyWiz 搭建个人记账系统",
+                "link": "https://sspai.com/post/77618",
+                "published": "2023-01-04"
+            },
+            {
+                "title": "兜兜转转，我还是想要一台无人机",
+                "link": "https://sspai.com/post/77584",
+                "published": "2023-01-04"
+            },
+            {
                 "title": "一款充满矛盾与无奈的好产品：Kindle Scribe 上手体验",
                 "link": "https://sspai.com/post/77539",
                 "published": "2023-01-04"
@@ -40148,6 +40168,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "动画《中国奇谭》开播，第 1 - 2 集有哪些关注点？",
+                "link": "http://www.zhihu.com/question/576059467/answer/2827337778?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-04"
+            },
             {
                 "title": "risc-v 前景如何？会形成与 x86、arm 三分天下的局面吗？",
                 "link": "http://www.zhihu.com/question/357557401/answer/2828629042?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
