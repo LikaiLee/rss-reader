@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 238 期）：停止寻找的最佳时间",
+                "link": "http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html",
+                "published": "2023-01-06"
+            },
+            {
                 "title": "科技爱好者周刊（第 237 期）：真实方位是如何暴露的？",
                 "link": "http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html",
                 "published": "2022-12-30"
@@ -360,13 +365,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "高效阅读、便捷笔记：汉王 N10 mini 上手体验",
+                "link": "https://sspai.com/post/77633",
+                "published": "2023-01-06"
+            },
+            {
+                "title": "派早报：AMD 发布多款处理器与显卡新品、CES・派在现场等",
+                "link": "https://sspai.com/post/77654",
+                "published": "2023-01-06"
+            },
+            {
+                "title": "新玩意 132｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/77640",
+                "published": "2023-01-05"
+            },
+            {
+                "title": "这些求职经验与工作方法，助你新年迈上新赛道",
+                "link": "https://sspai.com/post/77637",
+                "published": "2023-01-05"
+            },
+            {
+                "title": "为了探讨「数字极简」这件事，我甚至拜访了深山里的高僧",
+                "link": "https://sspai.com/prime/story/vol015-talk-about-digital-minimalist",
+                "published": "2023-01-05"
+            },
             {
                 "title": "播客未来的更多可能：视频播客、线下场景与程序化购买",
                 "link": "https://sspai.com/post/77614",
@@ -9713,7 +9743,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -40169,6 +40199,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "年度裁员100问（持续更新中） - 职场闲话Step6",
+                "link": "http://zhuanlan.zhihu.com/p/596856335?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-06"
+            },
+            {
                 "title": "动画《中国奇谭》开播，第 1 - 2 集有哪些关注点？",
                 "link": "http://www.zhihu.com/question/576059467/answer/2827337778?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-01-04"
@@ -46387,6 +46422,16 @@
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
             {
+                "title": "好工具周刊迎 2023 年 🎰 抽奖活动结果公布",
+                "link": "https://bestxtools.zhubai.love/posts/2222709322708946944",
+                "published": "2023-01-05"
+            },
+            {
+                "title": "好工具周刊（第 44 期）: VIM Adventures, AST Explorer, HTMLShell, Color Palette from Image, Lenny Face Gen ...",
+                "link": "https://bestxtools.zhubai.love/posts/2222686910009311232",
+                "published": "2023-01-05"
+            },
+            {
                 "title": "抽奖送话费，好工具周刊与 DTO 社区祝大家 2023 年好运连连",
                 "link": "https://bestxtools.zhubai.love/posts/2220452503982727168",
                 "published": "2022-12-30"
@@ -46612,6 +46657,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     }
 ]
