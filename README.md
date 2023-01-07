@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
-* [好工具周刊](#好工具周刊) 【+2】
+* [知乎每日精选](#知乎每日精选)
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-01-07】 年度征文 | 2022 年，在记录中感受混乱与秩序之美](https://sspai.com/post/77642)
+* [【2023-01-06】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/77667)
+* [【2023-01-06】 App+1 | 英特尔打出「融合卡」：让 Windows 与你的手机相连](https://sspai.com/post/77647)
+* [【2023-01-06】 少数派定制 Keychron K3 用了一年之后，他们想说……](https://sspai.com/post/77661)
 * [【2023-01-06】 高效阅读、便捷笔记：汉王 N10 mini 上手体验](https://sspai.com/post/77633)
 * [【2023-01-06】 派早报：AMD 发布多款处理器与显卡新品、CES・派在现场等](https://sspai.com/post/77654)
 * [【2023-01-05】 新玩意 132｜少数派的编辑们最近买了啥？](https://sspai.com/post/77640)
 * [【2023-01-05】 这些求职经验与工作方法，助你新年迈上新赛道](https://sspai.com/post/77637)
 * [【2023-01-05】 为了探讨「数字极简」这件事，我甚至拜访了深山里的高僧](https://sspai.com/prime/story/vol015-talk-about-digital-minimalist)
 * [【2023-01-05】 播客未来的更多可能：视频播客、线下场景与程序化购买](https://sspai.com/post/77614)
-* [【2023-01-05】 派早报：一加 11 发布、CES 少数派现场体验等](https://sspai.com/post/77629)
-* [【2023-01-04】 万字试读 01 | 新一年的必备技能，用 MoneyWiz 搭建个人记账系统](https://sspai.com/post/77618)
-* [【2023-01-04】 兜兜转转，我还是想要一台无人机](https://sspai.com/post/77584)
-* [【2023-01-04】 一款充满矛盾与无奈的好产品：Kindle Scribe 上手体验](https://sspai.com/post/77539)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-01-06 05:12:01
+:alarm_clock: 更新时间: 2023-01-07 05:11:44
