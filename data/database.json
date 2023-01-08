@@ -373,6 +373,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 为什么我们要减少阅读新闻",
+                "link": "https://sspai.com/post/77426",
+                "published": "2023-01-08"
+            },
+            {
+                "title": "如何用 VOSviewer 和 BiblioShiny 快速梳理陌生领域的文献？",
+                "link": "https://sspai.com/post/75738",
+                "published": "2023-01-07"
+            },
+            {
                 "title": "年度征文 | 2022 年，在记录中感受混乱与秩序之美",
                 "link": "https://sspai.com/post/77642",
                 "published": "2023-01-07"
@@ -9763,7 +9773,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -40219,6 +40229,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价动画《大理寺日志》第二季第九集？",
+                "link": "http://www.zhihu.com/question/577321573/answer/2834129926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-07"
+            },
+            {
+                "title": "《喜羊羊与灰太狼之勇闯四季城》开播，你有什么评价？",
+                "link": "http://www.zhihu.com/question/574419216/answer/2833662743?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-07"
+            },
+            {
+                "title": "如何评价《一人之下》中王震球这个角色？",
+                "link": "http://www.zhihu.com/question/278187496/answer/2830707129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-07"
+            },
+            {
+                "title": "如何评价《原神》3.4版本前瞻特别节目「磬弦奏华夜」?",
+                "link": "http://www.zhihu.com/question/577156659/answer/2833637210?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-07"
+            },
+            {
                 "title": "年度裁员100问（持续更新中） - 职场闲话Step6",
                 "link": "http://zhuanlan.zhihu.com/p/596856335?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-01-06"
@@ -46434,7 +46464,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 4,
