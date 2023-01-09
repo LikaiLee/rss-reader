@@ -373,6 +373,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "找 Android 应用的好去处：开源应用商店 F-Droid 使用指南",
+                "link": "https://sspai.com/post/77601",
+                "published": "2023-01-09"
+            },
+            {
+                "title": "派早报：联想发布多款新品、CES・派在现场等",
+                "link": "https://sspai.com/post/77709",
+                "published": "2023-01-09"
+            },
+            {
+                "title": "在一秒发送消息的时代，如何寄出一封手写信件",
+                "link": "https://sspai.com/post/77691",
+                "published": "2023-01-08"
+            },
+            {
                 "title": "年度征文 | 为什么我们要减少阅读新闻",
                 "link": "https://sspai.com/post/77426",
                 "published": "2023-01-08"
@@ -9773,7 +9788,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -40229,6 +40244,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "通向AGI之路：大型语言模型（LLM）技术精要",
+                "link": "http://zhuanlan.zhihu.com/p/597586623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-09"
+            },
+            {
                 "title": "如何评价动画《大理寺日志》第二季第九集？",
                 "link": "http://www.zhihu.com/question/577321573/answer/2834129926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-01-07"
@@ -46464,7 +46484,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 4,

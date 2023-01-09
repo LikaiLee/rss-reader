@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-01-09】 找 Android 应用的好去处：开源应用商店 F-Droid 使用指南](https://sspai.com/post/77601)
+* [【2023-01-09】 派早报：联想发布多款新品、CES・派在现场等](https://sspai.com/post/77709)
+* [【2023-01-08】 在一秒发送消息的时代，如何寄出一封手写信件](https://sspai.com/post/77691)
 * [【2023-01-08】 年度征文 | 为什么我们要减少阅读新闻](https://sspai.com/post/77426)
 * [【2023-01-07】 如何用 VOSviewer 和 BiblioShiny 快速梳理陌生领域的文献？](https://sspai.com/post/75738)
 * [【2023-01-07】 年度征文 | 2022 年，在记录中感受混乱与秩序之美](https://sspai.com/post/77642)
@@ -42,9 +45,6 @@
 * [【2023-01-06】 App+1 | 英特尔打出「融合卡」：让 Windows 与你的手机相连](https://sspai.com/post/77647)
 * [【2023-01-06】 少数派定制 Keychron K3 用了一年之后，他们想说……](https://sspai.com/post/77661)
 * [【2023-01-06】 高效阅读、便捷笔记：汉王 N10 mini 上手体验](https://sspai.com/post/77633)
-* [【2023-01-06】 派早报：AMD 发布多款处理器与显卡新品、CES・派在现场等](https://sspai.com/post/77654)
-* [【2023-01-05】 新玩意 132｜少数派的编辑们最近买了啥？](https://sspai.com/post/77640)
-* [【2023-01-05】 这些求职经验与工作方法，助你新年迈上新赛道](https://sspai.com/post/77637)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-01-09】 通向AGI之路：大型语言模型（LLM）技术精要](http://zhuanlan.zhihu.com/p/597586623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-07】 如何评价动画《大理寺日志》第二季第九集？](http://www.zhihu.com/question/577321573/answer/2834129926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-07】 《喜羊羊与灰太狼之勇闯四季城》开播，你有什么评价？](http://www.zhihu.com/question/574419216/answer/2833662743?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-07】 如何评价《一人之下》中王震球这个角色？](http://www.zhihu.com/question/278187496/answer/2830707129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-01-04】 risc-v 前景如何？会形成与 x86、arm 三分天下的局面吗？](http://www.zhihu.com/question/357557401/answer/2828629042?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-03】 动画《中国奇谭》开播，第 1 - 2 集有哪些关注点？](http://www.zhihu.com/question/576059467/answer/2827032927?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-01】 如何评价动画《大理寺日志》第二季第八集？](http://www.zhihu.com/question/575907778/answer/2823953519?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2022-12-29】 《回来的女儿》第二集中播放的《魔方大厦》是第几集，说的什么内容？](http://www.zhihu.com/question/574824753/answer/2820936216?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-01-08 05:11:28
+:alarm_clock: 更新时间: 2023-01-09 05:12:22
