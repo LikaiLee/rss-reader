@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-01-12】 年度征文｜差生文具多，纸和笔才是笔记王道吗？](https://sspai.com/post/77745)
+* [【2023-01-12】 派早报：英特尔发布傲腾持久内存 300 系列、龙芯公布 2K2000 详情等](https://sspai.com/post/77773)
+* [【2023-01-11】 万字试读 02 | 图表、母版和快捷键，今年一整年都会用得上的 PPT 技巧](https://sspai.com/post/77606)
+* [【2023-01-11】 Apple 推出 iCloud+ 订阅优惠，这些是你可能会关心的问题](https://sspai.com/post/77758)
+* [【2023-01-11】 新一年的健康生活，从这些饮食与运动知识开始](https://sspai.com/post/77719)
 * [【2023-01-11】 年度征文｜把人生活成旷野，我的「焦虑盒子」笔记系统](https://sspai.com/post/77685)
 * [【2023-01-11】 派早报：大疆发布轻量旅拍稳定器 RS 3 Mini、Apple 推出 iCloud+ 新订阅用户优惠等](https://sspai.com/post/77753)
 * [【2023-01-10】 一份价格，双份收货 | 年底小目标：彻底搞定 PPT，兔年解放你自己](https://sspai.com/post/77734)
 * [【2023-01-10】 春节将至，归乡路上用它拨开「世界迷雾」](https://sspai.com/post/77676)
 * [【2023-01-10】 听歌，我们是认真的：一首歌的创作笔记](https://sspai.com/post/77695)
-* [【2023-01-10】 在充满套路的「极速版」赚钱 App 上，我们能赚多少钱？](https://sspai.com/post/77705)
-* [【2023-01-10】 派早报：腾讯游戏发布限玩日历，Steam 同时在线人数破千万等](https://sspai.com/post/77735)
-* [【2023-01-09】 派评 | 近期值得关注的 App](https://sspai.com/post/77722)
-* [【2023-01-09】 年度征文 | 写科普一年后的思考：如何更有效地传递知识](https://sspai.com/post/77655)
-* [【2023-01-09】 城市漫步指南：香港，感受不一样的文化](https://sspai.com/post/77716)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-01-12】 你最近一次睡前看的书是什么？有什么枕边书可以推荐？](http://www.zhihu.com/question/570994264/answer/2841390939?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-01-11】 未来科幻电影发展前景如何？有哪些值得期待的地方？](http://www.zhihu.com/question/574034920/answer/2839573454?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-09】 通向AGI之路：大型语言模型（LLM）技术精要](http://zhuanlan.zhihu.com/p/597586623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-07】 如何评价动画《大理寺日志》第二季第九集？](http://www.zhihu.com/question/577321573/answer/2834129926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-07】 《喜羊羊与灰太狼之勇闯四季城》开播，你有什么评价？](http://www.zhihu.com/question/574419216/answer/2833662743?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-01-06】 年度裁员100问（持续更新中） - 职场闲话Step6](http://zhuanlan.zhihu.com/p/596856335?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-04】 动画《中国奇谭》开播，第 1 - 2 集有哪些关注点？](http://www.zhihu.com/question/576059467/answer/2827337778?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-04】 risc-v 前景如何？会形成与 x86、arm 三分天下的局面吗？](http://www.zhihu.com/question/357557401/answer/2828629042?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-03】 动画《中国奇谭》开播，第 1 - 2 集有哪些关注点？](http://www.zhihu.com/question/576059467/answer/2827032927?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-01】 如何评价动画《大理寺日志》第二季第八集？](http://www.zhihu.com/question/575907778/answer/2823953519?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-01-11 05:12:18
+:alarm_clock: 更新时间: 2023-01-12 05:12:15
