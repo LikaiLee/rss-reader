@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+5】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-01-13】 科技爱好者周刊（第 239 期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html)
 * [【2023-01-06】 科技爱好者周刊（第 238 期）：停止寻找的最佳时间](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html)
 * [【2022-12-30】 科技爱好者周刊（第 237 期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html)
 * [【2022-12-23】 科技爱好者周刊（第 236 期）：中国的阳光地带](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html)
@@ -25,7 +26,6 @@
 * [【2022-11-25】 科技爱好者周刊（第 232 期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html)
 * [【2022-11-18】 科技爱好者周刊（第 231 期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)
 * [【2022-11-11】 科技爱好者周刊（第 230 期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html)
-* [【2022-11-04】 科技爱好者周刊（第 229 期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-01-13】 对话傅徐军：钉钉怎么操盘自己的云文档产品？](https://sspai.com/post/77781)
+* [【2023-01-13】 派早报：Apple Music 等新版应用上架 Microsoft Store，索尼推出 ZX700 和 A300 系列 Android 播放器等](https://sspai.com/post/77795)
+* [【2023-01-12】 要是回去能有止痛药水：评 Rewind](https://sspai.com/post/77790)
+* [【2023-01-12】 新玩意 133｜少数派的作者们最近买了啥？](https://sspai.com/post/77777)
+* [【2023-01-12】 什么都可以以后再说，体检为什么不可以？](https://sspai.com/post/77776)
 * [【2023-01-12】 年度征文｜差生文具多，纸和笔才是笔记王道吗？](https://sspai.com/post/77745)
 * [【2023-01-12】 派早报：英特尔发布傲腾持久内存 300 系列、龙芯公布 2K2000 详情等](https://sspai.com/post/77773)
 * [【2023-01-11】 万字试读 02 | 图表、母版和快捷键，今年一整年都会用得上的 PPT 技巧](https://sspai.com/post/77606)
 * [【2023-01-11】 Apple 推出 iCloud+ 订阅优惠，这些是你可能会关心的问题](https://sspai.com/post/77758)
 * [【2023-01-11】 新一年的健康生活，从这些饮食与运动知识开始](https://sspai.com/post/77719)
-* [【2023-01-11】 年度征文｜把人生活成旷野，我的「焦虑盒子」笔记系统](https://sspai.com/post/77685)
-* [【2023-01-11】 派早报：大疆发布轻量旅拍稳定器 RS 3 Mini、Apple 推出 iCloud+ 新订阅用户优惠等](https://sspai.com/post/77753)
-* [【2023-01-10】 一份价格，双份收货 | 年底小目标：彻底搞定 PPT，兔年解放你自己](https://sspai.com/post/77734)
-* [【2023-01-10】 春节将至，归乡路上用它拨开「世界迷雾」](https://sspai.com/post/77676)
-* [【2023-01-10】 听歌，我们是认真的：一首歌的创作笔记](https://sspai.com/post/77695)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-01-13】 为什么总是有人觉得车越重越大就越安全？](http://www.zhihu.com/question/350788155/answer/2841125856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-01-13】 为什么有些车，造得越多越便宜？](http://www.zhihu.com/question/574804072/answer/2837757378?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-01-13】 半分钟造一辆车一体式压铸技术神奇在哪里？](http://www.zhihu.com/question/575505637/answer/2835617226?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-01-13】 有哪些惊艳到你的汽车设计？](http://www.zhihu.com/question/347380723/answer/2821850110?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-01-13】 汽车的外观为什么会有廉价感？汽车外观做到精致会增加很多成本吗？](http://www.zhihu.com/question/28168213/answer/2819776561?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-12】 你最近一次睡前看的书是什么？有什么枕边书可以推荐？](http://www.zhihu.com/question/570994264/answer/2841390939?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-11】 未来科幻电影发展前景如何？有哪些值得期待的地方？](http://www.zhihu.com/question/574034920/answer/2839573454?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-09】 通向AGI之路：大型语言模型（LLM）技术精要](http://zhuanlan.zhihu.com/p/597586623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-07】 如何评价动画《大理寺日志》第二季第九集？](http://www.zhihu.com/question/577321573/answer/2834129926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-07】 《喜羊羊与灰太狼之勇闯四季城》开播，你有什么评价？](http://www.zhihu.com/question/574419216/answer/2833662743?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-07】 如何评价《一人之下》中王震球这个角色？](http://www.zhihu.com/question/278187496/answer/2830707129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-07】 如何评价《原神》3.4版本前瞻特别节目「磬弦奏华夜」?](http://www.zhihu.com/question/577156659/answer/2833637210?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-06】 年度裁员100问（持续更新中） - 职场闲话Step6](http://zhuanlan.zhihu.com/p/596856335?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-04】 动画《中国奇谭》开播，第 1 - 2 集有哪些关注点？](http://www.zhihu.com/question/576059467/answer/2827337778?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-04】 risc-v 前景如何？会形成与 x86、arm 三分天下的局面吗？](http://www.zhihu.com/question/357557401/answer/2828629042?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2023-01-13】 好工具周刊（第 45 期）: CSS Specificity Calculator, Vim Online, Smooth Shadow, Patternify, Icons Pattern, ...](https://bestxtools.zhubai.love/posts/2225492315366248448)
 * [【2023-01-05】 好工具周刊迎 2023 年 🎰 抽奖活动结果公布](https://bestxtools.zhubai.love/posts/2222709322708946944)
 * [【2023-01-05】 好工具周刊（第 44 期）: VIM Adventures, AST Explorer, HTMLShell, Color Palette from Image, Lenny Face Gen ...](https://bestxtools.zhubai.love/posts/2222686910009311232)
 * [【2022-12-30】 抽奖送话费，好工具周刊与 DTO 社区祝大家 2023 年好运连连](https://bestxtools.zhubai.love/posts/2220452503982727168)
@@ -101,7 +102,6 @@
 * [【2022-12-01】 好工具周刊（第 40 期）: Sort Visualizer, Quick Reference, Compare OSS Projects, Random User Generator, ...](https://bestxtools.zhubai.love/posts/2210024210603786240)
 * [【2022-11-24】 好工具周刊（第 39 期）: Color Palette Generator, Gradient Maker, Showcode, 中科大测速网站, FlipClocker, ...](https://bestxtools.zhubai.love/posts/2207495485110075392)
 * [【2022-11-17】 好工具周刊（第 38 期）: GitHub Business Card, ShortcutFoo, typing.io, Lingva Translate, Etymonline, ...](https://bestxtools.zhubai.love/posts/2204976619335163904)
-* [【2022-11-10】 好工具周刊（第 37 期）: Eoapi, Tailwind CSS Gradient Generator, IconGo, Website Metadata, 竹白专栏检索, 直播中国, ...](https://bestxtools.zhubai.love/posts/2202403256725368832)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-01-12 05:12:15
+:alarm_clock: 更新时间: 2023-01-13 05:12:28

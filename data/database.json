@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 239 期）：未来两种人会增加",
+                "link": "http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html",
+                "published": "2023-01-13"
+            },
+            {
                 "title": "科技爱好者周刊（第 238 期）：停止寻找的最佳时间",
                 "link": "http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html",
                 "published": "2023-01-06"
@@ -365,13 +370,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "对话傅徐军：钉钉怎么操盘自己的云文档产品？",
+                "link": "https://sspai.com/post/77781",
+                "published": "2023-01-13"
+            },
+            {
+                "title": "派早报：Apple Music 等新版应用上架 Microsoft Store，索尼推出 ZX700 和 A300 系列 Android 播放器等",
+                "link": "https://sspai.com/post/77795",
+                "published": "2023-01-13"
+            },
+            {
+                "title": "要是回去能有止痛药水：评 Rewind",
+                "link": "https://sspai.com/post/77790",
+                "published": "2023-01-12"
+            },
+            {
+                "title": "新玩意 133｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/77777",
+                "published": "2023-01-12"
+            },
+            {
+                "title": "什么都可以以后再说，体检为什么不可以？",
+                "link": "https://sspai.com/post/77776",
+                "published": "2023-01-12"
+            },
             {
                 "title": "年度征文｜差生文具多，纸和笔才是笔记王道吗？",
                 "link": "https://sspai.com/post/77745",
@@ -40319,6 +40349,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "为什么总是有人觉得车越重越大就越安全？",
+                "link": "http://www.zhihu.com/question/350788155/answer/2841125856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-13"
+            },
+            {
+                "title": "为什么有些车，造得越多越便宜？",
+                "link": "http://www.zhihu.com/question/574804072/answer/2837757378?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-13"
+            },
+            {
+                "title": "半分钟造一辆车一体式压铸技术神奇在哪里？",
+                "link": "http://www.zhihu.com/question/575505637/answer/2835617226?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-13"
+            },
+            {
+                "title": "有哪些惊艳到你的汽车设计？",
+                "link": "http://www.zhihu.com/question/347380723/answer/2821850110?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-13"
+            },
+            {
+                "title": "汽车的外观为什么会有廉价感？汽车外观做到精致会增加很多成本吗？",
+                "link": "http://www.zhihu.com/question/28168213/answer/2819776561?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-13"
+            },
+            {
                 "title": "你最近一次睡前看的书是什么？有什么枕边书可以推荐？",
                 "link": "http://www.zhihu.com/question/570994264/answer/2841390939?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-01-12"
@@ -46569,13 +46624,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 45 期）: CSS Specificity Calculator, Vim Online, Smooth Shadow, Patternify, Icons Pattern, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2225492315366248448",
+                "published": "2023-01-13"
+            },
             {
                 "title": "好工具周刊迎 2023 年 🎰 抽奖活动结果公布",
                 "link": "https://bestxtools.zhubai.love/posts/2222709322708946944",
@@ -46812,6 +46872,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
