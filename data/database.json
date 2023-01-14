@@ -370,13 +370,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "年度征文｜用一年时间打造一档法律实务专业播客",
+                "link": "https://sspai.com/post/77752",
+                "published": "2023-01-14"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/77812",
+                "published": "2023-01-13"
+            },
+            {
+                "title": "2023 年还在坚持本地听歌：Android 音乐播放器还有哪些好选择？",
+                "link": "https://sspai.com/post/77789",
+                "published": "2023-01-13"
+            },
+            {
+                "title": "千里之行始于足下，任务管理先看「今日」：Structured",
+                "link": "https://sspai.com/post/77791",
+                "published": "2023-01-13"
+            },
             {
                 "title": "对话傅徐军：钉钉怎么操盘自己的云文档产品？",
                 "link": "https://sspai.com/post/77781",
@@ -9893,7 +9913,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -40349,6 +40369,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "年薪百万的人都在干什么？",
+                "link": "http://www.zhihu.com/question/37548343/answer/2841426111?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-13"
+            },
+            {
                 "title": "为什么总是有人觉得车越重越大就越安全？",
                 "link": "http://www.zhihu.com/question/350788155/answer/2841125856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-01-13"
@@ -46624,7 +46649,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 1
     },
     {
         "id": 4,
@@ -46872,6 +46897,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
