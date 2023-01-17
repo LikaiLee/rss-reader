@@ -378,6 +378,46 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 来自一个准妈妈的孕期不完全记录",
+                "link": "https://sspai.com/post/77621",
+                "published": "2023-01-17"
+            },
+            {
+                "title": "派早报：PS VR2 定档，滴滴出行恢复新用户注册等",
+                "link": "https://sspai.com/post/77855",
+                "published": "2023-01-17"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/77849",
+                "published": "2023-01-16"
+            },
+            {
+                "title": "iPod、DV、3DS……少数派们还在用这 8 件「旧玩意」",
+                "link": "https://sspai.com/post/77800",
+                "published": "2023-01-16"
+            },
+            {
+                "title": "年度征文｜换种方式刷朋友圈——微信朋友圈数据分析",
+                "link": "https://sspai.com/post/77815",
+                "published": "2023-01-16"
+            },
+            {
+                "title": "iTunes 即将彻底告别历史舞台，Apple 推出新「Windows 三件套」",
+                "link": "https://sspai.com/post/77839",
+                "published": "2023-01-16"
+            },
+            {
+                "title": "派早报：第三方推特客户端大规模失效，Figma 披露曾两次拒绝 Adobe 收购等",
+                "link": "https://sspai.com/post/77832",
+                "published": "2023-01-16"
+            },
+            {
+                "title": "PowerBook 100 系列，31 年前的故事",
+                "link": "https://sspai.com/prime/story/vintage-tech-stories-powerbook",
+                "published": "2023-01-15"
+            },
+            {
                 "title": "年度征文｜用一年时间打造一档法律实务专业播客",
                 "link": "https://sspai.com/post/77752",
                 "published": "2023-01-14"
@@ -9913,7 +9953,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 8
     },
     {
         "id": 2,
@@ -40369,6 +40409,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2023 兔年新春影评大赛，万元奖金等你拿！",
+                "link": "http://zhuanlan.zhihu.com/p/599500800?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-16"
+            },
+            {
+                "title": "人眼相当于多少 mm 的镜头？",
+                "link": "http://www.zhihu.com/question/577909740/answer/2842024911?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-16"
+            },
+            {
                 "title": "年薪百万的人都在干什么？",
                 "link": "http://www.zhihu.com/question/37548343/answer/2841426111?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-01-13"
@@ -46649,7 +46699,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,

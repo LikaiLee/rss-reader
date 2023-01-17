@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+8】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-01-17】 年度征文 | 来自一个准妈妈的孕期不完全记录](https://sspai.com/post/77621)
+* [【2023-01-17】 派早报：PS VR2 定档，滴滴出行恢复新用户注册等](https://sspai.com/post/77855)
+* [【2023-01-16】 派评 | 近期值得关注的 App](https://sspai.com/post/77849)
+* [【2023-01-16】 iPod、DV、3DS……少数派们还在用这 8 件「旧玩意」](https://sspai.com/post/77800)
+* [【2023-01-16】 年度征文｜换种方式刷朋友圈——微信朋友圈数据分析](https://sspai.com/post/77815)
+* [【2023-01-16】 iTunes 即将彻底告别历史舞台，Apple 推出新「Windows 三件套」](https://sspai.com/post/77839)
+* [【2023-01-16】 派早报：第三方推特客户端大规模失效，Figma 披露曾两次拒绝 Adobe 收购等](https://sspai.com/post/77832)
+* [【2023-01-15】 PowerBook 100 系列，31 年前的故事](https://sspai.com/prime/story/vintage-tech-stories-powerbook)
 * [【2023-01-14】 年度征文｜用一年时间打造一档法律实务专业播客](https://sspai.com/post/77752)
 * [【2023-01-13】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/77812)
-* [【2023-01-13】 2023 年还在坚持本地听歌：Android 音乐播放器还有哪些好选择？](https://sspai.com/post/77789)
-* [【2023-01-13】 千里之行始于足下，任务管理先看「今日」：Structured](https://sspai.com/post/77791)
-* [【2023-01-13】 对话傅徐军：钉钉怎么操盘自己的云文档产品？](https://sspai.com/post/77781)
-* [【2023-01-13】 派早报：Apple Music 等新版应用上架 Microsoft Store，索尼推出 ZX700 和 A300 系列 Android 播放器等](https://sspai.com/post/77795)
-* [【2023-01-12】 要是回去能有止痛药水：评 Rewind](https://sspai.com/post/77790)
-* [【2023-01-12】 新玩意 133｜少数派的作者们最近买了啥？](https://sspai.com/post/77777)
-* [【2023-01-12】 什么都可以以后再说，体检为什么不可以？](https://sspai.com/post/77776)
-* [【2023-01-12】 年度征文｜差生文具多，纸和笔才是笔记王道吗？](https://sspai.com/post/77745)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-01-16】 2023 兔年新春影评大赛，万元奖金等你拿！](http://zhuanlan.zhihu.com/p/599500800?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-01-16】 人眼相当于多少 mm 的镜头？](http://www.zhihu.com/question/577909740/answer/2842024911?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-13】 年薪百万的人都在干什么？](http://www.zhihu.com/question/37548343/answer/2841426111?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-13】 为什么总是有人觉得车越重越大就越安全？](http://www.zhihu.com/question/350788155/answer/2841125856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-13】 为什么有些车，造得越多越便宜？](http://www.zhihu.com/question/574804072/answer/2837757378?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-01-13】 汽车的外观为什么会有廉价感？汽车外观做到精致会增加很多成本吗？](http://www.zhihu.com/question/28168213/answer/2819776561?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-12】 你最近一次睡前看的书是什么？有什么枕边书可以推荐？](http://www.zhihu.com/question/570994264/answer/2841390939?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-11】 未来科幻电影发展前景如何？有哪些值得期待的地方？](http://www.zhihu.com/question/574034920/answer/2839573454?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-09】 通向AGI之路：大型语言模型（LLM）技术精要](http://zhuanlan.zhihu.com/p/597586623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-07】 如何评价动画《大理寺日志》第二季第九集？](http://www.zhihu.com/question/577321573/answer/2834129926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-01-15 05:11:32
+:alarm_clock: 更新时间: 2023-01-17 05:11:59
