@@ -378,6 +378,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "港口思维：我是如何「自动」处理生活中的繁杂琐碎事务",
+                "link": "https://sspai.com/post/77843",
+                "published": "2023-01-18"
+            },
+            {
+                "title": "派早报：Apple 推出新款 MacBook Pro 和 Mac mini 等",
+                "link": "https://sspai.com/post/77876",
+                "published": "2023-01-18"
+            },
+            {
+                "title": "年末最后一个大招，新知探索家成员招募中",
+                "link": "https://sspai.com/post/77867",
+                "published": "2023-01-17"
+            },
+            {
+                "title": "CES 2023 小记：新科技串起的未来一天",
+                "link": "https://sspai.com/post/77861",
+                "published": "2023-01-17"
+            },
+            {
+                "title": "在 iPad 上编辑视频，它离「专业」更近一步：DaVinci Resolve for iPad",
+                "link": "https://sspai.com/post/77860",
+                "published": "2023-01-17"
+            },
+            {
                 "title": "年度征文 | 来自一个准妈妈的孕期不完全记录",
                 "link": "https://sspai.com/post/77621",
                 "published": "2023-01-17"
@@ -9953,7 +9978,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -46699,7 +46724,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,

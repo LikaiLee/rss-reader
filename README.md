@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+8】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-01-18】 港口思维：我是如何「自动」处理生活中的繁杂琐碎事务](https://sspai.com/post/77843)
+* [【2023-01-18】 派早报：Apple 推出新款 MacBook Pro 和 Mac mini 等](https://sspai.com/post/77876)
+* [【2023-01-17】 年末最后一个大招，新知探索家成员招募中](https://sspai.com/post/77867)
+* [【2023-01-17】 CES 2023 小记：新科技串起的未来一天](https://sspai.com/post/77861)
+* [【2023-01-17】 在 iPad 上编辑视频，它离「专业」更近一步：DaVinci Resolve for iPad](https://sspai.com/post/77860)
 * [【2023-01-17】 年度征文 | 来自一个准妈妈的孕期不完全记录](https://sspai.com/post/77621)
 * [【2023-01-17】 派早报：PS VR2 定档，滴滴出行恢复新用户注册等](https://sspai.com/post/77855)
 * [【2023-01-16】 派评 | 近期值得关注的 App](https://sspai.com/post/77849)
 * [【2023-01-16】 iPod、DV、3DS……少数派们还在用这 8 件「旧玩意」](https://sspai.com/post/77800)
 * [【2023-01-16】 年度征文｜换种方式刷朋友圈——微信朋友圈数据分析](https://sspai.com/post/77815)
-* [【2023-01-16】 iTunes 即将彻底告别历史舞台，Apple 推出新「Windows 三件套」](https://sspai.com/post/77839)
-* [【2023-01-16】 派早报：第三方推特客户端大规模失效，Figma 披露曾两次拒绝 Adobe 收购等](https://sspai.com/post/77832)
-* [【2023-01-15】 PowerBook 100 系列，31 年前的故事](https://sspai.com/prime/story/vintage-tech-stories-powerbook)
-* [【2023-01-14】 年度征文｜用一年时间打造一档法律实务专业播客](https://sspai.com/post/77752)
-* [【2023-01-13】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/77812)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-01-17 05:11:59
+:alarm_clock: 更新时间: 2023-01-18 05:12:25
