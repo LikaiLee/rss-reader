@@ -378,6 +378,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "耐心加上点技巧，帮爸爸导入随手记下的血压到健康 app",
+                "link": "https://sspai.com/prime/story/process-and-import-health-data-shortcuts",
+                "published": "2023-01-20"
+            },
+            {
+                "title": "派早报：Twitter 禁止开发第三方 app、交通运输部确认与「强国交通」app 与",
+                "link": "https://sspai.com/post/77920",
+                "published": "2023-01-20"
+            },
+            {
+                "title": "新玩意 SP：少数派办公室最近来了啥耳机？",
+                "link": "https://sspai.com/post/77908",
+                "published": "2023-01-19"
+            },
+            {
+                "title": "译文 | 惨遭《阿凡达 2》抛弃的字体：Papyrus 为何如此讨人嫌",
+                "link": "https://sspai.com/post/77903",
+                "published": "2023-01-19"
+            },
+            {
+                "title": "教练，我想上首页：Apple Podcasts 运营及自荐攻略",
+                "link": "https://sspai.com/post/76883",
+                "published": "2023-01-19"
+            },
+            {
                 "title": "年度征文｜程序员专用系统？聊一聊一个非程序员使用 Linux 系统的历程",
                 "link": "https://sspai.com/post/77854",
                 "published": "2023-01-19"
@@ -10008,7 +10033,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -40464,6 +40489,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "8k字：文明6武则天游戏元素来源考究，与游玩攻略！",
+                "link": "http://zhuanlan.zhihu.com/p/600202100?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-20"
+            },
+            {
+                "title": "如何评价像素风回合制游戏《混沌银河 2》？",
+                "link": "http://www.zhihu.com/question/579456349/answer/2851582160?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-01-19"
+            },
+            {
                 "title": "2023 兔年新春影评大赛，万元奖金等你拿！",
                 "link": "http://zhuanlan.zhihu.com/p/599500800?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-01-16"
@@ -46754,13 +46789,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具 / The Best X Tools 2022 / 和抽奖活动",
+                "link": "https://bestxtools.zhubai.love/posts/2227788146916585472",
+                "published": "2023-01-19"
+            },
             {
                 "title": "好工具周刊（第 45 期）: CSS Specificity Calculator, Vim Online, Smooth Shadow, Patternify, Icons Pattern, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2225492315366248448",
@@ -47002,6 +47042,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
