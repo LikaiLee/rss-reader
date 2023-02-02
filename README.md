@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-02-02】 食过境迁：当一个年轻人决定吃顿好的](https://sspai.com/post/78057)
+* [【2023-02-02】 派早报：三星召开新品发布会、网易开通暴雪游戏退款通道等](https://sspai.com/post/78076)
+* [【2023-02-01】 常规升级，迅猛依旧：2023 款 MacBook Pro 上手体验](https://sspai.com/post/78052)
+* [【2023-02-01】 少数派的年度之选：2022 年我们用过这些好产品](https://sspai.com/post/78060)
+* [【2023-02-01】 声阔 Liberty 4 体验：能监测健康的耳机会更好听吗？](https://sspai.com/post/78058)
 * [【2023-02-01】 Obsidian 搭配 Vim Mode，提升中文写作体验](https://sspai.com/post/78030)
 * [【2023-02-01】 派早报：Apple Music Replay 2023 音乐回忆活动上线等](https://sspai.com/post/78053)
 * [【2023-01-31】 寻寻觅觅声声慢，千呼万唤始出来：新款 HomePod 首发体验](https://sspai.com/post/78042)
 * [【2023-01-31】 评论有奖 | 告别「佳节胖三斤」，轻松几招找回身材与健康](https://sspai.com/post/78047)
 * [【2023-01-31】 Thread：让智能家居工作更稳定的数据包搬运工（系列文章之二）](https://sspai.com/prime/story/matter-explained-02)
-* [【2023-01-31】 年度征文 | 提升文章阅读体验，我去年用了这 12 个写作秘诀](https://sspai.com/post/78004)
-* [【2023-01-31】 派早报：Google 推出 Pixel 7 系列手机维修手册，Chrome 32 位版本出现下载故障等](https://sspai.com/post/78028)
-* [【2023-01-30】 派评 | 近期值得关注的 App](https://sspai.com/post/78023)
-* [【2023-01-30】 本月玩什么 | 死亡空间重制、火纹 Engage、寄梦远方](https://sspai.com/post/78010)
-* [【2023-01-30】 无需专门安装 App，用 Keyboard Maestro 切换输入法和浏览器](https://sspai.com/post/77870)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-02-02】 密室逃脱里的电锯是真的吗?](http://www.zhihu.com/question/550295501/answer/2872172776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-02】 如何评价密室逃脱游戏主题《灵媒》？](http://www.zhihu.com/question/581718699/answer/2871329573?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-01】 12.4 万保时捷帕纳梅拉遭抢购，保时捷回应称「情况属实，已与首单用户达成协议」，如何看待这一情况？](http://www.zhihu.com/question/581507073/answer/2869590583?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-01】 可否用“理性人假设”不成立来证伪大部分西方经济学理论？](http://www.zhihu.com/question/561668185/answer/2861954870?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-31】 节食减肥是徒劳吗？为什么？](http://www.zhihu.com/question/20588656/answer/2869446559?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-31】 获得巴蜀青年文学奖是什么体验？](http://www.zhihu.com/question/581334596/answer/2869402688?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-01-30】 《战锤》小说国内出版引进的情况如何，有哪些推荐？](http://www.zhihu.com/question/580962941/answer/2867094480?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-30】 描写中国远征军的战争小说《远征》好看么？](http://www.zhihu.com/question/580938701/answer/2867341541?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-30】 你是一名游戏设计师，会如何设计一种让人恐惧但没有血腥元素的怪物？](http://www.zhihu.com/question/566903871/answer/2866181144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-29】 理想汽车 CEO 李想发布全员信， 2023 年底落地端到端城市辅助驾驶，哪些信息值得关注？](http://www.zhihu.com/question/580926899/answer/2865882730?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-29】 如何评价密室逃脱游戏主题《白夜》？](http://www.zhihu.com/question/580961460/answer/2865984016?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-29】 如何评价艾伦·默雷特的书籍《战锤：荷鲁斯之乱编年史》？](http://www.zhihu.com/question/556459115/answer/2865841914?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-01 05:12:27
+:alarm_clock: 更新时间: 2023-02-02 05:12:11
