@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-02-03】 科技爱好者周刊（第 240 期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html)
 * [【2023-01-13】 科技爱好者周刊（第 239 期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html)
 * [【2023-01-06】 科技爱好者周刊（第 238 期）：停止寻找的最佳时间](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html)
 * [【2022-12-30】 科技爱好者周刊（第 237 期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html)
@@ -25,7 +26,6 @@
 * [【2022-12-02】 科技爱好者周刊（第 233 期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)
 * [【2022-11-25】 科技爱好者周刊（第 232 期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html)
 * [【2022-11-18】 科技爱好者周刊（第 231 期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)
-* [【2022-11-11】 科技爱好者周刊（第 230 期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-02-03】 年度征文 | 过去一年我看了一千多小时的英文视频，有这些频道想要分享给你](https://sspai.com/post/78024)
+* [【2023-02-03】 派早报：Netflix 高级方案新增空间音频功能、OpenAI 推出 ChatGPT 付费版](https://sspai.com/post/78092)
+* [【2023-02-02】 新玩意 134｜少数派的编辑们最近买了啥？](https://sspai.com/post/78087)
+* [【2023-02-02】 如何轻松愉快践行卡片写作？Lattics 使用体验](https://sspai.com/post/78036)
+* [【2023-02-02】 年度征文 | 食过境迁：当一个年轻人决定吃顿好的](https://sspai.com/post/78057)
 * [【2023-02-02】 食过境迁：当一个年轻人决定吃顿好的](https://sspai.com/post/78057)
 * [【2023-02-02】 派早报：三星召开新品发布会、网易开通暴雪游戏退款通道等](https://sspai.com/post/78076)
 * [【2023-02-01】 常规升级，迅猛依旧：2023 款 MacBook Pro 上手体验](https://sspai.com/post/78052)
 * [【2023-02-01】 少数派的年度之选：2022 年我们用过这些好产品](https://sspai.com/post/78060)
 * [【2023-02-01】 声阔 Liberty 4 体验：能监测健康的耳机会更好听吗？](https://sspai.com/post/78058)
-* [【2023-02-01】 Obsidian 搭配 Vim Mode，提升中文写作体验](https://sspai.com/post/78030)
-* [【2023-02-01】 派早报：Apple Music Replay 2023 音乐回忆活动上线等](https://sspai.com/post/78053)
-* [【2023-01-31】 寻寻觅觅声声慢，千呼万唤始出来：新款 HomePod 首发体验](https://sspai.com/post/78042)
-* [【2023-01-31】 评论有奖 | 告别「佳节胖三斤」，轻松几招找回身材与健康](https://sspai.com/post/78047)
-* [【2023-01-31】 Thread：让智能家居工作更稳定的数据包搬运工（系列文章之二）](https://sspai.com/prime/story/matter-explained-02)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-02-03】 如何评价密室逃脱游戏《灵隐寺》？](http://www.zhihu.com/question/563947517/answer/2873587444?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-02】 如何评价《从零开始设计密室逃脱》这本书？](http://www.zhihu.com/question/581100338/answer/2872849576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-02】 密室逃脱里的电锯是真的吗?](http://www.zhihu.com/question/550295501/answer/2872172776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-02】 如何评价密室逃脱游戏主题《灵媒》？](http://www.zhihu.com/question/581718699/answer/2871329573?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-01】 12.4 万保时捷帕纳梅拉遭抢购，保时捷回应称「情况属实，已与首单用户达成协议」，如何看待这一情况？](http://www.zhihu.com/question/581507073/answer/2869590583?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-01-31】 获得巴蜀青年文学奖是什么体验？](http://www.zhihu.com/question/581334596/answer/2869402688?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-31】 你家的书架或书房是什么样的？](http://www.zhihu.com/question/536697500/answer/2863123350?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-01-30】 《战锤》小说国内出版引进的情况如何，有哪些推荐？](http://www.zhihu.com/question/580962941/answer/2867094480?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-30】 描写中国远征军的战争小说《远征》好看么？](http://www.zhihu.com/question/580938701/answer/2867341541?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-30】 你是一名游戏设计师，会如何设计一种让人恐惧但没有血腥元素的怪物？](http://www.zhihu.com/question/566903871/answer/2866181144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-02 05:12:11
+:alarm_clock: 更新时间: 2023-02-03 05:12:23
