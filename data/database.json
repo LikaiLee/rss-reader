@@ -375,13 +375,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大盒作品",
+                "link": "https://sspai.com/post/78101",
+                "published": "2023-02-03"
+            },
+            {
+                "title": "浅尝富士 XT-5，喜欢更现代的呈现与无压力拍照",
+                "link": "https://sspai.com/post/78082",
+                "published": "2023-02-03"
+            },
             {
                 "title": "年度征文 | 过去一年我看了一千多小时的英文视频，有这些频道想要分享给你",
                 "link": "https://sspai.com/post/78024",
@@ -10198,7 +10208,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -47104,7 +47114,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,

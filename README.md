@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-02-03】 本周看什么 | 最近值得一看的一大盒作品](https://sspai.com/post/78101)
+* [【2023-02-03】 浅尝富士 XT-5，喜欢更现代的呈现与无压力拍照](https://sspai.com/post/78082)
 * [【2023-02-03】 年度征文 | 过去一年我看了一千多小时的英文视频，有这些频道想要分享给你](https://sspai.com/post/78024)
 * [【2023-02-03】 派早报：Netflix 高级方案新增空间音频功能、OpenAI 推出 ChatGPT 付费版](https://sspai.com/post/78092)
 * [【2023-02-02】 新玩意 134｜少数派的编辑们最近买了啥？](https://sspai.com/post/78087)
@@ -43,8 +45,6 @@
 * [【2023-02-02】 食过境迁：当一个年轻人决定吃顿好的](https://sspai.com/post/78057)
 * [【2023-02-02】 派早报：三星召开新品发布会、网易开通暴雪游戏退款通道等](https://sspai.com/post/78076)
 * [【2023-02-01】 常规升级，迅猛依旧：2023 款 MacBook Pro 上手体验](https://sspai.com/post/78052)
-* [【2023-02-01】 少数派的年度之选：2022 年我们用过这些好产品](https://sspai.com/post/78060)
-* [【2023-02-01】 声阔 Liberty 4 体验：能监测健康的耳机会更好听吗？](https://sspai.com/post/78058)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-03 05:12:23
+:alarm_clock: 更新时间: 2023-02-04 05:11:36
