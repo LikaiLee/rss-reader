@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-02-05】 返璞归真 or 走火入魔？我用 Numbers 写作](https://sspai.com/post/77941)
+* [【2023-02-04】 微信开放「辅助注册」功能，你想知道的 7 个问题都在这](https://sspai.com/post/78109)
 * [【2023-02-03】 本周看什么 | 最近值得一看的一大盒作品](https://sspai.com/post/78101)
 * [【2023-02-03】 浅尝富士 XT-5，喜欢更现代的呈现与无压力拍照](https://sspai.com/post/78082)
 * [【2023-02-03】 年度征文 | 过去一年我看了一千多小时的英文视频，有这些频道想要分享给你](https://sspai.com/post/78024)
@@ -43,8 +45,6 @@
 * [【2023-02-02】 如何轻松愉快践行卡片写作？Lattics 使用体验](https://sspai.com/post/78036)
 * [【2023-02-02】 年度征文 | 食过境迁：当一个年轻人决定吃顿好的](https://sspai.com/post/78057)
 * [【2023-02-02】 食过境迁：当一个年轻人决定吃顿好的](https://sspai.com/post/78057)
-* [【2023-02-02】 派早报：三星召开新品发布会、网易开通暴雪游戏退款通道等](https://sspai.com/post/78076)
-* [【2023-02-01】 常规升级，迅猛依旧：2023 款 MacBook Pro 上手体验](https://sspai.com/post/78052)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-04 05:11:36
+:alarm_clock: 更新时间: 2023-02-05 05:11:33
