@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-02-06】 年度征文 | 新手爸爸的一年育儿心路：如何才是更好的陪伴？](https://sspai.com/post/77966)
+* [【2023-02-06】 派早报：网购应用信息收集报告发布；陪审团驳回对马斯克证券欺诈诉讼](https://sspai.com/post/78129)
+* [【2023-02-05】 最便宜，也是入门 Mac 的最好选择：新款 Mac mini 体验](https://sspai.com/post/78102)
+* [【2023-02-05】 年度征文 | 返璞归真 or 走火入魔？我用 Numbers 写作](https://sspai.com/post/77941)
 * [【2023-02-05】 返璞归真 or 走火入魔？我用 Numbers 写作](https://sspai.com/post/77941)
 * [【2023-02-04】 微信开放「辅助注册」功能，你想知道的 7 个问题都在这](https://sspai.com/post/78109)
 * [【2023-02-03】 本周看什么 | 最近值得一看的一大盒作品](https://sspai.com/post/78101)
 * [【2023-02-03】 浅尝富士 XT-5，喜欢更现代的呈现与无压力拍照](https://sspai.com/post/78082)
 * [【2023-02-03】 年度征文 | 过去一年我看了一千多小时的英文视频，有这些频道想要分享给你](https://sspai.com/post/78024)
 * [【2023-02-03】 派早报：Netflix 高级方案新增空间音频功能、OpenAI 推出 ChatGPT 付费版](https://sspai.com/post/78092)
-* [【2023-02-02】 新玩意 134｜少数派的编辑们最近买了啥？](https://sspai.com/post/78087)
-* [【2023-02-02】 如何轻松愉快践行卡片写作？Lattics 使用体验](https://sspai.com/post/78036)
-* [【2023-02-02】 年度征文 | 食过境迁：当一个年轻人决定吃顿好的](https://sspai.com/post/78057)
-* [【2023-02-02】 食过境迁：当一个年轻人决定吃顿好的](https://sspai.com/post/78057)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-05 05:11:33
+:alarm_clock: 更新时间: 2023-02-06 05:12:12

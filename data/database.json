@@ -383,6 +383,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 新手爸爸的一年育儿心路：如何才是更好的陪伴？",
+                "link": "https://sspai.com/post/77966",
+                "published": "2023-02-06"
+            },
+            {
+                "title": "派早报：网购应用信息收集报告发布；陪审团驳回对马斯克证券欺诈诉讼",
+                "link": "https://sspai.com/post/78129",
+                "published": "2023-02-06"
+            },
+            {
+                "title": "最便宜，也是入门 Mac 的最好选择：新款 Mac mini 体验",
+                "link": "https://sspai.com/post/78102",
+                "published": "2023-02-05"
+            },
+            {
+                "title": "年度征文 | 返璞归真 or 走火入魔？我用 Numbers 写作",
+                "link": "https://sspai.com/post/77941",
+                "published": "2023-02-05"
+            },
+            {
                 "title": "返璞归真 or 走火入魔？我用 Numbers 写作",
                 "link": "https://sspai.com/post/77941",
                 "published": "2023-02-05"
@@ -10218,7 +10238,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
