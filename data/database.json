@@ -383,6 +383,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 超越效率：10x 提升阅读体验后，我有哪些反思？",
+                "link": "https://sspai.com/post/78124",
+                "published": "2023-02-07"
+            },
+            {
+                "title": "派早报：Google 公布 AI 聊天机器人 Bard 等",
+                "link": "https://sspai.com/post/78159",
+                "published": "2023-02-07"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/78153",
+                "published": "2023-02-06"
+            },
+            {
+                "title": "2023 年，聊聊新冠疫苗有关的「新问题」",
+                "link": "https://sspai.com/post/78146",
+                "published": "2023-02-06"
+            },
+            {
+                "title": "幕后 |  两颗皮蛋的 2022 年回顾：两个关键词和三条小建议",
+                "link": "https://sspai.com/post/78067",
+                "published": "2023-02-06"
+            },
+            {
                 "title": "年度征文 | 新手爸爸的一年育儿心路：如何才是更好的陪伴？",
                 "link": "https://sspai.com/post/77966",
                 "published": "2023-02-06"
@@ -10238,7 +10263,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -40694,6 +40719,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "ACG 文化/二次元和严肃文学是否有结合的可能？",
+                "link": "http://www.zhihu.com/question/577068271/answer/2880077329?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-07"
+            },
+            {
                 "title": "如何评价密室逃脱游戏《灵隐寺》？",
                 "link": "http://www.zhihu.com/question/563947517/answer/2873587444?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-03"
@@ -47144,7 +47174,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
