@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-02-08】 情人节礼物灵感集合处，打开爱意传递新思路](https://sspai.com/post/78173)
+* [【2023-02-08】 派早报：微软发布新版 Bing 搜索、百度将推出类 ChatGPT 项目「文心一言」等](https://sspai.com/post/78185)
+* [【2023-02-07】 付费栏目内容质保计划启动：为每一个字符负责](https://sspai.com/post/78158)
+* [【2023-02-07】 身临哈利·波特魔法世界：《霍格沃茨之遗》游玩体验 & 开发者访谈](https://sspai.com/post/78164)
+* [【2023-02-07】 制造产品还是定义品牌：从 CES 思考国货出海的「持久战」](https://sspai.com/post/78157)
+* [【2023-02-07】 播客 | 保持专注，进入心流：谈谈注意力和自我管理](https://sspai.com/post/78150)
 * [【2023-02-07】 年度征文 | 超越效率：10x 提升阅读体验后，我有哪些反思？](https://sspai.com/post/78124)
 * [【2023-02-07】 派早报：Google 公布 AI 聊天机器人 Bard 等](https://sspai.com/post/78159)
 * [【2023-02-06】 派评 | 近期值得关注的 App](https://sspai.com/post/78153)
 * [【2023-02-06】 2023 年，聊聊新冠疫苗有关的「新问题」](https://sspai.com/post/78146)
-* [【2023-02-06】 幕后 |  两颗皮蛋的 2022 年回顾：两个关键词和三条小建议](https://sspai.com/post/78067)
-* [【2023-02-06】 年度征文 | 新手爸爸的一年育儿心路：如何才是更好的陪伴？](https://sspai.com/post/77966)
-* [【2023-02-06】 派早报：网购应用信息收集报告发布；陪审团驳回对马斯克证券欺诈诉讼](https://sspai.com/post/78129)
-* [【2023-02-05】 最便宜，也是入门 Mac 的最好选择：新款 Mac mini 体验](https://sspai.com/post/78102)
-* [【2023-02-05】 年度征文 | 返璞归真 or 走火入魔？我用 Numbers 写作](https://sspai.com/post/77941)
-* [【2023-02-05】 返璞归真 or 走火入魔？我用 Numbers 写作](https://sspai.com/post/77941)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-02-08】 景区中的沉浸式“剧本杀”到底是什么？](http://www.zhihu.com/question/582176803/answer/2881624655?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-07】 《一只 iPhone 的全球之旅》这本书怎么样？](http://www.zhihu.com/question/19862885/answer/2880951765?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-07】 如何评价密室逃脱游戏《11楼的钉子户》？](http://www.zhihu.com/question/571392336/answer/2881304320?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-07】 如何理解《时间看得见》一书中提到的微小积累和持续改变的力量？](http://www.zhihu.com/question/582015059/answer/2881091040?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-07】 ACG 文化/二次元和严肃文学是否有结合的可能？](http://www.zhihu.com/question/577068271/answer/2880077329?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-03】 如何评价密室逃脱游戏《灵隐寺》？](http://www.zhihu.com/question/563947517/answer/2873587444?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-02】 如何评价《从零开始设计密室逃脱》这本书？](http://www.zhihu.com/question/581100338/answer/2872849576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-02】 密室逃脱里的电锯是真的吗?](http://www.zhihu.com/question/550295501/answer/2872172776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-02】 如何评价密室逃脱游戏主题《灵媒》？](http://www.zhihu.com/question/581718699/answer/2871329573?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-01】 12.4 万保时捷帕纳梅拉遭抢购，保时捷回应称「情况属实，已与首单用户达成协议」，如何看待这一情况？](http://www.zhihu.com/question/581507073/answer/2869590583?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-01】 可否用“理性人假设”不成立来证伪大部分西方经济学理论？](http://www.zhihu.com/question/561668185/answer/2861954870?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-31】 节食减肥是徒劳吗？为什么？](http://www.zhihu.com/question/20588656/answer/2869446559?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-31】 获得巴蜀青年文学奖是什么体验？](http://www.zhihu.com/question/581334596/answer/2869402688?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-01-31】 你家的书架或书房是什么样的？](http://www.zhihu.com/question/536697500/answer/2863123350?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-07 05:12:05
+:alarm_clock: 更新时间: 2023-02-08 05:12:33
