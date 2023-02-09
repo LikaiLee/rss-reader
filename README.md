@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-02-09】 年度征文 | 我用 Figma / Figside / 浩客，无代码搭了个人官网](https://sspai.com/post/78088)
+* [【2023-02-09】 派早报：佳能发布 EOS 系列新品、任天堂召开新一轮直面会等](https://sspai.com/post/78203)
+* [【2023-02-08】 曾经「装机必备」的老游戏，现在怎么样了？](https://sspai.com/post/78197)
+* [【2023-02-08】 8 天 6 人 4000 公里后，这是我对理想 L8 Pro 的购买建议](https://sspai.com/post/78163)
+* [【2023-02-08】 聊聊我眼中的渴创 Keychron：异军突起，前路漫漫](https://sspai.com/post/77950)
 * [【2023-02-08】 情人节礼物灵感集合处，打开爱意传递新思路](https://sspai.com/post/78173)
 * [【2023-02-08】 派早报：微软发布新版 Bing 搜索、百度将推出类 ChatGPT 项目「文心一言」等](https://sspai.com/post/78185)
 * [【2023-02-07】 付费栏目内容质保计划启动：为每一个字符负责](https://sspai.com/post/78158)
 * [【2023-02-07】 身临哈利·波特魔法世界：《霍格沃茨之遗》游玩体验 & 开发者访谈](https://sspai.com/post/78164)
 * [【2023-02-07】 制造产品还是定义品牌：从 CES 思考国货出海的「持久战」](https://sspai.com/post/78157)
-* [【2023-02-07】 播客 | 保持专注，进入心流：谈谈注意力和自我管理](https://sspai.com/post/78150)
-* [【2023-02-07】 年度征文 | 超越效率：10x 提升阅读体验后，我有哪些反思？](https://sspai.com/post/78124)
-* [【2023-02-07】 派早报：Google 公布 AI 聊天机器人 Bard 等](https://sspai.com/post/78159)
-* [【2023-02-06】 派评 | 近期值得关注的 App](https://sspai.com/post/78153)
-* [【2023-02-06】 2023 年，聊聊新冠疫苗有关的「新问题」](https://sspai.com/post/78146)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-02-08】 如何评价密室逃脱游戏《鬼画师》？](http://www.zhihu.com/question/576663604/answer/2882668454?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-08】 景区中的沉浸式“剧本杀”到底是什么？](http://www.zhihu.com/question/582176803/answer/2881624655?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-07】 《一只 iPhone 的全球之旅》这本书怎么样？](http://www.zhihu.com/question/19862885/answer/2880951765?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-07】 如何评价密室逃脱游戏《11楼的钉子户》？](http://www.zhihu.com/question/571392336/answer/2881304320?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-02-02】 如何评价《从零开始设计密室逃脱》这本书？](http://www.zhihu.com/question/581100338/answer/2872849576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-02】 密室逃脱里的电锯是真的吗?](http://www.zhihu.com/question/550295501/answer/2872172776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-02】 如何评价密室逃脱游戏主题《灵媒》？](http://www.zhihu.com/question/581718699/answer/2871329573?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-01】 12.4 万保时捷帕纳梅拉遭抢购，保时捷回应称「情况属实，已与首单用户达成协议」，如何看待这一情况？](http://www.zhihu.com/question/581507073/answer/2869590583?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-08 05:12:33
+:alarm_clock: 更新时间: 2023-02-09 05:12:29
