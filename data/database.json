@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 241 期）：中国的增长动力在内陆",
+                "link": "http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html",
+                "published": "2023-02-10"
+            },
+            {
                 "title": "科技爱好者周刊（第 240 期）：教育年限可以缩短吗？",
                 "link": "http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html",
                 "published": "2023-02-03"
@@ -375,13 +380,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "年度征文 | SFX 与 VFX，我在过去的一年里研究了特效发展史",
+                "link": "https://sspai.com/post/78126",
+                "published": "2023-02-10"
+            },
+            {
+                "title": "派早报：Android 14 发布首个开发者浏览版、大疆发布 Mini 2 SE 无人机等",
+                "link": "https://sspai.com/post/78217",
+                "published": "2023-02-10"
+            },
+            {
+                "title": "新玩意 135｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/78204",
+                "published": "2023-02-09"
+            },
+            {
+                "title": "为什么你的 Android 系统比 Windows 还大？",
+                "link": "https://sspai.com/post/78205",
+                "published": "2023-02-09"
+            },
+            {
+                "title": "胶片还是数码：浅议摄影的「真实性」",
+                "link": "https://sspai.com/post/78070",
+                "published": "2023-02-09"
+            },
             {
                 "title": "年度征文 | 我用 Figma / Figside / 浩客，无代码搭了个人官网",
                 "link": "https://sspai.com/post/78088",
@@ -40774,6 +40804,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价密室逃脱游戏《回煞》？",
+                "link": "http://www.zhihu.com/question/580778472/answer/2885355243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-10"
+            },
+            {
+                "title": "我的游戏圈九年：4次被动离职，2次调岗",
+                "link": "http://zhuanlan.zhihu.com/p/604401139?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-10"
+            },
+            {
+                "title": "《三体》影视化究竟难在哪里？",
+                "link": "http://www.zhihu.com/question/403175211/answer/2884898489?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-09"
+            },
+            {
+                "title": "ChatGPT会取代搜索引擎吗",
+                "link": "http://zhuanlan.zhihu.com/p/589533490?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-09"
+            },
+            {
+                "title": "为何有时热水结冰比冷水快？",
+                "link": "http://www.zhihu.com/question/19615651/answer/2473705747?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-09"
+            },
+            {
                 "title": "如何评价密室逃脱游戏《鬼画师》？",
                 "link": "http://www.zhihu.com/question/576663604/answer/2882668454?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-08"
@@ -47254,13 +47309,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 5
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 47 期）: 我最喜欢且常用的浏览器插件 - Vimium, AdBlock, uBlacklist, Tampermonkey, Stylus, MarkDownload, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2235408322050158592",
+                "published": "2023-02-09"
+            },
             {
                 "title": "好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具 / The Best X Tools 2022 / 和抽奖活动",
                 "link": "https://bestxtools.zhubai.love/posts/2227788146916585472",
@@ -47507,6 +47567,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
