@@ -380,13 +380,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/78231",
+                "published": "2023-02-10"
+            },
+            {
+                "title": "倒数三个月重返海拉鲁，这是计划的一部分",
+                "link": "https://sspai.com/post/78229",
+                "published": "2023-02-10"
+            },
+            {
+                "title": "给国内新用户的 Pixel 7 系列使用指南",
+                "link": "https://sspai.com/post/78200",
+                "published": "2023-02-10"
+            },
             {
                 "title": "年度征文 | SFX 与 VFX，我在过去的一年里研究了特效发展史",
                 "link": "https://sspai.com/post/78126",
@@ -10348,7 +10363,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -47309,7 +47324,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 0
     },
     {
         "id": 4,
@@ -47567,6 +47582,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]

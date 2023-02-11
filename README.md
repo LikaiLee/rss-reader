@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+5】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选)
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-02-10】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/78231)
+* [【2023-02-10】 倒数三个月重返海拉鲁，这是计划的一部分](https://sspai.com/post/78229)
+* [【2023-02-10】 给国内新用户的 Pixel 7 系列使用指南](https://sspai.com/post/78200)
 * [【2023-02-10】 年度征文 | SFX 与 VFX，我在过去的一年里研究了特效发展史](https://sspai.com/post/78126)
 * [【2023-02-10】 派早报：Android 14 发布首个开发者浏览版、大疆发布 Mini 2 SE 无人机等](https://sspai.com/post/78217)
 * [【2023-02-09】 新玩意 135｜少数派的作者们最近买了啥？](https://sspai.com/post/78204)
@@ -42,9 +45,6 @@
 * [【2023-02-09】 胶片还是数码：浅议摄影的「真实性」](https://sspai.com/post/78070)
 * [【2023-02-09】 年度征文 | 我用 Figma / Figside / 浩客，无代码搭了个人官网](https://sspai.com/post/78088)
 * [【2023-02-09】 派早报：佳能发布 EOS 系列新品、任天堂召开新一轮直面会等](https://sspai.com/post/78203)
-* [【2023-02-08】 曾经「装机必备」的老游戏，现在怎么样了？](https://sspai.com/post/78197)
-* [【2023-02-08】 8 天 6 人 4000 公里后，这是我对理想 L8 Pro 的购买建议](https://sspai.com/post/78163)
-* [【2023-02-08】 聊聊我眼中的渴创 Keychron：异军突起，前路漫漫](https://sspai.com/post/77950)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-10 05:12:52
+:alarm_clock: 更新时间: 2023-02-11 05:11:53
