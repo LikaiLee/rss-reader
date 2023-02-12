@@ -388,6 +388,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "引导小朋友正确使用电子产品，你可以这样设置他们的 Apple 设备",
+                "link": "https://sspai.com/post/78242",
+                "published": "2023-02-11"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/78231",
                 "published": "2023-02-10"
@@ -10363,7 +10368,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,

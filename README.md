@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-02-11】 引导小朋友正确使用电子产品，你可以这样设置他们的 Apple 设备](https://sspai.com/post/78242)
 * [【2023-02-10】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/78231)
 * [【2023-02-10】 倒数三个月重返海拉鲁，这是计划的一部分](https://sspai.com/post/78229)
 * [【2023-02-10】 给国内新用户的 Pixel 7 系列使用指南](https://sspai.com/post/78200)
@@ -44,7 +45,6 @@
 * [【2023-02-09】 为什么你的 Android 系统比 Windows 还大？](https://sspai.com/post/78205)
 * [【2023-02-09】 胶片还是数码：浅议摄影的「真实性」](https://sspai.com/post/78070)
 * [【2023-02-09】 年度征文 | 我用 Figma / Figside / 浩客，无代码搭了个人官网](https://sspai.com/post/78088)
-* [【2023-02-09】 派早报：佳能发布 EOS 系列新品、任天堂召开新一轮直面会等](https://sspai.com/post/78203)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-11 05:11:53
+:alarm_clock: 更新时间: 2023-02-12 05:12:13
