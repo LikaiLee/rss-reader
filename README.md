@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-02-13】 年度征文 | 自由职业三年来的有趣工作，再谈谈我的松弛与踌躇](https://sspai.com/post/78247)
+* [【2023-02-13】 派早报：国内互联网公司接连宣布 AI 计划，QQ 称服务器被祝寿队伍挤爆](https://sspai.com/post/78257)
+* [【2023-02-12】 年度征文 | 新的一年，好好走路](https://sspai.com/post/78156)
 * [【2023-02-11】 引导小朋友正确使用电子产品，你可以这样设置他们的 Apple 设备](https://sspai.com/post/78242)
 * [【2023-02-10】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/78231)
 * [【2023-02-10】 倒数三个月重返海拉鲁，这是计划的一部分](https://sspai.com/post/78229)
@@ -42,9 +45,6 @@
 * [【2023-02-10】 年度征文 | SFX 与 VFX，我在过去的一年里研究了特效发展史](https://sspai.com/post/78126)
 * [【2023-02-10】 派早报：Android 14 发布首个开发者浏览版、大疆发布 Mini 2 SE 无人机等](https://sspai.com/post/78217)
 * [【2023-02-09】 新玩意 135｜少数派的作者们最近买了啥？](https://sspai.com/post/78204)
-* [【2023-02-09】 为什么你的 Android 系统比 Windows 还大？](https://sspai.com/post/78205)
-* [【2023-02-09】 胶片还是数码：浅议摄影的「真实性」](https://sspai.com/post/78070)
-* [【2023-02-09】 年度征文 | 我用 Figma / Figside / 浩客，无代码搭了个人官网](https://sspai.com/post/78088)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-02-13】 索尼精英手柄 DualSense Edge 正式上架，用户使用手感怎么样？](http://www.zhihu.com/question/568884529/answer/2890973885?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-13】 李培楠夺《星际争霸 2》2023 IEM 总冠军，成为中国该项目首位世界冠军，对此你有什么想说？](http://www.zhihu.com/question/583694151/answer/2890888585?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-13】 2023 LPL 春季赛小虎力挽狂澜 WBG 2:1 打破 JDG 不败金身，如何评价这场比赛？](http://www.zhihu.com/question/583444106/answer/2890374810?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-10】 如何评价密室逃脱游戏《回煞》？](http://www.zhihu.com/question/580778472/answer/2885355243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-10】 我的游戏圈九年：4次被动离职，2次调岗](http://zhuanlan.zhihu.com/p/604401139?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-09】 《三体》影视化究竟难在哪里？](http://www.zhihu.com/question/403175211/answer/2884898489?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-02-09】 为何有时热水结冰比冷水快？](http://www.zhihu.com/question/19615651/answer/2473705747?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-08】 如何评价密室逃脱游戏《鬼画师》？](http://www.zhihu.com/question/576663604/answer/2882668454?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-08】 景区中的沉浸式“剧本杀”到底是什么？](http://www.zhihu.com/question/582176803/answer/2881624655?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-07】 《一只 iPhone 的全球之旅》这本书怎么样？](http://www.zhihu.com/question/19862885/answer/2880951765?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-07】 如何评价密室逃脱游戏《11楼的钉子户》？](http://www.zhihu.com/question/571392336/answer/2881304320?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-07】 如何理解《时间看得见》一书中提到的微小积累和持续改变的力量？](http://www.zhihu.com/question/582015059/answer/2881091040?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-12 05:12:13
+:alarm_clock: 更新时间: 2023-02-13 05:12:43
