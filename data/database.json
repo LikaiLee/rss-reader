@@ -388,6 +388,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 音乐爱好者的自动化实践",
+                "link": "https://sspai.com/post/78255",
+                "published": "2023-02-14"
+            },
+            {
+                "title": "派早报：iOS 16.3.1 等更新发布，联想 ThinkBook 14+ 2023 锐龙版公布等",
+                "link": "https://sspai.com/post/78295",
+                "published": "2023-02-14"
+            },
+            {
+                "title": "评论有奖 | 掌握命令行工具，成为让 14 亿 Windows 用户羡慕的效率高手",
+                "link": "https://sspai.com/post/78271",
+                "published": "2023-02-13"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/78287",
+                "published": "2023-02-13"
+            },
+            {
+                "title": "年度征文 | 一份写给「所有人」的「出柜指南」",
+                "link": "https://sspai.com/post/78172",
+                "published": "2023-02-13"
+            },
+            {
+                "title": "让鲜花替你说出「月色真美」，你可能需要这份送花指南",
+                "link": "https://sspai.com/post/78202",
+                "published": "2023-02-13"
+            },
+            {
                 "title": "年度征文 | 自由职业三年来的有趣工作，再谈谈我的松弛与踌躇",
                 "link": "https://sspai.com/post/78247",
                 "published": "2023-02-13"
@@ -10383,7 +10413,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -40838,6 +40868,21 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "如何评价《中国奇谭》第八集《玉兔》?",
+                "link": "http://www.zhihu.com/question/579004908/answer/2891354129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-13"
+            },
+            {
+                "title": "如何评价密室逃脱游戏《PK游戏》？",
+                "link": "http://www.zhihu.com/question/567240458/answer/2890999926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-13"
+            },
+            {
+                "title": "剧版《三体》古筝行动的视觉效果怎么样？符合你的预期吗？",
+                "link": "http://www.zhihu.com/question/582596812/answer/2891084718?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-13"
+            },
             {
                 "title": "索尼精英手柄 DualSense Edge 正式上架，用户使用手感怎么样？",
                 "link": "http://www.zhihu.com/question/568884529/answer/2890973885?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
