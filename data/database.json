@@ -388,6 +388,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 把阅读作为方法：从选书到笔记的经验分享",
+                "link": "https://sspai.com/post/78133",
+                "published": "2023-02-15"
+            },
+            {
+                "title": "派早报：三星 Galaxy S23 系列国行版发布、特斯拉京东官方旗舰店上线等",
+                "link": "https://sspai.com/post/78328",
+                "published": "2023-02-15"
+            },
+            {
+                "title": "是谁让乔布斯想要发动核战争？",
+                "link": "https://sspai.com/post/78294",
+                "published": "2023-02-14"
+            },
+            {
+                "title": "还在担心自己准备的情人节惊喜变成惊吓？不如看看这 22 个故事",
+                "link": "https://sspai.com/post/78309",
+                "published": "2023-02-14"
+            },
+            {
+                "title": "漫威电影重回院线，去看《蚁人》之前你需要补习哪些知识？",
+                "link": "https://sspai.com/post/78311",
+                "published": "2023-02-14"
+            },
+            {
+                "title": "播客 | 阿迪达斯 vs. 耐克：体育商业巨头的足球战争",
+                "link": "https://sspai.com/post/78214",
+                "published": "2023-02-14"
+            },
+            {
                 "title": "年度征文 | 音乐爱好者的自动化实践",
                 "link": "https://sspai.com/post/78255",
                 "published": "2023-02-14"
@@ -40869,6 +40899,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价密室逃脱游戏主题《Mary I》？",
+                "link": "http://www.zhihu.com/question/583582025/answer/2893152963?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-15"
+            },
+            {
                 "title": "如何评价《中国奇谭》第八集《玉兔》?",
                 "link": "http://www.zhihu.com/question/579004908/answer/2891354129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-13"
@@ -47404,7 +47439,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,
