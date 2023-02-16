@@ -388,6 +388,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 2023 年，为自己最重要的财富和奢侈品做一些保养",
+                "link": "https://sspai.com/post/77970",
+                "published": "2023-02-16"
+            },
+            {
+                "title": "派早报：联想小新发布 2023 新品、高通推出骁龙 X75 芯片等",
+                "link": "https://sspai.com/post/78346",
+                "published": "2023-02-16"
+            },
+            {
+                "title": "家用咖啡手册 01 |  咖啡种类这么多，到底有什么不同？",
+                "link": "https://sspai.com/post/78230",
+                "published": "2023-02-15"
+            },
+            {
+                "title": "正确认识、高效利用：如何成为 ChatGPT 的受益者？",
+                "link": "https://sspai.com/post/78289",
+                "published": "2023-02-15"
+            },
+            {
+                "title": "放过微信放过自己，跨设备传文件还有这些姿势",
+                "link": "https://sspai.com/post/78334",
+                "published": "2023-02-15"
+            },
+            {
                 "title": "年度征文 | 把阅读作为方法：从选书到笔记的经验分享",
                 "link": "https://sspai.com/post/78133",
                 "published": "2023-02-15"
@@ -10443,7 +10468,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -40898,6 +40923,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "获得科幻小说《光年奖》是什么体验？如何投稿？",
+                "link": "http://www.zhihu.com/question/582286677/answer/2895144054?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-16"
+            },
             {
                 "title": "如何评价密室逃脱游戏主题《Mary I》？",
                 "link": "http://www.zhihu.com/question/583582025/answer/2893152963?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",

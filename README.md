@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-02-16】 年度征文 | 2023 年，为自己最重要的财富和奢侈品做一些保养](https://sspai.com/post/77970)
+* [【2023-02-16】 派早报：联想小新发布 2023 新品、高通推出骁龙 X75 芯片等](https://sspai.com/post/78346)
+* [【2023-02-15】 家用咖啡手册 01 |  咖啡种类这么多，到底有什么不同？](https://sspai.com/post/78230)
+* [【2023-02-15】 正确认识、高效利用：如何成为 ChatGPT 的受益者？](https://sspai.com/post/78289)
+* [【2023-02-15】 放过微信放过自己，跨设备传文件还有这些姿势](https://sspai.com/post/78334)
 * [【2023-02-15】 年度征文 | 把阅读作为方法：从选书到笔记的经验分享](https://sspai.com/post/78133)
 * [【2023-02-15】 派早报：三星 Galaxy S23 系列国行版发布、特斯拉京东官方旗舰店上线等](https://sspai.com/post/78328)
 * [【2023-02-14】 是谁让乔布斯想要发动核战争？](https://sspai.com/post/78294)
 * [【2023-02-14】 还在担心自己准备的情人节惊喜变成惊吓？不如看看这 22 个故事](https://sspai.com/post/78309)
 * [【2023-02-14】 漫威电影重回院线，去看《蚁人》之前你需要补习哪些知识？](https://sspai.com/post/78311)
-* [【2023-02-14】 播客 | 阿迪达斯 vs. 耐克：体育商业巨头的足球战争](https://sspai.com/post/78214)
-* [【2023-02-14】 年度征文 | 音乐爱好者的自动化实践](https://sspai.com/post/78255)
-* [【2023-02-14】 派早报：iOS 16.3.1 等更新发布，联想 ThinkBook 14+ 2023 锐龙版公布等](https://sspai.com/post/78295)
-* [【2023-02-13】 评论有奖 | 掌握命令行工具，成为让 14 亿 Windows 用户羡慕的效率高手](https://sspai.com/post/78271)
-* [【2023-02-13】 派评 | 近期值得关注的 App](https://sspai.com/post/78287)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-02-16】 获得科幻小说《光年奖》是什么体验？如何投稿？](http://www.zhihu.com/question/582286677/answer/2895144054?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-15】 如何评价密室逃脱游戏主题《Mary I》？](http://www.zhihu.com/question/583582025/answer/2893152963?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-13】 如何评价《中国奇谭》第八集《玉兔》?](http://www.zhihu.com/question/579004908/answer/2891354129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-13】 如何评价密室逃脱游戏《PK游戏》？](http://www.zhihu.com/question/567240458/answer/2890999926?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-02-13】 2023 LPL 春季赛小虎力挽狂澜 WBG 2:1 打破 JDG 不败金身，如何评价这场比赛？](http://www.zhihu.com/question/583444106/answer/2890374810?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-10】 如何评价密室逃脱游戏《回煞》？](http://www.zhihu.com/question/580778472/answer/2885355243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-10】 我的游戏圈九年：4次被动离职，2次调岗](http://zhuanlan.zhihu.com/p/604401139?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-09】 《三体》影视化究竟难在哪里？](http://www.zhihu.com/question/403175211/answer/2884898489?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-15 05:13:04
+:alarm_clock: 更新时间: 2023-02-16 05:12:45
