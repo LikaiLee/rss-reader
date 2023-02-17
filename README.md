@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+3】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-02-17】 科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html)
 * [【2023-02-10】 科技爱好者周刊（第 241 期）：中国的增长动力在内陆](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html)
 * [【2023-02-03】 科技爱好者周刊（第 240 期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html)
 * [【2023-01-13】 科技爱好者周刊（第 239 期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html)
@@ -25,7 +26,6 @@
 * [【2022-12-16】 科技爱好者周刊（第 235 期）：青年失业率与选择创业](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html)
 * [【2022-12-09】 科技爱好者周刊（第 234 期）：AI 聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html)
 * [【2022-12-02】 科技爱好者周刊（第 233 期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)
-* [【2022-11-25】 科技爱好者周刊（第 232 期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-02-17】 年度征文 | 迈向笔记终点](https://sspai.com/post/78322)
+* [【2023-02-17】 派早报：Github Copilot 将提供更高质量的代码建议、联发科发布天玑 7200 处理器等](https://sspai.com/post/78362)
+* [【2023-02-16】 年度征文 | 能带来「松弛感」的摄影好伴侣：索尼 A7C+FE 85mm f/1.8](https://sspai.com/post/78127)
+* [【2023-02-16】 万字解析 | 拾起被遗忘的魔杖，用 Windows 命令行工具开启效率世界](https://sspai.com/post/78249)
+* [【2023-02-16】 城市漫步指南：在皇后镇体验极限运动](https://sspai.com/post/78354)
 * [【2023-02-16】 年度征文 | 2023 年，为自己最重要的财富和奢侈品做一些保养](https://sspai.com/post/77970)
 * [【2023-02-16】 派早报：联想小新发布 2023 新品、高通推出骁龙 X75 芯片等](https://sspai.com/post/78346)
 * [【2023-02-15】 家用咖啡手册 01 |  咖啡种类这么多，到底有什么不同？](https://sspai.com/post/78230)
 * [【2023-02-15】 正确认识、高效利用：如何成为 ChatGPT 的受益者？](https://sspai.com/post/78289)
 * [【2023-02-15】 放过微信放过自己，跨设备传文件还有这些姿势](https://sspai.com/post/78334)
-* [【2023-02-15】 年度征文 | 把阅读作为方法：从选书到笔记的经验分享](https://sspai.com/post/78133)
-* [【2023-02-15】 派早报：三星 Galaxy S23 系列国行版发布、特斯拉京东官方旗舰店上线等](https://sspai.com/post/78328)
-* [【2023-02-14】 是谁让乔布斯想要发动核战争？](https://sspai.com/post/78294)
-* [【2023-02-14】 还在担心自己准备的情人节惊喜变成惊吓？不如看看这 22 个故事](https://sspai.com/post/78309)
-* [【2023-02-14】 漫威电影重回院线，去看《蚁人》之前你需要补习哪些知识？](https://sspai.com/post/78311)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-02-16】 中国科幻影视作品应该如何讲好「中国故事」？](http://www.zhihu.com/question/584414028/answer/2896427086?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-16】 2023年春节，那些长途开电车回家过年的人怎么样了？](http://www.zhihu.com/question/578828824/answer/2856952441?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-16】 谁拖了中国ChatGPT的后腿？](http://zhuanlan.zhihu.com/p/606783495?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-16】 获得科幻小说《光年奖》是什么体验？如何投稿？](http://www.zhihu.com/question/582286677/answer/2895144054?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-15】 如何评价密室逃脱游戏主题《Mary I》？](http://www.zhihu.com/question/583582025/answer/2893152963?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-13】 如何评价《中国奇谭》第八集《玉兔》?](http://www.zhihu.com/question/579004908/answer/2891354129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-02-13】 剧版《三体》古筝行动的视觉效果怎么样？符合你的预期吗？](http://www.zhihu.com/question/582596812/answer/2891084718?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-13】 索尼精英手柄 DualSense Edge 正式上架，用户使用手感怎么样？](http://www.zhihu.com/question/568884529/answer/2890973885?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-13】 李培楠夺《星际争霸 2》2023 IEM 总冠军，成为中国该项目首位世界冠军，对此你有什么想说？](http://www.zhihu.com/question/583694151/answer/2890888585?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-13】 2023 LPL 春季赛小虎力挽狂澜 WBG 2:1 打破 JDG 不败金身，如何评价这场比赛？](http://www.zhihu.com/question/583444106/answer/2890374810?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-10】 如何评价密室逃脱游戏《回煞》？](http://www.zhihu.com/question/580778472/answer/2885355243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-10】 我的游戏圈九年：4次被动离职，2次调岗](http://zhuanlan.zhihu.com/p/604401139?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2023-02-16】 好工具周刊（第 48 期）: ProfileMe, Box Shadows for TailwindCSS, Shapecatcher, Immersive Translate, ...](https://bestxtools.zhubai.love/posts/2237946902123864064)
 * [【2023-02-09】 好工具周刊（第 47 期）: 我最喜欢且常用的浏览器插件 - Vimium, AdBlock, uBlacklist, Tampermonkey, Stylus, MarkDownload, ...](https://bestxtools.zhubai.love/posts/2235408322050158592)
 * [【2023-01-19】 好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具 / The Best X Tools 2022 / 和抽奖活动](https://bestxtools.zhubai.love/posts/2227788146916585472)
 * [【2023-01-13】 好工具周刊（第 45 期）: CSS Specificity Calculator, Vim Online, Smooth Shadow, Patternify, Icons Pattern, ...](https://bestxtools.zhubai.love/posts/2225492315366248448)
@@ -101,7 +102,6 @@
 * [【2022-12-29】 好工具周刊（第 43 期）: 亲戚称谓计算器, 地铁数据库, Mozilla Observatory, Web Developer Checklist, jqplay, ...](https://bestxtools.zhubai.love/posts/2220148863686438912)
 * [【2022-12-22】 好工具周刊（第 42 期）: AnyWebP, VirScan, 聊聊, Maze Generator, 小学生口算题生成程序, 田字格字帖生成器, 追踪圣诞老人](https://bestxtools.zhubai.love/posts/2217542996243800064)
 * [【2022-12-08】 好工具周刊（第 41 期）: SmartyNames, Rayst Domains, Screenshot.Rocks, Magic Mockups, ApiFlash, 竹白百科, sssbar](https://bestxtools.zhubai.love/posts/2212546213424480256)
-* [【2022-12-01】 好工具周刊（第 40 期）: Sort Visualizer, Quick Reference, Compare OSS Projects, Random User Generator, ...](https://bestxtools.zhubai.love/posts/2210024210603786240)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-16 05:12:45
+:alarm_clock: 更新时间: 2023-02-17 05:12:49

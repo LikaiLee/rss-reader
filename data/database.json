@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑",
+                "link": "http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html",
+                "published": "2023-02-17"
+            },
+            {
                 "title": "科技爱好者周刊（第 241 期）：中国的增长动力在内陆",
                 "link": "http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html",
                 "published": "2023-02-10"
@@ -380,13 +385,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "年度征文 | 迈向笔记终点",
+                "link": "https://sspai.com/post/78322",
+                "published": "2023-02-17"
+            },
+            {
+                "title": "派早报：Github Copilot 将提供更高质量的代码建议、联发科发布天玑 7200 处理器等",
+                "link": "https://sspai.com/post/78362",
+                "published": "2023-02-17"
+            },
+            {
+                "title": "年度征文 | 能带来「松弛感」的摄影好伴侣：索尼 A7C+FE 85mm f/1.8",
+                "link": "https://sspai.com/post/78127",
+                "published": "2023-02-16"
+            },
+            {
+                "title": "万字解析 | 拾起被遗忘的魔杖，用 Windows 命令行工具开启效率世界",
+                "link": "https://sspai.com/post/78249",
+                "published": "2023-02-16"
+            },
+            {
+                "title": "城市漫步指南：在皇后镇体验极限运动",
+                "link": "https://sspai.com/post/78354",
+                "published": "2023-02-16"
+            },
             {
                 "title": "年度征文 | 2023 年，为自己最重要的财富和奢侈品做一些保养",
                 "link": "https://sspai.com/post/77970",
@@ -40924,6 +40954,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "中国科幻影视作品应该如何讲好「中国故事」？",
+                "link": "http://www.zhihu.com/question/584414028/answer/2896427086?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-16"
+            },
+            {
+                "title": "2023年春节，那些长途开电车回家过年的人怎么样了？",
+                "link": "http://www.zhihu.com/question/578828824/answer/2856952441?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-16"
+            },
+            {
+                "title": "谁拖了中国ChatGPT的后腿？",
+                "link": "http://zhuanlan.zhihu.com/p/606783495?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-16"
+            },
+            {
                 "title": "获得科幻小说《光年奖》是什么体验？如何投稿？",
                 "link": "http://www.zhihu.com/question/582286677/answer/2895144054?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-16"
@@ -47469,13 +47514,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 48 期）: ProfileMe, Box Shadows for TailwindCSS, Shapecatcher, Immersive Translate, ...",
+                "link": "https://bestxtools.zhubai.love/posts/2237946902123864064",
+                "published": "2023-02-16"
+            },
             {
                 "title": "好工具周刊（第 47 期）: 我最喜欢且常用的浏览器插件 - Vimium, AdBlock, uBlacklist, Tampermonkey, Stylus, MarkDownload, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2235408322050158592",
@@ -47727,6 +47777,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
