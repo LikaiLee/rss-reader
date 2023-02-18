@@ -385,13 +385,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 5 部作品",
+                "link": "https://sspai.com/post/78372",
+                "published": "2023-02-17"
+            },
+            {
+                "title": "通知：「新年 flag」想要重新添加你为联系人",
+                "link": "https://sspai.com/post/78370",
+                "published": "2023-02-17"
+            },
+            {
+                "title": "年度征文 | 失恋自愈实录，分离未必是最坏的选择",
+                "link": "https://sspai.com/post/78324",
+                "published": "2023-02-17"
+            },
             {
                 "title": "年度征文 | 迈向笔记终点",
                 "link": "https://sspai.com/post/78322",
@@ -10498,7 +10513,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -40954,6 +40969,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "纯电动汽车怎么开最省电？",
+                "link": "http://www.zhihu.com/question/579217845/answer/2882502141?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-17"
+            },
+            {
+                "title": "买车之后，你发现一年在车身上花的钱大概有多少？",
+                "link": "http://www.zhihu.com/question/579251472/answer/2858579494?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-17"
+            },
+            {
+                "title": "明明知道开长途很累，为什么大家还是喜欢开车回家过年？",
+                "link": "http://www.zhihu.com/question/579246861/answer/2859377568?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-17"
+            },
+            {
+                "title": "游戏《霍格沃茨之遗》有什么隐藏攻略?",
+                "link": "http://www.zhihu.com/question/584384141/answer/2896168882?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-17"
+            },
+            {
                 "title": "中国科幻影视作品应该如何讲好「中国故事」？",
                 "link": "http://www.zhihu.com/question/584414028/answer/2896427086?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-16"
@@ -47514,7 +47549,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 4,
@@ -47777,6 +47812,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
