@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-02-18】 獭獭请你来投票：2022 年度征文入围作品汇总](https://sspai.com/post/78381)
 * [【2023-02-17】 本周看什么 | 最近值得一看的 5 部作品](https://sspai.com/post/78372)
 * [【2023-02-17】 通知：「新年 flag」想要重新添加你为联系人](https://sspai.com/post/78370)
 * [【2023-02-17】 年度征文 | 失恋自愈实录，分离未必是最坏的选择](https://sspai.com/post/78324)
@@ -44,7 +45,6 @@
 * [【2023-02-16】 万字解析 | 拾起被遗忘的魔杖，用 Windows 命令行工具开启效率世界](https://sspai.com/post/78249)
 * [【2023-02-16】 城市漫步指南：在皇后镇体验极限运动](https://sspai.com/post/78354)
 * [【2023-02-16】 年度征文 | 2023 年，为自己最重要的财富和奢侈品做一些保养](https://sspai.com/post/77970)
-* [【2023-02-16】 派早报：联想小新发布 2023 新品、高通推出骁龙 X75 芯片等](https://sspai.com/post/78346)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-18 05:11:43
+:alarm_clock: 更新时间: 2023-02-19 05:12:02
