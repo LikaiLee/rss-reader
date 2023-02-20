@@ -393,6 +393,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "家庭园艺入门指南（上）——新手上路",
+                "link": "https://sspai.com/prime/story/gardening-at-home-1",
+                "published": "2023-02-20"
+            },
+            {
+                "title": "派早报：微软限制新版必应连续问答，Facebook 和 Instagram 将提供有偿认证服务",
+                "link": "https://sspai.com/post/78393",
+                "published": "2023-02-20"
+            },
+            {
+                "title": "放下 Apple Watch，放弃一种叙事",
+                "link": "https://sspai.com/post/78368",
+                "published": "2023-02-19"
+            },
+            {
                 "title": "獭獭请你来投票：2022 年度征文入围作品汇总",
                 "link": "https://sspai.com/post/78381",
                 "published": "2023-02-18"
@@ -10518,7 +10533,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -40974,6 +40989,46 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何看待游戏《最后生还者2》的故事和它的叙事手法？",
+                "link": "http://www.zhihu.com/question/401568893/answer/2897688065?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-19"
+            },
+            {
+                "title": "「游戏分析」001：逃离塔科夫",
+                "link": "http://zhuanlan.zhihu.com/p/358015881?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-19"
+            },
+            {
+                "title": "【关卡设计笔记 002】漫谈线性、多线及开放关卡",
+                "link": "http://zhuanlan.zhihu.com/p/451637356?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-19"
+            },
+            {
+                "title": "【关卡设计笔记 001】360° Approach 概览",
+                "link": "http://zhuanlan.zhihu.com/p/447567993?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-19"
+            },
+            {
+                "title": "一个哲学视角：武器手感的产生与定义",
+                "link": "http://zhuanlan.zhihu.com/p/485619693?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-19"
+            },
+            {
+                "title": "【策划向】全景解构射击游戏枪械设计——数值篇",
+                "link": "http://zhuanlan.zhihu.com/p/466420744?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-19"
+            },
+            {
+                "title": "【策划向】全景解构射击游戏枪械设计——表现/手感篇",
+                "link": "http://zhuanlan.zhihu.com/p/567528044?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-19"
+            },
+            {
+                "title": "“追求平滑！”——针对射击游戏中吸附类/阻尼类辅助瞄准的平滑性优化探索",
+                "link": "http://zhuanlan.zhihu.com/p/591802567?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-19"
+            },
+            {
                 "title": "纯电动汽车怎么开最省电？",
                 "link": "http://www.zhihu.com/question/579217845/answer/2882502141?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-17"
@@ -47554,7 +47609,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 8
     },
     {
         "id": 4,

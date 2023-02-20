@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+8】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-02-20】 家庭园艺入门指南（上）——新手上路](https://sspai.com/prime/story/gardening-at-home-1)
+* [【2023-02-20】 派早报：微软限制新版必应连续问答，Facebook 和 Instagram 将提供有偿认证服务](https://sspai.com/post/78393)
+* [【2023-02-19】 放下 Apple Watch，放弃一种叙事](https://sspai.com/post/78368)
 * [【2023-02-18】 獭獭请你来投票：2022 年度征文入围作品汇总](https://sspai.com/post/78381)
 * [【2023-02-17】 本周看什么 | 最近值得一看的 5 部作品](https://sspai.com/post/78372)
 * [【2023-02-17】 通知：「新年 flag」想要重新添加你为联系人](https://sspai.com/post/78370)
@@ -42,9 +45,6 @@
 * [【2023-02-17】 年度征文 | 迈向笔记终点](https://sspai.com/post/78322)
 * [【2023-02-17】 派早报：Github Copilot 将提供更高质量的代码建议、联发科发布天玑 7200 处理器等](https://sspai.com/post/78362)
 * [【2023-02-16】 年度征文 | 能带来「松弛感」的摄影好伴侣：索尼 A7C+FE 85mm f/1.8](https://sspai.com/post/78127)
-* [【2023-02-16】 万字解析 | 拾起被遗忘的魔杖，用 Windows 命令行工具开启效率世界](https://sspai.com/post/78249)
-* [【2023-02-16】 城市漫步指南：在皇后镇体验极限运动](https://sspai.com/post/78354)
-* [【2023-02-16】 年度征文 | 2023 年，为自己最重要的财富和奢侈品做一些保养](https://sspai.com/post/77970)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-02-19】 如何看待游戏《最后生还者2》的故事和它的叙事手法？](http://www.zhihu.com/question/401568893/answer/2897688065?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-19】 「游戏分析」001：逃离塔科夫](http://zhuanlan.zhihu.com/p/358015881?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-19】 【关卡设计笔记 002】漫谈线性、多线及开放关卡](http://zhuanlan.zhihu.com/p/451637356?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-19】 【关卡设计笔记 001】360° Approach 概览](http://zhuanlan.zhihu.com/p/447567993?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-19】 一个哲学视角：武器手感的产生与定义](http://zhuanlan.zhihu.com/p/485619693?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-19】 【策划向】全景解构射击游戏枪械设计——数值篇](http://zhuanlan.zhihu.com/p/466420744?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-19】 【策划向】全景解构射击游戏枪械设计——表现/手感篇](http://zhuanlan.zhihu.com/p/567528044?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-02-19】 “追求平滑！”——针对射击游戏中吸附类/阻尼类辅助瞄准的平滑性优化探索](http://zhuanlan.zhihu.com/p/591802567?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-17】 纯电动汽车怎么开最省电？](http://www.zhihu.com/question/579217845/answer/2882502141?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-02-17】 买车之后，你发现一年在车身上花的钱大概有多少？](http://www.zhihu.com/question/579251472/answer/2858579494?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-17】 明明知道开长途很累，为什么大家还是喜欢开车回家过年？](http://www.zhihu.com/question/579246861/answer/2859377568?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-17】 游戏《霍格沃茨之遗》有什么隐藏攻略?](http://www.zhihu.com/question/584384141/answer/2896168882?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-16】 中国科幻影视作品应该如何讲好「中国故事」？](http://www.zhihu.com/question/584414028/answer/2896427086?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-16】 2023年春节，那些长途开电车回家过年的人怎么样了？](http://www.zhihu.com/question/578828824/answer/2856952441?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-16】 谁拖了中国ChatGPT的后腿？](http://zhuanlan.zhihu.com/p/606783495?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-16】 获得科幻小说《光年奖》是什么体验？如何投稿？](http://www.zhihu.com/question/582286677/answer/2895144054?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-15】 如何评价密室逃脱游戏主题《Mary I》？](http://www.zhihu.com/question/583582025/answer/2893152963?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-02-13】 如何评价《中国奇谭》第八集《玉兔》?](http://www.zhihu.com/question/579004908/answer/2891354129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-19 05:12:02
+:alarm_clock: 更新时间: 2023-02-20 05:12:59
