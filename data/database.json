@@ -393,6 +393,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "汉语查询指南",
+                "link": "https://sspai.com/prime/story/vol020-im-chinese",
+                "published": "2023-02-21"
+            },
+            {
+                "title": "派早报：新版 Edge 补丁永久禁用 IE11，Outlook 邮箱垃圾邮件过滤失效等",
+                "link": "https://sspai.com/post/78432",
+                "published": "2023-02-21"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/78422",
+                "published": "2023-02-20"
+            },
+            {
+                "title": "插队体验新版 Bing 之余，也别忘了 Edge 的实用小功能",
+                "link": "https://sspai.com/post/78417",
+                "published": "2023-02-20"
+            },
+            {
                 "title": "家庭园艺入门指南（上）——新手上路",
                 "link": "https://sspai.com/prime/story/gardening-at-home-1",
                 "published": "2023-02-20"
@@ -10533,7 +10553,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -40989,6 +41009,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "真正懂车的人，最后都买了什么车？",
+                "link": "http://www.zhihu.com/question/574820170/answer/2874509632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-21"
+            },
+            {
+                "title": "银河奖获奖作家张冉的科幻小说《太阳坠落之时》怎么样？",
+                "link": "http://www.zhihu.com/question/35366076/answer/2901609154?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-20"
+            },
+            {
                 "title": "如何看待游戏《最后生还者2》的故事和它的叙事手法？",
                 "link": "http://www.zhihu.com/question/401568893/answer/2897688065?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-19"
@@ -47609,7 +47639,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 2
     },
     {
         "id": 4,
