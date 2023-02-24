@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 243 期）：与孔子 AI 聊天",
+                "link": "http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html",
+                "published": "2023-02-24"
+            },
+            {
                 "title": "科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑",
                 "link": "http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html",
                 "published": "2023-02-17"
@@ -385,13 +390,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "从推送、书影音到笔记、自动化：让这些自部署服务，给你应有的数据掌控权",
+                "link": "https://sspai.com/post/78424",
+                "published": "2023-02-24"
+            },
+            {
+                "title": "派早报：奔驰推出新款车机系统 MB.OS、Notion 推出 Notion AI 功能等",
+                "link": "https://sspai.com/post/78483",
+                "published": "2023-02-24"
+            },
+            {
+                "title": "新玩意 136｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/78478",
+                "published": "2023-02-23"
+            },
+            {
+                "title": "隐私保护的第一道防线：破解马赛克有多「容易」？",
+                "link": "https://sspai.com/post/78474",
+                "published": "2023-02-23"
+            },
+            {
+                "title": "用 Tyme 跟踪六年时间，我从自我管理中学到了什么",
+                "link": "https://sspai.com/post/78451",
+                "published": "2023-02-23"
+            },
             {
                 "title": "评论有奖｜80 后到 00 后，他们在用 PiPods 听……",
                 "link": "https://sspai.com/post/78464",
@@ -41049,6 +41079,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《左手上篮》开播，前五集有哪些看点值得分享？",
+                "link": "http://www.zhihu.com/question/581850411/answer/2908655592?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-24"
+            },
+            {
+                "title": "如何评价密室逃脱游戏主题《僵尸》？",
+                "link": "http://www.zhihu.com/question/585584561/answer/2906290538?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-23"
+            },
+            {
+                "title": "MWC 2023 有哪些值得期待的新产品和新技术？",
+                "link": "http://www.zhihu.com/question/585363485/answer/2904226785?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-23"
+            },
+            {
+                "title": "获得科幻小说「冷湖奖」是什么体验？如何投稿？",
+                "link": "http://www.zhihu.com/question/584704164/answer/2906172910?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-23"
+            },
+            {
                 "title": "特斯拉 HW4.0 的配置怎么样？",
                 "link": "http://www.zhihu.com/question/553929494/answer/2903121732?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-22"
@@ -47709,13 +47759,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 49 期）: StatiCrypt, OnetimeSecret, paint-board, Graphy, Logggos, Pole Clock, tree.fm",
+                "link": "https://bestxtools.zhubai.love/posts/2240480765706440704",
+                "published": "2023-02-23"
+            },
             {
                 "title": "好工具周刊（第 48 期）: ProfileMe, Box Shadows for TailwindCSS, Shapecatcher, Immersive Translate, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2237946902123864064",
@@ -47972,6 +48027,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
