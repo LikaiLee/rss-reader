@@ -390,13 +390,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/78495",
+                "published": "2023-02-24"
+            },
+            {
+                "title": "出国旅行少不了这 7 件好物：我的旅行必备清单",
+                "link": "https://sspai.com/post/78492",
+                "published": "2023-02-24"
+            },
+            {
+                "title": "守护数字世界的另一把钥匙：安全密钥详解",
+                "link": "https://sspai.com/post/78479",
+                "published": "2023-02-24"
+            },
             {
                 "title": "从推送、书影音到笔记、自动化：让这些自部署服务，给你应有的数据掌控权",
                 "link": "https://sspai.com/post/78424",
@@ -10623,7 +10638,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -41079,6 +41094,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "动画《左手上篮》开播，前五集有哪些看点值得分享，篮球迷们如何看待这部动画？",
+                "link": "http://www.zhihu.com/question/581850411/answer/2908655592?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-24"
+            },
+            {
                 "title": "《左手上篮》开播，前五集有哪些看点值得分享？",
                 "link": "http://www.zhihu.com/question/581850411/answer/2908655592?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-24"
@@ -47759,7 +47779,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 4,
@@ -48027,6 +48047,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
