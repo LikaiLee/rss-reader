@@ -398,6 +398,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从看热闹到看门道，如何以设计者的角度看世界？",
+                "link": "https://sspai.com/post/73962",
+                "published": "2023-02-25"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 8 部作品",
                 "link": "https://sspai.com/post/78495",
                 "published": "2023-02-24"
@@ -10638,7 +10643,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -41094,6 +41099,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "为什么好玩？卖出2000多万份的RPG沙盒《英灵神殿》万字拆解",
+                "link": "http://zhuanlan.zhihu.com/p/609285323?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-25"
+            },
+            {
+                "title": "宁德时代向车企推出锂矿返利计划，这对市场会造成哪些影响？",
+                "link": "http://www.zhihu.com/question/584605829/answer/2910661986?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-25"
+            },
+            {
+                "title": "如何成为游戏关卡设计师（level designer）？",
+                "link": "http://www.zhihu.com/question/23404306/answer/2909658162?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-25"
+            },
+            {
                 "title": "动画《左手上篮》开播，前五集有哪些看点值得分享，篮球迷们如何看待这部动画？",
                 "link": "http://www.zhihu.com/question/581850411/answer/2908655592?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-24"
@@ -47779,7 +47799,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 4,
