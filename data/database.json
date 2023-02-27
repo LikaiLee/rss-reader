@@ -398,6 +398,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "小巧灵活，高效可靠，Windows 快捷分屏应用：GridMove",
+                "link": "https://sspai.com/post/75557",
+                "published": "2023-02-27"
+            },
+            {
+                "title": "派早报：推特关闭内部 Slack，YouTube 为付费用户提供高码率 1080p 选项",
+                "link": "https://sspai.com/post/78517",
+                "published": "2023-02-27"
+            },
+            {
+                "title": "用了小米 13 两个月，我还有什么好抱怨的？",
+                "link": "https://sspai.com/post/78518",
+                "published": "2023-02-26"
+            },
+            {
                 "title": "从看热闹到看门道，如何以设计者的角度看世界？",
                 "link": "https://sspai.com/post/73962",
                 "published": "2023-02-25"
@@ -10643,7 +10658,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -41099,6 +41114,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《影子战术：将军之刃》典型关卡分析",
+                "link": "http://zhuanlan.zhihu.com/p/606362461?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-26"
+            },
+            {
                 "title": "为什么好玩？卖出2000多万份的RPG沙盒《英灵神殿》万字拆解",
                 "link": "http://zhuanlan.zhihu.com/p/609285323?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-25"
@@ -47799,7 +47819,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,
