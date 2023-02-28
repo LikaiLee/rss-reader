@@ -398,6 +398,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "2022 哪些专辑值得听？我们从专业媒体选了这七张",
+                "link": "https://sspai.com/post/78552",
+                "published": "2023-02-28"
+            },
+            {
+                "title": "派早报：国行三星 Galaxy Watch ECG 过审，小米展示无线 AR 眼镜等",
+                "link": "https://sspai.com/post/78550",
+                "published": "2023-02-28"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/78535",
+                "published": "2023-02-27"
+            },
+            {
+                "title": "家用咖啡手册 02 | 怎样选择合适自己的意式咖啡机",
+                "link": "https://sspai.com/post/78524",
+                "published": "2023-02-27"
+            },
+            {
                 "title": "小巧灵活，高效可靠，Windows 快捷分屏应用：GridMove",
                 "link": "https://sspai.com/post/75557",
                 "published": "2023-02-27"
@@ -10658,7 +10678,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -47819,7 +47839,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

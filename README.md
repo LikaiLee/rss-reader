@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-02-28】 2022 哪些专辑值得听？我们从专业媒体选了这七张](https://sspai.com/post/78552)
+* [【2023-02-28】 派早报：国行三星 Galaxy Watch ECG 过审，小米展示无线 AR 眼镜等](https://sspai.com/post/78550)
+* [【2023-02-27】 派评 | 近期值得关注的 App](https://sspai.com/post/78535)
+* [【2023-02-27】 家用咖啡手册 02 | 怎样选择合适自己的意式咖啡机](https://sspai.com/post/78524)
 * [【2023-02-27】 小巧灵活，高效可靠，Windows 快捷分屏应用：GridMove](https://sspai.com/post/75557)
 * [【2023-02-27】 派早报：推特关闭内部 Slack，YouTube 为付费用户提供高码率 1080p 选项](https://sspai.com/post/78517)
 * [【2023-02-26】 用了小米 13 两个月，我还有什么好抱怨的？](https://sspai.com/post/78518)
 * [【2023-02-25】 从看热闹到看门道，如何以设计者的角度看世界？](https://sspai.com/post/73962)
 * [【2023-02-24】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/78495)
 * [【2023-02-24】 出国旅行少不了这 7 件好物：我的旅行必备清单](https://sspai.com/post/78492)
-* [【2023-02-24】 守护数字世界的另一把钥匙：安全密钥详解](https://sspai.com/post/78479)
-* [【2023-02-24】 从推送、书影音到笔记、自动化：让这些自部署服务，给你应有的数据掌控权](https://sspai.com/post/78424)
-* [【2023-02-24】 派早报：奔驰推出新款车机系统 MB.OS、Notion 推出 Notion AI 功能等](https://sspai.com/post/78483)
-* [【2023-02-23】 新玩意 136｜少数派的编辑们最近买了啥？](https://sspai.com/post/78478)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-02-27 05:12:52
+:alarm_clock: 更新时间: 2023-02-28 05:13:02
