@@ -398,6 +398,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我做了一个「咒语库」，帮你从提示词入手用好 ChatGPT",
+                "link": "https://sspai.com/post/78581",
+                "published": "2023-03-01"
+            },
+            {
+                "title": "派早报：微软发布 Windows 11 更新、索尼推出 Float Run 等三款新耳机等",
+                "link": "https://sspai.com/post/78573",
+                "published": "2023-03-01"
+            },
+            {
+                "title": "评论有奖 | LaTeX 学术写作实用手册：抛开格式烦恼，进入写作心流",
+                "link": "https://sspai.com/post/78549",
+                "published": "2023-02-28"
+            },
+            {
+                "title": "2022 年度征文获奖结果公布：这些是大家都爱看的高分好文章",
+                "link": "https://sspai.com/post/78555",
+                "published": "2023-02-28"
+            },
+            {
+                "title": "播客 | 闲聊 Thunderbolt：雷电协议及外置显卡坞入坑指南",
+                "link": "https://sspai.com/post/78532",
+                "published": "2023-02-28"
+            },
+            {
                 "title": "2022 哪些专辑值得听？我们从专业媒体选了这七张",
                 "link": "https://sspai.com/post/78552",
                 "published": "2023-02-28"
@@ -10678,7 +10703,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -41134,6 +41159,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《海贼王》和之国篇在国外口碑如何？",
+                "link": "http://www.zhihu.com/question/537780857/answer/2915117856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-02-28"
+            },
+            {
                 "title": "《影子战术：将军之刃》典型关卡分析",
                 "link": "http://zhuanlan.zhihu.com/p/606362461?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-26"
@@ -47839,7 +47869,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
