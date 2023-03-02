@@ -398,6 +398,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "「喜提退税」或者「天降横债」，个税汇算清缴到底是什么？(2023 版)",
+                "link": "https://sspai.com/post/59791",
+                "published": "2023-03-02"
+            },
+            {
+                "title": "派早报：骁龙 8 Gen 2 平台将内置 iSIM、一加将推出折叠屏手机等",
+                "link": "https://sspai.com/post/78596",
+                "published": "2023-03-02"
+            },
+            {
+                "title": "Windows 11 今年的首次大更新，赶紧升级体验这些新特性",
+                "link": "https://sspai.com/post/78585",
+                "published": "2023-03-01"
+            },
+            {
+                "title": "Homebrew 升级 4.0.0，麦金塔上的啤酒会更香吗？",
+                "link": "https://sspai.com/post/78587",
+                "published": "2023-03-01"
+            },
+            {
+                "title": "本月玩什么 | PS VR2、霍格沃茨之遗、原子之心",
+                "link": "https://sspai.com/post/78563",
+                "published": "2023-03-01"
+            },
+            {
                 "title": "我做了一个「咒语库」，帮你从提示词入手用好 ChatGPT",
                 "link": "https://sspai.com/post/78581",
                 "published": "2023-03-01"
@@ -41159,6 +41184,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有令人感到治愈的诗词吗？",
+                "link": "http://www.zhihu.com/question/584986252/answer/2914412727?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-02"
+            },
+            {
+                "title": "为什么有时候洗完脸会有「假滑」感？什么成分会导致皮肤「假滑」？",
+                "link": "http://www.zhihu.com/question/585735762/answer/2917781648?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-02"
+            },
+            {
+                "title": "如何评价密室逃脱《侦探游戏》？",
+                "link": "http://www.zhihu.com/question/558381365/answer/2916798547?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-01"
+            },
+            {
+                "title": "你读过的最悲伤的诗句有哪些？",
+                "link": "http://www.zhihu.com/question/35413799/answer/2913553367?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-01"
+            },
+            {
+                "title": "流浪地球2 | 摄影拍摄、监看、现场调色、DIT以及后期DI 全流程回顾",
+                "link": "http://zhuanlan.zhihu.com/p/610452131?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-01"
+            },
+            {
+                "title": "全新一季「答主挑战赛」来啦！祝你奖金拿到手软~",
+                "link": "http://zhuanlan.zhihu.com/p/610432641?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-01"
+            },
+            {
                 "title": "《海贼王》和之国篇在国外口碑如何？",
                 "link": "http://www.zhihu.com/question/537780857/answer/2915117856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-02-28"
@@ -47869,7 +47924,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 6
     },
     {
         "id": 4,
