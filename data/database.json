@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 244 期）：大数据已死",
+                "link": "http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html",
+                "published": "2023-03-03"
+            },
+            {
                 "title": "科技爱好者周刊（第 243 期）：与孔子 AI 聊天",
                 "link": "http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html",
                 "published": "2023-02-24"
@@ -390,13 +395,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一日一技 | 用 Quicker 和 Bark 搞定 Windows 与 iOS 的剪贴板同步",
+                "link": "https://sspai.com/post/78530",
+                "published": "2023-03-03"
+            },
+            {
+                "title": "派早报：马斯克揭晓特斯拉第三阶段计划、OpenAI 正式开放 API 集成等",
+                "link": "https://sspai.com/post/78619",
+                "published": "2023-03-03"
+            },
+            {
+                "title": "新玩意 137｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/78611",
+                "published": "2023-03-02"
+            },
+            {
+                "title": "别被大数据「猜你喜欢」，我们该如何逃离「认知牢笼」",
+                "link": "https://sspai.com/post/78601",
+                "published": "2023-03-02"
+            },
+            {
+                "title": "或许还是算法更懂你口味：英文阅读我为何选择 Refind？",
+                "link": "https://sspai.com/post/78510",
+                "published": "2023-03-02"
+            },
             {
                 "title": "「喜提退税」或者「天降横债」，个税汇算清缴到底是什么？(2023 版)",
                 "link": "https://sspai.com/post/59791",
@@ -41184,6 +41214,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "桶装薯片为什么感觉没有袋装薯片好吃呢？",
+                "link": "http://www.zhihu.com/question/34146931/answer/2917427473?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-02"
+            },
+            {
+                "title": "如何评价《画江湖之不良人》第六季第一集、第二集？",
+                "link": "http://www.zhihu.com/question/587069555/answer/2917922338?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-02"
+            },
+            {
+                "title": "如何评价密室逃脱游戏主题《SAW审判日》？",
+                "link": "http://www.zhihu.com/question/586737293/answer/2917028762?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-02"
+            },
+            {
+                "title": "烟台海阳市嘴子前M四号古墓的墓主人为什么说是胶东王田市？",
+                "link": "http://www.zhihu.com/question/579802839/answer/2854536561?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-02"
+            },
+            {
                 "title": "有令人感到治愈的诗词吗？",
                 "link": "http://www.zhihu.com/question/584986252/answer/2914412727?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-03-02"
@@ -47924,13 +47974,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 50 期）: grep.app, Shots, MathB, 举牌加油告白小人生成器, 全景故宫, 云游故宫",
+                "link": "https://bestxtools.zhubai.love/posts/2243018555094687744",
+                "published": "2023-03-02"
+            },
             {
                 "title": "好工具周刊（第 49 期）: StatiCrypt, OnetimeSecret, paint-board, Graphy, Logggos, Pole Clock, tree.fm",
                 "link": "https://bestxtools.zhubai.love/posts/2240480765706440704",
@@ -48192,6 +48247,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
