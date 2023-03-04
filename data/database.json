@@ -395,13 +395,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "专访机核网：做了 12 年社区的播客「新人」，想让 Gadio 成为「助燃剂」",
+                "link": "https://sspai.com/post/78617",
+                "published": "2023-03-04"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/78627",
+                "published": "2023-03-03"
+            },
+            {
+                "title": "Kobo Libra H2O 体验：它何以取代我的 Kindle",
+                "link": "https://sspai.com/post/78528",
+                "published": "2023-03-03"
+            },
+            {
+                "title": "家的风格 ｜ 这些物件让我与生活重新建立连结",
+                "link": "https://sspai.com/post/77451",
+                "published": "2023-03-03"
+            },
             {
                 "title": "一日一技 | 用 Quicker 和 Bark 搞定 Windows 与 iOS 的剪贴板同步",
                 "link": "https://sspai.com/post/78530",
@@ -10758,7 +10778,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -41214,6 +41234,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "爱潜水的乌贼笔下的「诡秘」世界怎么样？有哪些奇特的元素？",
+                "link": "http://www.zhihu.com/question/586470151/answer/2920134949?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-03"
+            },
+            {
+                "title": "《西游记》是部什么样的小说?",
+                "link": "http://www.zhihu.com/question/584941331/answer/2920119555?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-03"
+            },
+            {
+                "title": "一人之下：通天之术——三昧真火与丹噬，神树与天师度",
+                "link": "http://zhuanlan.zhihu.com/p/607798406?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-03"
+            },
+            {
                 "title": "桶装薯片为什么感觉没有袋装薯片好吃呢？",
                 "link": "http://www.zhihu.com/question/34146931/answer/2917427473?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-03-02"
@@ -47974,7 +48009,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 4,
@@ -48247,6 +48282,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
