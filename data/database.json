@@ -403,6 +403,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "对话顾昌展教授：一次毫米波雷达的探索之旅",
+                "link": "https://sspai.com/prime/story/sspaipodcast-ep82",
+                "published": "2023-03-05"
+            },
+            {
+                "title": "春日拍张好照片，教你如何用手机拍出一朵好看的花",
+                "link": "https://sspai.com/post/43645",
+                "published": "2023-03-04"
+            },
+            {
                 "title": "专访机核网：做了 12 年社区的播客「新人」，想让 Gadio 成为「助燃剂」",
                 "link": "https://sspai.com/post/78617",
                 "published": "2023-03-04"
@@ -10778,7 +10788,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -48009,7 +48019,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     },
     {
         "id": 4,
