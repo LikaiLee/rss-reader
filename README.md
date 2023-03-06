@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-03-06】 ChatGPT API 简单上手，接通专属于你的问答热线](https://sspai.com/post/78631)
+* [【2023-03-06】 派早报：多家涉 AI 话题上市公司受到监管关注，京东上线百亿补贴等](https://sspai.com/post/78643)
+* [【2023-03-05】 一日一技 | 用远程「投影」的方式，解决 Windows 微信双开需求](https://sspai.com/post/78644)
 * [【2023-03-05】 对话顾昌展教授：一次毫米波雷达的探索之旅](https://sspai.com/prime/story/sspaipodcast-ep82)
 * [【2023-03-04】 春日拍张好照片，教你如何用手机拍出一朵好看的花](https://sspai.com/post/43645)
 * [【2023-03-04】 专访机核网：做了 12 年社区的播客「新人」，想让 Gadio 成为「助燃剂」](https://sspai.com/post/78617)
@@ -42,9 +45,6 @@
 * [【2023-03-03】 Kobo Libra H2O 体验：它何以取代我的 Kindle](https://sspai.com/post/78528)
 * [【2023-03-03】 家的风格 ｜ 这些物件让我与生活重新建立连结](https://sspai.com/post/77451)
 * [【2023-03-03】 一日一技 | 用 Quicker 和 Bark 搞定 Windows 与 iOS 的剪贴板同步](https://sspai.com/post/78530)
-* [【2023-03-03】 派早报：马斯克揭晓特斯拉第三阶段计划、OpenAI 正式开放 API 集成等](https://sspai.com/post/78619)
-* [【2023-03-02】 新玩意 137｜少数派的编辑们最近买了啥？](https://sspai.com/post/78611)
-* [【2023-03-02】 别被大数据「猜你喜欢」，我们该如何逃离「认知牢笼」](https://sspai.com/post/78601)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-03-06】 如何评价漫画《戒魔人》？](http://www.zhihu.com/question/313526113/answer/2923418927?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-03】 爱潜水的乌贼笔下的「诡秘」世界怎么样？有哪些奇特的元素？](http://www.zhihu.com/question/586470151/answer/2920134949?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-03】 《西游记》是部什么样的小说?](http://www.zhihu.com/question/584941331/answer/2920119555?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-03】 一人之下：通天之术——三昧真火与丹噬，神树与天师度](http://zhuanlan.zhihu.com/p/607798406?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-03-02】 烟台海阳市嘴子前M四号古墓的墓主人为什么说是胶东王田市？](http://www.zhihu.com/question/579802839/answer/2854536561?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-02】 有令人感到治愈的诗词吗？](http://www.zhihu.com/question/584986252/answer/2914412727?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-02】 为什么有时候洗完脸会有「假滑」感？什么成分会导致皮肤「假滑」？](http://www.zhihu.com/question/585735762/answer/2917781648?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-01】 如何评价密室逃脱《侦探游戏》？](http://www.zhihu.com/question/558381365/answer/2916798547?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-05 05:11:59
+:alarm_clock: 更新时间: 2023-03-06 05:13:04
