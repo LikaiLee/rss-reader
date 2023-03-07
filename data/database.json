@@ -403,6 +403,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "当我做家务时我在想什么",
+                "link": "https://sspai.com/post/78265",
+                "published": "2023-03-07"
+            },
+            {
+                "title": "派早报：Twitter 再次遭遇大面积故障，Edge 引入 VSR 视频超分辨率技术等",
+                "link": "https://sspai.com/post/78677",
+                "published": "2023-03-07"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/78669",
+                "published": "2023-03-06"
+            },
+            {
+                "title": "一日一技 | 重启试试不是长久之计，两条命令帮你排查意外关机成因",
+                "link": "https://sspai.com/post/78613",
+                "published": "2023-03-06"
+            },
+            {
+                "title": "想要高效获取信息？这是我用的工具与方法",
+                "link": "https://sspai.com/post/77731",
+                "published": "2023-03-06"
+            },
+            {
                 "title": "ChatGPT API 简单上手，接通专属于你的问答热线",
                 "link": "https://sspai.com/post/78631",
                 "published": "2023-03-06"
@@ -10803,7 +10828,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -41258,6 +41283,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "《红楼梦》一书中真正的原著是谁（九）",
+                "link": "http://zhuanlan.zhihu.com/p/509433402?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-07"
+            },
             {
                 "title": "如何评价漫画《戒魔人》？",
                 "link": "http://www.zhihu.com/question/313526113/answer/2923418927?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
