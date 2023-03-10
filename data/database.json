@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 245 期）：摩天大楼是反人类的",
+                "link": "http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html",
+                "published": "2023-03-10"
+            },
+            {
                 "title": "科技爱好者周刊（第 244 期）：大数据已死",
                 "link": "http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html",
                 "published": "2023-03-03"
@@ -395,13 +400,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "小小磁铁故事多：Apple 设备磁吸小史",
+                "link": "https://sspai.com/post/78708",
+                "published": "2023-03-10"
+            },
+            {
+                "title": "派早报：Apple Music Classical 已可在 App Store 预约、DuckDuckGo 搜索引擎推出 AI 工具等",
+                "link": "https://sspai.com/post/78781",
+                "published": "2023-03-10"
+            },
+            {
+                "title": "新玩意 138｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/78767",
+                "published": "2023-03-09"
+            },
+            {
+                "title": "播客 | 入坑、发烧与退坑：非核心玩家的 XGP 订阅心得",
+                "link": "https://sspai.com/post/78719",
+                "published": "2023-03-09"
+            },
+            {
+                "title": "将 Quicker 搜索功能打造成专属于你的 Windows 启动器",
+                "link": "https://sspai.com/post/78747",
+                "published": "2023-03-09"
+            },
             {
                 "title": "用不到也可以先收藏，DIY 装机的第一步：认识主板",
                 "link": "https://sspai.com/post/78672",
@@ -41329,6 +41359,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价《画江湖之不良人》第六季第3集？",
+                "link": "http://www.zhihu.com/question/588329391/answer/2928458228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-09"
+            },
+            {
                 "title": "现在的网文作家有哪几个在晚年的时候可能得到金庸这种级别的评价?",
                 "link": "http://www.zhihu.com/question/366099825/answer/2900622718?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-03-09"
@@ -48144,13 +48179,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊本周停一期（2023/03/09）",
+                "link": "https://bestxtools.zhubai.love/posts/2245516916011892736",
+                "published": "2023-03-09"
+            },
             {
                 "title": "好工具周刊（第 50 期）: grep.app, Shots, MathB, 举牌加油告白小人生成器, 全景故宫, 云游故宫",
                 "link": "https://bestxtools.zhubai.love/posts/2243018555094687744",
@@ -48417,6 +48457,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+1】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-03-10】 科技爱好者周刊（第 245 期）：摩天大楼是反人类的](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html)
 * [【2023-03-03】 科技爱好者周刊（第 244 期）：大数据已死](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html)
 * [【2023-02-24】 科技爱好者周刊（第 243 期）：与孔子 AI 聊天](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html)
 * [【2023-02-17】 科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html)
@@ -25,7 +26,6 @@
 * [【2023-01-06】 科技爱好者周刊（第 238 期）：停止寻找的最佳时间](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html)
 * [【2022-12-30】 科技爱好者周刊（第 237 期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html)
 * [【2022-12-23】 科技爱好者周刊（第 236 期）：中国的阳光地带](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html)
-* [【2022-12-16】 科技爱好者周刊（第 235 期）：青年失业率与选择创业](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-03-10】 小小磁铁故事多：Apple 设备磁吸小史](https://sspai.com/post/78708)
+* [【2023-03-10】 派早报：Apple Music Classical 已可在 App Store 预约、DuckDuckGo 搜索引擎推出 AI 工具等](https://sspai.com/post/78781)
+* [【2023-03-09】 新玩意 138｜少数派的编辑们最近买了啥？](https://sspai.com/post/78767)
+* [【2023-03-09】 播客 | 入坑、发烧与退坑：非核心玩家的 XGP 订阅心得](https://sspai.com/post/78719)
+* [【2023-03-09】 将 Quicker 搜索功能打造成专属于你的 Windows 启动器](https://sspai.com/post/78747)
 * [【2023-03-09】 用不到也可以先收藏，DIY 装机的第一步：认识主板](https://sspai.com/post/78672)
 * [【2023-03-09】 派早报：Apple 推出新款爱马仕配件、松下发布家用机器人等](https://sspai.com/post/78759)
 * [【2023-03-08】 加更还降价，多款付费栏目提前享受周年庆优惠](https://sspai.com/post/78704)
 * [【2023-03-08】 呵护每一个「她」：国际妇女节特辑](https://sspai.com/post/71941)
 * [【2023-03-08】 对 Apple 自带家庭应用不满意？这些替代也能帮你管好 HomeKit 设备](https://sspai.com/post/78712)
-* [【2023-03-08】 巨头相争、你能得利多少？京东「百亿补贴」初体验](https://sspai.com/post/78690)
-* [【2023-03-08】 派早报：iPhone 14/14 Plus 新增黄色配色、Google I/O 2023 举办时间公布](https://sspai.com/post/78707)
-* [【2023-03-07】 家的日志 | 通过一点一滴记录，逐渐揭开家的序幕](https://sspai.com/post/78645)
-* [【2023-03-07】 纵横三国乱世，领略中华武术魅力：《卧龙：苍天陨落》游玩体验](https://sspai.com/post/78691)
-* [【2023-03-07】 当我做家务时我在想什么](https://sspai.com/post/78265)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-03-09】 如何评价《画江湖之不良人》第六季第3集？](http://www.zhihu.com/question/588329391/answer/2928458228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-09】 现在的网文作家有哪几个在晚年的时候可能得到金庸这种级别的评价?](http://www.zhihu.com/question/366099825/answer/2900622718?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-09】 开放世界地图如何设计？①——3-6-1法则](http://zhuanlan.zhihu.com/p/593114831?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-08】 如果女神节送一本名著给女孩，你会选择什么？非它莫属](http://zhuanlan.zhihu.com/p/612287753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-03-07】 《红楼梦》一书中真正的原著是谁（九）](http://zhuanlan.zhihu.com/p/509433402?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-06】 如何评价漫画《戒魔人》？](http://www.zhihu.com/question/313526113/answer/2923418927?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-03】 爱潜水的乌贼笔下的「诡秘」世界怎么样？有哪些奇特的元素？](http://www.zhihu.com/question/586470151/answer/2920134949?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-03】 《西游记》是部什么样的小说?](http://www.zhihu.com/question/584941331/answer/2920119555?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2023-03-09】 好工具周刊本周停一期（2023/03/09）](https://bestxtools.zhubai.love/posts/2245516916011892736)
 * [【2023-03-02】 好工具周刊（第 50 期）: grep.app, Shots, MathB, 举牌加油告白小人生成器, 全景故宫, 云游故宫](https://bestxtools.zhubai.love/posts/2243018555094687744)
 * [【2023-02-23】 好工具周刊（第 49 期）: StatiCrypt, OnetimeSecret, paint-board, Graphy, Logggos, Pole Clock, tree.fm](https://bestxtools.zhubai.love/posts/2240480765706440704)
 * [【2023-02-16】 好工具周刊（第 48 期）: ProfileMe, Box Shadows for TailwindCSS, Shapecatcher, Immersive Translate, ...](https://bestxtools.zhubai.love/posts/2237946902123864064)
@@ -101,7 +102,6 @@
 * [【2023-01-05】 好工具周刊迎 2023 年 🎰 抽奖活动结果公布](https://bestxtools.zhubai.love/posts/2222709322708946944)
 * [【2023-01-05】 好工具周刊（第 44 期）: VIM Adventures, AST Explorer, HTMLShell, Color Palette from Image, Lenny Face Gen ...](https://bestxtools.zhubai.love/posts/2222686910009311232)
 * [【2022-12-30】 抽奖送话费，好工具周刊与 DTO 社区祝大家 2023 年好运连连](https://bestxtools.zhubai.love/posts/2220452503982727168)
-* [【2022-12-29】 好工具周刊（第 43 期）: 亲戚称谓计算器, 地铁数据库, Mozilla Observatory, Web Developer Checklist, jqplay, ...](https://bestxtools.zhubai.love/posts/2220148863686438912)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-09 05:12:54
+:alarm_clock: 更新时间: 2023-03-10 05:13:07
