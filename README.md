@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-03-11】 抛开分数，看看那些和学习有关的方法、价值和意义](https://sspai.com/post/78288)
+* [【2023-03-10】 本周看什么 | 最近值得一看的一大袋作品](https://sspai.com/post/78796)
+* [【2023-03-10】 少数派的近期动态 Vol.01](https://sspai.com/post/78795)
+* [【2023-03-10】 存储价格大跳水，2023 年值得关注的固态硬盘](https://sspai.com/post/78632)
 * [【2023-03-10】 小小磁铁故事多：Apple 设备磁吸小史](https://sspai.com/post/78708)
 * [【2023-03-10】 派早报：Apple Music Classical 已可在 App Store 预约、DuckDuckGo 搜索引擎推出 AI 工具等](https://sspai.com/post/78781)
 * [【2023-03-09】 新玩意 138｜少数派的编辑们最近买了啥？](https://sspai.com/post/78767)
 * [【2023-03-09】 播客 | 入坑、发烧与退坑：非核心玩家的 XGP 订阅心得](https://sspai.com/post/78719)
 * [【2023-03-09】 将 Quicker 搜索功能打造成专属于你的 Windows 启动器](https://sspai.com/post/78747)
 * [【2023-03-09】 用不到也可以先收藏，DIY 装机的第一步：认识主板](https://sspai.com/post/78672)
-* [【2023-03-09】 派早报：Apple 推出新款爱马仕配件、松下发布家用机器人等](https://sspai.com/post/78759)
-* [【2023-03-08】 加更还降价，多款付费栏目提前享受周年庆优惠](https://sspai.com/post/78704)
-* [【2023-03-08】 呵护每一个「她」：国际妇女节特辑](https://sspai.com/post/71941)
-* [【2023-03-08】 对 Apple 自带家庭应用不满意？这些替代也能帮你管好 HomeKit 设备](https://sspai.com/post/78712)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-03-10】 读书时如何做读书笔记？](http://www.zhihu.com/question/20700854/answer/2930378991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-03-10】 有哪些看一眼就「很哇塞」的春日出游穿搭？](http://www.zhihu.com/question/585848692/answer/2929623951?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-09】 如何评价《画江湖之不良人》第六季第3集？](http://www.zhihu.com/question/588329391/answer/2928458228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-09】 现在的网文作家有哪几个在晚年的时候可能得到金庸这种级别的评价?](http://www.zhihu.com/question/366099825/answer/2900622718?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-09】 开放世界地图如何设计？①——3-6-1法则](http://zhuanlan.zhihu.com/p/593114831?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-03-08】 《红楼梦》的前世今生（二）](http://zhuanlan.zhihu.com/p/567291607?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-07】 关于Global GameJam 2023 参加后的一点点心得体会](http://zhuanlan.zhihu.com/p/604196512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-07】 《红楼梦》一书中真正的原著是谁（九）](http://zhuanlan.zhihu.com/p/509433402?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-06】 如何评价漫画《戒魔人》？](http://www.zhihu.com/question/313526113/answer/2923418927?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-03】 爱潜水的乌贼笔下的「诡秘」世界怎么样？有哪些奇特的元素？](http://www.zhihu.com/question/586470151/answer/2920134949?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-10 05:13:07
+:alarm_clock: 更新时间: 2023-03-11 05:11:35

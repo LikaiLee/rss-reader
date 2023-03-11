@@ -400,13 +400,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "抛开分数，看看那些和学习有关的方法、价值和意义",
+                "link": "https://sspai.com/post/78288",
+                "published": "2023-03-11"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大袋作品",
+                "link": "https://sspai.com/post/78796",
+                "published": "2023-03-10"
+            },
+            {
+                "title": "少数派的近期动态 Vol.01",
+                "link": "https://sspai.com/post/78795",
+                "published": "2023-03-10"
+            },
+            {
+                "title": "存储价格大跳水，2023 年值得关注的固态硬盘",
+                "link": "https://sspai.com/post/78632",
+                "published": "2023-03-10"
+            },
             {
                 "title": "小小磁铁故事多：Apple 设备磁吸小史",
                 "link": "https://sspai.com/post/78708",
@@ -10903,7 +10923,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -41359,6 +41379,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "读书时如何做读书笔记？",
+                "link": "http://www.zhihu.com/question/20700854/answer/2930378991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-10"
+            },
+            {
+                "title": "有哪些看一眼就「很哇塞」的春日出游穿搭？",
+                "link": "http://www.zhihu.com/question/585848692/answer/2929623951?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-10"
+            },
+            {
                 "title": "如何评价《画江湖之不良人》第六季第3集？",
                 "link": "http://www.zhihu.com/question/588329391/answer/2928458228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-03-09"
@@ -48179,7 +48209,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
@@ -48457,6 +48487,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
