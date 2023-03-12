@@ -408,6 +408,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "三月你好：武汉赏花指南",
+                "link": "https://sspai.com/post/71386",
+                "published": "2023-03-11"
+            },
+            {
                 "title": "抛开分数，看看那些和学习有关的方法、价值和意义",
                 "link": "https://sspai.com/post/78288",
                 "published": "2023-03-11"
@@ -10923,7 +10928,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -48209,7 +48214,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,

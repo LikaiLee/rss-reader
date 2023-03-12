@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-03-11】 三月你好：武汉赏花指南](https://sspai.com/post/71386)
 * [【2023-03-11】 抛开分数，看看那些和学习有关的方法、价值和意义](https://sspai.com/post/78288)
 * [【2023-03-10】 本周看什么 | 最近值得一看的一大袋作品](https://sspai.com/post/78796)
 * [【2023-03-10】 少数派的近期动态 Vol.01](https://sspai.com/post/78795)
@@ -44,7 +45,6 @@
 * [【2023-03-09】 新玩意 138｜少数派的编辑们最近买了啥？](https://sspai.com/post/78767)
 * [【2023-03-09】 播客 | 入坑、发烧与退坑：非核心玩家的 XGP 订阅心得](https://sspai.com/post/78719)
 * [【2023-03-09】 将 Quicker 搜索功能打造成专属于你的 Windows 启动器](https://sspai.com/post/78747)
-* [【2023-03-09】 用不到也可以先收藏，DIY 装机的第一步：认识主板](https://sspai.com/post/78672)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-11 05:11:35
+:alarm_clock: 更新时间: 2023-03-12 05:11:35
