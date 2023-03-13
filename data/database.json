@@ -408,6 +408,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从第一性原理开始，了解归纳与演绎的前世今生",
+                "link": "https://sspai.com/post/78279",
+                "published": "2023-03-13"
+            },
+            {
+                "title": "派早报：硅谷银行倒闭，微软庆祝必应聊天满月，确认近日推出 GPT-4",
+                "link": "https://sspai.com/post/78806",
+                "published": "2023-03-13"
+            },
+            {
+                "title": "从先于时代到轻巧「水桶」：三星「钉子户」的 Galaxy S23 上手体验",
+                "link": "https://sspai.com/post/78683",
+                "published": "2023-03-12"
+            },
+            {
+                "title": "万事俱备，去挪威看极光也没那么难",
+                "link": "https://sspai.com/post/78758",
+                "published": "2023-03-12"
+            },
+            {
                 "title": "三月你好：武汉赏花指南",
                 "link": "https://sspai.com/post/71386",
                 "published": "2023-03-11"
@@ -10928,7 +10948,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -41384,6 +41404,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "获得科幻小说「晨星奖」是什么体验？如何投稿？",
+                "link": "http://www.zhihu.com/question/585978398/answer/2932169276?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-12"
+            },
+            {
                 "title": "读书时如何做读书笔记？",
                 "link": "http://www.zhihu.com/question/20700854/answer/2930378991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-03-10"
@@ -48214,7 +48239,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

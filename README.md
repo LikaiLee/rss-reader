@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-03-13】 从第一性原理开始，了解归纳与演绎的前世今生](https://sspai.com/post/78279)
+* [【2023-03-13】 派早报：硅谷银行倒闭，微软庆祝必应聊天满月，确认近日推出 GPT-4](https://sspai.com/post/78806)
+* [【2023-03-12】 从先于时代到轻巧「水桶」：三星「钉子户」的 Galaxy S23 上手体验](https://sspai.com/post/78683)
+* [【2023-03-12】 万事俱备，去挪威看极光也没那么难](https://sspai.com/post/78758)
 * [【2023-03-11】 三月你好：武汉赏花指南](https://sspai.com/post/71386)
 * [【2023-03-11】 抛开分数，看看那些和学习有关的方法、价值和意义](https://sspai.com/post/78288)
 * [【2023-03-10】 本周看什么 | 最近值得一看的一大袋作品](https://sspai.com/post/78796)
 * [【2023-03-10】 少数派的近期动态 Vol.01](https://sspai.com/post/78795)
 * [【2023-03-10】 存储价格大跳水，2023 年值得关注的固态硬盘](https://sspai.com/post/78632)
 * [【2023-03-10】 小小磁铁故事多：Apple 设备磁吸小史](https://sspai.com/post/78708)
-* [【2023-03-10】 派早报：Apple Music Classical 已可在 App Store 预约、DuckDuckGo 搜索引擎推出 AI 工具等](https://sspai.com/post/78781)
-* [【2023-03-09】 新玩意 138｜少数派的编辑们最近买了啥？](https://sspai.com/post/78767)
-* [【2023-03-09】 播客 | 入坑、发烧与退坑：非核心玩家的 XGP 订阅心得](https://sspai.com/post/78719)
-* [【2023-03-09】 将 Quicker 搜索功能打造成专属于你的 Windows 启动器](https://sspai.com/post/78747)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-03-12】 获得科幻小说「晨星奖」是什么体验？如何投稿？](http://www.zhihu.com/question/585978398/answer/2932169276?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-10】 读书时如何做读书笔记？](http://www.zhihu.com/question/20700854/answer/2930378991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-10】 有哪些看一眼就「很哇塞」的春日出游穿搭？](http://www.zhihu.com/question/585848692/answer/2929623951?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-09】 如何评价《画江湖之不良人》第六季第3集？](http://www.zhihu.com/question/588329391/answer/2928458228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-03-08】 车辆工程毕业后步入职场是怎样的体验？](http://www.zhihu.com/question/303364129/answer/2924379828?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-08】 《红楼梦》的前世今生（二）](http://zhuanlan.zhihu.com/p/567291607?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-07】 关于Global GameJam 2023 参加后的一点点心得体会](http://zhuanlan.zhihu.com/p/604196512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-07】 《红楼梦》一书中真正的原著是谁（九）](http://zhuanlan.zhihu.com/p/509433402?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-12 05:11:35
+:alarm_clock: 更新时间: 2023-03-13 05:12:32
