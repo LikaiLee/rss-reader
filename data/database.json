@@ -408,6 +408,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "机核 × 少数派联合会员上线，π+Prime 惊喜大促",
+                "link": "https://sspai.com/post/78849",
+                "published": "2023-03-15"
+            },
+            {
+                "title": "派早报：OpenAI 推出 GPT-4 语言模型等",
+                "link": "https://sspai.com/post/78860",
+                "published": "2023-03-15"
+            },
+            {
+                "title": "手机能不能代替相机？谈谈计算摄影如何帮我拍出一张好照片",
+                "link": "https://sspai.com/post/66970",
+                "published": "2023-03-14"
+            },
+            {
+                "title": "家用咖啡手册 03 | 不止大小家电，还有这些「手动挡」意式咖啡机",
+                "link": "https://sspai.com/post/78687",
+                "published": "2023-03-14"
+            },
+            {
+                "title": "回家去整点瓜子：金丝熊新手饲养指南",
+                "link": "https://sspai.com/post/78693",
+                "published": "2023-03-14"
+            },
+            {
+                "title": "全场满赠，价格优惠……周边商店十一周年促销也有惊喜",
+                "link": "https://sspai.com/post/78822",
+                "published": "2023-03-14"
+            },
+            {
                 "title": "怎样的 app 和服务才称得上「好」？聊聊我的工具审美",
                 "link": "https://sspai.com/post/78756",
                 "published": "2023-03-14"
@@ -10973,7 +11003,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -41429,6 +41459,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "参与话题 #汽车职场讨论，瓜分 6 万元活动奖金！",
+                "link": "http://zhuanlan.zhihu.com/p/612628006?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-14"
+            },
+            {
+                "title": "什么样的读书方法才能快速榨干一本书的所有知识，避免低效阅读呢？",
+                "link": "http://www.zhihu.com/question/377547324/answer/2935976845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-14"
+            },
+            {
+                "title": "杭州夫妻造大别墅找陌生人抱团养老，有山有水还帮做饭，要求只是「不较真」，如何看待此种养老方式？",
+                "link": "http://www.zhihu.com/question/588442624/answer/2935602576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-14"
+            },
+            {
                 "title": "长期养猫后，铲屎官的肺里会积存很多猫毛吗？",
                 "link": "http://www.zhihu.com/question/587794842/answer/2928991778?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-03-13"
@@ -48269,7 +48314,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 4,

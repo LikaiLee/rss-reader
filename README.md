@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-03-15】 机核 × 少数派联合会员上线，π+Prime 惊喜大促](https://sspai.com/post/78849)
+* [【2023-03-15】 派早报：OpenAI 推出 GPT-4 语言模型等](https://sspai.com/post/78860)
+* [【2023-03-14】 手机能不能代替相机？谈谈计算摄影如何帮我拍出一张好照片](https://sspai.com/post/66970)
+* [【2023-03-14】 家用咖啡手册 03 | 不止大小家电，还有这些「手动挡」意式咖啡机](https://sspai.com/post/78687)
+* [【2023-03-14】 回家去整点瓜子：金丝熊新手饲养指南](https://sspai.com/post/78693)
+* [【2023-03-14】 全场满赠，价格优惠……周边商店十一周年促销也有惊喜](https://sspai.com/post/78822)
 * [【2023-03-14】 怎样的 app 和服务才称得上「好」？聊聊我的工具审美](https://sspai.com/post/78756)
 * [【2023-03-14】 派早报：第 95 届奥斯卡金像奖颁奖，硅谷银行倒闭一事发布联合声明等](https://sspai.com/post/78846)
 * [【2023-03-13】 全场满赠，每日秒杀， 少数派十一周年电商大促开启](https://sspai.com/post/78831)
 * [【2023-03-13】 派评 | 近期值得关注的 App](https://sspai.com/post/78832)
-* [【2023-03-13】 啃了一口的苹果可以打包带走吗？——Apple 数据导出功能观察](https://sspai.com/prime/story/apple-data-export)
-* [【2023-03-13】 从第一性原理开始，了解归纳与演绎的前世今生](https://sspai.com/post/78279)
-* [【2023-03-13】 派早报：硅谷银行倒闭，微软庆祝必应聊天满月，确认近日推出 GPT-4](https://sspai.com/post/78806)
-* [【2023-03-12】 从先于时代到轻巧「水桶」：三星「钉子户」的 Galaxy S23 上手体验](https://sspai.com/post/78683)
-* [【2023-03-12】 万事俱备，去挪威看极光也没那么难](https://sspai.com/post/78758)
-* [【2023-03-11】 三月你好：武汉赏花指南](https://sspai.com/post/71386)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-03-14】 参与话题 #汽车职场讨论，瓜分 6 万元活动奖金！](http://zhuanlan.zhihu.com/p/612628006?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-03-14】 什么样的读书方法才能快速榨干一本书的所有知识，避免低效阅读呢？](http://www.zhihu.com/question/377547324/answer/2935976845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-03-14】 杭州夫妻造大别墅找陌生人抱团养老，有山有水还帮做饭，要求只是「不较真」，如何看待此种养老方式？](http://www.zhihu.com/question/588442624/answer/2935602576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-13】 长期养猫后，铲屎官的肺里会积存很多猫毛吗？](http://www.zhihu.com/question/587794842/answer/2928991778?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-12】 获得科幻小说「晨星奖」是什么体验？如何投稿？](http://www.zhihu.com/question/585978398/answer/2932169276?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-10】 读书时如何做读书笔记？](http://www.zhihu.com/question/20700854/answer/2930378991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-03-09】 如何评价《画江湖之不良人》第六季第3集？](http://www.zhihu.com/question/588329391/answer/2928458228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-09】 现在的网文作家有哪几个在晚年的时候可能得到金庸这种级别的评价?](http://www.zhihu.com/question/366099825/answer/2900622718?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-09】 开放世界地图如何设计？①——3-6-1法则](http://zhuanlan.zhihu.com/p/593114831?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-08】 如果女神节送一本名著给女孩，你会选择什么？非它莫属](http://zhuanlan.zhihu.com/p/612287753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-08】 车辆工程毕业后步入职场是怎样的体验？](http://www.zhihu.com/question/303364129/answer/2924379828?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-08】 《红楼梦》的前世今生（二）](http://zhuanlan.zhihu.com/p/567291607?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-14 05:12:44
+:alarm_clock: 更新时间: 2023-03-15 05:12:17
