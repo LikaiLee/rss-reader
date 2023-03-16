@@ -408,6 +408,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "上新、秒杀、折扣、满赠，付费栏目开启十一周年大促",
+                "link": "https://sspai.com/post/78875",
+                "published": "2023-03-16"
+            },
+            {
+                "title": "派早报：多邻国推出基于 GPT 的订阅服务、flomo 拟收购幕布等",
+                "link": "https://sspai.com/post/78880",
+                "published": "2023-03-16"
+            },
+            {
+                "title": "评论有奖 | 学得会的快捷指令，零基础入门苹果效率魔法",
+                "link": "https://sspai.com/post/78858",
+                "published": "2023-03-15"
+            },
+            {
+                "title": "买到扩容 iPad 不会维权？看看我怎么让卖家「退一赔三」",
+                "link": "https://sspai.com/post/67209",
+                "published": "2023-03-15"
+            },
+            {
+                "title": "施乐和他的两个小偷邻居",
+                "link": "https://sspai.com/post/78801",
+                "published": "2023-03-15"
+            },
+            {
                 "title": "机核 × 少数派联合会员上线，π+Prime 惊喜大促",
                 "link": "https://sspai.com/post/78849",
                 "published": "2023-03-15"
@@ -11003,7 +11028,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -41459,6 +41484,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "OpenAI 发布 GPT-4，有哪些技术上的优化或突破？",
+                "link": "http://www.zhihu.com/question/589639535/answer/2937928726?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-15"
+            },
+            {
                 "title": "参与话题 #汽车职场讨论，瓜分 6 万元活动奖金！",
                 "link": "http://zhuanlan.zhihu.com/p/612628006?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-03-14"
@@ -48314,7 +48344,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,

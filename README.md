@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-03-16】 上新、秒杀、折扣、满赠，付费栏目开启十一周年大促](https://sspai.com/post/78875)
+* [【2023-03-16】 派早报：多邻国推出基于 GPT 的订阅服务、flomo 拟收购幕布等](https://sspai.com/post/78880)
+* [【2023-03-15】 评论有奖 | 学得会的快捷指令，零基础入门苹果效率魔法](https://sspai.com/post/78858)
+* [【2023-03-15】 买到扩容 iPad 不会维权？看看我怎么让卖家「退一赔三」](https://sspai.com/post/67209)
+* [【2023-03-15】 施乐和他的两个小偷邻居](https://sspai.com/post/78801)
 * [【2023-03-15】 机核 × 少数派联合会员上线，π+Prime 惊喜大促](https://sspai.com/post/78849)
 * [【2023-03-15】 派早报：OpenAI 推出 GPT-4 语言模型等](https://sspai.com/post/78860)
 * [【2023-03-14】 手机能不能代替相机？谈谈计算摄影如何帮我拍出一张好照片](https://sspai.com/post/66970)
 * [【2023-03-14】 家用咖啡手册 03 | 不止大小家电，还有这些「手动挡」意式咖啡机](https://sspai.com/post/78687)
 * [【2023-03-14】 回家去整点瓜子：金丝熊新手饲养指南](https://sspai.com/post/78693)
-* [【2023-03-14】 全场满赠，价格优惠……周边商店十一周年促销也有惊喜](https://sspai.com/post/78822)
-* [【2023-03-14】 怎样的 app 和服务才称得上「好」？聊聊我的工具审美](https://sspai.com/post/78756)
-* [【2023-03-14】 派早报：第 95 届奥斯卡金像奖颁奖，硅谷银行倒闭一事发布联合声明等](https://sspai.com/post/78846)
-* [【2023-03-13】 全场满赠，每日秒杀， 少数派十一周年电商大促开启](https://sspai.com/post/78831)
-* [【2023-03-13】 派评 | 近期值得关注的 App](https://sspai.com/post/78832)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-03-15】 OpenAI 发布 GPT-4，有哪些技术上的优化或突破？](http://www.zhihu.com/question/589639535/answer/2937928726?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-14】 参与话题 #汽车职场讨论，瓜分 6 万元活动奖金！](http://zhuanlan.zhihu.com/p/612628006?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-14】 什么样的读书方法才能快速榨干一本书的所有知识，避免低效阅读呢？](http://www.zhihu.com/question/377547324/answer/2935976845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-14】 杭州夫妻造大别墅找陌生人抱团养老，有山有水还帮做饭，要求只是「不较真」，如何看待此种养老方式？](http://www.zhihu.com/question/588442624/answer/2935602576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-03-10】 有哪些看一眼就「很哇塞」的春日出游穿搭？](http://www.zhihu.com/question/585848692/answer/2929623951?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-09】 如何评价《画江湖之不良人》第六季第3集？](http://www.zhihu.com/question/588329391/answer/2928458228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-09】 现在的网文作家有哪几个在晚年的时候可能得到金庸这种级别的评价?](http://www.zhihu.com/question/366099825/answer/2900622718?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-09】 开放世界地图如何设计？①——3-6-1法则](http://zhuanlan.zhihu.com/p/593114831?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-15 05:12:17
+:alarm_clock: 更新时间: 2023-03-16 05:12:35
