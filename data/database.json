@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 246 期）：永不丢失的网络身份",
+                "link": "http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html",
+                "published": "2023-03-17"
+            },
+            {
                 "title": "科技爱好者周刊（第 245 期）：摩天大楼是反人类的",
                 "link": "http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html",
                 "published": "2023-03-10"
@@ -400,13 +405,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "FotMob：可能是最好用的足球数据追踪器",
+                "link": "https://sspai.com/post/78807",
+                "published": "2023-03-17"
+            },
+            {
+                "title": "派早报：百度推出大语言模型「文心一言」、Siri 等传统语音助手正在失等",
+                "link": "https://sspai.com/post/78895",
+                "published": "2023-03-17"
+            },
+            {
+                "title": "新玩意 139｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/78886",
+                "published": "2023-03-16"
+            },
+            {
+                "title": "重置并非万无一失：设备转手前不能忽视的一件小事",
+                "link": "https://sspai.com/post/66237",
+                "published": "2023-03-16"
+            },
             {
                 "title": "上新、秒杀、折扣、满赠，付费栏目开启十一周年大促",
                 "link": "https://sspai.com/post/78875",
@@ -11028,7 +11053,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -41484,6 +41509,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "成为知乎「2022 年度新知答主」是一种什么样的体验？",
+                "link": "http://www.zhihu.com/question/589896222/answer/2939662695?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-17"
+            },
+            {
+                "title": "八方旅人2职业技能与职业搭配是怎样的？",
+                "link": "http://www.zhihu.com/question/587103450/answer/2917953546?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-16"
+            },
+            {
                 "title": "OpenAI 发布 GPT-4，有哪些技术上的优化或突破？",
                 "link": "http://www.zhihu.com/question/589639535/answer/2937928726?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-03-15"
@@ -48344,13 +48379,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 51 期）: 小鱼标签 (UTags), SingleFile, Scrollbar, Memo Card, OG Image Playground, 白描, Tartan ...",
+                "link": "https://bestxtools.zhubai.love/posts/2248101999973670912",
+                "published": "2023-03-16"
+            },
             {
                 "title": "好工具周刊本周停一期（2023/03/09）",
                 "link": "https://bestxtools.zhubai.love/posts/2245516916011892736",
@@ -48622,6 +48662,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
