@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-03-19】 开特斯拉横跨美国，轻松也没有想象中那么疯狂](https://sspai.com/post/78310)
+* [【2023-03-18】 播客 | 来一场环球旅行：面对忐忑、享受快乐、体会成长](https://sspai.com/post/78892)
 * [【2023-03-17】 本周看什么 | 最近值得一看的一大碗作品](https://sspai.com/post/78905)
 * [【2023-03-17】 全场满赠、会员折上折，少数派正版软件限时 5 折起](https://sspai.com/post/78882)
 * [【2023-03-17】 Wordle 热度已去，但摸鱼可以继续：两款填字小游戏推荐](https://sspai.com/post/78897)
@@ -43,8 +45,6 @@
 * [【2023-03-17】 派早报：百度推出大语言模型「文心一言」、Siri 等传统语音助手正在失等](https://sspai.com/post/78895)
 * [【2023-03-16】 新玩意 139｜少数派的编辑们最近买了啥？](https://sspai.com/post/78886)
 * [【2023-03-16】 重置并非万无一失：设备转手前不能忽视的一件小事](https://sspai.com/post/66237)
-* [【2023-03-16】 上新、秒杀、折扣、满赠，付费栏目开启十一周年大促](https://sspai.com/post/78875)
-* [【2023-03-16】 派早报：多邻国推出基于 GPT 的订阅服务、flomo 拟收购幕布等](https://sspai.com/post/78880)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-18 05:11:41
+:alarm_clock: 更新时间: 2023-03-19 05:11:47

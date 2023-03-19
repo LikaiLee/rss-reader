@@ -413,6 +413,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "开特斯拉横跨美国，轻松也没有想象中那么疯狂",
+                "link": "https://sspai.com/post/78310",
+                "published": "2023-03-19"
+            },
+            {
+                "title": "播客 | 来一场环球旅行：面对忐忑、享受快乐、体会成长",
+                "link": "https://sspai.com/post/78892",
+                "published": "2023-03-18"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的一大碗作品",
                 "link": "https://sspai.com/post/78905",
                 "published": "2023-03-17"
@@ -11073,7 +11083,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -48404,7 +48414,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
