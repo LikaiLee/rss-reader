@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-03-20】 对比体验 ChatGPT，聊聊文心一言的优缺点](https://sspai.com/post/78900)
+* [【2023-03-20】 派早报：美国版权局就 AI 生成作品发布登记指引，高通发布第二代骁龙 7+](https://sspai.com/post/78921)
+* [【2023-03-19】 Others 之间的大厂较量：从 Galaxy S23 换回 Google Pixel，我都想了些什么？](https://sspai.com/post/78919)
 * [【2023-03-19】 开特斯拉横跨美国，轻松也没有想象中那么疯狂](https://sspai.com/post/78310)
 * [【2023-03-18】 播客 | 来一场环球旅行：面对忐忑、享受快乐、体会成长](https://sspai.com/post/78892)
 * [【2023-03-17】 本周看什么 | 最近值得一看的一大碗作品](https://sspai.com/post/78905)
@@ -42,9 +45,6 @@
 * [【2023-03-17】 Wordle 热度已去，但摸鱼可以继续：两款填字小游戏推荐](https://sspai.com/post/78897)
 * [【2023-03-17】 用电脑控制 Android 设备，大屏上也能刷朋友圈：Scrcpy](https://sspai.com/post/56178)
 * [【2023-03-17】 FotMob：可能是最好用的足球数据追踪器](https://sspai.com/post/78807)
-* [【2023-03-17】 派早报：百度推出大语言模型「文心一言」、Siri 等传统语音助手正在失等](https://sspai.com/post/78895)
-* [【2023-03-16】 新玩意 139｜少数派的编辑们最近买了啥？](https://sspai.com/post/78886)
-* [【2023-03-16】 重置并非万无一失：设备转手前不能忽视的一件小事](https://sspai.com/post/66237)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-03-20】 为了电池安全，工程师做过什么疯狂的事？](http://www.zhihu.com/question/487670843/answer/2943299413?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-03-19】 双子在提瓦特的行程轨迹？](http://zhuanlan.zhihu.com/p/615198991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-03-19】 春日拍花攻略，有哪些必备的摄影技巧？](http://www.zhihu.com/question/589915697/answer/2942574633?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-17】 《红楼梦》一书中真正的原著是谁（四）](http://zhuanlan.zhihu.com/p/506389004?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-17】 成为知乎「2022 年度新知答主」是一种什么样的体验？](http://www.zhihu.com/question/589896222/answer/2939662695?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-16】 八方旅人2职业技能与职业搭配是怎样的？](http://www.zhihu.com/question/587103450/answer/2917953546?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-03-14】 参与话题 #汽车职场讨论，瓜分 6 万元活动奖金！](http://zhuanlan.zhihu.com/p/612628006?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-14】 什么样的读书方法才能快速榨干一本书的所有知识，避免低效阅读呢？](http://www.zhihu.com/question/377547324/answer/2935976845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-14】 杭州夫妻造大别墅找陌生人抱团养老，有山有水还帮做饭，要求只是「不较真」，如何看待此种养老方式？](http://www.zhihu.com/question/588442624/answer/2935602576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-13】 长期养猫后，铲屎官的肺里会积存很多猫毛吗？](http://www.zhihu.com/question/587794842/answer/2928991778?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-12】 获得科幻小说「晨星奖」是什么体验？如何投稿？](http://www.zhihu.com/question/585978398/answer/2932169276?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-10】 读书时如何做读书笔记？](http://www.zhihu.com/question/20700854/answer/2930378991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-19 05:11:47
+:alarm_clock: 更新时间: 2023-03-20 05:12:30
