@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-03-20】 运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html)
 * [【2023-03-17】 科技爱好者周刊（第 246 期）：永不丢失的网络身份](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html)
 * [【2023-03-10】 科技爱好者周刊（第 245 期）：摩天大楼是反人类的](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html)
 * [【2023-03-03】 科技爱好者周刊（第 244 期）：大数据已死](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html)
@@ -25,7 +26,6 @@
 * [【2023-02-03】 科技爱好者周刊（第 240 期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html)
 * [【2023-01-13】 科技爱好者周刊（第 239 期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html)
 * [【2023-01-06】 科技爱好者周刊（第 238 期）：停止寻找的最佳时间](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html)
-* [【2022-12-30】 科技爱好者周刊（第 237 期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-03-21】 为了记录每个案件的具体信息，我给自己写一个项目管理工具](https://sspai.com/post/78906)
+* [【2023-03-21】 派早报：国家新闻出版署发布 2023 年进口网络游戏审批信息等](https://sspai.com/post/78942)
+* [【2023-03-20】 派评 | 近期值得关注的 App](https://sspai.com/post/78935)
+* [【2023-03-20】 家用咖啡手册 04 | 精品咖啡是从什么器具里流出来的？](https://sspai.com/post/78898)
 * [【2023-03-20】 对比体验 ChatGPT，聊聊文心一言的优缺点](https://sspai.com/post/78900)
 * [【2023-03-20】 派早报：美国版权局就 AI 生成作品发布登记指引，高通发布第二代骁龙 7+](https://sspai.com/post/78921)
 * [【2023-03-19】 Others 之间的大厂较量：从 Galaxy S23 换回 Google Pixel，我都想了些什么？](https://sspai.com/post/78919)
 * [【2023-03-19】 开特斯拉横跨美国，轻松也没有想象中那么疯狂](https://sspai.com/post/78310)
 * [【2023-03-18】 播客 | 来一场环球旅行：面对忐忑、享受快乐、体会成长](https://sspai.com/post/78892)
 * [【2023-03-17】 本周看什么 | 最近值得一看的一大碗作品](https://sspai.com/post/78905)
-* [【2023-03-17】 全场满赠、会员折上折，少数派正版软件限时 5 折起](https://sspai.com/post/78882)
-* [【2023-03-17】 Wordle 热度已去，但摸鱼可以继续：两款填字小游戏推荐](https://sspai.com/post/78897)
-* [【2023-03-17】 用电脑控制 Android 设备，大屏上也能刷朋友圈：Scrcpy](https://sspai.com/post/56178)
-* [【2023-03-17】 FotMob：可能是最好用的足球数据追踪器](https://sspai.com/post/78807)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-03-20】 哪些书籍可以帮助个人提高创业思维和创业方法论？](http://www.zhihu.com/question/588783377/answer/2940661579?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-20】 为了电池安全，工程师做过什么疯狂的事？](http://www.zhihu.com/question/487670843/answer/2943299413?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-19】 双子在提瓦特的行程轨迹？](http://zhuanlan.zhihu.com/p/615198991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-19】 春日拍花攻略，有哪些必备的摄影技巧？](http://www.zhihu.com/question/589915697/answer/2942574633?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-03-15】 OpenAI 发布 GPT-4，有哪些技术上的优化或突破？](http://www.zhihu.com/question/589639535/answer/2937928726?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-14】 参与话题 #汽车职场讨论，瓜分 6 万元活动奖金！](http://zhuanlan.zhihu.com/p/612628006?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-14】 什么样的读书方法才能快速榨干一本书的所有知识，避免低效阅读呢？](http://www.zhihu.com/question/377547324/answer/2935976845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-14】 杭州夫妻造大别墅找陌生人抱团养老，有山有水还帮做饭，要求只是「不较真」，如何看待此种养老方式？](http://www.zhihu.com/question/588442624/answer/2935602576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-20 05:12:30
+:alarm_clock: 更新时间: 2023-03-21 05:12:01

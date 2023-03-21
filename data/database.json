@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "运维的未来是平台工程",
+                "link": "http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html",
+                "published": "2023-03-20"
+            },
+            {
                 "title": "科技爱好者周刊（第 246 期）：永不丢失的网络身份",
                 "link": "http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html",
                 "published": "2023-03-17"
@@ -405,13 +410,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "为了记录每个案件的具体信息，我给自己写一个项目管理工具",
+                "link": "https://sspai.com/post/78906",
+                "published": "2023-03-21"
+            },
+            {
+                "title": "派早报：国家新闻出版署发布 2023 年进口网络游戏审批信息等",
+                "link": "https://sspai.com/post/78942",
+                "published": "2023-03-21"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/78935",
+                "published": "2023-03-20"
+            },
+            {
+                "title": "家用咖啡手册 04 | 精品咖啡是从什么器具里流出来的？",
+                "link": "https://sspai.com/post/78898",
+                "published": "2023-03-20"
+            },
             {
                 "title": "对比体验 ChatGPT，聊聊文心一言的优缺点",
                 "link": "https://sspai.com/post/78900",
@@ -11098,7 +11123,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -41554,6 +41579,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "哪些书籍可以帮助个人提高创业思维和创业方法论？",
+                "link": "http://www.zhihu.com/question/588783377/answer/2940661579?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-20"
+            },
+            {
                 "title": "为了电池安全，工程师做过什么疯狂的事？",
                 "link": "http://www.zhihu.com/question/487670843/answer/2943299413?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-03-20"
@@ -48444,7 +48474,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,
