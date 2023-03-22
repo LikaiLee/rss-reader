@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-03-22】 App+1 | 自诩「最强」的 Wiki 搭建工具：Wiki.js 有多强？](https://sspai.com/post/78945)
+* [【2023-03-22】 派早报：OPPO Find X6 系列发布、Google Bard 测试版上线等](https://sspai.com/post/78969)
+* [【2023-03-21】 处理器简史｜PowerPC 03：秣马厉兵，首战告捷（下）](https://sspai.com/prime/story/sv-anecdotes-10)
+* [【2023-03-21】 13 道菜，消耗家里用不完的食材配料](https://sspai.com/prime/story/pantry-to-dishes)
+* [【2023-03-21】 世界睡眠日，用这 6 个 app 帮你「睡个好觉」](https://sspai.com/post/78934)
 * [【2023-03-21】 为了记录每个案件的具体信息，我给自己写一个项目管理工具](https://sspai.com/post/78906)
 * [【2023-03-21】 派早报：国家新闻出版署发布 2023 年进口网络游戏审批信息等](https://sspai.com/post/78942)
 * [【2023-03-20】 派评 | 近期值得关注的 App](https://sspai.com/post/78935)
 * [【2023-03-20】 家用咖啡手册 04 | 精品咖啡是从什么器具里流出来的？](https://sspai.com/post/78898)
 * [【2023-03-20】 对比体验 ChatGPT，聊聊文心一言的优缺点](https://sspai.com/post/78900)
-* [【2023-03-20】 派早报：美国版权局就 AI 生成作品发布登记指引，高通发布第二代骁龙 7+](https://sspai.com/post/78921)
-* [【2023-03-19】 Others 之间的大厂较量：从 Galaxy S23 换回 Google Pixel，我都想了些什么？](https://sspai.com/post/78919)
-* [【2023-03-19】 开特斯拉横跨美国，轻松也没有想象中那么疯狂](https://sspai.com/post/78310)
-* [【2023-03-18】 播客 | 来一场环球旅行：面对忐忑、享受快乐、体会成长](https://sspai.com/post/78892)
-* [【2023-03-17】 本周看什么 | 最近值得一看的一大碗作品](https://sspai.com/post/78905)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-03-21】 读书时如何做读书笔记？](http://www.zhihu.com/question/20700854/answer/2946359970?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-20】 哪些书籍可以帮助个人提高创业思维和创业方法论？](http://www.zhihu.com/question/588783377/answer/2940661579?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-20】 为了电池安全，工程师做过什么疯狂的事？](http://www.zhihu.com/question/487670843/answer/2943299413?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-19】 双子在提瓦特的行程轨迹？](http://zhuanlan.zhihu.com/p/615198991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-03-16】 八方旅人2职业技能与职业搭配是怎样的？](http://www.zhihu.com/question/587103450/answer/2917953546?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-15】 OpenAI 发布 GPT-4，有哪些技术上的优化或突破？](http://www.zhihu.com/question/589639535/answer/2937928726?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-14】 参与话题 #汽车职场讨论，瓜分 6 万元活动奖金！](http://zhuanlan.zhihu.com/p/612628006?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-14】 什么样的读书方法才能快速榨干一本书的所有知识，避免低效阅读呢？](http://www.zhihu.com/question/377547324/answer/2935976845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-21 05:12:01
+:alarm_clock: 更新时间: 2023-03-22 05:12:48
