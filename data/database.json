@@ -418,6 +418,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "探索不止，发现地图创作的更多可能性：exping",
+                "link": "https://sspai.com/post/78958",
+                "published": "2023-03-23"
+            },
+            {
+                "title": "派早报：Nothing Ear (2) 正式发布、Microsoft Loop 开放测试等",
+                "link": "https://sspai.com/post/78992",
+                "published": "2023-03-23"
+            },
+            {
+                "title": "笔记本电脑太烫了？收下这份指南，你也可以清理它内部的灰尘",
+                "link": "https://sspai.com/post/74307",
+                "published": "2023-03-22"
+            },
+            {
+                "title": "问就是「AI 过」：这些你熟知的 app 和服务，都用上了人工智能",
+                "link": "https://sspai.com/post/78988",
+                "published": "2023-03-22"
+            },
+            {
+                "title": "家的日志 | 让家居之美跃然纸上，那些给我灵感的读物们",
+                "link": "https://sspai.com/post/78959",
+                "published": "2023-03-22"
+            },
+            {
                 "title": "App+1 | 自诩「最强」的 Wiki 搭建工具：Wiki.js 有多强？",
                 "link": "https://sspai.com/post/78945",
                 "published": "2023-03-22"
@@ -41603,6 +41628,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "有哪些衣服便宜，但穿起来惊艳？",
+                "link": "http://www.zhihu.com/question/588400198/answer/2946476507?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-23"
+            },
             {
                 "title": "读书时如何做读书笔记？",
                 "link": "http://www.zhihu.com/question/20700854/answer/2946359970?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
