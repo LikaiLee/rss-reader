@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 247 期）：扎克伯格的裁员信",
+                "link": "http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html",
+                "published": "2023-03-23"
+            },
+            {
                 "title": "运维的未来是平台工程",
                 "link": "http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html",
                 "published": "2023-03-20"
@@ -410,13 +415,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "调和、克制与重构：心理学专业给我带来了哪些改变？",
+                "link": "https://sspai.com/post/78971",
+                "published": "2023-03-24"
+            },
+            {
+                "title": "派早报：Github 发布代码编写助手 Copilot X、Nanoleaf 发布支持 Matter 的 Essentials 系列等",
+                "link": "https://sspai.com/post/79019",
+                "published": "2023-03-24"
+            },
+            {
+                "title": "装了啥 | 编辑部的科普大师、智能家居达人 Lincoln 装了啥？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-lincoln",
+                "published": "2023-03-23"
+            },
+            {
+                "title": "可以听的新玩意儿：中端手机的美好时代",
+                "link": "https://sspai.com/post/79008",
+                "published": "2023-03-23"
+            },
+            {
+                "title": "你确定要打开微博吗？从「one sec」聊开去",
+                "link": "https://sspai.com/post/79004",
+                "published": "2023-03-23"
+            },
+            {
+                "title": "不止低头刷手机，用输出和思考陪伴两小时通勤路",
+                "link": "https://sspai.com/post/79000",
+                "published": "2023-03-23"
+            },
             {
                 "title": "探索不止，发现地图创作的更多可能性：exping",
                 "link": "https://sspai.com/post/78958",
@@ -11173,7 +11208,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -41629,6 +41664,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "拆解追溯 GPT-3.5 各项能力的起源",
+                "link": "http://zhuanlan.zhihu.com/p/607522540?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-23"
+            },
+            {
                 "title": "有哪些衣服便宜，但穿起来惊艳？",
                 "link": "http://www.zhihu.com/question/588400198/answer/2946476507?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-03-23"
@@ -48542,6 +48582,11 @@
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
             {
+                "title": "好工具周刊（第 52 期）: Icon Maker, Unicorn icons, Colord, CSS Generators, CopySymbol, Open Prompt, OpenGPT",
+                "link": "https://bestxtools.zhubai.love/posts/2250649351762280448",
+                "published": "2023-03-23"
+            },
+            {
                 "title": "好工具周刊（第 51 期）: 小鱼标签 (UTags), SingleFile, Scrollbar, Memo Card, OG Image Playground, 白描, Tartan ...",
                 "link": "https://bestxtools.zhubai.love/posts/2248101999973670912",
                 "published": "2023-03-16"
@@ -48817,6 +48862,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
