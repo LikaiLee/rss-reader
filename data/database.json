@@ -415,13 +415,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大桌作品",
+                "link": "https://sspai.com/post/79028",
+                "published": "2023-03-24"
+            },
+            {
+                "title": "福利派 | Android 上好用的笔记工具，再添 Windows 版本：可乐记",
+                "link": "https://sspai.com/post/79025",
+                "published": "2023-03-24"
+            },
+            {
+                "title": "本月玩什么 | 生化危机 4、卧龙：苍天陨落、最后生还者 Part I PC 版",
+                "link": "https://sspai.com/post/79011",
+                "published": "2023-03-24"
+            },
             {
                 "title": "调和、克制与重构：心理学专业给我带来了哪些改变？",
                 "link": "https://sspai.com/post/78971",
@@ -11208,7 +11223,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -41664,6 +41679,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何提升工作效率，让每天工作都比较高效？",
+                "link": "http://www.zhihu.com/question/268412101/answer/2951760237?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-24"
+            },
+            {
+                "title": "汽车上有哪些看起来理所应当的事，背后却隐藏了很多复杂工艺的技术？",
+                "link": "http://www.zhihu.com/question/568584494/answer/2948939470?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-24"
+            },
+            {
+                "title": "插混和增程式汽车这么火，油电混合动力是不是大势已去？还值得买吗？",
+                "link": "http://www.zhihu.com/question/586999681/answer/2926448999?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-24"
+            },
+            {
+                "title": "从求职者角度看，汽车行业各个岗位都是怎么样的？",
+                "link": "http://www.zhihu.com/question/27693490/answer/2923340688?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-24"
+            },
+            {
+                "title": "大家好，请问密室逃脱可以以网络安全为主题吗？",
+                "link": "http://www.zhihu.com/question/590854657/answer/2950829927?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-03-24"
+            },
+            {
                 "title": "拆解追溯 GPT-3.5 各项能力的起源",
                 "link": "http://zhuanlan.zhihu.com/p/607522540?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-03-23"
@@ -48574,7 +48614,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 5
     },
     {
         "id": 4,
@@ -48862,6 +48902,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
