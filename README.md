@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-03-30】 与 Tim Cook 面对面，这 4 个 App 的开发者有话说……](https://sspai.com/post/79089)
+* [【2023-03-30】 派早报：WWDC23 定档、索尼推出 ZV-E1 相机等](https://sspai.com/post/79092)
+* [【2023-03-29】 打开黑箱：组策略及注册表策略使用指南](https://sspai.com/prime/story/windows-gpo-tutorial)
+* [【2023-03-29】 听说要被取代了，我们拿出看家文章和三大 AI 聊了聊](https://sspai.com/post/79085)
+* [【2023-03-29】 Apple Music Classical 评测：为什么古典音乐应该被「区别对待」？](https://sspai.com/post/79079)
+* [【2023-03-29】 播客 | 去年玩键盘，今年搞鼠标？谈谈最近的鼠标热潮](https://sspai.com/post/79067)
 * [【2023-03-29】 抓包解协议，代码造布局：电子墨水价签改造 NAS 监控屏小记](https://sspai.com/post/78993)
 * [【2023-03-29】 派早报：Redmi Note 12 Turbo 发布、任天堂放出《王国之泪》实机游玩视频等](https://sspai.com/post/79078)
 * [【2023-03-28】 三种方法，自动生成好记又好用的密码](https://sspai.com/prime/story/password-autogen)
 * [【2023-03-28】 一个小文件，如何黑掉密保齐全的 YouTube 频道？](https://sspai.com/post/79066)
-* [【2023-03-28】 在 3DS eShop 正式关闭前，我用这种方法保留了关于它的记忆](https://sspai.com/post/78974)
-* [【2023-03-28】 全新的 Apple Home 架构、Beta 版软件改版…… iOS 16.4 值得关注的新特性](https://sspai.com/post/78918)
-* [【2023-03-28】 派早报：iOS 16.4 等更新推送，Twitter 部分源码泄漏等](https://sspai.com/post/79060)
-* [【2023-03-27】 罗技雷蛇发新品，3395 显神威，以及一些很特别的新外设](https://sspai.com/prime/story/zouzhe-230327)
-* [【2023-03-27】 派评 | 近期值得关注的 App](https://sspai.com/post/79053)
-* [【2023-03-27】 万字解析 | 从「是什么」到「怎么做」，一口气入门快捷指令](https://sspai.com/post/78867)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-29 05:11:55
+:alarm_clock: 更新时间: 2023-03-30 05:12:05

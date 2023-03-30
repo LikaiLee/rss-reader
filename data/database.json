@@ -423,6 +423,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "与 Tim Cook 面对面，这 4 个 App 的开发者有话说……",
+                "link": "https://sspai.com/post/79089",
+                "published": "2023-03-30"
+            },
+            {
+                "title": "派早报：WWDC23 定档、索尼推出 ZV-E1 相机等",
+                "link": "https://sspai.com/post/79092",
+                "published": "2023-03-30"
+            },
+            {
+                "title": "打开黑箱：组策略及注册表策略使用指南",
+                "link": "https://sspai.com/prime/story/windows-gpo-tutorial",
+                "published": "2023-03-29"
+            },
+            {
+                "title": "听说要被取代了，我们拿出看家文章和三大 AI 聊了聊",
+                "link": "https://sspai.com/post/79085",
+                "published": "2023-03-29"
+            },
+            {
+                "title": "Apple Music Classical 评测：为什么古典音乐应该被「区别对待」？",
+                "link": "https://sspai.com/post/79079",
+                "published": "2023-03-29"
+            },
+            {
+                "title": "播客 | 去年玩键盘，今年搞鼠标？谈谈最近的鼠标热潮",
+                "link": "https://sspai.com/post/79067",
+                "published": "2023-03-29"
+            },
+            {
                 "title": "抓包解协议，代码造布局：电子墨水价签改造 NAS 监控屏小记",
                 "link": "https://sspai.com/post/78993",
                 "published": "2023-03-29"
@@ -11293,7 +11323,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -48714,7 +48744,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
