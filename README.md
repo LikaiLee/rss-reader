@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-03-30】 科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html)
 * [【2023-03-23】 科技爱好者周刊（第 247 期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html)
 * [【2023-03-20】 运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html)
 * [【2023-03-17】 科技爱好者周刊（第 246 期）：永不丢失的网络身份](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html)
@@ -25,7 +26,6 @@
 * [【2023-02-17】 科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html)
 * [【2023-02-10】 科技爱好者周刊（第 241 期）：中国的增长动力在内陆](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html)
 * [【2023-02-03】 科技爱好者周刊（第 240 期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html)
-* [【2023-01-13】 科技爱好者周刊（第 239 期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-03-31】 藏在俄罗斯方块背后的故事，从冷战到任天堂的传奇](https://sspai.com/post/69365)
+* [【2023-03-31】 派早报：魅族召开新品发布会、罗技发布 Zone Learn 有线耳机等](https://sspai.com/post/79101)
+* [【2023-03-30】 新玩意 140｜少数派的作者们最近买了啥？](https://sspai.com/post/79095)
+* [【2023-03-30】 AI 图像生成工具可以取代摄影师吗？让我们从原理开始聊聊](https://sspai.com/prime/story/ai-image-explained)
+* [【2023-03-30】 如何用 Quicker + Notion 构建自己的「豆瓣」书影音库](https://sspai.com/post/79055)
 * [【2023-03-30】 与 Tim Cook 面对面，这 4 个 App 的开发者有话说……](https://sspai.com/post/79089)
 * [【2023-03-30】 派早报：WWDC23 定档、索尼推出 ZV-E1 相机等](https://sspai.com/post/79092)
 * [【2023-03-29】 打开黑箱：组策略及注册表策略使用指南](https://sspai.com/prime/story/windows-gpo-tutorial)
 * [【2023-03-29】 听说要被取代了，我们拿出看家文章和三大 AI 聊了聊](https://sspai.com/post/79085)
 * [【2023-03-29】 Apple Music Classical 评测：为什么古典音乐应该被「区别对待」？](https://sspai.com/post/79079)
-* [【2023-03-29】 播客 | 去年玩键盘，今年搞鼠标？谈谈最近的鼠标热潮](https://sspai.com/post/79067)
-* [【2023-03-29】 抓包解协议，代码造布局：电子墨水价签改造 NAS 监控屏小记](https://sspai.com/post/78993)
-* [【2023-03-29】 派早报：Redmi Note 12 Turbo 发布、任天堂放出《王国之泪》实机游玩视频等](https://sspai.com/post/79078)
-* [【2023-03-28】 三种方法，自动生成好记又好用的密码](https://sspai.com/prime/story/password-autogen)
-* [【2023-03-28】 一个小文件，如何黑掉密保齐全的 YouTube 频道？](https://sspai.com/post/79066)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-30 05:12:05
+:alarm_clock: 更新时间: 2023-03-31 05:11:37
