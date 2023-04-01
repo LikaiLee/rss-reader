@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-04-01】 满载梦想驶向下座港湾：私人游艇选购指南](https://sspai.com/post/79109)
+* [【2023-04-01】 派早报：2023 年 E3 展会确认取消、Tesla 计划推出新模式等](https://sspai.com/post/79124)
+* [【2023-03-31】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79112)
+* [【2023-03-31】 少数派的近期动态 Vol.02](https://sspai.com/post/79110)
+* [【2023-03-31】 Tim Cook 参观 Apple 上海加速器，我们聆听了开发者们的幕后故事](https://sspai.com/post/79104)
 * [【2023-03-31】 藏在俄罗斯方块背后的故事，从冷战到任天堂的传奇](https://sspai.com/post/69365)
 * [【2023-03-31】 派早报：魅族召开新品发布会、罗技发布 Zone Learn 有线耳机等](https://sspai.com/post/79101)
 * [【2023-03-30】 新玩意 140｜少数派的作者们最近买了啥？](https://sspai.com/post/79095)
 * [【2023-03-30】 AI 图像生成工具可以取代摄影师吗？让我们从原理开始聊聊](https://sspai.com/prime/story/ai-image-explained)
 * [【2023-03-30】 如何用 Quicker + Notion 构建自己的「豆瓣」书影音库](https://sspai.com/post/79055)
-* [【2023-03-30】 与 Tim Cook 面对面，这 4 个 App 的开发者有话说……](https://sspai.com/post/79089)
-* [【2023-03-30】 派早报：WWDC23 定档、索尼推出 ZV-E1 相机等](https://sspai.com/post/79092)
-* [【2023-03-29】 打开黑箱：组策略及注册表策略使用指南](https://sspai.com/prime/story/windows-gpo-tutorial)
-* [【2023-03-29】 听说要被取代了，我们拿出看家文章和三大 AI 聊了聊](https://sspai.com/post/79085)
-* [【2023-03-29】 Apple Music Classical 评测：为什么古典音乐应该被「区别对待」？](https://sspai.com/post/79079)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-04-01】 漫画《死神》(BLEACH) 中有哪些设定被弃之没用或者前后矛盾的？](http://www.zhihu.com/question/25282426/answer/2962400334?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-03-14】 参与话题 #汽车职场讨论，瓜分 600 万盐粒奖励！](http://zhuanlan.zhihu.com/p/612628006?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-03-01】 全新一季「答主挑战赛」来啦！祝你盐粒奖励拿到手软~](http://zhuanlan.zhihu.com/p/610432641?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-29】 《塞尔达传说：王国之泪》3 月 28 日公布新游戏实机视频，有哪些新信息值得关注？](http://www.zhihu.com/question/592419514/answer/2958135281?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-29】 2023 赛季中国足球职业联赛准入名单，广州城、昆山、陕西长安竞技无缘，广州队准入，哪些信息值得关注？](http://www.zhihu.com/question/592515397/answer/2958602371?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-27】 有哪些常见却叫不上名的植物？](http://www.zhihu.com/question/585362867/answer/2942847517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-03-26】 看完《铃芽之旅》你觉得怎么样？](http://www.zhihu.com/question/591630080/answer/2952901187?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-26】 游戏《闪耀暖暖》有什么适合新手的攻略分享？](http://www.zhihu.com/question/577028015/answer/2846527283?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-24】 如何提升工作效率，让每天工作都比较高效？](http://www.zhihu.com/question/268412101/answer/2951760237?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-24】 汽车上有哪些看起来理所应当的事，背后却隐藏了很多复杂工艺的技术？](http://www.zhihu.com/question/568584494/answer/2948939470?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-24】 插混和增程式汽车这么火，油电混合动力是不是大势已去？还值得买吗？](http://www.zhihu.com/question/586999681/answer/2926448999?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-24】 从求职者角度看，汽车行业各个岗位都是怎么样的？](http://www.zhihu.com/question/27693490/answer/2923340688?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-03-31 05:11:37
+:alarm_clock: 更新时间: 2023-04-01 05:10:48
