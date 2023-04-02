@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-04-01】 新玩意 141｜少数派的编辑们最近买了啥？](https://sspai.com/post/79081)
 * [【2023-04-01】 满载梦想驶向下座港湾：私人游艇选购指南](https://sspai.com/post/79109)
 * [【2023-04-01】 派早报：2023 年 E3 展会确认取消、Tesla 计划推出新模式等](https://sspai.com/post/79124)
 * [【2023-03-31】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79112)
@@ -44,7 +45,6 @@
 * [【2023-03-31】 派早报：魅族召开新品发布会、罗技发布 Zone Learn 有线耳机等](https://sspai.com/post/79101)
 * [【2023-03-30】 新玩意 140｜少数派的作者们最近买了啥？](https://sspai.com/post/79095)
 * [【2023-03-30】 AI 图像生成工具可以取代摄影师吗？让我们从原理开始聊聊](https://sspai.com/prime/story/ai-image-explained)
-* [【2023-03-30】 如何用 Quicker + Notion 构建自己的「豆瓣」书影音库](https://sspai.com/post/79055)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-01 05:10:48
+:alarm_clock: 更新时间: 2023-04-02 05:10:36

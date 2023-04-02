@@ -428,6 +428,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新玩意 141｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/79081",
+                "published": "2023-04-01"
+            },
+            {
                 "title": "满载梦想驶向下座港湾：私人游艇选购指南",
                 "link": "https://sspai.com/post/79109",
                 "published": "2023-04-01"
@@ -11378,7 +11383,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -48814,7 +48819,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     },
     {
         "id": 4,
