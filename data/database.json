@@ -428,6 +428,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫步指南：去西双版纳喝一杯冰咖啡也不错",
+                "link": "https://sspai.com/post/79016",
+                "published": "2023-04-03"
+            },
+            {
+                "title": "派早报：科技圈 4 月 1 日新闻摘要，推特公开部分源代码等",
+                "link": "https://sspai.com/post/79135",
+                "published": "2023-04-03"
+            },
+            {
+                "title": "从 Z Flip3 开始的折叠屏初尝：很苦，很酷",
+                "link": "https://sspai.com/post/79059",
+                "published": "2023-04-02"
+            },
+            {
                 "title": "新玩意 141｜少数派的编辑们最近买了啥？",
                 "link": "https://sspai.com/post/79081",
                 "published": "2023-04-01"
@@ -11383,7 +11398,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

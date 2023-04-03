@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-04-03】 城市漫步指南：去西双版纳喝一杯冰咖啡也不错](https://sspai.com/post/79016)
+* [【2023-04-03】 派早报：科技圈 4 月 1 日新闻摘要，推特公开部分源代码等](https://sspai.com/post/79135)
+* [【2023-04-02】 从 Z Flip3 开始的折叠屏初尝：很苦，很酷](https://sspai.com/post/79059)
 * [【2023-04-01】 新玩意 141｜少数派的编辑们最近买了啥？](https://sspai.com/post/79081)
 * [【2023-04-01】 满载梦想驶向下座港湾：私人游艇选购指南](https://sspai.com/post/79109)
 * [【2023-04-01】 派早报：2023 年 E3 展会确认取消、Tesla 计划推出新模式等](https://sspai.com/post/79124)
@@ -42,9 +45,6 @@
 * [【2023-03-31】 少数派的近期动态 Vol.02](https://sspai.com/post/79110)
 * [【2023-03-31】 Tim Cook 参观 Apple 上海加速器，我们聆听了开发者们的幕后故事](https://sspai.com/post/79104)
 * [【2023-03-31】 藏在俄罗斯方块背后的故事，从冷战到任天堂的传奇](https://sspai.com/post/69365)
-* [【2023-03-31】 派早报：魅族召开新品发布会、罗技发布 Zone Learn 有线耳机等](https://sspai.com/post/79101)
-* [【2023-03-30】 新玩意 140｜少数派的作者们最近买了啥？](https://sspai.com/post/79095)
-* [【2023-03-30】 AI 图像生成工具可以取代摄影师吗？让我们从原理开始聊聊](https://sspai.com/prime/story/ai-image-explained)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-02 05:10:36
+:alarm_clock: 更新时间: 2023-04-03 05:11:20
