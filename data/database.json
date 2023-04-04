@@ -428,6 +428,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫步指南：去雅典，和家门口的流浪猫做好朋友",
+                "link": "https://sspai.com/post/79119",
+                "published": "2023-04-04"
+            },
+            {
+                "title": "派早报：大疆发布强视觉智能驾驶方案、宜家 Little Sun 合作推出太阳能 LED 灯等",
+                "link": "https://sspai.com/post/79158",
+                "published": "2023-04-04"
+            },
+            {
+                "title": "新派煮机｜它的时代先于时代：Palm 简史（五）",
+                "link": "https://sspai.com/prime/story/vintage-tech-stories-palm-5",
+                "published": "2023-04-03"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/79153",
+                "published": "2023-04-03"
+            },
+            {
+                "title": "搭建属于自己的离线漫画库：我为什么推荐你试试 Komga",
+                "link": "https://sspai.com/post/79100",
+                "published": "2023-04-03"
+            },
+            {
+                "title": "为「重制」定义新高度：《生化危机 4》重制版游玩体验及系列展望",
+                "link": "https://sspai.com/post/79137",
+                "published": "2023-04-03"
+            },
+            {
                 "title": "城市漫步指南：去西双版纳喝一杯冰咖啡也不错",
                 "link": "https://sspai.com/post/79016",
                 "published": "2023-04-03"
@@ -11398,7 +11428,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -41854,6 +41884,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "浅谈中日两国之间的历史渊源",
+                "link": "http://zhuanlan.zhihu.com/p/330251297?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-03"
+            },
+            {
+                "title": "王熙凤欺负林黛玉？抄检大观园避开薛宝钗，偏抄潇湘馆",
+                "link": "http://zhuanlan.zhihu.com/p/617823084?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-03"
+            },
+            {
                 "title": "漫画《死神》(BLEACH) 中有哪些设定被弃之没用或者前后矛盾的？",
                 "link": "http://www.zhihu.com/question/25282426/answer/2962400334?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-04-01"
@@ -48834,7 +48874,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
