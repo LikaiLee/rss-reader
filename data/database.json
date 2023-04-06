@@ -428,6 +428,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "告别十年印象笔记，用 Obsidian 一年最喜欢的 7 个功能",
+                "link": "https://sspai.com/post/77852",
+                "published": "2023-04-06"
+            },
+            {
+                "title": "派早报：微软推出新款 Surface Dock、Apple 在全球推广可再生电力等",
+                "link": "https://sspai.com/post/79182",
+                "published": "2023-04-06"
+            },
+            {
+                "title": "Windows 沙盒应用的原理和选择",
+                "link": "https://sspai.com/prime/story/windows-sandbox-apps-explained",
+                "published": "2023-04-05"
+            },
+            {
+                "title": "当一个单纯的 AI 走向疯狂：《宇宙回形针》与 AI 对齐之辩",
+                "link": "https://sspai.com/post/79175",
+                "published": "2023-04-05"
+            },
+            {
                 "title": "入门徒步运动，可以从一双鞋开始",
                 "link": "https://sspai.com/post/79132",
                 "published": "2023-04-05"
@@ -41903,6 +41923,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "卧龙-关卡拆解（文章写作中暂未完成）",
+                "link": "http://zhuanlan.zhihu.com/p/619705261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-06"
+            },
             {
                 "title": "馒头、面包为什么会有「皮」？",
                 "link": "http://www.zhihu.com/question/20285657/answer/2963446768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
