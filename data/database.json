@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 249 期）：最成功的软件企业家",
+                "link": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html",
+                "published": "2023-04-07"
+            },
+            {
                 "title": "科技爱好者周刊（第 248 期）：不要夸大 ChatGPT",
                 "link": "http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html",
                 "published": "2023-03-30"
@@ -420,13 +425,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "Notion 有「宏」了？Button 体验及思索",
+                "link": "https://sspai.com/post/79165",
+                "published": "2023-04-07"
+            },
+            {
+                "title": "派早报：Google Play 要求应用能删除用户数据，特斯拉将推小型电动车等",
+                "link": "https://sspai.com/post/79198",
+                "published": "2023-04-07"
+            },
+            {
+                "title": "Midjourney 能识图了，这是个好事儿吗？",
+                "link": "https://sspai.com/post/79171",
+                "published": "2023-04-06"
+            },
+            {
+                "title": "评论有奖｜代写方案、论文降重……「AI 创作」的终点是什么？",
+                "link": "https://sspai.com/post/79181",
+                "published": "2023-04-06"
+            },
+            {
+                "title": "城市漫步指南：早春时节，看我一步跃入热海的初夏",
+                "link": "https://sspai.com/post/78774",
+                "published": "2023-04-06"
+            },
             {
                 "title": "告别十年印象笔记，用 Obsidian 一年最喜欢的 7 个功能",
                 "link": "https://sspai.com/post/77852",
@@ -11468,7 +11498,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -41924,6 +41954,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "SIFU师父：弱者报复，强者宽恕，智者忽略",
+                "link": "http://zhuanlan.zhihu.com/p/619618591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-06"
+            },
+            {
                 "title": "卧龙-关卡拆解（文章写作中暂未完成）",
                 "link": "http://zhuanlan.zhihu.com/p/619705261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-04-06"
@@ -48932,6 +48967,11 @@
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
             {
+                "title": "好工具周刊（第 53 期）: Hacker News 网站切换器, 小鱼标签, Crunchzilla, Accordion Slider Generator, ....",
+                "link": "https://bestxtools.zhubai.love/posts/2255931383602020352",
+                "published": "2023-04-07"
+            },
+            {
                 "title": "好工具周刊（第 52 期）: Icon Maker, Unicorn icons, Colord, CSS Generators, CopySymbol, Open Prompt, OpenGPT",
                 "link": "https://bestxtools.zhubai.love/posts/2250649351762280448",
                 "published": "2023-03-23"
@@ -49212,6 +49252,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

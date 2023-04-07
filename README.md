@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
-* [好工具周刊](#好工具周刊)
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-04-07】 科技爱好者周刊（第 249 期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html)
 * [【2023-03-30】 科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html)
 * [【2023-03-23】 科技爱好者周刊（第 247 期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html)
 * [【2023-03-20】 运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html)
@@ -25,7 +26,6 @@
 * [【2023-02-24】 科技爱好者周刊（第 243 期）：与孔子 AI 聊天](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html)
 * [【2023-02-17】 科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html)
 * [【2023-02-10】 科技爱好者周刊（第 241 期）：中国的增长动力在内陆](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html)
-* [【2023-02-03】 科技爱好者周刊（第 240 期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-04-07】 Notion 有「宏」了？Button 体验及思索](https://sspai.com/post/79165)
+* [【2023-04-07】 派早报：Google Play 要求应用能删除用户数据，特斯拉将推小型电动车等](https://sspai.com/post/79198)
+* [【2023-04-06】 Midjourney 能识图了，这是个好事儿吗？](https://sspai.com/post/79171)
+* [【2023-04-06】 评论有奖｜代写方案、论文降重……「AI 创作」的终点是什么？](https://sspai.com/post/79181)
+* [【2023-04-06】 城市漫步指南：早春时节，看我一步跃入热海的初夏](https://sspai.com/post/78774)
 * [【2023-04-06】 告别十年印象笔记，用 Obsidian 一年最喜欢的 7 个功能](https://sspai.com/post/77852)
 * [【2023-04-06】 派早报：微软推出新款 Surface Dock、Apple 在全球推广可再生电力等](https://sspai.com/post/79182)
 * [【2023-04-05】 Windows 沙盒应用的原理和选择](https://sspai.com/prime/story/windows-sandbox-apps-explained)
 * [【2023-04-05】 当一个单纯的 AI 走向疯狂：《宇宙回形针》与 AI 对齐之辩](https://sspai.com/post/79175)
 * [【2023-04-05】 入门徒步运动，可以从一双鞋开始](https://sspai.com/post/79132)
-* [【2023-04-04】 Android 阵营的「AirDrop」来了，以及近期的泛 Android 资讯](https://sspai.com/prime/story/zouzhe-230404)
-* [【2023-04-04】 给你的游戏装备升升级：向你推荐这些游戏外设配件](https://sspai.com/post/79097)
-* [【2023-04-04】 先量化再优化：我用 Biohacker 的方式让自己睡得更好](https://sspai.com/post/79142)
-* [【2023-04-04】 城市漫步指南：去雅典，和家门口的流浪猫做好朋友](https://sspai.com/post/79119)
-* [【2023-04-04】 派早报：大疆发布强视觉智能驾驶方案、宜家 Little Sun 合作推出太阳能 LED 灯等](https://sspai.com/post/79158)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-04-06】 SIFU师父：弱者报复，强者宽恕，智者忽略](http://zhuanlan.zhihu.com/p/619618591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-06】 卧龙-关卡拆解（文章写作中暂未完成）](http://zhuanlan.zhihu.com/p/619705261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-04】 馒头、面包为什么会有「皮」？](http://www.zhihu.com/question/20285657/answer/2963446768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-03】 浅谈中日两国之间的历史渊源](http://zhuanlan.zhihu.com/p/330251297?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-03-01】 全新一季「答主挑战赛」来啦！祝你盐粒奖励拿到手软~](http://zhuanlan.zhihu.com/p/610432641?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-29】 《塞尔达传说：王国之泪》3 月 28 日公布新游戏实机视频，有哪些新信息值得关注？](http://www.zhihu.com/question/592419514/answer/2958135281?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-03-29】 2023 赛季中国足球职业联赛准入名单，广州城、昆山、陕西长安竞技无缘，广州队准入，哪些信息值得关注？](http://www.zhihu.com/question/592515397/answer/2958602371?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-27】 有哪些常见却叫不上名的植物？](http://www.zhihu.com/question/585362867/answer/2942847517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2023-04-07】 好工具周刊（第 53 期）: Hacker News 网站切换器, 小鱼标签, Crunchzilla, Accordion Slider Generator, ....](https://bestxtools.zhubai.love/posts/2255931383602020352)
 * [【2023-03-23】 好工具周刊（第 52 期）: Icon Maker, Unicorn icons, Colord, CSS Generators, CopySymbol, Open Prompt, OpenGPT](https://bestxtools.zhubai.love/posts/2250649351762280448)
 * [【2023-03-16】 好工具周刊（第 51 期）: 小鱼标签 (UTags), SingleFile, Scrollbar, Memo Card, OG Image Playground, 白描, Tartan ...](https://bestxtools.zhubai.love/posts/2248101999973670912)
 * [【2023-03-09】 好工具周刊本周停一期（2023/03/09）](https://bestxtools.zhubai.love/posts/2245516916011892736)
@@ -101,7 +102,6 @@
 * [【2023-02-09】 好工具周刊（第 47 期）: 我最喜欢且常用的浏览器插件 - Vimium, AdBlock, uBlacklist, Tampermonkey, Stylus, MarkDownload, ...](https://bestxtools.zhubai.love/posts/2235408322050158592)
 * [【2023-01-19】 好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具 / The Best X Tools 2022 / 和抽奖活动](https://bestxtools.zhubai.love/posts/2227788146916585472)
 * [【2023-01-13】 好工具周刊（第 45 期）: CSS Specificity Calculator, Vim Online, Smooth Shadow, Patternify, Icons Pattern, ...](https://bestxtools.zhubai.love/posts/2225492315366248448)
-* [【2023-01-05】 好工具周刊迎 2023 年 🎰 抽奖活动结果公布](https://bestxtools.zhubai.love/posts/2222709322708946944)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-06 05:11:02
+:alarm_clock: 更新时间: 2023-04-07 05:11:17
