@@ -425,13 +425,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大笼作品",
+                "link": "https://sspai.com/post/79208",
+                "published": "2023-04-07"
+            },
+            {
+                "title": "从失眠到高效早晨：我的 5AM Club 计划分享",
+                "link": "https://sspai.com/post/79188",
+                "published": "2023-04-07"
+            },
+            {
+                "title": "无需客户端本地管理网盘，你有这些方案可以选择",
+                "link": "https://sspai.com/post/79131",
+                "published": "2023-04-07"
+            },
             {
                 "title": "Notion 有「宏」了？Button 体验及思索",
                 "link": "https://sspai.com/post/79165",
@@ -11498,7 +11513,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -41954,6 +41969,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "创作者请回答｜米花：从封笔三年到写出 9.9 分神作《胤都异妖录》，她要为中国妖怪正名",
+                "link": "http://zhuanlan.zhihu.com/p/620167841?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-07"
+            },
+            {
                 "title": "SIFU师父：弱者报复，强者宽恕，智者忽略",
                 "link": "http://zhuanlan.zhihu.com/p/619618591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-04-06"
@@ -49252,6 +49272,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
