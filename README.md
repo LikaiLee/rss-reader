@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-04-08】 山间异客：雷达 RD6 纯电皮卡驾驶体验](https://sspai.com/post/79216)
 * [【2023-04-07】 本周看什么 | 最近值得一看的一大笼作品](https://sspai.com/post/79208)
 * [【2023-04-07】 从失眠到高效早晨：我的 5AM Club 计划分享](https://sspai.com/post/79188)
 * [【2023-04-07】 无需客户端本地管理网盘，你有这些方案可以选择](https://sspai.com/post/79131)
@@ -44,7 +45,6 @@
 * [【2023-04-06】 评论有奖｜代写方案、论文降重……「AI 创作」的终点是什么？](https://sspai.com/post/79181)
 * [【2023-04-06】 城市漫步指南：早春时节，看我一步跃入热海的初夏](https://sspai.com/post/78774)
 * [【2023-04-06】 告别十年印象笔记，用 Obsidian 一年最喜欢的 7 个功能](https://sspai.com/post/77852)
-* [【2023-04-06】 派早报：微软推出新款 Surface Dock、Apple 在全球推广可再生电力等](https://sspai.com/post/79182)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-08 05:10:31
+:alarm_clock: 更新时间: 2023-04-09 05:10:46

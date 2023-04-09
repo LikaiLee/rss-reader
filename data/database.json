@@ -433,6 +433,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "山间异客：雷达 RD6 纯电皮卡驾驶体验",
+                "link": "https://sspai.com/post/79216",
+                "published": "2023-04-08"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的一大笼作品",
                 "link": "https://sspai.com/post/79208",
                 "published": "2023-04-07"
@@ -11513,7 +11518,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -48979,7 +48984,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
