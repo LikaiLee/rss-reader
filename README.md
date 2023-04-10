@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-04-10】 木韵盈怀，指间的心流律动：千元级木质 Alice 键盘 AMX60 简评](https://sspai.com/post/79173)
+* [【2023-04-10】 派早报：阿里巴巴上线通义千问，推特针对 Substack 实施多项限制](https://sspai.com/post/79226)
+* [【2023-04-09】 先别一股脑扔进洗衣机：换季衣物洗护指南](https://sspai.com/post/60247)
 * [【2023-04-08】 山间异客：雷达 RD6 纯电皮卡驾驶体验](https://sspai.com/post/79216)
 * [【2023-04-07】 本周看什么 | 最近值得一看的一大笼作品](https://sspai.com/post/79208)
 * [【2023-04-07】 从失眠到高效早晨：我的 5AM Club 计划分享](https://sspai.com/post/79188)
@@ -42,9 +45,6 @@
 * [【2023-04-07】 Notion 有「宏」了？Button 体验及思索](https://sspai.com/post/79165)
 * [【2023-04-07】 派早报：Google Play 要求应用能删除用户数据，特斯拉将推小型电动车等](https://sspai.com/post/79198)
 * [【2023-04-06】 Midjourney 能识图了，这是个好事儿吗？](https://sspai.com/post/79171)
-* [【2023-04-06】 评论有奖｜代写方案、论文降重……「AI 创作」的终点是什么？](https://sspai.com/post/79181)
-* [【2023-04-06】 城市漫步指南：早春时节，看我一步跃入热海的初夏](https://sspai.com/post/78774)
-* [【2023-04-06】 告别十年印象笔记，用 Obsidian 一年最喜欢的 7 个功能](https://sspai.com/post/77852)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-04-10】 知乎故事大赛·长篇创作马拉松第三季正式启动——「人间游记」邀您起笔](http://zhuanlan.zhihu.com/p/620704426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-04-10】 中国哪些职业会被GPT（们）替代？](http://zhuanlan.zhihu.com/p/620334140?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-04-06】 卧龙-关卡拆解](http://zhuanlan.zhihu.com/p/619705261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-07】 创作者请回答｜米花：从封笔三年到写出 9.9 分神作《胤都异妖录》，她要为中国妖怪正名](http://zhuanlan.zhihu.com/p/620167841?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-06】 SIFU师父：弱者报复，强者宽恕，智者忽略](http://zhuanlan.zhihu.com/p/619618591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-06】 卧龙-关卡拆解（文章写作中暂未完成）](http://zhuanlan.zhihu.com/p/619705261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-04-03】 浅谈中日两国之间的历史渊源](http://zhuanlan.zhihu.com/p/330251297?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-03】 王熙凤欺负林黛玉？抄检大观园避开薛宝钗，偏抄潇湘馆](http://zhuanlan.zhihu.com/p/617823084?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-01】 漫画《死神》(BLEACH) 中有哪些设定被弃之没用或者前后矛盾的？](http://www.zhihu.com/question/25282426/answer/2962400334?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-14】 参与话题 #汽车职场讨论，瓜分 600 万盐粒奖励！](http://zhuanlan.zhihu.com/p/612628006?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-01】 全新一季「答主挑战赛」来啦！祝你盐粒奖励拿到手软~](http://zhuanlan.zhihu.com/p/610432641?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-03-29】 《塞尔达传说：王国之泪》3 月 28 日公布新游戏实机视频，有哪些新信息值得关注？](http://www.zhihu.com/question/592419514/answer/2958135281?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-09 05:10:46
+:alarm_clock: 更新时间: 2023-04-10 05:11:50
