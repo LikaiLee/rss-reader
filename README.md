@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-04-11】 从设备选购到自动化搭建：我的 Home Assistant 全自动养猫方案](https://sspai.com/post/79141)
+* [【2023-04-11】 派早报：中国支付清算协会发布关于 ChatGPT 等工具的倡议等](https://sspai.com/post/79252)
+* [【2023-04-10】 Wemo 暂停开发 Matter 设备，以及其他值得了解的智能家居资讯](https://sspai.com/prime/story/zouzhe-230410)
+* [【2023-04-10】 派评 | 近期值得关注的 App](https://sspai.com/post/79246)
+* [【2023-04-10】 除了你想要的浪漫，樱花树下或许还有你不想要的过敏](https://sspai.com/post/71783)
+* [【2023-04-10】 「划水」也能锻炼全身：划船机的科普与选购](https://sspai.com/post/79232)
 * [【2023-04-10】 木韵盈怀，指间的心流律动：千元级木质 Alice 键盘 AMX60 简评](https://sspai.com/post/79173)
 * [【2023-04-10】 派早报：阿里巴巴上线通义千问，推特针对 Substack 实施多项限制](https://sspai.com/post/79226)
 * [【2023-04-09】 先别一股脑扔进洗衣机：换季衣物洗护指南](https://sspai.com/post/60247)
 * [【2023-04-08】 山间异客：雷达 RD6 纯电皮卡驾驶体验](https://sspai.com/post/79216)
-* [【2023-04-07】 本周看什么 | 最近值得一看的一大笼作品](https://sspai.com/post/79208)
-* [【2023-04-07】 从失眠到高效早晨：我的 5AM Club 计划分享](https://sspai.com/post/79188)
-* [【2023-04-07】 无需客户端本地管理网盘，你有这些方案可以选择](https://sspai.com/post/79131)
-* [【2023-04-07】 Notion 有「宏」了？Button 体验及思索](https://sspai.com/post/79165)
-* [【2023-04-07】 派早报：Google Play 要求应用能删除用户数据，特斯拉将推小型电动车等](https://sspai.com/post/79198)
-* [【2023-04-06】 Midjourney 能识图了，这是个好事儿吗？](https://sspai.com/post/79171)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-04-10】 游戏分析（三）：从《双点医院》看关卡设计I](http://zhuanlan.zhihu.com/p/620837753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-10】 知乎故事大赛·长篇创作马拉松第三季正式启动——「人间游记」邀您起笔](http://zhuanlan.zhihu.com/p/620704426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-10】 中国哪些职业会被GPT（们）替代？](http://zhuanlan.zhihu.com/p/620334140?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-06】 卧龙-关卡拆解](http://zhuanlan.zhihu.com/p/619705261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-04-04】 馒头、面包为什么会有「皮」？](http://www.zhihu.com/question/20285657/answer/2963446768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-03】 浅谈中日两国之间的历史渊源](http://zhuanlan.zhihu.com/p/330251297?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-03】 王熙凤欺负林黛玉？抄检大观园避开薛宝钗，偏抄潇湘馆](http://zhuanlan.zhihu.com/p/617823084?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-01】 漫画《死神》(BLEACH) 中有哪些设定被弃之没用或者前后矛盾的？](http://www.zhihu.com/question/25282426/answer/2962400334?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-10 05:11:50
+:alarm_clock: 更新时间: 2023-04-11 05:11:22

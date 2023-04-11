@@ -433,6 +433,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从设备选购到自动化搭建：我的 Home Assistant 全自动养猫方案",
+                "link": "https://sspai.com/post/79141",
+                "published": "2023-04-11"
+            },
+            {
+                "title": "派早报：中国支付清算协会发布关于 ChatGPT 等工具的倡议等",
+                "link": "https://sspai.com/post/79252",
+                "published": "2023-04-11"
+            },
+            {
+                "title": "Wemo 暂停开发 Matter 设备，以及其他值得了解的智能家居资讯",
+                "link": "https://sspai.com/prime/story/zouzhe-230410",
+                "published": "2023-04-10"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/79246",
+                "published": "2023-04-10"
+            },
+            {
+                "title": "除了你想要的浪漫，樱花树下或许还有你不想要的过敏",
+                "link": "https://sspai.com/post/71783",
+                "published": "2023-04-10"
+            },
+            {
+                "title": "「划水」也能锻炼全身：划船机的科普与选购",
+                "link": "https://sspai.com/post/79232",
+                "published": "2023-04-10"
+            },
+            {
                 "title": "木韵盈怀，指间的心流律动：千元级木质 Alice 键盘 AMX60 简评",
                 "link": "https://sspai.com/post/79173",
                 "published": "2023-04-10"
@@ -11533,7 +11563,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -41989,6 +42019,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "游戏分析（三）：从《双点医院》看关卡设计I",
+                "link": "http://zhuanlan.zhihu.com/p/620837753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-10"
+            },
+            {
                 "title": "知乎故事大赛·长篇创作马拉松第三季正式启动——「人间游记」邀您起笔",
                 "link": "http://zhuanlan.zhihu.com/p/620704426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-04-10"
@@ -49014,7 +49049,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,
