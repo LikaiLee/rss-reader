@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-04-12】 不买可以先收藏 14：低价与品质兼得，这是我的汽车太阳膜选购经验](https://sspai.com/post/79140)
+* [【2023-04-12】 派早报：YouTube 面向订阅用户推出多项新功能等](https://sspai.com/post/79265)
+* [【2023-04-11】 新派煮机 | 从 PDA 谈起：个人数字助理小史](https://sspai.com/prime/story/vintage-tech-stories-pda-history)
+* [【2023-04-11】 Google Play 新特性「应用归档」是怎么帮你节省手机空间的？](https://sspai.com/post/60228)
 * [【2023-04-11】 从设备选购到自动化搭建：我的 Home Assistant 全自动养猫方案](https://sspai.com/post/79141)
 * [【2023-04-11】 派早报：中国支付清算协会发布关于 ChatGPT 等工具的倡议等](https://sspai.com/post/79252)
 * [【2023-04-10】 Wemo 暂停开发 Matter 设备，以及其他值得了解的智能家居资讯](https://sspai.com/prime/story/zouzhe-230410)
 * [【2023-04-10】 派评 | 近期值得关注的 App](https://sspai.com/post/79246)
 * [【2023-04-10】 除了你想要的浪漫，樱花树下或许还有你不想要的过敏](https://sspai.com/post/71783)
 * [【2023-04-10】 「划水」也能锻炼全身：划船机的科普与选购](https://sspai.com/post/79232)
-* [【2023-04-10】 木韵盈怀，指间的心流律动：千元级木质 Alice 键盘 AMX60 简评](https://sspai.com/post/79173)
-* [【2023-04-10】 派早报：阿里巴巴上线通义千问，推特针对 Substack 实施多项限制](https://sspai.com/post/79226)
-* [【2023-04-09】 先别一股脑扔进洗衣机：换季衣物洗护指南](https://sspai.com/post/60247)
-* [【2023-04-08】 山间异客：雷达 RD6 纯电皮卡驾驶体验](https://sspai.com/post/79216)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-11 05:11:22
+:alarm_clock: 更新时间: 2023-04-12 05:11:20

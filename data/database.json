@@ -433,6 +433,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不买可以先收藏 14：低价与品质兼得，这是我的汽车太阳膜选购经验",
+                "link": "https://sspai.com/post/79140",
+                "published": "2023-04-12"
+            },
+            {
+                "title": "派早报：YouTube 面向订阅用户推出多项新功能等",
+                "link": "https://sspai.com/post/79265",
+                "published": "2023-04-12"
+            },
+            {
+                "title": "新派煮机 | 从 PDA 谈起：个人数字助理小史",
+                "link": "https://sspai.com/prime/story/vintage-tech-stories-pda-history",
+                "published": "2023-04-11"
+            },
+            {
+                "title": "Google Play 新特性「应用归档」是怎么帮你节省手机空间的？",
+                "link": "https://sspai.com/post/60228",
+                "published": "2023-04-11"
+            },
+            {
                 "title": "从设备选购到自动化搭建：我的 Home Assistant 全自动养猫方案",
                 "link": "https://sspai.com/post/79141",
                 "published": "2023-04-11"
@@ -11563,7 +11583,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -49049,7 +49069,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
