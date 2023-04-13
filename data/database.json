@@ -433,6 +433,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "摆脱桎梏、拥抱现代的命令行工具：聊聊我为什么选择 Warp",
+                "link": "https://sspai.com/post/79262",
+                "published": "2023-04-13"
+            },
+            {
+                "title": "派早报：Android 14 Beta 1 上线、HBO Max 更名为 Max 等",
+                "link": "https://sspai.com/post/79281",
+                "published": "2023-04-13"
+            },
+            {
+                "title": "怎样快速制作「九宫格」拼图：基于 ImageMagick 和快捷指令的方案",
+                "link": "https://sspai.com/prime/story/tile-cropping-magick-shortcuts",
+                "published": "2023-04-12"
+            },
+            {
+                "title": "差旅出行可以住得更舒适：星级酒店常旅客入门",
+                "link": "https://sspai.com/post/72199",
+                "published": "2023-04-12"
+            },
+            {
+                "title": "Mini Carbrio｜迷你+敞篷, 收获双倍快乐",
+                "link": "https://sspai.com/post/79178",
+                "published": "2023-04-12"
+            },
+            {
+                "title": "播客 | AI 工具会不会继续瓦解我们残存的注意力？",
+                "link": "https://sspai.com/post/79267",
+                "published": "2023-04-12"
+            },
+            {
                 "title": "不买可以先收藏 14：低价与品质兼得，这是我的汽车太阳膜选购经验",
                 "link": "https://sspai.com/post/79140",
                 "published": "2023-04-12"
@@ -11583,7 +11613,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -42039,6 +42069,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "大语言模型的涌现能力：现象与解释",
+                "link": "http://zhuanlan.zhihu.com/p/621438653?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-12"
+            },
+            {
                 "title": "游戏分析（三）：从《双点医院》看关卡设计I",
                 "link": "http://zhuanlan.zhihu.com/p/620837753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-04-10"
@@ -49069,7 +49104,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

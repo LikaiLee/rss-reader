@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-04-13】 摆脱桎梏、拥抱现代的命令行工具：聊聊我为什么选择 Warp](https://sspai.com/post/79262)
+* [【2023-04-13】 派早报：Android 14 Beta 1 上线、HBO Max 更名为 Max 等](https://sspai.com/post/79281)
+* [【2023-04-12】 怎样快速制作「九宫格」拼图：基于 ImageMagick 和快捷指令的方案](https://sspai.com/prime/story/tile-cropping-magick-shortcuts)
+* [【2023-04-12】 差旅出行可以住得更舒适：星级酒店常旅客入门](https://sspai.com/post/72199)
+* [【2023-04-12】 Mini Carbrio｜迷你+敞篷, 收获双倍快乐](https://sspai.com/post/79178)
+* [【2023-04-12】 播客 | AI 工具会不会继续瓦解我们残存的注意力？](https://sspai.com/post/79267)
 * [【2023-04-12】 不买可以先收藏 14：低价与品质兼得，这是我的汽车太阳膜选购经验](https://sspai.com/post/79140)
 * [【2023-04-12】 派早报：YouTube 面向订阅用户推出多项新功能等](https://sspai.com/post/79265)
 * [【2023-04-11】 新派煮机 | 从 PDA 谈起：个人数字助理小史](https://sspai.com/prime/story/vintage-tech-stories-pda-history)
 * [【2023-04-11】 Google Play 新特性「应用归档」是怎么帮你节省手机空间的？](https://sspai.com/post/60228)
-* [【2023-04-11】 从设备选购到自动化搭建：我的 Home Assistant 全自动养猫方案](https://sspai.com/post/79141)
-* [【2023-04-11】 派早报：中国支付清算协会发布关于 ChatGPT 等工具的倡议等](https://sspai.com/post/79252)
-* [【2023-04-10】 Wemo 暂停开发 Matter 设备，以及其他值得了解的智能家居资讯](https://sspai.com/prime/story/zouzhe-230410)
-* [【2023-04-10】 派评 | 近期值得关注的 App](https://sspai.com/post/79246)
-* [【2023-04-10】 除了你想要的浪漫，樱花树下或许还有你不想要的过敏](https://sspai.com/post/71783)
-* [【2023-04-10】 「划水」也能锻炼全身：划船机的科普与选购](https://sspai.com/post/79232)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-04-12】 大语言模型的涌现能力：现象与解释](http://zhuanlan.zhihu.com/p/621438653?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-10】 游戏分析（三）：从《双点医院》看关卡设计I](http://zhuanlan.zhihu.com/p/620837753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-10】 知乎故事大赛·长篇创作马拉松第三季正式启动——「人间游记」邀您起笔](http://zhuanlan.zhihu.com/p/620704426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-10】 中国哪些职业会被GPT（们）替代？](http://zhuanlan.zhihu.com/p/620334140?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-04-06】 卧龙-关卡拆解（文章写作中暂未完成）](http://zhuanlan.zhihu.com/p/619705261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-04】 馒头、面包为什么会有「皮」？](http://www.zhihu.com/question/20285657/answer/2963446768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-03】 浅谈中日两国之间的历史渊源](http://zhuanlan.zhihu.com/p/330251297?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-03】 王熙凤欺负林黛玉？抄检大观园避开薛宝钗，偏抄潇湘馆](http://zhuanlan.zhihu.com/p/617823084?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-12 05:11:20
+:alarm_clock: 更新时间: 2023-04-13 05:11:13
