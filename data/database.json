@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 250 期）：新技术的最大风险",
+                "link": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html",
+                "published": "2023-04-14"
+            },
+            {
                 "title": "科技爱好者周刊（第 249 期）：最成功的软件企业家",
                 "link": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html",
                 "published": "2023-04-07"
@@ -425,13 +430,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "这些实用的官方插件，入手三星之后别忘了试试",
+                "link": "https://sspai.com/post/79285",
+                "published": "2023-04-14"
+            },
+            {
+                "title": "派早报：知乎发布大模型「知海图 AI」，Google 宣布关闭 Currents 等",
+                "link": "https://sspai.com/post/79301",
+                "published": "2023-04-14"
+            },
+            {
+                "title": "具透 | Android 14 首个测试版上线，这些是值得你关注的新功能",
+                "link": "https://sspai.com/post/79290",
+                "published": "2023-04-13"
+            },
+            {
+                "title": "新玩意 142｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/79291",
+                "published": "2023-04-13"
+            },
+            {
+                "title": "告别寒暑假的你，即将会享有新假期",
+                "link": "https://sspai.com/post/79286",
+                "published": "2023-04-13"
+            },
             {
                 "title": "摆脱桎梏、拥抱现代的命令行工具：聊聊我为什么选择 Warp",
                 "link": "https://sspai.com/post/79262",
@@ -11613,7 +11643,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -49104,7 +49134,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

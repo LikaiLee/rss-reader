@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-04-14】 科技爱好者周刊（第 250 期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html)
 * [【2023-04-07】 科技爱好者周刊（第 249 期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html)
 * [【2023-03-30】 科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html)
 * [【2023-03-23】 科技爱好者周刊（第 247 期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html)
@@ -25,7 +26,6 @@
 * [【2023-03-03】 科技爱好者周刊（第 244 期）：大数据已死](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html)
 * [【2023-02-24】 科技爱好者周刊（第 243 期）：与孔子 AI 聊天](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html)
 * [【2023-02-17】 科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html)
-* [【2023-02-10】 科技爱好者周刊（第 241 期）：中国的增长动力在内陆](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-04-14】 这些实用的官方插件，入手三星之后别忘了试试](https://sspai.com/post/79285)
+* [【2023-04-14】 派早报：知乎发布大模型「知海图 AI」，Google 宣布关闭 Currents 等](https://sspai.com/post/79301)
+* [【2023-04-13】 具透 | Android 14 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/79290)
+* [【2023-04-13】 新玩意 142｜少数派的编辑们最近买了啥？](https://sspai.com/post/79291)
+* [【2023-04-13】 告别寒暑假的你，即将会享有新假期](https://sspai.com/post/79286)
 * [【2023-04-13】 摆脱桎梏、拥抱现代的命令行工具：聊聊我为什么选择 Warp](https://sspai.com/post/79262)
 * [【2023-04-13】 派早报：Android 14 Beta 1 上线、HBO Max 更名为 Max 等](https://sspai.com/post/79281)
 * [【2023-04-12】 怎样快速制作「九宫格」拼图：基于 ImageMagick 和快捷指令的方案](https://sspai.com/prime/story/tile-cropping-magick-shortcuts)
 * [【2023-04-12】 差旅出行可以住得更舒适：星级酒店常旅客入门](https://sspai.com/post/72199)
 * [【2023-04-12】 Mini Carbrio｜迷你+敞篷, 收获双倍快乐](https://sspai.com/post/79178)
-* [【2023-04-12】 播客 | AI 工具会不会继续瓦解我们残存的注意力？](https://sspai.com/post/79267)
-* [【2023-04-12】 不买可以先收藏 14：低价与品质兼得，这是我的汽车太阳膜选购经验](https://sspai.com/post/79140)
-* [【2023-04-12】 派早报：YouTube 面向订阅用户推出多项新功能等](https://sspai.com/post/79265)
-* [【2023-04-11】 新派煮机 | 从 PDA 谈起：个人数字助理小史](https://sspai.com/prime/story/vintage-tech-stories-pda-history)
-* [【2023-04-11】 Google Play 新特性「应用归档」是怎么帮你节省手机空间的？](https://sspai.com/post/60228)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-13 05:11:13
+:alarm_clock: 更新时间: 2023-04-14 05:11:18
