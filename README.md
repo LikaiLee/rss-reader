@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+2】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-04-14】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79311)
+* [【2023-04-14】 真诚的文字就是最好的广告：聊聊那些值得关注的技术公司博客](https://sspai.com/prime/story/recommendable-techco-blogs)
+* [【2023-04-14】 Mac 上的第三方微博客户端，Maipo 更新 4.1 版本](https://sspai.com/post/79299)
+* [【2023-04-14】 摆脱线缆，解放束缚，Keychron 少数派联名定制版 Q1 Pro 正式上架](https://sspai.com/post/79289)
+* [【2023-04-14】 「嗡嗡嗡」的季节又要来了，选驱蚊产品请先认准成分](https://sspai.com/post/60304)
 * [【2023-04-14】 这些实用的官方插件，入手三星之后别忘了试试](https://sspai.com/post/79285)
 * [【2023-04-14】 派早报：知乎发布大模型「知海图 AI」，Google 宣布关闭 Currents 等](https://sspai.com/post/79301)
 * [【2023-04-13】 具透 | Android 14 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/79290)
 * [【2023-04-13】 新玩意 142｜少数派的编辑们最近买了啥？](https://sspai.com/post/79291)
 * [【2023-04-13】 告别寒暑假的你，即将会享有新假期](https://sspai.com/post/79286)
-* [【2023-04-13】 摆脱桎梏、拥抱现代的命令行工具：聊聊我为什么选择 Warp](https://sspai.com/post/79262)
-* [【2023-04-13】 派早报：Android 14 Beta 1 上线、HBO Max 更名为 Max 等](https://sspai.com/post/79281)
-* [【2023-04-12】 怎样快速制作「九宫格」拼图：基于 ImageMagick 和快捷指令的方案](https://sspai.com/prime/story/tile-cropping-magick-shortcuts)
-* [【2023-04-12】 差旅出行可以住得更舒适：星级酒店常旅客入门](https://sspai.com/post/72199)
-* [【2023-04-12】 Mini Carbrio｜迷你+敞篷, 收获双倍快乐](https://sspai.com/post/79178)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-04-14】 你为什么想去伯利兹旅行？](http://www.zhihu.com/question/465800979/answer/2982676613?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-04-14】 为什么中国古代文学里，罕有推理类型的小说？](http://www.zhihu.com/question/595539446/answer/2983529528?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-12】 大语言模型的涌现能力：现象与解释](http://zhuanlan.zhihu.com/p/621438653?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-10】 游戏分析（三）：从《双点医院》看关卡设计I](http://zhuanlan.zhihu.com/p/620837753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-10】 知乎故事大赛·长篇创作马拉松第三季正式启动——「人间游记」邀您起笔](http://zhuanlan.zhihu.com/p/620704426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-04-07】 创作者请回答｜米花：从封笔三年到写出 9.9 分神作《胤都异妖录》，她要为中国妖怪正名](http://zhuanlan.zhihu.com/p/620167841?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-06】 SIFU师父：弱者报复，强者宽恕，智者忽略](http://zhuanlan.zhihu.com/p/619618591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-06】 卧龙-关卡拆解（文章写作中暂未完成）](http://zhuanlan.zhihu.com/p/619705261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-04】 馒头、面包为什么会有「皮」？](http://www.zhihu.com/question/20285657/answer/2963446768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-03】 浅谈中日两国之间的历史渊源](http://zhuanlan.zhihu.com/p/330251297?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2023-04-14】 好工具周刊（第 54 期）: 竹白工具箱 🧰, Node.js Toolbox, ReadMe.Dev, AI Colors, HQ ICON, Cron job editor, ...](https://bestxtools.zhubai.love/posts/2258541502231805952)
 * [【2023-04-07】 好工具周刊（第 53 期）: Hacker News 网站切换器, 小鱼标签, Crunchzilla, Accordion Slider Generator, ....](https://bestxtools.zhubai.love/posts/2255931383602020352)
 * [【2023-03-23】 好工具周刊（第 52 期）: Icon Maker, Unicorn icons, Colord, CSS Generators, CopySymbol, Open Prompt, OpenGPT](https://bestxtools.zhubai.love/posts/2250649351762280448)
 * [【2023-03-16】 好工具周刊（第 51 期）: 小鱼标签 (UTags), SingleFile, Scrollbar, Memo Card, OG Image Playground, 白描, Tartan ...](https://bestxtools.zhubai.love/posts/2248101999973670912)
@@ -101,7 +102,6 @@
 * [【2023-02-16】 好工具周刊（第 48 期）: ProfileMe, Box Shadows for TailwindCSS, Shapecatcher, Immersive Translate, ...](https://bestxtools.zhubai.love/posts/2237946902123864064)
 * [【2023-02-09】 好工具周刊（第 47 期）: 我最喜欢且常用的浏览器插件 - Vimium, AdBlock, uBlacklist, Tampermonkey, Stylus, MarkDownload, ...](https://bestxtools.zhubai.love/posts/2235408322050158592)
 * [【2023-01-19】 好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具 / The Best X Tools 2022 / 和抽奖活动](https://bestxtools.zhubai.love/posts/2227788146916585472)
-* [【2023-01-13】 好工具周刊（第 45 期）: CSS Specificity Calculator, Vim Online, Smooth Shadow, Patternify, Icons Pattern, ...](https://bestxtools.zhubai.love/posts/2225492315366248448)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-14 05:11:18
+:alarm_clock: 更新时间: 2023-04-15 05:10:55
