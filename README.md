@@ -3,10 +3,10 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
-* [好工具周刊](#好工具周刊) 【+1】
+* [知乎每日精选](#知乎每日精选)
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-04-15】 聊聊 ICU 病房限制家属探视的为什么与该不该](https://sspai.com/post/79319)
 * [【2023-04-14】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79311)
 * [【2023-04-14】 真诚的文字就是最好的广告：聊聊那些值得关注的技术公司博客](https://sspai.com/prime/story/recommendable-techco-blogs)
 * [【2023-04-14】 Mac 上的第三方微博客户端，Maipo 更新 4.1 版本](https://sspai.com/post/79299)
@@ -44,7 +45,6 @@
 * [【2023-04-14】 派早报：知乎发布大模型「知海图 AI」，Google 宣布关闭 Currents 等](https://sspai.com/post/79301)
 * [【2023-04-13】 具透 | Android 14 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/79290)
 * [【2023-04-13】 新玩意 142｜少数派的编辑们最近买了啥？](https://sspai.com/post/79291)
-* [【2023-04-13】 告别寒暑假的你，即将会享有新假期](https://sspai.com/post/79286)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-15 05:10:55
+:alarm_clock: 更新时间: 2023-04-16 05:10:52
