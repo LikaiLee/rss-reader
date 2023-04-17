@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-04-17】 派早报：OpenAI 确认目前没有训练 GPT-5，推特允许付费用户发送 10000 字符长推文](https://sspai.com/post/79326)
+* [【2023-04-16】 利用飞书多维表格搭建一套「个人财务管理系统」](https://sspai.com/post/79298)
 * [【2023-04-15】 聊聊 ICU 病房限制家属探视的为什么与该不该](https://sspai.com/post/79319)
 * [【2023-04-14】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79311)
 * [【2023-04-14】 真诚的文字就是最好的广告：聊聊那些值得关注的技术公司博客](https://sspai.com/prime/story/recommendable-techco-blogs)
@@ -43,8 +45,6 @@
 * [【2023-04-14】 「嗡嗡嗡」的季节又要来了，选驱蚊产品请先认准成分](https://sspai.com/post/60304)
 * [【2023-04-14】 这些实用的官方插件，入手三星之后别忘了试试](https://sspai.com/post/79285)
 * [【2023-04-14】 派早报：知乎发布大模型「知海图 AI」，Google 宣布关闭 Currents 等](https://sspai.com/post/79301)
-* [【2023-04-13】 具透 | Android 14 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/79290)
-* [【2023-04-13】 新玩意 142｜少数派的编辑们最近买了啥？](https://sspai.com/post/79291)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-04-17】 如何评价国产太空 FPS 游戏《边境》美区 25 美元，国区仅售 68 元人民币？](http://www.zhihu.com/question/594497862/answer/2984236942?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-04-17】 为什么在中国大众的广泛认知里，最有名的心理学家是弗洛伊德？](http://www.zhihu.com/question/595540039/answer/2983765485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-04-17】 坐标北京，打算周末出去玩，高铁2小时直达的城市有哪些值得一去？](http://www.zhihu.com/question/582817624/answer/2986603654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-04-16】 有哪些你以为古代没有，但其实早就有了的发明？](http://www.zhihu.com/question/588023318/answer/2986416239?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-14】 你为什么想去伯利兹旅行？](http://www.zhihu.com/question/465800979/answer/2982676613?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-14】 为什么中国古代文学里，罕有推理类型的小说？](http://www.zhihu.com/question/595539446/answer/2983529528?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-12】 大语言模型的涌现能力：现象与解释](http://zhuanlan.zhihu.com/p/621438653?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-10】 游戏分析（三）：从《双点医院》看关卡设计I](http://zhuanlan.zhihu.com/p/620837753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-10】 知乎故事大赛·长篇创作马拉松第三季正式启动——「人间游记」邀您起笔](http://zhuanlan.zhihu.com/p/620704426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-10】 中国哪些职业会被GPT（们）替代？](http://zhuanlan.zhihu.com/p/620334140?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-06】 卧龙-关卡拆解](http://zhuanlan.zhihu.com/p/619705261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-07】 创作者请回答｜米花：从封笔三年到写出 9.9 分神作《胤都异妖录》，她要为中国妖怪正名](http://zhuanlan.zhihu.com/p/620167841?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-06】 SIFU师父：弱者报复，强者宽恕，智者忽略](http://zhuanlan.zhihu.com/p/619618591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-06】 卧龙-关卡拆解（文章写作中暂未完成）](http://zhuanlan.zhihu.com/p/619705261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-16 05:10:52
+:alarm_clock: 更新时间: 2023-04-17 05:12:09

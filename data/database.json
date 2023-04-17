@@ -438,6 +438,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：OpenAI 确认目前没有训练 GPT-5，推特允许付费用户发送 10000 字符长推文",
+                "link": "https://sspai.com/post/79326",
+                "published": "2023-04-17"
+            },
+            {
+                "title": "利用飞书多维表格搭建一套「个人财务管理系统」",
+                "link": "https://sspai.com/post/79298",
+                "published": "2023-04-16"
+            },
+            {
                 "title": "聊聊 ICU 病房限制家属探视的为什么与该不该",
                 "link": "https://sspai.com/post/79319",
                 "published": "2023-04-15"
@@ -11673,7 +11683,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -42129,6 +42139,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价国产太空 FPS 游戏《边境》美区 25 美元，国区仅售 68 元人民币？",
+                "link": "http://www.zhihu.com/question/594497862/answer/2984236942?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-17"
+            },
+            {
+                "title": "为什么在中国大众的广泛认知里，最有名的心理学家是弗洛伊德？",
+                "link": "http://www.zhihu.com/question/595540039/answer/2983765485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-17"
+            },
+            {
+                "title": "坐标北京，打算周末出去玩，高铁2小时直达的城市有哪些值得一去？",
+                "link": "http://www.zhihu.com/question/582817624/answer/2986603654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-17"
+            },
+            {
+                "title": "有哪些你以为古代没有，但其实早就有了的发明？",
+                "link": "http://www.zhihu.com/question/588023318/answer/2986416239?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-16"
+            },
+            {
                 "title": "你为什么想去伯利兹旅行？",
                 "link": "http://www.zhihu.com/question/465800979/answer/2982676613?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-04-14"
@@ -49174,7 +49204,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 4,
