@@ -438,6 +438,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "微信把文件都改成了只读，我找 ChatGPT 问到了药方",
+                "link": "https://sspai.com/post/79351",
+                "published": "2023-04-18"
+            },
+            {
+                "title": "派早报：2023 上海车展今日开展，华为发布 nova 11 等新品等",
+                "link": "https://sspai.com/post/79355",
+                "published": "2023-04-18"
+            },
+            {
+                "title": "值得关注的操作系统动态：Ubuntu 23.04、Windows 11、Android 14 等",
+                "link": "https://sspai.com/prime/story/zouzhe-230417",
+                "published": "2023-04-17"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/79348",
+                "published": "2023-04-17"
+            },
+            {
+                "title": "规律作息、健康生活：一些提高睡眠质量的经验与思考",
+                "link": "https://sspai.com/post/79344",
+                "published": "2023-04-17"
+            },
+            {
+                "title": "家用咖啡手册 05 | 如何选择一台合适、好用的磨豆机？",
+                "link": "https://sspai.com/post/79279",
+                "published": "2023-04-17"
+            },
+            {
                 "title": "派早报：OpenAI 确认目前没有训练 GPT-5，推特允许付费用户发送 10000 字符长推文",
                 "link": "https://sspai.com/post/79326",
                 "published": "2023-04-17"
@@ -11683,7 +11713,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -42139,6 +42169,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如果《小王子》中的星球真的存在该是什么样子呢？",
+                "link": "http://www.zhihu.com/question/313692285/answer/2987614212?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-17"
+            },
+            {
+                "title": "广思的小说《朱公案》中，埋藏了哪些暗线？",
+                "link": "http://www.zhihu.com/question/595539383/answer/2983577910?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-17"
+            },
+            {
                 "title": "如何评价国产太空 FPS 游戏《边境》美区 25 美元，国区仅售 68 元人民币？",
                 "link": "http://www.zhihu.com/question/594497862/answer/2984236942?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-04-17"
@@ -49204,7 +49244,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 4,
