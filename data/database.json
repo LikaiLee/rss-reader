@@ -438,6 +438,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "也许是最适合普通人的 Pro 设备：PICO 4 Pro 上手体验",
+                "link": "https://sspai.com/post/79364",
+                "published": "2023-04-19"
+            },
+            {
+                "title": "派早报：小米 13 Ultra 发布、蔚来推出 ES6 纯电中型 SUV 等",
+                "link": "https://sspai.com/post/79369",
+                "published": "2023-04-19"
+            },
+            {
+                "title": "Discogs——见证二手唱片的繁荣、失落与复兴",
+                "link": "https://sspai.com/prime/story/music-database-discogs",
+                "published": "2023-04-18"
+            },
+            {
+                "title": "从「会背」单词到「会用」单词，这些工具与方法帮得上忙",
+                "link": "https://sspai.com/post/79241",
+                "published": "2023-04-18"
+            },
+            {
+                "title": "敬畏自然：记我的西藏探索之旅",
+                "link": "https://sspai.com/post/79325",
+                "published": "2023-04-18"
+            },
+            {
+                "title": "播客 | 后厂女工小王：辞掉产品经理，开启自由职业，期待好事发生",
+                "link": "https://sspai.com/post/79345",
+                "published": "2023-04-18"
+            },
+            {
                 "title": "微信把文件都改成了只读，我找 ChatGPT 问到了药方",
                 "link": "https://sspai.com/post/79351",
                 "published": "2023-04-18"
@@ -42168,6 +42198,16 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "去马丘比丘旅行是一种怎样的体验？",
+                "link": "http://www.zhihu.com/question/406251842/answer/2988133766?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-19"
+            },
+            {
+                "title": "“二次元游戏”的现代困境",
+                "link": "http://zhuanlan.zhihu.com/p/622504367?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-18"
+            },
             {
                 "title": "如果《小王子》中的星球真的存在该是什么样子呢？",
                 "link": "http://www.zhihu.com/question/313692285/answer/2987614212?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",

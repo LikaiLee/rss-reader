@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-04-19】 也许是最适合普通人的 Pro 设备：PICO 4 Pro 上手体验](https://sspai.com/post/79364)
+* [【2023-04-19】 派早报：小米 13 Ultra 发布、蔚来推出 ES6 纯电中型 SUV 等](https://sspai.com/post/79369)
+* [【2023-04-18】 Discogs——见证二手唱片的繁荣、失落与复兴](https://sspai.com/prime/story/music-database-discogs)
+* [【2023-04-18】 从「会背」单词到「会用」单词，这些工具与方法帮得上忙](https://sspai.com/post/79241)
+* [【2023-04-18】 敬畏自然：记我的西藏探索之旅](https://sspai.com/post/79325)
+* [【2023-04-18】 播客 | 后厂女工小王：辞掉产品经理，开启自由职业，期待好事发生](https://sspai.com/post/79345)
 * [【2023-04-18】 微信把文件都改成了只读，我找 ChatGPT 问到了药方](https://sspai.com/post/79351)
 * [【2023-04-18】 派早报：2023 上海车展今日开展，华为发布 nova 11 等新品等](https://sspai.com/post/79355)
 * [【2023-04-17】 值得关注的操作系统动态：Ubuntu 23.04、Windows 11、Android 14 等](https://sspai.com/prime/story/zouzhe-230417)
 * [【2023-04-17】 派评 | 近期值得关注的 App](https://sspai.com/post/79348)
-* [【2023-04-17】 规律作息、健康生活：一些提高睡眠质量的经验与思考](https://sspai.com/post/79344)
-* [【2023-04-17】 家用咖啡手册 05 | 如何选择一台合适、好用的磨豆机？](https://sspai.com/post/79279)
-* [【2023-04-17】 派早报：OpenAI 确认目前没有训练 GPT-5，推特允许付费用户发送 10000 字符长推文](https://sspai.com/post/79326)
-* [【2023-04-16】 利用飞书多维表格搭建一套「个人财务管理系统」](https://sspai.com/post/79298)
-* [【2023-04-15】 聊聊 ICU 病房限制家属探视的为什么与该不该](https://sspai.com/post/79319)
-* [【2023-04-14】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79311)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-04-19】 去马丘比丘旅行是一种怎样的体验？](http://www.zhihu.com/question/406251842/answer/2988133766?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-04-18】 “二次元游戏”的现代困境](http://zhuanlan.zhihu.com/p/622504367?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-17】 如果《小王子》中的星球真的存在该是什么样子呢？](http://www.zhihu.com/question/313692285/answer/2987614212?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-17】 广思的小说《朱公案》中，埋藏了哪些暗线？](http://www.zhihu.com/question/595539383/answer/2983577910?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-17】 如何评价国产太空 FPS 游戏《边境》美区 25 美元，国区仅售 68 元人民币？](http://www.zhihu.com/question/594497862/answer/2984236942?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-04-16】 有哪些你以为古代没有，但其实早就有了的发明？](http://www.zhihu.com/question/588023318/answer/2986416239?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-14】 你为什么想去伯利兹旅行？](http://www.zhihu.com/question/465800979/answer/2982676613?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-14】 为什么中国古代文学里，罕有推理类型的小说？](http://www.zhihu.com/question/595539446/answer/2983529528?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-12】 大语言模型的涌现能力：现象与解释](http://zhuanlan.zhihu.com/p/621438653?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-10】 游戏分析（三）：从《双点医院》看关卡设计I](http://zhuanlan.zhihu.com/p/620837753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-18 05:11:37
+:alarm_clock: 更新时间: 2023-04-19 05:11:47
