@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-04-20】 零碎的卡片笔记谁最擅长整理输出？flomo、Seeds 和 Writeathon 对比](https://sspai.com/post/79373)
+* [【2023-04-20】 派早报：HomePod 系列支持声音识别、索尼上调游戏价格等](https://sspai.com/post/79383)
+* [【2023-04-19】 为工程师而生的 Linear，为何也是设计师的灵感源泉](https://sspai.com/post/79347)
+* [【2023-04-19】 用 10 万条微信聊天记录和 280 篇博客文章，我克隆了一个数字版自己](https://sspai.com/post/79230)
 * [【2023-04-19】 也许是最适合普通人的 Pro 设备：PICO 4 Pro 上手体验](https://sspai.com/post/79364)
 * [【2023-04-19】 派早报：小米 13 Ultra 发布、蔚来推出 ES6 纯电中型 SUV 等](https://sspai.com/post/79369)
 * [【2023-04-18】 Discogs——见证二手唱片的繁荣、失落与复兴](https://sspai.com/prime/story/music-database-discogs)
 * [【2023-04-18】 从「会背」单词到「会用」单词，这些工具与方法帮得上忙](https://sspai.com/post/79241)
 * [【2023-04-18】 敬畏自然：记我的西藏探索之旅](https://sspai.com/post/79325)
 * [【2023-04-18】 播客 | 后厂女工小王：辞掉产品经理，开启自由职业，期待好事发生](https://sspai.com/post/79345)
-* [【2023-04-18】 微信把文件都改成了只读，我找 ChatGPT 问到了药方](https://sspai.com/post/79351)
-* [【2023-04-18】 派早报：2023 上海车展今日开展，华为发布 nova 11 等新品等](https://sspai.com/post/79355)
-* [【2023-04-17】 值得关注的操作系统动态：Ubuntu 23.04、Windows 11、Android 14 等](https://sspai.com/prime/story/zouzhe-230417)
-* [【2023-04-17】 派评 | 近期值得关注的 App](https://sspai.com/post/79348)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-04-20】 专访 OneFlow 袁进辉：AI 从业者如何正确地「玩」知乎？](http://zhuanlan.zhihu.com/p/623156641?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-04-19】 如何评价燕垒生的《天行健》？](http://www.zhihu.com/question/23050784/answer/2991183869?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-19】 去马丘比丘旅行是一种怎样的体验？](http://www.zhihu.com/question/406251842/answer/2988133766?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-18】 “二次元游戏”的现代困境](http://zhuanlan.zhihu.com/p/622504367?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-17】 如果《小王子》中的星球真的存在该是什么样子呢？](http://www.zhihu.com/question/313692285/answer/2987614212?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-04-17】 为什么在中国大众的广泛认知里，最有名的心理学家是弗洛伊德？](http://www.zhihu.com/question/595540039/answer/2983765485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-17】 坐标北京，打算周末出去玩，高铁2小时直达的城市有哪些值得一去？](http://www.zhihu.com/question/582817624/answer/2986603654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-16】 有哪些你以为古代没有，但其实早就有了的发明？](http://www.zhihu.com/question/588023318/answer/2986416239?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-14】 你为什么想去伯利兹旅行？](http://www.zhihu.com/question/465800979/answer/2982676613?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-14】 为什么中国古代文学里，罕有推理类型的小说？](http://www.zhihu.com/question/595539446/answer/2983529528?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-19 05:11:47
+:alarm_clock: 更新时间: 2023-04-20 05:11:59

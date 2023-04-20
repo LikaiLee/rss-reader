@@ -438,6 +438,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "零碎的卡片笔记谁最擅长整理输出？flomo、Seeds 和 Writeathon 对比",
+                "link": "https://sspai.com/post/79373",
+                "published": "2023-04-20"
+            },
+            {
+                "title": "派早报：HomePod 系列支持声音识别、索尼上调游戏价格等",
+                "link": "https://sspai.com/post/79383",
+                "published": "2023-04-20"
+            },
+            {
+                "title": "为工程师而生的 Linear，为何也是设计师的灵感源泉",
+                "link": "https://sspai.com/post/79347",
+                "published": "2023-04-19"
+            },
+            {
+                "title": "用 10 万条微信聊天记录和 280 篇博客文章，我克隆了一个数字版自己",
+                "link": "https://sspai.com/post/79230",
+                "published": "2023-04-19"
+            },
+            {
                 "title": "也许是最适合普通人的 Pro 设备：PICO 4 Pro 上手体验",
                 "link": "https://sspai.com/post/79364",
                 "published": "2023-04-19"
@@ -11743,7 +11763,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -42198,6 +42218,16 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "专访 OneFlow 袁进辉：AI 从业者如何正确地「玩」知乎？",
+                "link": "http://zhuanlan.zhihu.com/p/623156641?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-20"
+            },
+            {
+                "title": "如何评价燕垒生的《天行健》？",
+                "link": "http://www.zhihu.com/question/23050784/answer/2991183869?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-19"
+            },
             {
                 "title": "去马丘比丘旅行是一种怎样的体验？",
                 "link": "http://www.zhihu.com/question/406251842/answer/2988133766?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
