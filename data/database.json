@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 251 期）：国产单板机值得推荐",
+                "link": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html",
+                "published": "2023-04-21"
+            },
+            {
                 "title": "科技爱好者周刊（第 250 期）：新技术的最大风险",
                 "link": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html",
                 "published": "2023-04-14"
@@ -430,13 +435,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "重拾剥落时光，唤醒褪色记忆：AI 老照片修复工具比较",
+                "link": "https://sspai.com/post/79376",
+                "published": "2023-04-21"
+            },
+            {
+                "title": "派早报：vivo 发布 X Flip、X Fold 2 折叠屏手机等",
+                "link": "https://sspai.com/post/79391",
+                "published": "2023-04-21"
+            },
+            {
+                "title": "你每天用的中文有个节日，如何输入这件事也有些门道",
+                "link": "https://sspai.com/post/79385",
+                "published": "2023-04-20"
+            },
+            {
+                "title": "旅行拍照虽然开心，但别忘了清洁相机",
+                "link": "https://sspai.com/post/68863",
+                "published": "2023-04-20"
+            },
             {
                 "title": "零碎的卡片笔记谁最擅长整理输出？flomo、Seeds 和 Writeathon 对比",
                 "link": "https://sspai.com/post/79373",
@@ -49314,13 +49339,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊（第 55 期）: PaletteMaker, 中国色彩, 在线语法检查器, Picyard, Pixian.AI, Photomosh",
+                "link": "https://bestxtools.zhubai.love/posts/2260993907208835072",
+                "published": "2023-04-21"
+            },
             {
                 "title": "好工具周刊（第 54 期）: 竹白工具箱 🧰, Node.js Toolbox, ReadMe.Dev, AI Colors, HQ ICON, Cron job editor, ...",
                 "link": "https://bestxtools.zhubai.love/posts/2258541502231805952",
@@ -49612,6 +49642,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选)
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-04-21】 科技爱好者周刊（第 251 期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html)
 * [【2023-04-14】 科技爱好者周刊（第 250 期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html)
 * [【2023-04-07】 科技爱好者周刊（第 249 期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html)
 * [【2023-03-30】 科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html)
@@ -25,7 +26,6 @@
 * [【2023-03-10】 科技爱好者周刊（第 245 期）：摩天大楼是反人类的](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html)
 * [【2023-03-03】 科技爱好者周刊（第 244 期）：大数据已死](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html)
 * [【2023-02-24】 科技爱好者周刊（第 243 期）：与孔子 AI 聊天](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html)
-* [【2023-02-17】 科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-04-21】 重拾剥落时光，唤醒褪色记忆：AI 老照片修复工具比较](https://sspai.com/post/79376)
+* [【2023-04-21】 派早报：vivo 发布 X Flip、X Fold 2 折叠屏手机等](https://sspai.com/post/79391)
+* [【2023-04-20】 你每天用的中文有个节日，如何输入这件事也有些门道](https://sspai.com/post/79385)
+* [【2023-04-20】 旅行拍照虽然开心，但别忘了清洁相机](https://sspai.com/post/68863)
 * [【2023-04-20】 零碎的卡片笔记谁最擅长整理输出？flomo、Seeds 和 Writeathon 对比](https://sspai.com/post/79373)
 * [【2023-04-20】 派早报：HomePod 系列支持声音识别、索尼上调游戏价格等](https://sspai.com/post/79383)
 * [【2023-04-19】 为工程师而生的 Linear，为何也是设计师的灵感源泉](https://sspai.com/post/79347)
 * [【2023-04-19】 用 10 万条微信聊天记录和 280 篇博客文章，我克隆了一个数字版自己](https://sspai.com/post/79230)
 * [【2023-04-19】 也许是最适合普通人的 Pro 设备：PICO 4 Pro 上手体验](https://sspai.com/post/79364)
 * [【2023-04-19】 派早报：小米 13 Ultra 发布、蔚来推出 ES6 纯电中型 SUV 等](https://sspai.com/post/79369)
-* [【2023-04-18】 Discogs——见证二手唱片的繁荣、失落与复兴](https://sspai.com/prime/story/music-database-discogs)
-* [【2023-04-18】 从「会背」单词到「会用」单词，这些工具与方法帮得上忙](https://sspai.com/post/79241)
-* [【2023-04-18】 敬畏自然：记我的西藏探索之旅](https://sspai.com/post/79325)
-* [【2023-04-18】 播客 | 后厂女工小王：辞掉产品经理，开启自由职业，期待好事发生](https://sspai.com/post/79345)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2023-04-21】 好工具周刊（第 55 期）: PaletteMaker, 中国色彩, 在线语法检查器, Picyard, Pixian.AI, Photomosh](https://bestxtools.zhubai.love/posts/2260993907208835072)
 * [【2023-04-14】 好工具周刊（第 54 期）: 竹白工具箱 🧰, Node.js Toolbox, ReadMe.Dev, AI Colors, HQ ICON, Cron job editor, ...](https://bestxtools.zhubai.love/posts/2258541502231805952)
 * [【2023-04-07】 好工具周刊（第 53 期）: Hacker News 网站切换器, 小鱼标签, Crunchzilla, Accordion Slider Generator, ....](https://bestxtools.zhubai.love/posts/2255931383602020352)
 * [【2023-03-23】 好工具周刊（第 52 期）: Icon Maker, Unicorn icons, Colord, CSS Generators, CopySymbol, Open Prompt, OpenGPT](https://bestxtools.zhubai.love/posts/2250649351762280448)
@@ -101,7 +102,6 @@
 * [【2023-02-23】 好工具周刊（第 49 期）: StatiCrypt, OnetimeSecret, paint-board, Graphy, Logggos, Pole Clock, tree.fm](https://bestxtools.zhubai.love/posts/2240480765706440704)
 * [【2023-02-16】 好工具周刊（第 48 期）: ProfileMe, Box Shadows for TailwindCSS, Shapecatcher, Immersive Translate, ...](https://bestxtools.zhubai.love/posts/2237946902123864064)
 * [【2023-02-09】 好工具周刊（第 47 期）: 我最喜欢且常用的浏览器插件 - Vimium, AdBlock, uBlacklist, Tampermonkey, Stylus, MarkDownload, ...](https://bestxtools.zhubai.love/posts/2235408322050158592)
-* [【2023-01-19】 好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具 / The Best X Tools 2022 / 和抽奖活动](https://bestxtools.zhubai.love/posts/2227788146916585472)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-20 05:11:59
+:alarm_clock: 更新时间: 2023-04-21 05:11:44
