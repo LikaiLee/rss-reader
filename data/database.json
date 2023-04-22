@@ -435,13 +435,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "瓶中的小人究竟何时醒来：人、人工、智能和人工智能",
+                "link": "https://sspai.com/post/79388",
+                "published": "2023-04-22"
+            },
+            {
+                "title": "处理器简史｜PowerPC 04：短兵相接 孤注一掷",
+                "link": "https://sspai.com/prime/story/sv-anecdotes-11",
+                "published": "2023-04-21"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/79396",
+                "published": "2023-04-21"
+            },
+            {
+                "title": "App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备",
+                "link": "https://sspai.com/post/73727",
+                "published": "2023-04-21"
+            },
+            {
+                "title": "让 iPad Pro 物尽其用，我是从这些方面入手的",
+                "link": "https://sspai.com/post/78887",
+                "published": "2023-04-21"
+            },
             {
                 "title": "重拾剥落时光，唤醒褪色记忆：AI 老照片修复工具比较",
                 "link": "https://sspai.com/post/79376",
@@ -11788,7 +11813,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -42244,6 +42269,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有哪些关于服装和时尚的书值得推荐？",
+                "link": "http://www.zhihu.com/question/22427299/answer/2985468808?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-22"
+            },
+            {
+                "title": "为什么中国古代文学里，罕有推理类型的小说？",
+                "link": "http://www.zhihu.com/question/595539446/answer/2994468072?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-22"
+            },
+            {
                 "title": "专访 OneFlow 袁进辉：AI 从业者如何正确地「玩」知乎？",
                 "link": "http://zhuanlan.zhihu.com/p/623156641?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-04-20"
@@ -49339,7 +49374,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
@@ -49642,6 +49677,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
