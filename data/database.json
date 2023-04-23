@@ -443,6 +443,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "科研路上，我为什么离不开 Joplin",
+                "link": "https://sspai.com/post/77020",
+                "published": "2023-04-23"
+            },
+            {
+                "title": "派早报：Google Bard 新增编程辅助功能，三星下放 Camera Assistant 等",
+                "link": "https://sspai.com/post/79416",
+                "published": "2023-04-23"
+            },
+            {
                 "title": "瓶中的小人究竟何时醒来：人、人工、智能和人工智能",
                 "link": "https://sspai.com/post/79388",
                 "published": "2023-04-22"
@@ -11813,7 +11823,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -42268,6 +42278,16 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "读书可以让我们懂得许多道理，为什么不能让我们过好这一生？",
+                "link": "http://www.zhihu.com/question/596704847/answer/2994855919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-22"
+            },
+            {
+                "title": "中国现当代为什么对鲁迅那么推崇？",
+                "link": "http://www.zhihu.com/question/290325444/answer/2993685991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-22"
+            },
             {
                 "title": "有哪些关于服装和时尚的书值得推荐？",
                 "link": "http://www.zhihu.com/question/22427299/answer/2985468808?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",

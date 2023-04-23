@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-04-23】 科研路上，我为什么离不开 Joplin](https://sspai.com/post/77020)
+* [【2023-04-23】 派早报：Google Bard 新增编程辅助功能，三星下放 Camera Assistant 等](https://sspai.com/post/79416)
 * [【2023-04-22】 瓶中的小人究竟何时醒来：人、人工、智能和人工智能](https://sspai.com/post/79388)
 * [【2023-04-21】 处理器简史｜PowerPC 04：短兵相接 孤注一掷](https://sspai.com/prime/story/sv-anecdotes-11)
 * [【2023-04-21】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79396)
@@ -43,8 +45,6 @@
 * [【2023-04-21】 重拾剥落时光，唤醒褪色记忆：AI 老照片修复工具比较](https://sspai.com/post/79376)
 * [【2023-04-21】 派早报：vivo 发布 X Flip、X Fold 2 折叠屏手机等](https://sspai.com/post/79391)
 * [【2023-04-20】 你每天用的中文有个节日，如何输入这件事也有些门道](https://sspai.com/post/79385)
-* [【2023-04-20】 旅行拍照虽然开心，但别忘了清洁相机](https://sspai.com/post/68863)
-* [【2023-04-20】 零碎的卡片笔记谁最擅长整理输出？flomo、Seeds 和 Writeathon 对比](https://sspai.com/post/79373)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-04-22】 读书可以让我们懂得许多道理，为什么不能让我们过好这一生？](http://www.zhihu.com/question/596704847/answer/2994855919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-04-22】 中国现当代为什么对鲁迅那么推崇？](http://www.zhihu.com/question/290325444/answer/2993685991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-22】 有哪些关于服装和时尚的书值得推荐？](http://www.zhihu.com/question/22427299/answer/2985468808?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-22】 为什么中国古代文学里，罕有推理类型的小说？](http://www.zhihu.com/question/595539446/answer/2994468072?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-20】 专访 OneFlow 袁进辉：AI 从业者如何正确地「玩」知乎？](http://zhuanlan.zhihu.com/p/623156641?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-04-18】 “二次元游戏”的现代困境](http://zhuanlan.zhihu.com/p/622504367?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-17】 如果《小王子》中的星球真的存在该是什么样子呢？](http://www.zhihu.com/question/313692285/answer/2987614212?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-17】 广思的小说《朱公案》中，埋藏了哪些暗线？](http://www.zhihu.com/question/595539383/answer/2983577910?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-17】 如何评价国产太空 FPS 游戏《边境》美区 25 美元，国区仅售 68 元人民币？](http://www.zhihu.com/question/594497862/answer/2984236942?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-17】 为什么在中国大众的广泛认知里，最有名的心理学家是弗洛伊德？](http://www.zhihu.com/question/595540039/answer/2983765485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-22 05:11:06
+:alarm_clock: 更新时间: 2023-04-23 05:11:09
