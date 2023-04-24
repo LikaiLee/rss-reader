@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-04-24】 受够了算法推荐，另辟蹊径让 AI 做「过滤」怎么样？](https://sspai.com/post/79437)
+* [【2023-04-24】 派早报：调查显示数字阅读增长，陪审团认定特斯拉对自动巡航车祸无责](https://sspai.com/post/79425)
+* [【2023-04-23】 补一张开往童年的车票：2023 年还有哪些 3DS 游戏值得玩](https://sspai.com/post/79420)
 * [【2023-04-23】 科研路上，我为什么离不开 Joplin](https://sspai.com/post/77020)
 * [【2023-04-23】 派早报：Google Bard 新增编程辅助功能，三星下放 Camera Assistant 等](https://sspai.com/post/79416)
 * [【2023-04-22】 瓶中的小人究竟何时醒来：人、人工、智能和人工智能](https://sspai.com/post/79388)
@@ -42,9 +45,6 @@
 * [【2023-04-21】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79396)
 * [【2023-04-21】 App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备](https://sspai.com/post/73727)
 * [【2023-04-21】 让 iPad Pro 物尽其用，我是从这些方面入手的](https://sspai.com/post/78887)
-* [【2023-04-21】 重拾剥落时光，唤醒褪色记忆：AI 老照片修复工具比较](https://sspai.com/post/79376)
-* [【2023-04-21】 派早报：vivo 发布 X Flip、X Fold 2 折叠屏手机等](https://sspai.com/post/79391)
-* [【2023-04-20】 你每天用的中文有个节日，如何输入这件事也有些门道](https://sspai.com/post/79385)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-04-23】 阿侬](http://zhuanlan.zhihu.com/p/624246667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-04-23】 小序](http://zhuanlan.zhihu.com/p/624245037?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-22】 读书可以让我们懂得许多道理，为什么不能让我们过好这一生？](http://www.zhihu.com/question/596704847/answer/2994855919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-22】 中国现当代为什么对鲁迅那么推崇？](http://www.zhihu.com/question/290325444/answer/2993685991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-22】 有哪些关于服装和时尚的书值得推荐？](http://www.zhihu.com/question/22427299/answer/2985468808?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-04-19】 如何评价燕垒生的《天行健》？](http://www.zhihu.com/question/23050784/answer/2991183869?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-19】 去马丘比丘旅行是一种怎样的体验？](http://www.zhihu.com/question/406251842/answer/2988133766?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-18】 “二次元游戏”的现代困境](http://zhuanlan.zhihu.com/p/622504367?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-17】 如果《小王子》中的星球真的存在该是什么样子呢？](http://www.zhihu.com/question/313692285/answer/2987614212?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-17】 广思的小说《朱公案》中，埋藏了哪些暗线？](http://www.zhihu.com/question/595539383/answer/2983577910?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-23 05:11:09
+:alarm_clock: 更新时间: 2023-04-24 05:12:06
