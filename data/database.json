@@ -443,6 +443,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一次「大开眼镜」的体验：四十岁人的近视屈光手术流水账",
+                "link": "https://sspai.com/post/79450",
+                "published": "2023-04-25"
+            },
+            {
+                "title": "派早报：网之易起诉暴雪欠款 3 亿元等",
+                "link": "https://sspai.com/post/79458",
+                "published": "2023-04-25"
+            },
+            {
+                "title": "CHERRY XTRFY 的新商标新气象，VGN 上演自家人打自家人",
+                "link": "https://sspai.com/prime/story/zouzhe-230425",
+                "published": "2023-04-24"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/79446",
+                "published": "2023-04-24"
+            },
+            {
+                "title": "家用咖啡手册 06 | 不想速溶想省事？那你得试试浸泡式萃取",
+                "link": "https://sspai.com/post/79408",
+                "published": "2023-04-24"
+            },
+            {
+                "title": "从文献检索到论文查重，这 16 个工具帮你顺利毕业",
+                "link": "https://sspai.com/post/59906",
+                "published": "2023-04-24"
+            },
+            {
                 "title": "受够了算法推荐，另辟蹊径让 AI 做「过滤」怎么样？",
                 "link": "https://sspai.com/post/79437",
                 "published": "2023-04-24"
@@ -11838,7 +11868,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -42293,6 +42323,16 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "为什么鲁迅笔下的人物居然能在百年后的当代年轻人的困境完美匹配?",
+                "link": "http://www.zhihu.com/question/590280689/answer/2966782050?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-24"
+            },
+            {
+                "title": "【PentaQ.LPL十年盘点】Uzi与Clearlove：联盟双骄",
+                "link": "http://zhuanlan.zhihu.com/p/624321133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-24"
+            },
             {
                 "title": "阿侬",
                 "link": "http://zhuanlan.zhihu.com/p/624246667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
