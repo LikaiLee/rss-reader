@@ -443,6 +443,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "2023 上海车展小记：两位「汽车小白」的走马观花之行",
+                "link": "https://sspai.com/post/79462",
+                "published": "2023-04-26"
+            },
+            {
+                "title": "派早报：特斯拉向其他品牌新能源车开放充电网络试点等",
+                "link": "https://sspai.com/post/79470",
+                "published": "2023-04-26"
+            },
+            {
+                "title": "CCD 的「复兴」：历史沿革与市场逻辑",
+                "link": "https://sspai.com/prime/story/inside-the-ccd-revival",
+                "published": "2023-04-25"
+            },
+            {
+                "title": "浏览器扩展合集：实用而有趣的浏览器扩展，我们又为你找到了这 8 款",
+                "link": "https://sspai.com/post/79463",
+                "published": "2023-04-25"
+            },
+            {
+                "title": "可以听的新玩意儿：ROG Phone 7、Analogue Pocket 和 AnkerWork 麦克风",
+                "link": "https://sspai.com/post/79431",
+                "published": "2023-04-25"
+            },
+            {
                 "title": "一次「大开眼镜」的体验：四十岁人的近视屈光手术流水账",
                 "link": "https://sspai.com/post/79450",
                 "published": "2023-04-25"
@@ -11868,7 +11893,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -42324,6 +42349,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2023 年上海车展有哪些「有意思」的展台？",
+                "link": "http://www.zhihu.com/question/594209484/answer/2996677756?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-25"
+            },
+            {
+                "title": "买了新车之后有哪些不是「智商税」的配件可以买？",
+                "link": "http://www.zhihu.com/question/579258242/answer/2982507872?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-25"
+            },
+            {
+                "title": "新能源车会不会不耐用？",
+                "link": "http://www.zhihu.com/question/593439862/answer/2976135301?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-25"
+            },
+            {
                 "title": "为什么鲁迅笔下的人物居然能在百年后的当代年轻人的困境完美匹配?",
                 "link": "http://www.zhihu.com/question/590280689/answer/2966782050?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-04-24"
@@ -49459,7 +49499,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 4,

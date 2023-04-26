@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-04-26】 2023 上海车展小记：两位「汽车小白」的走马观花之行](https://sspai.com/post/79462)
+* [【2023-04-26】 派早报：特斯拉向其他品牌新能源车开放充电网络试点等](https://sspai.com/post/79470)
+* [【2023-04-25】 CCD 的「复兴」：历史沿革与市场逻辑](https://sspai.com/prime/story/inside-the-ccd-revival)
+* [【2023-04-25】 浏览器扩展合集：实用而有趣的浏览器扩展，我们又为你找到了这 8 款](https://sspai.com/post/79463)
+* [【2023-04-25】 可以听的新玩意儿：ROG Phone 7、Analogue Pocket 和 AnkerWork 麦克风](https://sspai.com/post/79431)
 * [【2023-04-25】 一次「大开眼镜」的体验：四十岁人的近视屈光手术流水账](https://sspai.com/post/79450)
 * [【2023-04-25】 派早报：网之易起诉暴雪欠款 3 亿元等](https://sspai.com/post/79458)
 * [【2023-04-24】 CHERRY XTRFY 的新商标新气象，VGN 上演自家人打自家人](https://sspai.com/prime/story/zouzhe-230425)
 * [【2023-04-24】 派评 | 近期值得关注的 App](https://sspai.com/post/79446)
 * [【2023-04-24】 家用咖啡手册 06 | 不想速溶想省事？那你得试试浸泡式萃取](https://sspai.com/post/79408)
-* [【2023-04-24】 从文献检索到论文查重，这 16 个工具帮你顺利毕业](https://sspai.com/post/59906)
-* [【2023-04-24】 受够了算法推荐，另辟蹊径让 AI 做「过滤」怎么样？](https://sspai.com/post/79437)
-* [【2023-04-24】 派早报：调查显示数字阅读增长，陪审团认定特斯拉对自动巡航车祸无责](https://sspai.com/post/79425)
-* [【2023-04-23】 补一张开往童年的车票：2023 年还有哪些 3DS 游戏值得玩](https://sspai.com/post/79420)
-* [【2023-04-23】 科研路上，我为什么离不开 Joplin](https://sspai.com/post/77020)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-04-25】 2023 年上海车展有哪些「有意思」的展台？](http://www.zhihu.com/question/594209484/answer/2996677756?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-04-25】 买了新车之后有哪些不是「智商税」的配件可以买？](http://www.zhihu.com/question/579258242/answer/2982507872?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-04-25】 新能源车会不会不耐用？](http://www.zhihu.com/question/593439862/answer/2976135301?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-24】 为什么鲁迅笔下的人物居然能在百年后的当代年轻人的困境完美匹配?](http://www.zhihu.com/question/590280689/answer/2966782050?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-24】 【PentaQ.LPL十年盘点】Uzi与Clearlove：联盟双骄](http://zhuanlan.zhihu.com/p/624321133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-23】 阿侬](http://zhuanlan.zhihu.com/p/624246667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-04-22】 读书可以让我们懂得许多道理，为什么不能让我们过好这一生？](http://www.zhihu.com/question/596704847/answer/2994855919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-22】 中国现当代为什么对鲁迅那么推崇？](http://www.zhihu.com/question/290325444/answer/2993685991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-22】 有哪些关于服装和时尚的书值得推荐？](http://www.zhihu.com/question/22427299/answer/2985468808?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-22】 为什么中国古代文学里，罕有推理类型的小说？](http://www.zhihu.com/question/595539446/answer/2994468072?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-20】 专访 OneFlow 袁进辉：AI 从业者如何正确地「玩」知乎？](http://zhuanlan.zhihu.com/p/623156641?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-19】 如何评价燕垒生的《天行健》？](http://www.zhihu.com/question/23050784/answer/2991183869?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-25 05:11:42
+:alarm_clock: 更新时间: 2023-04-26 05:11:55
