@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-04-27】 掌握这些设置技巧，让 Edge 浏览器的体验更干净](https://sspai.com/post/75083)
+* [【2023-04-27】 派早报：AMD 推出掌机处理器、ispace 登月任务失败等](https://sspai.com/post/79483)
+* [【2023-04-26】 付费栏目负责人、暂居德国的 sainho 都装了啥](https://sspai.com/prime/story/zhuanglesha-sainho)
+* [【2023-04-26】 这个五一假期，用这些居家好物舒服一夏](https://sspai.com/post/79455)
+* [【2023-04-26】 你所熟悉的羊驼，在 AI 时代有了新内涵](https://sspai.com/post/79443)
+* [【2023-04-26】 奇妙的均衡：红魔 8 Pro 氘锋透明银翼版使用体验补完](https://sspai.com/post/79465)
 * [【2023-04-26】 2023 上海车展小记：两位「汽车小白」的走马观花之行](https://sspai.com/post/79462)
 * [【2023-04-26】 派早报：特斯拉向其他品牌新能源车开放充电网络试点等](https://sspai.com/post/79470)
 * [【2023-04-25】 CCD 的「复兴」：历史沿革与市场逻辑](https://sspai.com/prime/story/inside-the-ccd-revival)
 * [【2023-04-25】 浏览器扩展合集：实用而有趣的浏览器扩展，我们又为你找到了这 8 款](https://sspai.com/post/79463)
-* [【2023-04-25】 可以听的新玩意儿：ROG Phone 7、Analogue Pocket 和 AnkerWork 麦克风](https://sspai.com/post/79431)
-* [【2023-04-25】 一次「大开眼镜」的体验：四十岁人的近视屈光手术流水账](https://sspai.com/post/79450)
-* [【2023-04-25】 派早报：网之易起诉暴雪欠款 3 亿元等](https://sspai.com/post/79458)
-* [【2023-04-24】 CHERRY XTRFY 的新商标新气象，VGN 上演自家人打自家人](https://sspai.com/prime/story/zouzhe-230425)
-* [【2023-04-24】 派评 | 近期值得关注的 App](https://sspai.com/post/79446)
-* [【2023-04-24】 家用咖啡手册 06 | 不想速溶想省事？那你得试试浸泡式萃取](https://sspai.com/post/79408)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-04-26】 从小开始培养孩子阅读经典名著的兴趣，可以尝试哪些方式？](http://www.zhihu.com/question/596478094/answer/2993070757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-25】 2023 年上海车展有哪些「有意思」的展台？](http://www.zhihu.com/question/594209484/answer/2996677756?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-25】 买了新车之后有哪些不是「智商税」的配件可以买？](http://www.zhihu.com/question/579258242/answer/2982507872?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-25】 新能源车会不会不耐用？](http://www.zhihu.com/question/593439862/answer/2976135301?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-04-23】 小序](http://zhuanlan.zhihu.com/p/624245037?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-22】 读书可以让我们懂得许多道理，为什么不能让我们过好这一生？](http://www.zhihu.com/question/596704847/answer/2994855919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-22】 中国现当代为什么对鲁迅那么推崇？](http://www.zhihu.com/question/290325444/answer/2993685991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-22】 有哪些关于服装和时尚的书值得推荐？](http://www.zhihu.com/question/22427299/answer/2985468808?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-26 05:11:55
+:alarm_clock: 更新时间: 2023-04-27 05:11:51

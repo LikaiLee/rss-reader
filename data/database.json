@@ -443,6 +443,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "掌握这些设置技巧，让 Edge 浏览器的体验更干净",
+                "link": "https://sspai.com/post/75083",
+                "published": "2023-04-27"
+            },
+            {
+                "title": "派早报：AMD 推出掌机处理器、ispace 登月任务失败等",
+                "link": "https://sspai.com/post/79483",
+                "published": "2023-04-27"
+            },
+            {
+                "title": "付费栏目负责人、暂居德国的 sainho 都装了啥",
+                "link": "https://sspai.com/prime/story/zhuanglesha-sainho",
+                "published": "2023-04-26"
+            },
+            {
+                "title": "这个五一假期，用这些居家好物舒服一夏",
+                "link": "https://sspai.com/post/79455",
+                "published": "2023-04-26"
+            },
+            {
+                "title": "你所熟悉的羊驼，在 AI 时代有了新内涵",
+                "link": "https://sspai.com/post/79443",
+                "published": "2023-04-26"
+            },
+            {
+                "title": "奇妙的均衡：红魔 8 Pro 氘锋透明银翼版使用体验补完",
+                "link": "https://sspai.com/post/79465",
+                "published": "2023-04-26"
+            },
+            {
                 "title": "2023 上海车展小记：两位「汽车小白」的走马观花之行",
                 "link": "https://sspai.com/post/79462",
                 "published": "2023-04-26"
@@ -11893,7 +11923,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -42349,6 +42379,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "从小开始培养孩子阅读经典名著的兴趣，可以尝试哪些方式？",
+                "link": "http://www.zhihu.com/question/596478094/answer/2993070757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-04-26"
+            },
+            {
                 "title": "2023 年上海车展有哪些「有意思」的展台？",
                 "link": "http://www.zhihu.com/question/594209484/answer/2996677756?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-04-25"
@@ -49499,7 +49534,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,
