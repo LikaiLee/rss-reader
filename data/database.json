@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 252 期）：互联网创业变难了",
+                "link": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html",
+                "published": "2023-04-28"
+            },
+            {
                 "title": "科技爱好者周刊（第 251 期）：国产单板机值得推荐",
                 "link": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html",
                 "published": "2023-04-21"
@@ -435,13 +440,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "要旅行吗？这是一篇懒人包",
+                "link": "https://sspai.com/post/79502",
+                "published": "2023-04-28"
+            },
+            {
+                "title": "派早报：英国监管部门禁止微软收购动视暴雪、Phone Link 正式支持 iPhone 等",
+                "link": "https://sspai.com/post/79501",
+                "published": "2023-04-28"
+            },
+            {
+                "title": "新派煮机 | 没人在 taco 上玩游戏：Nokia N-Gage 简史",
+                "link": "https://sspai.com/prime/story/vintage-tech-stories-ng-history",
+                "published": "2023-04-27"
+            },
+            {
+                "title": "新玩意 143｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/79496",
+                "published": "2023-04-27"
+            },
+            {
+                "title": "把宝贵的时间留给佳作，追剧观影少不了这些辅助",
+                "link": "https://sspai.com/post/79491",
+                "published": "2023-04-27"
+            },
             {
                 "title": "掌握这些设置技巧，让 Edge 浏览器的体验更干净",
                 "link": "https://sspai.com/post/75083",
@@ -11923,7 +11953,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -49534,13 +49564,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "竹白工具箱油猴脚本更新：新增详情页显示文章目录，详情页显示网站目录大纲（TOC）等功能",
+                "link": "https://bestxtools.zhubai.love/posts/2263527393547292672",
+                "published": "2023-04-28"
+            },
             {
                 "title": "好工具周刊（第 55 期）: PaletteMaker, 中国色彩, 在线语法检查器, Picyard, Pixian.AI, Photomosh",
                 "link": "https://bestxtools.zhubai.love/posts/2260993907208835072",
@@ -49837,6 +49872,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]
