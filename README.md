@@ -2,11 +2,11 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
-* [好工具周刊](#好工具周刊) 【+1】
+* [好工具周刊](#好工具周刊)
 
 ## 文章链接
 
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-04-28】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79512)
+* [【2023-04-28】 登顶 100+ 地区榜单，内置「模拟微信」的手游好玩吗？](https://sspai.com/post/79503)
+* [【2023-04-28】 一家「看门道」的新店，三位「有个性」的员工](https://sspai.com/post/79505)
 * [【2023-04-28】 要旅行吗？这是一篇懒人包](https://sspai.com/post/79502)
 * [【2023-04-28】 派早报：英国监管部门禁止微软收购动视暴雪、Phone Link 正式支持 iPhone 等](https://sspai.com/post/79501)
 * [【2023-04-27】 新派煮机 | 没人在 taco 上玩游戏：Nokia N-Gage 简史](https://sspai.com/prime/story/vintage-tech-stories-ng-history)
@@ -42,9 +45,6 @@
 * [【2023-04-27】 把宝贵的时间留给佳作，追剧观影少不了这些辅助](https://sspai.com/post/79491)
 * [【2023-04-27】 掌握这些设置技巧，让 Edge 浏览器的体验更干净](https://sspai.com/post/75083)
 * [【2023-04-27】 派早报：AMD 推出掌机处理器、ispace 登月任务失败等](https://sspai.com/post/79483)
-* [【2023-04-26】 付费栏目负责人、暂居德国的 sainho 都装了啥](https://sspai.com/prime/story/zhuanglesha-sainho)
-* [【2023-04-26】 这个五一假期，用这些居家好物舒服一夏](https://sspai.com/post/79455)
-* [【2023-04-26】 你所熟悉的羊驼，在 AI 时代有了新内涵](https://sspai.com/post/79443)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-28 05:11:25
+:alarm_clock: 更新时间: 2023-04-29 05:10:34

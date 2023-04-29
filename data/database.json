@@ -440,13 +440,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/79512",
+                "published": "2023-04-28"
+            },
+            {
+                "title": "登顶 100+ 地区榜单，内置「模拟微信」的手游好玩吗？",
+                "link": "https://sspai.com/post/79503",
+                "published": "2023-04-28"
+            },
+            {
+                "title": "一家「看门道」的新店，三位「有个性」的员工",
+                "link": "https://sspai.com/post/79505",
+                "published": "2023-04-28"
+            },
             {
                 "title": "要旅行吗？这是一篇懒人包",
                 "link": "https://sspai.com/post/79502",
@@ -11953,7 +11968,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -49872,6 +49887,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     }
 ]
