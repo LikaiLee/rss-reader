@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-04-30】 担心新冠再流行？收好这份备药与防护方法（2023 年 4 月更新）](https://sspai.com/post/77155)
 * [【2023-04-30】 幕后 | 以本土创新的力量，做影响世界的产品：Edge 浏览器中国团队专访](https://sspai.com/post/79495)
 * [【2023-04-29】 初次经历情感挫折，这是我 30 天里的变化](https://sspai.com/post/79336)
 * [【2023-04-29】 这个五一假期，和这些好文、音乐与电影享受轻松时刻](https://sspai.com/post/79515)
@@ -44,7 +45,6 @@
 * [【2023-04-28】 要旅行吗？这是一篇懒人包](https://sspai.com/post/79502)
 * [【2023-04-28】 派早报：英国监管部门禁止微软收购动视暴雪、Phone Link 正式支持 iPhone 等](https://sspai.com/post/79501)
 * [【2023-04-27】 新派煮机 | 没人在 taco 上玩游戏：Nokia N-Gage 简史](https://sspai.com/prime/story/vintage-tech-stories-ng-history)
-* [【2023-04-27】 新玩意 143｜少数派的编辑们最近买了啥？](https://sspai.com/post/79496)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-04-30 05:10:56
+:alarm_clock: 更新时间: 2023-05-01 05:11:34
