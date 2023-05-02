@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-05-02】 看什么·特别篇 | 超大包电子榨菜，陪你吃好每一餐](https://sspai.com/post/79538)
+* [【2023-05-01】 代码世界的试验田和游乐场：在线开发环境对比与推荐](https://sspai.com/prime/story/online-codespaces-compared)
 * [【2023-04-30】 担心新冠再流行？收好这份备药与防护方法（2023 年 4 月更新）](https://sspai.com/post/77155)
 * [【2023-04-30】 幕后 | 以本土创新的力量，做影响世界的产品：Edge 浏览器中国团队专访](https://sspai.com/post/79495)
 * [【2023-04-29】 初次经历情感挫折，这是我 30 天里的变化](https://sspai.com/post/79336)
@@ -43,8 +45,6 @@
 * [【2023-04-28】 登顶 100+ 地区榜单，内置「模拟微信」的手游好玩吗？](https://sspai.com/post/79503)
 * [【2023-04-28】 一家「看门道」的新店，三位「有个性」的员工](https://sspai.com/post/79505)
 * [【2023-04-28】 要旅行吗？这是一篇懒人包](https://sspai.com/post/79502)
-* [【2023-04-28】 派早报：英国监管部门禁止微软收购动视暴雪、Phone Link 正式支持 iPhone 等](https://sspai.com/post/79501)
-* [【2023-04-27】 新派煮机 | 没人在 taco 上玩游戏：Nokia N-Gage 简史](https://sspai.com/prime/story/vintage-tech-stories-ng-history)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-01 05:11:34
+:alarm_clock: 更新时间: 2023-05-02 05:11:18
