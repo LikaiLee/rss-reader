@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-05-03】 从不自量力到 AI 助力，我如何翻译完一整本英文书](https://sspai.com/post/79534)
+* [【2023-05-02】 本月玩什么 | 星战绝地：幸存者、死亡岛、边境](https://sspai.com/post/79543)
+* [【2023-05-02】 近期值得一试的 6 个 VR 应用 / 游戏](https://sspai.com/post/79537)
 * [【2023-05-02】 看什么·特别篇 | 超大包电子榨菜，陪你吃好每一餐](https://sspai.com/post/79538)
 * [【2023-05-01】 代码世界的试验田和游乐场：在线开发环境对比与推荐](https://sspai.com/prime/story/online-codespaces-compared)
 * [【2023-04-30】 担心新冠再流行？收好这份备药与防护方法（2023 年 4 月更新）](https://sspai.com/post/77155)
@@ -42,9 +45,6 @@
 * [【2023-04-29】 初次经历情感挫折，这是我 30 天里的变化](https://sspai.com/post/79336)
 * [【2023-04-29】 这个五一假期，和这些好文、音乐与电影享受轻松时刻](https://sspai.com/post/79515)
 * [【2023-04-28】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79512)
-* [【2023-04-28】 登顶 100+ 地区榜单，内置「模拟微信」的手游好玩吗？](https://sspai.com/post/79503)
-* [【2023-04-28】 一家「看门道」的新店，三位「有个性」的员工](https://sspai.com/post/79505)
-* [【2023-04-28】 要旅行吗？这是一篇懒人包](https://sspai.com/post/79502)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-02 05:11:18
+:alarm_clock: 更新时间: 2023-05-03 05:11:24
