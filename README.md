@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-05-04】 Castro：分流、筛选、个性化，属于重度播客爱好者的大更新解析](https://sspai.com/post/79551)
+* [【2023-05-04】 派早报：Nothing Phone (2) 确认夏季发布、DMA 法案正式实施等](https://sspai.com/post/79550)
+* [【2023-05-03】 2023 年，聊聊新冠疫苗有关的「新问题」（2023 年 4 月更新）](https://sspai.com/post/78146)
 * [【2023-05-03】 从不自量力到 AI 助力，我如何翻译完一整本英文书](https://sspai.com/post/79534)
 * [【2023-05-02】 本月玩什么 | 星战绝地：幸存者、死亡岛、边境](https://sspai.com/post/79543)
 * [【2023-05-02】 近期值得一试的 6 个 VR 应用 / 游戏](https://sspai.com/post/79537)
@@ -42,9 +45,6 @@
 * [【2023-05-01】 代码世界的试验田和游乐场：在线开发环境对比与推荐](https://sspai.com/prime/story/online-codespaces-compared)
 * [【2023-04-30】 担心新冠再流行？收好这份备药与防护方法（2023 年 4 月更新）](https://sspai.com/post/77155)
 * [【2023-04-30】 幕后 | 以本土创新的力量，做影响世界的产品：Edge 浏览器中国团队专访](https://sspai.com/post/79495)
-* [【2023-04-29】 初次经历情感挫折，这是我 30 天里的变化](https://sspai.com/post/79336)
-* [【2023-04-29】 这个五一假期，和这些好文、音乐与电影享受轻松时刻](https://sspai.com/post/79515)
-* [【2023-04-28】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79512)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-05-04】 国产动画《有兽焉》热播中，你看完有什么想说的？打算继续追吗？](http://www.zhihu.com/question/595128595/answer/2995312664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-03】 妙谈一下｜大神分享：知乎写「冷门」故事也能月入五六万！](http://zhuanlan.zhihu.com/p/625146576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-26】 从小开始培养孩子阅读经典名著的兴趣，可以尝试哪些方式？](http://www.zhihu.com/question/596478094/answer/2993070757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-25】 2023 年上海车展有哪些「有意思」的展台？](http://www.zhihu.com/question/594209484/answer/2996677756?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-25】 买了新车之后有哪些不是「智商税」的配件可以买？](http://www.zhihu.com/question/579258242/answer/2982507872?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-04-24】 【PentaQ.LPL十年盘点】Uzi与Clearlove：联盟双骄](http://zhuanlan.zhihu.com/p/624321133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-23】 阿侬](http://zhuanlan.zhihu.com/p/624246667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-23】 小序](http://zhuanlan.zhihu.com/p/624245037?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-22】 读书可以让我们懂得许多道理，为什么不能让我们过好这一生？](http://www.zhihu.com/question/596704847/answer/2994855919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-22】 中国现当代为什么对鲁迅那么推崇？](http://www.zhihu.com/question/290325444/answer/2993685991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-03 05:11:24
+:alarm_clock: 更新时间: 2023-05-04 05:11:39

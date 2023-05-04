@@ -448,6 +448,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Castro：分流、筛选、个性化，属于重度播客爱好者的大更新解析",
+                "link": "https://sspai.com/post/79551",
+                "published": "2023-05-04"
+            },
+            {
+                "title": "派早报：Nothing Phone (2) 确认夏季发布、DMA 法案正式实施等",
+                "link": "https://sspai.com/post/79550",
+                "published": "2023-05-04"
+            },
+            {
+                "title": "2023 年，聊聊新冠疫苗有关的「新问题」（2023 年 4 月更新）",
+                "link": "https://sspai.com/post/78146",
+                "published": "2023-05-03"
+            },
+            {
                 "title": "从不自量力到 AI 助力，我如何翻译完一整本英文书",
                 "link": "https://sspai.com/post/79534",
                 "published": "2023-05-03"
@@ -42469,6 +42484,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "国产动画《有兽焉》热播中，你看完有什么想说的？打算继续追吗？",
+                "link": "http://www.zhihu.com/question/595128595/answer/2995312664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-04"
+            },
+            {
+                "title": "妙谈一下｜大神分享：知乎写「冷门」故事也能月入五六万！",
+                "link": "http://zhuanlan.zhihu.com/p/625146576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-03"
+            },
+            {
                 "title": "从小开始培养孩子阅读经典名著的兴趣，可以尝试哪些方式？",
                 "link": "http://www.zhihu.com/question/596478094/answer/2993070757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-04-26"
@@ -49624,7 +49649,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
