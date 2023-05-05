@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 253 期）：训练材料用完之日",
+                "link": "http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html",
+                "published": "2023-05-05"
+            },
+            {
                 "title": "科技爱好者周刊（第 252 期）：互联网创业变难了",
                 "link": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html",
                 "published": "2023-04-28"
@@ -440,13 +445,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "城市漫步指南：来海口，请查收这份「出差攻略」",
+                "link": "https://sspai.com/post/79544",
+                "published": "2023-05-05"
+            },
+            {
+                "title": "派早报：摩托罗拉发布 Edge 40 手机、AMD 发布 Ryzen 7040U 系列处理器等",
+                "link": "https://sspai.com/post/79570",
+                "published": "2023-05-05"
+            },
+            {
+                "title": "WWDC23 开幕在即，我们和曾经的获奖学生们聊了聊",
+                "link": "https://sspai.com/post/79556",
+                "published": "2023-05-04"
+            },
+            {
+                "title": "新玩意 144｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/79558",
+                "published": "2023-05-04"
+            },
+            {
+                "title": "无密码、更安全的未来，你该如何登录？通行密钥上手体验",
+                "link": "https://sspai.com/post/77376",
+                "published": "2023-05-04"
+            },
             {
                 "title": "Castro：分流、筛选、个性化，属于重度播客爱好者的大更新解析",
                 "link": "https://sspai.com/post/79551",
@@ -12028,7 +12058,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -42484,6 +42514,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "【PentaQ.LPL十年盘点】万字长文盘点英雄联盟这十年战术与策略演变",
+                "link": "http://zhuanlan.zhihu.com/p/626480490?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-04"
+            },
+            {
                 "title": "国产动画《有兽焉》热播中，你看完有什么想说的？打算继续追吗？",
                 "link": "http://www.zhihu.com/question/595128595/answer/2995312664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-05-04"
@@ -49649,7 +49684,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,

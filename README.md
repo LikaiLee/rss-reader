@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-05-05】 科技爱好者周刊（第 253 期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)
 * [【2023-04-28】 科技爱好者周刊（第 252 期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)
 * [【2023-04-21】 科技爱好者周刊（第 251 期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html)
 * [【2023-04-14】 科技爱好者周刊（第 250 期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html)
@@ -25,7 +26,6 @@
 * [【2023-03-20】 运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html)
 * [【2023-03-17】 科技爱好者周刊（第 246 期）：永不丢失的网络身份](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html)
 * [【2023-03-10】 科技爱好者周刊（第 245 期）：摩天大楼是反人类的](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html)
-* [【2023-03-03】 科技爱好者周刊（第 244 期）：大数据已死](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-05】 城市漫步指南：来海口，请查收这份「出差攻略」](https://sspai.com/post/79544)
+* [【2023-05-05】 派早报：摩托罗拉发布 Edge 40 手机、AMD 发布 Ryzen 7040U 系列处理器等](https://sspai.com/post/79570)
+* [【2023-05-04】 WWDC23 开幕在即，我们和曾经的获奖学生们聊了聊](https://sspai.com/post/79556)
+* [【2023-05-04】 新玩意 144｜少数派的作者们最近买了啥？](https://sspai.com/post/79558)
+* [【2023-05-04】 无密码、更安全的未来，你该如何登录？通行密钥上手体验](https://sspai.com/post/77376)
 * [【2023-05-04】 Castro：分流、筛选、个性化，属于重度播客爱好者的大更新解析](https://sspai.com/post/79551)
 * [【2023-05-04】 派早报：Nothing Phone (2) 确认夏季发布、DMA 法案正式实施等](https://sspai.com/post/79550)
 * [【2023-05-03】 2023 年，聊聊新冠疫苗有关的「新问题」（2023 年 4 月更新）](https://sspai.com/post/78146)
 * [【2023-05-03】 从不自量力到 AI 助力，我如何翻译完一整本英文书](https://sspai.com/post/79534)
 * [【2023-05-02】 本月玩什么 | 星战绝地：幸存者、死亡岛、边境](https://sspai.com/post/79543)
-* [【2023-05-02】 近期值得一试的 6 个 VR 应用 / 游戏](https://sspai.com/post/79537)
-* [【2023-05-02】 看什么·特别篇 | 超大包电子榨菜，陪你吃好每一餐](https://sspai.com/post/79538)
-* [【2023-05-01】 代码世界的试验田和游乐场：在线开发环境对比与推荐](https://sspai.com/prime/story/online-codespaces-compared)
-* [【2023-04-30】 担心新冠再流行？收好这份备药与防护方法（2023 年 4 月更新）](https://sspai.com/post/77155)
-* [【2023-04-30】 幕后 | 以本土创新的力量，做影响世界的产品：Edge 浏览器中国团队专访](https://sspai.com/post/79495)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-05-04】 【PentaQ.LPL十年盘点】万字长文盘点英雄联盟这十年战术与策略演变](http://zhuanlan.zhihu.com/p/626480490?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-04】 国产动画《有兽焉》热播中，你看完有什么想说的？打算继续追吗？](http://www.zhihu.com/question/595128595/answer/2995312664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-03】 妙谈一下｜大神分享：知乎写「冷门」故事也能月入五六万！](http://zhuanlan.zhihu.com/p/625146576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-26】 从小开始培养孩子阅读经典名著的兴趣，可以尝试哪些方式？](http://www.zhihu.com/question/596478094/answer/2993070757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-04-24】 为什么鲁迅笔下的人物居然能在百年后的当代年轻人的困境完美匹配?](http://www.zhihu.com/question/590280689/answer/2966782050?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-24】 【PentaQ.LPL十年盘点】Uzi与Clearlove：联盟双骄](http://zhuanlan.zhihu.com/p/624321133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-23】 阿侬](http://zhuanlan.zhihu.com/p/624246667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-23】 小序](http://zhuanlan.zhihu.com/p/624245037?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-04 05:11:39
+:alarm_clock: 更新时间: 2023-05-05 05:11:22
