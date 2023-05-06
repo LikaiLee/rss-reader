@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-06】 一日一技 | 给国行 NW-A306 Walkman 刷上国际版系统](https://sspai.com/post/79531)
+* [【2023-05-06】 派早报：Google 正式公布 Pixel Fold、文石推出多款新品等](https://sspai.com/post/79590)
+* [【2023-05-05】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79581)
+* [【2023-05-05】 警惕那片「索拉里斯星的海」——AI 翻唱作品引发的合规省思](https://sspai.com/post/79510)
 * [【2023-05-05】 城市漫步指南：来海口，请查收这份「出差攻略」](https://sspai.com/post/79544)
 * [【2023-05-05】 派早报：摩托罗拉发布 Edge 40 手机、AMD 发布 Ryzen 7040U 系列处理器等](https://sspai.com/post/79570)
 * [【2023-05-04】 WWDC23 开幕在即，我们和曾经的获奖学生们聊了聊](https://sspai.com/post/79556)
 * [【2023-05-04】 新玩意 144｜少数派的作者们最近买了啥？](https://sspai.com/post/79558)
 * [【2023-05-04】 无密码、更安全的未来，你该如何登录？通行密钥上手体验](https://sspai.com/post/77376)
 * [【2023-05-04】 Castro：分流、筛选、个性化，属于重度播客爱好者的大更新解析](https://sspai.com/post/79551)
-* [【2023-05-04】 派早报：Nothing Phone (2) 确认夏季发布、DMA 法案正式实施等](https://sspai.com/post/79550)
-* [【2023-05-03】 2023 年，聊聊新冠疫苗有关的「新问题」（2023 年 4 月更新）](https://sspai.com/post/78146)
-* [【2023-05-03】 从不自量力到 AI 助力，我如何翻译完一整本英文书](https://sspai.com/post/79534)
-* [【2023-05-02】 本月玩什么 | 星战绝地：幸存者、死亡岛、边境](https://sspai.com/post/79543)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-05-06】 西北工业大学邵典老师-不正经招生指南](http://zhuanlan.zhihu.com/p/623058801?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-04】 【PentaQ.LPL十年盘点】万字长文盘点英雄联盟这十年战术与策略演变](http://zhuanlan.zhihu.com/p/626480490?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-04】 国产动画《有兽焉》热播中，你看完有什么想说的？打算继续追吗？](http://www.zhihu.com/question/595128595/answer/2995312664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-03】 妙谈一下｜大神分享：知乎写「冷门」故事也能月入五六万！](http://zhuanlan.zhihu.com/p/625146576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-04-25】 新能源车会不会不耐用？](http://www.zhihu.com/question/593439862/answer/2976135301?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-24】 为什么鲁迅笔下的人物居然能在百年后的当代年轻人的困境完美匹配?](http://www.zhihu.com/question/590280689/answer/2966782050?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-24】 【PentaQ.LPL十年盘点】Uzi与Clearlove：联盟双骄](http://zhuanlan.zhihu.com/p/624321133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-23】 阿侬](http://zhuanlan.zhihu.com/p/624246667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-05 05:11:22
+:alarm_clock: 更新时间: 2023-05-06 05:10:41
