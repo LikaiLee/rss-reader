@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-05-07】 确诊焦虑症后，这些方法帮我缓解痛苦](https://sspai.com/post/79559)
+* [【2023-05-06】 处理器简史｜PowerPC 05：大厦将倾 力挽狂澜（上）](https://sspai.com/prime/story/sv-anecdotes-12)
+* [【2023-05-06】 长谈人工智能：AI 时代的伦理、教育、工作和生产力](https://sspai.com/post/79596)
 * [【2023-05-06】 一日一技 | 给国行 NW-A306 Walkman 刷上国际版系统](https://sspai.com/post/79531)
 * [【2023-05-06】 派早报：Google 正式公布 Pixel Fold、文石推出多款新品等](https://sspai.com/post/79590)
 * [【2023-05-05】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79581)
@@ -42,9 +45,6 @@
 * [【2023-05-05】 城市漫步指南：来海口，请查收这份「出差攻略」](https://sspai.com/post/79544)
 * [【2023-05-05】 派早报：摩托罗拉发布 Edge 40 手机、AMD 发布 Ryzen 7040U 系列处理器等](https://sspai.com/post/79570)
 * [【2023-05-04】 WWDC23 开幕在即，我们和曾经的获奖学生们聊了聊](https://sspai.com/post/79556)
-* [【2023-05-04】 新玩意 144｜少数派的作者们最近买了啥？](https://sspai.com/post/79558)
-* [【2023-05-04】 无密码、更安全的未来，你该如何登录？通行密钥上手体验](https://sspai.com/post/77376)
-* [【2023-05-04】 Castro：分流、筛选、个性化，属于重度播客爱好者的大更新解析](https://sspai.com/post/79551)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-06 05:10:41
+:alarm_clock: 更新时间: 2023-05-07 05:11:38

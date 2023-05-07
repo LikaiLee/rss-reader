@@ -453,6 +453,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "确诊焦虑症后，这些方法帮我缓解痛苦",
+                "link": "https://sspai.com/post/79559",
+                "published": "2023-05-07"
+            },
+            {
+                "title": "处理器简史｜PowerPC 05：大厦将倾 力挽狂澜（上）",
+                "link": "https://sspai.com/prime/story/sv-anecdotes-12",
+                "published": "2023-05-06"
+            },
+            {
+                "title": "长谈人工智能：AI 时代的伦理、教育、工作和生产力",
+                "link": "https://sspai.com/post/79596",
+                "published": "2023-05-06"
+            },
+            {
                 "title": "一日一技 | 给国行 NW-A306 Walkman 刷上国际版系统",
                 "link": "https://sspai.com/post/79531",
                 "published": "2023-05-06"
@@ -12078,7 +12093,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -49709,7 +49724,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
