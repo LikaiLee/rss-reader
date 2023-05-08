@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-05-08】 Apple 零售店的灵魂，别人没学到](https://sspai.com/post/79575)
+* [【2023-05-08】 派早报：一季度手机出货同比下降 14%，堡垒之夜成为奥运电竞项目](https://sspai.com/post/79598)
+* [【2023-05-07】 从手机内部设计聊起，探讨 iPhone 14 系列型号的设计之异](https://sspai.com/post/79533)
 * [【2023-05-07】 确诊焦虑症后，这些方法帮我缓解痛苦](https://sspai.com/post/79559)
 * [【2023-05-06】 处理器简史｜PowerPC 05：大厦将倾 力挽狂澜（上）](https://sspai.com/prime/story/sv-anecdotes-12)
 * [【2023-05-06】 长谈人工智能：AI 时代的伦理、教育、工作和生产力](https://sspai.com/post/79596)
@@ -42,9 +45,6 @@
 * [【2023-05-06】 派早报：Google 正式公布 Pixel Fold、文石推出多款新品等](https://sspai.com/post/79590)
 * [【2023-05-05】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79581)
 * [【2023-05-05】 警惕那片「索拉里斯星的海」——AI 翻唱作品引发的合规省思](https://sspai.com/post/79510)
-* [【2023-05-05】 城市漫步指南：来海口，请查收这份「出差攻略」](https://sspai.com/post/79544)
-* [【2023-05-05】 派早报：摩托罗拉发布 Edge 40 手机、AMD 发布 Ryzen 7040U 系列处理器等](https://sspai.com/post/79570)
-* [【2023-05-04】 WWDC23 开幕在即，我们和曾经的获奖学生们聊了聊](https://sspai.com/post/79556)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-07 05:11:38
+:alarm_clock: 更新时间: 2023-05-08 05:11:24
