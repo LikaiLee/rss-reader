@@ -453,6 +453,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Google I/O 2023 前瞻：四大看点，量大管饱",
+                "link": "https://sspai.com/post/79639",
+                "published": "2023-05-09"
+            },
+            {
+                "title": "派早报：微软在 Windows 设置首页加入更多卡片广告，高通收购 Autotalks 等",
+                "link": "https://sspai.com/post/79638",
+                "published": "2023-05-09"
+            },
+            {
+                "title": "英国否决微软并购案始末，以及其他值得关注的游戏资讯评论",
+                "link": "https://sspai.com/prime/story/zouzhe-230508",
+                "published": "2023-05-08"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/79631",
+                "published": "2023-05-08"
+            },
+            {
                 "title": "Apple 零售店的灵魂，别人没学到",
                 "link": "https://sspai.com/post/79575",
                 "published": "2023-05-08"
@@ -12108,7 +12128,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -42564,6 +42584,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "纪念万玛才旦导演  -罗攀",
+                "link": "http://zhuanlan.zhihu.com/p/627863650?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-09"
+            },
+            {
+                "title": "第二波大规模疫情可能会在什么时候到来？",
+                "link": "http://zhuanlan.zhihu.com/p/624166149?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-08"
+            },
+            {
                 "title": "西北工业大学邵典老师-不正经招生指南",
                 "link": "http://zhuanlan.zhihu.com/p/623058801?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-05-06"
@@ -49739,7 +49769,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,

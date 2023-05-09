@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-09】 Google I/O 2023 前瞻：四大看点，量大管饱](https://sspai.com/post/79639)
+* [【2023-05-09】 派早报：微软在 Windows 设置首页加入更多卡片广告，高通收购 Autotalks 等](https://sspai.com/post/79638)
+* [【2023-05-08】 英国否决微软并购案始末，以及其他值得关注的游戏资讯评论](https://sspai.com/prime/story/zouzhe-230508)
+* [【2023-05-08】 派评 | 近期值得关注的 App](https://sspai.com/post/79631)
 * [【2023-05-08】 Apple 零售店的灵魂，别人没学到](https://sspai.com/post/79575)
 * [【2023-05-08】 派早报：一季度手机出货同比下降 14%，堡垒之夜成为奥运电竞项目](https://sspai.com/post/79598)
 * [【2023-05-07】 从手机内部设计聊起，探讨 iPhone 14 系列型号的设计之异](https://sspai.com/post/79533)
 * [【2023-05-07】 确诊焦虑症后，这些方法帮我缓解痛苦](https://sspai.com/post/79559)
 * [【2023-05-06】 处理器简史｜PowerPC 05：大厦将倾 力挽狂澜（上）](https://sspai.com/prime/story/sv-anecdotes-12)
 * [【2023-05-06】 长谈人工智能：AI 时代的伦理、教育、工作和生产力](https://sspai.com/post/79596)
-* [【2023-05-06】 一日一技 | 给国行 NW-A306 Walkman 刷上国际版系统](https://sspai.com/post/79531)
-* [【2023-05-06】 派早报：Google 正式公布 Pixel Fold、文石推出多款新品等](https://sspai.com/post/79590)
-* [【2023-05-05】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79581)
-* [【2023-05-05】 警惕那片「索拉里斯星的海」——AI 翻唱作品引发的合规省思](https://sspai.com/post/79510)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-05-09】 纪念万玛才旦导演  -罗攀](http://zhuanlan.zhihu.com/p/627863650?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-08】 第二波大规模疫情可能会在什么时候到来？](http://zhuanlan.zhihu.com/p/624166149?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-06】 西北工业大学邵典老师-不正经招生指南](http://zhuanlan.zhihu.com/p/623058801?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-04】 【PentaQ.LPL十年盘点】万字长文盘点英雄联盟这十年战术与策略演变](http://zhuanlan.zhihu.com/p/626480490?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-04】 国产动画《有兽焉》热播中，你看完有什么想说的？打算继续追吗？](http://www.zhihu.com/question/595128595/answer/2995312664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-04-25】 2023 年上海车展有哪些「有意思」的展台？](http://www.zhihu.com/question/594209484/answer/2996677756?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-25】 买了新车之后有哪些不是「智商税」的配件可以买？](http://www.zhihu.com/question/579258242/answer/2982507872?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-25】 新能源车会不会不耐用？](http://www.zhihu.com/question/593439862/answer/2976135301?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-24】 为什么鲁迅笔下的人物居然能在百年后的当代年轻人的困境完美匹配?](http://www.zhihu.com/question/590280689/answer/2966782050?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-24】 【PentaQ.LPL十年盘点】Uzi与Clearlove：联盟双骄](http://zhuanlan.zhihu.com/p/624321133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-08 05:11:24
+:alarm_clock: 更新时间: 2023-05-09 05:11:05
