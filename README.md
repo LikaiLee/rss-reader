@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-10】 家用咖啡手册 07 | 做好手冲咖啡三要素：烘焙度、研磨度和水](https://sspai.com/post/79654)
+* [【2023-05-10】 派早报：Apple 发布 iPad 版 Final Cut Pro 与 Logic Pro 等](https://sspai.com/post/79709)
+* [【2023-05-09】 找一把完美适配 macOS 的第三方键盘，为什么那么难？](https://sspai.com/post/79608)
+* [【2023-05-09】 PlayStation Plus 精选集即将下线：买不买会员怎么买？这篇文章或许能帮你](https://sspai.com/post/73490)
+* [【2023-05-09】 线下活动 | 值得买消费嘉年华，快来少数派展位打卡](https://sspai.com/post/79671)
+* [【2023-05-09】 一日一技 | 自动将 macOS 截图导入 iCloud 相册](https://sspai.com/post/79593)
 * [【2023-05-09】 Google I/O 2023 前瞻：四大看点，量大管饱](https://sspai.com/post/79639)
 * [【2023-05-09】 派早报：微软在 Windows 设置首页加入更多卡片广告，高通收购 Autotalks 等](https://sspai.com/post/79638)
 * [【2023-05-08】 英国否决微软并购案始末，以及其他值得关注的游戏资讯评论](https://sspai.com/prime/story/zouzhe-230508)
 * [【2023-05-08】 派评 | 近期值得关注的 App](https://sspai.com/post/79631)
-* [【2023-05-08】 Apple 零售店的灵魂，别人没学到](https://sspai.com/post/79575)
-* [【2023-05-08】 派早报：一季度手机出货同比下降 14%，堡垒之夜成为奥运电竞项目](https://sspai.com/post/79598)
-* [【2023-05-07】 从手机内部设计聊起，探讨 iPhone 14 系列型号的设计之异](https://sspai.com/post/79533)
-* [【2023-05-07】 确诊焦虑症后，这些方法帮我缓解痛苦](https://sspai.com/post/79559)
-* [【2023-05-06】 处理器简史｜PowerPC 05：大厦将倾 力挽狂澜（上）](https://sspai.com/prime/story/sv-anecdotes-12)
-* [【2023-05-06】 长谈人工智能：AI 时代的伦理、教育、工作和生产力](https://sspai.com/post/79596)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-05-10】 「走出新手村」十次 CV 论文会议投稿的经验总结](http://zhuanlan.zhihu.com/p/627032371?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-10】 大语言模型如何构建强大的复杂推理能力｜分析](http://zhuanlan.zhihu.com/p/626533715?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-09】 纪念万玛才旦导演  -罗攀](http://zhuanlan.zhihu.com/p/627863650?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-08】 第二波大规模疫情可能会在什么时候到来？](http://zhuanlan.zhihu.com/p/624166149?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-06】 西北工业大学邵典老师-不正经招生指南](http://zhuanlan.zhihu.com/p/623058801?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-05-03】 妙谈一下｜大神分享：知乎写「冷门」故事也能月入五六万！](http://zhuanlan.zhihu.com/p/625146576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-26】 从小开始培养孩子阅读经典名著的兴趣，可以尝试哪些方式？](http://www.zhihu.com/question/596478094/answer/2993070757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-04-25】 2023 年上海车展有哪些「有意思」的展台？](http://www.zhihu.com/question/594209484/answer/2996677756?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-25】 买了新车之后有哪些不是「智商税」的配件可以买？](http://www.zhihu.com/question/579258242/answer/2982507872?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-25】 新能源车会不会不耐用？](http://www.zhihu.com/question/593439862/answer/2976135301?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-09 05:11:05
+:alarm_clock: 更新时间: 2023-05-10 05:11:18
