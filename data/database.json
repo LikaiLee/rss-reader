@@ -453,6 +453,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "做负责任的 AI 产品，软硬件这次成了配角：Google I/O 2023 亮点回顾",
+                "link": "https://sspai.com/post/79751",
+                "published": "2023-05-11"
+            },
+            {
+                "title": "派早报：Google I/O 2023 开幕、真我推出多款新品、尼康 Z 8 发布等",
+                "link": "https://sspai.com/post/79749",
+                "published": "2023-05-11"
+            },
+            {
+                "title": "新知探索家·第二季：一价多得，锁定付费栏目最低价",
+                "link": "https://sspai.com/post/79694",
+                "published": "2023-05-10"
+            },
+            {
+                "title": "新派煮机｜它的时代先于时代：Palm 简史（六）",
+                "link": "https://sspai.com/prime/story/vintage-tech-stories-palm-6",
+                "published": "2023-05-10"
+            },
+            {
+                "title": "ChatGPT 大火的今天，机器翻译怎样了？",
+                "link": "https://sspai.com/post/79738",
+                "published": "2023-05-10"
+            },
+            {
                 "title": "家用咖啡手册 07 | 做好手冲咖啡三要素：烘焙度、研磨度和水",
                 "link": "https://sspai.com/post/79654",
                 "published": "2023-05-10"
@@ -12158,7 +12183,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -42614,6 +42639,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "第一次养猫怎么办？2023保姆级科学养猫指南",
+                "link": "http://zhuanlan.zhihu.com/p/533713665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-10"
+            },
+            {
                 "title": "「走出新手村」十次 CV 论文会议投稿的经验总结",
                 "link": "http://zhuanlan.zhihu.com/p/627032371?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-05-10"
@@ -49809,7 +49839,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,
