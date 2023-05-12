@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-05-12】 科技爱好者周刊（第 254 期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)
 * [【2023-05-05】 科技爱好者周刊（第 253 期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)
 * [【2023-04-28】 科技爱好者周刊（第 252 期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)
 * [【2023-04-21】 科技爱好者周刊（第 251 期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html)
@@ -25,7 +26,6 @@
 * [【2023-03-23】 科技爱好者周刊（第 247 期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html)
 * [【2023-03-20】 运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html)
 * [【2023-03-17】 科技爱好者周刊（第 246 期）：永不丢失的网络身份](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html)
-* [【2023-03-10】 科技爱好者周刊（第 245 期）：摩天大楼是反人类的](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-12】 播客 | 机智的效率生活](https://sspai.com/post/79756)
+* [【2023-05-12】 派早报：索尼发布 Xperia 1 V 和 Xperia 10 V 手机、ROG 发布其首款游戏掌机等](https://sspai.com/post/79764)
+* [【2023-05-11】 基于 n8n 的开源自动化：以滴答清单同步 Notion 为例](https://sspai.com/prime/story/automation-n8n)
+* [【2023-05-11】 新玩意 145｜少数派的编辑们最近买了啥？](https://sspai.com/post/79757)
+* [【2023-05-11】 《王国之泪》解锁在即，重回海拉鲁请带上这些东西](https://sspai.com/post/79753)
 * [【2023-05-11】 做负责任的 AI 产品，软硬件这次成了配角：Google I/O 2023 亮点回顾](https://sspai.com/post/79751)
 * [【2023-05-11】 派早报：Google I/O 2023 开幕、真我推出多款新品、尼康 Z 8 发布等](https://sspai.com/post/79749)
 * [【2023-05-10】 新知探索家·第二季：一价多得，锁定付费栏目最低价](https://sspai.com/post/79694)
 * [【2023-05-10】 新派煮机｜它的时代先于时代：Palm 简史（六）](https://sspai.com/prime/story/vintage-tech-stories-palm-6)
 * [【2023-05-10】 ChatGPT 大火的今天，机器翻译怎样了？](https://sspai.com/post/79738)
-* [【2023-05-10】 家用咖啡手册 07 | 做好手冲咖啡三要素：烘焙度、研磨度和水](https://sspai.com/post/79654)
-* [【2023-05-10】 派早报：Apple 发布 iPad 版 Final Cut Pro 与 Logic Pro 等](https://sspai.com/post/79709)
-* [【2023-05-09】 找一把完美适配 macOS 的第三方键盘，为什么那么难？](https://sspai.com/post/79608)
-* [【2023-05-09】 PlayStation Plus 精选集即将下线：买不买会员怎么买？这篇文章或许能帮你](https://sspai.com/post/73490)
-* [【2023-05-09】 线下活动 | 值得买消费嘉年华，快来少数派展位打卡](https://sspai.com/post/79671)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-05-11】 想去「很绿很野」的地方来一场解压之旅，有哪些地方值得推荐？](http://www.zhihu.com/question/599400298/answer/3022509421?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-10】 第一次养猫怎么办？2023保姆级科学养猫指南](http://zhuanlan.zhihu.com/p/533713665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-10】 「走出新手村」十次 CV 论文会议投稿的经验总结](http://zhuanlan.zhihu.com/p/627032371?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-10】 大语言模型如何构建强大的复杂推理能力｜分析](http://zhuanlan.zhihu.com/p/626533715?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-05-04】 【PentaQ.LPL十年盘点】万字长文盘点英雄联盟这十年战术与策略演变](http://zhuanlan.zhihu.com/p/626480490?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-04】 国产动画《有兽焉》热播中，你看完有什么想说的？打算继续追吗？](http://www.zhihu.com/question/595128595/answer/2995312664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-03】 妙谈一下｜大神分享：知乎写「冷门」故事也能月入五六万！](http://zhuanlan.zhihu.com/p/625146576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-04-26】 从小开始培养孩子阅读经典名著的兴趣，可以尝试哪些方式？](http://www.zhihu.com/question/596478094/answer/2993070757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-11 05:11:17
+:alarm_clock: 更新时间: 2023-05-12 05:11:07
