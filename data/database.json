@@ -450,13 +450,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "三种方法，自动生成好记又好用的密码",
+                "link": "https://sspai.com/prime/story/password-autogen",
+                "published": "2023-05-13"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/79774",
+                "published": "2023-05-12"
+            },
+            {
+                "title": "Raycast 该怎么用？我们帮你准备了一份实用指南",
+                "link": "https://sspai.com/post/79769",
+                "published": "2023-05-12"
+            },
+            {
+                "title": "【重金悬赏】选完冰箱，我们再从间室收纳聊聊冰箱的「气味管理」",
+                "link": "https://sspai.com/post/65742",
+                "published": "2023-05-12"
+            },
             {
                 "title": "播客 | 机智的效率生活",
                 "link": "https://sspai.com/post/79756",
@@ -12213,7 +12233,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -49874,7 +49894,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

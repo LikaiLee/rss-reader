@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-13】 三种方法，自动生成好记又好用的密码](https://sspai.com/prime/story/password-autogen)
+* [【2023-05-12】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79774)
+* [【2023-05-12】 Raycast 该怎么用？我们帮你准备了一份实用指南](https://sspai.com/post/79769)
+* [【2023-05-12】 【重金悬赏】选完冰箱，我们再从间室收纳聊聊冰箱的「气味管理」](https://sspai.com/post/65742)
 * [【2023-05-12】 播客 | 机智的效率生活](https://sspai.com/post/79756)
 * [【2023-05-12】 派早报：索尼发布 Xperia 1 V 和 Xperia 10 V 手机、ROG 发布其首款游戏掌机等](https://sspai.com/post/79764)
 * [【2023-05-11】 基于 n8n 的开源自动化：以滴答清单同步 Notion 为例](https://sspai.com/prime/story/automation-n8n)
 * [【2023-05-11】 新玩意 145｜少数派的编辑们最近买了啥？](https://sspai.com/post/79757)
 * [【2023-05-11】 《王国之泪》解锁在即，重回海拉鲁请带上这些东西](https://sspai.com/post/79753)
 * [【2023-05-11】 做负责任的 AI 产品，软硬件这次成了配角：Google I/O 2023 亮点回顾](https://sspai.com/post/79751)
-* [【2023-05-11】 派早报：Google I/O 2023 开幕、真我推出多款新品、尼康 Z 8 发布等](https://sspai.com/post/79749)
-* [【2023-05-10】 新知探索家·第二季：一价多得，锁定付费栏目最低价](https://sspai.com/post/79694)
-* [【2023-05-10】 新派煮机｜它的时代先于时代：Palm 简史（六）](https://sspai.com/prime/story/vintage-tech-stories-palm-6)
-* [【2023-05-10】 ChatGPT 大火的今天，机器翻译怎样了？](https://sspai.com/post/79738)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-12 05:11:07
+:alarm_clock: 更新时间: 2023-05-13 05:10:36
