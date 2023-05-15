@@ -458,6 +458,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "数据太多不知从何下手？ChatGPT 新功能帮你自动分析",
+                "link": "https://sspai.com/post/79800",
+                "published": "2023-05-15"
+            },
+            {
+                "title": "派早报：推特任命新 CEO，特斯拉召回强制单踏板功能",
+                "link": "https://sspai.com/post/79799",
+                "published": "2023-05-15"
+            },
+            {
+                "title": "本月玩什么 | 塞尔达传说：王国之泪、网络奇兵重制",
+                "link": "https://sspai.com/post/79803",
+                "published": "2023-05-14"
+            },
+            {
+                "title": "有奖调查 | 选完冰箱，我们再从间室收纳聊聊冰箱的「气味管理」",
+                "link": "https://sspai.com/post/65742",
+                "published": "2023-05-12"
+            },
+            {
                 "title": "社交未必是辛苦的：聊聊我眼中的「人脉管理」",
                 "link": "https://sspai.com/post/79780",
                 "published": "2023-05-13"
@@ -12238,7 +12258,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -42694,6 +42714,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价国漫《端脑》？",
+                "link": "http://www.zhihu.com/question/26912084/answer/3028389417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-15"
+            },
+            {
+                "title": "22-23 赛季英超埃弗顿 0:3 曼城，京多安两射一传哈兰德建功，如何评价这场比赛？",
+                "link": "http://www.zhihu.com/question/600954739/answer/3027934847?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-14"
+            },
+            {
                 "title": "想去「很绿很野」的地方来一场解压之旅，有哪些地方值得推荐？",
                 "link": "http://www.zhihu.com/question/599400298/answer/3022509421?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-05-11"
@@ -49899,7 +49929,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
