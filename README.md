@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-16】 你忽略的「报到证」终于被取消，这件事究竟有什么影响？](https://sspai.com/post/73399)
+* [【2023-05-16】 派早报：Midjourney 官方中文版开启内测等](https://sspai.com/post/79825)
+* [【2023-05-15】 戏份不多、更新不少的 Android 14，以及近期泛 Android 资讯速报](https://sspai.com/prime/story/zouzhe-230515)
+* [【2023-05-15】 派评 | 近期值得关注的 App](https://sspai.com/post/79821)
+* [【2023-05-15】 在不同焦段里跋涉，把情绪拍给别人听：风光摄影指北](https://sspai.com/post/79795)
 * [【2023-05-15】 数据太多不知从何下手？ChatGPT 新功能帮你自动分析](https://sspai.com/post/79800)
 * [【2023-05-15】 派早报：推特任命新 CEO，特斯拉召回强制单踏板功能](https://sspai.com/post/79799)
 * [【2023-05-14】 本月玩什么 | 塞尔达传说：王国之泪、网络奇兵重制](https://sspai.com/post/79803)
 * [【2023-05-12】 有奖调查 | 选完冰箱，我们再从间室收纳聊聊冰箱的「气味管理」](https://sspai.com/post/65742)
 * [【2023-05-13】 社交未必是辛苦的：聊聊我眼中的「人脉管理」](https://sspai.com/post/79780)
-* [【2023-05-13】 三种方法，自动生成好记又好用的密码](https://sspai.com/prime/story/password-autogen)
-* [【2023-05-12】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79774)
-* [【2023-05-12】 Raycast 该怎么用？我们帮你准备了一份实用指南](https://sspai.com/post/79769)
-* [【2023-05-12】 【重金悬赏】选完冰箱，我们再从间室收纳聊聊冰箱的「气味管理」](https://sspai.com/post/65742)
-* [【2023-05-12】 播客 | 机智的效率生活](https://sspai.com/post/79756)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-15 05:11:29
+:alarm_clock: 更新时间: 2023-05-16 05:11:19
