@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+8】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-17】 借助 AI 我为 Raycast 制作了一个可以 OCR 中文的插件](https://sspai.com/post/79788)
+* [【2023-05-16】 派早报：Apple 推出多项软件辅助新功能、闲鱼将收取软件服务费等](https://sspai.com/post/79846)
+* [【2023-05-16】 我「开源」了自己的脑袋](https://sspai.com/prime/story/brain-opensource)
+* [【2023-05-16】 回到奔腾年代，享受一趟二十世纪的科技与人文之旅](https://sspai.com/post/79836)
+* [【2023-05-16】 心意或许比价格更重要，派商店的 520 推荐商品](https://sspai.com/post/79823)
+* [【2023-05-16】 App+1 | 想在 Windows 上收发 iMessage？微软给你支个招](https://sspai.com/post/79834)
+* [【2023-05-16】 XR 世界导览 #1：免费开源的跨平台游戏引擎 Godot 4.0 发布](https://sspai.com/post/79498)
+* [【2023-05-16】 我们找了 14 位专业用户，给 OPPO 写了一份「成绩单」](https://sspai.com/post/79830)
 * [【2023-05-16】 你忽略的「报到证」终于被取消，这件事究竟有什么影响？](https://sspai.com/post/73399)
 * [【2023-05-16】 派早报：Midjourney 官方中文版开启内测等](https://sspai.com/post/79825)
-* [【2023-05-15】 戏份不多、更新不少的 Android 14，以及近期泛 Android 资讯速报](https://sspai.com/prime/story/zouzhe-230515)
-* [【2023-05-15】 派评 | 近期值得关注的 App](https://sspai.com/post/79821)
-* [【2023-05-15】 在不同焦段里跋涉，把情绪拍给别人听：风光摄影指北](https://sspai.com/post/79795)
-* [【2023-05-15】 数据太多不知从何下手？ChatGPT 新功能帮你自动分析](https://sspai.com/post/79800)
-* [【2023-05-15】 派早报：推特任命新 CEO，特斯拉召回强制单踏板功能](https://sspai.com/post/79799)
-* [【2023-05-14】 本月玩什么 | 塞尔达传说：王国之泪、网络奇兵重制](https://sspai.com/post/79803)
-* [【2023-05-12】 有奖调查 | 选完冰箱，我们再从间室收纳聊聊冰箱的「气味管理」](https://sspai.com/post/65742)
-* [【2023-05-13】 社交未必是辛苦的：聊聊我眼中的「人脉管理」](https://sspai.com/post/79780)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-16 05:11:19
+:alarm_clock: 更新时间: 2023-05-17 05:11:15
