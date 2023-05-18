@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+8】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-18】 派早报：Apple 阻止大量潜在欺诈交易、罗技与 iFixit 达成合作等](https://sspai.com/post/79879)
+* [【2023-05-17】 千元级无线降噪耳机新选择：Beats Studio Buds + 首发体验](https://sspai.com/post/79845)
+* [【2023-05-17】 处理器简史｜PowerPC 06：大厦将倾 力挽狂澜（下）](https://sspai.com/prime/story/sv-anecdotes-13)
+* [【2023-05-17】 一日一技 | 如何用坚果云在 SteamDeck 和 PC 之间同步存档](https://sspai.com/post/79793)
+* [【2023-05-17】 商品越来越多，为什么购物越来越难了？聊聊消费与品牌](https://sspai.com/post/79819)
 * [【2023-05-17】 借助 AI 我为 Raycast 制作了一个可以 OCR 中文的插件](https://sspai.com/post/79788)
 * [【2023-05-16】 派早报：Apple 推出多项软件辅助新功能、闲鱼将收取软件服务费等](https://sspai.com/post/79846)
 * [【2023-05-16】 我「开源」了自己的脑袋](https://sspai.com/prime/story/brain-opensource)
 * [【2023-05-16】 回到奔腾年代，享受一趟二十世纪的科技与人文之旅](https://sspai.com/post/79836)
 * [【2023-05-16】 心意或许比价格更重要，派商店的 520 推荐商品](https://sspai.com/post/79823)
-* [【2023-05-16】 App+1 | 想在 Windows 上收发 iMessage？微软给你支个招](https://sspai.com/post/79834)
-* [【2023-05-16】 XR 世界导览 #1：免费开源的跨平台游戏引擎 Godot 4.0 发布](https://sspai.com/post/79498)
-* [【2023-05-16】 我们找了 14 位专业用户，给 OPPO 写了一份「成绩单」](https://sspai.com/post/79830)
-* [【2023-05-16】 你忽略的「报到证」终于被取消，这件事究竟有什么影响？](https://sspai.com/post/73399)
-* [【2023-05-16】 派早报：Midjourney 官方中文版开启内测等](https://sspai.com/post/79825)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-05-17】 空降 一家商业银行分行行长的罪与罚](http://zhuanlan.zhihu.com/p/629656591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-15】 如何评价国漫《端脑》？](http://www.zhihu.com/question/26912084/answer/3028389417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-14】 22-23 赛季英超埃弗顿 0:3 曼城，京多安两射一传哈兰德建功，如何评价这场比赛？](http://www.zhihu.com/question/600954739/answer/3027934847?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-11】 想去「很绿很野」的地方来一场解压之旅，有哪些地方值得推荐？](http://www.zhihu.com/question/599400298/answer/3022509421?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-05-09】 纪念万玛才旦导演  -罗攀](http://zhuanlan.zhihu.com/p/627863650?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-08】 第二波大规模疫情可能会在什么时候到来？](http://zhuanlan.zhihu.com/p/624166149?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-06】 西北工业大学邵典老师-不正经招生指南](http://zhuanlan.zhihu.com/p/623058801?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-04】 【PentaQ.LPL十年盘点】万字长文盘点英雄联盟这十年战术与策略演变](http://zhuanlan.zhihu.com/p/626480490?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-17 05:11:15
+:alarm_clock: 更新时间: 2023-05-18 05:11:20
