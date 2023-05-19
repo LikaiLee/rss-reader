@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-05-19】 科技爱好者周刊（第 255 期）：对待 AI 的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html)
 * [【2023-05-12】 科技爱好者周刊（第 254 期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)
 * [【2023-05-05】 科技爱好者周刊（第 253 期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)
 * [【2023-04-28】 科技爱好者周刊（第 252 期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)
@@ -25,7 +26,6 @@
 * [【2023-03-30】 科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html)
 * [【2023-03-23】 科技爱好者周刊（第 247 期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html)
 * [【2023-03-20】 运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html)
-* [【2023-03-17】 科技爱好者周刊（第 246 期）：永不丢失的网络身份](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-19】 残障人士如何用 ChatGPT 自制能玩游戏的屏幕键盘](https://sspai.com/post/79832)
+* [【2023-05-19】 派早报：Apple 推送 iOS 16.5 等系统更新，HTC 发布 HTC U23 Pro 手机等](https://sspai.com/post/79899)
+* [【2023-05-18】 如何在命令行中安全存取密钥信息：以 OpenAI API 密钥为例](https://sspai.com/prime/story/terminal-credentials-tips)
+* [【2023-05-18】 新玩意 146｜少数派的作者们最近买了啥？](https://sspai.com/post/79885)
+* [【2023-05-18】 从输入到输出：我如何处理每天接收的信息](https://sspai.com/post/79792)
+* [【2023-05-17】 一日一技 | 如何用坚果云在 Steam Deck 和 PC 之间同步存档](https://sspai.com/post/79793)
 * [【2023-05-18】 派早报：Apple 阻止大量潜在欺诈交易、罗技与 iFixit 达成合作等](https://sspai.com/post/79879)
 * [【2023-05-17】 千元级无线降噪耳机新选择：Beats Studio Buds + 首发体验](https://sspai.com/post/79845)
 * [【2023-05-17】 处理器简史｜PowerPC 06：大厦将倾 力挽狂澜（下）](https://sspai.com/prime/story/sv-anecdotes-13)
 * [【2023-05-17】 一日一技 | 如何用坚果云在 SteamDeck 和 PC 之间同步存档](https://sspai.com/post/79793)
-* [【2023-05-17】 商品越来越多，为什么购物越来越难了？聊聊消费与品牌](https://sspai.com/post/79819)
-* [【2023-05-17】 借助 AI 我为 Raycast 制作了一个可以 OCR 中文的插件](https://sspai.com/post/79788)
-* [【2023-05-16】 派早报：Apple 推出多项软件辅助新功能、闲鱼将收取软件服务费等](https://sspai.com/post/79846)
-* [【2023-05-16】 我「开源」了自己的脑袋](https://sspai.com/prime/story/brain-opensource)
-* [【2023-05-16】 回到奔腾年代，享受一趟二十世纪的科技与人文之旅](https://sspai.com/post/79836)
-* [【2023-05-16】 心意或许比价格更重要，派商店的 520 推荐商品](https://sspai.com/post/79823)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-18 05:11:20
+:alarm_clock: 更新时间: 2023-05-19 05:11:07
