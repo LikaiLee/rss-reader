@@ -455,13 +455,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/79911",
+                "published": "2023-05-19"
+            },
+            {
+                "title": "被 Notion 收购的下一代日历 Cron 到底什么来头？",
+                "link": "https://sspai.com/post/79831",
+                "published": "2023-05-19"
+            },
             {
                 "title": "残障人士如何用 ChatGPT 自制能玩游戏的屏幕键盘",
                 "link": "https://sspai.com/post/79832",
@@ -12383,7 +12393,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 2,

@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-05-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79911)
+* [【2023-05-19】 被 Notion 收购的下一代日历 Cron 到底什么来头？](https://sspai.com/post/79831)
 * [【2023-05-19】 残障人士如何用 ChatGPT 自制能玩游戏的屏幕键盘](https://sspai.com/post/79832)
 * [【2023-05-19】 派早报：Apple 推送 iOS 16.5 等系统更新，HTC 发布 HTC U23 Pro 手机等](https://sspai.com/post/79899)
 * [【2023-05-18】 如何在命令行中安全存取密钥信息：以 OpenAI API 密钥为例](https://sspai.com/prime/story/terminal-credentials-tips)
@@ -43,8 +45,6 @@
 * [【2023-05-17】 一日一技 | 如何用坚果云在 Steam Deck 和 PC 之间同步存档](https://sspai.com/post/79793)
 * [【2023-05-18】 派早报：Apple 阻止大量潜在欺诈交易、罗技与 iFixit 达成合作等](https://sspai.com/post/79879)
 * [【2023-05-17】 千元级无线降噪耳机新选择：Beats Studio Buds + 首发体验](https://sspai.com/post/79845)
-* [【2023-05-17】 处理器简史｜PowerPC 06：大厦将倾 力挽狂澜（下）](https://sspai.com/prime/story/sv-anecdotes-13)
-* [【2023-05-17】 一日一技 | 如何用坚果云在 SteamDeck 和 PC 之间同步存档](https://sspai.com/post/79793)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-19 05:11:07
+:alarm_clock: 更新时间: 2023-05-20 05:10:40
