@@ -463,6 +463,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "和海量文档直接对话，AI 阅读工具你该怎么选？",
+                "link": "https://sspai.com/post/79869",
+                "published": "2023-05-23"
+            },
+            {
+                "title": "派早报：微信刷掌支付正式发布，百度开启小度青禾学习手机预售等",
+                "link": "https://sspai.com/post/79945",
+                "published": "2023-05-23"
+            },
+            {
+                "title": "Matter 1.1 更新，以及其他值得了解的硬件和智能家居资讯",
+                "link": "https://sspai.com/prime/story/zouzhe-230522",
+                "published": "2023-05-22"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/79940",
+                "published": "2023-05-22"
+            },
+            {
+                "title": "为了让 AI 工作流更顺畅，我做了一个无代码平台：向量网络",
+                "link": "https://sspai.com/post/79916",
+                "published": "2023-05-22"
+            },
+            {
+                "title": "天气逐渐变热，派商店带你解锁夏日饮品新配方",
+                "link": "https://sspai.com/post/79882",
+                "published": "2023-05-22"
+            },
+            {
                 "title": "在困难的春天换份工作，聊聊我的心路历程",
                 "link": "https://sspai.com/post/79877",
                 "published": "2023-05-22"
@@ -12418,7 +12448,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -42874,6 +42904,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "妙谈一下｜社恐男孩爱编鬼故事，一篇文挣半年工资",
+                "link": "http://zhuanlan.zhihu.com/p/630620845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-22"
+            },
+            {
                 "title": "空降 一家商业银行分行行长的罪与罚",
                 "link": "http://zhuanlan.zhihu.com/p/629656591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-05-17"
@@ -50094,7 +50129,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

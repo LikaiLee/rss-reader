@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-23】 和海量文档直接对话，AI 阅读工具你该怎么选？](https://sspai.com/post/79869)
+* [【2023-05-23】 派早报：微信刷掌支付正式发布，百度开启小度青禾学习手机预售等](https://sspai.com/post/79945)
+* [【2023-05-22】 Matter 1.1 更新，以及其他值得了解的硬件和智能家居资讯](https://sspai.com/prime/story/zouzhe-230522)
+* [【2023-05-22】 派评 | 近期值得关注的 App](https://sspai.com/post/79940)
+* [【2023-05-22】 为了让 AI 工作流更顺畅，我做了一个无代码平台：向量网络](https://sspai.com/post/79916)
+* [【2023-05-22】 天气逐渐变热，派商店带你解锁夏日饮品新配方](https://sspai.com/post/79882)
 * [【2023-05-22】 在困难的春天换份工作，聊聊我的心路历程](https://sspai.com/post/79877)
 * [【2023-05-22】 派早报：阿里云将分拆上市，美光未通过网络安全审查](https://sspai.com/post/79921)
 * [【2023-05-21】 作为「专业玩家」，我对闲鱼收费有这些想说](https://sspai.com/post/79918)
 * [【2023-05-21】 如何配一副适合自己的眼镜：这是我的个人经验与实践](https://sspai.com/post/79573)
-* [【2023-05-20】 甜味剂解密 2：关于代糖的几点迷思](https://sspai.com/post/75350)
-* [【2023-05-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79911)
-* [【2023-05-19】 被 Notion 收购的下一代日历 Cron 到底什么来头？](https://sspai.com/post/79831)
-* [【2023-05-19】 残障人士如何用 ChatGPT 自制能玩游戏的屏幕键盘](https://sspai.com/post/79832)
-* [【2023-05-19】 派早报：Apple 推送 iOS 16.5 等系统更新，HTC 发布 HTC U23 Pro 手机等](https://sspai.com/post/79899)
-* [【2023-05-18】 如何在命令行中安全存取密钥信息：以 OpenAI API 密钥为例](https://sspai.com/prime/story/terminal-credentials-tips)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-05-22】 妙谈一下｜社恐男孩爱编鬼故事，一篇文挣半年工资](http://zhuanlan.zhihu.com/p/630620845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-17】 空降 一家商业银行分行行长的罪与罚](http://zhuanlan.zhihu.com/p/629656591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-15】 如何评价国漫《端脑》？](http://www.zhihu.com/question/26912084/answer/3028389417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-14】 22-23 赛季英超埃弗顿 0:3 曼城，京多安两射一传哈兰德建功，如何评价这场比赛？](http://www.zhihu.com/question/600954739/answer/3027934847?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-05-10】 大语言模型如何构建强大的复杂推理能力｜分析](http://zhuanlan.zhihu.com/p/626533715?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-09】 纪念万玛才旦导演  -罗攀](http://zhuanlan.zhihu.com/p/627863650?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-08】 第二波大规模疫情可能会在什么时候到来？](http://zhuanlan.zhihu.com/p/624166149?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-06】 西北工业大学邵典老师-不正经招生指南](http://zhuanlan.zhihu.com/p/623058801?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-22 05:12:03
+:alarm_clock: 更新时间: 2023-05-23 05:11:37
