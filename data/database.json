@@ -463,6 +463,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "想让大模型称心如意，提示语应该怎么写？",
+                "link": "https://sspai.com/post/79923",
+                "published": "2023-05-24"
+            },
+            {
+                "title": "派早报：Meta 推出自研 AI 运算芯片、戴森发布多款新品等",
+                "link": "https://sspai.com/post/79964",
+                "published": "2023-05-24"
+            },
+            {
+                "title": "《回到奔腾年代》试播集：硅谷的由来，摩尔定律的故事，偏执狂的胜利",
+                "link": "https://sspai.com/post/79836",
+                "published": "2023-05-23"
+            },
+            {
+                "title": "少数派线下活动：来上海，和我们一起看 Apple 发布会",
+                "link": "https://sspai.com/post/79946",
+                "published": "2023-05-23"
+            },
+            {
+                "title": "大有进步，仍有硬伤：Anytype 大更新解析",
+                "link": "https://sspai.com/post/79949",
+                "published": "2023-05-23"
+            },
+            {
+                "title": "让你的爱机焕然一新：笔记本电脑表面清洁指南",
+                "link": "https://sspai.com/post/79956",
+                "published": "2023-05-23"
+            },
+            {
                 "title": "和海量文档直接对话，AI 阅读工具你该怎么选？",
                 "link": "https://sspai.com/post/79869",
                 "published": "2023-05-23"
@@ -42904,6 +42934,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "终于等到40系甜点卡 -  影驰RTX 4060 Ti 8GB 金属大师显卡首发评测",
+                "link": "http://zhuanlan.zhihu.com/p/631637527?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-23"
+            },
+            {
+                "title": "【毅种循环】618显示器推荐(下集：办公、设计等非游戏显示器)",
+                "link": "http://zhuanlan.zhihu.com/p/631657244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-23"
+            },
+            {
+                "title": "【毅种循环】618显示器推荐(上集：游戏显示器)",
+                "link": "http://zhuanlan.zhihu.com/p/631419079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-23"
+            },
+            {
+                "title": "创作者请回答｜闲得无聊的仙女：90 后女生国企离职，写小说给父母换房",
+                "link": "http://zhuanlan.zhihu.com/p/631581461?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-23"
+            },
+            {
                 "title": "妙谈一下｜社恐男孩爱编鬼故事，一篇文挣半年工资",
                 "link": "http://zhuanlan.zhihu.com/p/630620845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-05-22"
@@ -50129,7 +50179,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 4,

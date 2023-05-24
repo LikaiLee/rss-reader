@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-24】 想让大模型称心如意，提示语应该怎么写？](https://sspai.com/post/79923)
+* [【2023-05-24】 派早报：Meta 推出自研 AI 运算芯片、戴森发布多款新品等](https://sspai.com/post/79964)
+* [【2023-05-23】 《回到奔腾年代》试播集：硅谷的由来，摩尔定律的故事，偏执狂的胜利](https://sspai.com/post/79836)
+* [【2023-05-23】 少数派线下活动：来上海，和我们一起看 Apple 发布会](https://sspai.com/post/79946)
+* [【2023-05-23】 大有进步，仍有硬伤：Anytype 大更新解析](https://sspai.com/post/79949)
+* [【2023-05-23】 让你的爱机焕然一新：笔记本电脑表面清洁指南](https://sspai.com/post/79956)
 * [【2023-05-23】 和海量文档直接对话，AI 阅读工具你该怎么选？](https://sspai.com/post/79869)
 * [【2023-05-23】 派早报：微信刷掌支付正式发布，百度开启小度青禾学习手机预售等](https://sspai.com/post/79945)
 * [【2023-05-22】 Matter 1.1 更新，以及其他值得了解的硬件和智能家居资讯](https://sspai.com/prime/story/zouzhe-230522)
 * [【2023-05-22】 派评 | 近期值得关注的 App](https://sspai.com/post/79940)
-* [【2023-05-22】 为了让 AI 工作流更顺畅，我做了一个无代码平台：向量网络](https://sspai.com/post/79916)
-* [【2023-05-22】 天气逐渐变热，派商店带你解锁夏日饮品新配方](https://sspai.com/post/79882)
-* [【2023-05-22】 在困难的春天换份工作，聊聊我的心路历程](https://sspai.com/post/79877)
-* [【2023-05-22】 派早报：阿里云将分拆上市，美光未通过网络安全审查](https://sspai.com/post/79921)
-* [【2023-05-21】 作为「专业玩家」，我对闲鱼收费有这些想说](https://sspai.com/post/79918)
-* [【2023-05-21】 如何配一副适合自己的眼镜：这是我的个人经验与实践](https://sspai.com/post/79573)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-05-23】 终于等到40系甜点卡 -  影驰RTX 4060 Ti 8GB 金属大师显卡首发评测](http://zhuanlan.zhihu.com/p/631637527?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-23】 【毅种循环】618显示器推荐(下集：办公、设计等非游戏显示器)](http://zhuanlan.zhihu.com/p/631657244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-23】 【毅种循环】618显示器推荐(上集：游戏显示器)](http://zhuanlan.zhihu.com/p/631419079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-23】 创作者请回答｜闲得无聊的仙女：90 后女生国企离职，写小说给父母换房](http://zhuanlan.zhihu.com/p/631581461?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-22】 妙谈一下｜社恐男孩爱编鬼故事，一篇文挣半年工资](http://zhuanlan.zhihu.com/p/630620845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-17】 空降 一家商业银行分行行长的罪与罚](http://zhuanlan.zhihu.com/p/629656591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-15】 如何评价国漫《端脑》？](http://www.zhihu.com/question/26912084/answer/3028389417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-14】 22-23 赛季英超埃弗顿 0:3 曼城，京多安两射一传哈兰德建功，如何评价这场比赛？](http://www.zhihu.com/question/600954739/answer/3027934847?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-11】 想去「很绿很野」的地方来一场解压之旅，有哪些地方值得推荐？](http://www.zhihu.com/question/599400298/answer/3022509421?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-10】 第一次养猫怎么办？2023保姆级科学养猫指南](http://zhuanlan.zhihu.com/p/533713665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-10】 「走出新手村」十次 CV 论文会议投稿的经验总结](http://zhuanlan.zhihu.com/p/627032371?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-10】 大语言模型如何构建强大的复杂推理能力｜分析](http://zhuanlan.zhihu.com/p/626533715?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-09】 纪念万玛才旦导演  -罗攀](http://zhuanlan.zhihu.com/p/627863650?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-08】 第二波大规模疫情可能会在什么时候到来？](http://zhuanlan.zhihu.com/p/624166149?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-23 05:11:37
+:alarm_clock: 更新时间: 2023-05-24 05:11:06
