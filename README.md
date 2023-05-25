@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+7】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-25】 用免费开源的方案，搭建可离线、跨平台的私有播客订阅管理](https://sspai.com/post/79917)
+* [【2023-05-25】 派早报：Apple 公布 WWDC23 完整日程、马斯克确定特斯拉接班人等](https://sspai.com/post/79988)
+* [【2023-05-24】 「动真格」无需大动作，小处着手保护 iPhone 隐私](https://sspai.com/post/79967)
+* [【2023-05-24】 经历两种相反的消费状态后，我开始重新思考记账这件事](https://sspai.com/post/79969)
 * [【2023-05-24】 想让大模型称心如意，提示语应该怎么写？](https://sspai.com/post/79923)
 * [【2023-05-24】 派早报：Meta 推出自研 AI 运算芯片、戴森发布多款新品等](https://sspai.com/post/79964)
 * [【2023-05-23】 《回到奔腾年代》试播集：硅谷的由来，摩尔定律的故事，偏执狂的胜利](https://sspai.com/post/79836)
 * [【2023-05-23】 少数派线下活动：来上海，和我们一起看 Apple 发布会](https://sspai.com/post/79946)
 * [【2023-05-23】 大有进步，仍有硬伤：Anytype 大更新解析](https://sspai.com/post/79949)
 * [【2023-05-23】 让你的爱机焕然一新：笔记本电脑表面清洁指南](https://sspai.com/post/79956)
-* [【2023-05-23】 和海量文档直接对话，AI 阅读工具你该怎么选？](https://sspai.com/post/79869)
-* [【2023-05-23】 派早报：微信刷掌支付正式发布，百度开启小度青禾学习手机预售等](https://sspai.com/post/79945)
-* [【2023-05-22】 Matter 1.1 更新，以及其他值得了解的硬件和智能家居资讯](https://sspai.com/prime/story/zouzhe-230522)
-* [【2023-05-22】 派评 | 近期值得关注的 App](https://sspai.com/post/79940)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-05-25】 2023 年 5 月 25 凌晨索尼 showcase 发布会，《影之刃零》等作品首曝，有哪些关注点？](http://www.zhihu.com/question/602905025/answer/3043753796?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-25】 如何在新能源汽车研发过程中，解决电池性能、充电和续航问题，以及提高车辆的功率和效率等方面的挑战？](http://www.zhihu.com/question/598835713/answer/3028242465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-25】 汽车AI技术是如何实现的？AI技术能够带来哪些对汽车行业的改变和影响？](http://www.zhihu.com/question/598871383/answer/3039310719?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-25】 三元锂离子动力电池和磷酸铁锂电池哪一种电池更适合电动汽车呢?](http://www.zhihu.com/question/598995070/answer/3026937653?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-25】 新能源纯电动汽车电池衰退跟年限有关系吗？是完全看充放电次数吗？还是两者兼具影响？](http://www.zhihu.com/question/510597598/answer/3014891730?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-25】 都说底盘一体化强，究竟强在哪里？](http://www.zhihu.com/question/598596583/answer/3010905517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-25】 该如何评价新能源汽车的电池性能和安全性？](http://www.zhihu.com/question/53163627/answer/3008459139?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-23】 终于等到40系甜点卡 -  影驰RTX 4060 Ti 8GB 金属大师显卡首发评测](http://zhuanlan.zhihu.com/p/631637527?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-23】 【毅种循环】618显示器推荐(下集：办公、设计等非游戏显示器)](http://zhuanlan.zhihu.com/p/631657244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-23】 【毅种循环】618显示器推荐(上集：游戏显示器)](http://zhuanlan.zhihu.com/p/631419079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-23】 创作者请回答｜闲得无聊的仙女：90 后女生国企离职，写小说给父母换房](http://zhuanlan.zhihu.com/p/631581461?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-22】 妙谈一下｜社恐男孩爱编鬼故事，一篇文挣半年工资](http://zhuanlan.zhihu.com/p/630620845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-17】 空降 一家商业银行分行行长的罪与罚](http://zhuanlan.zhihu.com/p/629656591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-15】 如何评价国漫《端脑》？](http://www.zhihu.com/question/26912084/answer/3028389417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-14】 22-23 赛季英超埃弗顿 0:3 曼城，京多安两射一传哈兰德建功，如何评价这场比赛？](http://www.zhihu.com/question/600954739/answer/3027934847?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-11】 想去「很绿很野」的地方来一场解压之旅，有哪些地方值得推荐？](http://www.zhihu.com/question/599400298/answer/3022509421?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-10】 第一次养猫怎么办？2023保姆级科学养猫指南](http://zhuanlan.zhihu.com/p/533713665?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-24 05:11:06
+:alarm_clock: 更新时间: 2023-05-25 05:11:20
