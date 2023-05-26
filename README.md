@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+7】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-05-26】 科技爱好者周刊（第 256 期）：最酷的乐高作品](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html)
 * [【2023-05-19】 科技爱好者周刊（第 255 期）：对待 AI 的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html)
 * [【2023-05-12】 科技爱好者周刊（第 254 期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)
 * [【2023-05-05】 科技爱好者周刊（第 253 期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)
@@ -25,7 +26,6 @@
 * [【2023-04-07】 科技爱好者周刊（第 249 期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html)
 * [【2023-03-30】 科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html)
 * [【2023-03-23】 科技爱好者周刊（第 247 期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html)
-* [【2023-03-20】 运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-26】 心光：为了纯粹、无压力的记录，我用 AI 改造了「标签」](https://sspai.com/post/79927)
+* [【2023-05-26】 派早报：Apple 公布 2023 年设计奖入围作品名单、索尼公布 PS5 串流掌上设备](https://sspai.com/post/80008)
+* [【2023-05-25】 装了啥特别篇：编辑部用什么做图片处理](https://sspai.com/prime/story/zhuanglesha-sp-img-utils)
+* [【2023-05-25】 PS Showcase 情报汇总：《漫威蜘蛛侠 2》压轴、Bungie 远古 IP 复活等](https://sspai.com/post/80002)
+* [【2023-05-25】 XR 世界导览 #2：Unity XR Interaction Toolkit 发布 2.3 版本](https://sspai.com/post/79980)
+* [【2023-05-25】 让 iPad「更 Pro」的专业音频创作工具：Logic Pro for iPad 上手体验](https://sspai.com/post/79996)
 * [【2023-05-25】 用免费开源的方案，搭建可离线、跨平台的私有播客订阅管理](https://sspai.com/post/79917)
 * [【2023-05-25】 派早报：Apple 公布 WWDC23 完整日程、马斯克确定特斯拉接班人等](https://sspai.com/post/79988)
 * [【2023-05-24】 「动真格」无需大动作，小处着手保护 iPhone 隐私](https://sspai.com/post/79967)
 * [【2023-05-24】 经历两种相反的消费状态后，我开始重新思考记账这件事](https://sspai.com/post/79969)
-* [【2023-05-24】 想让大模型称心如意，提示语应该怎么写？](https://sspai.com/post/79923)
-* [【2023-05-24】 派早报：Meta 推出自研 AI 运算芯片、戴森发布多款新品等](https://sspai.com/post/79964)
-* [【2023-05-23】 《回到奔腾年代》试播集：硅谷的由来，摩尔定律的故事，偏执狂的胜利](https://sspai.com/post/79836)
-* [【2023-05-23】 少数派线下活动：来上海，和我们一起看 Apple 发布会](https://sspai.com/post/79946)
-* [【2023-05-23】 大有进步，仍有硬伤：Anytype 大更新解析](https://sspai.com/post/79949)
-* [【2023-05-23】 让你的爱机焕然一新：笔记本电脑表面清洁指南](https://sspai.com/post/79956)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-25 05:11:20
+:alarm_clock: 更新时间: 2023-05-26 05:11:16

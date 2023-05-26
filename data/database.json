@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 256 期）：最酷的乐高作品",
+                "link": "http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html",
+                "published": "2023-05-26"
+            },
+            {
                 "title": "科技爱好者周刊（第 255 期）：对待 AI 的正确态度",
                 "link": "http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html",
                 "published": "2023-05-19"
@@ -455,13 +460,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "心光：为了纯粹、无压力的记录，我用 AI 改造了「标签」",
+                "link": "https://sspai.com/post/79927",
+                "published": "2023-05-26"
+            },
+            {
+                "title": "派早报：Apple 公布 2023 年设计奖入围作品名单、索尼公布 PS5 串流掌上设备",
+                "link": "https://sspai.com/post/80008",
+                "published": "2023-05-26"
+            },
+            {
+                "title": "装了啥特别篇：编辑部用什么做图片处理",
+                "link": "https://sspai.com/prime/story/zhuanglesha-sp-img-utils",
+                "published": "2023-05-25"
+            },
+            {
+                "title": "PS Showcase 情报汇总：《漫威蜘蛛侠 2》压轴、Bungie 远古 IP 复活等",
+                "link": "https://sspai.com/post/80002",
+                "published": "2023-05-25"
+            },
+            {
+                "title": "XR 世界导览 #2：Unity XR Interaction Toolkit 发布 2.3 版本",
+                "link": "https://sspai.com/post/79980",
+                "published": "2023-05-25"
+            },
+            {
+                "title": "让 iPad「更 Pro」的专业音频创作工具：Logic Pro for iPad 上手体验",
+                "link": "https://sspai.com/post/79996",
+                "published": "2023-05-25"
+            },
             {
                 "title": "用免费开源的方案，搭建可离线、跨平台的私有播客订阅管理",
                 "link": "https://sspai.com/post/79917",
@@ -12498,7 +12533,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -50234,7 +50269,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 0
     },
     {
         "id": 4,
