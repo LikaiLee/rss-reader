@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-27】 除了模型， GPT 们还在卷什么？](https://sspai.com/post/79985)
+* [【2023-05-26】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80020)
+* [【2023-05-26】 随身携带的专业剪辑室用起来怎么样？iPad 版 Final Cut Pro 上手体验](https://sspai.com/post/80013)
+* [【2023-05-26】 热点速通 | AI 时代到来：新版 Windows 特性详解](https://sspai.com/post/80004)
 * [【2023-05-26】 心光：为了纯粹、无压力的记录，我用 AI 改造了「标签」](https://sspai.com/post/79927)
 * [【2023-05-26】 派早报：Apple 公布 2023 年设计奖入围作品名单、索尼公布 PS5 串流掌上设备](https://sspai.com/post/80008)
 * [【2023-05-25】 装了啥特别篇：编辑部用什么做图片处理](https://sspai.com/prime/story/zhuanglesha-sp-img-utils)
 * [【2023-05-25】 PS Showcase 情报汇总：《漫威蜘蛛侠 2》压轴、Bungie 远古 IP 复活等](https://sspai.com/post/80002)
 * [【2023-05-25】 XR 世界导览 #2：Unity XR Interaction Toolkit 发布 2.3 版本](https://sspai.com/post/79980)
 * [【2023-05-25】 让 iPad「更 Pro」的专业音频创作工具：Logic Pro for iPad 上手体验](https://sspai.com/post/79996)
-* [【2023-05-25】 用免费开源的方案，搭建可离线、跨平台的私有播客订阅管理](https://sspai.com/post/79917)
-* [【2023-05-25】 派早报：Apple 公布 WWDC23 完整日程、马斯克确定特斯拉接班人等](https://sspai.com/post/79988)
-* [【2023-05-24】 「动真格」无需大动作，小处着手保护 iPhone 隐私](https://sspai.com/post/79967)
-* [【2023-05-24】 经历两种相反的消费状态后，我开始重新思考记账这件事](https://sspai.com/post/79969)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-05-26】 如何评价密室逃脱游戏《长安乱》？](http://www.zhihu.com/question/563950552/answer/3045961312?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-26】 万物皆可二次元！华硕天选路由器全面评测（双2.5G）](http://zhuanlan.zhihu.com/p/632237566?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-26】 显卡评测第35期｜RTX 4070：我成甜品卡了？](http://zhuanlan.zhihu.com/p/632365502?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-25】 2023 年 5 月 25 凌晨索尼 showcase 发布会，《影之刃零》等作品首曝，有哪些关注点？](http://www.zhihu.com/question/602905025/answer/3043753796?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-25】 如何在新能源汽车研发过程中，解决电池性能、充电和续航问题，以及提高车辆的功率和效率等方面的挑战？](http://www.zhihu.com/question/598835713/answer/3028242465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-25】 汽车AI技术是如何实现的？AI技术能够带来哪些对汽车行业的改变和影响？](http://www.zhihu.com/question/598871383/answer/3039310719?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-05-25】 新能源纯电动汽车电池衰退跟年限有关系吗？是完全看充放电次数吗？还是两者兼具影响？](http://www.zhihu.com/question/510597598/answer/3014891730?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-25】 都说底盘一体化强，究竟强在哪里？](http://www.zhihu.com/question/598596583/answer/3010905517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-25】 该如何评价新能源汽车的电池性能和安全性？](http://www.zhihu.com/question/53163627/answer/3008459139?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-23】 终于等到40系甜点卡 -  影驰RTX 4060 Ti 8GB 金属大师显卡首发评测](http://zhuanlan.zhihu.com/p/631637527?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-23】 【毅种循环】618显示器推荐(下集：办公、设计等非游戏显示器)](http://zhuanlan.zhihu.com/p/631657244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-23】 【毅种循环】618显示器推荐(上集：游戏显示器)](http://zhuanlan.zhihu.com/p/631419079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-26 05:11:16
+:alarm_clock: 更新时间: 2023-05-27 05:10:44

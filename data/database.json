@@ -460,13 +460,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "除了模型， GPT 们还在卷什么？",
+                "link": "https://sspai.com/post/79985",
+                "published": "2023-05-27"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/80020",
+                "published": "2023-05-26"
+            },
+            {
+                "title": "随身携带的专业剪辑室用起来怎么样？iPad 版 Final Cut Pro 上手体验",
+                "link": "https://sspai.com/post/80013",
+                "published": "2023-05-26"
+            },
+            {
+                "title": "热点速通 | AI 时代到来：新版 Windows 特性详解",
+                "link": "https://sspai.com/post/80004",
+                "published": "2023-05-26"
+            },
             {
                 "title": "心光：为了纯粹、无压力的记录，我用 AI 改造了「标签」",
                 "link": "https://sspai.com/post/79927",
@@ -12533,7 +12553,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -42989,6 +43009,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价密室逃脱游戏《长安乱》？",
+                "link": "http://www.zhihu.com/question/563950552/answer/3045961312?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-26"
+            },
+            {
+                "title": "万物皆可二次元！华硕天选路由器全面评测（双2.5G）",
+                "link": "http://zhuanlan.zhihu.com/p/632237566?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-26"
+            },
+            {
+                "title": "显卡评测第35期｜RTX 4070：我成甜品卡了？",
+                "link": "http://zhuanlan.zhihu.com/p/632365502?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-26"
+            },
+            {
                 "title": "2023 年 5 月 25 凌晨索尼 showcase 发布会，《影之刃零》等作品首曝，有哪些关注点？",
                 "link": "http://www.zhihu.com/question/602905025/answer/3043753796?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-05-25"
@@ -50269,7 +50304,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 4,
