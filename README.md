@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-05-28】 你的第一台 Apple 设备是什么？这是 8 位少数派作者的回答](https://sspai.com/post/80017)
+* [【2023-05-27】 一日一技 | 无需「XX 管家」，用 Windows 自带工具搞定应用安装与升级](https://sspai.com/post/80027)
 * [【2023-05-27】 除了模型， GPT 们还在卷什么？](https://sspai.com/post/79985)
 * [【2023-05-26】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80020)
 * [【2023-05-26】 随身携带的专业剪辑室用起来怎么样？iPad 版 Final Cut Pro 上手体验](https://sspai.com/post/80013)
@@ -43,8 +45,6 @@
 * [【2023-05-26】 派早报：Apple 公布 2023 年设计奖入围作品名单、索尼公布 PS5 串流掌上设备](https://sspai.com/post/80008)
 * [【2023-05-25】 装了啥特别篇：编辑部用什么做图片处理](https://sspai.com/prime/story/zhuanglesha-sp-img-utils)
 * [【2023-05-25】 PS Showcase 情报汇总：《漫威蜘蛛侠 2》压轴、Bungie 远古 IP 复活等](https://sspai.com/post/80002)
-* [【2023-05-25】 XR 世界导览 #2：Unity XR Interaction Toolkit 发布 2.3 版本](https://sspai.com/post/79980)
-* [【2023-05-25】 让 iPad「更 Pro」的专业音频创作工具：Logic Pro for iPad 上手体验](https://sspai.com/post/79996)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-27 05:10:44
+:alarm_clock: 更新时间: 2023-05-28 05:10:32
