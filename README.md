@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-05-30】 人人皆可前端：Arc 浏览器更新有感](https://sspai.com/post/80028)
+* [【2023-05-30】 派早报：Nvidia 展示生成式人工智能用 GPU，ARM 发布全新内核核心设计等](https://sspai.com/post/80069)
+* [【2023-05-29】 游戏公司财报扎堆交卷，以及其他值得关注的游戏资讯评论](https://sspai.com/prime/story/zouzhe-230529)
+* [【2023-05-29】 派评 | 近期值得关注的 App](https://sspai.com/post/80065)
+* [【2023-05-29】 家用咖啡手册 08 | 提神醒脑，这是冲煮精品咖啡的四种手法](https://sspai.com/post/79961)
+* [【2023-05-29】 有奖征文 | 从老特斯拉车主的蔚来换车记说起……](https://sspai.com/post/79820)
 * [【2023-05-29】 exping 1.4 更新：创造、组织与分组，你也可以用地图来「讲故事」](https://sspai.com/post/79902)
 * [【2023-05-29】 派早报：iCloud 照片流服务即将关闭，天涯承认遇资金困难](https://sspai.com/post/80044)
 * [【2023-05-28】 从出版书籍到网络文学，全方位多角度比较 11 款阅读应用](https://sspai.com/prime/story/zh-reading-apps-compared)
 * [【2023-05-28】 你的第一台 Apple 设备是什么？这是 8 位少数派作者的回答](https://sspai.com/post/80017)
-* [【2023-05-27】 一日一技 | 无需「XX 管家」，用 Windows 自带工具搞定应用安装与升级](https://sspai.com/post/80027)
-* [【2023-05-27】 除了模型， GPT 们还在卷什么？](https://sspai.com/post/79985)
-* [【2023-05-26】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80020)
-* [【2023-05-26】 随身携带的专业剪辑室用起来怎么样？iPad 版 Final Cut Pro 上手体验](https://sspai.com/post/80013)
-* [【2023-05-26】 热点速通 | AI 时代到来：新版 Windows 特性详解](https://sspai.com/post/80004)
-* [【2023-05-26】 心光：为了纯粹、无压力的记录，我用 AI 改造了「标签」](https://sspai.com/post/79927)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-05-29 05:11:26
+:alarm_clock: 更新时间: 2023-05-30 05:11:13

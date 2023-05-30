@@ -468,6 +468,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "人人皆可前端：Arc 浏览器更新有感",
+                "link": "https://sspai.com/post/80028",
+                "published": "2023-05-30"
+            },
+            {
+                "title": "派早报：Nvidia 展示生成式人工智能用 GPU，ARM 发布全新内核核心设计等",
+                "link": "https://sspai.com/post/80069",
+                "published": "2023-05-30"
+            },
+            {
+                "title": "游戏公司财报扎堆交卷，以及其他值得关注的游戏资讯评论",
+                "link": "https://sspai.com/prime/story/zouzhe-230529",
+                "published": "2023-05-29"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/80065",
+                "published": "2023-05-29"
+            },
+            {
+                "title": "家用咖啡手册 08 | 提神醒脑，这是冲煮精品咖啡的四种手法",
+                "link": "https://sspai.com/post/79961",
+                "published": "2023-05-29"
+            },
+            {
+                "title": "有奖征文 | 从老特斯拉车主的蔚来换车记说起……",
+                "link": "https://sspai.com/post/79820",
+                "published": "2023-05-29"
+            },
+            {
                 "title": "exping 1.4 更新：创造、组织与分组，你也可以用地图来「讲故事」",
                 "link": "https://sspai.com/post/79902",
                 "published": "2023-05-29"
@@ -12578,7 +12608,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
