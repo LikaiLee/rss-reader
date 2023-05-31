@@ -468,6 +468,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "开启下一个十年的科技变革？Apple AR 眼镜预测前瞻",
+                "link": "https://sspai.com/post/80084",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "派早报：Aqara 推出新款卡农智能墙壁开关 Z1 等",
+                "link": "https://sspai.com/post/80087",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "天翼时代，电信玩机党最坎坷的旅程",
+                "link": "https://sspai.com/prime/story/vintage-tech-stories-cmda-phones",
+                "published": "2023-05-30"
+            },
+            {
+                "title": "Final Cut Pro for iPad 体验：未来可期的半成品",
+                "link": "https://sspai.com/post/80039",
+                "published": "2023-05-30"
+            },
+            {
+                "title": "Apple 即将关闭「照片流」，告别前需要知道的 4 个问题",
+                "link": "https://sspai.com/post/80074",
+                "published": "2023-05-30"
+            },
+            {
+                "title": "WWDC23 线上特别活动：和少数派一起聊本届开发者大会",
+                "link": "https://sspai.com/post/80073",
+                "published": "2023-05-30"
+            },
+            {
+                "title": "世界水獭日即将到来，少数派邀请你一起为「TA」做点什么",
+                "link": "https://sspai.com/post/79971",
+                "published": "2023-05-30"
+            },
+            {
                 "title": "人人皆可前端：Arc 浏览器更新有感",
                 "link": "https://sspai.com/post/80028",
                 "published": "2023-05-30"
@@ -12608,7 +12643,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -43064,6 +43099,71 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "【回归】2023年618笔记本推荐（6K以下）",
+                "link": "http://zhuanlan.zhihu.com/p/632724947?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "2023年上半年路由器选购指南：小米/锐捷/TP/华硕/H3C",
+                "link": "http://zhuanlan.zhihu.com/p/633461586?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "【维P测评】机械革命蛟龙16K 独显RTX4050 - 好屏实惠占先机 100图长文深度评测",
+                "link": "http://zhuanlan.zhihu.com/p/633509642?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "2023年618，2000元高性价比手机推荐定时更新（红米K60/E、12Turbo、真我GTNeo5/SE、一加 Ace2/V、iQOONeo8、荣耀80、vivoS16、OPPOReno9）",
+                "link": "http://zhuanlan.zhihu.com/p/361979460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-30"
+            },
+            {
+                "title": "深圳龙岗4个小众的城市绿洲，来一场自然疗愈之旅！",
+                "link": "http://zhuanlan.zhihu.com/p/624016387?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-30"
+            },
+            {
+                "title": "2023年618显卡购买推荐及攻略",
+                "link": "http://zhuanlan.zhihu.com/p/632910441?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-30"
+            },
+            {
+                "title": "有哪些4k价位轻薄本可以考虑入手？2023年轻薄本推荐指南（intel篇）",
+                "link": "http://zhuanlan.zhihu.com/p/633115314?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-30"
+            },
+            {
+                "title": "小尺寸，高性能——ThinkPad T14p评测",
+                "link": "http://zhuanlan.zhihu.com/p/629365733?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-29"
+            },
+            {
+                "title": "如何评价密室逃脱游戏《英雄》？",
+                "link": "http://www.zhihu.com/question/563956507/answer/3049575827?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-29"
+            },
+            {
+                "title": "《鬼谷八荒》正式版上线，你有哪些感想？",
+                "link": "http://www.zhihu.com/question/603167620/answer/3046221865?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-29"
+            },
+            {
+                "title": "世界的参数倒影：为何GPT通过Next Token Prediction可以产生智能",
+                "link": "http://zhuanlan.zhihu.com/p/632795115?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-29"
+            },
+            {
+                "title": "2023年618大屏轻薄本怎么选？LG gram全家桶，总有一款适合你",
+                "link": "http://zhuanlan.zhihu.com/p/632641888?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-27"
+            },
+            {
+                "title": "年轻人的第一台SoundBar！索尼轻巧型全景声回音壁HT-S2000深度评测（全网首发）",
+                "link": "http://zhuanlan.zhihu.com/p/630990296?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-27"
+            },
+            {
                 "title": "如何评价密室逃脱游戏《长安乱》？",
                 "link": "http://www.zhihu.com/question/563950552/answer/3045961312?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-05-26"
@@ -50359,7 +50459,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 13
     },
     {
         "id": 4,
