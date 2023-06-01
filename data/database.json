@@ -468,6 +468,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "用我踩过的坑，换你少重装几次 Linux 系统",
+                "link": "https://sspai.com/post/80003",
+                "published": "2023-06-01"
+            },
+            {
+                "title": "派早报：vivo 推出 S17 系列手机、法拉第未来开启新车交付等",
+                "link": "https://sspai.com/post/80101",
+                "published": "2023-06-01"
+            },
+            {
+                "title": "再次交出漂亮答卷：App Store 阶段性成绩单出炉",
+                "link": "https://sspai.com/post/80098",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "怎样不用 Arc 而用上 Arc 特别篇：山寨一个 Boost 2.0",
+                "link": "https://sspai.com/prime/story/alternative-to-arc-boost",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "自制应用实践卢曼卡片盒，了解「极境」后我有了一些新看法",
+                "link": "https://sspai.com/post/79895",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治",
+                "link": "https://sspai.com/post/74761",
+                "published": "2023-05-31"
+            },
+            {
                 "title": "开启下一个十年的科技变革？Apple AR 眼镜预测前瞻",
                 "link": "https://sspai.com/post/80084",
                 "published": "2023-05-31"
@@ -12643,7 +12673,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -43099,6 +43129,56 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "都2023年了，儿童安全座椅的普及到底难在哪儿了？",
+                "link": "http://www.zhihu.com/question/601654273/answer/3053886182?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-01"
+            },
+            {
+                "title": "贵的就是好的？未必！深度解析6款大牌热门智能手环，今年618买手环，看这篇就够了",
+                "link": "http://zhuanlan.zhihu.com/p/633722845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "想要入手相机应该注意什么？小白用户618相机选购指南",
+                "link": "http://zhuanlan.zhihu.com/p/633655092?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "1.2.6.1 布光基础知识与单灯布光",
+                "link": "http://zhuanlan.zhihu.com/p/633688117?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "正经的西装暴徒——惠普VICTUS光影精灵9无界",
+                "link": "http://zhuanlan.zhihu.com/p/633718358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "2023 年 618 平板选购指南【更新于 5.31】含 iPad / 小米 / 华为 / OPPO / 联想等",
+                "link": "http://zhuanlan.zhihu.com/p/633714867?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "手把手教你选择TF卡、SD卡、CFast卡、CFexpress，闪迪 SanDisk篇",
+                "link": "http://zhuanlan.zhihu.com/p/633621838?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "2023年机械键盘选购指南，618 有哪些值得入手的机械键盘推荐？Tank实测上百把机械键盘帮你 618 挑选适合你的机械键盘。",
+                "link": "http://zhuanlan.zhihu.com/p/633381753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "2023年618机械键盘入门指南及选购推荐",
+                "link": "http://zhuanlan.zhihu.com/p/632833181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
+                "title": "乘车出行，儿童安全座椅对孩子来说意味着什么？",
+                "link": "http://www.zhihu.com/question/50274604/answer/3052834932?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
                 "title": "【回归】2023年618笔记本推荐（6K以下）",
                 "link": "http://zhuanlan.zhihu.com/p/632724947?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-05-31"
@@ -50459,7 +50539,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 13
+        "new_feeds": 10
     },
     {
         "id": 4,
