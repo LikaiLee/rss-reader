@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事",
+                "link": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html",
+                "published": "2023-06-01"
+            },
+            {
                 "title": "科技爱好者周刊（第 256 期）：最酷的乐高作品",
                 "link": "http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html",
                 "published": "2023-05-26"
@@ -460,13 +465,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "尝试 7 大服务建立数播系统后，我找到了自己的「梦中情播」",
+                "link": "https://sspai.com/post/80051",
+                "published": "2023-06-02"
+            },
+            {
+                "title": "派早报：Meta 发布新消费级 VR 设备 Quest 3",
+                "link": "https://sspai.com/post/80124",
+                "published": "2023-06-02"
+            },
+            {
+                "title": "分体工学键盘入门指南：配列选择、购买渠道与配置方法",
+                "link": "https://sspai.com/prime/story/split-ergo-kbd-brief-intro",
+                "published": "2023-06-01"
+            },
+            {
+                "title": "新玩意 147｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/80112",
+                "published": "2023-06-01"
+            },
+            {
+                "title": "除了传闻中的 Apple 眼镜，WWDC23 还有这些看点",
+                "link": "https://sspai.com/post/80107",
+                "published": "2023-06-01"
+            },
             {
                 "title": "用我踩过的坑，换你少重装几次 Linux 系统",
                 "link": "https://sspai.com/post/80003",
@@ -12673,7 +12703,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -43129,6 +43159,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "手机评测万言书！谁现在称得上手机影像机皇？2023年度影像旗舰手机横评！",
+                "link": "http://zhuanlan.zhihu.com/p/633989739?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-02"
+            },
+            {
+                "title": "2023年618路由器选购指南：小米/锐捷/TP/华硕/H3C",
+                "link": "http://zhuanlan.zhihu.com/p/633461586?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
                 "title": "都2023年了，儿童安全座椅的普及到底难在哪儿了？",
                 "link": "http://www.zhihu.com/question/601654273/answer/3053886182?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-06-01"
@@ -50539,7 +50579,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 2
     },
     {
         "id": 4,
