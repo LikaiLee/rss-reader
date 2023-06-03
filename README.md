@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-06-03】 入围第 34 届金曲奖的作品中，我最推荐的有这些](https://sspai.com/post/80138)
+* [【2023-06-02】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80139)
+* [【2023-06-02】 播客 | 所有关于 WWDC23 预测的终点都是锤子科技](https://sspai.com/post/80122)
 * [【2023-06-02】 尝试 7 大服务建立数播系统后，我找到了自己的「梦中情播」](https://sspai.com/post/80051)
 * [【2023-06-02】 派早报：Meta 发布新消费级 VR 设备 Quest 3](https://sspai.com/post/80124)
 * [【2023-06-01】 分体工学键盘入门指南：配列选择、购买渠道与配置方法](https://sspai.com/prime/story/split-ergo-kbd-brief-intro)
@@ -42,9 +45,6 @@
 * [【2023-06-01】 除了传闻中的 Apple 眼镜，WWDC23 还有这些看点](https://sspai.com/post/80107)
 * [【2023-06-01】 用我踩过的坑，换你少重装几次 Linux 系统](https://sspai.com/post/80003)
 * [【2023-06-01】 派早报：vivo 推出 S17 系列手机、法拉第未来开启新车交付等](https://sspai.com/post/80101)
-* [【2023-05-31】 再次交出漂亮答卷：App Store 阶段性成绩单出炉](https://sspai.com/post/80098)
-* [【2023-05-31】 怎样不用 Arc 而用上 Arc 特别篇：山寨一个 Boost 2.0](https://sspai.com/prime/story/alternative-to-arc-boost)
-* [【2023-05-31】 自制应用实践卢曼卡片盒，了解「极境」后我有了一些新看法](https://sspai.com/post/79895)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-06-02】 为什么很多时尚单品往往会以黑色包装为主，黑色系是否会显得更高级和品味？](http://www.zhihu.com/question/597701927/answer/3056146148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-31】 2023年618机械键盘入门指南及选购推荐【万字长文】](http://zhuanlan.zhihu.com/p/632833181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-02】 手机评测万言书！谁现在称得上手机影像机皇？2023年度影像旗舰手机横评！](http://zhuanlan.zhihu.com/p/633989739?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-31】 2023年618路由器选购指南：小米/锐捷/TP/华硕/H3C](http://zhuanlan.zhihu.com/p/633461586?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-01】 都2023年了，儿童安全座椅的普及到底难在哪儿了？](http://www.zhihu.com/question/601654273/answer/3053886182?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-05-31】 1.2.6.1 布光基础知识与单灯布光](http://zhuanlan.zhihu.com/p/633688117?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-31】 正经的西装暴徒——惠普VICTUS光影精灵9无界](http://zhuanlan.zhihu.com/p/633718358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-31】 2023 年 618 平板选购指南【更新于 5.31】含 iPad / 小米 / 华为 / OPPO / 联想等](http://zhuanlan.zhihu.com/p/633714867?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-31】 手把手教你选择TF卡、SD卡、CFast卡、CFexpress，闪迪 SanDisk篇](http://zhuanlan.zhihu.com/p/633621838?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-31】 2023年机械键盘选购指南，618 有哪些值得入手的机械键盘推荐？Tank实测上百把机械键盘帮你 618 挑选适合你的机械键盘。](http://zhuanlan.zhihu.com/p/633381753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-02 05:11:21
+:alarm_clock: 更新时间: 2023-06-03 05:10:46

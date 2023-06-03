@@ -465,13 +465,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "入围第 34 届金曲奖的作品中，我最推荐的有这些",
+                "link": "https://sspai.com/post/80138",
+                "published": "2023-06-03"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/80139",
+                "published": "2023-06-02"
+            },
+            {
+                "title": "播客 | 所有关于 WWDC23 预测的终点都是锤子科技",
+                "link": "https://sspai.com/post/80122",
+                "published": "2023-06-02"
+            },
             {
                 "title": "尝试 7 大服务建立数播系统后，我找到了自己的「梦中情播」",
                 "link": "https://sspai.com/post/80051",
@@ -12703,7 +12718,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -43158,6 +43173,16 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "为什么很多时尚单品往往会以黑色包装为主，黑色系是否会显得更高级和品味？",
+                "link": "http://www.zhihu.com/question/597701927/answer/3056146148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-02"
+            },
+            {
+                "title": "2023年618机械键盘入门指南及选购推荐【万字长文】",
+                "link": "http://zhuanlan.zhihu.com/p/632833181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
             {
                 "title": "手机评测万言书！谁现在称得上手机影像机皇？2023年度影像旗舰手机横评！",
                 "link": "http://zhuanlan.zhihu.com/p/633989739?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
