@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-06-03】 XR 世界导览 #3：当 XR 遇上 GPT](https://sspai.com/post/80136)
+* [【2023-06-03】 重回线下的 WWDC 要来了，我们和几位开发者聊了聊参加体验](https://sspai.com/post/80131)
 * [【2023-06-03】 入围第 34 届金曲奖的作品中，我最推荐的有这些](https://sspai.com/post/80138)
 * [【2023-06-02】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80139)
 * [【2023-06-02】 播客 | 所有关于 WWDC23 预测的终点都是锤子科技](https://sspai.com/post/80122)
@@ -43,8 +45,6 @@
 * [【2023-06-01】 分体工学键盘入门指南：配列选择、购买渠道与配置方法](https://sspai.com/prime/story/split-ergo-kbd-brief-intro)
 * [【2023-06-01】 新玩意 147｜少数派的编辑们最近买了啥？](https://sspai.com/post/80112)
 * [【2023-06-01】 除了传闻中的 Apple 眼镜，WWDC23 还有这些看点](https://sspai.com/post/80107)
-* [【2023-06-01】 用我踩过的坑，换你少重装几次 Linux 系统](https://sspai.com/post/80003)
-* [【2023-06-01】 派早报：vivo 推出 S17 系列手机、法拉第未来开启新车交付等](https://sspai.com/post/80101)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-03 05:10:46
+:alarm_clock: 更新时间: 2023-06-04 05:11:15
