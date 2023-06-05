@@ -473,6 +473,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "好养活的鱼、低成本的新爱好：生态鱼缸入门指南",
+                "link": "https://sspai.com/post/80081",
+                "published": "2023-06-05"
+            },
+            {
+                "title": "派早报：微软将在 Windows 中终止支持 Cortana；OpenAI 透露未来规划后要求删帖",
+                "link": "https://sspai.com/post/80151",
+                "published": "2023-06-05"
+            },
+            {
+                "title": "又一届 Swift 学生挑战赛，我们和今年的获奖学生们聊了聊",
+                "link": "https://sspai.com/post/80154",
+                "published": "2023-06-04"
+            },
+            {
                 "title": "XR 世界导览 #3：当 XR 遇上 GPT",
                 "link": "https://sspai.com/post/80136",
                 "published": "2023-06-03"
@@ -12728,7 +12743,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -43184,6 +43199,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2023年618机械键盘快速入门及选购推荐（通俗易懂，持续更新）",
+                "link": "http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-05"
+            },
+            {
                 "title": "为什么很多时尚单品往往会以黑色包装为主，黑色系是否会显得更高级和品味？",
                 "link": "http://www.zhihu.com/question/597701927/answer/3056146148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-06-02"
@@ -50614,7 +50634,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
