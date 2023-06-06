@@ -473,6 +473,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Apple 召开 WWDC23 开幕式，推出多款产品等",
+                "link": "https://sspai.com/post/80178",
+                "published": "2023-06-06"
+            },
+            {
+                "title": "一图流 | WWDC 23 开幕式回顾",
+                "link": "https://sspai.com/post/80174",
+                "published": "2023-06-05"
+            },
+            {
+                "title": "新系统、新 Mac，还有 Apple Vision Pro 登场：WWDC23 发布会回顾",
+                "link": "https://sspai.com/post/80175",
+                "published": "2023-06-05"
+            },
+            {
+                "title": "从一根笔到一个箭头",
+                "link": "https://sspai.com/prime/story/from-a-pen-to-a-cursor",
+                "published": "2023-06-05"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/80170",
+                "published": "2023-06-05"
+            },
+            {
+                "title": "今晚 WWDC 怎么看？我们帮你搜集了 6 种观看姿势",
+                "link": "https://sspai.com/post/80148",
+                "published": "2023-06-05"
+            },
+            {
+                "title": "在发布会开始之前，深入浅出地聊聊苹果与 AR",
+                "link": "https://sspai.com/post/80158",
+                "published": "2023-06-05"
+            },
+            {
                 "title": "好养活的鱼、低成本的新爱好：生态鱼缸入门指南",
                 "link": "https://sspai.com/post/80081",
                 "published": "2023-06-05"
@@ -12743,7 +12778,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -43199,6 +43234,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "步履不停，向上成长！",
+                "link": "http://zhuanlan.zhihu.com/p/634906067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-05"
+            },
+            {
+                "title": "只需一根线，轻松搞定4屏使用 - 绿联12合1立式多功能扩展坞体验报告",
+                "link": "http://zhuanlan.zhihu.com/p/634065236?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-05"
+            },
+            {
                 "title": "2023年618机械键盘快速入门及选购推荐（通俗易懂，持续更新）",
                 "link": "http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-06-05"
@@ -50634,7 +50679,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
