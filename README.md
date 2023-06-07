@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+7】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-06-07】 没有 Google，Chrome 将会怎样？](https://sspai.com/post/80189)
+* [【2023-06-07】 派早报：1Password 开始测试通行密钥支持等](https://sspai.com/post/80196)
+* [【2023-06-06】 直播预告 | WWDC23 开幕式回顾：哪些亮点值得展开讲讲？](https://sspai.com/post/80157)
+* [【2023-06-06】 AI 时代的应用开发有何变化？我与三位独立开发者聊了聊](https://sspai.com/post/80125)
 * [【2023-06-06】 派早报：Apple 召开 WWDC23 开幕式，推出多款产品等](https://sspai.com/post/80178)
 * [【2023-06-05】 一图流 | WWDC 23 开幕式回顾](https://sspai.com/post/80174)
 * [【2023-06-05】 新系统、新 Mac，还有 Apple Vision Pro 登场：WWDC23 发布会回顾](https://sspai.com/post/80175)
 * [【2023-06-05】 从一根笔到一个箭头](https://sspai.com/prime/story/from-a-pen-to-a-cursor)
 * [【2023-06-05】 派评 | 近期值得关注的 App](https://sspai.com/post/80170)
 * [【2023-06-05】 今晚 WWDC 怎么看？我们帮你搜集了 6 种观看姿势](https://sspai.com/post/80148)
-* [【2023-06-05】 在发布会开始之前，深入浅出地聊聊苹果与 AR](https://sspai.com/post/80158)
-* [【2023-06-05】 好养活的鱼、低成本的新爱好：生态鱼缸入门指南](https://sspai.com/post/80081)
-* [【2023-06-05】 派早报：微软将在 Windows 中终止支持 Cortana；OpenAI 透露未来规划后要求删帖](https://sspai.com/post/80151)
-* [【2023-06-04】 又一届 Swift 学生挑战赛，我们和今年的获奖学生们聊了聊](https://sspai.com/post/80154)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-06-07】 游戏本还是自己DIY装机？618热门游戏本&显卡一网打尽](http://zhuanlan.zhihu.com/p/635265864?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-06-06】 【评测】ThinkPad T14p上手体验](http://zhuanlan.zhihu.com/p/634907290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-06-06】 如何评价沉浸式实景密室游戏《启程》？](http://www.zhihu.com/question/600221863/answer/3061554065?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-05】 步履不停，向上成长！](http://zhuanlan.zhihu.com/p/634906067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-05】 只需一根线，轻松搞定4屏使用 - 绿联12合1立式多功能扩展坞体验报告](http://zhuanlan.zhihu.com/p/634065236?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-05】 2023年618机械键盘快速入门及选购推荐（通俗易懂，持续更新）](http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-05-31】 2023年618机械键盘入门指南及选购推荐【万字长文】](http://zhuanlan.zhihu.com/p/632833181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-02】 手机评测万言书！谁现在称得上手机影像机皇？2023年度影像旗舰手机横评！](http://zhuanlan.zhihu.com/p/633989739?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-31】 2023年618路由器选购指南：小米/锐捷/TP/华硕/H3C](http://zhuanlan.zhihu.com/p/633461586?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-01】 都2023年了，儿童安全座椅的普及到底难在哪儿了？](http://www.zhihu.com/question/601654273/answer/3053886182?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-31】 贵的就是好的？未必！深度解析6款大牌热门智能手环，今年618买手环，看这篇就够了](http://zhuanlan.zhihu.com/p/633722845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-31】 想要入手相机应该注意什么？小白用户618相机选购指南](http://zhuanlan.zhihu.com/p/633655092?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-06 05:12:01
+:alarm_clock: 更新时间: 2023-06-07 05:11:09
