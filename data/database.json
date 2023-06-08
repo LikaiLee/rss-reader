@@ -473,6 +473,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "在 Apple Vision Pro 到来之前，先人一步成为苹果独立开发者",
+                "link": "https://sspai.com/post/80217",
+                "published": "2023-06-08"
+            },
+            {
+                "title": "派早报：英特尔推出 Arc Pro A60/A60M 显卡等",
+                "link": "https://sspai.com/post/80220",
+                "published": "2023-06-08"
+            },
+            {
+                "title": "罗技和雷蛇都发了新品，然而都不是鼠标",
+                "link": "https://sspai.com/prime/story/zouzhe-230606",
+                "published": "2023-06-07"
+            },
+            {
+                "title": "WWDC23 发布会上，Apple 没告诉你的那些事",
+                "link": "https://sspai.com/post/80204",
+                "published": "2023-06-07"
+            },
+            {
+                "title": "卖 25000 的 Vision Pro 怎么样，我们找了 3 位 XR 用户聊聊看法",
+                "link": "https://sspai.com/post/80194",
+                "published": "2023-06-07"
+            },
+            {
                 "title": "没有 Google，Chrome 将会怎样？",
                 "link": "https://sspai.com/post/80189",
                 "published": "2023-06-07"
@@ -12798,7 +12823,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -43254,6 +43279,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何看待苹果于 6 月 6 日发布的头显 APPLE Vision Pro，有哪些细节值得关注？",
+                "link": "http://www.zhihu.com/question/604992904/answer/3063401238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-07"
+            },
+            {
                 "title": "游戏本还是自己DIY装机？618热门游戏本&显卡一网打尽",
                 "link": "http://zhuanlan.zhihu.com/p/635265864?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-06-07"
@@ -50714,7 +50744,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,
