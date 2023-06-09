@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-06-09】 科技爱好者周刊（第 258 期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html)
 * [【2023-06-01】 科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html)
 * [【2023-05-26】 科技爱好者周刊（第 256 期）：最酷的乐高作品](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html)
 * [【2023-05-19】 科技爱好者周刊（第 255 期）：对待 AI 的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html)
@@ -25,7 +26,6 @@
 * [【2023-04-21】 科技爱好者周刊（第 251 期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html)
 * [【2023-04-14】 科技爱好者周刊（第 250 期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html)
 * [【2023-04-07】 科技爱好者周刊（第 249 期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html)
-* [【2023-03-30】 科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-06-09】 大众 ID.4：是转型先锋，还是电动浪潮中的「另类」选择？](https://sspai.com/post/80198)
+* [【2023-06-09】 派早报：Apple 上架 Mac Pro 2023 款固态硬盘升级套件等](https://sspai.com/post/80236)
+* [【2023-06-08】 新作上架，限量秒杀，全场折扣，三重优惠开启付费栏目 618 大促](https://sspai.com/post/80219)
+* [【2023-06-08】 所有人都能看的 WWDC：平台咨文（PSotU）篇](https://sspai.com/prime/story/wwdc23-selected-sessions-psout)
+* [【2023-06-08】 新玩意 148｜少数派的编辑们最近买了啥？](https://sspai.com/post/80230)
+* [【2023-06-08】 日复一日，尽显非凡：iOS 17 中值得关注的新特性](https://sspai.com/post/80184)
 * [【2023-06-08】 在 Apple Vision Pro 到来之前，先人一步成为苹果独立开发者](https://sspai.com/post/80217)
 * [【2023-06-08】 派早报：英特尔推出 Arc Pro A60/A60M 显卡等](https://sspai.com/post/80220)
 * [【2023-06-07】 罗技和雷蛇都发了新品，然而都不是鼠标](https://sspai.com/prime/story/zouzhe-230606)
 * [【2023-06-07】 WWDC23 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/80204)
-* [【2023-06-07】 卖 25000 的 Vision Pro 怎么样，我们找了 3 位 XR 用户聊聊看法](https://sspai.com/post/80194)
-* [【2023-06-07】 没有 Google，Chrome 将会怎样？](https://sspai.com/post/80189)
-* [【2023-06-07】 派早报：1Password 开始测试通行密钥支持等](https://sspai.com/post/80196)
-* [【2023-06-06】 直播预告 | WWDC23 开幕式回顾：哪些亮点值得展开讲讲？](https://sspai.com/post/80157)
-* [【2023-06-06】 AI 时代的应用开发有何变化？我与三位独立开发者聊了聊](https://sspai.com/post/80125)
-* [【2023-06-06】 派早报：Apple 召开 WWDC23 开幕式，推出多款产品等](https://sspai.com/post/80178)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-06-08】 国产武侠动画《镖人》第 3 - 4集播出，有哪些关注点？](http://www.zhihu.com/question/605482620/answer/3064822672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-07】 如何看待苹果于 6 月 6 日发布的头显 APPLE Vision Pro，有哪些细节值得关注？](http://www.zhihu.com/question/604992904/answer/3063401238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-07】 游戏本还是自己DIY装机？618热门游戏本&显卡一网打尽](http://zhuanlan.zhihu.com/p/635265864?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-06】 【评测】ThinkPad T14p上手体验](http://zhuanlan.zhihu.com/p/634907290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-06-05】 2023年618机械键盘快速入门及选购推荐（通俗易懂，持续更新）](http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-02】 为什么很多时尚单品往往会以黑色包装为主，黑色系是否会显得更高级和品味？](http://www.zhihu.com/question/597701927/answer/3056146148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-31】 2023年618机械键盘入门指南及选购推荐【万字长文】](http://zhuanlan.zhihu.com/p/632833181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-02】 手机评测万言书！谁现在称得上手机影像机皇？2023年度影像旗舰手机横评！](http://zhuanlan.zhihu.com/p/633989739?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-08 05:11:36
+:alarm_clock: 更新时间: 2023-06-09 05:11:20

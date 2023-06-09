@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 258 期）：卡马克的猫",
+                "link": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html",
+                "published": "2023-06-09"
+            },
+            {
                 "title": "科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事",
                 "link": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html",
                 "published": "2023-06-01"
@@ -465,13 +470,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "大众 ID.4：是转型先锋，还是电动浪潮中的「另类」选择？",
+                "link": "https://sspai.com/post/80198",
+                "published": "2023-06-09"
+            },
+            {
+                "title": "派早报：Apple 上架 Mac Pro 2023 款固态硬盘升级套件等",
+                "link": "https://sspai.com/post/80236",
+                "published": "2023-06-09"
+            },
+            {
+                "title": "新作上架，限量秒杀，全场折扣，三重优惠开启付费栏目 618 大促",
+                "link": "https://sspai.com/post/80219",
+                "published": "2023-06-08"
+            },
+            {
+                "title": "所有人都能看的 WWDC：平台咨文（PSotU）篇",
+                "link": "https://sspai.com/prime/story/wwdc23-selected-sessions-psout",
+                "published": "2023-06-08"
+            },
+            {
+                "title": "新玩意 148｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/80230",
+                "published": "2023-06-08"
+            },
+            {
+                "title": "日复一日，尽显非凡：iOS 17 中值得关注的新特性",
+                "link": "https://sspai.com/post/80184",
+                "published": "2023-06-08"
+            },
             {
                 "title": "在 Apple Vision Pro 到来之前，先人一步成为苹果独立开发者",
                 "link": "https://sspai.com/post/80217",
@@ -12823,7 +12858,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -43278,6 +43313,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "国产武侠动画《镖人》第 3 - 4集播出，有哪些关注点？",
+                "link": "http://www.zhihu.com/question/605482620/answer/3064822672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-08"
+            },
             {
                 "title": "如何看待苹果于 6 月 6 日发布的头显 APPLE Vision Pro，有哪些细节值得关注？",
                 "link": "http://www.zhihu.com/question/604992904/answer/3063401238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
