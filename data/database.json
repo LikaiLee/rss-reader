@@ -470,13 +470,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "Swift 学生挑战赛的中国身影：专访获奖者戴藏龙",
+                "link": "https://sspai.com/post/80253",
+                "published": "2023-06-10"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/80252",
+                "published": "2023-06-09"
+            },
+            {
+                "title": "在 WWDC 现场，我们听到 Apple Vision Pro 背后的这些事",
+                "link": "https://sspai.com/post/80249",
+                "published": "2023-06-09"
+            },
+            {
+                "title": "具透 | 自己动手做「吃派的水獭」动态壁纸！Android 14 新变化速览",
+                "link": "https://sspai.com/post/80247",
+                "published": "2023-06-09"
+            },
+            {
+                "title": "Apple 设计大奖结果公布，这 12 款 app 脱颖而出",
+                "link": "https://sspai.com/post/80244",
+                "published": "2023-06-09"
+            },
             {
                 "title": "大众 ID.4：是转型先锋，还是电动浪潮中的「另类」选择？",
                 "link": "https://sspai.com/post/80198",
@@ -12858,7 +12883,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -43313,6 +43338,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "这篇文章带你玩转AI绘画",
+                "link": "http://zhuanlan.zhihu.com/p/560500814?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-09"
+            },
             {
                 "title": "国产武侠动画《镖人》第 3 - 4集播出，有哪些关注点？",
                 "link": "http://www.zhihu.com/question/605482620/answer/3064822672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
