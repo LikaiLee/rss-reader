@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-06-10】 具透 | 更具才力，更显真我：iPadOS 17 中值得关注的新特性](https://sspai.com/post/80257)
 * [【2023-06-10】 Swift 学生挑战赛的中国身影：专访获奖者戴藏龙](https://sspai.com/post/80253)
 * [【2023-06-09】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80252)
 * [【2023-06-09】 在 WWDC 现场，我们听到 Apple Vision Pro 背后的这些事](https://sspai.com/post/80249)
@@ -44,7 +45,6 @@
 * [【2023-06-09】 派早报：Apple 上架 Mac Pro 2023 款固态硬盘升级套件等](https://sspai.com/post/80236)
 * [【2023-06-08】 新作上架，限量秒杀，全场折扣，三重优惠开启付费栏目 618 大促](https://sspai.com/post/80219)
 * [【2023-06-08】 所有人都能看的 WWDC：平台咨文（PSotU）篇](https://sspai.com/prime/story/wwdc23-selected-sessions-psout)
-* [【2023-06-08】 新玩意 148｜少数派的编辑们最近买了啥？](https://sspai.com/post/80230)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-10 05:10:49
+:alarm_clock: 更新时间: 2023-06-11 05:10:49

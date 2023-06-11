@@ -478,6 +478,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透 | 更具才力，更显真我：iPadOS 17 中值得关注的新特性",
+                "link": "https://sspai.com/post/80257",
+                "published": "2023-06-10"
+            },
+            {
                 "title": "Swift 学生挑战赛的中国身影：专访获奖者戴藏龙",
                 "link": "https://sspai.com/post/80253",
                 "published": "2023-06-10"
@@ -12883,7 +12888,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -50814,7 +50819,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
