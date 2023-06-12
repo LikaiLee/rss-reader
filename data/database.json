@@ -478,6 +478,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：扎克伯格称 Vision Pro 无重大突破；Reddit 引发开发者和版主大规模抗议",
+                "link": "https://sspai.com/post/80271",
+                "published": "2023-06-12"
+            },
+            {
+                "title": "手机丢失自救手册：48 小时内你能做哪些挣扎？",
+                "link": "https://sspai.com/post/80207",
+                "published": "2023-06-11"
+            },
+            {
                 "title": "具透 | 更具才力，更显真我：iPadOS 17 中值得关注的新特性",
                 "link": "https://sspai.com/post/80257",
                 "published": "2023-06-10"
@@ -12888,7 +12898,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -43344,6 +43354,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "高颜值，又好玩 - Keychron Q1 Pro客制化机械键盘",
+                "link": "http://zhuanlan.zhihu.com/p/636061020?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-12"
+            },
+            {
+                "title": "显卡评测第38期｜华硕RTX 4060 TI：两千五交个朋友？",
+                "link": "http://zhuanlan.zhihu.com/p/635870824?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-12"
+            },
+            {
+                "title": "聊聊苹果历史上的23个One More Thing 时刻",
+                "link": "http://zhuanlan.zhihu.com/p/635186906?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-12"
+            },
+            {
                 "title": "这篇文章带你玩转AI绘画",
                 "link": "http://zhuanlan.zhihu.com/p/560500814?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-06-09"
@@ -50819,7 +50844,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 4,

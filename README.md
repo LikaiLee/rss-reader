@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-06-12】 派早报：扎克伯格称 Vision Pro 无重大突破；Reddit 引发开发者和版主大规模抗议](https://sspai.com/post/80271)
+* [【2023-06-11】 手机丢失自救手册：48 小时内你能做哪些挣扎？](https://sspai.com/post/80207)
 * [【2023-06-10】 具透 | 更具才力，更显真我：iPadOS 17 中值得关注的新特性](https://sspai.com/post/80257)
 * [【2023-06-10】 Swift 学生挑战赛的中国身影：专访获奖者戴藏龙](https://sspai.com/post/80253)
 * [【2023-06-09】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80252)
@@ -43,8 +45,6 @@
 * [【2023-06-09】 Apple 设计大奖结果公布，这 12 款 app 脱颖而出](https://sspai.com/post/80244)
 * [【2023-06-09】 大众 ID.4：是转型先锋，还是电动浪潮中的「另类」选择？](https://sspai.com/post/80198)
 * [【2023-06-09】 派早报：Apple 上架 Mac Pro 2023 款固态硬盘升级套件等](https://sspai.com/post/80236)
-* [【2023-06-08】 新作上架，限量秒杀，全场折扣，三重优惠开启付费栏目 618 大促](https://sspai.com/post/80219)
-* [【2023-06-08】 所有人都能看的 WWDC：平台咨文（PSotU）篇](https://sspai.com/prime/story/wwdc23-selected-sessions-psout)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-06-12】 高颜值，又好玩 - Keychron Q1 Pro客制化机械键盘](http://zhuanlan.zhihu.com/p/636061020?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-06-12】 显卡评测第38期｜华硕RTX 4060 TI：两千五交个朋友？](http://zhuanlan.zhihu.com/p/635870824?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-06-12】 聊聊苹果历史上的23个One More Thing 时刻](http://zhuanlan.zhihu.com/p/635186906?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-09】 这篇文章带你玩转AI绘画](http://zhuanlan.zhihu.com/p/560500814?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-08】 国产武侠动画《镖人》第 3 - 4集播出，有哪些关注点？](http://www.zhihu.com/question/605482620/answer/3064822672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-07】 如何看待苹果于 6 月 6 日发布的头显 APPLE Vision Pro，有哪些细节值得关注？](http://www.zhihu.com/question/604992904/answer/3063401238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-06-06】 【评测】ThinkPad T14p上手体验](http://zhuanlan.zhihu.com/p/634907290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-06】 如何评价沉浸式实景密室游戏《启程》？](http://www.zhihu.com/question/600221863/answer/3061554065?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-05】 步履不停，向上成长！](http://zhuanlan.zhihu.com/p/634906067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-05】 只需一根线，轻松搞定4屏使用 - 绿联12合1立式多功能扩展坞体验报告](http://zhuanlan.zhihu.com/p/634065236?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-05】 2023年618机械键盘快速入门及选购推荐（通俗易懂，持续更新）](http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-02】 为什么很多时尚单品往往会以黑色包装为主，黑色系是否会显得更高级和品味？](http://www.zhihu.com/question/597701927/answer/3056146148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-11 05:10:49
+:alarm_clock: 更新时间: 2023-06-12 05:12:11
