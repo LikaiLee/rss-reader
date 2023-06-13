@@ -478,6 +478,46 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "所写即所得：科研民工的编程语言速通方案",
+                "link": "https://sspai.com/post/80255",
+                "published": "2023-06-13"
+            },
+            {
+                "title": "派早报：美国 FTC 试图阻止微软收购动视暴雪，Realtek 指控 MediaTek 不正当竞争等",
+                "link": "https://sspai.com/post/80302",
+                "published": "2023-06-13"
+            },
+            {
+                "title": "我在车芯产线做观察（上）：工厂设计篇",
+                "link": "https://sspai.com/prime/story/car-chip-pipeline-observations-1",
+                "published": "2023-06-12"
+            },
+            {
+                "title": "Xbox Games Showcase 2023 + Starfield Direct 情报汇总",
+                "link": "https://sspai.com/post/80300",
+                "published": "2023-06-12"
+            },
+            {
+                "title": "快问快答：MacBook Air 15 英寸版上手体验",
+                "link": "https://sspai.com/post/80299",
+                "published": "2023-06-12"
+            },
+            {
+                "title": "派评 · 特别篇 | 聊聊今年的 Apple 设计大奖",
+                "link": "https://sspai.com/post/80298",
+                "published": "2023-06-12"
+            },
+            {
+                "title": "具透 | macOS Sonoma 首个测试版上线，这些是值得你关注的新功能",
+                "link": "https://sspai.com/post/80270",
+                "published": "2023-06-12"
+            },
+            {
+                "title": "真机体验！Vision Pro 的完成度，体现在这些细节中",
+                "link": "https://sspai.com/post/80256",
+                "published": "2023-06-12"
+            },
+            {
                 "title": "派早报：扎克伯格称 Vision Pro 无重大突破；Reddit 引发开发者和版主大规模抗议",
                 "link": "https://sspai.com/post/80271",
                 "published": "2023-06-12"
@@ -12898,7 +12938,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 8
     },
     {
         "id": 2,
@@ -43354,6 +43394,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "高考志愿填报，对于许多专业一无所知，该怎么办?",
+                "link": "http://www.zhihu.com/question/323060216/answer/3066812400?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-13"
+            },
+            {
+                "title": "「全面升级」 AMD 7840HS 迷你主机 零刻 GTR7 深度测试",
+                "link": "http://zhuanlan.zhihu.com/p/636603672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-13"
+            },
+            {
                 "title": "高颜值，又好玩 - Keychron Q1 Pro客制化机械键盘",
                 "link": "http://zhuanlan.zhihu.com/p/636061020?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-06-12"
@@ -50844,13 +50894,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 4,
         "title": "好工具周刊",
         "url": "https://rsshub.app/zhubai/bestxtools",
         "feeds": [
+            {
+                "title": "好工具周刊暂停更新一段时间",
+                "link": "https://bestxtools.zhubai.love/posts/2263527393547292672",
+                "published": "2023-04-28"
+            },
             {
                 "title": "竹白工具箱油猴脚本更新：新增详情页显示文章目录，详情页显示网站目录大纲（TOC）等功能",
                 "link": "https://bestxtools.zhubai.love/posts/2263527393547292672",
@@ -51152,6 +51207,6 @@
                 "published": "2022-02-17"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     }
 ]

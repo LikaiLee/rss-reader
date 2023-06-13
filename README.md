@@ -3,10 +3,10 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+8】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
-* [好工具周刊](#好工具周刊)
+* [知乎每日精选](#知乎每日精选) 【+2】
+* [好工具周刊](#好工具周刊) 【+1】
 
 ## 文章链接
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-06-13】 所写即所得：科研民工的编程语言速通方案](https://sspai.com/post/80255)
+* [【2023-06-13】 派早报：美国 FTC 试图阻止微软收购动视暴雪，Realtek 指控 MediaTek 不正当竞争等](https://sspai.com/post/80302)
+* [【2023-06-12】 我在车芯产线做观察（上）：工厂设计篇](https://sspai.com/prime/story/car-chip-pipeline-observations-1)
+* [【2023-06-12】 Xbox Games Showcase 2023 + Starfield Direct 情报汇总](https://sspai.com/post/80300)
+* [【2023-06-12】 快问快答：MacBook Air 15 英寸版上手体验](https://sspai.com/post/80299)
+* [【2023-06-12】 派评 · 特别篇 | 聊聊今年的 Apple 设计大奖](https://sspai.com/post/80298)
+* [【2023-06-12】 具透 | macOS Sonoma 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/80270)
+* [【2023-06-12】 真机体验！Vision Pro 的完成度，体现在这些细节中](https://sspai.com/post/80256)
 * [【2023-06-12】 派早报：扎克伯格称 Vision Pro 无重大突破；Reddit 引发开发者和版主大规模抗议](https://sspai.com/post/80271)
 * [【2023-06-11】 手机丢失自救手册：48 小时内你能做哪些挣扎？](https://sspai.com/post/80207)
-* [【2023-06-10】 具透 | 更具才力，更显真我：iPadOS 17 中值得关注的新特性](https://sspai.com/post/80257)
-* [【2023-06-10】 Swift 学生挑战赛的中国身影：专访获奖者戴藏龙](https://sspai.com/post/80253)
-* [【2023-06-09】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80252)
-* [【2023-06-09】 在 WWDC 现场，我们听到 Apple Vision Pro 背后的这些事](https://sspai.com/post/80249)
-* [【2023-06-09】 具透 | 自己动手做「吃派的水獭」动态壁纸！Android 14 新变化速览](https://sspai.com/post/80247)
-* [【2023-06-09】 Apple 设计大奖结果公布，这 12 款 app 脱颖而出](https://sspai.com/post/80244)
-* [【2023-06-09】 大众 ID.4：是转型先锋，还是电动浪潮中的「另类」选择？](https://sspai.com/post/80198)
-* [【2023-06-09】 派早报：Apple 上架 Mac Pro 2023 款固态硬盘升级套件等](https://sspai.com/post/80236)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-06-13】 高考志愿填报，对于许多专业一无所知，该怎么办?](http://www.zhihu.com/question/323060216/answer/3066812400?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-06-13】 「全面升级」 AMD 7840HS 迷你主机 零刻 GTR7 深度测试](http://zhuanlan.zhihu.com/p/636603672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-12】 高颜值，又好玩 - Keychron Q1 Pro客制化机械键盘](http://zhuanlan.zhihu.com/p/636061020?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-12】 显卡评测第38期｜华硕RTX 4060 TI：两千五交个朋友？](http://zhuanlan.zhihu.com/p/635870824?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-12】 聊聊苹果历史上的23个One More Thing 时刻](http://zhuanlan.zhihu.com/p/635186906?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-06-07】 如何看待苹果于 6 月 6 日发布的头显 APPLE Vision Pro，有哪些细节值得关注？](http://www.zhihu.com/question/604992904/answer/3063401238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-07】 游戏本还是自己DIY装机？618热门游戏本&显卡一网打尽](http://zhuanlan.zhihu.com/p/635265864?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-06】 【评测】ThinkPad T14p上手体验](http://zhuanlan.zhihu.com/p/634907290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-06】 如何评价沉浸式实景密室游戏《启程》？](http://www.zhihu.com/question/600221863/answer/3061554065?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-05】 步履不停，向上成长！](http://zhuanlan.zhihu.com/p/634906067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -92,6 +92,7 @@
     </summary>
 
 
+* [【2023-04-28】 好工具周刊暂停更新一段时间](https://bestxtools.zhubai.love/posts/2263527393547292672)
 * [【2023-04-28】 竹白工具箱油猴脚本更新：新增详情页显示文章目录，详情页显示网站目录大纲（TOC）等功能](https://bestxtools.zhubai.love/posts/2263527393547292672)
 * [【2023-04-21】 好工具周刊（第 55 期）: PaletteMaker, 中国色彩, 在线语法检查器, Picyard, Pixian.AI, Photomosh](https://bestxtools.zhubai.love/posts/2260993907208835072)
 * [【2023-04-14】 好工具周刊（第 54 期）: 竹白工具箱 🧰, Node.js Toolbox, ReadMe.Dev, AI Colors, HQ ICON, Cron job editor, ...](https://bestxtools.zhubai.love/posts/2258541502231805952)
@@ -101,7 +102,6 @@
 * [【2023-03-09】 好工具周刊本周停一期（2023/03/09）](https://bestxtools.zhubai.love/posts/2245516916011892736)
 * [【2023-03-02】 好工具周刊（第 50 期）: grep.app, Shots, MathB, 举牌加油告白小人生成器, 全景故宫, 云游故宫](https://bestxtools.zhubai.love/posts/2243018555094687744)
 * [【2023-02-23】 好工具周刊（第 49 期）: StatiCrypt, OnetimeSecret, paint-board, Graphy, Logggos, Pole Clock, tree.fm](https://bestxtools.zhubai.love/posts/2240480765706440704)
-* [【2023-02-16】 好工具周刊（第 48 期）: ProfileMe, Box Shadows for TailwindCSS, Shapecatcher, Immersive Translate, ...](https://bestxtools.zhubai.love/posts/2237946902123864064)
 * [:arrow_forward: 全部文章](data/好工具周刊.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-12 05:12:11
+:alarm_clock: 更新时间: 2023-06-13 05:11:31
