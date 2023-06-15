@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-06-15】 评论有奖 | 看懂《闪电侠》电影：你可以了解的五个小知识](https://sspai.com/post/80358)
+* [【2023-06-15】 派早报：OpenAI 推出多项 GPT 新功能及更新、RTX 4060 将提前发布等](https://sspai.com/post/80356)
+* [【2023-06-14】 比沙箱和虚拟机更好用，来试试微软发明的新「笼子」](https://sspai.com/prime/story/win32-app-isolation-tutorial)
+* [【2023-06-14】 看什么·特别篇 | 人生不止夏季狂欢，毕业季值得一看的 10 部作品](https://sspai.com/post/80318)
+* [【2023-06-14】 25 岁，人生第一个工作室的实用主义桌面](https://sspai.com/post/80323)
+* [【2023-06-14】 具透｜全盘改造，热爱爆表：watchOS 10 中值得关注的更新](https://sspai.com/post/80325)
 * [【2023-06-14】 艰苦奋斗，认真买东西也是正经事](https://sspai.com/post/80268)
 * [【2023-06-14】 派早报：ROG 掌机推出国行版、YouTube 大幅下调收益分成门槛等](https://sspai.com/post/80321)
 * [【2023-06-13】 红帽说它变不出来办公软件了，微软变出了一堆新功能预览](https://sspai.com/prime/story/zouzhe-230613)
 * [【2023-06-13】 万字解析｜从灵感到产品，iOS 应用开发完整流程解析（2023版）](https://sspai.com/post/76333)
-* [【2023-06-13】 618 硬件推荐：值得关注的好键盘](https://sspai.com/post/80308)
-* [【2023-06-13】 家的日志 | 关于室内设计师，你也许会感兴趣的那些事](https://sspai.com/post/80228)
-* [【2023-06-13】 所写即所得：科研民工的编程语言速通方案](https://sspai.com/post/80255)
-* [【2023-06-13】 派早报：美国 FTC 试图阻止微软收购动视暴雪，Realtek 指控 MediaTek 不正当竞争等](https://sspai.com/post/80302)
-* [【2023-06-12】 我在车芯产线做观察（上）：工厂设计篇](https://sspai.com/prime/story/car-chip-pipeline-observations-1)
-* [【2023-06-12】 Xbox Games Showcase 2023 + Starfield Direct 情报汇总](https://sspai.com/post/80300)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-06-14】 新能源汽车时代技术更重要还是品牌更重要？](http://www.zhihu.com/question/598593472/answer/3020473909?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-14】 谈谈什么才是“真正”的AR眼镜，2023如何选购一款能够真正出街的AR眼镜？拒绝智商税！](http://zhuanlan.zhihu.com/p/636775891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-13】 高考志愿填报，对于许多专业一无所知，该怎么办?](http://www.zhihu.com/question/323060216/answer/3066812400?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-13】 「全面升级」 AMD 7840HS 迷你主机 零刻 GTR7 深度测试](http://zhuanlan.zhihu.com/p/636603672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-06-09】 这篇文章带你玩转AI绘画](http://zhuanlan.zhihu.com/p/560500814?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-08】 国产武侠动画《镖人》第 3 - 4集播出，有哪些关注点？](http://www.zhihu.com/question/605482620/answer/3064822672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-07】 如何看待苹果于 6 月 6 日发布的头显 APPLE Vision Pro，有哪些细节值得关注？](http://www.zhihu.com/question/604992904/answer/3063401238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-07】 游戏本还是自己DIY装机？618热门游戏本&显卡一网打尽](http://zhuanlan.zhihu.com/p/635265864?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-14 05:11:45
+:alarm_clock: 更新时间: 2023-06-15 05:11:32

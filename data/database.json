@@ -478,6 +478,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "评论有奖 | 看懂《闪电侠》电影：你可以了解的五个小知识",
+                "link": "https://sspai.com/post/80358",
+                "published": "2023-06-15"
+            },
+            {
+                "title": "派早报：OpenAI 推出多项 GPT 新功能及更新、RTX 4060 将提前发布等",
+                "link": "https://sspai.com/post/80356",
+                "published": "2023-06-15"
+            },
+            {
+                "title": "比沙箱和虚拟机更好用，来试试微软发明的新「笼子」",
+                "link": "https://sspai.com/prime/story/win32-app-isolation-tutorial",
+                "published": "2023-06-14"
+            },
+            {
+                "title": "看什么·特别篇 | 人生不止夏季狂欢，毕业季值得一看的 10 部作品",
+                "link": "https://sspai.com/post/80318",
+                "published": "2023-06-14"
+            },
+            {
+                "title": "25 岁，人生第一个工作室的实用主义桌面",
+                "link": "https://sspai.com/post/80323",
+                "published": "2023-06-14"
+            },
+            {
+                "title": "具透｜全盘改造，热爱爆表：watchOS 10 中值得关注的更新",
+                "link": "https://sspai.com/post/80325",
+                "published": "2023-06-14"
+            },
+            {
                 "title": "艰苦奋斗，认真买东西也是正经事",
                 "link": "https://sspai.com/post/80268",
                 "published": "2023-06-14"
@@ -43423,6 +43453,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "新能源汽车时代技术更重要还是品牌更重要？",
+                "link": "http://www.zhihu.com/question/598593472/answer/3020473909?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-14"
+            },
             {
                 "title": "谈谈什么才是“真正”的AR眼镜，2023如何选购一款能够真正出街的AR眼镜？拒绝智商税！",
                 "link": "http://zhuanlan.zhihu.com/p/636775891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
