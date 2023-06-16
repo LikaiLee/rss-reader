@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-06-16】 科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)
 * [【2023-06-09】 科技爱好者周刊（第 258 期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html)
 * [【2023-06-01】 科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html)
 * [【2023-05-26】 科技爱好者周刊（第 256 期）：最酷的乐高作品](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html)
@@ -25,7 +26,6 @@
 * [【2023-04-28】 科技爱好者周刊（第 252 期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)
 * [【2023-04-21】 科技爱好者周刊（第 251 期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html)
 * [【2023-04-14】 科技爱好者周刊（第 250 期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html)
-* [【2023-04-07】 科技爱好者周刊（第 249 期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-06-16】 App+1 | 好内容打包分享：用 POKi 做一个更吸引人的合集](https://sspai.com/post/80327)
+* [【2023-06-16】 派早报：网件推出 Nighthawk M6 5G 移动热点路由器、Unihertz 推出新款小屏手机 Jelly Star](https://sspai.com/post/80375)
+* [【2023-06-15】 新玩意 149｜少数派的编辑们最近买了啥？](https://sspai.com/post/80366)
+* [【2023-06-15】 评论有奖 | 从小培养效率思维，给孩子们的「成长之礼」](https://sspai.com/post/80352)
+* [【2023-06-15】 618 将至，更好的 K3 Pro 也有了少数派定制版](https://sspai.com/post/80310)
+* [【2023-06-15】 618 硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)
 * [【2023-06-15】 评论有奖 | 看懂《闪电侠》电影：你可以了解的五个小知识](https://sspai.com/post/80358)
 * [【2023-06-15】 派早报：OpenAI 推出多项 GPT 新功能及更新、RTX 4060 将提前发布等](https://sspai.com/post/80356)
 * [【2023-06-14】 比沙箱和虚拟机更好用，来试试微软发明的新「笼子」](https://sspai.com/prime/story/win32-app-isolation-tutorial)
 * [【2023-06-14】 看什么·特别篇 | 人生不止夏季狂欢，毕业季值得一看的 10 部作品](https://sspai.com/post/80318)
-* [【2023-06-14】 25 岁，人生第一个工作室的实用主义桌面](https://sspai.com/post/80323)
-* [【2023-06-14】 具透｜全盘改造，热爱爆表：watchOS 10 中值得关注的更新](https://sspai.com/post/80325)
-* [【2023-06-14】 艰苦奋斗，认真买东西也是正经事](https://sspai.com/post/80268)
-* [【2023-06-14】 派早报：ROG 掌机推出国行版、YouTube 大幅下调收益分成门槛等](https://sspai.com/post/80321)
-* [【2023-06-13】 红帽说它变不出来办公软件了，微软变出了一堆新功能预览](https://sspai.com/prime/story/zouzhe-230613)
-* [【2023-06-13】 万字解析｜从灵感到产品，iOS 应用开发完整流程解析（2023版）](https://sspai.com/post/76333)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-06-16】 【VALSE 2023】走向计算机视觉的通用人工智能：GPT和大语言模型带来的启发](http://zhuanlan.zhihu.com/p/620631150?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-31】 2023 年 618 平板选购指南【更新于 6.15】含 iPad / 小米 / 华为 / OPPO / 联想等](http://zhuanlan.zhihu.com/p/633714867?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-14】 新能源汽车时代技术更重要还是品牌更重要？](http://www.zhihu.com/question/598593472/answer/3020473909?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-14】 谈谈什么才是“真正”的AR眼镜，2023如何选购一款能够真正出街的AR眼镜？拒绝智商税！](http://zhuanlan.zhihu.com/p/636775891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-13】 高考志愿填报，对于许多专业一无所知，该怎么办?](http://www.zhihu.com/question/323060216/answer/3066812400?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-06-12】 显卡评测第38期｜华硕RTX 4060 TI：两千五交个朋友？](http://zhuanlan.zhihu.com/p/635870824?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-12】 聊聊苹果历史上的23个One More Thing 时刻](http://zhuanlan.zhihu.com/p/635186906?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-09】 这篇文章带你玩转AI绘画](http://zhuanlan.zhihu.com/p/560500814?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-08】 国产武侠动画《镖人》第 3 - 4集播出，有哪些关注点？](http://www.zhihu.com/question/605482620/answer/3064822672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-07】 如何看待苹果于 6 月 6 日发布的头显 APPLE Vision Pro，有哪些细节值得关注？](http://www.zhihu.com/question/604992904/answer/3063401238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-15 05:11:32
+:alarm_clock: 更新时间: 2023-06-16 05:11:32
