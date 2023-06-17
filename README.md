@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-06-16】 花点时间，走在趋势之前：Blackberry 简史（一）](https://sspai.com/prime/story/vintage-tech-stories-blackberry-1)
+* [【2023-06-16】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/80378)
+* [【2023-06-16】 播客 | 当特斯拉遇见轻改装](https://sspai.com/post/80305)
+* [【2023-06-16】 家的日志 | 让家更懂你：我的智能家居选择方案](https://sspai.com/post/80371)
 * [【2023-06-16】 App+1 | 好内容打包分享：用 POKi 做一个更吸引人的合集](https://sspai.com/post/80327)
 * [【2023-06-16】 派早报：网件推出 Nighthawk M6 5G 移动热点路由器、Unihertz 推出新款小屏手机 Jelly Star](https://sspai.com/post/80375)
 * [【2023-06-15】 新玩意 149｜少数派的编辑们最近买了啥？](https://sspai.com/post/80366)
 * [【2023-06-15】 评论有奖 | 从小培养效率思维，给孩子们的「成长之礼」](https://sspai.com/post/80352)
 * [【2023-06-15】 618 将至，更好的 K3 Pro 也有了少数派定制版](https://sspai.com/post/80310)
 * [【2023-06-15】 618 硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)
-* [【2023-06-15】 评论有奖 | 看懂《闪电侠》电影：你可以了解的五个小知识](https://sspai.com/post/80358)
-* [【2023-06-15】 派早报：OpenAI 推出多项 GPT 新功能及更新、RTX 4060 将提前发布等](https://sspai.com/post/80356)
-* [【2023-06-14】 比沙箱和虚拟机更好用，来试试微软发明的新「笼子」](https://sspai.com/prime/story/win32-app-isolation-tutorial)
-* [【2023-06-14】 看什么·特别篇 | 人生不止夏季狂欢，毕业季值得一看的 10 部作品](https://sspai.com/post/80318)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-16 05:11:32
+:alarm_clock: 更新时间: 2023-06-17 05:11:08
