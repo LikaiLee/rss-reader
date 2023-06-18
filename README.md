@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-06-17】 一日一技 | 两种方法让你也能安全体验 macOS Sonoma](https://sspai.com/post/80306)
 * [【2023-06-16】 花点时间，走在趋势之前：Blackberry 简史（一）](https://sspai.com/prime/story/vintage-tech-stories-blackberry-1)
 * [【2023-06-16】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/80378)
 * [【2023-06-16】 播客 | 当特斯拉遇见轻改装](https://sspai.com/post/80305)
@@ -44,7 +45,6 @@
 * [【2023-06-15】 新玩意 149｜少数派的编辑们最近买了啥？](https://sspai.com/post/80366)
 * [【2023-06-15】 评论有奖 | 从小培养效率思维，给孩子们的「成长之礼」](https://sspai.com/post/80352)
 * [【2023-06-15】 618 将至，更好的 K3 Pro 也有了少数派定制版](https://sspai.com/post/80310)
-* [【2023-06-15】 618 硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-17 05:11:08
+:alarm_clock: 更新时间: 2023-06-18 05:11:37
