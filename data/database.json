@@ -483,6 +483,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "今年我准备的父亲节礼物，是从「仅聊天」到开放朋友圈",
+                "link": "https://sspai.com/post/80390",
+                "published": "2023-06-19"
+            },
+            {
+                "title": "派早报：谷歌将关停并出售域名注册业务；酷睿产品名中将取消字母 i",
+                "link": "https://sspai.com/post/80409",
+                "published": "2023-06-19"
+            },
+            {
+                "title": "[限时特惠] 免费 macOS 剪贴板 + AI 新玩法：效率启动器 HapiGo 更新",
+                "link": "https://sspai.com/post/80118",
+                "published": "2023-06-18"
+            },
+            {
                 "title": "一日一技 | 两种方法让你也能安全体验 macOS Sonoma",
                 "link": "https://sspai.com/post/80306",
                 "published": "2023-06-17"
@@ -13058,7 +13073,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

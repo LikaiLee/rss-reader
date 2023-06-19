@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-06-19】 今年我准备的父亲节礼物，是从「仅聊天」到开放朋友圈](https://sspai.com/post/80390)
+* [【2023-06-19】 派早报：谷歌将关停并出售域名注册业务；酷睿产品名中将取消字母 i](https://sspai.com/post/80409)
+* [【2023-06-18】 [限时特惠] 免费 macOS 剪贴板 + AI 新玩法：效率启动器 HapiGo 更新](https://sspai.com/post/80118)
 * [【2023-06-17】 一日一技 | 两种方法让你也能安全体验 macOS Sonoma](https://sspai.com/post/80306)
 * [【2023-06-16】 花点时间，走在趋势之前：Blackberry 简史（一）](https://sspai.com/prime/story/vintage-tech-stories-blackberry-1)
 * [【2023-06-16】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/80378)
@@ -42,9 +45,6 @@
 * [【2023-06-16】 家的日志 | 让家更懂你：我的智能家居选择方案](https://sspai.com/post/80371)
 * [【2023-06-16】 App+1 | 好内容打包分享：用 POKi 做一个更吸引人的合集](https://sspai.com/post/80327)
 * [【2023-06-16】 派早报：网件推出 Nighthawk M6 5G 移动热点路由器、Unihertz 推出新款小屏手机 Jelly Star](https://sspai.com/post/80375)
-* [【2023-06-15】 新玩意 149｜少数派的编辑们最近买了啥？](https://sspai.com/post/80366)
-* [【2023-06-15】 评论有奖 | 从小培养效率思维，给孩子们的「成长之礼」](https://sspai.com/post/80352)
-* [【2023-06-15】 618 将至，更好的 K3 Pro 也有了少数派定制版](https://sspai.com/post/80310)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-18 05:11:37
+:alarm_clock: 更新时间: 2023-06-19 05:11:52
