@@ -483,6 +483,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "618 活动还在继续：少数派正版软件限时 5 折起",
+                "link": "https://sspai.com/post/80415",
+                "published": "2023-06-21"
+            },
+            {
+                "title": "派早报：Outlook 将成为 Windows 11 默认应用、有道云笔记将限制同时登录设备数量等",
+                "link": "https://sspai.com/post/80491",
+                "published": "2023-06-21"
+            },
+            {
+                "title": "奏折 | 反正无悬念，内外有预告的一波新机",
+                "link": "https://sspai.com/prime/story/zouzhe-230620",
+                "published": "2023-06-20"
+            },
+            {
+                "title": "下班之后时间宝贵，直接开摆实在浪费：我的精力管理与自我提升探索",
+                "link": "https://sspai.com/post/80461",
+                "published": "2023-06-20"
+            },
+            {
                 "title": "城市漫步指南：去阿那亚的海边「呆」三天",
                 "link": "https://sspai.com/post/79411",
                 "published": "2023-06-20"
@@ -43549,6 +43569,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2023年6月机械键盘快速入门及选购推荐（通俗易懂，持续更新）",
+                "link": "http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-05"
+            },
+            {
+                "title": "2023年机械键盘入门指南及选购推荐【万字长文】",
+                "link": "http://zhuanlan.zhihu.com/p/632833181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
                 "title": "【VALSE 2023】走向计算机视觉的通用人工智能：GPT和大语言模型带来的启发",
                 "link": "http://zhuanlan.zhihu.com/p/620631150?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-06-16"
@@ -51069,7 +51099,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,

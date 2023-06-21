@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-06-21】 618 活动还在继续：少数派正版软件限时 5 折起](https://sspai.com/post/80415)
+* [【2023-06-21】 派早报：Outlook 将成为 Windows 11 默认应用、有道云笔记将限制同时登录设备数量等](https://sspai.com/post/80491)
+* [【2023-06-20】 奏折 | 反正无悬念，内外有预告的一波新机](https://sspai.com/prime/story/zouzhe-230620)
+* [【2023-06-20】 下班之后时间宝贵，直接开摆实在浪费：我的精力管理与自我提升探索](https://sspai.com/post/80461)
 * [【2023-06-20】 城市漫步指南：去阿那亚的海边「呆」三天](https://sspai.com/post/79411)
 * [【2023-06-20】 派早报：微信上线「安静模式」，印象笔记宣布开放印象 AI 限制等](https://sspai.com/post/80454)
 * [【2023-06-19】 我在车芯产线做观察（下）——人在产线篇](https://sspai.com/prime/story/car-chip-pipeline-observations-2)
 * [【2023-06-19】 派评 | 近期值得关注的 App](https://sspai.com/post/80432)
 * [【2023-06-19】 今年我准备的父亲节礼物，是从「仅聊天」到开放朋友圈](https://sspai.com/post/80390)
 * [【2023-06-19】 派早报：谷歌将关停并出售域名注册业务；酷睿产品名中将取消字母 i](https://sspai.com/post/80409)
-* [【2023-06-18】 [限时特惠] 免费 macOS 剪贴板 + AI 新玩法：效率启动器 HapiGo 更新](https://sspai.com/post/80118)
-* [【2023-06-17】 一日一技 | 两种方法让你也能安全体验 macOS Sonoma](https://sspai.com/post/80306)
-* [【2023-06-16】 花点时间，走在趋势之前：Blackberry 简史（一）](https://sspai.com/prime/story/vintage-tech-stories-blackberry-1)
-* [【2023-06-16】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/80378)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-06-05】 2023年6月机械键盘快速入门及选购推荐（通俗易懂，持续更新）](http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-05-31】 2023年机械键盘入门指南及选购推荐【万字长文】](http://zhuanlan.zhihu.com/p/632833181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-16】 【VALSE 2023】走向计算机视觉的通用人工智能：GPT和大语言模型带来的启发](http://zhuanlan.zhihu.com/p/620631150?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-31】 2023 年 618 平板选购指南【更新于 6.15】含 iPad / 小米 / 华为 / OPPO / 联想等](http://zhuanlan.zhihu.com/p/633714867?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-14】 新能源汽车时代技术更重要还是品牌更重要？](http://www.zhihu.com/question/598593472/answer/3020473909?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-06-13】 「全面升级」 AMD 7840HS 迷你主机 零刻 GTR7 深度测试](http://zhuanlan.zhihu.com/p/636603672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-12】 高颜值，又好玩 - Keychron Q1 Pro客制化机械键盘](http://zhuanlan.zhihu.com/p/636061020?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-12】 显卡评测第38期｜华硕RTX 4060 TI：两千五交个朋友？](http://zhuanlan.zhihu.com/p/635870824?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-12】 聊聊苹果历史上的23个One More Thing 时刻](http://zhuanlan.zhihu.com/p/635186906?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-09】 这篇文章带你玩转AI绘画](http://zhuanlan.zhihu.com/p/560500814?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-20 05:11:40
+:alarm_clock: 更新时间: 2023-06-21 05:12:04
