@@ -483,6 +483,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新玩意 150｜少数派的作者们最近买了啥？",
+                "link": "https://sspai.com/post/80501",
+                "published": "2023-06-22"
+            },
+            {
+                "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
+                "link": "https://sspai.com/post/68024",
+                "published": "2023-06-22"
+            },
+            {
+                "title": "少数派编辑部都装了啥字体？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-sp-typefaces",
+                "published": "2023-06-21"
+            },
+            {
+                "title": "Apple 新政策允许个人维修 iPhone，对我们来说都意味着什么？",
+                "link": "https://sspai.com/post/70113",
+                "published": "2023-06-21"
+            },
+            {
+                "title": "保持精力，保持警惕，独自成行也分外有趣",
+                "link": "https://sspai.com/post/80437",
+                "published": "2023-06-21"
+            },
+            {
                 "title": "618 活动还在继续：少数派正版软件限时 5 折起",
                 "link": "https://sspai.com/post/80415",
                 "published": "2023-06-21"
@@ -13113,7 +13138,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -43569,6 +43594,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2023年6月，2000元高性价比手机推荐定时更新（红米K60/E、12Turbo、真我GTNeo5/SE、一加 Ace2/V、iQOONeo8、荣耀80/90、vivoS17、OPPOReno10）",
+                "link": "http://zhuanlan.zhihu.com/p/361979460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-30"
+            },
+            {
                 "title": "2023年6月机械键盘快速入门及选购推荐（通俗易懂，持续更新）",
                 "link": "http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-06-05"
@@ -51099,7 +51129,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,
