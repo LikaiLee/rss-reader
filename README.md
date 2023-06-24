@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-06-24】 手帐放到过期也没用完？这些方法让你的手帐本不再开天窗](https://sspai.com/post/80505)
+* [【2023-06-23】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/80540)
+* [【2023-06-23】 visionOS beta 1 发布了，这是我们的上手体验](https://sspai.com/post/80536)
 * [【2023-06-22】 新玩意 150｜少数派的作者们最近买了啥？](https://sspai.com/post/80501)
 * [【2023-06-22】 暴雨和洪涝的季节，这些技巧助你从容自保](https://sspai.com/post/68024)
 * [【2023-06-21】 少数派编辑部都装了啥字体？](https://sspai.com/prime/story/zhuanglesha-sp-typefaces)
@@ -42,9 +45,6 @@
 * [【2023-06-21】 保持精力，保持警惕，独自成行也分外有趣](https://sspai.com/post/80437)
 * [【2023-06-21】 618 活动还在继续：少数派正版软件限时 5 折起](https://sspai.com/post/80415)
 * [【2023-06-21】 派早报：Outlook 将成为 Windows 11 默认应用、有道云笔记将限制同时登录设备数量等](https://sspai.com/post/80491)
-* [【2023-06-20】 奏折 | 反正无悬念，内外有预告的一波新机](https://sspai.com/prime/story/zouzhe-230620)
-* [【2023-06-20】 下班之后时间宝贵，直接开摆实在浪费：我的精力管理与自我提升探索](https://sspai.com/post/80461)
-* [【2023-06-20】 城市漫步指南：去阿那亚的海边「呆」三天](https://sspai.com/post/79411)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-23 05:13:13
+:alarm_clock: 更新时间: 2023-06-24 05:12:44
