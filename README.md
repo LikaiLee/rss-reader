@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-06-25】 一个人也可以是「大厂」：三年程序员的生活规划心路分享](https://sspai.com/post/80509)
+* [【2023-06-25】 派早报：高通与索尼达成合作、YouTube 推出多项新举措等](https://sspai.com/post/80558)
+* [【2023-06-24】 本月玩什么 | 暗黑破坏神 IV、最终幻想 XVI、层层恐惧、街头霸王 6](https://sspai.com/post/80544)
 * [【2023-06-24】 手帐放到过期也没用完？这些方法让你的手帐本不再开天窗](https://sspai.com/post/80505)
 * [【2023-06-23】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/80540)
 * [【2023-06-23】 visionOS beta 1 发布了，这是我们的上手体验](https://sspai.com/post/80536)
@@ -42,9 +45,6 @@
 * [【2023-06-22】 暴雨和洪涝的季节，这些技巧助你从容自保](https://sspai.com/post/68024)
 * [【2023-06-21】 少数派编辑部都装了啥字体？](https://sspai.com/prime/story/zhuanglesha-sp-typefaces)
 * [【2023-06-21】 Apple 新政策允许个人维修 iPhone，对我们来说都意味着什么？](https://sspai.com/post/70113)
-* [【2023-06-21】 保持精力，保持警惕，独自成行也分外有趣](https://sspai.com/post/80437)
-* [【2023-06-21】 618 活动还在继续：少数派正版软件限时 5 折起](https://sspai.com/post/80415)
-* [【2023-06-21】 派早报：Outlook 将成为 Windows 11 默认应用、有道云笔记将限制同时登录设备数量等](https://sspai.com/post/80491)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-24 05:12:44
+:alarm_clock: 更新时间: 2023-06-25 05:12:52
