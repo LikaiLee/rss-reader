@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-06-26】 用烧钱折腾一个月的经历教训，聊聊如何入门骑行运动](https://sspai.com/post/80530)
+* [【2023-06-26】 派早报：FTC 诉微软收购暴雪案开庭；马斯克与扎克伯格「约架」](https://sspai.com/post/80582)
+* [【2023-06-25】 App 里的那些精美动效，是如何与 Airbnb 扯上关系的？](https://sspai.com/post/80434)
+* [【2023-06-25】 2023 年，我改装了一台「能拍照」的 GameBoy](https://sspai.com/post/80561)
 * [【2023-06-25】 一个人也可以是「大厂」：三年程序员的生活规划心路分享](https://sspai.com/post/80509)
 * [【2023-06-25】 派早报：高通与索尼达成合作、YouTube 推出多项新举措等](https://sspai.com/post/80558)
 * [【2023-06-24】 本月玩什么 | 暗黑破坏神 IV、最终幻想 XVI、层层恐惧、街头霸王 6](https://sspai.com/post/80544)
 * [【2023-06-24】 手帐放到过期也没用完？这些方法让你的手帐本不再开天窗](https://sspai.com/post/80505)
 * [【2023-06-23】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/80540)
 * [【2023-06-23】 visionOS beta 1 发布了，这是我们的上手体验](https://sspai.com/post/80536)
-* [【2023-06-22】 新玩意 150｜少数派的作者们最近买了啥？](https://sspai.com/post/80501)
-* [【2023-06-22】 暴雨和洪涝的季节，这些技巧助你从容自保](https://sspai.com/post/68024)
-* [【2023-06-21】 少数派编辑部都装了啥字体？](https://sspai.com/prime/story/zhuanglesha-sp-typefaces)
-* [【2023-06-21】 Apple 新政策允许个人维修 iPhone，对我们来说都意味着什么？](https://sspai.com/post/70113)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-06-26】 夏日出游，推荐几个适合自驾的目的地，你觉得推荐的理由是什么？](http://www.zhihu.com/question/606531092/answer/3073082401?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-06-25】 磷酸铁锂电池穿刺安全性好于三元锂，那为什么还是有自燃的案例出现？难点在哪里？有没有更安全的电池替代？](http://www.zhihu.com/question/604277906/answer/3078266356?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-06-25】 自动驾驶车辆应采取那些信息安全防御机制，来防止关键数据被非授权删改，保障自动驾驶车辆安全？](http://www.zhihu.com/question/604194379/answer/3070415630?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-06-25】 越来越多车企推出了电池技术，谁才是真正的安全电池？](http://www.zhihu.com/question/533811594/answer/3059335283?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-30】 2023年6月，2000元高性价比手机推荐定时更新（红米K60/E、12Turbo、真我GTNeo5/SE、一加 Ace2/V、iQOONeo8、荣耀80/90、vivoS17、OPPOReno10）](http://zhuanlan.zhihu.com/p/361979460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-05】 2023年6月机械键盘快速入门及选购推荐（通俗易懂，持续更新）](http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-31】 2023年机械键盘入门指南及选购推荐【万字长文】](http://zhuanlan.zhihu.com/p/632833181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-16】 【VALSE 2023】走向计算机视觉的通用人工智能：GPT和大语言模型带来的启发](http://zhuanlan.zhihu.com/p/620631150?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-31】 2023 年 618 平板选购指南【更新于 6.15】含 iPad / 小米 / 华为 / OPPO / 联想等](http://zhuanlan.zhihu.com/p/633714867?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-14】 新能源汽车时代技术更重要还是品牌更重要？](http://www.zhihu.com/question/598593472/answer/3020473909?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-14】 谈谈什么才是“真正”的AR眼镜，2023如何选购一款能够真正出街的AR眼镜？拒绝智商税！](http://zhuanlan.zhihu.com/p/636775891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-13】 高考志愿填报，对于许多专业一无所知，该怎么办?](http://www.zhihu.com/question/323060216/answer/3066812400?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-13】 「全面升级」 AMD 7840HS 迷你主机 零刻 GTR7 深度测试](http://zhuanlan.zhihu.com/p/636603672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-12】 高颜值，又好玩 - Keychron Q1 Pro客制化机械键盘](http://zhuanlan.zhihu.com/p/636061020?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-25 05:12:52
+:alarm_clock: 更新时间: 2023-06-26 05:13:51
