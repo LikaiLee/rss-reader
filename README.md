@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-06-27】 想要用 AI 和卡片笔记进行对话？你可以试试这个开源小工具 Quivr](https://sspai.com/post/80596)
+* [【2023-06-27】 派早报：哔哩哔哩将更换播放数据呈现方式等](https://sspai.com/post/80623)
+* [【2023-06-26】 6 月失去了 E3，但夏天依然洋溢着游戏](https://sspai.com/prime/story/zouzhe-230626)
+* [【2023-06-26】 派评 | 近期值得关注的 App](https://sspai.com/post/80608)
+* [【2023-06-26】 众筹 | Notion All in One，一份给知识工作者的 Notion 终极指南](https://sspai.com/post/80589)
+* [【2023-06-26】 掌控湿度、凉爽一夏：送给受不了 105 度的你](https://sspai.com/post/68027)
+* [【2023-06-26】 飞傲 FW3 上手体验：499 元带 Hi-Fi 芯片的真无线，香吗？](https://sspai.com/post/80583)
 * [【2023-06-26】 用烧钱折腾一个月的经历教训，聊聊如何入门骑行运动](https://sspai.com/post/80530)
 * [【2023-06-26】 派早报：FTC 诉微软收购暴雪案开庭；马斯克与扎克伯格「约架」](https://sspai.com/post/80582)
 * [【2023-06-25】 App 里的那些精美动效，是如何与 Airbnb 扯上关系的？](https://sspai.com/post/80434)
-* [【2023-06-25】 2023 年，我改装了一台「能拍照」的 GameBoy](https://sspai.com/post/80561)
-* [【2023-06-25】 一个人也可以是「大厂」：三年程序员的生活规划心路分享](https://sspai.com/post/80509)
-* [【2023-06-25】 派早报：高通与索尼达成合作、YouTube 推出多项新举措等](https://sspai.com/post/80558)
-* [【2023-06-24】 本月玩什么 | 暗黑破坏神 IV、最终幻想 XVI、层层恐惧、街头霸王 6](https://sspai.com/post/80544)
-* [【2023-06-24】 手帐放到过期也没用完？这些方法让你的手帐本不再开天窗](https://sspai.com/post/80505)
-* [【2023-06-23】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/80540)
-* [【2023-06-23】 visionOS beta 1 发布了，这是我们的上手体验](https://sspai.com/post/80536)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-26 05:13:51
+:alarm_clock: 更新时间: 2023-06-27 05:13:08

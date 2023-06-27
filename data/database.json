@@ -483,6 +483,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "想要用 AI 和卡片笔记进行对话？你可以试试这个开源小工具 Quivr",
+                "link": "https://sspai.com/post/80596",
+                "published": "2023-06-27"
+            },
+            {
+                "title": "派早报：哔哩哔哩将更换播放数据呈现方式等",
+                "link": "https://sspai.com/post/80623",
+                "published": "2023-06-27"
+            },
+            {
+                "title": "6 月失去了 E3，但夏天依然洋溢着游戏",
+                "link": "https://sspai.com/prime/story/zouzhe-230626",
+                "published": "2023-06-26"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/80608",
+                "published": "2023-06-26"
+            },
+            {
+                "title": "众筹 | Notion All in One，一份给知识工作者的 Notion 终极指南",
+                "link": "https://sspai.com/post/80589",
+                "published": "2023-06-26"
+            },
+            {
+                "title": "掌控湿度、凉爽一夏：送给受不了 105 度的你",
+                "link": "https://sspai.com/post/68027",
+                "published": "2023-06-26"
+            },
+            {
+                "title": "飞傲 FW3 上手体验：499 元带 Hi-Fi 芯片的真无线，香吗？",
+                "link": "https://sspai.com/post/80583",
+                "published": "2023-06-26"
+            },
+            {
                 "title": "用烧钱折腾一个月的经历教训，聊聊如何入门骑行运动",
                 "link": "https://sspai.com/post/80530",
                 "published": "2023-06-26"
@@ -13188,7 +13223,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -51199,7 +51234,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 0
     },
     {
         "id": 4,
