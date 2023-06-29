@@ -483,6 +483,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "收集、学习、创作：这是我的论文阅读流",
+                "link": "https://sspai.com/post/79966",
+                "published": "2023-06-29"
+            },
+            {
+                "title": "派早报：ChatGPT 集成必应搜索、菜鸟推出自营快递业务等",
+                "link": "https://sspai.com/post/80688",
+                "published": "2023-06-29"
+            },
+            {
+                "title": "Google 做不好的「小组件」，MIUI 做对了什么？",
+                "link": "https://sspai.com/prime/story/android-widget-problems",
+                "published": "2023-06-28"
+            },
+            {
+                "title": "播客 | 从锤科公关，到香蕉攀岩老板",
+                "link": "https://sspai.com/post/80603",
+                "published": "2023-06-28"
+            },
+            {
+                "title": "基于 n8n 的开源自动化：以滴答清单同步 Notion 为例",
+                "link": "https://sspai.com/prime/story/automation-n8n",
+                "published": "2023-06-28"
+            },
+            {
                 "title": "咖啡美酒冷泡茶，这些消暑饮品在家就能动手做",
                 "link": "https://sspai.com/post/74196",
                 "published": "2023-06-28"
@@ -13253,7 +13278,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -51274,7 +51299,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
