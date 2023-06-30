@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-06-30】 科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)
 * [【2023-06-16】 科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)
 * [【2023-06-09】 科技爱好者周刊（第 258 期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html)
 * [【2023-06-01】 科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html)
@@ -25,7 +26,6 @@
 * [【2023-05-05】 科技爱好者周刊（第 253 期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)
 * [【2023-04-28】 科技爱好者周刊（第 252 期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)
 * [【2023-04-21】 科技爱好者周刊（第 251 期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html)
-* [【2023-04-14】 科技爱好者周刊（第 250 期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-06-30】 英语学习的听说读写，我都用了这些工具来搞定](https://sspai.com/post/80086)
+* [【2023-06-30】 派早报：华硕发布 Zenfone 10 手机、佳明发布 fēnix 7 Pro 系列智能手表](https://sspai.com/post/80720)
+* [【2023-06-29】 新玩意 151｜少数派的编辑们最近买了啥？](https://sspai.com/post/80707)
+* [【2023-06-29】 Kindle 中国区电子书店即将停止运营，你可以这样下载买过的电子书](https://sspai.com/post/56997)
 * [【2023-06-29】 收集、学习、创作：这是我的论文阅读流](https://sspai.com/post/79966)
 * [【2023-06-29】 派早报：ChatGPT 集成必应搜索、菜鸟推出自营快递业务等](https://sspai.com/post/80688)
 * [【2023-06-28】 Google 做不好的「小组件」，MIUI 做对了什么？](https://sspai.com/prime/story/android-widget-problems)
 * [【2023-06-28】 播客 | 从锤科公关，到香蕉攀岩老板](https://sspai.com/post/80603)
 * [【2023-06-28】 基于 n8n 的开源自动化：以滴答清单同步 Notion 为例](https://sspai.com/prime/story/automation-n8n)
 * [【2023-06-28】 咖啡美酒冷泡茶，这些消暑饮品在家就能动手做](https://sspai.com/post/74196)
-* [【2023-06-28】 派早报：Android 将更新品牌标识、Meta 推出 VR 游戏订阅服务等](https://sspai.com/post/80659)
-* [【2023-06-27】 你的名字到底有几种写法？——聊聊 Windows 和 macOS 的版本号](https://sspai.com/prime/story/windows-macos-version-number-explained)
-* [【2023-06-27】 解读备忘录&语音备忘录：发现简洁之下的强大](https://sspai.com/post/78705)
-* [【2023-06-27】 社区速递 001：社区动态、作者的新玩意及内容摘要](https://sspai.com/post/80643)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-06-29 05:13:15
+:alarm_clock: 更新时间: 2023-06-30 05:12:32
