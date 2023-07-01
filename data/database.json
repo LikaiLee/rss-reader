@@ -480,13 +480,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "跳一跳就能够得着：如何跑完你的第一个全程马拉松？",
+                "link": "https://sspai.com/post/80117",
+                "published": "2023-07-01"
+            },
+            {
+                "title": "家庭居酒屋进货指南",
+                "link": "https://sspai.com/prime/story/izakaya-menu-items-diy",
+                "published": "2023-06-30"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/80737",
+                "published": "2023-06-30"
+            },
+            {
+                "title": "祝你愉快——别了家驹三十载",
+                "link": "https://sspai.com/post/80656",
+                "published": "2023-06-30"
+            },
+            {
+                "title": "上车聊聊 | 2023 年，极氪 001 还值得买吗？",
+                "link": "https://sspai.com/post/80116",
+                "published": "2023-06-30"
+            },
             {
                 "title": "英语学习的听说读写，我都用了这些工具来搞定",
                 "link": "https://sspai.com/post/80086",
@@ -13303,7 +13328,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -43759,6 +43784,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "北京有哪些值得一逛的胡同？",
+                "link": "http://www.zhihu.com/question/561413213/answer/3096010395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-06-30"
+            },
+            {
                 "title": "妙谈一下｜女生不能写恐怖文？这个靠写文买房的美少女不服！",
                 "link": "http://zhuanlan.zhihu.com/p/639845583?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-06-27"
@@ -51324,7 +51354,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
