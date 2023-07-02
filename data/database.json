@@ -488,6 +488,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 旧版 Android 应用安装包难找，如何自己动手备份？",
+                "link": "https://sspai.com/post/80776",
+                "published": "2023-07-02"
+            },
+            {
+                "title": "这份工作小技能与经验合集，送给刚刚踏入职场的你",
+                "link": "https://sspai.com/post/80723",
+                "published": "2023-07-01"
+            },
+            {
                 "title": "跳一跳就能够得着：如何跑完你的第一个全程马拉松？",
                 "link": "https://sspai.com/post/80117",
                 "published": "2023-07-01"
@@ -13328,7 +13338,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -51354,7 +51364,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

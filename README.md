@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-07-02】 一日一技 | 旧版 Android 应用安装包难找，如何自己动手备份？](https://sspai.com/post/80776)
+* [【2023-07-01】 这份工作小技能与经验合集，送给刚刚踏入职场的你](https://sspai.com/post/80723)
 * [【2023-07-01】 跳一跳就能够得着：如何跑完你的第一个全程马拉松？](https://sspai.com/post/80117)
 * [【2023-06-30】 家庭居酒屋进货指南](https://sspai.com/prime/story/izakaya-menu-items-diy)
 * [【2023-06-30】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/80737)
@@ -43,8 +45,6 @@
 * [【2023-06-30】 英语学习的听说读写，我都用了这些工具来搞定](https://sspai.com/post/80086)
 * [【2023-06-30】 派早报：华硕发布 Zenfone 10 手机、佳明发布 fēnix 7 Pro 系列智能手表](https://sspai.com/post/80720)
 * [【2023-06-29】 新玩意 151｜少数派的编辑们最近买了啥？](https://sspai.com/post/80707)
-* [【2023-06-29】 Kindle 中国区电子书店即将停止运营，你可以这样下载买过的电子书](https://sspai.com/post/56997)
-* [【2023-06-29】 收集、学习、创作：这是我的论文阅读流](https://sspai.com/post/79966)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-01 05:12:18
+:alarm_clock: 更新时间: 2023-07-02 05:12:17
