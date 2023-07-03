@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-07-03】 在没有工作的时候整理自己：往前看，别回头](https://sspai.com/post/80235)
+* [【2023-07-03】 派早报：推特以反爬为由禁止匿名浏览，多个知名 Reddit 客户端谢幕](https://sspai.com/post/80790)
 * [【2023-07-02】 一日一技 | 旧版 Android 应用安装包难找，如何自己动手备份？](https://sspai.com/post/80776)
 * [【2023-07-01】 这份工作小技能与经验合集，送给刚刚踏入职场的你](https://sspai.com/post/80723)
 * [【2023-07-01】 跳一跳就能够得着：如何跑完你的第一个全程马拉松？](https://sspai.com/post/80117)
@@ -43,8 +45,6 @@
 * [【2023-06-30】 祝你愉快——别了家驹三十载](https://sspai.com/post/80656)
 * [【2023-06-30】 上车聊聊 | 2023 年，极氪 001 还值得买吗？](https://sspai.com/post/80116)
 * [【2023-06-30】 英语学习的听说读写，我都用了这些工具来搞定](https://sspai.com/post/80086)
-* [【2023-06-30】 派早报：华硕发布 Zenfone 10 手机、佳明发布 fēnix 7 Pro 系列智能手表](https://sspai.com/post/80720)
-* [【2023-06-29】 新玩意 151｜少数派的编辑们最近买了啥？](https://sspai.com/post/80707)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-05-30】 2023年7月，2000元高性价比手机推荐定时更新（红米K60/E、12Turbo、真我GTNeo5/SE、一加 Ace2/V、iQOONeo8、荣耀80/90、vivoS17、OPPOReno10）](http://zhuanlan.zhihu.com/p/361979460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-30】 北京有哪些值得一逛的胡同？](http://www.zhihu.com/question/561413213/answer/3096010395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-27】 妙谈一下｜女生不能写恐怖文？这个靠写文买房的美少女不服！](http://zhuanlan.zhihu.com/p/639845583?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-27】 有没有追妻火葬场但破镜没重圆的故事？| 文末含福利](http://zhuanlan.zhihu.com/p/639633753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-06-25】 越来越多车企推出了电池技术，谁才是真正的安全电池？](http://www.zhihu.com/question/533811594/answer/3059335283?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-30】 2023年6月，2000元高性价比手机推荐定时更新（红米K60/E、12Turbo、真我GTNeo5/SE、一加 Ace2/V、iQOONeo8、荣耀80/90、vivoS17、OPPOReno10）](http://zhuanlan.zhihu.com/p/361979460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-05】 2023年6月机械键盘快速入门及选购推荐（通俗易懂，持续更新）](http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-31】 2023年机械键盘入门指南及选购推荐【万字长文】](http://zhuanlan.zhihu.com/p/632833181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-02 05:12:17
+:alarm_clock: 更新时间: 2023-07-03 05:13:17

@@ -488,6 +488,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "在没有工作的时候整理自己：往前看，别回头",
+                "link": "https://sspai.com/post/80235",
+                "published": "2023-07-03"
+            },
+            {
+                "title": "派早报：推特以反爬为由禁止匿名浏览，多个知名 Reddit 客户端谢幕",
+                "link": "https://sspai.com/post/80790",
+                "published": "2023-07-03"
+            },
+            {
                 "title": "一日一技 | 旧版 Android 应用安装包难找，如何自己动手备份？",
                 "link": "https://sspai.com/post/80776",
                 "published": "2023-07-02"
@@ -43794,6 +43804,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2023年7月，2000元高性价比手机推荐定时更新（红米K60/E、12Turbo、真我GTNeo5/SE、一加 Ace2/V、iQOONeo8、荣耀80/90、vivoS17、OPPOReno10）",
+                "link": "http://zhuanlan.zhihu.com/p/361979460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-30"
+            },
+            {
                 "title": "北京有哪些值得一逛的胡同？",
                 "link": "http://www.zhihu.com/question/561413213/answer/3096010395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-06-30"
@@ -51364,7 +51379,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
