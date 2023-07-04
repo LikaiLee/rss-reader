@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-04】 从月光到攒下 6 位数，聊聊我的储蓄、记账与消费](https://sspai.com/post/80330)
+* [【2023-07-04】 派早报：Meta 将推出 Twitter 竞品，Twitter 限制 TweetDeck 开放等](https://sspai.com/post/80821)
+* [【2023-07-03】 派评 | 近期值得关注的 App](https://sspai.com/post/80811)
+* [【2023-07-03】 订阅与买断、付费与免费，我是如何进行软件消费决策的](https://sspai.com/post/80754)
+* [【2023-07-03】 一日一技 | 一行代码为 Windows 自动更新暂停「续杯」](https://sspai.com/post/80562)
 * [【2023-07-03】 在没有工作的时候整理自己：往前看，别回头](https://sspai.com/post/80235)
 * [【2023-07-03】 派早报：推特以反爬为由禁止匿名浏览，多个知名 Reddit 客户端谢幕](https://sspai.com/post/80790)
 * [【2023-07-02】 一日一技 | 旧版 Android 应用安装包难找，如何自己动手备份？](https://sspai.com/post/80776)
 * [【2023-07-01】 这份工作小技能与经验合集，送给刚刚踏入职场的你](https://sspai.com/post/80723)
 * [【2023-07-01】 跳一跳就能够得着：如何跑完你的第一个全程马拉松？](https://sspai.com/post/80117)
-* [【2023-06-30】 家庭居酒屋进货指南](https://sspai.com/prime/story/izakaya-menu-items-diy)
-* [【2023-06-30】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/80737)
-* [【2023-06-30】 祝你愉快——别了家驹三十载](https://sspai.com/post/80656)
-* [【2023-06-30】 上车聊聊 | 2023 年，极氪 001 还值得买吗？](https://sspai.com/post/80116)
-* [【2023-06-30】 英语学习的听说读写，我都用了这些工具来搞定](https://sspai.com/post/80086)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-06-05】 2023年7月机械键盘快速入门及选购推荐（通俗易懂，持续更新）](http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-30】 2023年7月，2000元高性价比手机推荐定时更新（红米K60/E、12Turbo、真我GTNeo5/SE、一加 Ace2/V、iQOONeo8、荣耀80/90、vivoS17、OPPOReno10）](http://zhuanlan.zhihu.com/p/361979460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-30】 北京有哪些值得一逛的胡同？](http://www.zhihu.com/question/561413213/answer/3096010395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-27】 妙谈一下｜女生不能写恐怖文？这个靠写文买房的美少女不服！](http://zhuanlan.zhihu.com/p/639845583?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-06-25】 自动驾驶车辆应采取那些信息安全防御机制，来防止关键数据被非授权删改，保障自动驾驶车辆安全？](http://www.zhihu.com/question/604194379/answer/3070415630?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-25】 越来越多车企推出了电池技术，谁才是真正的安全电池？](http://www.zhihu.com/question/533811594/answer/3059335283?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-30】 2023年6月，2000元高性价比手机推荐定时更新（红米K60/E、12Turbo、真我GTNeo5/SE、一加 Ace2/V、iQOONeo8、荣耀80/90、vivoS17、OPPOReno10）](http://zhuanlan.zhihu.com/p/361979460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-05】 2023年6月机械键盘快速入门及选购推荐（通俗易懂，持续更新）](http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-03 05:13:17
+:alarm_clock: 更新时间: 2023-07-04 05:13:15
