@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-05】 我们做了一款 app，让你在线学习也能轻松记笔记](https://sspai.com/post/80763)
+* [【2023-07-05】 派早报：iQOO 11S 发布、Nothing Phone (2) 真机亮相等](https://sspai.com/post/80855)
+* [【2023-07-04】 付费墙的短与长（二）：怎样有效保存已订阅内容](https://sspai.com/prime/story/on-paywalls-02)
+* [【2023-07-04】 社区速递 002：作者的新玩意、一派热议和本周精选](https://sspai.com/post/80832)
+* [【2023-07-04】 万字解析 | 十年磨一剑，Notion 的过去、现在与将来](https://sspai.com/post/80474)
+* [【2023-07-04】 告别分类、拥抱自由，让时间记录回归记录本身](https://sspai.com/post/80812)
 * [【2023-07-04】 从月光到攒下 6 位数，聊聊我的储蓄、记账与消费](https://sspai.com/post/80330)
 * [【2023-07-04】 派早报：Meta 将推出 Twitter 竞品，Twitter 限制 TweetDeck 开放等](https://sspai.com/post/80821)
 * [【2023-07-03】 派评 | 近期值得关注的 App](https://sspai.com/post/80811)
 * [【2023-07-03】 订阅与买断、付费与免费，我是如何进行软件消费决策的](https://sspai.com/post/80754)
-* [【2023-07-03】 一日一技 | 一行代码为 Windows 自动更新暂停「续杯」](https://sspai.com/post/80562)
-* [【2023-07-03】 在没有工作的时候整理自己：往前看，别回头](https://sspai.com/post/80235)
-* [【2023-07-03】 派早报：推特以反爬为由禁止匿名浏览，多个知名 Reddit 客户端谢幕](https://sspai.com/post/80790)
-* [【2023-07-02】 一日一技 | 旧版 Android 应用安装包难找，如何自己动手备份？](https://sspai.com/post/80776)
-* [【2023-07-01】 这份工作小技能与经验合集，送给刚刚踏入职场的你](https://sspai.com/post/80723)
-* [【2023-07-01】 跳一跳就能够得着：如何跑完你的第一个全程马拉松？](https://sspai.com/post/80117)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-04 05:13:15
+:alarm_clock: 更新时间: 2023-07-05 05:13:20

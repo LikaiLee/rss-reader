@@ -488,6 +488,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我们做了一款 app，让你在线学习也能轻松记笔记",
+                "link": "https://sspai.com/post/80763",
+                "published": "2023-07-05"
+            },
+            {
+                "title": "派早报：iQOO 11S 发布、Nothing Phone (2) 真机亮相等",
+                "link": "https://sspai.com/post/80855",
+                "published": "2023-07-05"
+            },
+            {
+                "title": "付费墙的短与长（二）：怎样有效保存已订阅内容",
+                "link": "https://sspai.com/prime/story/on-paywalls-02",
+                "published": "2023-07-04"
+            },
+            {
+                "title": "社区速递 002：作者的新玩意、一派热议和本周精选",
+                "link": "https://sspai.com/post/80832",
+                "published": "2023-07-04"
+            },
+            {
+                "title": "万字解析 | 十年磨一剑，Notion 的过去、现在与将来",
+                "link": "https://sspai.com/post/80474",
+                "published": "2023-07-04"
+            },
+            {
+                "title": "告别分类、拥抱自由，让时间记录回归记录本身",
+                "link": "https://sspai.com/post/80812",
+                "published": "2023-07-04"
+            },
+            {
                 "title": "从月光到攒下 6 位数，聊聊我的储蓄、记账与消费",
                 "link": "https://sspai.com/post/80330",
                 "published": "2023-07-04"
@@ -13373,7 +13403,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -51409,7 +51439,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
