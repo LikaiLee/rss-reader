@@ -488,6 +488,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "评论有奖 | 用 59 分钟，让多重任务管理变简单",
+                "link": "https://sspai.com/post/80857",
+                "published": "2023-07-06"
+            },
+            {
+                "title": "派早报：红魔发布多款新品、企鹅 FM 即将下线等",
+                "link": "https://sspai.com/post/80870",
+                "published": "2023-07-06"
+            },
+            {
+                "title": "趁热买点好游戏：Steam 夏促好价推荐",
+                "link": "https://sspai.com/post/80854",
+                "published": "2023-07-05"
+            },
+            {
+                "title": "macOS 上的高音质播放器，是不是智商税？",
+                "link": "https://sspai.com/post/80703",
+                "published": "2023-07-05"
+            },
+            {
+                "title": "阿斯巴甜「致癌」了，但你其实（暂时）没必要担心",
+                "link": "https://sspai.com/post/80856",
+                "published": "2023-07-05"
+            },
+            {
                 "title": "我们做了一款 app，让你在线学习也能轻松记笔记",
                 "link": "https://sspai.com/post/80763",
                 "published": "2023-07-05"
@@ -13403,7 +13428,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -43859,6 +43884,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2023年7月机械键盘选购指南，有哪些值得入手的机械键盘推荐？Tank实测上百把机械键盘帮你 618 挑选适合你的机械键盘。",
+                "link": "http://zhuanlan.zhihu.com/p/633381753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-31"
+            },
+            {
                 "title": "2023年7月机械键盘快速入门及选购推荐（通俗易懂，持续更新）",
                 "link": "http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-06-05"
@@ -51439,7 +51469,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

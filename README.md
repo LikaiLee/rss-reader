@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-06】 评论有奖 | 用 59 分钟，让多重任务管理变简单](https://sspai.com/post/80857)
+* [【2023-07-06】 派早报：红魔发布多款新品、企鹅 FM 即将下线等](https://sspai.com/post/80870)
+* [【2023-07-05】 趁热买点好游戏：Steam 夏促好价推荐](https://sspai.com/post/80854)
+* [【2023-07-05】 macOS 上的高音质播放器，是不是智商税？](https://sspai.com/post/80703)
+* [【2023-07-05】 阿斯巴甜「致癌」了，但你其实（暂时）没必要担心](https://sspai.com/post/80856)
 * [【2023-07-05】 我们做了一款 app，让你在线学习也能轻松记笔记](https://sspai.com/post/80763)
 * [【2023-07-05】 派早报：iQOO 11S 发布、Nothing Phone (2) 真机亮相等](https://sspai.com/post/80855)
 * [【2023-07-04】 付费墙的短与长（二）：怎样有效保存已订阅内容](https://sspai.com/prime/story/on-paywalls-02)
 * [【2023-07-04】 社区速递 002：作者的新玩意、一派热议和本周精选](https://sspai.com/post/80832)
 * [【2023-07-04】 万字解析 | 十年磨一剑，Notion 的过去、现在与将来](https://sspai.com/post/80474)
-* [【2023-07-04】 告别分类、拥抱自由，让时间记录回归记录本身](https://sspai.com/post/80812)
-* [【2023-07-04】 从月光到攒下 6 位数，聊聊我的储蓄、记账与消费](https://sspai.com/post/80330)
-* [【2023-07-04】 派早报：Meta 将推出 Twitter 竞品，Twitter 限制 TweetDeck 开放等](https://sspai.com/post/80821)
-* [【2023-07-03】 派评 | 近期值得关注的 App](https://sspai.com/post/80811)
-* [【2023-07-03】 订阅与买断、付费与免费，我是如何进行软件消费决策的](https://sspai.com/post/80754)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-05-31】 2023年7月机械键盘选购指南，有哪些值得入手的机械键盘推荐？Tank实测上百把机械键盘帮你 618 挑选适合你的机械键盘。](http://zhuanlan.zhihu.com/p/633381753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-05】 2023年7月机械键盘快速入门及选购推荐（通俗易懂，持续更新）](http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-30】 2023年7月，2000元高性价比手机推荐定时更新（红米K60/E、12Turbo、真我GTNeo5/SE、一加 Ace2/V、iQOONeo8、荣耀80/90、vivoS17、OPPOReno10）](http://zhuanlan.zhihu.com/p/361979460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-30】 北京有哪些值得一逛的胡同？](http://www.zhihu.com/question/561413213/answer/3096010395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-06-25】 磷酸铁锂电池穿刺安全性好于三元锂，那为什么还是有自燃的案例出现？难点在哪里？有没有更安全的电池替代？](http://www.zhihu.com/question/604277906/answer/3078266356?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-25】 自动驾驶车辆应采取那些信息安全防御机制，来防止关键数据被非授权删改，保障自动驾驶车辆安全？](http://www.zhihu.com/question/604194379/answer/3070415630?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-25】 越来越多车企推出了电池技术，谁才是真正的安全电池？](http://www.zhihu.com/question/533811594/answer/3059335283?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-30】 2023年6月，2000元高性价比手机推荐定时更新（红米K60/E、12Turbo、真我GTNeo5/SE、一加 Ace2/V、iQOONeo8、荣耀80/90、vivoS17、OPPOReno10）](http://zhuanlan.zhihu.com/p/361979460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-05 05:13:20
+:alarm_clock: 更新时间: 2023-07-06 05:13:24
