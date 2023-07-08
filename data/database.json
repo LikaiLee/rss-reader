@@ -485,13 +485,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "从泳池到湖泊，我从游泳中学到了什么",
+                "link": "https://sspai.com/post/80869",
+                "published": "2023-07-08"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/80914",
+                "published": "2023-07-07"
+            },
+            {
+                "title": "[公测邀请] Context ：一款基于「语境学习」的英语学习工具",
+                "link": "https://sspai.com/post/80594",
+                "published": "2023-07-07"
+            },
             {
                 "title": "想写就写，灵思无疆：用自动化部署让写作更得心应手",
                 "link": "https://sspai.com/post/80741",
@@ -13463,7 +13478,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -43919,6 +43934,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "华为云提出盘古气象大模型：中长期气象预报精度首次超过传统数值方法，速度提升10000倍以上",
+                "link": "http://zhuanlan.zhihu.com/p/582285853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-07"
+            },
+            {
+                "title": "登上Nature正刊、欧洲气象中心背书、轻量级方案发布：盘古气象大模型后续进展综述",
+                "link": "http://zhuanlan.zhihu.com/p/641851617?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-07"
+            },
+            {
+                "title": "Profile8.1才是最佳？一篇文章搞懂所有杜比视界格式",
+                "link": "http://zhuanlan.zhihu.com/p/642041260?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-07"
+            },
+            {
                 "title": "谁动了我的显存？——深度学习训练过程显存占用分析及优化",
                 "link": "http://zhuanlan.zhihu.com/p/641894014?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-07-06"
@@ -51509,7 +51539,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 4,

@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-07-08】 从泳池到湖泊，我从游泳中学到了什么](https://sspai.com/post/80869)
+* [【2023-07-07】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/80914)
+* [【2023-07-07】 [公测邀请] Context ：一款基于「语境学习」的英语学习工具](https://sspai.com/post/80594)
 * [【2023-07-07】 想写就写，灵思无疆：用自动化部署让写作更得心应手](https://sspai.com/post/80741)
 * [【2023-07-07】 派早报：Meta 推出 Twitter 竞品应用 Threads、Sony 推出便携式影院扬声器系统 HT-AX7](https://sspai.com/post/80897)
 * [【2023-07-06】 从 Nexus 7 到 Pixel Tablet：华盖之下的生态顽疾](https://sspai.com/prime/story/vintage-tech-stories-google-tablets)
@@ -42,9 +45,6 @@
 * [【2023-07-06】 一场关于充电器的美学创新：Anker 三合一磁力魔方](https://sspai.com/post/80724)
 * [【2023-07-06】 抗拒生活的赛博化，照顾我身体里的原始人](https://sspai.com/post/80216)
 * [【2023-07-06】 评论有奖 | 用 59 分钟，让多重任务管理变简单](https://sspai.com/post/80857)
-* [【2023-07-06】 派早报：红魔发布多款新品、企鹅 FM 即将下线等](https://sspai.com/post/80870)
-* [【2023-07-05】 趁热买点好游戏：Steam 夏促好价推荐](https://sspai.com/post/80854)
-* [【2023-07-05】 macOS 上的高音质播放器，是不是智商税？](https://sspai.com/post/80703)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-07-07】 华为云提出盘古气象大模型：中长期气象预报精度首次超过传统数值方法，速度提升10000倍以上](http://zhuanlan.zhihu.com/p/582285853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-07】 登上Nature正刊、欧洲气象中心背书、轻量级方案发布：盘古气象大模型后续进展综述](http://zhuanlan.zhihu.com/p/641851617?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-07】 Profile8.1才是最佳？一篇文章搞懂所有杜比视界格式](http://zhuanlan.zhihu.com/p/642041260?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-06】 谁动了我的显存？——深度学习训练过程显存占用分析及优化](http://zhuanlan.zhihu.com/p/641894014?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-31】 2023年7月机械键盘选购指南，有哪些值得入手的机械键盘推荐？Tank实测上百把机械键盘帮你 618 挑选适合你的机械键盘。](http://zhuanlan.zhihu.com/p/633381753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-05】 2023年7月机械键盘快速入门及选购推荐（通俗易懂，持续更新）](http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-06-30】 北京有哪些值得一逛的胡同？](http://www.zhihu.com/question/561413213/answer/3096010395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-27】 妙谈一下｜女生不能写恐怖文？这个靠写文买房的美少女不服！](http://zhuanlan.zhihu.com/p/639845583?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-27】 有没有追妻火葬场但破镜没重圆的故事？| 文末含福利](http://zhuanlan.zhihu.com/p/639633753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-26】 夏日出游，推荐几个适合自驾的目的地，你觉得推荐的理由是什么？](http://www.zhihu.com/question/606531092/answer/3073082401?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-25】 磷酸铁锂电池穿刺安全性好于三元锂，那为什么还是有自燃的案例出现？难点在哪里？有没有更安全的电池替代？](http://www.zhihu.com/question/604277906/answer/3078266356?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-25】 自动驾驶车辆应采取那些信息安全防御机制，来防止关键数据被非授权删改，保障自动驾驶车辆安全？](http://www.zhihu.com/question/604194379/answer/3070415630?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-07 05:12:51
+:alarm_clock: 更新时间: 2023-07-08 05:12:11
