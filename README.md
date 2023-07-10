@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-07-10】 新手怎么做笔记？这是我的思路和实操指南](https://sspai.com/post/80457)
+* [【2023-07-10】 派早报：知乎宣布下线匿名功能；中汽协删除车企承诺书中不当表述](https://sspai.com/post/80979)
+* [【2023-07-09】 坚持「反直觉」手写，我找到了数字时代的「良药」](https://sspai.com/post/80887)
 * [【2023-07-08】 代码世界的试验田和游乐场：在线开发环境对比与推荐](https://sspai.com/prime/story/online-codespaces-compared)
 * [【2023-07-08】 从泳池到湖泊，我从游泳中学到了什么](https://sspai.com/post/80869)
 * [【2023-07-07】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/80914)
@@ -42,9 +45,6 @@
 * [【2023-07-07】 想写就写，灵思无疆：用自动化部署让写作更得心应手](https://sspai.com/post/80741)
 * [【2023-07-07】 派早报：Meta 推出 Twitter 竞品应用 Threads、Sony 推出便携式影院扬声器系统 HT-AX7](https://sspai.com/post/80897)
 * [【2023-07-06】 从 Nexus 7 到 Pixel Tablet：华盖之下的生态顽疾](https://sspai.com/prime/story/vintage-tech-stories-google-tablets)
-* [【2023-07-06】 新玩意 152｜少数派的编辑们最近买了啥？](https://sspai.com/post/80882)
-* [【2023-07-06】 一场关于充电器的美学创新：Anker 三合一磁力魔方](https://sspai.com/post/80724)
-* [【2023-07-06】 抗拒生活的赛博化，照顾我身体里的原始人](https://sspai.com/post/80216)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-09 05:12:25
+:alarm_clock: 更新时间: 2023-07-10 05:13:14

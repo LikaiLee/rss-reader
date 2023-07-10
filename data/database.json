@@ -493,6 +493,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新手怎么做笔记？这是我的思路和实操指南",
+                "link": "https://sspai.com/post/80457",
+                "published": "2023-07-10"
+            },
+            {
+                "title": "派早报：知乎宣布下线匿名功能；中汽协删除车企承诺书中不当表述",
+                "link": "https://sspai.com/post/80979",
+                "published": "2023-07-10"
+            },
+            {
+                "title": "坚持「反直觉」手写，我找到了数字时代的「良药」",
+                "link": "https://sspai.com/post/80887",
+                "published": "2023-07-09"
+            },
+            {
                 "title": "代码世界的试验田和游乐场：在线开发环境对比与推荐",
                 "link": "https://sspai.com/prime/story/online-codespaces-compared",
                 "published": "2023-07-08"
@@ -13483,7 +13498,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
