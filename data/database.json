@@ -493,6 +493,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Handraw：支持中文手写效果的白板绘图工具",
+                "link": "https://sspai.com/post/80459",
+                "published": "2023-07-11"
+            },
+            {
+                "title": "派早报：Threads 用户量超一亿，网信办发布关于加强「自媒体」管理的通知等",
+                "link": "https://sspai.com/post/81037",
+                "published": "2023-07-11"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/81006",
+                "published": "2023-07-10"
+            },
+            {
+                "title": "上车聊聊 | 混动或许是过渡产品，但它仍是最适合我的选择——领克 01emf",
+                "link": "https://sspai.com/post/80902",
+                "published": "2023-07-10"
+            },
+            {
+                "title": "老牌剪贴板历史管理工具大更新，聊聊我眼中的 Paste 4.0",
+                "link": "https://sspai.com/post/80993",
+                "published": "2023-07-10"
+            },
+            {
                 "title": "新手怎么做笔记？这是我的思路和实操指南",
                 "link": "https://sspai.com/post/80457",
                 "published": "2023-07-10"
@@ -13498,7 +13523,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -43954,6 +43979,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2023年7月显卡购买推荐及攻略（每月更新）",
+                "link": "http://zhuanlan.zhihu.com/p/632910441?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-05-30"
+            },
+            {
                 "title": "华为云提出盘古气象大模型：中长期气象预报精度首次超过传统数值方法，速度提升10000倍以上",
                 "link": "http://zhuanlan.zhihu.com/p/582285853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-07-07"
@@ -51559,7 +51589,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
