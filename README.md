@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-12】 让人爱不释手的笔记工具：Bear 2 重磅更新](https://sspai.com/post/80871)
+* [【2023-07-11】 派早报：Nothing Phone (2) 发布、Apple Store 微信小程序上线等](https://sspai.com/post/81058)
+* [【2023-07-11】 新作发布 | 成为全域调教高手，让会用 ChatGPT 的人先进入未来](https://sspai.com/post/81052)
+* [【2023-07-11】 社区速递 003：季度作者公布、一派热议以及作者的新玩意](https://sspai.com/post/81041)
+* [【2023-07-11】 想重新定义「按下键盘」的磁轴，是如何死而复生成为键圈新宠的？](https://sspai.com/post/80940)
 * [【2023-07-11】 Handraw：支持中文手写效果的白板绘图工具](https://sspai.com/post/80459)
 * [【2023-07-11】 派早报：Threads 用户量超一亿，网信办发布关于加强「自媒体」管理的通知等](https://sspai.com/post/81037)
 * [【2023-07-10】 派评 | 近期值得关注的 App](https://sspai.com/post/81006)
 * [【2023-07-10】 上车聊聊 | 混动或许是过渡产品，但它仍是最适合我的选择——领克 01emf](https://sspai.com/post/80902)
 * [【2023-07-10】 老牌剪贴板历史管理工具大更新，聊聊我眼中的 Paste 4.0](https://sspai.com/post/80993)
-* [【2023-07-10】 新手怎么做笔记？这是我的思路和实操指南](https://sspai.com/post/80457)
-* [【2023-07-10】 派早报：知乎宣布下线匿名功能；中汽协删除车企承诺书中不当表述](https://sspai.com/post/80979)
-* [【2023-07-09】 坚持「反直觉」手写，我找到了数字时代的「良药」](https://sspai.com/post/80887)
-* [【2023-07-08】 代码世界的试验田和游乐场：在线开发环境对比与推荐](https://sspai.com/prime/story/online-codespaces-compared)
-* [【2023-07-08】 从泳池到湖泊，我从游泳中学到了什么](https://sspai.com/post/80869)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-11 05:12:41
+:alarm_clock: 更新时间: 2023-07-12 05:12:52
