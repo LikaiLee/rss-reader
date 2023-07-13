@@ -493,6 +493,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "iOS / iPadOS 17 Public Beta 公测版来了：升降级指南 & 注意事项",
+                "link": "https://sspai.com/post/81094",
+                "published": "2023-07-13"
+            },
+            {
+                "title": "派早报：Apple 推出返校季促销活动、Anthropic 推出 Claude 2.0 等",
+                "link": "https://sspai.com/post/81093",
+                "published": "2023-07-13"
+            },
+            {
+                "title": "选对开源软件，从做好「背景调查」开始",
+                "link": "https://sspai.com/prime/story/foss-how-to-select",
+                "published": "2023-07-12"
+            },
+            {
+                "title": "家用咖啡手册 09 | 作为咖啡师，我会如何设计家庭咖啡角？",
+                "link": "https://sspai.com/post/80948",
+                "published": "2023-07-12"
+            },
+            {
+                "title": "Scouter：我开发了一款浏览器插件，帮你在实践中进行语言学习",
+                "link": "https://sspai.com/post/80529",
+                "published": "2023-07-12"
+            },
+            {
                 "title": "让人爱不释手的笔记工具：Bear 2 重磅更新",
                 "link": "https://sspai.com/post/80871",
                 "published": "2023-07-12"
@@ -44004,6 +44029,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "喜羊羊与灰太狼之遨游神秘洋 文章归档1-30集",
+                "link": "http://zhuanlan.zhihu.com/p/643211512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-13"
+            },
+            {
                 "title": "2023年7月显卡购买推荐及攻略（每月更新）",
                 "link": "http://zhuanlan.zhihu.com/p/632910441?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-05-30"
@@ -51614,7 +51644,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

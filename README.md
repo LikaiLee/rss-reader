@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-13】 iOS / iPadOS 17 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/81094)
+* [【2023-07-13】 派早报：Apple 推出返校季促销活动、Anthropic 推出 Claude 2.0 等](https://sspai.com/post/81093)
+* [【2023-07-12】 选对开源软件，从做好「背景调查」开始](https://sspai.com/prime/story/foss-how-to-select)
+* [【2023-07-12】 家用咖啡手册 09 | 作为咖啡师，我会如何设计家庭咖啡角？](https://sspai.com/post/80948)
+* [【2023-07-12】 Scouter：我开发了一款浏览器插件，帮你在实践中进行语言学习](https://sspai.com/post/80529)
 * [【2023-07-12】 让人爱不释手的笔记工具：Bear 2 重磅更新](https://sspai.com/post/80871)
 * [【2023-07-11】 派早报：Nothing Phone (2) 发布、Apple Store 微信小程序上线等](https://sspai.com/post/81058)
 * [【2023-07-11】 新作发布 | 成为全域调教高手，让会用 ChatGPT 的人先进入未来](https://sspai.com/post/81052)
 * [【2023-07-11】 社区速递 003：季度作者公布、一派热议以及作者的新玩意](https://sspai.com/post/81041)
 * [【2023-07-11】 想重新定义「按下键盘」的磁轴，是如何死而复生成为键圈新宠的？](https://sspai.com/post/80940)
-* [【2023-07-11】 Handraw：支持中文手写效果的白板绘图工具](https://sspai.com/post/80459)
-* [【2023-07-11】 派早报：Threads 用户量超一亿，网信办发布关于加强「自媒体」管理的通知等](https://sspai.com/post/81037)
-* [【2023-07-10】 派评 | 近期值得关注的 App](https://sspai.com/post/81006)
-* [【2023-07-10】 上车聊聊 | 混动或许是过渡产品，但它仍是最适合我的选择——领克 01emf](https://sspai.com/post/80902)
-* [【2023-07-10】 老牌剪贴板历史管理工具大更新，聊聊我眼中的 Paste 4.0](https://sspai.com/post/80993)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-07-13】 喜羊羊与灰太狼之遨游神秘洋 文章归档1-30集](http://zhuanlan.zhihu.com/p/643211512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-30】 2023年7月显卡购买推荐及攻略（每月更新）](http://zhuanlan.zhihu.com/p/632910441?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-07】 华为云提出盘古气象大模型：中长期气象预报精度首次超过传统数值方法，速度提升10000倍以上](http://zhuanlan.zhihu.com/p/582285853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-07】 登上Nature正刊、欧洲气象中心背书、轻量级方案发布：盘古气象大模型后续进展综述](http://zhuanlan.zhihu.com/p/641851617?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-06-05】 2023年7月机械键盘快速入门及选购推荐（通俗易懂，持续更新）](http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-30】 2023年7月，2000元高性价比手机推荐定时更新（红米K60/E、12Turbo、真我GTNeo5/SE、一加 Ace2/V、iQOONeo8、荣耀80/90、vivoS17、OPPOReno10）](http://zhuanlan.zhihu.com/p/361979460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-06-30】 北京有哪些值得一逛的胡同？](http://www.zhihu.com/question/561413213/answer/3096010395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-27】 妙谈一下｜女生不能写恐怖文？这个靠写文买房的美少女不服！](http://zhuanlan.zhihu.com/p/639845583?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-12 05:12:52
+:alarm_clock: 更新时间: 2023-07-13 05:13:24
