@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-07-14】 科技爱好者周刊（第 262 期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)
 * [【2023-07-07】 科技爱好者周刊（第 261 期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)
 * [【2023-06-30】 科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)
 * [【2023-06-16】 科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)
@@ -25,7 +26,6 @@
 * [【2023-05-19】 科技爱好者周刊（第 255 期）：对待 AI 的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html)
 * [【2023-05-12】 科技爱好者周刊（第 254 期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)
 * [【2023-05-05】 科技爱好者周刊（第 253 期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)
-* [【2023-04-28】 科技爱好者周刊（第 252 期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-14】 除了回忆，2023 年了 iPod 还能带给我们什么？](https://sspai.com/post/81114)
+* [【2023-07-14】 派早报：Adobe 扩大生成式 AI Firefly 的测试规模、GitHub 测试支持通行密钥](https://sspai.com/post/81135)
+* [【2023-07-13】 新玩意 153｜少数派的编辑们最近买了啥？](https://sspai.com/post/81118)
+* [【2023-07-13】 买 Mac / iPad 都有送：Apple 新学期优惠活动开始了](https://sspai.com/post/81075)
+* [【2023-07-13】 iOS 17 Public Beta 公测版来了，有哪些新功能值得尝鲜？](https://sspai.com/post/81098)
+* [【2023-07-13】 炎炎夏日，派商店为你准备了这些降温解暑之选](https://sspai.com/post/81068)
 * [【2023-07-13】 iOS / iPadOS 17 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/81094)
 * [【2023-07-13】 派早报：Apple 推出返校季促销活动、Anthropic 推出 Claude 2.0 等](https://sspai.com/post/81093)
 * [【2023-07-12】 选对开源软件，从做好「背景调查」开始](https://sspai.com/prime/story/foss-how-to-select)
 * [【2023-07-12】 家用咖啡手册 09 | 作为咖啡师，我会如何设计家庭咖啡角？](https://sspai.com/post/80948)
-* [【2023-07-12】 Scouter：我开发了一款浏览器插件，帮你在实践中进行语言学习](https://sspai.com/post/80529)
-* [【2023-07-12】 让人爱不释手的笔记工具：Bear 2 重磅更新](https://sspai.com/post/80871)
-* [【2023-07-11】 派早报：Nothing Phone (2) 发布、Apple Store 微信小程序上线等](https://sspai.com/post/81058)
-* [【2023-07-11】 新作发布 | 成为全域调教高手，让会用 ChatGPT 的人先进入未来](https://sspai.com/post/81052)
-* [【2023-07-11】 社区速递 003：季度作者公布、一派热议以及作者的新玩意](https://sspai.com/post/81041)
-* [【2023-07-11】 想重新定义「按下键盘」的磁轴，是如何死而复生成为键圈新宠的？](https://sspai.com/post/80940)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-13 05:13:24
+:alarm_clock: 更新时间: 2023-07-14 05:12:37

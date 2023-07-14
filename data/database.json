@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 262 期）：告别密码",
+                "link": "http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html",
+                "published": "2023-07-14"
+            },
+            {
                 "title": "科技爱好者周刊（第 261 期）：黑客马拉松的正确方式",
                 "link": "http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html",
                 "published": "2023-07-07"
@@ -485,13 +490,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "除了回忆，2023 年了 iPod 还能带给我们什么？",
+                "link": "https://sspai.com/post/81114",
+                "published": "2023-07-14"
+            },
+            {
+                "title": "派早报：Adobe 扩大生成式 AI Firefly 的测试规模、GitHub 测试支持通行密钥",
+                "link": "https://sspai.com/post/81135",
+                "published": "2023-07-14"
+            },
+            {
+                "title": "新玩意 153｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/81118",
+                "published": "2023-07-13"
+            },
+            {
+                "title": "买 Mac / iPad 都有送：Apple 新学期优惠活动开始了",
+                "link": "https://sspai.com/post/81075",
+                "published": "2023-07-13"
+            },
+            {
+                "title": "iOS 17 Public Beta 公测版来了，有哪些新功能值得尝鲜？",
+                "link": "https://sspai.com/post/81098",
+                "published": "2023-07-13"
+            },
+            {
+                "title": "炎炎夏日，派商店为你准备了这些降温解暑之选",
+                "link": "https://sspai.com/post/81068",
+                "published": "2023-07-13"
+            },
             {
                 "title": "iOS / iPadOS 17 Public Beta 公测版来了：升降级指南 & 注意事项",
                 "link": "https://sspai.com/post/81094",
@@ -13573,7 +13608,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -51644,7 +51679,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
