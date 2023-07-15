@@ -490,13 +490,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "找不到好歌尝鲜？来试试金曲 34 中这些值得一听的专辑",
+                "link": "https://sspai.com/post/81158",
+                "published": "2023-07-15"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/81160",
+                "published": "2023-07-14"
+            },
+            {
+                "title": "OpenAI「打死都不说」的 GPT-4 训练细节被传出，这是我的解读",
+                "link": "https://sspai.com/post/81091",
+                "published": "2023-07-14"
+            },
+            {
+                "title": "iPadOS 17 公开测试版来了，升级以后可以试试这些新功能",
+                "link": "https://sspai.com/post/81139",
+                "published": "2023-07-14"
+            },
             {
                 "title": "除了回忆，2023 年了 iPod 还能带给我们什么？",
                 "link": "https://sspai.com/post/81114",
@@ -13608,7 +13628,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,

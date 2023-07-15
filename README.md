@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-15】 找不到好歌尝鲜？来试试金曲 34 中这些值得一听的专辑](https://sspai.com/post/81158)
+* [【2023-07-14】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/81160)
+* [【2023-07-14】 OpenAI「打死都不说」的 GPT-4 训练细节被传出，这是我的解读](https://sspai.com/post/81091)
+* [【2023-07-14】 iPadOS 17 公开测试版来了，升级以后可以试试这些新功能](https://sspai.com/post/81139)
 * [【2023-07-14】 除了回忆，2023 年了 iPod 还能带给我们什么？](https://sspai.com/post/81114)
 * [【2023-07-14】 派早报：Adobe 扩大生成式 AI Firefly 的测试规模、GitHub 测试支持通行密钥](https://sspai.com/post/81135)
 * [【2023-07-13】 新玩意 153｜少数派的编辑们最近买了啥？](https://sspai.com/post/81118)
 * [【2023-07-13】 买 Mac / iPad 都有送：Apple 新学期优惠活动开始了](https://sspai.com/post/81075)
 * [【2023-07-13】 iOS 17 Public Beta 公测版来了，有哪些新功能值得尝鲜？](https://sspai.com/post/81098)
 * [【2023-07-13】 炎炎夏日，派商店为你准备了这些降温解暑之选](https://sspai.com/post/81068)
-* [【2023-07-13】 iOS / iPadOS 17 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/81094)
-* [【2023-07-13】 派早报：Apple 推出返校季促销活动、Anthropic 推出 Claude 2.0 等](https://sspai.com/post/81093)
-* [【2023-07-12】 选对开源软件，从做好「背景调查」开始](https://sspai.com/prime/story/foss-how-to-select)
-* [【2023-07-12】 家用咖啡手册 09 | 作为咖啡师，我会如何设计家庭咖啡角？](https://sspai.com/post/80948)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-14 05:12:37
+:alarm_clock: 更新时间: 2023-07-15 05:12:23
