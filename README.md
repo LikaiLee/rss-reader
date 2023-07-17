@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-17】 尊重字体版权，我整理了一个免费商用字体库](https://sspai.com/post/80926)
+* [【2023-07-17】 派早报：Office 更换默认字体，微软收购动视暴雪可能接近完成](https://sspai.com/post/81205)
+* [【2023-07-16】 花点时间，走在趋势之前：Blackberry 简史（二）](https://sspai.com/prime/story/vintage-tech-stories-blackberry-2)
+* [【2023-07-16】 macOS Sonoma 推出公开测试版，这些新特性值得一试](https://sspai.com/post/81185)
 * [【2023-07-16】 小米 13 Ultra 影像体验：寻找摄影的快乐](https://sspai.com/post/81076)
 * [【2023-07-15】 谁来管管 Android 的照片选择器](https://sspai.com/prime/story/android-mediastore-explained)
 * [【2023-07-15】 如约而至的更新，少数派定制 Keychron K3 Pro 体验](https://sspai.com/post/81074)
 * [【2023-07-15】 watchOS 10 推出公测版，这些新功能值得尝鲜](https://sspai.com/post/81166)
 * [【2023-07-15】 找不到好歌尝鲜？来试试金曲 34 中这些值得一听的专辑](https://sspai.com/post/81158)
 * [【2023-07-14】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/81160)
-* [【2023-07-14】 OpenAI「打死都不说」的 GPT-4 训练细节被传出，这是我的解读](https://sspai.com/post/81091)
-* [【2023-07-14】 iPadOS 17 公开测试版来了，升级以后可以试试这些新功能](https://sspai.com/post/81139)
-* [【2023-07-14】 除了回忆，2023 年了 iPod 还能带给我们什么？](https://sspai.com/post/81114)
-* [【2023-07-14】 派早报：Adobe 扩大生成式 AI Firefly 的测试规模、GitHub 测试支持通行密钥](https://sspai.com/post/81135)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-16 05:12:54
+:alarm_clock: 更新时间: 2023-07-17 05:13:18
