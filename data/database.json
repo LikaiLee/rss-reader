@@ -498,6 +498,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "界面简洁，功能丰富：Paperlib 如何帮我做好文献管理",
+                "link": "https://sspai.com/post/80998",
+                "published": "2023-07-19"
+            },
+            {
+                "title": "派早报：拜亚动力发布颈挂式蓝牙耳机、 罗技收购 Loupedeck 等",
+                "link": "https://sspai.com/post/81280",
+                "published": "2023-07-19"
+            },
+            {
+                "title": "社区速递 004：毕业去哪玩、工具分享和作者的新玩意",
+                "link": "https://sspai.com/post/81263",
+                "published": "2023-07-18"
+            },
+            {
+                "title": "万字解析 | 深度剖析 GPT 的原理、现状与前景",
+                "link": "https://sspai.com/post/81036",
+                "published": "2023-07-18"
+            },
+            {
+                "title": "新设计、新功能，老牌浏览器大更新：Opera One",
+                "link": "https://sspai.com/post/80970",
+                "published": "2023-07-18"
+            },
+            {
                 "title": "三年级四年级五年级六年级，反正不讲做题",
                 "link": "https://sspai.com/post/81086",
                 "published": "2023-07-18"
@@ -13698,7 +13723,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -44154,6 +44179,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "初入职场，请多关照！",
+                "link": "http://zhuanlan.zhihu.com/p/644075669?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-19"
+            },
+            {
+                "title": "山地车当前牙盘使用单盘且越来越小的趋势，是否为厂商故意营销的消费认知？",
+                "link": "http://www.zhihu.com/question/591800957/answer/2962363216?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-18"
+            },
+            {
+                "title": "一个人要怎么训练才能骑行速度达到均速 40km/h 以上？",
+                "link": "http://www.zhihu.com/question/545919128/answer/2619836925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-18"
+            },
+            {
                 "title": "喜羊羊与灰太狼之遨游神秘洋 文章归档1-30集",
                 "link": "http://zhuanlan.zhihu.com/p/643211512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-07-13"
@@ -51769,7 +51809,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 4,

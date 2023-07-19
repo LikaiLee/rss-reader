@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-19】 界面简洁，功能丰富：Paperlib 如何帮我做好文献管理](https://sspai.com/post/80998)
+* [【2023-07-19】 派早报：拜亚动力发布颈挂式蓝牙耳机、 罗技收购 Loupedeck 等](https://sspai.com/post/81280)
+* [【2023-07-18】 社区速递 004：毕业去哪玩、工具分享和作者的新玩意](https://sspai.com/post/81263)
+* [【2023-07-18】 万字解析 | 深度剖析 GPT 的原理、现状与前景](https://sspai.com/post/81036)
+* [【2023-07-18】 新设计、新功能，老牌浏览器大更新：Opera One](https://sspai.com/post/80970)
 * [【2023-07-18】 三年级四年级五年级六年级，反正不讲做题](https://sspai.com/post/81086)
 * [【2023-07-18】 派早报：微软推出 Xbox Game Pass Core，微信好友上限证实约 1 万个等](https://sspai.com/post/81243)
 * [【2023-07-17】 品牌创意人、摄影师陈川端都装了啥？](https://sspai.com/prime/story/zhuanglesha-230717)
 * [【2023-07-17】 派评 | 近期值得关注的 App](https://sspai.com/post/81231)
 * [【2023-07-17】 了解这些注意点，安心从容享受夏日泳池](https://sspai.com/post/80954)
-* [【2023-07-17】 一次长谈，聊聊关于播客的一切](https://sspai.com/post/81072)
-* [【2023-07-17】 尊重字体版权，我整理了一个免费商用字体库](https://sspai.com/post/80926)
-* [【2023-07-17】 派早报：Office 更换默认字体，微软收购动视暴雪可能接近完成](https://sspai.com/post/81205)
-* [【2023-07-16】 花点时间，走在趋势之前：Blackberry 简史（二）](https://sspai.com/prime/story/vintage-tech-stories-blackberry-2)
-* [【2023-07-16】 macOS Sonoma 推出公开测试版，这些新特性值得一试](https://sspai.com/post/81185)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-07-19】 初入职场，请多关照！](http://zhuanlan.zhihu.com/p/644075669?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-18】 山地车当前牙盘使用单盘且越来越小的趋势，是否为厂商故意营销的消费认知？](http://www.zhihu.com/question/591800957/answer/2962363216?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-18】 一个人要怎么训练才能骑行速度达到均速 40km/h 以上？](http://www.zhihu.com/question/545919128/answer/2619836925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-13】 喜羊羊与灰太狼之遨游神秘洋 文章归档1-30集](http://zhuanlan.zhihu.com/p/643211512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-30】 2023年7月显卡购买推荐及攻略（每月更新）](http://zhuanlan.zhihu.com/p/632910441?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-07】 华为云提出盘古气象大模型：中长期气象预报精度首次超过传统数值方法，速度提升10000倍以上](http://zhuanlan.zhihu.com/p/582285853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-07-07】 Profile8.1才是最佳？一篇文章搞懂所有杜比视界格式](http://zhuanlan.zhihu.com/p/642041260?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-06】 谁动了我的显存？——深度学习训练过程显存占用分析及优化](http://zhuanlan.zhihu.com/p/641894014?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-31】 2023年7月机械键盘选购指南，有哪些值得入手的机械键盘推荐？Tank实测上百把机械键盘帮你 618 挑选适合你的机械键盘。](http://zhuanlan.zhihu.com/p/633381753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-05】 2023年7月机械键盘快速入门及选购推荐（通俗易懂，持续更新）](http://zhuanlan.zhihu.com/p/634433681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-30】 2023年7月，2000元高性价比手机推荐定时更新（红米K60/E、12Turbo、真我GTNeo5/SE、一加 Ace2/V、iQOONeo8、荣耀80/90、vivoS17、OPPOReno10）](http://zhuanlan.zhihu.com/p/361979460?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-06-30】 北京有哪些值得一逛的胡同？](http://www.zhihu.com/question/561413213/answer/3096010395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-18 05:11:58
+:alarm_clock: 更新时间: 2023-07-19 05:11:42
