@@ -498,6 +498,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "用这篇景点和美食攻略，为记忆中的土耳其生活作结",
+                "link": "https://sspai.com/post/81040",
+                "published": "2023-07-20"
+            },
+            {
+                "title": "派早报：群晖发布两款 NAS 新品、工信部将重点整治欺骗误导下载等问题",
+                "link": "https://sspai.com/post/81312",
+                "published": "2023-07-20"
+            },
+            {
+                "title": "更开放的降噪旗舰耳机：Beats Studio Pro 佩戴体验",
+                "link": "https://sspai.com/post/81293",
+                "published": "2023-07-19"
+            },
+            {
+                "title": "为了让旅行少一些记账的痛苦，我自己动手做了一款 app：Numpkin",
+                "link": "https://sspai.com/post/80961",
+                "published": "2023-07-19"
+            },
+            {
+                "title": "家的日志 | 工欲善其事，必先利其器：我的家庭网络组网方案",
+                "link": "https://sspai.com/post/81073",
+                "published": "2023-07-19"
+            },
+            {
                 "title": "界面简洁，功能丰富：Paperlib 如何帮我做好文献管理",
                 "link": "https://sspai.com/post/80998",
                 "published": "2023-07-19"
@@ -44179,6 +44204,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "国产三无软尾诞生记",
+                "link": "http://zhuanlan.zhihu.com/p/580901767?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-20"
+            },
+            {
+                "title": "如何评价《封神第一部》重建中国电影工业化体系？",
+                "link": "http://www.zhihu.com/question/612906040/answer/3125991677?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-19"
+            },
+            {
                 "title": "初入职场，请多关照！",
                 "link": "http://zhuanlan.zhihu.com/p/644075669?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-07-19"
@@ -51809,7 +51844,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 4,
