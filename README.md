@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+2】
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-07-21】 科技爱好者周刊（第 263 期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)
 * [【2023-07-14】 科技爱好者周刊（第 262 期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)
 * [【2023-07-07】 科技爱好者周刊（第 261 期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)
 * [【2023-06-30】 科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)
@@ -25,7 +26,6 @@
 * [【2023-05-26】 科技爱好者周刊（第 256 期）：最酷的乐高作品](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html)
 * [【2023-05-19】 科技爱好者周刊（第 255 期）：对待 AI 的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html)
 * [【2023-05-12】 科技爱好者周刊（第 254 期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)
-* [【2023-05-05】 科技爱好者周刊（第 253 期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-21】 如何用 AI 帮你做 PPT？](https://sspai.com/post/81124)
+* [【2023-07-21】 派早报：Unity 发布 PolySpatial 测试版、暴雪旗下游戏将登陆 Steam 等](https://sspai.com/post/81340)
+* [【2023-07-20】 新玩意 154｜少数派的编辑们最近买了啥？](https://sspai.com/post/81329)
+* [【2023-07-20】 一日一技 | 绕过 iOS 和 iPadOS 的系统 bug 设置农历生日](https://sspai.com/post/81239)
+* [【2023-07-20】 生产力祛魅：一位社科工作者的知识工作流](https://sspai.com/post/80962)
 * [【2023-07-20】 用这篇景点和美食攻略，为记忆中的土耳其生活作结](https://sspai.com/post/81040)
 * [【2023-07-20】 派早报：群晖发布两款 NAS 新品、工信部将重点整治欺骗误导下载等问题](https://sspai.com/post/81312)
 * [【2023-07-19】 更开放的降噪旗舰耳机：Beats Studio Pro 佩戴体验](https://sspai.com/post/81293)
 * [【2023-07-19】 为了让旅行少一些记账的痛苦，我自己动手做了一款 app：Numpkin](https://sspai.com/post/80961)
 * [【2023-07-19】 家的日志 | 工欲善其事，必先利其器：我的家庭网络组网方案](https://sspai.com/post/81073)
-* [【2023-07-19】 界面简洁，功能丰富：Paperlib 如何帮我做好文献管理](https://sspai.com/post/80998)
-* [【2023-07-19】 派早报：拜亚动力发布颈挂式蓝牙耳机、 罗技收购 Loupedeck 等](https://sspai.com/post/81280)
-* [【2023-07-18】 社区速递 004：毕业去哪玩、工具分享和作者的新玩意](https://sspai.com/post/81263)
-* [【2023-07-18】 万字解析 | 深度剖析 GPT 的原理、现状与前景](https://sspai.com/post/81036)
-* [【2023-07-18】 新设计、新功能，老牌浏览器大更新：Opera One](https://sspai.com/post/80970)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-07-20】 如何使用 Embedding 提升回答质量？](http://zhuanlan.zhihu.com/p/609359999?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-20】 《封神第一部》中有哪些看似不经意但很重要的细节?](http://www.zhihu.com/question/612331393/answer/3126990581?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-20】 国产三无软尾诞生记](http://zhuanlan.zhihu.com/p/580901767?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-19】 如何评价《封神第一部》重建中国电影工业化体系？](http://www.zhihu.com/question/612906040/answer/3125991677?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-19】 初入职场，请多关照！](http://zhuanlan.zhihu.com/p/644075669?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-07-13】 喜羊羊与灰太狼之遨游神秘洋 文章归档1-30集](http://zhuanlan.zhihu.com/p/643211512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-30】 2023年7月显卡购买推荐及攻略（每月更新）](http://zhuanlan.zhihu.com/p/632910441?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-07】 华为云提出盘古气象大模型：中长期气象预报精度首次超过传统数值方法，速度提升10000倍以上](http://zhuanlan.zhihu.com/p/582285853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-07】 登上Nature正刊、欧洲气象中心背书、轻量级方案发布：盘古气象大模型后续进展综述](http://zhuanlan.zhihu.com/p/641851617?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-07】 Profile8.1才是最佳？一篇文章搞懂所有杜比视界格式](http://zhuanlan.zhihu.com/p/642041260?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-20 05:11:30
+:alarm_clock: 更新时间: 2023-07-21 05:11:23
