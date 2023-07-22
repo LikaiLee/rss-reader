@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-22】 播客 | 等一朵花开：独立女性创业故事](https://sspai.com/post/81318)
+* [【2023-07-21】 Cocoa 文本组合键：macOS 中隐藏的 Emacs 情怀](https://sspai.com/prime/story/cocoa-text-keybindings)
+* [【2023-07-21】 本周看什么 | 最近值得一看的一大铲作品](https://sspai.com/post/81361)
+* [【2023-07-21】 寻找一种真实：音乐模拟介质小史](https://sspai.com/post/81162)
 * [【2023-07-21】 如何用 AI 帮你做 PPT？](https://sspai.com/post/81124)
 * [【2023-07-21】 派早报：Unity 发布 PolySpatial 测试版、暴雪旗下游戏将登陆 Steam 等](https://sspai.com/post/81340)
 * [【2023-07-20】 新玩意 154｜少数派的编辑们最近买了啥？](https://sspai.com/post/81329)
 * [【2023-07-20】 一日一技 | 绕过 iOS 和 iPadOS 的系统 bug 设置农历生日](https://sspai.com/post/81239)
 * [【2023-07-20】 生产力祛魅：一位社科工作者的知识工作流](https://sspai.com/post/80962)
 * [【2023-07-20】 用这篇景点和美食攻略，为记忆中的土耳其生活作结](https://sspai.com/post/81040)
-* [【2023-07-20】 派早报：群晖发布两款 NAS 新品、工信部将重点整治欺骗误导下载等问题](https://sspai.com/post/81312)
-* [【2023-07-19】 更开放的降噪旗舰耳机：Beats Studio Pro 佩戴体验](https://sspai.com/post/81293)
-* [【2023-07-19】 为了让旅行少一些记账的痛苦，我自己动手做了一款 app：Numpkin](https://sspai.com/post/80961)
-* [【2023-07-19】 家的日志 | 工欲善其事，必先利其器：我的家庭网络组网方案](https://sspai.com/post/81073)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-07-21】 大模型高效训练的关键技术｜AI 盐沙龙](http://zhuanlan.zhihu.com/p/645135051?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-20】 如何使用 Embedding 提升回答质量？](http://zhuanlan.zhihu.com/p/609359999?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-20】 《封神第一部》中有哪些看似不经意但很重要的细节?](http://www.zhihu.com/question/612331393/answer/3126990581?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-20】 国产三无软尾诞生记](http://zhuanlan.zhihu.com/p/580901767?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-07-18】 一个人要怎么训练才能骑行速度达到均速 40km/h 以上？](http://www.zhihu.com/question/545919128/answer/2619836925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-13】 喜羊羊与灰太狼之遨游神秘洋 文章归档1-30集](http://zhuanlan.zhihu.com/p/643211512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-05-30】 2023年7月显卡购买推荐及攻略（每月更新）](http://zhuanlan.zhihu.com/p/632910441?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-07】 华为云提出盘古气象大模型：中长期气象预报精度首次超过传统数值方法，速度提升10000倍以上](http://zhuanlan.zhihu.com/p/582285853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-21 05:11:23
+:alarm_clock: 更新时间: 2023-07-22 05:10:37

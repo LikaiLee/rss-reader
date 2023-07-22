@@ -495,13 +495,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "播客 | 等一朵花开：独立女性创业故事",
+                "link": "https://sspai.com/post/81318",
+                "published": "2023-07-22"
+            },
+            {
+                "title": "Cocoa 文本组合键：macOS 中隐藏的 Emacs 情怀",
+                "link": "https://sspai.com/prime/story/cocoa-text-keybindings",
+                "published": "2023-07-21"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大铲作品",
+                "link": "https://sspai.com/post/81361",
+                "published": "2023-07-21"
+            },
+            {
+                "title": "寻找一种真实：音乐模拟介质小史",
+                "link": "https://sspai.com/post/81162",
+                "published": "2023-07-21"
+            },
             {
                 "title": "如何用 AI 帮你做 PPT？",
                 "link": "https://sspai.com/post/81124",
@@ -13778,7 +13798,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -44234,6 +44254,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "大模型高效训练的关键技术｜AI 盐沙龙",
+                "link": "http://zhuanlan.zhihu.com/p/645135051?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-21"
+            },
+            {
                 "title": "如何使用 Embedding 提升回答质量？",
                 "link": "http://zhuanlan.zhihu.com/p/609359999?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-07-20"
@@ -51884,7 +51909,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,
