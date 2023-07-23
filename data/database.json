@@ -503,6 +503,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "和《纸鹤》一起，成为 XR 世界的原住民",
+                "link": "https://sspai.com/post/81244",
+                "published": "2023-07-22"
+            },
+            {
                 "title": "播客 | 等一朵花开：独立女性创业故事",
                 "link": "https://sspai.com/post/81318",
                 "published": "2023-07-22"
@@ -13798,7 +13803,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -51909,7 +51914,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

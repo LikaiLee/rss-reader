@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-07-22】 和《纸鹤》一起，成为 XR 世界的原住民](https://sspai.com/post/81244)
 * [【2023-07-22】 播客 | 等一朵花开：独立女性创业故事](https://sspai.com/post/81318)
 * [【2023-07-21】 Cocoa 文本组合键：macOS 中隐藏的 Emacs 情怀](https://sspai.com/prime/story/cocoa-text-keybindings)
 * [【2023-07-21】 本周看什么 | 最近值得一看的一大铲作品](https://sspai.com/post/81361)
@@ -44,7 +45,6 @@
 * [【2023-07-20】 新玩意 154｜少数派的编辑们最近买了啥？](https://sspai.com/post/81329)
 * [【2023-07-20】 一日一技 | 绕过 iOS 和 iPadOS 的系统 bug 设置农历生日](https://sspai.com/post/81239)
 * [【2023-07-20】 生产力祛魅：一位社科工作者的知识工作流](https://sspai.com/post/80962)
-* [【2023-07-20】 用这篇景点和美食攻略，为记忆中的土耳其生活作结](https://sspai.com/post/81040)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-22 05:10:37
+:alarm_clock: 更新时间: 2023-07-23 05:10:54
