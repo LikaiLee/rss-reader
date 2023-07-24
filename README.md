@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-24】 看似完美的电纸书是不存在的：聊聊我的 Kindle 与 Kobo 使用心得](https://sspai.com/post/81210)
+* [【2023-07-24】 派早报：微信支付宝开放绑定境外卡；上海暂停新办网约车运输证](https://sspai.com/post/81422)
+* [【2023-07-23】 本月玩什么 | Viewfinder、OXENFREE II、薇妮巴一家、小小贴纸铺、三伏](https://sspai.com/post/81410)
+* [【2023-07-23】 心灵之旅：三年跑步 2000 公里，这是我的感悟与思考](https://sspai.com/post/81288)
 * [【2023-07-22】 和《纸鹤》一起，成为 XR 世界的原住民](https://sspai.com/post/81244)
 * [【2023-07-22】 播客 | 等一朵花开：独立女性创业故事](https://sspai.com/post/81318)
 * [【2023-07-21】 Cocoa 文本组合键：macOS 中隐藏的 Emacs 情怀](https://sspai.com/prime/story/cocoa-text-keybindings)
 * [【2023-07-21】 本周看什么 | 最近值得一看的一大铲作品](https://sspai.com/post/81361)
 * [【2023-07-21】 寻找一种真实：音乐模拟介质小史](https://sspai.com/post/81162)
 * [【2023-07-21】 如何用 AI 帮你做 PPT？](https://sspai.com/post/81124)
-* [【2023-07-21】 派早报：Unity 发布 PolySpatial 测试版、暴雪旗下游戏将登陆 Steam 等](https://sspai.com/post/81340)
-* [【2023-07-20】 新玩意 154｜少数派的编辑们最近买了啥？](https://sspai.com/post/81329)
-* [【2023-07-20】 一日一技 | 绕过 iOS 和 iPadOS 的系统 bug 设置农历生日](https://sspai.com/post/81239)
-* [【2023-07-20】 生产力祛魅：一位社科工作者的知识工作流](https://sspai.com/post/80962)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-23 05:10:54
+:alarm_clock: 更新时间: 2023-07-24 05:11:40
