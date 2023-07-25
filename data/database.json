@@ -503,6 +503,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "通用状态监控通知脚本，订阅状态通知",
+                "link": "https://sspai.com/post/81269",
+                "published": "2023-07-25"
+            },
+            {
+                "title": "派早报：Twitter 更改 logo，任天堂将严惩不当使用账号行为等",
+                "link": "https://sspai.com/post/81453",
+                "published": "2023-07-25"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/81442",
+                "published": "2023-07-24"
+            },
+            {
+                "title": "突然，我想用这张桌子听歌了",
+                "link": "https://sspai.com/post/81419",
+                "published": "2023-07-24"
+            },
+            {
+                "title": "高难度开局的求职之路如何步步拆解：我的回顾与复盘",
+                "link": "https://sspai.com/post/81429",
+                "published": "2023-07-24"
+            },
+            {
                 "title": "看似完美的电纸书是不存在的：聊聊我的 Kindle 与 Kobo 使用心得",
                 "link": "https://sspai.com/post/81210",
                 "published": "2023-07-24"
@@ -13823,7 +13848,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -44279,6 +44304,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "妙谈一下｜00 后女生是男频惊悚扛把子，半年稿费 40 万！",
+                "link": "http://zhuanlan.zhihu.com/p/645621474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-24"
+            },
+            {
                 "title": "大模型高效训练的关键技术｜AI 盐沙龙",
                 "link": "http://zhuanlan.zhihu.com/p/645135051?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-07-21"
@@ -51934,7 +51964,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

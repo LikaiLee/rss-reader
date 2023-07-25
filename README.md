@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-25】 通用状态监控通知脚本，订阅状态通知](https://sspai.com/post/81269)
+* [【2023-07-25】 派早报：Twitter 更改 logo，任天堂将严惩不当使用账号行为等](https://sspai.com/post/81453)
+* [【2023-07-24】 派评 | 近期值得关注的 App](https://sspai.com/post/81442)
+* [【2023-07-24】 突然，我想用这张桌子听歌了](https://sspai.com/post/81419)
+* [【2023-07-24】 高难度开局的求职之路如何步步拆解：我的回顾与复盘](https://sspai.com/post/81429)
 * [【2023-07-24】 看似完美的电纸书是不存在的：聊聊我的 Kindle 与 Kobo 使用心得](https://sspai.com/post/81210)
 * [【2023-07-24】 派早报：微信支付宝开放绑定境外卡；上海暂停新办网约车运输证](https://sspai.com/post/81422)
 * [【2023-07-23】 本月玩什么 | Viewfinder、OXENFREE II、薇妮巴一家、小小贴纸铺、三伏](https://sspai.com/post/81410)
 * [【2023-07-23】 心灵之旅：三年跑步 2000 公里，这是我的感悟与思考](https://sspai.com/post/81288)
 * [【2023-07-22】 和《纸鹤》一起，成为 XR 世界的原住民](https://sspai.com/post/81244)
-* [【2023-07-22】 播客 | 等一朵花开：独立女性创业故事](https://sspai.com/post/81318)
-* [【2023-07-21】 Cocoa 文本组合键：macOS 中隐藏的 Emacs 情怀](https://sspai.com/prime/story/cocoa-text-keybindings)
-* [【2023-07-21】 本周看什么 | 最近值得一看的一大铲作品](https://sspai.com/post/81361)
-* [【2023-07-21】 寻找一种真实：音乐模拟介质小史](https://sspai.com/post/81162)
-* [【2023-07-21】 如何用 AI 帮你做 PPT？](https://sspai.com/post/81124)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-07-24】 妙谈一下｜00 后女生是男频惊悚扛把子，半年稿费 40 万！](http://zhuanlan.zhihu.com/p/645621474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-21】 大模型高效训练的关键技术｜AI 盐沙龙](http://zhuanlan.zhihu.com/p/645135051?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-20】 如何使用 Embedding 提升回答质量？](http://zhuanlan.zhihu.com/p/609359999?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-20】 《封神第一部》中有哪些看似不经意但很重要的细节?](http://www.zhihu.com/question/612331393/answer/3126990581?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-07-18】 山地车当前牙盘使用单盘且越来越小的趋势，是否为厂商故意营销的消费认知？](http://www.zhihu.com/question/591800957/answer/2962363216?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-18】 一个人要怎么训练才能骑行速度达到均速 40km/h 以上？](http://www.zhihu.com/question/545919128/answer/2619836925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-13】 喜羊羊与灰太狼之遨游神秘洋 文章归档1-30集](http://zhuanlan.zhihu.com/p/643211512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-05-30】 2023年7月显卡购买推荐及攻略（每月更新）](http://zhuanlan.zhihu.com/p/632910441?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-24 05:11:40
+:alarm_clock: 更新时间: 2023-07-25 05:11:31
