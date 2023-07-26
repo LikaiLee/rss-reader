@@ -503,6 +503,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "少数派思考 037： 致新一年会员开启",
+                "link": "https://sspai.com/post/81457",
+                "published": "2023-07-26"
+            },
+            {
+                "title": "派早报：Spotify 上调订阅费用、索尼推出 PS5 Access 无障碍控制器等",
+                "link": "https://sspai.com/post/81474",
+                "published": "2023-07-26"
+            },
+            {
+                "title": "社区速递 005 | 大家爱听的播客、作者的新玩意以及工具分享",
+                "link": "https://sspai.com/post/81445",
+                "published": "2023-07-25"
+            },
+            {
+                "title": "被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要",
+                "link": "https://sspai.com/post/81257",
+                "published": "2023-07-25"
+            },
+            {
                 "title": "通用状态监控通知脚本，订阅状态通知",
                 "link": "https://sspai.com/post/81269",
                 "published": "2023-07-25"
@@ -13848,7 +13868,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -51964,7 +51984,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

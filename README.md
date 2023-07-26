@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-26】 少数派思考 037： 致新一年会员开启](https://sspai.com/post/81457)
+* [【2023-07-26】 派早报：Spotify 上调订阅费用、索尼推出 PS5 Access 无障碍控制器等](https://sspai.com/post/81474)
+* [【2023-07-25】 社区速递 005 | 大家爱听的播客、作者的新玩意以及工具分享](https://sspai.com/post/81445)
+* [【2023-07-25】 被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要](https://sspai.com/post/81257)
 * [【2023-07-25】 通用状态监控通知脚本，订阅状态通知](https://sspai.com/post/81269)
 * [【2023-07-25】 派早报：Twitter 更改 logo，任天堂将严惩不当使用账号行为等](https://sspai.com/post/81453)
 * [【2023-07-24】 派评 | 近期值得关注的 App](https://sspai.com/post/81442)
 * [【2023-07-24】 突然，我想用这张桌子听歌了](https://sspai.com/post/81419)
 * [【2023-07-24】 高难度开局的求职之路如何步步拆解：我的回顾与复盘](https://sspai.com/post/81429)
 * [【2023-07-24】 看似完美的电纸书是不存在的：聊聊我的 Kindle 与 Kobo 使用心得](https://sspai.com/post/81210)
-* [【2023-07-24】 派早报：微信支付宝开放绑定境外卡；上海暂停新办网约车运输证](https://sspai.com/post/81422)
-* [【2023-07-23】 本月玩什么 | Viewfinder、OXENFREE II、薇妮巴一家、小小贴纸铺、三伏](https://sspai.com/post/81410)
-* [【2023-07-23】 心灵之旅：三年跑步 2000 公里，这是我的感悟与思考](https://sspai.com/post/81288)
-* [【2023-07-22】 和《纸鹤》一起，成为 XR 世界的原住民](https://sspai.com/post/81244)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-25 05:11:31
+:alarm_clock: 更新时间: 2023-07-26 05:11:01
