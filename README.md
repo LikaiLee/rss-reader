@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-27】 一日一技 | 调用 AppleScript 给 Safari 标签页加一层「保险」](https://sspai.com/post/81363)
+* [【2023-07-27】 派早报：Apple 推出与 App Store 专家会面活动、ChatGPT for Android 开放下载等](https://sspai.com/post/81514)
+* [【2023-07-26】 来自编辑部的无损备份技巧](https://sspai.com/prime/story/zhuanglesha-230726)
+* [【2023-07-26】 从 iPhone 4 说起，聊聊智能手机内部结构堆叠的历史（上）](https://sspai.com/post/80066)
+* [【2023-07-26】 派开箱 | 特洛克红白机插座](https://sspai.com/post/81048)
+* [【2023-07-26】 掌握命题与表达的自由：我的非功利写作流程](https://sspai.com/post/81277)
+* [【2023-07-26】 少数派思考 037：致新一年会员开启](https://sspai.com/post/81457)
 * [【2023-07-26】 少数派思考 037： 致新一年会员开启](https://sspai.com/post/81457)
 * [【2023-07-26】 派早报：Spotify 上调订阅费用、索尼推出 PS5 Access 无障碍控制器等](https://sspai.com/post/81474)
 * [【2023-07-25】 社区速递 005 | 大家爱听的播客、作者的新玩意以及工具分享](https://sspai.com/post/81445)
-* [【2023-07-25】 被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要](https://sspai.com/post/81257)
-* [【2023-07-25】 通用状态监控通知脚本，订阅状态通知](https://sspai.com/post/81269)
-* [【2023-07-25】 派早报：Twitter 更改 logo，任天堂将严惩不当使用账号行为等](https://sspai.com/post/81453)
-* [【2023-07-24】 派评 | 近期值得关注的 App](https://sspai.com/post/81442)
-* [【2023-07-24】 突然，我想用这张桌子听歌了](https://sspai.com/post/81419)
-* [【2023-07-24】 高难度开局的求职之路如何步步拆解：我的回顾与复盘](https://sspai.com/post/81429)
-* [【2023-07-24】 看似完美的电纸书是不存在的：聊聊我的 Kindle 与 Kobo 使用心得](https://sspai.com/post/81210)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2023-07-27】 数据结构-链表及相关算法](http://zhuanlan.zhihu.com/p/623834697?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-27】 沙瓤西瓜、沙瓤西红柿的「沙」是什么？是怎么来的？](http://www.zhihu.com/question/612790619/answer/3125490720?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-27】 如何评价《塞尔达传说：王国之泪》？XREAL Air解锁了大屏游戏的新体验，满足我拉满的期待值](http://zhuanlan.zhihu.com/p/628985821?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-24】 妙谈一下｜00 后女生是男频惊悚扛把子，半年稿费 40 万！](http://zhuanlan.zhihu.com/p/645621474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-21】 大模型高效训练的关键技术｜AI 盐沙龙](http://zhuanlan.zhihu.com/p/645135051?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-20】 如何使用 Embedding 提升回答质量？](http://zhuanlan.zhihu.com/p/609359999?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2023-07-20】 国产三无软尾诞生记](http://zhuanlan.zhihu.com/p/580901767?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-19】 如何评价《封神第一部》重建中国电影工业化体系？](http://www.zhihu.com/question/612906040/answer/3125991677?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-19】 初入职场，请多关照！](http://zhuanlan.zhihu.com/p/644075669?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-18】 山地车当前牙盘使用单盘且越来越小的趋势，是否为厂商故意营销的消费认知？](http://www.zhihu.com/question/591800957/answer/2962363216?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-18】 一个人要怎么训练才能骑行速度达到均速 40km/h 以上？](http://www.zhihu.com/question/545919128/answer/2619836925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-13】 喜羊羊与灰太狼之遨游神秘洋 文章归档1-30集](http://zhuanlan.zhihu.com/p/643211512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-26 05:11:01
+:alarm_clock: 更新时间: 2023-07-27 05:11:15

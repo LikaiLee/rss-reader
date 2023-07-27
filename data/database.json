@@ -503,6 +503,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 调用 AppleScript 给 Safari 标签页加一层「保险」",
+                "link": "https://sspai.com/post/81363",
+                "published": "2023-07-27"
+            },
+            {
+                "title": "派早报：Apple 推出与 App Store 专家会面活动、ChatGPT for Android 开放下载等",
+                "link": "https://sspai.com/post/81514",
+                "published": "2023-07-27"
+            },
+            {
+                "title": "来自编辑部的无损备份技巧",
+                "link": "https://sspai.com/prime/story/zhuanglesha-230726",
+                "published": "2023-07-26"
+            },
+            {
+                "title": "从 iPhone 4 说起，聊聊智能手机内部结构堆叠的历史（上）",
+                "link": "https://sspai.com/post/80066",
+                "published": "2023-07-26"
+            },
+            {
+                "title": "派开箱 | 特洛克红白机插座",
+                "link": "https://sspai.com/post/81048",
+                "published": "2023-07-26"
+            },
+            {
+                "title": "掌握命题与表达的自由：我的非功利写作流程",
+                "link": "https://sspai.com/post/81277",
+                "published": "2023-07-26"
+            },
+            {
+                "title": "少数派思考 037：致新一年会员开启",
+                "link": "https://sspai.com/post/81457",
+                "published": "2023-07-26"
+            },
+            {
                 "title": "少数派思考 037： 致新一年会员开启",
                 "link": "https://sspai.com/post/81457",
                 "published": "2023-07-26"
@@ -13868,7 +13903,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -44324,6 +44359,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "数据结构-链表及相关算法",
+                "link": "http://zhuanlan.zhihu.com/p/623834697?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-27"
+            },
+            {
+                "title": "沙瓤西瓜、沙瓤西红柿的「沙」是什么？是怎么来的？",
+                "link": "http://www.zhihu.com/question/612790619/answer/3125490720?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-27"
+            },
+            {
+                "title": "如何评价《塞尔达传说：王国之泪》？XREAL Air解锁了大屏游戏的新体验，满足我拉满的期待值",
+                "link": "http://zhuanlan.zhihu.com/p/628985821?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-27"
+            },
+            {
                 "title": "妙谈一下｜00 后女生是男频惊悚扛把子，半年稿费 40 万！",
                 "link": "http://zhuanlan.zhihu.com/p/645621474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-07-24"
@@ -51984,7 +52034,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 4,
