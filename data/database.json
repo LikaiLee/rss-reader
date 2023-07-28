@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 264 期）：Elasticsearch 的启示",
+                "link": "http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html",
+                "published": "2023-07-28"
+            },
+            {
                 "title": "科技爱好者周刊（第 263 期）：开源软件如何赚钱？",
                 "link": "http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html",
                 "published": "2023-07-21"
@@ -495,13 +500,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "虽然发布于 3 年前，但 Chromecast with Google TV 依然值得体验",
+                "link": "https://sspai.com/post/81331",
+                "published": "2023-07-28"
+            },
+            {
+                "title": "派早报：Twitter 正式更名为 X，Google 推迟 Find My Device 网络",
+                "link": "https://sspai.com/post/81546",
+                "published": "2023-07-28"
+            },
+            {
+                "title": "新玩意 155｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/81536",
+                "published": "2023-07-27"
+            },
+            {
+                "title": "从制作简历到建立人脉，这些准备帮我找到心仪工作",
+                "link": "https://sspai.com/post/81523",
+                "published": "2023-07-27"
+            },
             {
                 "title": "一日一技 | 调用 AppleScript 给 Safari 标签页加一层「保险」",
                 "link": "https://sspai.com/post/81363",
@@ -13903,7 +13928,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -44359,6 +44384,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "回溯算法DFS && BFS算法",
+                "link": "http://zhuanlan.zhihu.com/p/623213529?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-27"
+            },
+            {
+                "title": "数据结构-树及相关算法",
+                "link": "http://zhuanlan.zhihu.com/p/623830678?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-27"
+            },
+            {
+                "title": "长期跑步的人，后来都怎么样了？",
+                "link": "http://www.zhihu.com/question/271697398/answer/3109730055?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-27"
+            },
+            {
+                "title": "长期跑步的人，后来都怎么样了？",
+                "link": "http://www.zhihu.com/question/271697398/answer/2398388054?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-27"
+            },
+            {
                 "title": "数据结构-链表及相关算法",
                 "link": "http://zhuanlan.zhihu.com/p/623834697?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-07-27"
@@ -52034,7 +52079,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 4,
