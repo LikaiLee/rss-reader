@@ -500,13 +500,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "如何让 ChatGPT 更懂你？新功能 Custom Instructions 尝试",
+                "link": "https://sspai.com/post/81470",
+                "published": "2023-07-29"
+            },
+            {
+                "title": "Chromebook 漫游指南 (2023)",
+                "link": "https://sspai.com/prime/story/chromebook-in-2023",
+                "published": "2023-07-28"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/81569",
+                "published": "2023-07-28"
+            },
+            {
+                "title": "Matrix 圆桌 | 入手 Apple Watch 之后，它给我的生活带来了什么改变？",
+                "link": "https://sspai.com/post/81552",
+                "published": "2023-07-28"
+            },
+            {
+                "title": "城市收藏夹 | 圣地巡礼，这是我期待已久的东京推理之旅",
+                "link": "https://sspai.com/post/81315",
+                "published": "2023-07-28"
+            },
             {
                 "title": "虽然发布于 3 年前，但 Chromecast with Google TV 依然值得体验",
                 "link": "https://sspai.com/post/81331",
@@ -13928,7 +13953,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -44384,6 +44409,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "值得苦练的100道Python经典练手题，（附详细答案）建议收藏！",
+                "link": "http://zhuanlan.zhihu.com/p/617626496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-28"
+            },
+            {
+                "title": "分享几个常用的运维 shell 脚本",
+                "link": "http://zhuanlan.zhihu.com/p/612782776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-28"
+            },
+            {
+                "title": "怎么刷算法，leetcode上有哪些经典题目?",
+                "link": "http://www.zhihu.com/question/502471127/answer/2478652654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-28"
+            },
+            {
+                "title": "怎么刷算法，leetcode上有哪些经典题目?",
+                "link": "http://www.zhihu.com/question/502471127/answer/2639174632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-28"
+            },
+            {
+                "title": "怎么刷算法，leetcode上有哪些经典题目?",
+                "link": "http://www.zhihu.com/question/502471127/answer/2268431201?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-28"
+            },
+            {
                 "title": "回溯算法DFS && BFS算法",
                 "link": "http://zhuanlan.zhihu.com/p/623213529?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-07-27"
@@ -52079,7 +52129,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 4,

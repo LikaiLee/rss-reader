@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+5】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-07-29】 如何让 ChatGPT 更懂你？新功能 Custom Instructions 尝试](https://sspai.com/post/81470)
+* [【2023-07-28】 Chromebook 漫游指南 (2023)](https://sspai.com/prime/story/chromebook-in-2023)
+* [【2023-07-28】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/81569)
+* [【2023-07-28】 Matrix 圆桌 | 入手 Apple Watch 之后，它给我的生活带来了什么改变？](https://sspai.com/post/81552)
+* [【2023-07-28】 城市收藏夹 | 圣地巡礼，这是我期待已久的东京推理之旅](https://sspai.com/post/81315)
 * [【2023-07-28】 虽然发布于 3 年前，但 Chromecast with Google TV 依然值得体验](https://sspai.com/post/81331)
 * [【2023-07-28】 派早报：Twitter 正式更名为 X，Google 推迟 Find My Device 网络](https://sspai.com/post/81546)
 * [【2023-07-27】 新玩意 155｜少数派的编辑们最近买了啥？](https://sspai.com/post/81536)
 * [【2023-07-27】 从制作简历到建立人脉，这些准备帮我找到心仪工作](https://sspai.com/post/81523)
 * [【2023-07-27】 一日一技 | 调用 AppleScript 给 Safari 标签页加一层「保险」](https://sspai.com/post/81363)
-* [【2023-07-27】 派早报：Apple 推出与 App Store 专家会面活动、ChatGPT for Android 开放下载等](https://sspai.com/post/81514)
-* [【2023-07-26】 来自编辑部的无损备份技巧](https://sspai.com/prime/story/zhuanglesha-230726)
-* [【2023-07-26】 从 iPhone 4 说起，聊聊智能手机内部结构堆叠的历史（上）](https://sspai.com/post/80066)
-* [【2023-07-26】 派开箱 | 特洛克红白机插座](https://sspai.com/post/81048)
-* [【2023-07-26】 掌握命题与表达的自由：我的非功利写作流程](https://sspai.com/post/81277)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-07-28】 值得苦练的100道Python经典练手题，（附详细答案）建议收藏！](http://zhuanlan.zhihu.com/p/617626496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-28】 分享几个常用的运维 shell 脚本](http://zhuanlan.zhihu.com/p/612782776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-28】 怎么刷算法，leetcode上有哪些经典题目?](http://www.zhihu.com/question/502471127/answer/2478652654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-28】 怎么刷算法，leetcode上有哪些经典题目?](http://www.zhihu.com/question/502471127/answer/2639174632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-28】 怎么刷算法，leetcode上有哪些经典题目?](http://www.zhihu.com/question/502471127/answer/2268431201?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-27】 回溯算法DFS && BFS算法](http://zhuanlan.zhihu.com/p/623213529?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-27】 数据结构-树及相关算法](http://zhuanlan.zhihu.com/p/623830678?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-27】 长期跑步的人，后来都怎么样了？](http://www.zhihu.com/question/271697398/answer/3109730055?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-27】 长期跑步的人，后来都怎么样了？](http://www.zhihu.com/question/271697398/answer/2398388054?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-27】 数据结构-链表及相关算法](http://zhuanlan.zhihu.com/p/623834697?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-27】 沙瓤西瓜、沙瓤西红柿的「沙」是什么？是怎么来的？](http://www.zhihu.com/question/612790619/answer/3125490720?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-27】 如何评价《塞尔达传说：王国之泪》？XREAL Air解锁了大屏游戏的新体验，满足我拉满的期待值](http://zhuanlan.zhihu.com/p/628985821?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-24】 妙谈一下｜00 后女生是男频惊悚扛把子，半年稿费 40 万！](http://zhuanlan.zhihu.com/p/645621474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-21】 大模型高效训练的关键技术｜AI 盐沙龙](http://zhuanlan.zhihu.com/p/645135051?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-20】 如何使用 Embedding 提升回答质量？](http://zhuanlan.zhihu.com/p/609359999?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-28 05:10:53
+:alarm_clock: 更新时间: 2023-07-29 05:10:27
