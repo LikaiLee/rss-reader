@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+5】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-07-30】 夏日徒步，这些防晒装备你不妨一试](https://sspai.com/post/81469)
 * [【2023-07-29】 如何让 ChatGPT 更懂你？新功能 Custom Instructions 尝试](https://sspai.com/post/81470)
 * [【2023-07-28】 Chromebook 漫游指南 (2023)](https://sspai.com/prime/story/chromebook-in-2023)
 * [【2023-07-28】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/81569)
@@ -44,7 +45,6 @@
 * [【2023-07-28】 派早报：Twitter 正式更名为 X，Google 推迟 Find My Device 网络](https://sspai.com/post/81546)
 * [【2023-07-27】 新玩意 155｜少数派的编辑们最近买了啥？](https://sspai.com/post/81536)
 * [【2023-07-27】 从制作简历到建立人脉，这些准备帮我找到心仪工作](https://sspai.com/post/81523)
-* [【2023-07-27】 一日一技 | 调用 AppleScript 给 Safari 标签页加一层「保险」](https://sspai.com/post/81363)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-29 05:10:27
+:alarm_clock: 更新时间: 2023-07-30 05:10:33

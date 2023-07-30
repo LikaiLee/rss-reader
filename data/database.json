@@ -508,6 +508,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "夏日徒步，这些防晒装备你不妨一试",
+                "link": "https://sspai.com/post/81469",
+                "published": "2023-07-30"
+            },
+            {
                 "title": "如何让 ChatGPT 更懂你？新功能 Custom Instructions 尝试",
                 "link": "https://sspai.com/post/81470",
                 "published": "2023-07-29"
@@ -13953,7 +13958,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -52129,7 +52134,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 0
     },
     {
         "id": 4,
