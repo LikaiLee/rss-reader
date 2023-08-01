@@ -508,6 +508,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从《海妖的呼唤》的爆火，聊聊我们想看怎样的「全女综艺」",
+                "link": "https://sspai.com/post/81533",
+                "published": "2023-08-01"
+            },
+            {
+                "title": "派早报：Twitter 在 App Store 获批更名为 X，《黑神话：悟空》将举办线下试玩会等",
+                "link": "https://sspai.com/post/81632",
+                "published": "2023-08-01"
+            },
+            {
+                "title": "罗技鼠标 Lua 脚本入门：准备工作篇",
+                "link": "https://sspai.com/prime/story/logi-lua-scripting-1",
+                "published": "2023-07-31"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/81623",
+                "published": "2023-07-31"
+            },
+            {
+                "title": "旧笔记本化身 HTPC——打造一台优雅的家庭娱乐主机",
+                "link": "https://sspai.com/post/81600",
+                "published": "2023-07-31"
+            },
+            {
+                "title": "家用咖啡手册 10 | 制作意式咖啡前需要了解的事儿",
+                "link": "https://sspai.com/post/81584",
+                "published": "2023-07-31"
+            },
+            {
                 "title": "从 iOS 提醒事项开始，入门任务管理",
                 "link": "https://sspai.com/post/81392",
                 "published": "2023-07-31"
@@ -13973,7 +14003,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -44429,6 +44459,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "新人有哪些途径可以开始导演职业生涯？",
+                "link": "http://www.zhihu.com/question/320885390/answer/3137858776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-31"
+            },
+            {
+                "title": "大模型训练和进化之路｜AI 盐沙龙实录",
+                "link": "http://zhuanlan.zhihu.com/p/644827175?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-31"
+            },
+            {
                 "title": "故事创作设置悬念时有什么技巧？",
                 "link": "http://www.zhihu.com/question/27374212/answer/3142510532?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-07-31"
@@ -52154,7 +52194,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,

@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-01】 从《海妖的呼唤》的爆火，聊聊我们想看怎样的「全女综艺」](https://sspai.com/post/81533)
+* [【2023-08-01】 派早报：Twitter 在 App Store 获批更名为 X，《黑神话：悟空》将举办线下试玩会等](https://sspai.com/post/81632)
+* [【2023-07-31】 罗技鼠标 Lua 脚本入门：准备工作篇](https://sspai.com/prime/story/logi-lua-scripting-1)
+* [【2023-07-31】 派评 | 近期值得关注的 App](https://sspai.com/post/81623)
+* [【2023-07-31】 旧笔记本化身 HTPC——打造一台优雅的家庭娱乐主机](https://sspai.com/post/81600)
+* [【2023-07-31】 家用咖啡手册 10 | 制作意式咖啡前需要了解的事儿](https://sspai.com/post/81584)
 * [【2023-07-31】 从 iOS 提醒事项开始，入门任务管理](https://sspai.com/post/81392)
 * [【2023-07-31】 派早报：微软面临欧洲反垄断调查，推特未能在 App Store 更名为 X](https://sspai.com/post/81605)
 * [【2023-07-30】 一个 Mac App 是如何诞生的：Browser Deputy](https://sspai.com/post/81494)
 * [【2023-07-30】 夏日徒步，这些防晒装备你不妨一试](https://sspai.com/post/81469)
-* [【2023-07-29】 如何让 ChatGPT 更懂你？新功能 Custom Instructions 尝试](https://sspai.com/post/81470)
-* [【2023-07-28】 Chromebook 漫游指南 (2023)](https://sspai.com/prime/story/chromebook-in-2023)
-* [【2023-07-28】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/81569)
-* [【2023-07-28】 Matrix 圆桌 | 入手 Apple Watch 之后，它给我的生活带来了什么改变？](https://sspai.com/post/81552)
-* [【2023-07-28】 城市收藏夹 | 圣地巡礼，这是我期待已久的东京推理之旅](https://sspai.com/post/81315)
-* [【2023-07-28】 虽然发布于 3 年前，但 Chromecast with Google TV 依然值得体验](https://sspai.com/post/81331)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-07-31】 新人有哪些途径可以开始导演职业生涯？](http://www.zhihu.com/question/320885390/answer/3137858776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-31】 大模型训练和进化之路｜AI 盐沙龙实录](http://zhuanlan.zhihu.com/p/644827175?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-31】 故事创作设置悬念时有什么技巧？](http://www.zhihu.com/question/27374212/answer/3142510532?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-28】 值得苦练的100道Python经典练手题，（附详细答案）建议收藏！](http://zhuanlan.zhihu.com/p/617626496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-28】 分享几个常用的运维 shell 脚本](http://zhuanlan.zhihu.com/p/612782776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-07-28】 怎么刷算法，leetcode上有哪些经典题目?](http://www.zhihu.com/question/502471127/answer/2268431201?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-27】 回溯算法DFS && BFS算法](http://zhuanlan.zhihu.com/p/623213529?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-27】 数据结构-树及相关算法](http://zhuanlan.zhihu.com/p/623830678?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-27】 长期跑步的人，后来都怎么样了？](http://www.zhihu.com/question/271697398/answer/3109730055?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-27】 长期跑步的人，后来都怎么样了？](http://www.zhihu.com/question/271697398/answer/2398388054?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-07-31 05:11:27
+:alarm_clock: 更新时间: 2023-08-01 05:11:19
