@@ -508,6 +508,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "如何「构建第二大脑」，这是我的 Obsidian 实践配方",
+                "link": "https://sspai.com/post/80802",
+                "published": "2023-08-03"
+            },
+            {
+                "title": "派早报：Mac 版 Pocket 将停止服务、Figma 支持 Display P3 色域等",
+                "link": "https://sspai.com/post/81715",
+                "published": "2023-08-03"
+            },
+            {
+                "title": "为了追求画质，真的要买台电影机吗？我的 Bmpcc 6K Pro 单兵作战体验",
+                "link": "https://sspai.com/post/81560",
+                "published": "2023-08-02"
+            },
+            {
+                "title": "App+1 | 从互联网消失的 Flash 游戏和动画，你可以在这里怀旧",
+                "link": "https://sspai.com/post/81698",
+                "published": "2023-08-02"
+            },
+            {
+                "title": "上车聊聊 | 一台 Model Y 和 3 种生活新体验",
+                "link": "https://sspai.com/post/81647",
+                "published": "2023-08-02"
+            },
+            {
                 "title": "派早报：Apple 等公司成立 AOUSD 联盟、大上发布 Paperlike Color 显示器等",
                 "link": "https://sspai.com/post/81679",
                 "published": "2023-08-02"
@@ -14023,7 +14048,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -44479,6 +44504,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "【万字干货】如何从0开始设计GTA样式的开放世界地图",
+                "link": "http://zhuanlan.zhihu.com/p/645259582?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-02"
+            },
+            {
                 "title": "如何评价电视剧《欢颜》里的配乐？",
                 "link": "http://www.zhihu.com/question/614066753/answer/3136312188?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-08-02"
@@ -52224,7 +52254,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,

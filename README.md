@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-03】 如何「构建第二大脑」，这是我的 Obsidian 实践配方](https://sspai.com/post/80802)
+* [【2023-08-03】 派早报：Mac 版 Pocket 将停止服务、Figma 支持 Display P3 色域等](https://sspai.com/post/81715)
+* [【2023-08-02】 为了追求画质，真的要买台电影机吗？我的 Bmpcc 6K Pro 单兵作战体验](https://sspai.com/post/81560)
+* [【2023-08-02】 App+1 | 从互联网消失的 Flash 游戏和动画，你可以在这里怀旧](https://sspai.com/post/81698)
+* [【2023-08-02】 上车聊聊 | 一台 Model Y 和 3 种生活新体验](https://sspai.com/post/81647)
 * [【2023-08-02】 派早报：Apple 等公司成立 AOUSD 联盟、大上发布 Paperlike Color 显示器等](https://sspai.com/post/81679)
 * [【2023-08-01】 社区速递 006 | 拟物设计的剪辑应用、Arc 之魅力以及散步路线](https://sspai.com/post/81650)
 * [【2023-08-01】 Apple 那些经典的「One More Thing」现在怎样了](https://sspai.com/post/81645)
 * [【2023-08-01】 两位效率工具玩家眼中的人脉管理](https://sspai.com/post/81532)
 * [【2023-08-01】 从《海妖的呼唤》的爆火，聊聊我们想看怎样的「全女综艺」](https://sspai.com/post/81533)
-* [【2023-08-01】 派早报：Twitter 在 App Store 获批更名为 X，《黑神话：悟空》将举办线下试玩会等](https://sspai.com/post/81632)
-* [【2023-07-31】 罗技鼠标 Lua 脚本入门：准备工作篇](https://sspai.com/prime/story/logi-lua-scripting-1)
-* [【2023-07-31】 派评 | 近期值得关注的 App](https://sspai.com/post/81623)
-* [【2023-07-31】 旧笔记本化身 HTPC——打造一台优雅的家庭娱乐主机](https://sspai.com/post/81600)
-* [【2023-07-31】 家用咖啡手册 10 | 制作意式咖啡前需要了解的事儿](https://sspai.com/post/81584)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-08-02】 【万字干货】如何从0开始设计GTA样式的开放世界地图](http://zhuanlan.zhihu.com/p/645259582?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-02】 如何评价电视剧《欢颜》里的配乐？](http://www.zhihu.com/question/614066753/answer/3136312188?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-02】 如何评价电视剧《欢颜》里的配乐？](http://www.zhihu.com/question/614066753/answer/3145850292?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-31】 新人有哪些途径可以开始导演职业生涯？](http://www.zhihu.com/question/320885390/answer/3137858776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-07-28】 分享几个常用的运维 shell 脚本](http://zhuanlan.zhihu.com/p/612782776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-28】 怎么刷算法，leetcode上有哪些经典题目?](http://www.zhihu.com/question/502471127/answer/2478652654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-28】 怎么刷算法，leetcode上有哪些经典题目?](http://www.zhihu.com/question/502471127/answer/2639174632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-28】 怎么刷算法，leetcode上有哪些经典题目?](http://www.zhihu.com/question/502471127/answer/2268431201?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-02 05:11:01
+:alarm_clock: 更新时间: 2023-08-03 05:10:53
