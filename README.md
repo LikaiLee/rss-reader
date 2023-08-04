@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-08-04】 科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)
 * [【2023-07-28】 科技爱好者周刊（第 264 期）：Elasticsearch 的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html)
 * [【2023-07-21】 科技爱好者周刊（第 263 期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)
 * [【2023-07-14】 科技爱好者周刊（第 262 期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)
@@ -25,7 +26,6 @@
 * [【2023-06-09】 科技爱好者周刊（第 258 期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html)
 * [【2023-06-01】 科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html)
 * [【2023-05-26】 科技爱好者周刊（第 256 期）：最酷的乐高作品](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html)
-* [【2023-05-19】 科技爱好者周刊（第 255 期）：对待 AI 的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-04】 小风扇常见，但可以降温的「高速吹风机」你不妨一试](https://sspai.com/post/81440)
+* [【2023-08-04】 派早报：中兴 5G 随身 Wi-Fi F50 正式上架、Meta 发布开源 AI 工具 AudioCraft](https://sspai.com/post/81751)
+* [【2023-08-03】 十五样快手凉拌，助你花式度过炎炎夏日](https://sspai.com/prime/story/15-code-dish-ideas)
+* [【2023-08-03】 新玩意 156｜少数派的编辑们最近买了啥？](https://sspai.com/post/81734)
+* [【2023-08-03】 每周三小时的游泳时间，我这样准备播客作伴](https://sspai.com/post/81111)
 * [【2023-08-03】 如何「构建第二大脑」，这是我的 Obsidian 实践配方](https://sspai.com/post/80802)
 * [【2023-08-03】 派早报：Mac 版 Pocket 将停止服务、Figma 支持 Display P3 色域等](https://sspai.com/post/81715)
 * [【2023-08-02】 为了追求画质，真的要买台电影机吗？我的 Bmpcc 6K Pro 单兵作战体验](https://sspai.com/post/81560)
 * [【2023-08-02】 App+1 | 从互联网消失的 Flash 游戏和动画，你可以在这里怀旧](https://sspai.com/post/81698)
 * [【2023-08-02】 上车聊聊 | 一台 Model Y 和 3 种生活新体验](https://sspai.com/post/81647)
-* [【2023-08-02】 派早报：Apple 等公司成立 AOUSD 联盟、大上发布 Paperlike Color 显示器等](https://sspai.com/post/81679)
-* [【2023-08-01】 社区速递 006 | 拟物设计的剪辑应用、Arc 之魅力以及散步路线](https://sspai.com/post/81650)
-* [【2023-08-01】 Apple 那些经典的「One More Thing」现在怎样了](https://sspai.com/post/81645)
-* [【2023-08-01】 两位效率工具玩家眼中的人脉管理](https://sspai.com/post/81532)
-* [【2023-08-01】 从《海妖的呼唤》的爆火，聊聊我们想看怎样的「全女综艺」](https://sspai.com/post/81533)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-03 05:10:53
+:alarm_clock: 更新时间: 2023-08-04 05:11:20
