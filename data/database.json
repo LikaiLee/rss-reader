@@ -505,13 +505,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一入直列深似海，旁人不会用此盘：Planck 配列键盘使用心得",
+                "link": "https://sspai.com/post/81740",
+                "published": "2023-08-05"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/81765",
+                "published": "2023-08-04"
+            },
+            {
+                "title": "属于平凡人的经验之谈：我的校园招聘工具「组合拳」",
+                "link": "https://sspai.com/post/79049",
+                "published": "2023-08-04"
+            },
+            {
+                "title": "AI 降临 —— 个人笔记的黄昏？",
+                "link": "https://sspai.com/post/81585",
+                "published": "2023-08-04"
+            },
             {
                 "title": "小风扇常见，但可以降温的「高速吹风机」你不妨一试",
                 "link": "https://sspai.com/post/81440",
@@ -14078,7 +14098,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -44534,6 +44554,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "北京7.30暴雨 K1178被困72小时亲历记录",
+                "link": "http://zhuanlan.zhihu.com/p/647596639?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-04"
+            },
+            {
                 "title": "【万字干货】如何从0开始设计GTA样式的开放世界地图",
                 "link": "http://zhuanlan.zhihu.com/p/645259582?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-08-02"
@@ -52284,7 +52309,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
