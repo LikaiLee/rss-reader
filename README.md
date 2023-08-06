@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-08-05】 硬件有价数据无价，从零搭建 NAS 数据备份系统](https://sspai.com/post/81509)
 * [【2023-08-05】 一入直列深似海，旁人不会用此盘：Planck 配列键盘使用心得](https://sspai.com/post/81740)
 * [【2023-08-04】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/81765)
 * [【2023-08-04】 属于平凡人的经验之谈：我的校园招聘工具「组合拳」](https://sspai.com/post/79049)
@@ -44,7 +45,6 @@
 * [【2023-08-03】 十五样快手凉拌，助你花式度过炎炎夏日](https://sspai.com/prime/story/15-code-dish-ideas)
 * [【2023-08-03】 新玩意 156｜少数派的编辑们最近买了啥？](https://sspai.com/post/81734)
 * [【2023-08-03】 每周三小时的游泳时间，我这样准备播客作伴](https://sspai.com/post/81111)
-* [【2023-08-03】 如何「构建第二大脑」，这是我的 Obsidian 实践配方](https://sspai.com/post/80802)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-05 05:10:05
+:alarm_clock: 更新时间: 2023-08-06 05:10:14
