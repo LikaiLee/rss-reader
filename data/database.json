@@ -513,6 +513,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Vim 作者逝世，二季度全球手机销售额继续下降",
+                "link": "https://sspai.com/post/81814",
+                "published": "2023-08-07"
+            },
+            {
+                "title": "播客 | 中文打字机：一个世纪的汉字突围史",
+                "link": "https://sspai.com/post/81761",
+                "published": "2023-08-06"
+            },
+            {
                 "title": "硬件有价数据无价，从零搭建 NAS 数据备份系统",
                 "link": "https://sspai.com/post/81509",
                 "published": "2023-08-05"
@@ -14103,7 +14113,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
