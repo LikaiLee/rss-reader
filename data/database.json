@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "《TypeScript 教程》发布了",
+                "link": "http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html",
+                "published": "2023-08-08"
+            },
+            {
                 "title": "科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi",
                 "link": "http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html",
                 "published": "2023-08-04"
@@ -505,13 +510,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一场特别的深度家庭大扫除，来收拾跨城搬家的累与泪",
+                "link": "https://sspai.com/post/81756",
+                "published": "2023-08-08"
+            },
+            {
+                "title": "派早报：微软更新 Windows 11 CPU 支持列表，Amazfit Cheetah Pro 上架等",
+                "link": "https://sspai.com/post/81862",
+                "published": "2023-08-08"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/81850",
+                "published": "2023-08-07"
+            },
+            {
+                "title": "从历史中开出来，这是我和 BMW 三系共处的两年",
+                "link": "https://sspai.com/post/80462",
+                "published": "2023-08-07"
+            },
+            {
+                "title": "能干掉你「启动盘」的 Windows 漏洞补丁，为什么不得不更新？",
+                "link": "https://sspai.com/post/81836",
+                "published": "2023-08-07"
+            },
+            {
+                "title": "开会糟透了？试试无声会议吧",
+                "link": "https://sspai.com/post/81644",
+                "published": "2023-08-07"
+            },
             {
                 "title": "派早报：Vim 作者逝世，二季度全球手机销售额继续下降",
                 "link": "https://sspai.com/post/81814",
@@ -14113,7 +14148,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -44569,6 +44604,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "张艺兴、金晨主演的电影《孤注一掷》点映口碑如何？好看吗？",
+                "link": "http://www.zhihu.com/question/615724803/answer/3153335484?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-07"
+            },
+            {
                 "title": "北京7.30暴雨 K1178被困72小时亲历记录",
                 "link": "http://zhuanlan.zhihu.com/p/647596639?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-08-04"
@@ -52324,7 +52364,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

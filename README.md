@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-08-08】 《TypeScript 教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)
 * [【2023-08-04】 科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)
 * [【2023-07-28】 科技爱好者周刊（第 264 期）：Elasticsearch 的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html)
 * [【2023-07-21】 科技爱好者周刊（第 263 期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)
@@ -25,7 +26,6 @@
 * [【2023-06-16】 科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)
 * [【2023-06-09】 科技爱好者周刊（第 258 期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html)
 * [【2023-06-01】 科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html)
-* [【2023-05-26】 科技爱好者周刊（第 256 期）：最酷的乐高作品](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-08】 一场特别的深度家庭大扫除，来收拾跨城搬家的累与泪](https://sspai.com/post/81756)
+* [【2023-08-08】 派早报：微软更新 Windows 11 CPU 支持列表，Amazfit Cheetah Pro 上架等](https://sspai.com/post/81862)
+* [【2023-08-07】 派评 | 近期值得关注的 App](https://sspai.com/post/81850)
+* [【2023-08-07】 从历史中开出来，这是我和 BMW 三系共处的两年](https://sspai.com/post/80462)
+* [【2023-08-07】 能干掉你「启动盘」的 Windows 漏洞补丁，为什么不得不更新？](https://sspai.com/post/81836)
+* [【2023-08-07】 开会糟透了？试试无声会议吧](https://sspai.com/post/81644)
 * [【2023-08-07】 派早报：Vim 作者逝世，二季度全球手机销售额继续下降](https://sspai.com/post/81814)
 * [【2023-08-06】 播客 | 中文打字机：一个世纪的汉字突围史](https://sspai.com/post/81761)
 * [【2023-08-05】 硬件有价数据无价，从零搭建 NAS 数据备份系统](https://sspai.com/post/81509)
 * [【2023-08-05】 一入直列深似海，旁人不会用此盘：Planck 配列键盘使用心得](https://sspai.com/post/81740)
-* [【2023-08-04】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/81765)
-* [【2023-08-04】 属于平凡人的经验之谈：我的校园招聘工具「组合拳」](https://sspai.com/post/79049)
-* [【2023-08-04】 AI 降临 —— 个人笔记的黄昏？](https://sspai.com/post/81585)
-* [【2023-08-04】 小风扇常见，但可以降温的「高速吹风机」你不妨一试](https://sspai.com/post/81440)
-* [【2023-08-04】 派早报：中兴 5G 随身 Wi-Fi F50 正式上架、Meta 发布开源 AI 工具 AudioCraft](https://sspai.com/post/81751)
-* [【2023-08-03】 十五样快手凉拌，助你花式度过炎炎夏日](https://sspai.com/prime/story/15-code-dish-ideas)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-08-07】 张艺兴、金晨主演的电影《孤注一掷》点映口碑如何？好看吗？](http://www.zhihu.com/question/615724803/answer/3153335484?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-04】 北京7.30暴雨 K1178被困72小时亲历记录](http://zhuanlan.zhihu.com/p/647596639?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-02】 【万字干货】如何从0开始设计GTA样式的开放世界地图](http://zhuanlan.zhihu.com/p/645259582?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-02】 如何评价电视剧《欢颜》里的配乐？](http://www.zhihu.com/question/614066753/answer/3136312188?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-07-31】 故事创作设置悬念时有什么技巧？](http://www.zhihu.com/question/27374212/answer/3142510532?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-28】 值得苦练的100道Python经典练手题，（附详细答案）建议收藏！](http://zhuanlan.zhihu.com/p/617626496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-28】 分享几个常用的运维 shell 脚本](http://zhuanlan.zhihu.com/p/612782776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-28】 怎么刷算法，leetcode上有哪些经典题目?](http://www.zhihu.com/question/502471127/answer/2478652654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-07 05:11:20
+:alarm_clock: 更新时间: 2023-08-08 05:10:58
