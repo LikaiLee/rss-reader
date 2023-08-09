@@ -510,13 +510,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "书到用时方恨少？写读书笔记时如何做到旁征博引",
+                "link": "https://sspai.com/post/81889",
+                "published": "2023-08-09"
+            },
+            {
+                "title": "派早报：Chrome 安全补丁更新改为每周推送、Sonos 推出 Era 100 音箱等",
+                "link": "https://sspai.com/post/81895",
+                "published": "2023-08-09"
+            },
+            {
+                "title": "社区速递 007 | 买过的「洋垃圾」、平板上的代码和作者的新玩意",
+                "link": "https://sspai.com/post/81857",
+                "published": "2023-08-08"
+            },
+            {
+                "title": "为了重拾对生活的「掌控感」，我做了一款 iOS 应用",
+                "link": "https://sspai.com/post/81775",
+                "published": "2023-08-08"
+            },
             {
                 "title": "一场特别的深度家庭大扫除，来收拾跨城搬家的累与泪",
                 "link": "https://sspai.com/post/81756",
@@ -14148,7 +14168,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -52364,7 +52384,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-09】 书到用时方恨少？写读书笔记时如何做到旁征博引](https://sspai.com/post/81889)
+* [【2023-08-09】 派早报：Chrome 安全补丁更新改为每周推送、Sonos 推出 Era 100 音箱等](https://sspai.com/post/81895)
+* [【2023-08-08】 社区速递 007 | 买过的「洋垃圾」、平板上的代码和作者的新玩意](https://sspai.com/post/81857)
+* [【2023-08-08】 为了重拾对生活的「掌控感」，我做了一款 iOS 应用](https://sspai.com/post/81775)
 * [【2023-08-08】 一场特别的深度家庭大扫除，来收拾跨城搬家的累与泪](https://sspai.com/post/81756)
 * [【2023-08-08】 派早报：微软更新 Windows 11 CPU 支持列表，Amazfit Cheetah Pro 上架等](https://sspai.com/post/81862)
 * [【2023-08-07】 派评 | 近期值得关注的 App](https://sspai.com/post/81850)
 * [【2023-08-07】 从历史中开出来，这是我和 BMW 三系共处的两年](https://sspai.com/post/80462)
 * [【2023-08-07】 能干掉你「启动盘」的 Windows 漏洞补丁，为什么不得不更新？](https://sspai.com/post/81836)
 * [【2023-08-07】 开会糟透了？试试无声会议吧](https://sspai.com/post/81644)
-* [【2023-08-07】 派早报：Vim 作者逝世，二季度全球手机销售额继续下降](https://sspai.com/post/81814)
-* [【2023-08-06】 播客 | 中文打字机：一个世纪的汉字突围史](https://sspai.com/post/81761)
-* [【2023-08-05】 硬件有价数据无价，从零搭建 NAS 数据备份系统](https://sspai.com/post/81509)
-* [【2023-08-05】 一入直列深似海，旁人不会用此盘：Planck 配列键盘使用心得](https://sspai.com/post/81740)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-08 05:10:58
+:alarm_clock: 更新时间: 2023-08-09 05:11:24
