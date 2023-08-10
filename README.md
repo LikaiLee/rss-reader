@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-10】 从拖延症到启动困难，聊聊克服困难背后的三大方法](https://sspai.com/post/81892)
+* [【2023-08-10】 派早报：Google 发布人工智能代码编辑器、字节跳动推出公共 DNS 服务等](https://sspai.com/post/81915)
+* [【2023-08-09】 免费试读 | 上手 GTD 的第一步，做好任务的收集与分类](https://sspai.com/post/79148)
+* [【2023-08-09】 一句话完成繁琐操作：你可以试试的 8 个 Windows 命令行工具](https://sspai.com/post/81787)
 * [【2023-08-09】 书到用时方恨少？写读书笔记时如何做到旁征博引](https://sspai.com/post/81889)
 * [【2023-08-09】 派早报：Chrome 安全补丁更新改为每周推送、Sonos 推出 Era 100 音箱等](https://sspai.com/post/81895)
 * [【2023-08-08】 社区速递 007 | 买过的「洋垃圾」、平板上的代码和作者的新玩意](https://sspai.com/post/81857)
 * [【2023-08-08】 为了重拾对生活的「掌控感」，我做了一款 iOS 应用](https://sspai.com/post/81775)
 * [【2023-08-08】 一场特别的深度家庭大扫除，来收拾跨城搬家的累与泪](https://sspai.com/post/81756)
 * [【2023-08-08】 派早报：微软更新 Windows 11 CPU 支持列表，Amazfit Cheetah Pro 上架等](https://sspai.com/post/81862)
-* [【2023-08-07】 派评 | 近期值得关注的 App](https://sspai.com/post/81850)
-* [【2023-08-07】 从历史中开出来，这是我和 BMW 三系共处的两年](https://sspai.com/post/80462)
-* [【2023-08-07】 能干掉你「启动盘」的 Windows 漏洞补丁，为什么不得不更新？](https://sspai.com/post/81836)
-* [【2023-08-07】 开会糟透了？试试无声会议吧](https://sspai.com/post/81644)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-08-10】 游戏惊喜设计：给你一把游戏策划的万能钥匙](http://zhuanlan.zhihu.com/p/648798752?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-07】 张艺兴、金晨主演的电影《孤注一掷》点映口碑如何？好看吗？](http://www.zhihu.com/question/615724803/answer/3153335484?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-04】 北京7.30暴雨 K1178被困72小时亲历记录](http://zhuanlan.zhihu.com/p/647596639?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-02】 【万字干货】如何从0开始设计GTA样式的开放世界地图](http://zhuanlan.zhihu.com/p/645259582?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-07-31】 大模型训练和进化之路｜AI 盐沙龙实录](http://zhuanlan.zhihu.com/p/644827175?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-31】 故事创作设置悬念时有什么技巧？](http://www.zhihu.com/question/27374212/answer/3142510532?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-07-28】 值得苦练的100道Python经典练手题，（附详细答案）建议收藏！](http://zhuanlan.zhihu.com/p/617626496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-28】 分享几个常用的运维 shell 脚本](http://zhuanlan.zhihu.com/p/612782776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-09 05:11:24
+:alarm_clock: 更新时间: 2023-08-10 05:11:22

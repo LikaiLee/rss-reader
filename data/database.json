@@ -518,6 +518,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从拖延症到启动困难，聊聊克服困难背后的三大方法",
+                "link": "https://sspai.com/post/81892",
+                "published": "2023-08-10"
+            },
+            {
+                "title": "派早报：Google 发布人工智能代码编辑器、字节跳动推出公共 DNS 服务等",
+                "link": "https://sspai.com/post/81915",
+                "published": "2023-08-10"
+            },
+            {
+                "title": "免费试读 | 上手 GTD 的第一步，做好任务的收集与分类",
+                "link": "https://sspai.com/post/79148",
+                "published": "2023-08-09"
+            },
+            {
+                "title": "一句话完成繁琐操作：你可以试试的 8 个 Windows 命令行工具",
+                "link": "https://sspai.com/post/81787",
+                "published": "2023-08-09"
+            },
+            {
                 "title": "书到用时方恨少？写读书笔记时如何做到旁征博引",
                 "link": "https://sspai.com/post/81889",
                 "published": "2023-08-09"
@@ -44624,6 +44644,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "游戏惊喜设计：给你一把游戏策划的万能钥匙",
+                "link": "http://zhuanlan.zhihu.com/p/648798752?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-10"
+            },
+            {
                 "title": "张艺兴、金晨主演的电影《孤注一掷》点映口碑如何？好看吗？",
                 "link": "http://www.zhihu.com/question/615724803/answer/3153335484?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-08-07"
@@ -52384,7 +52409,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
