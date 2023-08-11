@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-08-11】 科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)
 * [【2023-08-08】 《TypeScript 教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)
 * [【2023-08-04】 科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)
 * [【2023-07-28】 科技爱好者周刊（第 264 期）：Elasticsearch 的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html)
@@ -25,7 +26,6 @@
 * [【2023-06-30】 科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)
 * [【2023-06-16】 科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)
 * [【2023-06-09】 科技爱好者周刊（第 258 期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html)
-* [【2023-06-01】 科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-11】 围观了 Twitter 和 Threads 的夏日大作战后，我们来聊聊 Logo 设计](https://sspai.com/post/81880)
+* [【2023-08-11】 派早报：大疆发布 DJI Transmission 图传接收器标准套装等](https://sspai.com/post/81937)
+* [【2023-08-10】 多少无可虑，横竖有所得：非开发者可以从代码中读些什么](https://sspai.com/prime/story/read-code-as-non-dev)
+* [【2023-08-10】 新玩意 157｜少数派的编辑们最近买了啥？](https://sspai.com/post/81924)
+* [【2023-08-10】 支持 AI、转向订阅，老牌手写笔记应用 Goodnotes 6 大更新](https://sspai.com/post/81920)
 * [【2023-08-10】 从拖延症到启动困难，聊聊克服困难背后的三大方法](https://sspai.com/post/81892)
 * [【2023-08-10】 派早报：Google 发布人工智能代码编辑器、字节跳动推出公共 DNS 服务等](https://sspai.com/post/81915)
 * [【2023-08-09】 免费试读 | 上手 GTD 的第一步，做好任务的收集与分类](https://sspai.com/post/79148)
 * [【2023-08-09】 一句话完成繁琐操作：你可以试试的 8 个 Windows 命令行工具](https://sspai.com/post/81787)
 * [【2023-08-09】 书到用时方恨少？写读书笔记时如何做到旁征博引](https://sspai.com/post/81889)
-* [【2023-08-09】 派早报：Chrome 安全补丁更新改为每周推送、Sonos 推出 Era 100 音箱等](https://sspai.com/post/81895)
-* [【2023-08-08】 社区速递 007 | 买过的「洋垃圾」、平板上的代码和作者的新玩意](https://sspai.com/post/81857)
-* [【2023-08-08】 为了重拾对生活的「掌控感」，我做了一款 iOS 应用](https://sspai.com/post/81775)
-* [【2023-08-08】 一场特别的深度家庭大扫除，来收拾跨城搬家的累与泪](https://sspai.com/post/81756)
-* [【2023-08-08】 派早报：微软更新 Windows 11 CPU 支持列表，Amazfit Cheetah Pro 上架等](https://sspai.com/post/81862)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-10 05:11:22
+:alarm_clock: 更新时间: 2023-08-11 05:10:43

@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书",
+                "link": "http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html",
+                "published": "2023-08-11"
+            },
+            {
                 "title": "《TypeScript 教程》发布了",
                 "link": "http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html",
                 "published": "2023-08-08"
@@ -510,13 +515,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "围观了 Twitter 和 Threads 的夏日大作战后，我们来聊聊 Logo 设计",
+                "link": "https://sspai.com/post/81880",
+                "published": "2023-08-11"
+            },
+            {
+                "title": "派早报：大疆发布 DJI Transmission 图传接收器标准套装等",
+                "link": "https://sspai.com/post/81937",
+                "published": "2023-08-11"
+            },
+            {
+                "title": "多少无可虑，横竖有所得：非开发者可以从代码中读些什么",
+                "link": "https://sspai.com/prime/story/read-code-as-non-dev",
+                "published": "2023-08-10"
+            },
+            {
+                "title": "新玩意 157｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/81924",
+                "published": "2023-08-10"
+            },
+            {
+                "title": "支持 AI、转向订阅，老牌手写笔记应用 Goodnotes 6 大更新",
+                "link": "https://sspai.com/post/81920",
+                "published": "2023-08-10"
+            },
             {
                 "title": "从拖延症到启动困难，聊聊克服困难背后的三大方法",
                 "link": "https://sspai.com/post/81892",
@@ -14188,7 +14218,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -52409,7 +52439,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
