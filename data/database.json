@@ -515,13 +515,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大股作品",
+                "link": "https://sspai.com/post/81952",
+                "published": "2023-08-11"
+            },
+            {
+                "title": "城市漫步指南：山城风物夏时游，市井热烈美入收",
+                "link": "https://sspai.com/post/81907",
+                "published": "2023-08-11"
+            },
             {
                 "title": "围观了 Twitter 和 Threads 的夏日大作战后，我们来聊聊 Logo 设计",
                 "link": "https://sspai.com/post/81880",
@@ -14218,7 +14228,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,

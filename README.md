@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-08-11】 本周看什么 | 最近值得一看的一大股作品](https://sspai.com/post/81952)
+* [【2023-08-11】 城市漫步指南：山城风物夏时游，市井热烈美入收](https://sspai.com/post/81907)
 * [【2023-08-11】 围观了 Twitter 和 Threads 的夏日大作战后，我们来聊聊 Logo 设计](https://sspai.com/post/81880)
 * [【2023-08-11】 派早报：大疆发布 DJI Transmission 图传接收器标准套装等](https://sspai.com/post/81937)
 * [【2023-08-10】 多少无可虑，横竖有所得：非开发者可以从代码中读些什么](https://sspai.com/prime/story/read-code-as-non-dev)
@@ -43,8 +45,6 @@
 * [【2023-08-10】 从拖延症到启动困难，聊聊克服困难背后的三大方法](https://sspai.com/post/81892)
 * [【2023-08-10】 派早报：Google 发布人工智能代码编辑器、字节跳动推出公共 DNS 服务等](https://sspai.com/post/81915)
 * [【2023-08-09】 免费试读 | 上手 GTD 的第一步，做好任务的收集与分类](https://sspai.com/post/79148)
-* [【2023-08-09】 一句话完成繁琐操作：你可以试试的 8 个 Windows 命令行工具](https://sspai.com/post/81787)
-* [【2023-08-09】 书到用时方恨少？写读书笔记时如何做到旁征博引](https://sspai.com/post/81889)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-11 05:10:43
+:alarm_clock: 更新时间: 2023-08-12 05:10:05
