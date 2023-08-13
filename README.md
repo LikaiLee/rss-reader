@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-08-13】 两位效率工具玩家眼中的人脉管理与知识管理](https://sspai.com/post/81930)
+* [【2023-08-12】 试读福利 | Notion 自动化从 Button 开始，用 10 个案例带你从入门到进阶](https://sspai.com/post/81971)
 * [【2023-08-11】 本周看什么 | 最近值得一看的一大股作品](https://sspai.com/post/81952)
 * [【2023-08-11】 城市漫步指南：山城风物夏时游，市井热烈美入收](https://sspai.com/post/81907)
 * [【2023-08-11】 围观了 Twitter 和 Threads 的夏日大作战后，我们来聊聊 Logo 设计](https://sspai.com/post/81880)
@@ -43,8 +45,6 @@
 * [【2023-08-10】 新玩意 157｜少数派的编辑们最近买了啥？](https://sspai.com/post/81924)
 * [【2023-08-10】 支持 AI、转向订阅，老牌手写笔记应用 Goodnotes 6 大更新](https://sspai.com/post/81920)
 * [【2023-08-10】 从拖延症到启动困难，聊聊克服困难背后的三大方法](https://sspai.com/post/81892)
-* [【2023-08-10】 派早报：Google 发布人工智能代码编辑器、字节跳动推出公共 DNS 服务等](https://sspai.com/post/81915)
-* [【2023-08-09】 免费试读 | 上手 GTD 的第一步，做好任务的收集与分类](https://sspai.com/post/79148)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-12 05:10:05
+:alarm_clock: 更新时间: 2023-08-13 05:09:48
