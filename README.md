@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-08-14】 六边形游泳数据统计员，Garmin Fenix 智能手表深度使用分享](https://sspai.com/post/81215)
+* [【2023-08-14】 派早报：Zoom 承诺不用通信内容训练 AI，Android 版 Firefox 将支持扩展](https://sspai.com/post/81988)
+* [【2023-08-13】 4 个隐藏「小开关」，让你的 Chrome 浏览器更好用](https://sspai.com/post/81982)
 * [【2023-08-13】 两位效率工具玩家眼中的人脉管理与知识管理](https://sspai.com/post/81930)
 * [【2023-08-12】 试读福利 | Notion 自动化从 Button 开始，用 10 个案例带你从入门到进阶](https://sspai.com/post/81971)
 * [【2023-08-11】 本周看什么 | 最近值得一看的一大股作品](https://sspai.com/post/81952)
@@ -42,9 +45,6 @@
 * [【2023-08-11】 围观了 Twitter 和 Threads 的夏日大作战后，我们来聊聊 Logo 设计](https://sspai.com/post/81880)
 * [【2023-08-11】 派早报：大疆发布 DJI Transmission 图传接收器标准套装等](https://sspai.com/post/81937)
 * [【2023-08-10】 多少无可虑，横竖有所得：非开发者可以从代码中读些什么](https://sspai.com/prime/story/read-code-as-non-dev)
-* [【2023-08-10】 新玩意 157｜少数派的编辑们最近买了啥？](https://sspai.com/post/81924)
-* [【2023-08-10】 支持 AI、转向订阅，老牌手写笔记应用 Goodnotes 6 大更新](https://sspai.com/post/81920)
-* [【2023-08-10】 从拖延症到启动困难，聊聊克服困难背后的三大方法](https://sspai.com/post/81892)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-13 05:09:48
+:alarm_clock: 更新时间: 2023-08-14 05:10:47
