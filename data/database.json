@@ -523,6 +523,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "关于番茄工作法的思考，和替代解决方案",
+                "link": "https://sspai.com/post/81294",
+                "published": "2023-08-15"
+            },
+            {
+                "title": "派早报：小米召开 2023 年度新品发布会，阿里集团明确钉钉独立发展等",
+                "link": "https://sspai.com/post/82034",
+                "published": "2023-08-15"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/82015",
+                "published": "2023-08-14"
+            },
+            {
+                "title": "本月玩什么 | 博德之门 3、宇宙之轮姐妹会、机战佣兵 VI、流浪之神",
+                "link": "https://sspai.com/post/81993",
+                "published": "2023-08-14"
+            },
+            {
                 "title": "六边形游泳数据统计员，Garmin Fenix 智能手表深度使用分享",
                 "link": "https://sspai.com/post/81215",
                 "published": "2023-08-14"
@@ -14253,7 +14273,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
