@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-16】 App+1 | 给照片加上「徕卡风格」水印，这个 app 比快捷指令更方便](https://sspai.com/post/81413)
+* [【2023-08-16】 派早报：微信公众号支持图片修改、微软将推送新版 Office 应用默认主题等](https://sspai.com/post/82066)
+* [【2023-08-15】 社区速递 008 | 夏日好物、基于 Obsidian 的生活记录以及新玩意](https://sspai.com/post/82042)
+* [【2023-08-15】 遇见「iPad 笔记课代表」：2023 iPad 电子笔记大赛回顾](https://sspai.com/post/82017)
+* [【2023-08-15】 播客 | 对话笪屹超人：如何成为不一样的科技博主](https://sspai.com/post/82018)
 * [【2023-08-15】 关于番茄工作法的思考，和替代解决方案](https://sspai.com/post/81294)
 * [【2023-08-15】 派早报：小米召开 2023 年度新品发布会，阿里集团明确钉钉独立发展等](https://sspai.com/post/82034)
 * [【2023-08-14】 派评 | 近期值得关注的 App](https://sspai.com/post/82015)
 * [【2023-08-14】 本月玩什么 | 博德之门 3、宇宙之轮姐妹会、机战佣兵 VI、流浪之神](https://sspai.com/post/81993)
 * [【2023-08-14】 六边形游泳数据统计员，Garmin Fenix 智能手表深度使用分享](https://sspai.com/post/81215)
-* [【2023-08-14】 派早报：Zoom 承诺不用通信内容训练 AI，Android 版 Firefox 将支持扩展](https://sspai.com/post/81988)
-* [【2023-08-13】 4 个隐藏「小开关」，让你的 Chrome 浏览器更好用](https://sspai.com/post/81982)
-* [【2023-08-13】 两位效率工具玩家眼中的人脉管理与知识管理](https://sspai.com/post/81930)
-* [【2023-08-12】 试读福利 | Notion 自动化从 Button 开始，用 10 个案例带你从入门到进阶](https://sspai.com/post/81971)
-* [【2023-08-11】 本周看什么 | 最近值得一看的一大股作品](https://sspai.com/post/81952)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-08-15】 厨房如何装修才能尽可能地做到「去家务化」？](http://www.zhihu.com/question/613685076/answer/3139928869?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-08-15】 为什么说有些年轻人做饭是「差生文具多」？](http://www.zhihu.com/question/613685051/answer/3145598134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-08-15】 你读过的最有力量的一段文字是什么？](http://www.zhihu.com/question/47436256/answer/2475876541?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-08-15】 你读过的最有力量的一段文字是什么？](http://zhuanlan.zhihu.com/p/518094607?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-10】 游戏惊喜设计：给你一把游戏策划的万能钥匙](http://zhuanlan.zhihu.com/p/648798752?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-07】 张艺兴、金晨主演的电影《孤注一掷》点映口碑如何？好看吗？](http://www.zhihu.com/question/615724803/answer/3153335484?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-04】 北京7.30暴雨 K1178被困72小时亲历记录](http://zhuanlan.zhihu.com/p/647596639?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-02】 【万字干货】如何从0开始设计GTA样式的开放世界地图](http://zhuanlan.zhihu.com/p/645259582?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-02】 如何评价电视剧《欢颜》里的配乐？](http://www.zhihu.com/question/614066753/answer/3136312188?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-02】 如何评价电视剧《欢颜》里的配乐？](http://www.zhihu.com/question/614066753/answer/3145850292?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-31】 新人有哪些途径可以开始导演职业生涯？](http://www.zhihu.com/question/320885390/answer/3137858776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-31】 大模型训练和进化之路｜AI 盐沙龙实录](http://zhuanlan.zhihu.com/p/644827175?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-31】 故事创作设置悬念时有什么技巧？](http://www.zhihu.com/question/27374212/answer/3142510532?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-28】 值得苦练的100道Python经典练手题，（附详细答案）建议收藏！](http://zhuanlan.zhihu.com/p/617626496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-15 05:10:43
+:alarm_clock: 更新时间: 2023-08-16 05:11:00
