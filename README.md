@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-17】 要创意，也要规范：Function Call 如何让 GPT 更懂你？](https://sspai.com/post/81986)
+* [【2023-08-17】 派早报：一加发布 Ace 2 Pro 手机、Setapp 将推出 iOS 应用商店等](https://sspai.com/post/82109)
+* [【2023-08-16】 极简三步，我的个人知识管理工作流](https://sspai.com/post/81926)
+* [【2023-08-16】 日本浮生录 01：首次自驾，听佐渡岛与大地艺术节的交响](https://sspai.com/post/81940)
 * [【2023-08-16】 App+1 | 给照片加上「徕卡风格」水印，这个 app 比快捷指令更方便](https://sspai.com/post/81413)
 * [【2023-08-16】 派早报：微信公众号支持图片修改、微软将推送新版 Office 应用默认主题等](https://sspai.com/post/82066)
 * [【2023-08-15】 社区速递 008 | 夏日好物、基于 Obsidian 的生活记录以及新玩意](https://sspai.com/post/82042)
 * [【2023-08-15】 遇见「iPad 笔记课代表」：2023 iPad 电子笔记大赛回顾](https://sspai.com/post/82017)
 * [【2023-08-15】 播客 | 对话笪屹超人：如何成为不一样的科技博主](https://sspai.com/post/82018)
 * [【2023-08-15】 关于番茄工作法的思考，和替代解决方案](https://sspai.com/post/81294)
-* [【2023-08-15】 派早报：小米召开 2023 年度新品发布会，阿里集团明确钉钉独立发展等](https://sspai.com/post/82034)
-* [【2023-08-14】 派评 | 近期值得关注的 App](https://sspai.com/post/82015)
-* [【2023-08-14】 本月玩什么 | 博德之门 3、宇宙之轮姐妹会、机战佣兵 VI、流浪之神](https://sspai.com/post/81993)
-* [【2023-08-14】 六边形游泳数据统计员，Garmin Fenix 智能手表深度使用分享](https://sspai.com/post/81215)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-08-16】 有奖创作：新职人副业研究所](http://zhuanlan.zhihu.com/p/650452280?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-15】 厨房如何装修才能尽可能地做到「去家务化」？](http://www.zhihu.com/question/613685076/answer/3139928869?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-15】 为什么说有些年轻人做饭是「差生文具多」？](http://www.zhihu.com/question/613685051/answer/3145598134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-15】 你读过的最有力量的一段文字是什么？](http://www.zhihu.com/question/47436256/answer/2475876541?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-08-04】 北京7.30暴雨 K1178被困72小时亲历记录](http://zhuanlan.zhihu.com/p/647596639?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-02】 【万字干货】如何从0开始设计GTA样式的开放世界地图](http://zhuanlan.zhihu.com/p/645259582?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-02】 如何评价电视剧《欢颜》里的配乐？](http://www.zhihu.com/question/614066753/answer/3136312188?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-02】 如何评价电视剧《欢颜》里的配乐？](http://www.zhihu.com/question/614066753/answer/3145850292?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-16 05:11:00
+:alarm_clock: 更新时间: 2023-08-17 05:10:41

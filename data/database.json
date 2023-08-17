@@ -523,6 +523,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "要创意，也要规范：Function Call 如何让 GPT 更懂你？",
+                "link": "https://sspai.com/post/81986",
+                "published": "2023-08-17"
+            },
+            {
+                "title": "派早报：一加发布 Ace 2 Pro 手机、Setapp 将推出 iOS 应用商店等",
+                "link": "https://sspai.com/post/82109",
+                "published": "2023-08-17"
+            },
+            {
+                "title": "极简三步，我的个人知识管理工作流",
+                "link": "https://sspai.com/post/81926",
+                "published": "2023-08-16"
+            },
+            {
+                "title": "日本浮生录 01：首次自驾，听佐渡岛与大地艺术节的交响",
+                "link": "https://sspai.com/post/81940",
+                "published": "2023-08-16"
+            },
+            {
                 "title": "App+1 | 给照片加上「徕卡风格」水印，这个 app 比快捷指令更方便",
                 "link": "https://sspai.com/post/81413",
                 "published": "2023-08-16"
@@ -14298,7 +14318,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -44754,6 +44774,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有奖创作：新职人副业研究所",
+                "link": "http://zhuanlan.zhihu.com/p/650452280?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-16"
+            },
+            {
                 "title": "厨房如何装修才能尽可能地做到「去家务化」？",
                 "link": "http://www.zhihu.com/question/613685076/answer/3139928869?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-08-15"
@@ -52539,7 +52564,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 4,
