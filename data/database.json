@@ -520,13 +520,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "在三里屯 Apple Store，我们遇见了张亚东和一群充满创意的年轻人",
+                "link": "https://sspai.com/post/82163",
+                "published": "2023-08-19"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大壶作品",
+                "link": "https://sspai.com/post/82149",
+                "published": "2023-08-18"
+            },
+            {
+                "title": "有人的地方就有江湖，聊聊我眼中的「价值」与「人脉」",
+                "link": "https://sspai.com/post/82099",
+                "published": "2023-08-18"
+            },
             {
                 "title": "保持情绪健康，我选择每天用十分钟自我疗愈",
                 "link": "https://sspai.com/post/82085",
@@ -14353,7 +14368,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -52604,7 +52619,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
