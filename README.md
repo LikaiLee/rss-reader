@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-08-19】 冰岛记忆：梦乡和梦魇咫尺之间](https://sspai.com/prime/story/iceland-tour-guide-1)
 * [【2023-08-19】 在三里屯 Apple Store，我们遇见了张亚东和一群充满创意的年轻人](https://sspai.com/post/82163)
 * [【2023-08-18】 本周看什么 | 最近值得一看的一大壶作品](https://sspai.com/post/82149)
 * [【2023-08-18】 有人的地方就有江湖，聊聊我眼中的「价值」与「人脉」](https://sspai.com/post/82099)
@@ -44,7 +45,6 @@
 * [【2023-08-17】 新玩意 158｜少数派的编辑们最近买了啥？](https://sspai.com/post/82125)
 * [【2023-08-17】 有些实用，有些华丽，这是派商店为你准备的七夕新品](https://sspai.com/post/82091)
 * [【2023-08-17】 App+1 | 用游戏互动守护你的颈椎：NeckGo](https://sspai.com/post/82035)
-* [【2023-08-17】 要创意，也要规范：Function Call 如何让 GPT 更懂你？](https://sspai.com/post/81986)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-19 05:09:51
+:alarm_clock: 更新时间: 2023-08-20 05:09:56

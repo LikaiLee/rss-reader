@@ -528,6 +528,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "冰岛记忆：梦乡和梦魇咫尺之间",
+                "link": "https://sspai.com/prime/story/iceland-tour-guide-1",
+                "published": "2023-08-19"
+            },
+            {
                 "title": "在三里屯 Apple Store，我们遇见了张亚东和一群充满创意的年轻人",
                 "link": "https://sspai.com/post/82163",
                 "published": "2023-08-19"
@@ -14368,7 +14373,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
