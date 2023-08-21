@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-21】 日本浮生录 02：漫步北九州，感受自然和人文之美](https://sspai.com/post/82037)
+* [【2023-08-21】 派早报：《黑神话：悟空》举办线下试玩，稚晖君团队首款机器人亮相](https://sspai.com/post/82240)
+* [【2023-08-20】 去往「夜之城」的更深处：《赛博朋克 2077》衍生作品介绍](https://sspai.com/post/82216)
+* [【2023-08-20】 被浏览器厂商公开反对，想让你少看验证码的 WEI API 哪里出了问题？](https://sspai.com/post/81970)
 * [【2023-08-19】 冰岛记忆：梦乡和梦魇咫尺之间](https://sspai.com/prime/story/iceland-tour-guide-1)
 * [【2023-08-19】 在三里屯 Apple Store，我们遇见了张亚东和一群充满创意的年轻人](https://sspai.com/post/82163)
 * [【2023-08-18】 本周看什么 | 最近值得一看的一大壶作品](https://sspai.com/post/82149)
 * [【2023-08-18】 有人的地方就有江湖，聊聊我眼中的「价值」与「人脉」](https://sspai.com/post/82099)
 * [【2023-08-18】 保持情绪健康，我选择每天用十分钟自我疗愈](https://sspai.com/post/82085)
 * [【2023-08-18】 派早报：Apple 庆祝在中国发展 30 周年、罗德推出无线麦克风套组](https://sspai.com/post/82141)
-* [【2023-08-17】 少数派产品经理 SamWanng 都装了啥？](https://sspai.com/prime/story/zhuanglesha-230817)
-* [【2023-08-17】 新玩意 158｜少数派的编辑们最近买了啥？](https://sspai.com/post/82125)
-* [【2023-08-17】 有些实用，有些华丽，这是派商店为你准备的七夕新品](https://sspai.com/post/82091)
-* [【2023-08-17】 App+1 | 用游戏互动守护你的颈椎：NeckGo](https://sspai.com/post/82035)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-20 05:09:56
+:alarm_clock: 更新时间: 2023-08-21 05:10:47
