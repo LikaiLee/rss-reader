@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+10】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+7】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-24】 普通人选车如何避坑？这是我的选配心得](https://sspai.com/post/82249)
+* [【2023-08-24】 派早报：骁龙推出 G 系列处理器、GPT-3.5 Turbo 支持微调等](https://sspai.com/post/82370)
+* [【2023-08-23】 近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总](https://sspai.com/post/82360)
+* [【2023-08-23】 vivo X90s 体验：一次胶片与质感色彩的预演](https://sspai.com/post/82336)
 * [【2023-08-23】 屏幕使用时间超标？也许本文可以帮你](https://sspai.com/post/82138)
 * [【2023-08-23】 派早报：Beats Studio Buds + 推出新配色、英伟达发布 DLSS 3.5 等](https://sspai.com/post/82324)
 * [【2023-08-22】 社区速递 009 | 超实用汽车配件、防摸鱼工具以及作者的新玩意](https://sspai.com/post/82278)
 * [【2023-08-22】 播客 | 对话蒋方舟：写作，一种生活方式](https://sspai.com/post/82276)
 * [【2023-08-22】 生产力祛魅：理清适合自己的工作流，社科工作者是这么做的](https://sspai.com/post/82092)
 * [【2023-08-22】 派早报：国区 Skype for Business 停运，QQ 客户端存在漏洞等](https://sspai.com/post/82272)
-* [【2023-08-21】 [评论送码] Context 众筹：搭建你的个人英语「语境库」](https://sspai.com/post/82252)
-* [【2023-08-21】 派评 | 近期值得关注的 App](https://sspai.com/post/82255)
-* [【2023-08-21】 国产热门 3A 大作举行线下试玩：《黑神话：悟空》玩起来怎么样？](https://sspai.com/post/82244)
-* [【2023-08-21】 Matrix Talk | 不吝想法和创意：聊聊我们收到的七夕礼物](https://sspai.com/post/82234)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-08-23】 请问您见过最惊艳的sql查询语句是什么？](http://www.zhihu.com/question/384673958/answer/3073350200?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-08-23】 网易云里的哪些热评，一瞬间就击中了你？](http://www.zhihu.com/question/359026457/answer/2827751833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-22】 有哪些你看一眼就终生不能忘的恐怖图片？](http://www.zhihu.com/question/41697934/answer/3125073700?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-22】 大家如何看待新能源汽车的前景和中国汽车下一步的发展方向？](http://www.zhihu.com/question/312691334/answer/3177079512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-22】 比亚迪特斯拉：胜负已分，2023年了不再讨论新能源汽车技术路线了？](http://www.zhihu.com/question/598845159/answer/3177079526?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-08-22】 如何看待年轻人「躺平」的现象？](http://www.zhihu.com/question/459392094/answer/3175451562?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-22】 国内新能源行业的发展前景如何？](http://www.zhihu.com/question/29522378/answer/3175451599?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-18】 云南提出进一步扩大「会泽模式」示范效应，如何看待这种「苦读」模式？将如何影响云南的教育生态？](http://www.zhihu.com/question/617378870/answer/3168319328?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-16】 有奖创作：新职人副业研究所](http://zhuanlan.zhihu.com/p/650452280?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-15】 厨房如何装修才能尽可能地做到「去家务化」？](http://www.zhihu.com/question/613685076/answer/3139928869?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-23 05:10:38
+:alarm_clock: 更新时间: 2023-08-24 05:10:46

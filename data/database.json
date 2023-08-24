@@ -528,6 +528,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "普通人选车如何避坑？这是我的选配心得",
+                "link": "https://sspai.com/post/82249",
+                "published": "2023-08-24"
+            },
+            {
+                "title": "派早报：骁龙推出 G 系列处理器、GPT-3.5 Turbo 支持微调等",
+                "link": "https://sspai.com/post/82370",
+                "published": "2023-08-24"
+            },
+            {
+                "title": "近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总",
+                "link": "https://sspai.com/post/82360",
+                "published": "2023-08-23"
+            },
+            {
+                "title": "vivo X90s 体验：一次胶片与质感色彩的预演",
+                "link": "https://sspai.com/post/82336",
+                "published": "2023-08-23"
+            },
+            {
                 "title": "屏幕使用时间超标？也许本文可以帮你",
                 "link": "https://sspai.com/post/82138",
                 "published": "2023-08-23"
@@ -14443,7 +14463,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -44899,6 +44919,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "请问您见过最惊艳的sql查询语句是什么？",
+                "link": "http://www.zhihu.com/question/384673958/answer/3073350200?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-23"
+            },
+            {
+                "title": "网易云里的哪些热评，一瞬间就击中了你？",
+                "link": "http://www.zhihu.com/question/359026457/answer/2827751833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-23"
+            },
+            {
                 "title": "有哪些你看一眼就终生不能忘的恐怖图片？",
                 "link": "http://www.zhihu.com/question/41697934/answer/3125073700?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-08-22"
@@ -52729,7 +52759,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 2
     },
     {
         "id": 4,
