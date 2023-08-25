@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人",
+                "link": "http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html",
+                "published": "2023-08-25"
+            },
+            {
                 "title": "科技爱好者周刊（第 267 期）：5G 的春天要来了",
                 "link": "http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html",
                 "published": "2023-08-18"
@@ -520,13 +525,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "接受服务应知应会：从政策到实践，关于「退货」我们应该知道什么？",
+                "link": "https://sspai.com/post/82268",
+                "published": "2023-08-25"
+            },
+            {
+                "title": "派早报：Apple 支持加州维修权法案、Epic 宣布独占首发游戏计划",
+                "link": "https://sspai.com/post/82416",
+                "published": "2023-08-25"
+            },
+            {
+                "title": "一日一技 | 一键把 Zotero 摘录以特定格式粘贴到 Obsidian",
+                "link": "https://sspai.com/post/82279",
+                "published": "2023-08-24"
+            },
+            {
+                "title": "用词句堆出来的用户体验：谈 app 文案的细节斟酌",
+                "link": "https://sspai.com/post/82145",
+                "published": "2023-08-24"
+            },
+            {
+                "title": "#派在现场# 近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总",
+                "link": "https://sspai.com/post/82360",
+                "published": "2023-08-23"
+            },
             {
                 "title": "普通人选车如何避坑？这是我的选配心得",
                 "link": "https://sspai.com/post/82249",
@@ -14463,7 +14493,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -44919,6 +44949,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如果北京不是首都会发展成什么样子？",
+                "link": "http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-24"
+            },
+            {
                 "title": "请问您见过最惊艳的sql查询语句是什么？",
                 "link": "http://www.zhihu.com/question/384673958/answer/3073350200?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-08-23"
@@ -52759,7 +52794,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,

@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-08-25】 科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)
 * [【2023-08-18】 科技爱好者周刊（第 267 期）：5G 的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)
 * [【2023-08-11】 科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)
 * [【2023-08-08】 《TypeScript 教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)
@@ -25,7 +26,6 @@
 * [【2023-07-14】 科技爱好者周刊（第 262 期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)
 * [【2023-07-07】 科技爱好者周刊（第 261 期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)
 * [【2023-06-30】 科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)
-* [【2023-06-16】 科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-25】 接受服务应知应会：从政策到实践，关于「退货」我们应该知道什么？](https://sspai.com/post/82268)
+* [【2023-08-25】 派早报：Apple 支持加州维修权法案、Epic 宣布独占首发游戏计划](https://sspai.com/post/82416)
+* [【2023-08-24】 一日一技 | 一键把 Zotero 摘录以特定格式粘贴到 Obsidian](https://sspai.com/post/82279)
+* [【2023-08-24】 用词句堆出来的用户体验：谈 app 文案的细节斟酌](https://sspai.com/post/82145)
+* [【2023-08-23】 #派在现场# 近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总](https://sspai.com/post/82360)
 * [【2023-08-24】 普通人选车如何避坑？这是我的选配心得](https://sspai.com/post/82249)
 * [【2023-08-24】 派早报：骁龙推出 G 系列处理器、GPT-3.5 Turbo 支持微调等](https://sspai.com/post/82370)
 * [【2023-08-23】 近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总](https://sspai.com/post/82360)
 * [【2023-08-23】 vivo X90s 体验：一次胶片与质感色彩的预演](https://sspai.com/post/82336)
 * [【2023-08-23】 屏幕使用时间超标？也许本文可以帮你](https://sspai.com/post/82138)
-* [【2023-08-23】 派早报：Beats Studio Buds + 推出新配色、英伟达发布 DLSS 3.5 等](https://sspai.com/post/82324)
-* [【2023-08-22】 社区速递 009 | 超实用汽车配件、防摸鱼工具以及作者的新玩意](https://sspai.com/post/82278)
-* [【2023-08-22】 播客 | 对话蒋方舟：写作，一种生活方式](https://sspai.com/post/82276)
-* [【2023-08-22】 生产力祛魅：理清适合自己的工作流，社科工作者是这么做的](https://sspai.com/post/82092)
-* [【2023-08-22】 派早报：国区 Skype for Business 停运，QQ 客户端存在漏洞等](https://sspai.com/post/82272)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-08-24】 如果北京不是首都会发展成什么样子？](http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-23】 请问您见过最惊艳的sql查询语句是什么？](http://www.zhihu.com/question/384673958/answer/3073350200?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-23】 网易云里的哪些热评，一瞬间就击中了你？](http://www.zhihu.com/question/359026457/answer/2827751833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-22】 有哪些你看一眼就终生不能忘的恐怖图片？](http://www.zhihu.com/question/41697934/answer/3125073700?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-08-22】 刚毕业的新人想进入汽车行业工作，有哪些需要准备的？](http://www.zhihu.com/question/313846030/answer/3175451616?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-22】 如何看待年轻人「躺平」的现象？](http://www.zhihu.com/question/459392094/answer/3175451562?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-22】 国内新能源行业的发展前景如何？](http://www.zhihu.com/question/29522378/answer/3175451599?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-18】 云南提出进一步扩大「会泽模式」示范效应，如何看待这种「苦读」模式？将如何影响云南的教育生态？](http://www.zhihu.com/question/617378870/answer/3168319328?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-24 05:10:46
+:alarm_clock: 更新时间: 2023-08-25 05:10:46
