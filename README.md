@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-08-26】 程序员应该知道的常识，我认为有这 5 个](https://sspai.com/post/82286)
+* [【2023-08-25】 网页直接标注：工具比较与使用技巧](https://sspai.com/prime/story/web-annotators-compared)
+* [【2023-08-25】 本周看什么 | 最近值得一看的一大坛作品](https://sspai.com/post/82430)
+* [【2023-08-25】 入华 30 周年之际，我们参观了 Apple 智惠教育中心](https://sspai.com/post/82407)
+* [【2023-08-25】 为表格打开新天地：Excel Python 整合上手体验](https://sspai.com/post/82426)
 * [【2023-08-25】 接受服务应知应会：从政策到实践，关于「退货」我们应该知道什么？](https://sspai.com/post/82268)
 * [【2023-08-25】 派早报：Apple 支持加州维修权法案、Epic 宣布独占首发游戏计划](https://sspai.com/post/82416)
 * [【2023-08-24】 一日一技 | 一键把 Zotero 摘录以特定格式粘贴到 Obsidian](https://sspai.com/post/82279)
 * [【2023-08-24】 用词句堆出来的用户体验：谈 app 文案的细节斟酌](https://sspai.com/post/82145)
 * [【2023-08-23】 #派在现场# 近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总](https://sspai.com/post/82360)
-* [【2023-08-24】 普通人选车如何避坑？这是我的选配心得](https://sspai.com/post/82249)
-* [【2023-08-24】 派早报：骁龙推出 G 系列处理器、GPT-3.5 Turbo 支持微调等](https://sspai.com/post/82370)
-* [【2023-08-23】 近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总](https://sspai.com/post/82360)
-* [【2023-08-23】 vivo X90s 体验：一次胶片与质感色彩的预演](https://sspai.com/post/82336)
-* [【2023-08-23】 屏幕使用时间超标？也许本文可以帮你](https://sspai.com/post/82138)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-08-25】 装修或定制中，哪些新型环保材料可以「完美」替代人造板？](http://www.zhihu.com/question/616597405/answer/3182501647?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-24】 如果北京不是首都会发展成什么样子？](http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-23】 请问您见过最惊艳的sql查询语句是什么？](http://www.zhihu.com/question/384673958/answer/3073350200?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-23】 网易云里的哪些热评，一瞬间就击中了你？](http://www.zhihu.com/question/359026457/answer/2827751833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-08-22】 国产车真的适合做高端品牌吗？](http://www.zhihu.com/question/384519755/answer/3177079534?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-22】 刚毕业的新人想进入汽车行业工作，有哪些需要准备的？](http://www.zhihu.com/question/313846030/answer/3175451616?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-22】 如何看待年轻人「躺平」的现象？](http://www.zhihu.com/question/459392094/answer/3175451562?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-22】 国内新能源行业的发展前景如何？](http://www.zhihu.com/question/29522378/answer/3175451599?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-25 05:10:46
+:alarm_clock: 更新时间: 2023-08-26 05:10:01

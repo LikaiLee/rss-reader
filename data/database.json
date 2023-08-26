@@ -525,13 +525,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "程序员应该知道的常识，我认为有这 5 个",
+                "link": "https://sspai.com/post/82286",
+                "published": "2023-08-26"
+            },
+            {
+                "title": "网页直接标注：工具比较与使用技巧",
+                "link": "https://sspai.com/prime/story/web-annotators-compared",
+                "published": "2023-08-25"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大坛作品",
+                "link": "https://sspai.com/post/82430",
+                "published": "2023-08-25"
+            },
+            {
+                "title": "入华 30 周年之际，我们参观了 Apple 智惠教育中心",
+                "link": "https://sspai.com/post/82407",
+                "published": "2023-08-25"
+            },
+            {
+                "title": "为表格打开新天地：Excel Python 整合上手体验",
+                "link": "https://sspai.com/post/82426",
+                "published": "2023-08-25"
+            },
             {
                 "title": "接受服务应知应会：从政策到实践，关于「退货」我们应该知道什么？",
                 "link": "https://sspai.com/post/82268",
@@ -44948,6 +44973,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "装修或定制中，哪些新型环保材料可以「完美」替代人造板？",
+                "link": "http://www.zhihu.com/question/616597405/answer/3182501647?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-25"
+            },
             {
                 "title": "如果北京不是首都会发展成什么样子？",
                 "link": "http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
