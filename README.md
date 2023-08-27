@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-08-27】 这 8 件别人眼中的「电子垃圾」，是我手中的宝贝](https://sspai.com/post/82436)
+* [【2023-08-26】 内容的未来，是广告还是用户付费？](https://sspai.com/post/82309)
+* [【2023-08-26】 播客 | 对话老麦：请回答什么是少数派的下一个十年](https://sspai.com/post/82453)
 * [【2023-08-26】 程序员应该知道的常识，我认为有这 5 个](https://sspai.com/post/82286)
 * [【2023-08-25】 网页直接标注：工具比较与使用技巧](https://sspai.com/prime/story/web-annotators-compared)
 * [【2023-08-25】 本周看什么 | 最近值得一看的一大坛作品](https://sspai.com/post/82430)
@@ -42,9 +45,6 @@
 * [【2023-08-25】 为表格打开新天地：Excel Python 整合上手体验](https://sspai.com/post/82426)
 * [【2023-08-25】 接受服务应知应会：从政策到实践，关于「退货」我们应该知道什么？](https://sspai.com/post/82268)
 * [【2023-08-25】 派早报：Apple 支持加州维修权法案、Epic 宣布独占首发游戏计划](https://sspai.com/post/82416)
-* [【2023-08-24】 一日一技 | 一键把 Zotero 摘录以特定格式粘贴到 Obsidian](https://sspai.com/post/82279)
-* [【2023-08-24】 用词句堆出来的用户体验：谈 app 文案的细节斟酌](https://sspai.com/post/82145)
-* [【2023-08-23】 #派在现场# 近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总](https://sspai.com/post/82360)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-26 05:10:01
+:alarm_clock: 更新时间: 2023-08-27 05:10:05

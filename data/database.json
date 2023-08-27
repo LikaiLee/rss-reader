@@ -533,6 +533,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "这 8 件别人眼中的「电子垃圾」，是我手中的宝贝",
+                "link": "https://sspai.com/post/82436",
+                "published": "2023-08-27"
+            },
+            {
+                "title": "内容的未来，是广告还是用户付费？",
+                "link": "https://sspai.com/post/82309",
+                "published": "2023-08-26"
+            },
+            {
+                "title": "播客 | 对话老麦：请回答什么是少数派的下一个十年",
+                "link": "https://sspai.com/post/82453",
+                "published": "2023-08-26"
+            },
+            {
                 "title": "程序员应该知道的常识，我认为有这 5 个",
                 "link": "https://sspai.com/post/82286",
                 "published": "2023-08-26"
@@ -14518,7 +14533,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -52824,7 +52839,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
