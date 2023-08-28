@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-08-28】 融合「修饰键」思路，让快捷指令更容易管理](https://sspai.com/post/82166)
+* [【2023-08-28】 派早报：数字服务法在欧生效，信安标委发布 AI 内容标识指南](https://sspai.com/post/82469)
+* [【2023-08-27】 科隆游戏展札记：最中国的悟空，最纯粹的快乐](https://sspai.com/post/82466)
 * [【2023-08-27】 这 8 件别人眼中的「电子垃圾」，是我手中的宝贝](https://sspai.com/post/82436)
 * [【2023-08-26】 内容的未来，是广告还是用户付费？](https://sspai.com/post/82309)
 * [【2023-08-26】 播客 | 对话老麦：请回答什么是少数派的下一个十年](https://sspai.com/post/82453)
@@ -42,9 +45,6 @@
 * [【2023-08-25】 网页直接标注：工具比较与使用技巧](https://sspai.com/prime/story/web-annotators-compared)
 * [【2023-08-25】 本周看什么 | 最近值得一看的一大坛作品](https://sspai.com/post/82430)
 * [【2023-08-25】 入华 30 周年之际，我们参观了 Apple 智惠教育中心](https://sspai.com/post/82407)
-* [【2023-08-25】 为表格打开新天地：Excel Python 整合上手体验](https://sspai.com/post/82426)
-* [【2023-08-25】 接受服务应知应会：从政策到实践，关于「退货」我们应该知道什么？](https://sspai.com/post/82268)
-* [【2023-08-25】 派早报：Apple 支持加州维修权法案、Epic 宣布独占首发游戏计划](https://sspai.com/post/82416)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-27 05:10:05
+:alarm_clock: 更新时间: 2023-08-28 05:11:07
