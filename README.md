@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+10】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+9】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
-* [【2023-08-28】 融合「修饰键」思路，让快捷指令更容易管理](https://sspai.com/post/82166)
-* [【2023-08-28】 派早报：数字服务法在欧生效，信安标委发布 AI 内容标识指南](https://sspai.com/post/82469)
-* [【2023-08-27】 科隆游戏展札记：最中国的悟空，最纯粹的快乐](https://sspai.com/post/82466)
-* [【2023-08-27】 这 8 件别人眼中的「电子垃圾」，是我手中的宝贝](https://sspai.com/post/82436)
-* [【2023-08-26】 内容的未来，是广告还是用户付费？](https://sspai.com/post/82309)
-* [【2023-08-26】 播客 | 对话老麦：请回答什么是少数派的下一个十年](https://sspai.com/post/82453)
-* [【2023-08-26】 程序员应该知道的常识，我认为有这 5 个](https://sspai.com/post/82286)
-* [【2023-08-25】 网页直接标注：工具比较与使用技巧](https://sspai.com/prime/story/web-annotators-compared)
-* [【2023-08-25】 本周看什么 | 最近值得一看的一大坛作品](https://sspai.com/post/82430)
-* [【2023-08-25】 入华 30 周年之际，我们参观了 Apple 智惠教育中心](https://sspai.com/post/82407)
+* [【2023-08-31】 导出多年微信聊天记录，我用可视化分析了出自己的口头禅](https://sspai.com/post/82577)
+* [【2023-08-31】 派早报：SDC23 大会时间确认、PS Plus 上调订阅价等](https://sspai.com/post/82574)
+* [【2023-08-30】 利用位置记忆技巧提高生活和工作效率，这是我的心得](https://sspai.com/post/81586)
+* [【2023-08-30】 每个人都需要的「第三方授权登录」查询与解绑指南](https://sspai.com/post/82550)
+* [【2023-08-30】 用三次踩坑经历告诉你，电动牙刷头的「陷阱」并非危言耸听](https://sspai.com/post/81578)
+* [【2023-08-30】 派早报：Apple 发布会将于 9 月 13 日举行、Edge 浏览器将精简功能等](https://sspai.com/post/82543)
+* [【2023-08-29】 开学季三重优惠买栏目：985 快闪礼包，优惠翻倍，还有栏目史低价](https://sspai.com/post/82520)
+* [【2023-08-29】 社区速递 010 | 向大模型提问、软盘的历史以及「冷门」词汇](https://sspai.com/post/82510)
+* [【2023-08-29】 结合语境学英语，这是他们的实践体验](https://sspai.com/post/82490)
+* [【2023-08-29】 Figma 内置的 AI 白板工具：Jambot 小组件上手体验](https://sspai.com/post/82441)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-08-31】 严格来说，板材的甲醛含量是不是越低越好？](http://www.zhihu.com/question/617928146/answer/3189965547?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-08-29】 中日韩少年运动会，中国 U18 国家队 1:3 不敌日本大阪府兴国高中，如何评价本场比赛？](http://www.zhihu.com/question/619463607/answer/3187668016?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-08-29】 招募｜加入「秋招帮帮团」，助力 24 应届生拿 Offer！](http://zhuanlan.zhihu.com/p/653081362?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-08-29】 明明是换了一个赛道，但为啥很多人都觉得国产车很牛？](http://www.zhihu.com/question/616197855/answer/3170522211?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-08-29】 续航里程标准中EPA、WLTP、NEDC、CLTC哪个最接近真实续航？大概什么比例？](http://www.zhihu.com/question/500034288/answer/3153994584?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-08-29】 雷达和摄像头遍布全车，为什么自动驾驶依然是期货？](http://www.zhihu.com/question/550596339/answer/3148899522?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-08-29】 续航里程标准中EPA、WLTP、NEDC、CLTC哪个最接近真实续航？大概什么比例？](http://www.zhihu.com/question/500034288/answer/3147332848?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-08-29】 新能源车电池防尘防水等级「IP67」指的是什么，能否在暴雨天像船一样涉水行驶？](http://www.zhihu.com/question/614860730/answer/3144882326?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-07-27】 Switch 秒变大屏，XREAL +Beam 体验：解锁爽玩《塞尔达传说》新方式](http://zhuanlan.zhihu.com/p/628985821?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-25】 装修或定制中，哪些新型环保材料可以「完美」替代人造板？](http://www.zhihu.com/question/616597405/answer/3182501647?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-24】 如果北京不是首都会发展成什么样子？](http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-23】 请问您见过最惊艳的sql查询语句是什么？](http://www.zhihu.com/question/384673958/answer/3073350200?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-23】 网易云里的哪些热评，一瞬间就击中了你？](http://www.zhihu.com/question/359026457/answer/2827751833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-22】 有哪些你看一眼就终生不能忘的恐怖图片？](http://www.zhihu.com/question/41697934/answer/3125073700?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-22】 大家如何看待新能源汽车的前景和中国汽车下一步的发展方向？](http://www.zhihu.com/question/312691334/answer/3177079512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-22】 比亚迪特斯拉：胜负已分，2023年了不再讨论新能源汽车技术路线了？](http://www.zhihu.com/question/598845159/answer/3177079526?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-22】 国产车真的适合做高端品牌吗？](http://www.zhihu.com/question/384519755/answer/3177079534?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-22】 刚毕业的新人想进入汽车行业工作，有哪些需要准备的？](http://www.zhihu.com/question/313846030/answer/3175451616?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-22】 如何看待年轻人「躺平」的现象？](http://www.zhihu.com/question/459392094/answer/3175451562?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-08-28 05:11:07
+:alarm_clock: 更新时间: 2023-08-31 05:10:53

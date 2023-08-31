@@ -533,6 +533,56 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "导出多年微信聊天记录，我用可视化分析了出自己的口头禅",
+                "link": "https://sspai.com/post/82577",
+                "published": "2023-08-31"
+            },
+            {
+                "title": "派早报：SDC23 大会时间确认、PS Plus 上调订阅价等",
+                "link": "https://sspai.com/post/82574",
+                "published": "2023-08-31"
+            },
+            {
+                "title": "利用位置记忆技巧提高生活和工作效率，这是我的心得",
+                "link": "https://sspai.com/post/81586",
+                "published": "2023-08-30"
+            },
+            {
+                "title": "每个人都需要的「第三方授权登录」查询与解绑指南",
+                "link": "https://sspai.com/post/82550",
+                "published": "2023-08-30"
+            },
+            {
+                "title": "用三次踩坑经历告诉你，电动牙刷头的「陷阱」并非危言耸听",
+                "link": "https://sspai.com/post/81578",
+                "published": "2023-08-30"
+            },
+            {
+                "title": "派早报：Apple 发布会将于 9 月 13 日举行、Edge 浏览器将精简功能等",
+                "link": "https://sspai.com/post/82543",
+                "published": "2023-08-30"
+            },
+            {
+                "title": "开学季三重优惠买栏目：985 快闪礼包，优惠翻倍，还有栏目史低价",
+                "link": "https://sspai.com/post/82520",
+                "published": "2023-08-29"
+            },
+            {
+                "title": "社区速递 010 | 向大模型提问、软盘的历史以及「冷门」词汇",
+                "link": "https://sspai.com/post/82510",
+                "published": "2023-08-29"
+            },
+            {
+                "title": "结合语境学英语，这是他们的实践体验",
+                "link": "https://sspai.com/post/82490",
+                "published": "2023-08-29"
+            },
+            {
+                "title": "Figma 内置的 AI 白板工具：Jambot 小组件上手体验",
+                "link": "https://sspai.com/post/82441",
+                "published": "2023-08-29"
+            },
+            {
                 "title": "融合「修饰键」思路，让快捷指令更容易管理",
                 "link": "https://sspai.com/post/82166",
                 "published": "2023-08-28"
@@ -14548,7 +14598,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 10
     },
     {
         "id": 2,
@@ -45004,6 +45054,51 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "严格来说，板材的甲醛含量是不是越低越好？",
+                "link": "http://www.zhihu.com/question/617928146/answer/3189965547?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-31"
+            },
+            {
+                "title": "中日韩少年运动会，中国 U18 国家队 1:3 不敌日本大阪府兴国高中，如何评价本场比赛？",
+                "link": "http://www.zhihu.com/question/619463607/answer/3187668016?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-29"
+            },
+            {
+                "title": "招募｜加入「秋招帮帮团」，助力 24 应届生拿 Offer！",
+                "link": "http://zhuanlan.zhihu.com/p/653081362?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-29"
+            },
+            {
+                "title": "明明是换了一个赛道，但为啥很多人都觉得国产车很牛？",
+                "link": "http://www.zhihu.com/question/616197855/answer/3170522211?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-29"
+            },
+            {
+                "title": "续航里程标准中EPA、WLTP、NEDC、CLTC哪个最接近真实续航？大概什么比例？",
+                "link": "http://www.zhihu.com/question/500034288/answer/3153994584?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-29"
+            },
+            {
+                "title": "雷达和摄像头遍布全车，为什么自动驾驶依然是期货？",
+                "link": "http://www.zhihu.com/question/550596339/answer/3148899522?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-29"
+            },
+            {
+                "title": "续航里程标准中EPA、WLTP、NEDC、CLTC哪个最接近真实续航？大概什么比例？",
+                "link": "http://www.zhihu.com/question/500034288/answer/3147332848?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-29"
+            },
+            {
+                "title": "新能源车电池防尘防水等级「IP67」指的是什么，能否在暴雨天像船一样涉水行驶？",
+                "link": "http://www.zhihu.com/question/614860730/answer/3144882326?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-29"
+            },
+            {
+                "title": "Switch 秒变大屏，XREAL +Beam 体验：解锁爽玩《塞尔达传说》新方式",
+                "link": "http://zhuanlan.zhihu.com/p/628985821?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-07-27"
+            },
+            {
                 "title": "装修或定制中，哪些新型环保材料可以「完美」替代人造板？",
                 "link": "http://www.zhihu.com/question/616597405/answer/3182501647?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-08-25"
@@ -52854,7 +52949,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 9
     },
     {
         "id": 4,
