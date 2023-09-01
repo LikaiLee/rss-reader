@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 269 期）：为什么英雄不使用炸药",
+                "link": "http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html",
+                "published": "2023-09-01"
+            },
+            {
                 "title": "科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人",
                 "link": "http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html",
                 "published": "2023-08-25"
@@ -525,13 +530,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派开箱 | 笔记本也有光明的未来：明基 LaptopBar 笔记本随行灯",
+                "link": "https://sspai.com/post/82334",
+                "published": "2023-09-01"
+            },
+            {
+                "title": "派早报：Fairphone 5 手机正式发布、首批国产大模型获批面向用户开放",
+                "link": "https://sspai.com/post/82608",
+                "published": "2023-09-01"
+            },
+            {
+                "title": "新玩意 159｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/82575",
+                "published": "2023-08-31"
+            },
+            {
+                "title": "一次省心的装修体验：我选择了宜家全屋设计服务",
+                "link": "https://sspai.com/post/82584",
+                "published": "2023-08-31"
+            },
             {
                 "title": "导出多年微信聊天记录，我用可视化分析了出自己的口头禅",
                 "link": "https://sspai.com/post/82577",
@@ -14598,7 +14623,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -45054,6 +45079,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "新房装修后，如何正确地完成甲醛检测才可以放心入住？",
+                "link": "http://www.zhihu.com/question/616613206/answer/3191713359?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-31"
+            },
+            {
                 "title": "严格来说，板材的甲醛含量是不是越低越好？",
                 "link": "http://www.zhihu.com/question/617928146/answer/3189965547?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-08-31"
@@ -52949,7 +52979,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 1
     },
     {
         "id": 4,
