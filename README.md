@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-09-02】 家用咖啡手册 11 | 一杯不错的意式咖啡是如何诞生的？](https://sspai.com/post/82327)
+* [【2023-09-01】 Essential，一场探寻人机关系「本质」的无果之旅](https://sspai.com/prime/story/essential-phone)
+* [【2023-09-01】 本周看什么 | 最近值得一看的一大瓶作品](https://sspai.com/post/82618)
+* [【2023-09-01】 闲置音箱组环绕声系统，低成本大幅提升观影体验](https://sspai.com/post/82342)
+* [【2023-09-01】 周末前的「摸鱼」时刻，你也许需要这些轻松小游戏](https://sspai.com/post/82609)
 * [【2023-09-01】 派开箱 | 笔记本也有光明的未来：明基 LaptopBar 笔记本随行灯](https://sspai.com/post/82334)
 * [【2023-09-01】 派早报：Fairphone 5 手机正式发布、首批国产大模型获批面向用户开放](https://sspai.com/post/82608)
 * [【2023-08-31】 新玩意 159｜少数派的编辑们最近买了啥？](https://sspai.com/post/82575)
 * [【2023-08-31】 一次省心的装修体验：我选择了宜家全屋设计服务](https://sspai.com/post/82584)
 * [【2023-08-31】 导出多年微信聊天记录，我用可视化分析了出自己的口头禅](https://sspai.com/post/82577)
-* [【2023-08-31】 派早报：SDC23 大会时间确认、PS Plus 上调订阅价等](https://sspai.com/post/82574)
-* [【2023-08-30】 利用位置记忆技巧提高生活和工作效率，这是我的心得](https://sspai.com/post/81586)
-* [【2023-08-30】 每个人都需要的「第三方授权登录」查询与解绑指南](https://sspai.com/post/82550)
-* [【2023-08-30】 用三次踩坑经历告诉你，电动牙刷头的「陷阱」并非危言耸听](https://sspai.com/post/81578)
-* [【2023-08-30】 派早报：Apple 发布会将于 9 月 13 日举行、Edge 浏览器将精简功能等](https://sspai.com/post/82543)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-01 05:10:55
+:alarm_clock: 更新时间: 2023-09-02 05:10:02

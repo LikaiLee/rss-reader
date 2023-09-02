@@ -530,13 +530,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "家用咖啡手册 11 | 一杯不错的意式咖啡是如何诞生的？",
+                "link": "https://sspai.com/post/82327",
+                "published": "2023-09-02"
+            },
+            {
+                "title": "Essential，一场探寻人机关系「本质」的无果之旅",
+                "link": "https://sspai.com/prime/story/essential-phone",
+                "published": "2023-09-01"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大瓶作品",
+                "link": "https://sspai.com/post/82618",
+                "published": "2023-09-01"
+            },
+            {
+                "title": "闲置音箱组环绕声系统，低成本大幅提升观影体验",
+                "link": "https://sspai.com/post/82342",
+                "published": "2023-09-01"
+            },
+            {
+                "title": "周末前的「摸鱼」时刻，你也许需要这些轻松小游戏",
+                "link": "https://sspai.com/post/82609",
+                "published": "2023-09-01"
+            },
             {
                 "title": "派开箱 | 笔记本也有光明的未来：明基 LaptopBar 笔记本随行灯",
                 "link": "https://sspai.com/post/82334",
@@ -14623,7 +14648,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -52979,7 +53004,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
