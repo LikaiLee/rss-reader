@@ -538,6 +538,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "播客 | 对话魏小河：当读书成为一种职业",
+                "link": "https://sspai.com/post/82611",
+                "published": "2023-09-03"
+            },
+            {
+                "title": "从产品经理的角度，聊聊 Context 的开发心得和规划",
+                "link": "https://sspai.com/post/82629",
+                "published": "2023-09-02"
+            },
+            {
                 "title": "家用咖啡手册 11 | 一杯不错的意式咖啡是如何诞生的？",
                 "link": "https://sspai.com/post/82327",
                 "published": "2023-09-02"
@@ -14648,7 +14658,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -45104,6 +45114,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "对普通人来说，有什么维权手段可以轻松解决购买家具的「后顾之忧」？",
+                "link": "http://www.zhihu.com/question/617930805/answer/3194211073?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-09-02"
+            },
+            {
+                "title": "环保和装修冲突吗？你对环保装修的未来有哪些想象？",
+                "link": "http://www.zhihu.com/question/619714694/answer/3194220680?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-09-02"
+            },
+            {
                 "title": "新房装修后，如何正确地完成甲醛检测才可以放心入住？",
                 "link": "http://www.zhihu.com/question/616613206/answer/3191713359?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-08-31"
@@ -53004,7 +53024,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,

@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-09-03】 播客 | 对话魏小河：当读书成为一种职业](https://sspai.com/post/82611)
+* [【2023-09-02】 从产品经理的角度，聊聊 Context 的开发心得和规划](https://sspai.com/post/82629)
 * [【2023-09-02】 家用咖啡手册 11 | 一杯不错的意式咖啡是如何诞生的？](https://sspai.com/post/82327)
 * [【2023-09-01】 Essential，一场探寻人机关系「本质」的无果之旅](https://sspai.com/prime/story/essential-phone)
 * [【2023-09-01】 本周看什么 | 最近值得一看的一大瓶作品](https://sspai.com/post/82618)
@@ -43,8 +45,6 @@
 * [【2023-09-01】 派开箱 | 笔记本也有光明的未来：明基 LaptopBar 笔记本随行灯](https://sspai.com/post/82334)
 * [【2023-09-01】 派早报：Fairphone 5 手机正式发布、首批国产大模型获批面向用户开放](https://sspai.com/post/82608)
 * [【2023-08-31】 新玩意 159｜少数派的编辑们最近买了啥？](https://sspai.com/post/82575)
-* [【2023-08-31】 一次省心的装修体验：我选择了宜家全屋设计服务](https://sspai.com/post/82584)
-* [【2023-08-31】 导出多年微信聊天记录，我用可视化分析了出自己的口头禅](https://sspai.com/post/82577)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-09-02】 对普通人来说，有什么维权手段可以轻松解决购买家具的「后顾之忧」？](http://www.zhihu.com/question/617930805/answer/3194211073?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-09-02】 环保和装修冲突吗？你对环保装修的未来有哪些想象？](http://www.zhihu.com/question/619714694/answer/3194220680?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-31】 新房装修后，如何正确地完成甲醛检测才可以放心入住？](http://www.zhihu.com/question/616613206/answer/3191713359?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-31】 严格来说，板材的甲醛含量是不是越低越好？](http://www.zhihu.com/question/617928146/answer/3189965547?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-29】 中日韩少年运动会，中国 U18 国家队 1:3 不敌日本大阪府兴国高中，如何评价本场比赛？](http://www.zhihu.com/question/619463607/answer/3187668016?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-08-29】 续航里程标准中EPA、WLTP、NEDC、CLTC哪个最接近真实续航？大概什么比例？](http://www.zhihu.com/question/500034288/answer/3153994584?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-29】 雷达和摄像头遍布全车，为什么自动驾驶依然是期货？](http://www.zhihu.com/question/550596339/answer/3148899522?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-29】 续航里程标准中EPA、WLTP、NEDC、CLTC哪个最接近真实续航？大概什么比例？](http://www.zhihu.com/question/500034288/answer/3147332848?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-29】 新能源车电池防尘防水等级「IP67」指的是什么，能否在暴雨天像船一样涉水行驶？](http://www.zhihu.com/question/614860730/answer/3144882326?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-07-27】 Switch 秒变大屏，XREAL +Beam 体验：解锁爽玩《塞尔达传说》新方式](http://zhuanlan.zhihu.com/p/628985821?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-02 05:10:02
+:alarm_clock: 更新时间: 2023-09-03 05:10:24
