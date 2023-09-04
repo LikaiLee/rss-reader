@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-09-04】 一日一技 | 群晖+Walkman，如何让游泳时听的歌总有新鲜感？](https://sspai.com/post/82260)
+* [【2023-09-04】 派早报：第二批深度合成服务算法备案公布，苹果拒绝重启 CSAM 检测上报](https://sspai.com/post/82658)
+* [【2023-09-03】 什么是色彩？——评 Boox Tab10 C](https://sspai.com/post/82653)
 * [【2023-09-03】 播客 | 对话魏小河：当读书成为一种职业](https://sspai.com/post/82611)
 * [【2023-09-02】 从产品经理的角度，聊聊 Context 的开发心得和规划](https://sspai.com/post/82629)
 * [【2023-09-02】 家用咖啡手册 11 | 一杯不错的意式咖啡是如何诞生的？](https://sspai.com/post/82327)
@@ -42,9 +45,6 @@
 * [【2023-09-01】 本周看什么 | 最近值得一看的一大瓶作品](https://sspai.com/post/82618)
 * [【2023-09-01】 闲置音箱组环绕声系统，低成本大幅提升观影体验](https://sspai.com/post/82342)
 * [【2023-09-01】 周末前的「摸鱼」时刻，你也许需要这些轻松小游戏](https://sspai.com/post/82609)
-* [【2023-09-01】 派开箱 | 笔记本也有光明的未来：明基 LaptopBar 笔记本随行灯](https://sspai.com/post/82334)
-* [【2023-09-01】 派早报：Fairphone 5 手机正式发布、首批国产大模型获批面向用户开放](https://sspai.com/post/82608)
-* [【2023-08-31】 新玩意 159｜少数派的编辑们最近买了啥？](https://sspai.com/post/82575)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-03 05:10:24
+:alarm_clock: 更新时间: 2023-09-04 05:11:08

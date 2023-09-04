@@ -538,6 +538,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 群晖+Walkman，如何让游泳时听的歌总有新鲜感？",
+                "link": "https://sspai.com/post/82260",
+                "published": "2023-09-04"
+            },
+            {
+                "title": "派早报：第二批深度合成服务算法备案公布，苹果拒绝重启 CSAM 检测上报",
+                "link": "https://sspai.com/post/82658",
+                "published": "2023-09-04"
+            },
+            {
+                "title": "什么是色彩？——评 Boox Tab10 C",
+                "link": "https://sspai.com/post/82653",
+                "published": "2023-09-03"
+            },
+            {
                 "title": "播客 | 对话魏小河：当读书成为一种职业",
                 "link": "https://sspai.com/post/82611",
                 "published": "2023-09-03"
@@ -14658,7 +14673,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -53024,7 +53039,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
