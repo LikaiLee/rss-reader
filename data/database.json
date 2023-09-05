@@ -538,6 +538,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：X 将使用用户公开贴文训练 AI 模型等",
+                "link": "https://sspai.com/post/82690",
+                "published": "2023-09-05"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/82673",
+                "published": "2023-09-04"
+            },
+            {
+                "title": "城市漫步指南：闯进大西北的金色世界",
+                "link": "https://sspai.com/post/82536",
+                "published": "2023-09-04"
+            },
+            {
                 "title": "一日一技 | 群晖+Walkman，如何让游泳时听的歌总有新鲜感？",
                 "link": "https://sspai.com/post/82260",
                 "published": "2023-09-04"
@@ -45129,6 +45144,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2023 中拉体育中冠联赛总决赛第一轮综述",
+                "link": "http://zhuanlan.zhihu.com/p/654054049?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-09-04"
+            },
+            {
                 "title": "对普通人来说，有什么维权手段可以轻松解决购买家具的「后顾之忧」？",
                 "link": "http://www.zhihu.com/question/617930805/answer/3194211073?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-09-02"
@@ -53039,7 +53059,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
