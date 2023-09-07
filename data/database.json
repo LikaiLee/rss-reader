@@ -538,6 +538,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "你的笔记数据安全吗？聊聊我的笔记工具选择思路",
+                "link": "https://sspai.com/post/82657",
+                "published": "2023-09-07"
+            },
+            {
+                "title": "派早报：Apple 收购 BIS Records、塞尔达王国之泪确认无 DLC 计划等",
+                "link": "https://sspai.com/post/82755",
+                "published": "2023-09-07"
+            },
+            {
+                "title": "谈不了性价比，或许谈得上省心：我的智能家居全屋定制体验",
+                "link": "https://sspai.com/post/82726",
+                "published": "2023-09-06"
+            },
+            {
+                "title": "开学季 | 派商店优惠上新：开学新篇章，好物常相伴",
+                "link": "https://sspai.com/post/82707",
+                "published": "2023-09-06"
+            },
+            {
+                "title": "干掉码字困难症：如何用 Ulysses 实现卡片写作？",
+                "link": "https://sspai.com/post/82606",
+                "published": "2023-09-06"
+            },
+            {
                 "title": "从零开始搭建 Home Lab，这是我的体会与心得",
                 "link": "https://sspai.com/post/82670",
                 "published": "2023-09-06"
@@ -14718,7 +14743,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -53094,7 +53119,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

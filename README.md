@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-09-07】 你的笔记数据安全吗？聊聊我的笔记工具选择思路](https://sspai.com/post/82657)
+* [【2023-09-07】 派早报：Apple 收购 BIS Records、塞尔达王国之泪确认无 DLC 计划等](https://sspai.com/post/82755)
+* [【2023-09-06】 谈不了性价比，或许谈得上省心：我的智能家居全屋定制体验](https://sspai.com/post/82726)
+* [【2023-09-06】 开学季 | 派商店优惠上新：开学新篇章，好物常相伴](https://sspai.com/post/82707)
+* [【2023-09-06】 干掉码字困难症：如何用 Ulysses 实现卡片写作？](https://sspai.com/post/82606)
 * [【2023-09-06】 从零开始搭建 Home Lab，这是我的体会与心得](https://sspai.com/post/82670)
 * [【2023-09-06】 派早报：Android 启用新版品牌标识、微信支付将上线消费分期功能等](https://sspai.com/post/82722)
 * [【2023-09-05】 如何能免重新登录与配置之苦：浅谈 Android 自动备份机制](https://sspai.com/prime/story/android-data-backup-issues-tips)
 * [【2023-09-05】 社区速递 011 | 家庭服务器、作者的新玩意以及哭泣的折叠屏](https://sspai.com/post/82701)
 * [【2023-09-05】 你或许总不满意，但它不全是秘密：聊聊 Twitter 开源的时间线算法](https://sspai.com/post/82586)
-* [【2023-09-05】 数字时代的自我旁观：对痛苦的重新审视](https://sspai.com/post/82553)
-* [【2023-09-05】 派早报：X 将使用用户公开贴文训练 AI 模型等](https://sspai.com/post/82690)
-* [【2023-09-04】 派评 | 近期值得关注的 App](https://sspai.com/post/82673)
-* [【2023-09-04】 城市漫步指南：闯进大西北的金色世界](https://sspai.com/post/82536)
-* [【2023-09-04】 一日一技 | 群晖+Walkman，如何让游泳时听的歌总有新鲜感？](https://sspai.com/post/82260)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-06 05:10:49
+:alarm_clock: 更新时间: 2023-09-07 05:10:49
