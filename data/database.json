@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 270 期）：\"精益开发\"的精益是什么？",
+                "link": "http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html",
+                "published": "2023-09-07"
+            },
+            {
                 "title": "科技爱好者周刊（第 269 期）：为什么英雄不使用炸药",
                 "link": "http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html",
                 "published": "2023-09-01"
@@ -530,13 +535,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "让写作变成一种生活方式，这是我的方法与心得",
+                "link": "https://sspai.com/post/82654",
+                "published": "2023-09-08"
+            },
+            {
+                "title": "派早报：欧盟委员会公布《数字市场法案》「看门人」企业名单",
+                "link": "https://sspai.com/post/82782",
+                "published": "2023-09-08"
+            },
+            {
+                "title": "我在数字时代做了一个电子日历，让油画和照片可以被装进去",
+                "link": "https://sspai.com/post/82704",
+                "published": "2023-09-07"
+            },
+            {
+                "title": "开学季 | 少数派正版软件促销 5 折起，还有限时特惠 Bundle",
+                "link": "https://sspai.com/post/82773",
+                "published": "2023-09-07"
+            },
+            {
+                "title": "人人可编程，人人能创造：第八届移动应用创新赛圆满落幕",
+                "link": "https://sspai.com/post/82738",
+                "published": "2023-09-07"
+            },
             {
                 "title": "你的笔记数据安全吗？聊聊我的笔记工具选择思路",
                 "link": "https://sspai.com/post/82657",
@@ -45199,6 +45229,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "招募 | 加入「秋招导师团」，分享经验赢盐粒！",
+                "link": "http://zhuanlan.zhihu.com/p/655049492?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-09-08"
+            },
+            {
                 "title": "天津大爷集体跳水火出圈，海河多地成网红打卡景点，专家建议积极引导大爷跳水行为，如何看待这种现象？",
                 "link": "http://www.zhihu.com/question/619955808/answer/3197938439?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-09-05"
@@ -53119,7 +53154,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

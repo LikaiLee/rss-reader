@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-09-07】 科技爱好者周刊（第 270 期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)
 * [【2023-09-01】 科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)
 * [【2023-08-25】 科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)
 * [【2023-08-18】 科技爱好者周刊（第 267 期）：5G 的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)
@@ -25,7 +26,6 @@
 * [【2023-07-28】 科技爱好者周刊（第 264 期）：Elasticsearch 的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html)
 * [【2023-07-21】 科技爱好者周刊（第 263 期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)
 * [【2023-07-14】 科技爱好者周刊（第 262 期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)
-* [【2023-07-07】 科技爱好者周刊（第 261 期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-09-08】 让写作变成一种生活方式，这是我的方法与心得](https://sspai.com/post/82654)
+* [【2023-09-08】 派早报：欧盟委员会公布《数字市场法案》「看门人」企业名单](https://sspai.com/post/82782)
+* [【2023-09-07】 我在数字时代做了一个电子日历，让油画和照片可以被装进去](https://sspai.com/post/82704)
+* [【2023-09-07】 开学季 | 少数派正版软件促销 5 折起，还有限时特惠 Bundle](https://sspai.com/post/82773)
+* [【2023-09-07】 人人可编程，人人能创造：第八届移动应用创新赛圆满落幕](https://sspai.com/post/82738)
 * [【2023-09-07】 你的笔记数据安全吗？聊聊我的笔记工具选择思路](https://sspai.com/post/82657)
 * [【2023-09-07】 派早报：Apple 收购 BIS Records、塞尔达王国之泪确认无 DLC 计划等](https://sspai.com/post/82755)
 * [【2023-09-06】 谈不了性价比，或许谈得上省心：我的智能家居全屋定制体验](https://sspai.com/post/82726)
 * [【2023-09-06】 开学季 | 派商店优惠上新：开学新篇章，好物常相伴](https://sspai.com/post/82707)
 * [【2023-09-06】 干掉码字困难症：如何用 Ulysses 实现卡片写作？](https://sspai.com/post/82606)
-* [【2023-09-06】 从零开始搭建 Home Lab，这是我的体会与心得](https://sspai.com/post/82670)
-* [【2023-09-06】 派早报：Android 启用新版品牌标识、微信支付将上线消费分期功能等](https://sspai.com/post/82722)
-* [【2023-09-05】 如何能免重新登录与配置之苦：浅谈 Android 自动备份机制](https://sspai.com/prime/story/android-data-backup-issues-tips)
-* [【2023-09-05】 社区速递 011 | 家庭服务器、作者的新玩意以及哭泣的折叠屏](https://sspai.com/post/82701)
-* [【2023-09-05】 你或许总不满意，但它不全是秘密：聊聊 Twitter 开源的时间线算法](https://sspai.com/post/82586)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-09-08】 招募 | 加入「秋招导师团」，分享经验赢盐粒！](http://zhuanlan.zhihu.com/p/655049492?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-05】 天津大爷集体跳水火出圈，海河多地成网红打卡景点，专家建议积极引导大爷跳水行为，如何看待这种现象？](http://www.zhihu.com/question/619955808/answer/3197938439?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-04】 2023 中拉体育中冠联赛总决赛第一轮综述](http://zhuanlan.zhihu.com/p/654054049?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-02】 对普通人来说，有什么维权手段可以轻松解决购买家具的「后顾之忧」？](http://www.zhihu.com/question/617930805/answer/3194211073?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-08-29】 中日韩少年运动会，中国 U18 国家队 1:3 不敌日本大阪府兴国高中，如何评价本场比赛？](http://www.zhihu.com/question/619463607/answer/3187668016?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-29】 招募｜加入「秋招帮帮团」，助力 24 应届生拿 Offer！](http://zhuanlan.zhihu.com/p/653081362?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-29】 明明是换了一个赛道，但为啥很多人都觉得国产车很牛？](http://www.zhihu.com/question/616197855/answer/3170522211?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-29】 续航里程标准中EPA、WLTP、NEDC、CLTC哪个最接近真实续航？大概什么比例？](http://www.zhihu.com/question/500034288/answer/3153994584?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-07 05:10:49
+:alarm_clock: 更新时间: 2023-09-08 05:10:44
