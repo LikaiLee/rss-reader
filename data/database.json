@@ -535,13 +535,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大盆作品",
+                "link": "https://sspai.com/post/82797",
+                "published": "2023-09-08"
+            },
+            {
+                "title": "7 句话与 4 个工具，帮时间管理菜鸟突破放弃循环",
+                "link": "https://sspai.com/post/82724",
+                "published": "2023-09-08"
+            },
             {
                 "title": "让写作变成一种生活方式，这是我的方法与心得",
                 "link": "https://sspai.com/post/82654",
@@ -14773,7 +14783,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -45228,6 +45238,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "演员不拍戏的时候都干嘛呢？",
+                "link": "http://www.zhihu.com/question/52340748/answer/692466752?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-09-08"
+            },
             {
                 "title": "招募 | 加入「秋招导师团」，分享经验赢盐粒！",
                 "link": "http://zhuanlan.zhihu.com/p/655049492?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",

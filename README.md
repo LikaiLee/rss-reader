@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-09-08】 本周看什么 | 最近值得一看的一大盆作品](https://sspai.com/post/82797)
+* [【2023-09-08】 7 句话与 4 个工具，帮时间管理菜鸟突破放弃循环](https://sspai.com/post/82724)
 * [【2023-09-08】 让写作变成一种生活方式，这是我的方法与心得](https://sspai.com/post/82654)
 * [【2023-09-08】 派早报：欧盟委员会公布《数字市场法案》「看门人」企业名单](https://sspai.com/post/82782)
 * [【2023-09-07】 我在数字时代做了一个电子日历，让油画和照片可以被装进去](https://sspai.com/post/82704)
@@ -43,8 +45,6 @@
 * [【2023-09-07】 你的笔记数据安全吗？聊聊我的笔记工具选择思路](https://sspai.com/post/82657)
 * [【2023-09-07】 派早报：Apple 收购 BIS Records、塞尔达王国之泪确认无 DLC 计划等](https://sspai.com/post/82755)
 * [【2023-09-06】 谈不了性价比，或许谈得上省心：我的智能家居全屋定制体验](https://sspai.com/post/82726)
-* [【2023-09-06】 开学季 | 派商店优惠上新：开学新篇章，好物常相伴](https://sspai.com/post/82707)
-* [【2023-09-06】 干掉码字困难症：如何用 Ulysses 实现卡片写作？](https://sspai.com/post/82606)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-09-08】 演员不拍戏的时候都干嘛呢？](http://www.zhihu.com/question/52340748/answer/692466752?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-08】 招募 | 加入「秋招导师团」，分享经验赢盐粒！](http://zhuanlan.zhihu.com/p/655049492?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-05】 天津大爷集体跳水火出圈，海河多地成网红打卡景点，专家建议积极引导大爷跳水行为，如何看待这种现象？](http://www.zhihu.com/question/619955808/answer/3197938439?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-04】 2023 中拉体育中冠联赛总决赛第一轮综述](http://zhuanlan.zhihu.com/p/654054049?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-08-31】 严格来说，板材的甲醛含量是不是越低越好？](http://www.zhihu.com/question/617928146/answer/3189965547?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-29】 中日韩少年运动会，中国 U18 国家队 1:3 不敌日本大阪府兴国高中，如何评价本场比赛？](http://www.zhihu.com/question/619463607/answer/3187668016?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-29】 招募｜加入「秋招帮帮团」，助力 24 应届生拿 Offer！](http://zhuanlan.zhihu.com/p/653081362?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-29】 明明是换了一个赛道，但为啥很多人都觉得国产车很牛？](http://www.zhihu.com/question/616197855/answer/3170522211?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-08 05:10:44
+:alarm_clock: 更新时间: 2023-09-09 05:10:28
