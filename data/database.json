@@ -543,6 +543,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "在《乐队的夏天》爆改甜歌，麻园诗人需要取得谁的授权？",
+                "link": "https://sspai.com/post/82749",
+                "published": "2023-09-09"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的一大盆作品",
                 "link": "https://sspai.com/post/82797",
                 "published": "2023-09-08"
@@ -14783,7 +14788,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -53169,7 +53174,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

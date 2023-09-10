@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-09-09】 在《乐队的夏天》爆改甜歌，麻园诗人需要取得谁的授权？](https://sspai.com/post/82749)
 * [【2023-09-08】 本周看什么 | 最近值得一看的一大盆作品](https://sspai.com/post/82797)
 * [【2023-09-08】 7 句话与 4 个工具，帮时间管理菜鸟突破放弃循环](https://sspai.com/post/82724)
 * [【2023-09-08】 让写作变成一种生活方式，这是我的方法与心得](https://sspai.com/post/82654)
@@ -44,7 +45,6 @@
 * [【2023-09-07】 人人可编程，人人能创造：第八届移动应用创新赛圆满落幕](https://sspai.com/post/82738)
 * [【2023-09-07】 你的笔记数据安全吗？聊聊我的笔记工具选择思路](https://sspai.com/post/82657)
 * [【2023-09-07】 派早报：Apple 收购 BIS Records、塞尔达王国之泪确认无 DLC 计划等](https://sspai.com/post/82755)
-* [【2023-09-06】 谈不了性价比，或许谈得上省心：我的智能家居全屋定制体验](https://sspai.com/post/82726)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-09 05:10:28
+:alarm_clock: 更新时间: 2023-09-10 05:10:22
