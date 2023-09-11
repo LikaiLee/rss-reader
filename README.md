@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-09-11】 从「伪需求」到「离不开」：我的 Apple Watch 一年深体验](https://sspai.com/post/82487)
+* [【2023-09-11】 派早报：Procreate 将推出动画版，PowerPoint 主要开发者逝世](https://sspai.com/post/82829)
+* [【2023-09-10】 Lightning 或将成为历史，下周的 Apple 发布会还有哪些看点？](https://sspai.com/post/82821)
 * [【2023-09-09】 在《乐队的夏天》爆改甜歌，麻园诗人需要取得谁的授权？](https://sspai.com/post/82749)
 * [【2023-09-08】 本周看什么 | 最近值得一看的一大盆作品](https://sspai.com/post/82797)
 * [【2023-09-08】 7 句话与 4 个工具，帮时间管理菜鸟突破放弃循环](https://sspai.com/post/82724)
@@ -42,9 +45,6 @@
 * [【2023-09-08】 派早报：欧盟委员会公布《数字市场法案》「看门人」企业名单](https://sspai.com/post/82782)
 * [【2023-09-07】 我在数字时代做了一个电子日历，让油画和照片可以被装进去](https://sspai.com/post/82704)
 * [【2023-09-07】 开学季 | 少数派正版软件促销 5 折起，还有限时特惠 Bundle](https://sspai.com/post/82773)
-* [【2023-09-07】 人人可编程，人人能创造：第八届移动应用创新赛圆满落幕](https://sspai.com/post/82738)
-* [【2023-09-07】 你的笔记数据安全吗？聊聊我的笔记工具选择思路](https://sspai.com/post/82657)
-* [【2023-09-07】 派早报：Apple 收购 BIS Records、塞尔达王国之泪确认无 DLC 计划等](https://sspai.com/post/82755)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-10 05:10:22
+:alarm_clock: 更新时间: 2023-09-11 05:11:11
