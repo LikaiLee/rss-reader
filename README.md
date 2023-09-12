@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-09-12】 家庭服务器除了存储还能做什么？聊聊我的部署思路](https://sspai.com/post/82512)
+* [【2023-09-12】 派早报：红米 Note 13 将首发天玑 7200 Ultra，高通与 Apple 续约等](https://sspai.com/post/82862)
+* [【2023-09-11】 会员畅读 | 完全上手顶级 Mac 自动化工具，用 Keyboard Maestro 拯救效率](https://sspai.com/post/82854)
+* [【2023-09-11】 派评 | 近期值得关注的 App](https://sspai.com/post/82853)
+* [【2023-09-11】 播客 | 劲爆、缺德大集合：漫谈 Apple 新品发布会](https://sspai.com/post/82842)
 * [【2023-09-11】 从「伪需求」到「离不开」：我的 Apple Watch 一年深体验](https://sspai.com/post/82487)
 * [【2023-09-11】 派早报：Procreate 将推出动画版，PowerPoint 主要开发者逝世](https://sspai.com/post/82829)
 * [【2023-09-10】 Lightning 或将成为历史，下周的 Apple 发布会还有哪些看点？](https://sspai.com/post/82821)
 * [【2023-09-09】 在《乐队的夏天》爆改甜歌，麻园诗人需要取得谁的授权？](https://sspai.com/post/82749)
 * [【2023-09-08】 本周看什么 | 最近值得一看的一大盆作品](https://sspai.com/post/82797)
-* [【2023-09-08】 7 句话与 4 个工具，帮时间管理菜鸟突破放弃循环](https://sspai.com/post/82724)
-* [【2023-09-08】 让写作变成一种生活方式，这是我的方法与心得](https://sspai.com/post/82654)
-* [【2023-09-08】 派早报：欧盟委员会公布《数字市场法案》「看门人」企业名单](https://sspai.com/post/82782)
-* [【2023-09-07】 我在数字时代做了一个电子日历，让油画和照片可以被装进去](https://sspai.com/post/82704)
-* [【2023-09-07】 开学季 | 少数派正版软件促销 5 折起，还有限时特惠 Bundle](https://sspai.com/post/82773)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-11 05:11:11
+:alarm_clock: 更新时间: 2023-09-12 05:10:58

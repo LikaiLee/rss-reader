@@ -543,6 +543,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "家庭服务器除了存储还能做什么？聊聊我的部署思路",
+                "link": "https://sspai.com/post/82512",
+                "published": "2023-09-12"
+            },
+            {
+                "title": "派早报：红米 Note 13 将首发天玑 7200 Ultra，高通与 Apple 续约等",
+                "link": "https://sspai.com/post/82862",
+                "published": "2023-09-12"
+            },
+            {
+                "title": "会员畅读 | 完全上手顶级 Mac 自动化工具，用 Keyboard Maestro 拯救效率",
+                "link": "https://sspai.com/post/82854",
+                "published": "2023-09-11"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/82853",
+                "published": "2023-09-11"
+            },
+            {
+                "title": "播客 | 劲爆、缺德大集合：漫谈 Apple 新品发布会",
+                "link": "https://sspai.com/post/82842",
+                "published": "2023-09-11"
+            },
+            {
                 "title": "从「伪需求」到「离不开」：我的 Apple Watch 一年深体验",
                 "link": "https://sspai.com/post/82487",
                 "published": "2023-09-11"
@@ -14803,7 +14828,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
