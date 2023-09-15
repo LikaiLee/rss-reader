@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-09-15】 科技爱好者周刊（第 271 期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)
 * [【2023-09-07】 科技爱好者周刊（第 270 期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)
 * [【2023-09-01】 科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)
 * [【2023-08-25】 科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)
@@ -25,7 +26,6 @@
 * [【2023-08-04】 科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)
 * [【2023-07-28】 科技爱好者周刊（第 264 期）：Elasticsearch 的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html)
 * [【2023-07-21】 科技爱好者周刊（第 263 期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)
-* [【2023-07-14】 科技爱好者周刊（第 262 期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-09-15】 使用 Obsidian 两年以后，聊聊我的同步和整理心得](https://sspai.com/post/82501)
+* [【2023-09-15】 派早报：网信办依法查处 QQ 危害未成年人身心健康违法案件等](https://sspai.com/post/82957)
+* [【2023-09-14】 新玩意 160｜少数派的编辑们最近买了啥？](https://sspai.com/post/82951)
+* [【2023-09-14】 下单新 iPhone 前，先来看看外媒真机上手体验](https://sspai.com/post/82939)
 * [【2023-09-14】 专注也需要一个空间：给自己布置一个简易书房角落](https://sspai.com/post/82326)
 * [【2023-09-14】 派早报：Unity 引擎调整收费模式、华为和小米达成交叉专利许可等](https://sspai.com/post/82930)
 * [【2023-09-13】 将 VS Code 打造成跨平台 Markdown「草稿本」](https://sspai.com/prime/story/vscode-as-scratchpad)
 * [【2023-09-13】 你记忆中的磁带从何而来，大放异彩之后它又去了哪里？](https://sspai.com/post/82626)
 * [【2023-09-13】 飞书，见证 B 端陷阱](https://sspai.com/post/82238)
 * [【2023-09-12】 派早报：Apple 推出 iPhone 15 系列手机等多款新品、华为发布新款问界 M7 等](https://sspai.com/post/82899)
-* [【2023-09-12】 一图流 | 一张图带你看完 iPhone 15 发布会](https://sspai.com/post/82898)
-* [【2023-09-12】 最轻 Pro 级 iPhone 亮相：Apple 发布会看点回顾](https://sspai.com/post/82897)
-* [【2023-09-12】 限时满赠 | 苹果发布会要来了，iOS 蓝皮书还会远吗](https://sspai.com/post/82880)
-* [【2023-09-12】 社区速递 012 | 便宜好用的工具、付费的播客栏目以及新玩意](https://sspai.com/post/82869)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-14 05:10:58
+:alarm_clock: 更新时间: 2023-09-15 05:10:53
