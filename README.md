@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-09-15】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/82969)
+* [【2023-09-15】 Matrix Talk | 你的新手机和它们更搭：少数派的作者们爱用哪些手机配件？](https://sspai.com/post/82916)
+* [【2023-09-15】 从 30 Pin 到 USB Type-C，细数 iPhone 接口的变化](https://sspai.com/post/82913)
 * [【2023-09-15】 使用 Obsidian 两年以后，聊聊我的同步和整理心得](https://sspai.com/post/82501)
 * [【2023-09-15】 派早报：网信办依法查处 QQ 危害未成年人身心健康违法案件等](https://sspai.com/post/82957)
 * [【2023-09-14】 新玩意 160｜少数派的编辑们最近买了啥？](https://sspai.com/post/82951)
@@ -42,9 +45,6 @@
 * [【2023-09-14】 专注也需要一个空间：给自己布置一个简易书房角落](https://sspai.com/post/82326)
 * [【2023-09-14】 派早报：Unity 引擎调整收费模式、华为和小米达成交叉专利许可等](https://sspai.com/post/82930)
 * [【2023-09-13】 将 VS Code 打造成跨平台 Markdown「草稿本」](https://sspai.com/prime/story/vscode-as-scratchpad)
-* [【2023-09-13】 你记忆中的磁带从何而来，大放异彩之后它又去了哪里？](https://sspai.com/post/82626)
-* [【2023-09-13】 飞书，见证 B 端陷阱](https://sspai.com/post/82238)
-* [【2023-09-12】 派早报：Apple 推出 iPhone 15 系列手机等多款新品、华为发布新款问界 M7 等](https://sspai.com/post/82899)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-15 05:10:53
+:alarm_clock: 更新时间: 2023-09-16 05:10:33

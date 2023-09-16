@@ -540,13 +540,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/82969",
+                "published": "2023-09-15"
+            },
+            {
+                "title": "Matrix Talk | 你的新手机和它们更搭：少数派的作者们爱用哪些手机配件？",
+                "link": "https://sspai.com/post/82916",
+                "published": "2023-09-15"
+            },
+            {
+                "title": "从 30 Pin 到 USB Type-C，细数 iPhone 接口的变化",
+                "link": "https://sspai.com/post/82913",
+                "published": "2023-09-15"
+            },
             {
                 "title": "使用 Obsidian 两年以后，聊聊我的同步和整理心得",
                 "link": "https://sspai.com/post/82501",
@@ -14908,7 +14923,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
