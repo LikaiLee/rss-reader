@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-09-18】 Obsidian + Excalidraw：我的个人知识管理可视化方法论](https://sspai.com/post/82130)
+* [【2023-09-18】 派早报：苹果更新 iPhone 12 软件以符合法国射频规定，最高检阐释人人影视案](https://sspai.com/post/83006)
 * [【2023-09-17】 开学季 | 值得关注的官翻渠道汇总 (2023)](https://sspai.com/post/82996)
 * [【2023-09-16】 处理器简史｜PowerPC 08：否极泰来 以弱胜强（下）](https://sspai.com/prime/story/ppc-history-08)
 * [【2023-09-16】 Eagle 的隐藏用法：批量导入并管理 Zotero 的标注图片](https://sspai.com/post/82791)
@@ -43,8 +45,6 @@
 * [【2023-09-15】 从 30 Pin 到 USB Type-C，细数 iPhone 接口的变化](https://sspai.com/post/82913)
 * [【2023-09-15】 使用 Obsidian 两年以后，聊聊我的同步和整理心得](https://sspai.com/post/82501)
 * [【2023-09-15】 派早报：网信办依法查处 QQ 危害未成年人身心健康违法案件等](https://sspai.com/post/82957)
-* [【2023-09-14】 新玩意 160｜少数派的编辑们最近买了啥？](https://sspai.com/post/82951)
-* [【2023-09-14】 下单新 iPhone 前，先来看看外媒真机上手体验](https://sspai.com/post/82939)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-17 05:11:18
+:alarm_clock: 更新时间: 2023-09-18 05:11:10
