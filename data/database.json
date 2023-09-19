@@ -548,6 +548,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "iOS 17 正式版来了，升级后先试试这些新功能",
+                "link": "https://sspai.com/post/83015",
+                "published": "2023-09-19"
+            },
+            {
+                "title": "派开箱 | 当轻巧与耐用兼得，Bellroy 又设计了怎样的好包",
+                "link": "https://sspai.com/post/82906",
+                "published": "2023-09-19"
+            },
+            {
+                "title": "派早报：iPhone 15 机型维修费用公布、iOS 17 等系统正式版发布等",
+                "link": "https://sspai.com/post/83044",
+                "published": "2023-09-19"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/83027",
+                "published": "2023-09-18"
+            },
+            {
+                "title": "iPhone 15 发布会上没有告诉你的那些事",
+                "link": "https://sspai.com/post/82987",
+                "published": "2023-09-18"
+            },
+            {
                 "title": "Obsidian + Excalidraw：我的个人知识管理可视化方法论",
                 "link": "https://sspai.com/post/82130",
                 "published": "2023-09-18"
@@ -14948,7 +14973,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -45404,6 +45429,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有奖活动 | 2024 秋招通关指南",
+                "link": "http://zhuanlan.zhihu.com/p/657005017?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-09-18"
+            },
+            {
                 "title": "演员不拍戏的时候都干嘛呢？",
                 "link": "http://www.zhihu.com/question/52340748/answer/692466752?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-09-08"
@@ -53334,7 +53364,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
