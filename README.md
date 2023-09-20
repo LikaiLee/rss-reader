@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-09-20】 更有本事， 更显你本色：iPadOS 17 中值得关注的新特性](https://sspai.com/post/83079)
+* [【2023-09-20】 派早报：2024 款小鹏 G9 上市、Panos Panay 从微软离职等](https://sspai.com/post/83076)
+* [【2023-09-19】 手感更轻、性能更重：iPhone 15 Pro 快速上手体验](https://sspai.com/post/83066)
+* [【2023-09-19】 一步步做个最适合自己的键盘固件：QMK 固件制作全解](https://sspai.com/prime/story/qmk-firmware-tutorial)
+* [【2023-09-19】 社区速递013 | 浏览器书签的 99 条用法和漫画迷的数据库](https://sspai.com/post/83052)
+* [【2023-09-19】 App+1 | 白板的信息关联、整理与查找，GUGA 是如何搞定的？](https://sspai.com/post/82826)
 * [【2023-09-19】 iOS 17 正式版来了，升级后先试试这些新功能](https://sspai.com/post/83015)
 * [【2023-09-19】 派开箱 | 当轻巧与耐用兼得，Bellroy 又设计了怎样的好包](https://sspai.com/post/82906)
 * [【2023-09-19】 派早报：iPhone 15 机型维修费用公布、iOS 17 等系统正式版发布等](https://sspai.com/post/83044)
 * [【2023-09-18】 派评 | 近期值得关注的 App](https://sspai.com/post/83027)
-* [【2023-09-18】 iPhone 15 发布会上没有告诉你的那些事](https://sspai.com/post/82987)
-* [【2023-09-18】 Obsidian + Excalidraw：我的个人知识管理可视化方法论](https://sspai.com/post/82130)
-* [【2023-09-18】 派早报：苹果更新 iPhone 12 软件以符合法国射频规定，最高检阐释人人影视案](https://sspai.com/post/83006)
-* [【2023-09-17】 开学季 | 值得关注的官翻渠道汇总 (2023)](https://sspai.com/post/82996)
-* [【2023-09-16】 处理器简史｜PowerPC 08：否极泰来 以弱胜强（下）](https://sspai.com/prime/story/ppc-history-08)
-* [【2023-09-16】 Eagle 的隐藏用法：批量导入并管理 Zotero 的标注图片](https://sspai.com/post/82791)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-19 05:10:49
+:alarm_clock: 更新时间: 2023-09-20 05:10:51
