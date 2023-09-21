@@ -548,6 +548,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "图标设计知往鉴今：致敬 Apple 初代设计师 Susan Kare",
+                "link": "https://sspai.com/post/82739",
+                "published": "2023-09-21"
+            },
+            {
+                "title": "派早报：尼康推出 Z f 复古相机、荣耀发布 V Purse 钱包手机等",
+                "link": "https://sspai.com/post/83101",
+                "published": "2023-09-21"
+            },
+            {
+                "title": "双轨歌词、动态封面：我是如何用 mpv 听歌的",
+                "link": "https://sspai.com/post/82744",
+                "published": "2023-09-20"
+            },
+            {
+                "title": "出行锦囊 | 如何买到一张价格合理的机票",
+                "link": "https://sspai.com/post/83081",
+                "published": "2023-09-20"
+            },
+            {
                 "title": "更有本事， 更显你本色：iPadOS 17 中值得关注的新特性",
                 "link": "https://sspai.com/post/83079",
                 "published": "2023-09-20"
@@ -15003,7 +15023,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -45459,6 +45479,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "从科学角度来讲，睡眠朝向会影响睡眠质量吗？",
+                "link": "http://www.zhihu.com/question/621663380/answer/3220314891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-09-21"
+            },
+            {
                 "title": "有奖活动 | 2024 秋招通关指南",
                 "link": "http://zhuanlan.zhihu.com/p/657005017?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-09-18"
@@ -53394,7 +53419,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
