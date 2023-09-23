@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-09-22】 科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)
 * [【2023-09-15】 科技爱好者周刊（第 271 期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)
 * [【2023-09-07】 科技爱好者周刊（第 270 期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)
 * [【2023-09-01】 科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)
@@ -25,7 +26,6 @@
 * [【2023-08-08】 《TypeScript 教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)
 * [【2023-08-04】 科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)
 * [【2023-07-28】 科技爱好者周刊（第 264 期）：Elasticsearch 的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html)
-* [【2023-07-21】 科技爱好者周刊（第 263 期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-09-22】 本周看什么 | 最近值得一看的一大匣作品](https://sspai.com/post/83155)
+* [【2023-09-22】 全盘改造，「表」现大不同：watchOS 10 值得关注的新特性](https://sspai.com/post/83143)
+* [【2023-09-22】 好想大声说「AI」它：Adobe Firefly 使用体验与指南](https://sspai.com/post/83138)
+* [【2023-09-22】 派早报：微软发布多款新品等](https://sspai.com/post/83137)
+* [【2023-09-21】 奥本海默没看够？这 8 部人物传记电影让你更了解他们](https://sspai.com/post/83098)
+* [【2023-09-21】 可能是近几年 Apple Store 的最大胜利：iPhone 15 系列选购指南](https://sspai.com/post/83113)
 * [【2023-09-21】 图标设计知往鉴今：致敬 Apple 初代设计师 Susan Kare](https://sspai.com/post/82739)
 * [【2023-09-21】 派早报：尼康推出 Z f 复古相机、荣耀发布 V Purse 钱包手机等](https://sspai.com/post/83101)
 * [【2023-09-20】 双轨歌词、动态封面：我是如何用 mpv 听歌的](https://sspai.com/post/82744)
 * [【2023-09-20】 出行锦囊 | 如何买到一张价格合理的机票](https://sspai.com/post/83081)
-* [【2023-09-20】 更有本事， 更显你本色：iPadOS 17 中值得关注的新特性](https://sspai.com/post/83079)
-* [【2023-09-20】 派早报：2024 款小鹏 G9 上市、Panos Panay 从微软离职等](https://sspai.com/post/83076)
-* [【2023-09-19】 手感更轻、性能更重：iPhone 15 Pro 快速上手体验](https://sspai.com/post/83066)
-* [【2023-09-19】 一步步做个最适合自己的键盘固件：QMK 固件制作全解](https://sspai.com/prime/story/qmk-firmware-tutorial)
-* [【2023-09-19】 社区速递013 | 浏览器书签的 99 条用法和漫画迷的数据库](https://sspai.com/post/83052)
-* [【2023-09-19】 App+1 | 白板的信息关联、整理与查找，GUGA 是如何搞定的？](https://sspai.com/post/82826)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-21 05:10:45
+:alarm_clock: 更新时间: 2023-09-23 05:10:12
