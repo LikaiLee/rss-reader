@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-09-23】 开学季 | 挑个趁手的工具，尽早学会文献管理](https://sspai.com/post/82931)
 * [【2023-09-22】 本周看什么 | 最近值得一看的一大匣作品](https://sspai.com/post/83155)
 * [【2023-09-22】 全盘改造，「表」现大不同：watchOS 10 值得关注的新特性](https://sspai.com/post/83143)
 * [【2023-09-22】 好想大声说「AI」它：Adobe Firefly 使用体验与指南](https://sspai.com/post/83138)
@@ -44,7 +45,6 @@
 * [【2023-09-21】 图标设计知往鉴今：致敬 Apple 初代设计师 Susan Kare](https://sspai.com/post/82739)
 * [【2023-09-21】 派早报：尼康推出 Z f 复古相机、荣耀发布 V Purse 钱包手机等](https://sspai.com/post/83101)
 * [【2023-09-20】 双轨歌词、动态封面：我是如何用 mpv 听歌的](https://sspai.com/post/82744)
-* [【2023-09-20】 出行锦囊 | 如何买到一张价格合理的机票](https://sspai.com/post/83081)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-23 05:10:12
+:alarm_clock: 更新时间: 2023-09-24 05:10:55
