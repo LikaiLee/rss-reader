@@ -553,6 +553,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "出行锦囊 | 找到假期应有的惬意：聊聊攻略规划与星级酒店",
+                "link": "https://sspai.com/post/83199",
+                "published": "2023-09-25"
+            },
+            {
+                "title": "派早报：Unity 修订争议收费政策，全球智能手机品牌减少三分之二",
+                "link": "https://sspai.com/post/83189",
+                "published": "2023-09-25"
+            },
+            {
+                "title": "点一下能解决的事就别长按：Android 应用快捷方式面面观",
+                "link": "https://sspai.com/prime/story/android-intents-affordances",
+                "published": "2023-09-24"
+            },
+            {
+                "title": "增加保修次数和年度订阅，这个 Apple 产品保险服务更划算了：AppleCare+ 详解",
+                "link": "https://sspai.com/post/62824",
+                "published": "2023-09-24"
+            },
+            {
                 "title": "开学季 | 挑个趁手的工具，尽早学会文献管理",
                 "link": "https://sspai.com/post/82931",
                 "published": "2023-09-23"
@@ -15063,7 +15083,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 2,

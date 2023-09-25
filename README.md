@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-09-25】 出行锦囊 | 找到假期应有的惬意：聊聊攻略规划与星级酒店](https://sspai.com/post/83199)
+* [【2023-09-25】 派早报：Unity 修订争议收费政策，全球智能手机品牌减少三分之二](https://sspai.com/post/83189)
+* [【2023-09-24】 点一下能解决的事就别长按：Android 应用快捷方式面面观](https://sspai.com/prime/story/android-intents-affordances)
+* [【2023-09-24】 增加保修次数和年度订阅，这个 Apple 产品保险服务更划算了：AppleCare+ 详解](https://sspai.com/post/62824)
 * [【2023-09-23】 开学季 | 挑个趁手的工具，尽早学会文献管理](https://sspai.com/post/82931)
 * [【2023-09-22】 本周看什么 | 最近值得一看的一大匣作品](https://sspai.com/post/83155)
 * [【2023-09-22】 全盘改造，「表」现大不同：watchOS 10 值得关注的新特性](https://sspai.com/post/83143)
 * [【2023-09-22】 好想大声说「AI」它：Adobe Firefly 使用体验与指南](https://sspai.com/post/83138)
 * [【2023-09-22】 派早报：微软发布多款新品等](https://sspai.com/post/83137)
 * [【2023-09-21】 奥本海默没看够？这 8 部人物传记电影让你更了解他们](https://sspai.com/post/83098)
-* [【2023-09-21】 可能是近几年 Apple Store 的最大胜利：iPhone 15 系列选购指南](https://sspai.com/post/83113)
-* [【2023-09-21】 图标设计知往鉴今：致敬 Apple 初代设计师 Susan Kare](https://sspai.com/post/82739)
-* [【2023-09-21】 派早报：尼康推出 Z f 复古相机、荣耀发布 V Purse 钱包手机等](https://sspai.com/post/83101)
-* [【2023-09-20】 双轨歌词、动态封面：我是如何用 mpv 听歌的](https://sspai.com/post/82744)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-24 05:10:55
+:alarm_clock: 更新时间: 2023-09-25 05:11:23
