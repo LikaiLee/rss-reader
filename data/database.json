@@ -553,6 +553,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "豆瓣、Notion 和 Last.fm，哪个更适合用来记录你听过的歌？",
+                "link": "https://sspai.com/post/83174",
+                "published": "2023-09-26"
+            },
+            {
+                "title": "派早报：华为举办秋季全场景新品发布会，大疆发布 DJI Mini 4 Pro 无人机等",
+                "link": "https://sspai.com/post/83219",
+                "published": "2023-09-26"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/83210",
+                "published": "2023-09-25"
+            },
+            {
+                "title": "浅谈飞傲 M11S 与 BTR7",
+                "link": "https://sspai.com/post/82472",
+                "published": "2023-09-25"
+            },
+            {
+                "title": "窗口内容钉选、跨设备使用鼠标：新版 PowerToys 这些功能值得一试",
+                "link": "https://sspai.com/post/83105",
+                "published": "2023-09-25"
+            },
+            {
                 "title": "出行锦囊 | 找到假期应有的惬意：聊聊攻略规划与星级酒店",
                 "link": "https://sspai.com/post/83199",
                 "published": "2023-09-25"
@@ -15083,7 +15108,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -45539,6 +45564,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "卧室临街，该如何让噪音不断的卧室静下来？",
+                "link": "http://www.zhihu.com/question/622746873/answer/3225801905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-09-25"
+            },
+            {
                 "title": "从科学角度来讲，睡眠朝向会影响睡眠质量吗？",
                 "link": "http://www.zhihu.com/question/621663380/answer/3220314891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-09-21"
@@ -53479,7 +53509,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

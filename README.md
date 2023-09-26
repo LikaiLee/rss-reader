@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-09-26】 豆瓣、Notion 和 Last.fm，哪个更适合用来记录你听过的歌？](https://sspai.com/post/83174)
+* [【2023-09-26】 派早报：华为举办秋季全场景新品发布会，大疆发布 DJI Mini 4 Pro 无人机等](https://sspai.com/post/83219)
+* [【2023-09-25】 派评 | 近期值得关注的 App](https://sspai.com/post/83210)
+* [【2023-09-25】 浅谈飞傲 M11S 与 BTR7](https://sspai.com/post/82472)
+* [【2023-09-25】 窗口内容钉选、跨设备使用鼠标：新版 PowerToys 这些功能值得一试](https://sspai.com/post/83105)
 * [【2023-09-25】 出行锦囊 | 找到假期应有的惬意：聊聊攻略规划与星级酒店](https://sspai.com/post/83199)
 * [【2023-09-25】 派早报：Unity 修订争议收费政策，全球智能手机品牌减少三分之二](https://sspai.com/post/83189)
 * [【2023-09-24】 点一下能解决的事就别长按：Android 应用快捷方式面面观](https://sspai.com/prime/story/android-intents-affordances)
 * [【2023-09-24】 增加保修次数和年度订阅，这个 Apple 产品保险服务更划算了：AppleCare+ 详解](https://sspai.com/post/62824)
 * [【2023-09-23】 开学季 | 挑个趁手的工具，尽早学会文献管理](https://sspai.com/post/82931)
-* [【2023-09-22】 本周看什么 | 最近值得一看的一大匣作品](https://sspai.com/post/83155)
-* [【2023-09-22】 全盘改造，「表」现大不同：watchOS 10 值得关注的新特性](https://sspai.com/post/83143)
-* [【2023-09-22】 好想大声说「AI」它：Adobe Firefly 使用体验与指南](https://sspai.com/post/83138)
-* [【2023-09-22】 派早报：微软发布多款新品等](https://sspai.com/post/83137)
-* [【2023-09-21】 奥本海默没看够？这 8 部人物传记电影让你更了解他们](https://sspai.com/post/83098)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-09-25】 卧室临街，该如何让噪音不断的卧室静下来？](http://www.zhihu.com/question/622746873/answer/3225801905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-21】 从科学角度来讲，睡眠朝向会影响睡眠质量吗？](http://www.zhihu.com/question/621663380/answer/3220314891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-18】 有奖活动 | 2024 秋招通关指南](http://zhuanlan.zhihu.com/p/657005017?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-08】 演员不拍戏的时候都干嘛呢？](http://www.zhihu.com/question/52340748/answer/692466752?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-09-02】 对普通人来说，有什么维权手段可以轻松解决购买家具的「后顾之忧」？](http://www.zhihu.com/question/617930805/answer/3194211073?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-02】 环保和装修冲突吗？你对环保装修的未来有哪些想象？](http://www.zhihu.com/question/619714694/answer/3194220680?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-31】 新房装修后，如何正确地完成甲醛检测才可以放心入住？](http://www.zhihu.com/question/616613206/answer/3191713359?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-31】 严格来说，板材的甲醛含量是不是越低越好？](http://www.zhihu.com/question/617928146/answer/3189965547?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-25 05:11:23
+:alarm_clock: 更新时间: 2023-09-26 05:10:56
