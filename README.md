@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-09-27】 除了出国，我们学习 GRE 还有什么用？](https://sspai.com/post/83125)
+* [【2023-09-27】 派早报：Nothing 子品牌 CMF 发布多款新品、Apple 推出全球开发者资源等](https://sspai.com/post/83243)
+* [【2023-09-26】 社区速递 014 |  交互式小组件、预制菜和派友的维修经历](https://sspai.com/post/83232)
+* [【2023-09-26】 本月玩什么 | 往日之影、星空、巴别塔圣歌、「锈湖」新作……](https://sspai.com/post/83225)
 * [【2023-09-26】 豆瓣、Notion 和 Last.fm，哪个更适合用来记录你听过的歌？](https://sspai.com/post/83174)
 * [【2023-09-26】 派早报：华为举办秋季全场景新品发布会，大疆发布 DJI Mini 4 Pro 无人机等](https://sspai.com/post/83219)
 * [【2023-09-25】 派评 | 近期值得关注的 App](https://sspai.com/post/83210)
 * [【2023-09-25】 浅谈飞傲 M11S 与 BTR7](https://sspai.com/post/82472)
 * [【2023-09-25】 窗口内容钉选、跨设备使用鼠标：新版 PowerToys 这些功能值得一试](https://sspai.com/post/83105)
 * [【2023-09-25】 出行锦囊 | 找到假期应有的惬意：聊聊攻略规划与星级酒店](https://sspai.com/post/83199)
-* [【2023-09-25】 派早报：Unity 修订争议收费政策，全球智能手机品牌减少三分之二](https://sspai.com/post/83189)
-* [【2023-09-24】 点一下能解决的事就别长按：Android 应用快捷方式面面观](https://sspai.com/prime/story/android-intents-affordances)
-* [【2023-09-24】 增加保修次数和年度订阅，这个 Apple 产品保险服务更划算了：AppleCare+ 详解](https://sspai.com/post/62824)
-* [【2023-09-23】 开学季 | 挑个趁手的工具，尽早学会文献管理](https://sspai.com/post/82931)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-26 05:10:56
+:alarm_clock: 更新时间: 2023-09-27 05:10:52
