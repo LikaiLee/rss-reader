@@ -553,6 +553,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起",
+                "link": "https://sspai.com/post/83198",
+                "published": "2023-09-28"
+            },
+            {
+                "title": "派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等",
+                "link": "https://sspai.com/post/83277",
+                "published": "2023-09-28"
+            },
+            {
+                "title": "出去玩 | 现在就去征服大自然吧：自驾南姐洛徒步小记",
+                "link": "https://sspai.com/post/82818",
+                "published": "2023-09-27"
+            },
+            {
+                "title": "被实力吸引， 被乐趣圈粉：macOS Sonoma 中值得关注的新特性",
+                "link": "https://sspai.com/post/83228",
+                "published": "2023-09-27"
+            },
+            {
                 "title": "除了出国，我们学习 GRE 还有什么用？",
                 "link": "https://sspai.com/post/83125",
                 "published": "2023-09-27"
@@ -45584,6 +45604,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "谢谢你的月亮",
+                "link": "http://zhuanlan.zhihu.com/p/658742880?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-09-28"
+            },
+            {
                 "title": "卧室临街，该如何让噪音不断的卧室静下来？",
                 "link": "http://www.zhihu.com/question/622746873/answer/3225801905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-09-25"
@@ -53529,7 +53554,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
