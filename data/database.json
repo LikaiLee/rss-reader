@@ -553,6 +553,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "双重节日，双重优惠，栏目和软件秒杀 9.9 元起",
+                "link": "https://sspai.com/post/83295",
+                "published": "2023-09-28"
+            },
+            {
+                "title": "「媒体老师」的大开箱：数码科技厂商中秋礼盒里都有啥？",
+                "link": "https://sspai.com/post/83298",
+                "published": "2023-09-28"
+            },
+            {
+                "title": "新玩意 161｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/83297",
+                "published": "2023-09-28"
+            },
+            {
+                "title": "在 iOS 找回你需要的「节假日闹钟」",
+                "link": "https://sspai.com/prime/story/shortcuts-holiday-alarm",
+                "published": "2023-09-28"
+            },
+            {
                 "title": "我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起",
                 "link": "https://sspai.com/post/83198",
                 "published": "2023-09-28"
@@ -45603,6 +45623,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "如果首都没有放在北平，现在的北平会发展成什么样子？",
+                "link": "http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-08-24"
+            },
             {
                 "title": "谢谢你的月亮",
                 "link": "http://zhuanlan.zhihu.com/p/658742880?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",

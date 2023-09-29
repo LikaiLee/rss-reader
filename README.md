@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-09-28】 双重节日，双重优惠，栏目和软件秒杀 9.9 元起](https://sspai.com/post/83295)
+* [【2023-09-28】 「媒体老师」的大开箱：数码科技厂商中秋礼盒里都有啥？](https://sspai.com/post/83298)
+* [【2023-09-28】 新玩意 161｜少数派的编辑们最近买了啥？](https://sspai.com/post/83297)
+* [【2023-09-28】 在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm)
 * [【2023-09-28】 我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起](https://sspai.com/post/83198)
 * [【2023-09-28】 派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等](https://sspai.com/post/83277)
 * [【2023-09-27】 出去玩 | 现在就去征服大自然吧：自驾南姐洛徒步小记](https://sspai.com/post/82818)
 * [【2023-09-27】 被实力吸引， 被乐趣圈粉：macOS Sonoma 中值得关注的新特性](https://sspai.com/post/83228)
 * [【2023-09-27】 除了出国，我们学习 GRE 还有什么用？](https://sspai.com/post/83125)
 * [【2023-09-27】 派早报：Nothing 子品牌 CMF 发布多款新品、Apple 推出全球开发者资源等](https://sspai.com/post/83243)
-* [【2023-09-26】 社区速递 014 |  交互式小组件、预制菜和派友的维修经历](https://sspai.com/post/83232)
-* [【2023-09-26】 本月玩什么 | 往日之影、星空、巴别塔圣歌、「锈湖」新作……](https://sspai.com/post/83225)
-* [【2023-09-26】 豆瓣、Notion 和 Last.fm，哪个更适合用来记录你听过的歌？](https://sspai.com/post/83174)
-* [【2023-09-26】 派早报：华为举办秋季全场景新品发布会，大疆发布 DJI Mini 4 Pro 无人机等](https://sspai.com/post/83219)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-08-24】 如果首都没有放在北平，现在的北平会发展成什么样子？](http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-28】 谢谢你的月亮](http://zhuanlan.zhihu.com/p/658742880?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-25】 卧室临街，该如何让噪音不断的卧室静下来？](http://www.zhihu.com/question/622746873/answer/3225801905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-21】 从科学角度来讲，睡眠朝向会影响睡眠质量吗？](http://www.zhihu.com/question/621663380/answer/3220314891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-09-05】 天津大爷集体跳水火出圈，海河多地成网红打卡景点，专家建议积极引导大爷跳水行为，如何看待这种现象？](http://www.zhihu.com/question/619955808/answer/3197938439?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-04】 2023 中拉体育中冠联赛总决赛第一轮综述](http://zhuanlan.zhihu.com/p/654054049?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-02】 对普通人来说，有什么维权手段可以轻松解决购买家具的「后顾之忧」？](http://www.zhihu.com/question/617930805/answer/3194211073?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-09-02】 环保和装修冲突吗？你对环保装修的未来有哪些想象？](http://www.zhihu.com/question/619714694/answer/3194220680?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-28 05:11:09
+:alarm_clock: 更新时间: 2023-09-29 05:11:03
