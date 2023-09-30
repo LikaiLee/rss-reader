@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-09-29】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83307)
+* [【2023-09-29】 留给 iPhone 的时间，还有三年：iPhone 15 系列深度解析](https://sspai.com/post/83300)
 * [【2023-09-28】 双重节日，双重优惠，栏目和软件秒杀 9.9 元起](https://sspai.com/post/83295)
 * [【2023-09-28】 「媒体老师」的大开箱：数码科技厂商中秋礼盒里都有啥？](https://sspai.com/post/83298)
 * [【2023-09-28】 新玩意 161｜少数派的编辑们最近买了啥？](https://sspai.com/post/83297)
@@ -43,8 +45,6 @@
 * [【2023-09-28】 派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等](https://sspai.com/post/83277)
 * [【2023-09-27】 出去玩 | 现在就去征服大自然吧：自驾南姐洛徒步小记](https://sspai.com/post/82818)
 * [【2023-09-27】 被实力吸引， 被乐趣圈粉：macOS Sonoma 中值得关注的新特性](https://sspai.com/post/83228)
-* [【2023-09-27】 除了出国，我们学习 GRE 还有什么用？](https://sspai.com/post/83125)
-* [【2023-09-27】 派早报：Nothing 子品牌 CMF 发布多款新品、Apple 推出全球开发者资源等](https://sspai.com/post/83243)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-09-29 05:11:03
+:alarm_clock: 更新时间: 2023-09-30 05:10:32

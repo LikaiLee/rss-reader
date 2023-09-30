@@ -553,6 +553,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/83307",
+                "published": "2023-09-29"
+            },
+            {
+                "title": "留给 iPhone 的时间，还有三年：iPhone 15 系列深度解析",
+                "link": "https://sspai.com/post/83300",
+                "published": "2023-09-29"
+            },
+            {
                 "title": "双重节日，双重优惠，栏目和软件秒杀 9.9 元起",
                 "link": "https://sspai.com/post/83295",
                 "published": "2023-09-28"
@@ -15168,7 +15178,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -53579,7 +53589,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
