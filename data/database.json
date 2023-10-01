@@ -553,6 +553,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "It's Okay To Cry——评《往日之影》及《赛博朋克 2077》",
+                "link": "https://sspai.com/post/83309",
+                "published": "2023-09-30"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/83307",
                 "published": "2023-09-29"
@@ -15178,7 +15183,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
