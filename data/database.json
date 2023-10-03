@@ -553,6 +553,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "家用咖啡手册（终篇）| 都是咖啡，但你真了解自己喝的那一杯吗？",
+                "link": "https://sspai.com/post/83184",
+                "published": "2023-10-03"
+            },
+            {
+                "title": "面对危害性的网络谣言，我们就是父母最好的武器",
+                "link": "https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos",
+                "published": "2023-10-02"
+            },
+            {
+                "title": "一日一技 | 巧用 Word 邮件合并，半自动生成活动照片记录文档",
+                "link": "https://sspai.com/post/83276",
+                "published": "2023-10-02"
+            },
+            {
                 "title": "It's Okay To Cry——评《往日之影》及《赛博朋克 2077》",
                 "link": "https://sspai.com/post/83309",
                 "published": "2023-09-30"
@@ -15183,7 +15198,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 2,

@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-10-03】 家用咖啡手册（终篇）| 都是咖啡，但你真了解自己喝的那一杯吗？](https://sspai.com/post/83184)
+* [【2023-10-02】 面对危害性的网络谣言，我们就是父母最好的武器](https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos)
+* [【2023-10-02】 一日一技 | 巧用 Word 邮件合并，半自动生成活动照片记录文档](https://sspai.com/post/83276)
 * [【2023-09-30】 It's Okay To Cry——评《往日之影》及《赛博朋克 2077》](https://sspai.com/post/83309)
 * [【2023-09-29】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83307)
 * [【2023-09-29】 留给 iPhone 的时间，还有三年：iPhone 15 系列深度解析](https://sspai.com/post/83300)
@@ -42,9 +45,6 @@
 * [【2023-09-28】 「媒体老师」的大开箱：数码科技厂商中秋礼盒里都有啥？](https://sspai.com/post/83298)
 * [【2023-09-28】 新玩意 161｜少数派的编辑们最近买了啥？](https://sspai.com/post/83297)
 * [【2023-09-28】 在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm)
-* [【2023-09-28】 我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起](https://sspai.com/post/83198)
-* [【2023-09-28】 派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等](https://sspai.com/post/83277)
-* [【2023-09-27】 出去玩 | 现在就去征服大自然吧：自驾南姐洛徒步小记](https://sspai.com/post/82818)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-02 05:11:16
+:alarm_clock: 更新时间: 2023-10-03 05:11:08
