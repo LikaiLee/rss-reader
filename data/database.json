@@ -553,6 +553,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "PARA中「项目」的魔力：用输出对抗信息焦虑",
+                "link": "https://sspai.com/post/83271",
+                "published": "2023-10-04"
+            },
+            {
+                "title": "用「快捷短语」提高搜索效率：工具设置与自建服务",
+                "link": "https://sspai.com/prime/story/keyword-search-tools-and-selfhosting",
+                "published": "2023-10-03"
+            },
+            {
+                "title": "出行锦囊 | 出去玩带什么：和你分享我的包",
+                "link": "https://sspai.com/post/83351",
+                "published": "2023-10-03"
+            },
+            {
+                "title": "如何在信息过载时代开启「独立思考」的人生",
+                "link": "https://sspai.com/post/82646",
+                "published": "2023-10-03"
+            },
+            {
                 "title": "家用咖啡手册（终篇）| 都是咖啡，但你真了解自己喝的那一杯吗？",
                 "link": "https://sspai.com/post/83184",
                 "published": "2023-10-03"
@@ -15198,7 +15218,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
