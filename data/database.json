@@ -553,6 +553,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "内置大模型、7 年系统更新：Google Pixel 8 系列发布会看点速览",
+                "link": "https://sspai.com/post/83366",
+                "published": "2023-10-04"
+            },
+            {
+                "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
+                "link": "https://sspai.com/post/68227",
+                "published": "2023-10-04"
+            },
+            {
                 "title": "PARA中「项目」的魔力：用输出对抗信息焦虑",
                 "link": "https://sspai.com/post/83271",
                 "published": "2023-10-04"
@@ -15218,7 +15228,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
