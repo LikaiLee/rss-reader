@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-10-06】 生活的平衡](https://sspai.com/post/82961)
 * [【2023-10-04】 内置大模型、7 年系统更新：Google Pixel 8 系列发布会看点速览](https://sspai.com/post/83366)
 * [【2023-10-04】 开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
 * [【2023-10-04】 PARA中「项目」的魔力：用输出对抗信息焦虑](https://sspai.com/post/83271)
@@ -44,7 +45,6 @@
 * [【2023-10-03】 家用咖啡手册（终篇）| 都是咖啡，但你真了解自己喝的那一杯吗？](https://sspai.com/post/83184)
 * [【2023-10-02】 面对危害性的网络谣言，我们就是父母最好的武器](https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos)
 * [【2023-10-02】 一日一技 | 巧用 Word 邮件合并，半自动生成活动照片记录文档](https://sspai.com/post/83276)
-* [【2023-09-30】 It's Okay To Cry——评《往日之影》及《赛博朋克 2077》](https://sspai.com/post/83309)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-05 05:11:17
+:alarm_clock: 更新时间: 2023-10-06 05:11:19
