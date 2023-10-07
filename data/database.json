@@ -553,6 +553,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Python 在办公自动化中的简单应用",
+                "link": "https://sspai.com/post/83196",
+                "published": "2023-10-07"
+            },
+            {
+                "title": "派早报：Google Pixel 8 系列发布、网页版 Photoshop 上线等",
+                "link": "https://sspai.com/post/83389",
+                "published": "2023-10-07"
+            },
+            {
+                "title": "为了打字更爽，我学了一个追求极致性能的小众输入法",
+                "link": "https://sspai.com/post/83376",
+                "published": "2023-10-06"
+            },
+            {
                 "title": "生活的平衡",
                 "link": "https://sspai.com/post/82961",
                 "published": "2023-10-06"
@@ -15233,7 +15248,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
