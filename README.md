@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-10-08】 停止望山兴叹，从室内岩馆开始攀岩之路](https://sspai.com/post/82795)
+* [【2023-10-08】 派早报：三星推出 Exynos 2400 处理器、微软更新多项服务等](https://sspai.com/post/83403)
+* [【2023-10-07】 本周看什么 | 最近值得一看的一大捧作品](https://sspai.com/post/83395)
+* [【2023-10-07】 不躺不卷，用热爱疗愈副业焦虑](https://sspai.com/post/83017)
+* [【2023-10-07】 让 iPhone「随时待命」，快来试试这些 iOS 17 待机显示小组件](https://sspai.com/post/83373)
 * [【2023-10-07】 Python 在办公自动化中的简单应用](https://sspai.com/post/83196)
 * [【2023-10-07】 派早报：Google Pixel 8 系列发布、网页版 Photoshop 上线等](https://sspai.com/post/83389)
 * [【2023-10-06】 为了打字更爽，我学了一个追求极致性能的小众输入法](https://sspai.com/post/83376)
 * [【2023-10-06】 生活的平衡](https://sspai.com/post/82961)
 * [【2023-10-04】 内置大模型、7 年系统更新：Google Pixel 8 系列发布会看点速览](https://sspai.com/post/83366)
-* [【2023-10-04】 开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
-* [【2023-10-04】 PARA中「项目」的魔力：用输出对抗信息焦虑](https://sspai.com/post/83271)
-* [【2023-10-03】 用「快捷短语」提高搜索效率：工具设置与自建服务](https://sspai.com/prime/story/keyword-search-tools-and-selfhosting)
-* [【2023-10-03】 出行锦囊 | 出去玩带什么：和你分享我的包](https://sspai.com/post/83351)
-* [【2023-10-03】 如何在信息过载时代开启「独立思考」的人生](https://sspai.com/post/82646)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-07 05:10:19
+:alarm_clock: 更新时间: 2023-10-08 05:10:32
