@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-10-09】 这些浏览器词典插件，让在线阅读更方便](https://sspai.com/post/83385)
+* [【2023-10-09】 派早报](https://sspai.com/post/83429)
+* [【2023-10-08】 具透 | Moment 4 更新详解：今年 Windows 11 的新功能，或许都在这里了](https://sspai.com/post/83418)
+* [【2023-10-08】 派开箱 | 当老牌电源厂商来做户外设备，Anker 车载冰箱用起来怎么样？](https://sspai.com/post/83348)
 * [【2023-10-08】 停止望山兴叹，从室内岩馆开始攀岩之路](https://sspai.com/post/82795)
 * [【2023-10-08】 派早报：三星推出 Exynos 2400 处理器、微软更新多项服务等](https://sspai.com/post/83403)
 * [【2023-10-07】 本周看什么 | 最近值得一看的一大捧作品](https://sspai.com/post/83395)
 * [【2023-10-07】 不躺不卷，用热爱疗愈副业焦虑](https://sspai.com/post/83017)
 * [【2023-10-07】 让 iPhone「随时待命」，快来试试这些 iOS 17 待机显示小组件](https://sspai.com/post/83373)
 * [【2023-10-07】 Python 在办公自动化中的简单应用](https://sspai.com/post/83196)
-* [【2023-10-07】 派早报：Google Pixel 8 系列发布、网页版 Photoshop 上线等](https://sspai.com/post/83389)
-* [【2023-10-06】 为了打字更爽，我学了一个追求极致性能的小众输入法](https://sspai.com/post/83376)
-* [【2023-10-06】 生活的平衡](https://sspai.com/post/82961)
-* [【2023-10-04】 内置大模型、7 年系统更新：Google Pixel 8 系列发布会看点速览](https://sspai.com/post/83366)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-10-09】 如何设计卧室光线才能做到「睡到自然醒」？](http://www.zhihu.com/question/621663649/answer/3242393655?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-10-08】 如果你是杨修，该如何支持曹植上位，又能避免被曹操砍死？](http://www.zhihu.com/question/622910466/answer/3224915374?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-10-08】 有奖征文：能不能给《三国演义》中没有交代完整的情节，补上一个细节丰富的新故事？](http://www.zhihu.com/question/622912013/answer/3219210043?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-10-08】 有奖征文：能不能给《水浒传》中没有交代完整的情节，补上一个细节丰富的新故事？](http://www.zhihu.com/question/622912275/answer/3229145079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-24】 如果首都没有放在北平，现在的北平会发展成什么样子？](http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-28】 谢谢你的月亮](http://zhuanlan.zhihu.com/p/658742880?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-25】 卧室临街，该如何让噪音不断的卧室静下来？](http://www.zhihu.com/question/622746873/answer/3225801905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-21】 从科学角度来讲，睡眠朝向会影响睡眠质量吗？](http://www.zhihu.com/question/621663380/answer/3220314891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-18】 有奖活动 | 2024 秋招通关指南](http://zhuanlan.zhihu.com/p/657005017?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-08】 演员不拍戏的时候都干嘛呢？](http://www.zhihu.com/question/52340748/answer/692466752?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-09-08】 招募 | 加入「秋招导师团」，分享经验赢盐粒！](http://zhuanlan.zhihu.com/p/655049492?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-09-05】 天津大爷集体跳水火出圈，海河多地成网红打卡景点，专家建议积极引导大爷跳水行为，如何看待这种现象？](http://www.zhihu.com/question/619955808/answer/3197938439?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-09-04】 2023 中拉体育中冠联赛总决赛第一轮综述](http://zhuanlan.zhihu.com/p/654054049?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-09-02】 对普通人来说，有什么维权手段可以轻松解决购买家具的「后顾之忧」？](http://www.zhihu.com/question/617930805/answer/3194211073?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-08 05:10:32
+:alarm_clock: 更新时间: 2023-10-09 05:11:17

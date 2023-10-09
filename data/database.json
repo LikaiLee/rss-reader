@@ -553,6 +553,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "这些浏览器词典插件，让在线阅读更方便",
+                "link": "https://sspai.com/post/83385",
+                "published": "2023-10-09"
+            },
+            {
+                "title": "派早报",
+                "link": "https://sspai.com/post/83429",
+                "published": "2023-10-09"
+            },
+            {
+                "title": "具透 | Moment 4 更新详解：今年 Windows 11 的新功能，或许都在这里了",
+                "link": "https://sspai.com/post/83418",
+                "published": "2023-10-08"
+            },
+            {
+                "title": "派开箱 | 当老牌电源厂商来做户外设备，Anker 车载冰箱用起来怎么样？",
+                "link": "https://sspai.com/post/83348",
+                "published": "2023-10-08"
+            },
+            {
                 "title": "停止望山兴叹，从室内岩馆开始攀岩之路",
                 "link": "https://sspai.com/post/82795",
                 "published": "2023-10-08"
@@ -15273,7 +15293,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -45729,6 +45749,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何设计卧室光线才能做到「睡到自然醒」？",
+                "link": "http://www.zhihu.com/question/621663649/answer/3242393655?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-09"
+            },
+            {
+                "title": "如果你是杨修，该如何支持曹植上位，又能避免被曹操砍死？",
+                "link": "http://www.zhihu.com/question/622910466/answer/3224915374?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-08"
+            },
+            {
+                "title": "有奖征文：能不能给《三国演义》中没有交代完整的情节，补上一个细节丰富的新故事？",
+                "link": "http://www.zhihu.com/question/622912013/answer/3219210043?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-08"
+            },
+            {
+                "title": "有奖征文：能不能给《水浒传》中没有交代完整的情节，补上一个细节丰富的新故事？",
+                "link": "http://www.zhihu.com/question/622912275/answer/3229145079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-08"
+            },
+            {
                 "title": "如果首都没有放在北平，现在的北平会发展成什么样子？",
                 "link": "http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-08-24"
@@ -53684,7 +53724,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 4,
