@@ -553,6 +553,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "四个 All-in-One 工具，帮我优化工作与生活流程",
+                "link": "https://sspai.com/post/83315",
+                "published": "2023-10-10"
+            },
+            {
+                "title": "派早报：交通运输部发布《公路工程设施支持自动驾驶技术指南》等",
+                "link": "https://sspai.com/post/83458",
+                "published": "2023-10-10"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/83450",
+                "published": "2023-10-09"
+            },
+            {
+                "title": "万字详拆芯片：人类算力被锁死了吗？",
+                "link": "https://sspai.com/post/83398",
+                "published": "2023-10-09"
+            },
+            {
                 "title": "这些浏览器词典插件，让在线阅读更方便",
                 "link": "https://sspai.com/post/83385",
                 "published": "2023-10-09"
@@ -53724,7 +53744,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 0
     },
     {
         "id": 4,

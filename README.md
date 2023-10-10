@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-10-10】 四个 All-in-One 工具，帮我优化工作与生活流程](https://sspai.com/post/83315)
+* [【2023-10-10】 派早报：交通运输部发布《公路工程设施支持自动驾驶技术指南》等](https://sspai.com/post/83458)
+* [【2023-10-09】 派评 | 近期值得关注的 App](https://sspai.com/post/83450)
+* [【2023-10-09】 万字详拆芯片：人类算力被锁死了吗？](https://sspai.com/post/83398)
 * [【2023-10-09】 这些浏览器词典插件，让在线阅读更方便](https://sspai.com/post/83385)
 * [【2023-10-09】 派早报](https://sspai.com/post/83429)
 * [【2023-10-08】 具透 | Moment 4 更新详解：今年 Windows 11 的新功能，或许都在这里了](https://sspai.com/post/83418)
 * [【2023-10-08】 派开箱 | 当老牌电源厂商来做户外设备，Anker 车载冰箱用起来怎么样？](https://sspai.com/post/83348)
 * [【2023-10-08】 停止望山兴叹，从室内岩馆开始攀岩之路](https://sspai.com/post/82795)
 * [【2023-10-08】 派早报：三星推出 Exynos 2400 处理器、微软更新多项服务等](https://sspai.com/post/83403)
-* [【2023-10-07】 本周看什么 | 最近值得一看的一大捧作品](https://sspai.com/post/83395)
-* [【2023-10-07】 不躺不卷，用热爱疗愈副业焦虑](https://sspai.com/post/83017)
-* [【2023-10-07】 让 iPhone「随时待命」，快来试试这些 iOS 17 待机显示小组件](https://sspai.com/post/83373)
-* [【2023-10-07】 Python 在办公自动化中的简单应用](https://sspai.com/post/83196)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-09 05:11:17
+:alarm_clock: 更新时间: 2023-10-10 05:11:10
