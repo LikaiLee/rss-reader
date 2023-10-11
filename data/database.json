@@ -553,6 +553,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "用开源项目，你也能训练自己的 AI 语音模型",
+                "link": "https://sspai.com/post/83487",
+                "published": "2023-10-11"
+            },
+            {
+                "title": "派早报：PS5 新机型公布、Google 在与 Sonos 的专利纠纷中胜诉等",
+                "link": "https://sspai.com/post/83484",
+                "published": "2023-10-11"
+            },
+            {
+                "title": "社区速递 015 | 自驾游、智能推窗器和博客搭建",
+                "link": "https://sspai.com/post/83475",
+                "published": "2023-10-10"
+            },
+            {
+                "title": "Matrix Talk | 作为 iOS 用户，我为什么换到 / 新增 Android 设备？",
+                "link": "https://sspai.com/post/83445",
+                "published": "2023-10-10"
+            },
+            {
                 "title": "四个 All-in-One 工具，帮我优化工作与生活流程",
                 "link": "https://sspai.com/post/83315",
                 "published": "2023-10-10"
@@ -45769,6 +45789,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "好的床垫是否真的可以改善睡眠质量？",
+                "link": "http://www.zhihu.com/question/622755882/answer/3244710657?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-11"
+            },
+            {
+                "title": "《漫长的季节》里沈墨为什么拒绝弹奏《纤夫的爱》钢琴曲？",
+                "link": "http://www.zhihu.com/question/600523934/answer/3029686901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-10"
+            },
+            {
                 "title": "如何设计卧室光线才能做到「睡到自然醒」？",
                 "link": "http://www.zhihu.com/question/621663649/answer/3242393655?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-10-09"
@@ -53744,7 +53774,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,

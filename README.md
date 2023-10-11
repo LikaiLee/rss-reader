@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-10-11】 用开源项目，你也能训练自己的 AI 语音模型](https://sspai.com/post/83487)
+* [【2023-10-11】 派早报：PS5 新机型公布、Google 在与 Sonos 的专利纠纷中胜诉等](https://sspai.com/post/83484)
+* [【2023-10-10】 社区速递 015 | 自驾游、智能推窗器和博客搭建](https://sspai.com/post/83475)
+* [【2023-10-10】 Matrix Talk | 作为 iOS 用户，我为什么换到 / 新增 Android 设备？](https://sspai.com/post/83445)
 * [【2023-10-10】 四个 All-in-One 工具，帮我优化工作与生活流程](https://sspai.com/post/83315)
 * [【2023-10-10】 派早报：交通运输部发布《公路工程设施支持自动驾驶技术指南》等](https://sspai.com/post/83458)
 * [【2023-10-09】 派评 | 近期值得关注的 App](https://sspai.com/post/83450)
 * [【2023-10-09】 万字详拆芯片：人类算力被锁死了吗？](https://sspai.com/post/83398)
 * [【2023-10-09】 这些浏览器词典插件，让在线阅读更方便](https://sspai.com/post/83385)
 * [【2023-10-09】 派早报](https://sspai.com/post/83429)
-* [【2023-10-08】 具透 | Moment 4 更新详解：今年 Windows 11 的新功能，或许都在这里了](https://sspai.com/post/83418)
-* [【2023-10-08】 派开箱 | 当老牌电源厂商来做户外设备，Anker 车载冰箱用起来怎么样？](https://sspai.com/post/83348)
-* [【2023-10-08】 停止望山兴叹，从室内岩馆开始攀岩之路](https://sspai.com/post/82795)
-* [【2023-10-08】 派早报：三星推出 Exynos 2400 处理器、微软更新多项服务等](https://sspai.com/post/83403)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-10-11】 好的床垫是否真的可以改善睡眠质量？](http://www.zhihu.com/question/622755882/answer/3244710657?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-10-10】 《漫长的季节》里沈墨为什么拒绝弹奏《纤夫的爱》钢琴曲？](http://www.zhihu.com/question/600523934/answer/3029686901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-09】 如何设计卧室光线才能做到「睡到自然醒」？](http://www.zhihu.com/question/621663649/answer/3242393655?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-08】 如果你是杨修，该如何支持曹植上位，又能避免被曹操砍死？](http://www.zhihu.com/question/622910466/answer/3224915374?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-08】 有奖征文：能不能给《三国演义》中没有交代完整的情节，补上一个细节丰富的新故事？](http://www.zhihu.com/question/622912013/answer/3219210043?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-09-28】 谢谢你的月亮](http://zhuanlan.zhihu.com/p/658742880?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-25】 卧室临街，该如何让噪音不断的卧室静下来？](http://www.zhihu.com/question/622746873/answer/3225801905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-21】 从科学角度来讲，睡眠朝向会影响睡眠质量吗？](http://www.zhihu.com/question/621663380/answer/3220314891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-09-18】 有奖活动 | 2024 秋招通关指南](http://zhuanlan.zhihu.com/p/657005017?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-09-08】 演员不拍戏的时候都干嘛呢？](http://www.zhihu.com/question/52340748/answer/692466752?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-10 05:11:10
+:alarm_clock: 更新时间: 2023-10-11 05:11:03
