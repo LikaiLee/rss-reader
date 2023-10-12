@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-10-12】 呼风唤雨于指尖拳心：巧用辅助功能单手操作 Apple Watch](https://sspai.com/prime/story/apple-watch-a11y)
+* [【2023-10-12】 派早报：高通公布骁龙 X 芯片、网页版 Illustrator 开放公测等](https://sspai.com/post/83511)
+* [【2023-10-11】 少数派健身类选题人气作者「举铁的马里奥」都装了啥？](https://sspai.com/prime/story/zhuanglesha-231011)
+* [【2023-10-11】 具透 | 喜欢 Android 14 的 14 个理由（少数派版本）](https://sspai.com/post/83501)
+* [【2023-10-11】 返璞归真，又迎一春：小评《刺客信条：幻景》](https://sspai.com/post/83488)
 * [【2023-10-11】 用开源项目，你也能训练自己的 AI 语音模型](https://sspai.com/post/83487)
 * [【2023-10-11】 派早报：PS5 新机型公布、Google 在与 Sonos 的专利纠纷中胜诉等](https://sspai.com/post/83484)
 * [【2023-10-10】 社区速递 015 | 自驾游、智能推窗器和博客搭建](https://sspai.com/post/83475)
 * [【2023-10-10】 Matrix Talk | 作为 iOS 用户，我为什么换到 / 新增 Android 设备？](https://sspai.com/post/83445)
 * [【2023-10-10】 四个 All-in-One 工具，帮我优化工作与生活流程](https://sspai.com/post/83315)
-* [【2023-10-10】 派早报：交通运输部发布《公路工程设施支持自动驾驶技术指南》等](https://sspai.com/post/83458)
-* [【2023-10-09】 派评 | 近期值得关注的 App](https://sspai.com/post/83450)
-* [【2023-10-09】 万字详拆芯片：人类算力被锁死了吗？](https://sspai.com/post/83398)
-* [【2023-10-09】 这些浏览器词典插件，让在线阅读更方便](https://sspai.com/post/83385)
-* [【2023-10-09】 派早报](https://sspai.com/post/83429)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-11 05:11:03
+:alarm_clock: 更新时间: 2023-10-12 05:11:39

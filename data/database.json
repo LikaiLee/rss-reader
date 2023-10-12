@@ -553,6 +553,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "呼风唤雨于指尖拳心：巧用辅助功能单手操作 Apple Watch",
+                "link": "https://sspai.com/prime/story/apple-watch-a11y",
+                "published": "2023-10-12"
+            },
+            {
+                "title": "派早报：高通公布骁龙 X 芯片、网页版 Illustrator 开放公测等",
+                "link": "https://sspai.com/post/83511",
+                "published": "2023-10-12"
+            },
+            {
+                "title": "少数派健身类选题人气作者「举铁的马里奥」都装了啥？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-231011",
+                "published": "2023-10-11"
+            },
+            {
+                "title": "具透 | 喜欢 Android 14 的 14 个理由（少数派版本）",
+                "link": "https://sspai.com/post/83501",
+                "published": "2023-10-11"
+            },
+            {
+                "title": "返璞归真，又迎一春：小评《刺客信条：幻景》",
+                "link": "https://sspai.com/post/83488",
+                "published": "2023-10-11"
+            },
+            {
                 "title": "用开源项目，你也能训练自己的 AI 语音模型",
                 "link": "https://sspai.com/post/83487",
                 "published": "2023-10-11"
@@ -15333,7 +15358,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -53774,7 +53799,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
