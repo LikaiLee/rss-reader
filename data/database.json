@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 273 期）：任正非的三篇最新谈话",
+                "link": "http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html",
+                "published": "2023-10-13"
+            },
+            {
                 "title": "科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影",
                 "link": "http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html",
                 "published": "2023-09-22"
@@ -545,13 +550,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "3 年、4 个库目录、100 万字：也谈我的 Obsidian 笔记工作流",
+                "link": "https://sspai.com/post/83042",
+                "published": "2023-10-13"
+            },
+            {
+                "title": "派早报：文石推出两款电子书新品、荣耀发布 Magic Vs2 折叠屏手机等",
+                "link": "https://sspai.com/post/83533",
+                "published": "2023-10-13"
+            },
+            {
+                "title": "科普 | 高帧率、好画质的「光追」是如何实现的？",
+                "link": "https://sspai.com/post/83522",
+                "published": "2023-10-12"
+            },
+            {
+                "title": "大内密谈 | 口述深圳二十年少数派激荡浮沉录",
+                "link": "https://sspai.com/post/83516",
+                "published": "2023-10-12"
+            },
             {
                 "title": "呼风唤雨于指尖拳心：巧用辅助功能单手操作 Apple Watch",
                 "link": "https://sspai.com/prime/story/apple-watch-a11y",
@@ -15358,7 +15383,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -45814,6 +45839,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何利用家电科技打造「智慧卧室」，轻松解锁优质睡眠？",
+                "link": "http://www.zhihu.com/question/622756019/answer/3246588288?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-12"
+            },
+            {
                 "title": "好的床垫是否真的可以改善睡眠质量？",
                 "link": "http://www.zhihu.com/question/622755882/answer/3244710657?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-10-11"
@@ -53799,7 +53829,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
