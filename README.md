@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-10-14】 告别电影荒：日本电影观看全指南](https://sspai.com/post/83412)
+* [【2023-10-14】 远离喧嚣的自在，新西兰旅程片段](https://sspai.com/post/83411)
 * [【2023-10-13】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83550)
 * [【2023-10-13】 3 年、4 个库目录、100 万字：也谈我的 Obsidian 笔记工作流](https://sspai.com/post/83042)
 * [【2023-10-13】 派早报：文石推出两款电子书新品、荣耀发布 Magic Vs2 折叠屏手机等](https://sspai.com/post/83533)
@@ -43,8 +45,6 @@
 * [【2023-10-12】 呼风唤雨于指尖拳心：巧用辅助功能单手操作 Apple Watch](https://sspai.com/prime/story/apple-watch-a11y)
 * [【2023-10-12】 派早报：高通公布骁龙 X 芯片、网页版 Illustrator 开放公测等](https://sspai.com/post/83511)
 * [【2023-10-11】 少数派健身类选题人气作者「举铁的马里奥」都装了啥？](https://sspai.com/prime/story/zhuanglesha-231011)
-* [【2023-10-11】 具透 | 喜欢 Android 14 的 14 个理由（少数派版本）](https://sspai.com/post/83501)
-* [【2023-10-11】 返璞归真，又迎一春：小评《刺客信条：幻景》](https://sspai.com/post/83488)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-14 05:10:27
+:alarm_clock: 更新时间: 2023-10-15 05:10:38

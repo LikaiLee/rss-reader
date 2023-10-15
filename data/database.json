@@ -558,6 +558,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "告别电影荒：日本电影观看全指南",
+                "link": "https://sspai.com/post/83412",
+                "published": "2023-10-14"
+            },
+            {
+                "title": "远离喧嚣的自在，新西兰旅程片段",
+                "link": "https://sspai.com/post/83411",
+                "published": "2023-10-14"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/83550",
                 "published": "2023-10-13"
@@ -15388,7 +15398,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
