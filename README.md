@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-10-16】 于忙碌中重拾学习能力：我的知识金字塔是如何搭建的](https://sspai.com/post/83231)
+* [【2023-10-16】 派早报：微软完成收购动视暴雪交易，AMD 驱动更新导致 CS2 玩家被封号](https://sspai.com/post/83587)
+* [【2023-10-15】 我开发了一套 Marp 主题，Markdown 直接转换的 PPT 也可以很好看：Awesome Marp](https://sspai.com/post/83182)
 * [【2023-10-14】 告别电影荒：日本电影观看全指南](https://sspai.com/post/83412)
 * [【2023-10-14】 远离喧嚣的自在，新西兰旅程片段](https://sspai.com/post/83411)
 * [【2023-10-13】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83550)
@@ -42,9 +45,6 @@
 * [【2023-10-13】 派早报：文石推出两款电子书新品、荣耀发布 Magic Vs2 折叠屏手机等](https://sspai.com/post/83533)
 * [【2023-10-12】 科普 | 高帧率、好画质的「光追」是如何实现的？](https://sspai.com/post/83522)
 * [【2023-10-12】 大内密谈 | 口述深圳二十年少数派激荡浮沉录](https://sspai.com/post/83516)
-* [【2023-10-12】 呼风唤雨于指尖拳心：巧用辅助功能单手操作 Apple Watch](https://sspai.com/prime/story/apple-watch-a11y)
-* [【2023-10-12】 派早报：高通公布骁龙 X 芯片、网页版 Illustrator 开放公测等](https://sspai.com/post/83511)
-* [【2023-10-11】 少数派健身类选题人气作者「举铁的马里奥」都装了啥？](https://sspai.com/prime/story/zhuanglesha-231011)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-15 05:10:38
+:alarm_clock: 更新时间: 2023-10-16 05:11:48

@@ -558,6 +558,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "于忙碌中重拾学习能力：我的知识金字塔是如何搭建的",
+                "link": "https://sspai.com/post/83231",
+                "published": "2023-10-16"
+            },
+            {
+                "title": "派早报：微软完成收购动视暴雪交易，AMD 驱动更新导致 CS2 玩家被封号",
+                "link": "https://sspai.com/post/83587",
+                "published": "2023-10-16"
+            },
+            {
+                "title": "我开发了一套 Marp 主题，Markdown 直接转换的 PPT 也可以很好看：Awesome Marp",
+                "link": "https://sspai.com/post/83182",
+                "published": "2023-10-15"
+            },
+            {
                 "title": "告别电影荒：日本电影观看全指南",
                 "link": "https://sspai.com/post/83412",
                 "published": "2023-10-14"
@@ -15398,7 +15413,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
