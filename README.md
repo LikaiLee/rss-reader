@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-10-19】 App+1 | 给你的 Windows 系统打上 mod：Windhawk](https://sspai.com/post/83569)
+* [【2023-10-19】 派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等](https://sspai.com/post/83687)
+* [【2023-10-18】 失望三年后恰好相见：闲话 iPhone 15 Pro](https://sspai.com/post/83577)
+* [【2023-10-18】 既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验](https://sspai.com/post/83375)
 * [【2023-10-18】 跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3](https://sspai.com/post/83657)
 * [【2023-10-17】 派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等](https://sspai.com/post/83663)
 * [【2023-10-17】 在 2023 年找个免费 Markdown 编辑器：标准讨论与选择推荐](https://sspai.com/prime/story/free-markdown-editor-2023)
 * [【2023-10-17】 社区速递 016 | 命令行听歌、高效收听播客的方式以及作者们的新玩意](https://sspai.com/post/83650)
 * [【2023-10-17】 手感最好的 Pro 级 iPhone：聊聊我的 iPhone 15 Pro 上手体验](https://sspai.com/post/83552)
 * [【2023-10-17】 Adobe 的老树开新花：生成式 AI 功能全面体验](https://sspai.com/post/83561)
-* [【2023-10-17】 干掉手机多巴胺：我怎样用独立计时器重新掌控心流？](https://sspai.com/post/83531)
-* [【2023-10-17】 派早报：腾讯待办将停运，淘宝回应微信扫码支付等](https://sspai.com/post/83640)
-* [【2023-10-16】 派评 | 近期值得关注的 App](https://sspai.com/post/83631)
-* [【2023-10-16】 于忙碌中重拾学习能力：我的知识金字塔是如何搭建的](https://sspai.com/post/83231)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-18 05:11:11
+:alarm_clock: 更新时间: 2023-10-19 05:11:29

@@ -558,6 +558,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 | 给你的 Windows 系统打上 mod：Windhawk",
+                "link": "https://sspai.com/post/83569",
+                "published": "2023-10-19"
+            },
+            {
+                "title": "派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等",
+                "link": "https://sspai.com/post/83687",
+                "published": "2023-10-19"
+            },
+            {
+                "title": "失望三年后恰好相见：闲话 iPhone 15 Pro",
+                "link": "https://sspai.com/post/83577",
+                "published": "2023-10-18"
+            },
+            {
+                "title": "既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验",
+                "link": "https://sspai.com/post/83375",
+                "published": "2023-10-18"
+            },
+            {
                 "title": "跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3",
                 "link": "https://sspai.com/post/83657",
                 "published": "2023-10-18"
@@ -15458,7 +15478,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
