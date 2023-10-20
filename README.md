@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-10-20】 科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html)
 * [【2023-10-13】 科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html)
 * [【2023-09-22】 科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)
 * [【2023-09-15】 科技爱好者周刊（第 271 期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)
@@ -25,7 +26,6 @@
 * [【2023-08-18】 科技爱好者周刊（第 267 期）：5G 的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)
 * [【2023-08-11】 科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)
 * [【2023-08-08】 《TypeScript 教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)
-* [【2023-08-04】 科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-10-20】 面对危害性的网络谣言，我们就是父母最好的武器](https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos)
+* [【2023-10-20】 派早报：OPPO 发布 Find N3 折叠屏手机，魅族发布魅族 20 Classic 手机等](https://sspai.com/post/83708)
+* [【2023-10-19】 新玩意 162｜少数派的编辑们最近买了啥？](https://sspai.com/post/83702)
+* [【2023-10-19】 共创精品 | 颜值与性能兼顾，少数派·旅行者便携剃须套装](https://sspai.com/post/83686)
+* [【2023-10-19】 精准转写：利用 Whisper 处理音视频转文字不完全指南](https://sspai.com/post/83644)
 * [【2023-10-19】 App+1 | 给你的 Windows 系统打上 mod：Windhawk](https://sspai.com/post/83569)
 * [【2023-10-19】 派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等](https://sspai.com/post/83687)
 * [【2023-10-18】 失望三年后恰好相见：闲话 iPhone 15 Pro](https://sspai.com/post/83577)
 * [【2023-10-18】 既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验](https://sspai.com/post/83375)
 * [【2023-10-18】 跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3](https://sspai.com/post/83657)
-* [【2023-10-17】 派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等](https://sspai.com/post/83663)
-* [【2023-10-17】 在 2023 年找个免费 Markdown 编辑器：标准讨论与选择推荐](https://sspai.com/prime/story/free-markdown-editor-2023)
-* [【2023-10-17】 社区速递 016 | 命令行听歌、高效收听播客的方式以及作者们的新玩意](https://sspai.com/post/83650)
-* [【2023-10-17】 手感最好的 Pro 级 iPhone：聊聊我的 iPhone 15 Pro 上手体验](https://sspai.com/post/83552)
-* [【2023-10-17】 Adobe 的老树开新花：生成式 AI 功能全面体验](https://sspai.com/post/83561)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-10-19】 如何评价 10 月 16 日发布的 Intel 14代酷睿处理器，这代性能提升如何，有哪些亮点和不足？](http://www.zhihu.com/question/626356832/answer/3253813768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-12】 如何利用家电科技打造「智慧卧室」，轻松解锁优质睡眠？](http://www.zhihu.com/question/622756019/answer/3246588288?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-11】 好的床垫是否真的可以改善睡眠质量？](http://www.zhihu.com/question/622755882/answer/3244710657?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-10】 《漫长的季节》里沈墨为什么拒绝弹奏《纤夫的爱》钢琴曲？](http://www.zhihu.com/question/600523934/answer/3029686901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-10-08】 有奖征文：能不能给《水浒传》中没有交代完整的情节，补上一个细节丰富的新故事？](http://www.zhihu.com/question/622912275/answer/3229145079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-24】 如果首都没有放在北平，现在的北平会发展成什么样子？](http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-09-28】 谢谢你的月亮](http://zhuanlan.zhihu.com/p/658742880?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-09-25】 卧室临街，该如何让噪音不断的卧室静下来？](http://www.zhihu.com/question/622746873/answer/3225801905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-19 05:11:29
+:alarm_clock: 更新时间: 2023-10-20 05:11:15

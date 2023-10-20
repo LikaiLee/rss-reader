@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 274 期）：加密通信的最后一块拼图",
+                "link": "http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html",
+                "published": "2023-10-20"
+            },
+            {
                 "title": "科技爱好者周刊（第 273 期）：任正非的三篇最新谈话",
                 "link": "http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html",
                 "published": "2023-10-13"
@@ -550,13 +555,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "面对危害性的网络谣言，我们就是父母最好的武器",
+                "link": "https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos",
+                "published": "2023-10-20"
+            },
+            {
+                "title": "派早报：OPPO 发布 Find N3 折叠屏手机，魅族发布魅族 20 Classic 手机等",
+                "link": "https://sspai.com/post/83708",
+                "published": "2023-10-20"
+            },
+            {
+                "title": "新玩意 162｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/83702",
+                "published": "2023-10-19"
+            },
+            {
+                "title": "共创精品 | 颜值与性能兼顾，少数派·旅行者便携剃须套装",
+                "link": "https://sspai.com/post/83686",
+                "published": "2023-10-19"
+            },
+            {
+                "title": "精准转写：利用 Whisper 处理音视频转文字不完全指南",
+                "link": "https://sspai.com/post/83644",
+                "published": "2023-10-19"
+            },
             {
                 "title": "App+1 | 给你的 Windows 系统打上 mod：Windhawk",
                 "link": "https://sspai.com/post/83569",
@@ -15478,7 +15508,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -45934,6 +45964,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价 10 月 16 日发布的 Intel 14代酷睿处理器，这代性能提升如何，有哪些亮点和不足？",
+                "link": "http://www.zhihu.com/question/626356832/answer/3253813768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-19"
+            },
+            {
                 "title": "如何利用家电科技打造「智慧卧室」，轻松解锁优质睡眠？",
                 "link": "http://www.zhihu.com/question/622756019/answer/3246588288?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-10-12"
@@ -53924,7 +53959,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
