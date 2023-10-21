@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-10-20】 本周看什么 | 最近值得一看的一大束作品](https://sspai.com/post/83726)
+* [【2023-10-20】 篝火评测 | 次世代体验再进化：《漫威蜘蛛侠 2》游玩感受 & 主创访谈](https://sspai.com/post/83720)
 * [【2023-10-20】 面对危害性的网络谣言，我们就是父母最好的武器](https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos)
 * [【2023-10-20】 派早报：OPPO 发布 Find N3 折叠屏手机，魅族发布魅族 20 Classic 手机等](https://sspai.com/post/83708)
 * [【2023-10-19】 新玩意 162｜少数派的编辑们最近买了啥？](https://sspai.com/post/83702)
@@ -43,8 +45,6 @@
 * [【2023-10-19】 App+1 | 给你的 Windows 系统打上 mod：Windhawk](https://sspai.com/post/83569)
 * [【2023-10-19】 派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等](https://sspai.com/post/83687)
 * [【2023-10-18】 失望三年后恰好相见：闲话 iPhone 15 Pro](https://sspai.com/post/83577)
-* [【2023-10-18】 既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验](https://sspai.com/post/83375)
-* [【2023-10-18】 跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3](https://sspai.com/post/83657)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-20 05:11:15
+:alarm_clock: 更新时间: 2023-10-21 05:10:33

@@ -555,13 +555,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大束作品",
+                "link": "https://sspai.com/post/83726",
+                "published": "2023-10-20"
+            },
+            {
+                "title": "篝火评测 | 次世代体验再进化：《漫威蜘蛛侠 2》游玩感受 & 主创访谈",
+                "link": "https://sspai.com/post/83720",
+                "published": "2023-10-20"
+            },
             {
                 "title": "面对危害性的网络谣言，我们就是父母最好的武器",
                 "link": "https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos",
@@ -15508,7 +15518,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -53959,7 +53969,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
