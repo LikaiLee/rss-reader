@@ -563,6 +563,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook",
+                "link": "https://sspai.com/post/83728",
+                "published": "2023-10-21"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的一大束作品",
                 "link": "https://sspai.com/post/83726",
                 "published": "2023-10-20"
@@ -15518,7 +15523,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
