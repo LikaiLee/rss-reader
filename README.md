@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-10-23】 App +1 | Countdown Buddy：可能是最好看的倒数日 App](https://sspai.com/post/83729)
+* [【2023-10-23】 派早报：Excel 允许关闭日期自动转换，12315 公示平台上线](https://sspai.com/post/83764)
 * [【2023-10-21】 一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook](https://sspai.com/post/83728)
 * [【2023-10-20】 本周看什么 | 最近值得一看的一大束作品](https://sspai.com/post/83726)
 * [【2023-10-20】 篝火评测 | 次世代体验再进化：《漫威蜘蛛侠 2》游玩感受 & 主创访谈](https://sspai.com/post/83720)
@@ -43,8 +45,6 @@
 * [【2023-10-19】 新玩意 162｜少数派的编辑们最近买了啥？](https://sspai.com/post/83702)
 * [【2023-10-19】 共创精品 | 颜值与性能兼顾，少数派·旅行者便携剃须套装](https://sspai.com/post/83686)
 * [【2023-10-19】 精准转写：利用 Whisper 处理音视频转文字不完全指南](https://sspai.com/post/83644)
-* [【2023-10-19】 App+1 | 给你的 Windows 系统打上 mod：Windhawk](https://sspai.com/post/83569)
-* [【2023-10-19】 派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等](https://sspai.com/post/83687)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-10-23】 S13瑞士轮Day4总结：WBGvsKT复盘](http://zhuanlan.zhihu.com/p/662761474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-19】 如何评价 10 月 16 日发布的 Intel 14代酷睿处理器，这代性能提升如何，有哪些亮点和不足？](http://www.zhihu.com/question/626356832/answer/3253813768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-12】 如何利用家电科技打造「智慧卧室」，轻松解锁优质睡眠？](http://www.zhihu.com/question/622756019/answer/3246588288?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-11】 好的床垫是否真的可以改善睡眠质量？](http://www.zhihu.com/question/622755882/answer/3244710657?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-10-08】 有奖征文：能不能给《三国演义》中没有交代完整的情节，补上一个细节丰富的新故事？](http://www.zhihu.com/question/622912013/answer/3219210043?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-08】 有奖征文：能不能给《水浒传》中没有交代完整的情节，补上一个细节丰富的新故事？](http://www.zhihu.com/question/622912275/answer/3229145079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-08-24】 如果首都没有放在北平，现在的北平会发展成什么样子？](http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-09-28】 谢谢你的月亮](http://zhuanlan.zhihu.com/p/658742880?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-22 05:11:07
+:alarm_clock: 更新时间: 2023-10-23 05:11:22

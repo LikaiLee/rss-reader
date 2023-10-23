@@ -563,6 +563,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App +1 | Countdown Buddy：可能是最好看的倒数日 App",
+                "link": "https://sspai.com/post/83729",
+                "published": "2023-10-23"
+            },
+            {
+                "title": "派早报：Excel 允许关闭日期自动转换，12315 公示平台上线",
+                "link": "https://sspai.com/post/83764",
+                "published": "2023-10-23"
+            },
+            {
                 "title": "一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook",
                 "link": "https://sspai.com/post/83728",
                 "published": "2023-10-21"
@@ -15523,7 +15533,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -45979,6 +45989,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "S13瑞士轮Day4总结：WBGvsKT复盘",
+                "link": "http://zhuanlan.zhihu.com/p/662761474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-23"
+            },
+            {
                 "title": "如何评价 10 月 16 日发布的 Intel 14代酷睿处理器，这代性能提升如何，有哪些亮点和不足？",
                 "link": "http://www.zhihu.com/question/626356832/answer/3253813768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-10-19"
@@ -53974,7 +53989,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
