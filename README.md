@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-10-24】 不接地气的 Android 版「实时活动」，要好用还得看三方：Smartspacer](https://sspai.com/post/83754)
+* [【2023-10-24】 派早报：Amazfit Active 发布，Google 承认在 Pixel 8 屏蔽跑分等](https://sspai.com/post/83813)
+* [【2023-10-23】 派评 | 近期值得关注的 App](https://sspai.com/post/83806)
+* [【2023-10-23】 别被「卷王」牵着走：给键盘减预算时，你究竟减掉了什么](https://sspai.com/post/83797)
+* [【2023-10-23】 App+1 | Countdown Buddy：可能是最好看的倒数日 App](https://sspai.com/post/83729)
 * [【2023-10-23】 App +1 | Countdown Buddy：可能是最好看的倒数日 App](https://sspai.com/post/83729)
 * [【2023-10-23】 派早报：Excel 允许关闭日期自动转换，12315 公示平台上线](https://sspai.com/post/83764)
 * [【2023-10-21】 一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook](https://sspai.com/post/83728)
 * [【2023-10-20】 本周看什么 | 最近值得一看的一大束作品](https://sspai.com/post/83726)
 * [【2023-10-20】 篝火评测 | 次世代体验再进化：《漫威蜘蛛侠 2》游玩感受 & 主创访谈](https://sspai.com/post/83720)
-* [【2023-10-20】 面对危害性的网络谣言，我们就是父母最好的武器](https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos)
-* [【2023-10-20】 派早报：OPPO 发布 Find N3 折叠屏手机，魅族发布魅族 20 Classic 手机等](https://sspai.com/post/83708)
-* [【2023-10-19】 新玩意 162｜少数派的编辑们最近买了啥？](https://sspai.com/post/83702)
-* [【2023-10-19】 共创精品 | 颜值与性能兼顾，少数派·旅行者便携剃须套装](https://sspai.com/post/83686)
-* [【2023-10-19】 精准转写：利用 Whisper 处理音视频转文字不完全指南](https://sspai.com/post/83644)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-10-23】 炒菜总是粘锅怎么办？有哪些小技巧？](http://www.zhihu.com/question/569232968/answer/3257910878?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-23】 S13瑞士轮Day4总结：WBGvsKT复盘](http://zhuanlan.zhihu.com/p/662761474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-19】 如何评价 10 月 16 日发布的 Intel 14代酷睿处理器，这代性能提升如何，有哪些亮点和不足？](http://www.zhihu.com/question/626356832/answer/3253813768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-12】 如何利用家电科技打造「智慧卧室」，轻松解锁优质睡眠？](http://www.zhihu.com/question/622756019/answer/3246588288?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-10-08】 如果你是杨修，该如何支持曹植上位，又能避免被曹操砍死？](http://www.zhihu.com/question/622910466/answer/3224915374?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-08】 有奖征文：能不能给《三国演义》中没有交代完整的情节，补上一个细节丰富的新故事？](http://www.zhihu.com/question/622912013/answer/3219210043?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-08】 有奖征文：能不能给《水浒传》中没有交代完整的情节，补上一个细节丰富的新故事？](http://www.zhihu.com/question/622912275/answer/3229145079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-08-24】 如果首都没有放在北平，现在的北平会发展成什么样子？](http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-23 05:11:22
+:alarm_clock: 更新时间: 2023-10-24 05:11:06

@@ -563,6 +563,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不接地气的 Android 版「实时活动」，要好用还得看三方：Smartspacer",
+                "link": "https://sspai.com/post/83754",
+                "published": "2023-10-24"
+            },
+            {
+                "title": "派早报：Amazfit Active 发布，Google 承认在 Pixel 8 屏蔽跑分等",
+                "link": "https://sspai.com/post/83813",
+                "published": "2023-10-24"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/83806",
+                "published": "2023-10-23"
+            },
+            {
+                "title": "别被「卷王」牵着走：给键盘减预算时，你究竟减掉了什么",
+                "link": "https://sspai.com/post/83797",
+                "published": "2023-10-23"
+            },
+            {
+                "title": "App+1 | Countdown Buddy：可能是最好看的倒数日 App",
+                "link": "https://sspai.com/post/83729",
+                "published": "2023-10-23"
+            },
+            {
                 "title": "App +1 | Countdown Buddy：可能是最好看的倒数日 App",
                 "link": "https://sspai.com/post/83729",
                 "published": "2023-10-23"
@@ -15533,7 +15558,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -45988,6 +46013,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "炒菜总是粘锅怎么办？有哪些小技巧？",
+                "link": "http://www.zhihu.com/question/569232968/answer/3257910878?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-23"
+            },
             {
                 "title": "S13瑞士轮Day4总结：WBGvsKT复盘",
                 "link": "http://zhuanlan.zhihu.com/p/662761474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
