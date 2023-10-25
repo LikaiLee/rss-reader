@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-10-25】 规划库存、减少浪费：以 Grocy 为数据库的物品管理方案](https://sspai.com/post/83836)
+* [【2023-10-25】 派早报：小鹏公布多项新技术及产品、PS5 轻薄版国行版发布等](https://sspai.com/post/83854)
+* [【2023-10-24】 社区速递 017 | 性价比SSD、宠物用品分享以及作者的新玩意](https://sspai.com/post/83832)
+* [【2023-10-24】 从阅读到输出，我是如何用数字工具完成这一切的](https://sspai.com/post/83467)
+* [【2023-10-24】 依然属于大众的 iPhone：iPhone 15 Plus 使用体验](https://sspai.com/post/83786)
 * [【2023-10-24】 不接地气的 Android 版「实时活动」，要好用还得看三方：Smartspacer](https://sspai.com/post/83754)
 * [【2023-10-24】 派早报：Amazfit Active 发布，Google 承认在 Pixel 8 屏蔽跑分等](https://sspai.com/post/83813)
 * [【2023-10-23】 派评 | 近期值得关注的 App](https://sspai.com/post/83806)
 * [【2023-10-23】 别被「卷王」牵着走：给键盘减预算时，你究竟减掉了什么](https://sspai.com/post/83797)
 * [【2023-10-23】 App+1 | Countdown Buddy：可能是最好看的倒数日 App](https://sspai.com/post/83729)
-* [【2023-10-23】 App +1 | Countdown Buddy：可能是最好看的倒数日 App](https://sspai.com/post/83729)
-* [【2023-10-23】 派早报：Excel 允许关闭日期自动转换，12315 公示平台上线](https://sspai.com/post/83764)
-* [【2023-10-21】 一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook](https://sspai.com/post/83728)
-* [【2023-10-20】 本周看什么 | 最近值得一看的一大束作品](https://sspai.com/post/83726)
-* [【2023-10-20】 篝火评测 | 次世代体验再进化：《漫威蜘蛛侠 2》游玩感受 & 主创访谈](https://sspai.com/post/83720)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-10-24】 「不想恋爱、只想搞钱」——爱情对于新职人而言，还是必需品吗？](http://www.zhihu.com/question/613869948/answer/3150026240?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-23】 炒菜总是粘锅怎么办？有哪些小技巧？](http://www.zhihu.com/question/569232968/answer/3257910878?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-23】 S13瑞士轮Day4总结：WBGvsKT复盘](http://zhuanlan.zhihu.com/p/662761474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-19】 如何评价 10 月 16 日发布的 Intel 14代酷睿处理器，这代性能提升如何，有哪些亮点和不足？](http://www.zhihu.com/question/626356832/answer/3253813768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-10-09】 如何设计卧室光线才能做到「睡到自然醒」？](http://www.zhihu.com/question/621663649/answer/3242393655?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-08】 如果你是杨修，该如何支持曹植上位，又能避免被曹操砍死？](http://www.zhihu.com/question/622910466/answer/3224915374?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-08】 有奖征文：能不能给《三国演义》中没有交代完整的情节，补上一个细节丰富的新故事？](http://www.zhihu.com/question/622912013/answer/3219210043?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-10-08】 有奖征文：能不能给《水浒传》中没有交代完整的情节，补上一个细节丰富的新故事？](http://www.zhihu.com/question/622912275/answer/3229145079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-24 05:11:06
+:alarm_clock: 更新时间: 2023-10-25 05:11:17

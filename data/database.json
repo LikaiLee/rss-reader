@@ -563,6 +563,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "规划库存、减少浪费：以 Grocy 为数据库的物品管理方案",
+                "link": "https://sspai.com/post/83836",
+                "published": "2023-10-25"
+            },
+            {
+                "title": "派早报：小鹏公布多项新技术及产品、PS5 轻薄版国行版发布等",
+                "link": "https://sspai.com/post/83854",
+                "published": "2023-10-25"
+            },
+            {
+                "title": "社区速递 017 | 性价比SSD、宠物用品分享以及作者的新玩意",
+                "link": "https://sspai.com/post/83832",
+                "published": "2023-10-24"
+            },
+            {
+                "title": "从阅读到输出，我是如何用数字工具完成这一切的",
+                "link": "https://sspai.com/post/83467",
+                "published": "2023-10-24"
+            },
+            {
+                "title": "依然属于大众的 iPhone：iPhone 15 Plus 使用体验",
+                "link": "https://sspai.com/post/83786",
+                "published": "2023-10-24"
+            },
+            {
                 "title": "不接地气的 Android 版「实时活动」，要好用还得看三方：Smartspacer",
                 "link": "https://sspai.com/post/83754",
                 "published": "2023-10-24"
@@ -46013,6 +46038,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "「不想恋爱、只想搞钱」——爱情对于新职人而言，还是必需品吗？",
+                "link": "http://www.zhihu.com/question/613869948/answer/3150026240?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-24"
+            },
             {
                 "title": "炒菜总是粘锅怎么办？有哪些小技巧？",
                 "link": "http://www.zhihu.com/question/569232968/answer/3257910878?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
