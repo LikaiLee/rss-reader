@@ -563,6 +563,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "关注「内在美」社交产品达到目标了吗？聊聊我的「犬岛」体验",
+                "link": "https://sspai.com/post/83758",
+                "published": "2023-10-26"
+            },
+            {
+                "title": "派早报：高通发布骁龙 X Elite 处理器、Steam 调整低价区定价策略等",
+                "link": "https://sspai.com/post/83874",
+                "published": "2023-10-26"
+            },
+            {
+                "title": "Bellroy 首席设计师 James Jeffrey 都装了啥？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-231025",
+                "published": "2023-10-25"
+            },
+            {
+                "title": "集成百家所长的 matter，也是智能家居的未来（系列文章之一）",
+                "link": "https://sspai.com/prime/story/matter-explained-01",
+                "published": "2023-10-25"
+            },
+            {
+                "title": "Matrix Talk | 在「瞎逛爱好者」最喜欢的季节，来聊聊我们的秋日 EDC",
+                "link": "https://sspai.com/post/83800",
+                "published": "2023-10-25"
+            },
+            {
                 "title": "规划库存、减少浪费：以 Grocy 为数据库的物品管理方案",
                 "link": "https://sspai.com/post/83836",
                 "published": "2023-10-25"
@@ -46038,6 +46063,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "我们如何在绘画中表现时间的流逝？",
+                "link": "http://www.zhihu.com/question/45410703/answer/1148815825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-25"
+            },
             {
                 "title": "「不想恋爱、只想搞钱」——爱情对于新职人而言，还是必需品吗？",
                 "link": "http://www.zhihu.com/question/613869948/answer/3150026240?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
