@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 275 期）：彼得·蒂尔的实验",
+                "link": "http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html",
+                "published": "2023-10-27"
+            },
+            {
                 "title": "科技爱好者周刊（第 274 期）：加密通信的最后一块拼图",
                 "link": "http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html",
                 "published": "2023-10-20"
@@ -555,13 +560,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派早报：小米 14 系列发布、微软宣布 Surface 整合 Secured core PCs 方案",
+                "link": "https://sspai.com/post/83893",
+                "published": "2023-10-27"
+            },
+            {
+                "title": "用命令行工具助力移动端自动化：以视频和图片下载为例",
+                "link": "https://sspai.com/prime/story/cli-utils-in-mobile-automations",
+                "published": "2023-10-26"
+            },
+            {
+                "title": "双十一硬件推荐：值得关注的好键盘",
+                "link": "https://sspai.com/post/80308",
+                "published": "2023-10-26"
+            },
+            {
+                "title": "更好用的 Apple Music 和隔空投送，iOS 17.1 中值得关注的新特性",
+                "link": "https://sspai.com/post/83879",
+                "published": "2023-10-26"
+            },
+            {
+                "title": "先享体验计划正式启动，少数派和骁龙骁友会一起邀你来当先享体验官",
+                "link": "https://sspai.com/post/83860",
+                "published": "2023-10-26"
+            },
+            {
+                "title": "Matrix Talk | 适合出游的金色季节，想和你聊聊我的秋日 EDC",
+                "link": "https://sspai.com/post/83800",
+                "published": "2023-10-25"
+            },
             {
                 "title": "关注「内在美」社交产品达到目标了吗？聊聊我的「犬岛」体验",
                 "link": "https://sspai.com/post/83758",
@@ -15608,7 +15643,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -54079,7 +54114,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

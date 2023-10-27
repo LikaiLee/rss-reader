@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-10-27】 科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html)
 * [【2023-10-20】 科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html)
 * [【2023-10-13】 科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html)
 * [【2023-09-22】 科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)
@@ -25,7 +26,6 @@
 * [【2023-08-25】 科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)
 * [【2023-08-18】 科技爱好者周刊（第 267 期）：5G 的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)
 * [【2023-08-11】 科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)
-* [【2023-08-08】 《TypeScript 教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-10-27】 派早报：小米 14 系列发布、微软宣布 Surface 整合 Secured core PCs 方案](https://sspai.com/post/83893)
+* [【2023-10-26】 用命令行工具助力移动端自动化：以视频和图片下载为例](https://sspai.com/prime/story/cli-utils-in-mobile-automations)
+* [【2023-10-26】 双十一硬件推荐：值得关注的好键盘](https://sspai.com/post/80308)
+* [【2023-10-26】 更好用的 Apple Music 和隔空投送，iOS 17.1 中值得关注的新特性](https://sspai.com/post/83879)
+* [【2023-10-26】 先享体验计划正式启动，少数派和骁龙骁友会一起邀你来当先享体验官](https://sspai.com/post/83860)
+* [【2023-10-25】 Matrix Talk | 适合出游的金色季节，想和你聊聊我的秋日 EDC](https://sspai.com/post/83800)
 * [【2023-10-26】 关注「内在美」社交产品达到目标了吗？聊聊我的「犬岛」体验](https://sspai.com/post/83758)
 * [【2023-10-26】 派早报：高通发布骁龙 X Elite 处理器、Steam 调整低价区定价策略等](https://sspai.com/post/83874)
 * [【2023-10-25】 Bellroy 首席设计师 James Jeffrey 都装了啥？](https://sspai.com/prime/story/zhuanglesha-231025)
 * [【2023-10-25】 集成百家所长的 matter，也是智能家居的未来（系列文章之一）](https://sspai.com/prime/story/matter-explained-01)
-* [【2023-10-25】 Matrix Talk | 在「瞎逛爱好者」最喜欢的季节，来聊聊我们的秋日 EDC](https://sspai.com/post/83800)
-* [【2023-10-25】 规划库存、减少浪费：以 Grocy 为数据库的物品管理方案](https://sspai.com/post/83836)
-* [【2023-10-25】 派早报：小鹏公布多项新技术及产品、PS5 轻薄版国行版发布等](https://sspai.com/post/83854)
-* [【2023-10-24】 社区速递 017 | 性价比SSD、宠物用品分享以及作者的新玩意](https://sspai.com/post/83832)
-* [【2023-10-24】 从阅读到输出，我是如何用数字工具完成这一切的](https://sspai.com/post/83467)
-* [【2023-10-24】 依然属于大众的 iPhone：iPhone 15 Plus 使用体验](https://sspai.com/post/83786)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-26 05:11:08
+:alarm_clock: 更新时间: 2023-10-27 05:11:01
