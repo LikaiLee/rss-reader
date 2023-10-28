@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-10-27】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83906)
+* [【2023-10-27】 双十一硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)
+* [【2023-10-27】 自嘲「万金油但平平无奇」的有趣知识管理工具：Fibery 体验](https://sspai.com/post/83859)
 * [【2023-10-27】 派早报：小米 14 系列发布、微软宣布 Surface 整合 Secured core PCs 方案](https://sspai.com/post/83893)
 * [【2023-10-26】 用命令行工具助力移动端自动化：以视频和图片下载为例](https://sspai.com/prime/story/cli-utils-in-mobile-automations)
 * [【2023-10-26】 双十一硬件推荐：值得关注的好键盘](https://sspai.com/post/80308)
@@ -42,9 +45,6 @@
 * [【2023-10-26】 先享体验计划正式启动，少数派和骁龙骁友会一起邀你来当先享体验官](https://sspai.com/post/83860)
 * [【2023-10-25】 Matrix Talk | 适合出游的金色季节，想和你聊聊我的秋日 EDC](https://sspai.com/post/83800)
 * [【2023-10-26】 关注「内在美」社交产品达到目标了吗？聊聊我的「犬岛」体验](https://sspai.com/post/83758)
-* [【2023-10-26】 派早报：高通发布骁龙 X Elite 处理器、Steam 调整低价区定价策略等](https://sspai.com/post/83874)
-* [【2023-10-25】 Bellroy 首席设计师 James Jeffrey 都装了啥？](https://sspai.com/prime/story/zhuanglesha-231025)
-* [【2023-10-25】 集成百家所长的 matter，也是智能家居的未来（系列文章之一）](https://sspai.com/prime/story/matter-explained-01)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-27 05:11:01
+:alarm_clock: 更新时间: 2023-10-28 05:10:20

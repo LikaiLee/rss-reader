@@ -560,13 +560,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/83906",
+                "published": "2023-10-27"
+            },
+            {
+                "title": "双十一硬件推荐：值得关注的鼠标",
+                "link": "https://sspai.com/post/80329",
+                "published": "2023-10-27"
+            },
+            {
+                "title": "自嘲「万金油但平平无奇」的有趣知识管理工具：Fibery 体验",
+                "link": "https://sspai.com/post/83859",
+                "published": "2023-10-27"
+            },
             {
                 "title": "派早报：小米 14 系列发布、微软宣布 Surface 整合 Secured core PCs 方案",
                 "link": "https://sspai.com/post/83893",
@@ -15643,7 +15658,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 2,
