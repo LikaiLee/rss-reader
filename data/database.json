@@ -568,6 +568,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "识图：在茫茫手机相册中精准定位想要照片",
+                "link": "https://sspai.com/post/83441",
+                "published": "2023-10-28"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/83906",
                 "published": "2023-10-27"
@@ -15658,7 +15663,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
