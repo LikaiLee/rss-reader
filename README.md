@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-10-30】 Keyboard Maestro 11 更新，这些功能值得关注](https://sspai.com/post/83932)
+* [【2023-10-30】 派早报：X 新增两档订阅方案，多部门负责人解读未成年人网络保护条例](https://sspai.com/post/83931)
+* [【2023-10-29】 如何用 Make 自动化将即刻动态同步到 Notion](https://sspai.com/post/83490)
 * [【2023-10-28】 识图：在茫茫手机相册中精准定位想要照片](https://sspai.com/post/83441)
 * [【2023-10-27】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83906)
 * [【2023-10-27】 双十一硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)
@@ -42,9 +45,6 @@
 * [【2023-10-27】 派早报：小米 14 系列发布、微软宣布 Surface 整合 Secured core PCs 方案](https://sspai.com/post/83893)
 * [【2023-10-26】 用命令行工具助力移动端自动化：以视频和图片下载为例](https://sspai.com/prime/story/cli-utils-in-mobile-automations)
 * [【2023-10-26】 双十一硬件推荐：值得关注的好键盘](https://sspai.com/post/80308)
-* [【2023-10-26】 更好用的 Apple Music 和隔空投送，iOS 17.1 中值得关注的新特性](https://sspai.com/post/83879)
-* [【2023-10-26】 先享体验计划正式启动，少数派和骁龙骁友会一起邀你来当先享体验官](https://sspai.com/post/83860)
-* [【2023-10-25】 Matrix Talk | 适合出游的金色季节，想和你聊聊我的秋日 EDC](https://sspai.com/post/83800)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-10-29 05:10:45
+:alarm_clock: 更新时间: 2023-10-30 05:11:36
