@@ -568,6 +568,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一图流 | Apple 十月新品发布会回顾",
+                "link": "https://sspai.com/post/83978",
+                "published": "2023-10-31"
+            },
+            {
+                "title": "Apple 发布会回顾：M3 系列芯片亮相，Mac 推出新配色",
+                "link": "https://sspai.com/post/83976",
+                "published": "2023-10-31"
+            },
+            {
+                "title": "派早报：Apple 举办 Mac 新品特别活动，Windows 11 发布补丁等",
+                "link": "https://sspai.com/post/83975",
+                "published": "2023-10-31"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/83965",
+                "published": "2023-10-30"
+            },
+            {
                 "title": "Keyboard Maestro 11 更新，这些功能值得关注",
                 "link": "https://sspai.com/post/83932",
                 "published": "2023-10-30"
@@ -15678,7 +15698,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -46134,6 +46154,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "多动症（ADHD）人士的一生到底有多「苦」？能分享一段「最令你难忘」的经历吗？",
+                "link": "http://www.zhihu.com/question/627743115/answer/3266813181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-10-30"
+            },
+            {
                 "title": "我们如何在绘画中表现时间的流逝？",
                 "link": "http://www.zhihu.com/question/45410703/answer/1148815825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-10-25"
@@ -54149,7 +54174,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
