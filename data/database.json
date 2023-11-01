@@ -568,6 +568,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "为了记录过去，我做了个 Windows 版的 Rewind：捕风记录仪",
+                "link": "https://sspai.com/post/83590",
+                "published": "2023-11-01"
+            },
+            {
+                "title": "派早报：微软推送 Windows 11 23H2 更新、多平台宣布推进「自媒体」账号实名等",
+                "link": "https://sspai.com/post/84019",
+                "published": "2023-11-01"
+            },
+            {
+                "title": "共创 | 飞傲 HiFi 音乐机械键盘：音乐体验该升级了！",
+                "link": "https://sspai.com/post/84005",
+                "published": "2023-10-31"
+            },
+            {
+                "title": "双十一 | 给你的钱包「加点魔法」，来看看派商店的双十一大促",
+                "link": "https://sspai.com/post/83933",
+                "published": "2023-10-31"
+            },
+            {
+                "title": "社区速递 018 | 秋日 EDC、自己做 App 和作者们的新玩意",
+                "link": "https://sspai.com/post/83994",
+                "published": "2023-10-31"
+            },
+            {
+                "title": "家的日志 | 如何构建智能家居系统，这些是我的经验和思考",
+                "link": "https://sspai.com/post/83936",
+                "published": "2023-10-31"
+            },
+            {
                 "title": "一图流 | Apple 十月新品发布会回顾",
                 "link": "https://sspai.com/post/83978",
                 "published": "2023-10-31"
@@ -15698,7 +15728,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -46153,6 +46183,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "汉朝普通人的一天是怎么样的？",
+                "link": "http://www.zhihu.com/question/608996177/answer/3269525148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-11-01"
+            },
             {
                 "title": "多动症（ADHD）人士的一生到底有多「苦」？能分享一段「最令你难忘」的经历吗？",
                 "link": "http://www.zhihu.com/question/627743115/answer/3266813181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
