@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-02】 车到用时不恨少：日本共享汽车服务观察](https://sspai.com/post/83639)
+* [【2023-11-02】 派早报：vivo 召开 2023 年开发者大会、PubScholar 公益学术平台上线等](https://sspai.com/post/84068)
+* [【2023-11-01】 付费栏目的省钱饱和攻击：新作上架，全场满赠，买一送一，90 天保价](https://sspai.com/post/84028)
+* [【2023-11-01】 陌生而有趣的训练伙伴——壶铃和药球使用指南](https://sspai.com/prime/story/kettelbells-medicine-balls-training-guide)
+* [【2023-11-01】 日本浮生录 03：纵横北海道，1100 公里的道东寻秋之旅](https://sspai.com/post/83972)
+* [【2023-11-01】 本月玩什么 | 心灵杀手 2、漫威蜘蛛侠 2、Saltsea Chronicles……](https://sspai.com/post/84018)
+* [【2023-11-01】 众测 | 先享体验计划第一期产品揭晓，立即报名体验小米 14 Pro](https://sspai.com/post/84014)
 * [【2023-11-01】 为了记录过去，我做了个 Windows 版的 Rewind：捕风记录仪](https://sspai.com/post/83590)
 * [【2023-11-01】 派早报：微软推送 Windows 11 23H2 更新、多平台宣布推进「自媒体」账号实名等](https://sspai.com/post/84019)
 * [【2023-10-31】 共创 | 飞傲 HiFi 音乐机械键盘：音乐体验该升级了！](https://sspai.com/post/84005)
-* [【2023-10-31】 双十一 | 给你的钱包「加点魔法」，来看看派商店的双十一大促](https://sspai.com/post/83933)
-* [【2023-10-31】 社区速递 018 | 秋日 EDC、自己做 App 和作者们的新玩意](https://sspai.com/post/83994)
-* [【2023-10-31】 家的日志 | 如何构建智能家居系统，这些是我的经验和思考](https://sspai.com/post/83936)
-* [【2023-10-31】 一图流 | Apple 十月新品发布会回顾](https://sspai.com/post/83978)
-* [【2023-10-31】 Apple 发布会回顾：M3 系列芯片亮相，Mac 推出新配色](https://sspai.com/post/83976)
-* [【2023-10-31】 派早报：Apple 举办 Mac 新品特别活动，Windows 11 发布补丁等](https://sspai.com/post/83975)
-* [【2023-10-30】 派评 | 近期值得关注的 App](https://sspai.com/post/83965)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-01 05:11:20
+:alarm_clock: 更新时间: 2023-11-02 05:11:39

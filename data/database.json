@@ -568,6 +568,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "车到用时不恨少：日本共享汽车服务观察",
+                "link": "https://sspai.com/post/83639",
+                "published": "2023-11-02"
+            },
+            {
+                "title": "派早报：vivo 召开 2023 年开发者大会、PubScholar 公益学术平台上线等",
+                "link": "https://sspai.com/post/84068",
+                "published": "2023-11-02"
+            },
+            {
+                "title": "付费栏目的省钱饱和攻击：新作上架，全场满赠，买一送一，90 天保价",
+                "link": "https://sspai.com/post/84028",
+                "published": "2023-11-01"
+            },
+            {
+                "title": "陌生而有趣的训练伙伴——壶铃和药球使用指南",
+                "link": "https://sspai.com/prime/story/kettelbells-medicine-balls-training-guide",
+                "published": "2023-11-01"
+            },
+            {
+                "title": "日本浮生录 03：纵横北海道，1100 公里的道东寻秋之旅",
+                "link": "https://sspai.com/post/83972",
+                "published": "2023-11-01"
+            },
+            {
+                "title": "本月玩什么 | 心灵杀手 2、漫威蜘蛛侠 2、Saltsea Chronicles……",
+                "link": "https://sspai.com/post/84018",
+                "published": "2023-11-01"
+            },
+            {
+                "title": "众测 | 先享体验计划第一期产品揭晓，立即报名体验小米 14 Pro",
+                "link": "https://sspai.com/post/84014",
+                "published": "2023-11-01"
+            },
+            {
                 "title": "为了记录过去，我做了个 Windows 版的 Rewind：捕风记录仪",
                 "link": "https://sspai.com/post/83590",
                 "published": "2023-11-01"
@@ -15728,7 +15763,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -54209,7 +54244,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
