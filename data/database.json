@@ -565,13 +565,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "不到 400 元能买哪些好物，这是少数派作者的「双十一」购物清单",
+                "link": "https://sspai.com/post/83991",
+                "published": "2023-11-04"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大簇作品",
+                "link": "https://sspai.com/post/84116",
+                "published": "2023-11-03"
+            },
+            {
+                "title": "你的下一台 Android 机，记得挑字幕没那么亮的",
+                "link": "https://sspai.com/prime/story/android-hdr-display-issue-explained",
+                "published": "2023-11-03"
+            },
+            {
+                "title": "App+1 | Timestripe：打破日程表樊篱，多视角规划目标",
+                "link": "https://sspai.com/post/83944",
+                "published": "2023-11-03"
+            },
             {
                 "title": "一日一技 | 如何只用软件实现显示器的输入源切换",
                 "link": "https://sspai.com/post/83908",
@@ -15798,7 +15818,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,

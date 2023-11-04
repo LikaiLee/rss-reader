@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-04】 不到 400 元能买哪些好物，这是少数派作者的「双十一」购物清单](https://sspai.com/post/83991)
+* [【2023-11-03】 本周看什么 | 最近值得一看的一大簇作品](https://sspai.com/post/84116)
+* [【2023-11-03】 你的下一台 Android 机，记得挑字幕没那么亮的](https://sspai.com/prime/story/android-hdr-display-issue-explained)
+* [【2023-11-03】 App+1 | Timestripe：打破日程表樊篱，多视角规划目标](https://sspai.com/post/83944)
 * [【2023-11-03】 一日一技 | 如何只用软件实现显示器的输入源切换](https://sspai.com/post/83908)
 * [【2023-11-03】 派早报：Microsoft 面向企业客户推出 365 Copilot](https://sspai.com/post/84098)
 * [【2023-11-03】 初来温州问声好，Apple Store 新店抢先看](https://sspai.com/post/84084)
 * [【2023-11-02】 视频栏目 | 张哲学·科技博主的盈利课：体面地用爱好赚出第一桶金](https://sspai.com/post/84083)
 * [【2023-11-02】 新玩意 163｜少数派的编辑们最近买了啥？](https://sspai.com/post/84088)
 * [【2023-11-02】 App+1 | 给你不受语言限制、无需繁琐操作的冲浪体验：沉浸式翻译](https://sspai.com/post/83943)
-* [【2023-11-02】 车到用时不恨少：日本共享汽车服务观察](https://sspai.com/post/83639)
-* [【2023-11-02】 派早报：vivo 召开 2023 年开发者大会、PubScholar 公益学术平台上线等](https://sspai.com/post/84068)
-* [【2023-11-01】 付费栏目的省钱饱和攻击：新作上架，全场满赠，买一送一，90 天保价](https://sspai.com/post/84028)
-* [【2023-11-01】 陌生而有趣的训练伙伴——壶铃和药球使用指南](https://sspai.com/prime/story/kettelbells-medicine-balls-training-guide)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-03 05:11:18
+:alarm_clock: 更新时间: 2023-11-04 05:10:52
