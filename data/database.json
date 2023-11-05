@@ -573,6 +573,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 |  搭建本地版 Latex 编辑器，为你的毕业论文排版「减减负」",
+                "link": "https://sspai.com/post/83982",
+                "published": "2023-11-04"
+            },
+            {
                 "title": "不到 400 元能买哪些好物，这是少数派作者的「双十一」购物清单",
                 "link": "https://sspai.com/post/83991",
                 "published": "2023-11-04"
@@ -15818,7 +15823,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
