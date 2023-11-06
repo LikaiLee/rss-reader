@@ -573,6 +573,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | Mac 版 Word 下图片乱码的临时处理方法",
+                "link": "https://sspai.com/post/84017",
+                "published": "2023-11-06"
+            },
+            {
+                "title": "派早报：年底前全国开机看直播、收费包压减 50%，xAI 公布聊天工具 Grok",
+                "link": "https://sspai.com/post/84163",
+                "published": "2023-11-06"
+            },
+            {
+                "title": "一把试探无解之锁的「钥匙」：评 Kagi 搜索",
+                "link": "https://sspai.com/post/84160",
+                "published": "2023-11-05"
+            },
+            {
                 "title": "App+1 |  搭建本地版 Latex 编辑器，为你的毕业论文排版「减减负」",
                 "link": "https://sspai.com/post/83982",
                 "published": "2023-11-04"
@@ -15823,7 +15838,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -46279,6 +46294,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "为什么有的化妆品要添加酒精？",
+                "link": "http://www.zhihu.com/question/22399766/answer/27505444?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-11-06"
+            },
+            {
                 "title": "汉朝普通人的一天是怎么样的？",
                 "link": "http://www.zhihu.com/question/608996177/answer/3269525148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-11-01"
@@ -54304,7 +54324,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
