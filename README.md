@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-07】 外观出色，性能不俗：2023 款 iMac 上手体验](https://sspai.com/post/84220)
+* [【2023-11-07】 派早报：联发科发布天玑 9300，斗鱼 CEO 陈少杰上月起失联等](https://sspai.com/post/84224)
+* [【2023-11-06】 一次预期之内的升级，也有意料之外的惊喜：新款 MacBook Pro 首发体验](https://sspai.com/post/84212)
+* [【2023-11-06】 [送码] 派评 | 近期值得关注的 App](https://sspai.com/post/84194)
+* [【2023-11-06】 既要吃好也要健康，你可以从几件小事开始改变饮食习惯](https://sspai.com/post/84033)
 * [【2023-11-06】 一日一技 | Mac 版 Word 下图片乱码的临时处理方法](https://sspai.com/post/84017)
 * [【2023-11-06】 派早报：年底前全国开机看直播、收费包压减 50%，xAI 公布聊天工具 Grok](https://sspai.com/post/84163)
 * [【2023-11-05】 一把试探无解之锁的「钥匙」：评 Kagi 搜索](https://sspai.com/post/84160)
 * [【2023-11-04】 App+1 |  搭建本地版 Latex 编辑器，为你的毕业论文排版「减减负」](https://sspai.com/post/83982)
 * [【2023-11-04】 不到 400 元能买哪些好物，这是少数派作者的「双十一」购物清单](https://sspai.com/post/83991)
-* [【2023-11-03】 本周看什么 | 最近值得一看的一大簇作品](https://sspai.com/post/84116)
-* [【2023-11-03】 你的下一台 Android 机，记得挑字幕没那么亮的](https://sspai.com/prime/story/android-hdr-display-issue-explained)
-* [【2023-11-03】 App+1 | Timestripe：打破日程表樊篱，多视角规划目标](https://sspai.com/post/83944)
-* [【2023-11-03】 一日一技 | 如何只用软件实现显示器的输入源切换](https://sspai.com/post/83908)
-* [【2023-11-03】 派早报：Microsoft 面向企业客户推出 365 Copilot](https://sspai.com/post/84098)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-11-06】 中国古代建筑有哪些建筑思想和人文情怀？](http://www.zhihu.com/question/490572454/answer/3278881047?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-06】 为什么有的化妆品要添加酒精？](http://www.zhihu.com/question/22399766/answer/27505444?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-01】 汉朝普通人的一天是怎么样的？](http://www.zhihu.com/question/608996177/answer/3269525148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-30】 多动症（ADHD）人士的一生到底有多「苦」？能分享一段「最令你难忘」的经历吗？](http://www.zhihu.com/question/627743115/answer/3266813181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-10-23】 S13瑞士轮Day4总结：WBGvsKT复盘](http://zhuanlan.zhihu.com/p/662761474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-19】 如何评价 10 月 16 日发布的 Intel 14代酷睿处理器，这代性能提升如何，有哪些亮点和不足？](http://www.zhihu.com/question/626356832/answer/3253813768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-12】 如何利用家电科技打造「智慧卧室」，轻松解锁优质睡眠？](http://www.zhihu.com/question/622756019/answer/3246588288?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-10-11】 好的床垫是否真的可以改善睡眠质量？](http://www.zhihu.com/question/622755882/answer/3244710657?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-06 05:11:45
+:alarm_clock: 更新时间: 2023-11-07 05:11:14

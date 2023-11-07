@@ -573,6 +573,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "外观出色，性能不俗：2023 款 iMac 上手体验",
+                "link": "https://sspai.com/post/84220",
+                "published": "2023-11-07"
+            },
+            {
+                "title": "派早报：联发科发布天玑 9300，斗鱼 CEO 陈少杰上月起失联等",
+                "link": "https://sspai.com/post/84224",
+                "published": "2023-11-07"
+            },
+            {
+                "title": "一次预期之内的升级，也有意料之外的惊喜：新款 MacBook Pro 首发体验",
+                "link": "https://sspai.com/post/84212",
+                "published": "2023-11-06"
+            },
+            {
+                "title": "[送码] 派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/84194",
+                "published": "2023-11-06"
+            },
+            {
+                "title": "既要吃好也要健康，你可以从几件小事开始改变饮食习惯",
+                "link": "https://sspai.com/post/84033",
+                "published": "2023-11-06"
+            },
+            {
                 "title": "一日一技 | Mac 版 Word 下图片乱码的临时处理方法",
                 "link": "https://sspai.com/post/84017",
                 "published": "2023-11-06"
@@ -15838,7 +15863,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -46293,6 +46318,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "中国古代建筑有哪些建筑思想和人文情怀？",
+                "link": "http://www.zhihu.com/question/490572454/answer/3278881047?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-11-06"
+            },
             {
                 "title": "为什么有的化妆品要添加酒精？",
                 "link": "http://www.zhihu.com/question/22399766/answer/27505444?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
