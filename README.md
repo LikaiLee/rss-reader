@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-08】 31 岁在一线城市被裁，我用一个小程序总结走过的路](https://sspai.com/post/83956)
+* [【2023-11-08】 派早报：iQOO 12 系列发布、国行任天堂 Switch 延保计划将停售等](https://sspai.com/post/84243)
+* [【2023-11-07】 GPT-4 Turbo、功能融合：OpenAI 首个开发者大会回顾](https://sspai.com/post/84234)
+* [【2023-11-07】 Alfred Workflow 进阶指南：以少数派标签搜索为例](https://sspai.com/prime/story/advanced-alfred-workflow-sspai-tag-search)
+* [【2023-11-07】 社区速递 019 | 波导手机、Top5 应用以及作者们的新玩意](https://sspai.com/post/84230)
+* [【2023-11-07】 城市漫步指南：夏末秋初，在慕尼黑漫步](https://sspai.com/post/84119)
 * [【2023-11-07】 外观出色，性能不俗：2023 款 iMac 上手体验](https://sspai.com/post/84220)
 * [【2023-11-07】 派早报：联发科发布天玑 9300，斗鱼 CEO 陈少杰上月起失联等](https://sspai.com/post/84224)
 * [【2023-11-06】 一次预期之内的升级，也有意料之外的惊喜：新款 MacBook Pro 首发体验](https://sspai.com/post/84212)
 * [【2023-11-06】 [送码] 派评 | 近期值得关注的 App](https://sspai.com/post/84194)
-* [【2023-11-06】 既要吃好也要健康，你可以从几件小事开始改变饮食习惯](https://sspai.com/post/84033)
-* [【2023-11-06】 一日一技 | Mac 版 Word 下图片乱码的临时处理方法](https://sspai.com/post/84017)
-* [【2023-11-06】 派早报：年底前全国开机看直播、收费包压减 50%，xAI 公布聊天工具 Grok](https://sspai.com/post/84163)
-* [【2023-11-05】 一把试探无解之锁的「钥匙」：评 Kagi 搜索](https://sspai.com/post/84160)
-* [【2023-11-04】 App+1 |  搭建本地版 Latex 编辑器，为你的毕业论文排版「减减负」](https://sspai.com/post/83982)
-* [【2023-11-04】 不到 400 元能买哪些好物，这是少数派作者的「双十一」购物清单](https://sspai.com/post/83991)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-07 05:11:14
+:alarm_clock: 更新时间: 2023-11-08 05:11:29

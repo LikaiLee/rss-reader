@@ -573,6 +573,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "31 岁在一线城市被裁，我用一个小程序总结走过的路",
+                "link": "https://sspai.com/post/83956",
+                "published": "2023-11-08"
+            },
+            {
+                "title": "派早报：iQOO 12 系列发布、国行任天堂 Switch 延保计划将停售等",
+                "link": "https://sspai.com/post/84243",
+                "published": "2023-11-08"
+            },
+            {
+                "title": "GPT-4 Turbo、功能融合：OpenAI 首个开发者大会回顾",
+                "link": "https://sspai.com/post/84234",
+                "published": "2023-11-07"
+            },
+            {
+                "title": "Alfred Workflow 进阶指南：以少数派标签搜索为例",
+                "link": "https://sspai.com/prime/story/advanced-alfred-workflow-sspai-tag-search",
+                "published": "2023-11-07"
+            },
+            {
+                "title": "社区速递 019 | 波导手机、Top5 应用以及作者们的新玩意",
+                "link": "https://sspai.com/post/84230",
+                "published": "2023-11-07"
+            },
+            {
+                "title": "城市漫步指南：夏末秋初，在慕尼黑漫步",
+                "link": "https://sspai.com/post/84119",
+                "published": "2023-11-07"
+            },
+            {
                 "title": "外观出色，性能不俗：2023 款 iMac 上手体验",
                 "link": "https://sspai.com/post/84220",
                 "published": "2023-11-07"
@@ -15863,7 +15893,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -54354,7 +54384,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
