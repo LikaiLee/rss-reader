@@ -573,6 +573,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "利用快捷指令，Linux 也能轻松「接力」iOS 剪贴文本",
+                "link": "https://sspai.com/post/84133",
+                "published": "2023-11-09"
+            },
+            {
+                "title": "派早报：OPPO 召开影像战略沟通会、R 星将公布下一代 GTA 等",
+                "link": "https://sspai.com/post/84287",
+                "published": "2023-11-09"
+            },
+            {
+                "title": "安阳漫步指南 | 楼台晚映青山郭，罗绮晴娇绿水洲",
+                "link": "https://sspai.com/post/84241",
+                "published": "2023-11-08"
+            },
+            {
+                "title": "用 iPhone 15 Pro 玩 3A 大作：《生化危机 村庄》详尽游玩体验",
+                "link": "https://sspai.com/post/84223",
+                "published": "2023-11-08"
+            },
+            {
+                "title": "社区速递 019 | 德甲比赛、Top5 应用以及作者们的新玩意",
+                "link": "https://sspai.com/post/84230",
+                "published": "2023-11-07"
+            },
+            {
                 "title": "31 岁在一线城市被裁，我用一个小程序总结走过的路",
                 "link": "https://sspai.com/post/83956",
                 "published": "2023-11-08"
@@ -15893,7 +15918,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -46349,6 +46374,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "新职人生活中，该如何利用智能家居打造一个「会呼吸的家」？",
+                "link": "http://www.zhihu.com/question/627399564/answer/3282119431?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-11-09"
+            },
+            {
+                "title": "如何低成本打造「百变客厅」，从家庭影院到书房一键切换？",
+                "link": "http://www.zhihu.com/question/626821953/answer/3269845936?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-11-08"
+            },
+            {
                 "title": "中国古代建筑有哪些建筑思想和人文情怀？",
                 "link": "http://www.zhihu.com/question/490572454/answer/3278881047?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-11-06"
@@ -54384,7 +54419,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
