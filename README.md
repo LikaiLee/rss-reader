@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-11-10】 科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html)
 * [【2023-11-03】 科技爱好者周刊（第 276 期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html)
 * [【2023-10-27】 科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html)
 * [【2023-10-20】 科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html)
@@ -25,7 +26,6 @@
 * [【2023-09-07】 科技爱好者周刊（第 270 期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)
 * [【2023-09-01】 科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)
 * [【2023-08-25】 科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)
-* [【2023-08-18】 科技爱好者周刊（第 267 期）：5G 的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-10】 一日一技 | 将 Obsidian 页面按自定义模板导出为 Word 文档](https://sspai.com/post/84232)
+* [【2023-11-10】 派早报：Valve 发布 OLED 款 Steam Deck 游戏主机](https://sspai.com/post/84312)
+* [【2023-11-09】 摄影话题人气作者、港漂 Hermanchannn 都装了啥？](https://sspai.com/prime/story/zhuanglesha-231109)
+* [【2023-11-09】 新玩意 164｜少数派的编辑们最近买了啥？](https://sspai.com/post/84306)
+* [【2023-11-09】 拯救 macOS 冷门 app：如何用提醒事项更好地提醒自己？](https://sspai.com/post/78676)
+* [【2023-11-09】 日月山川拍够了，你还可以去文昌追一次火箭发射](https://sspai.com/post/84216)
 * [【2023-11-09】 利用快捷指令，Linux 也能轻松「接力」iOS 剪贴文本](https://sspai.com/post/84133)
 * [【2023-11-09】 派早报：OPPO 召开影像战略沟通会、R 星将公布下一代 GTA 等](https://sspai.com/post/84287)
 * [【2023-11-08】 安阳漫步指南 | 楼台晚映青山郭，罗绮晴娇绿水洲](https://sspai.com/post/84241)
 * [【2023-11-08】 用 iPhone 15 Pro 玩 3A 大作：《生化危机 村庄》详尽游玩体验](https://sspai.com/post/84223)
-* [【2023-11-07】 社区速递 019 | 德甲比赛、Top5 应用以及作者们的新玩意](https://sspai.com/post/84230)
-* [【2023-11-08】 31 岁在一线城市被裁，我用一个小程序总结走过的路](https://sspai.com/post/83956)
-* [【2023-11-08】 派早报：iQOO 12 系列发布、国行任天堂 Switch 延保计划将停售等](https://sspai.com/post/84243)
-* [【2023-11-07】 GPT-4 Turbo、功能融合：OpenAI 首个开发者大会回顾](https://sspai.com/post/84234)
-* [【2023-11-07】 Alfred Workflow 进阶指南：以少数派标签搜索为例](https://sspai.com/prime/story/advanced-alfred-workflow-sspai-tag-search)
-* [【2023-11-07】 社区速递 019 | 波导手机、Top5 应用以及作者们的新玩意](https://sspai.com/post/84230)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-11-09】 如何低成本打造「百变客厅」，从家庭影院到书房一键切换？](http://www.zhihu.com/question/626821953/answer/3282656426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-11-09】 Chat 向左，Agent 向右](http://zhuanlan.zhihu.com/p/662704254?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-09】 新职人生活中，该如何利用智能家居打造一个「会呼吸的家」？](http://www.zhihu.com/question/627399564/answer/3282119431?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-08】 如何低成本打造「百变客厅」，从家庭影院到书房一键切换？](http://www.zhihu.com/question/626821953/answer/3269845936?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-06】 中国古代建筑有哪些建筑思想和人文情怀？](http://www.zhihu.com/question/490572454/answer/3278881047?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-10-30】 多动症（ADHD）人士的一生到底有多「苦」？能分享一段「最令你难忘」的经历吗？](http://www.zhihu.com/question/627743115/answer/3266813181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-25】 我们如何在绘画中表现时间的流逝？](http://www.zhihu.com/question/45410703/answer/1148815825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-24】 「不想恋爱、只想搞钱」——爱情对于新职人而言，还是必需品吗？](http://www.zhihu.com/question/613869948/answer/3150026240?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-10-23】 炒菜总是粘锅怎么办？有哪些小技巧？](http://www.zhihu.com/question/569232968/answer/3257910878?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-10-23】 S13瑞士轮Day4总结：WBGvsKT复盘](http://zhuanlan.zhihu.com/p/662761474?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-09 05:11:21
+:alarm_clock: 更新时间: 2023-11-10 05:11:19
