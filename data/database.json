@@ -570,13 +570,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/84326",
+                "published": "2023-11-10"
+            },
+            {
+                "title": "全场满赠、买一送一，正版软件「双十一」开始了",
+                "link": "https://sspai.com/post/84322",
+                "published": "2023-11-10"
+            },
+            {
+                "title": "相机领域的「大师之剑」，聊聊我眼中的富士 X100V 体验",
+                "link": "https://sspai.com/post/84219",
+                "published": "2023-11-10"
+            },
             {
                 "title": "一日一技 | 将 Obsidian 页面按自定义模板导出为 Word 文档",
                 "link": "https://sspai.com/post/84232",
@@ -15953,7 +15968,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -46409,6 +46424,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "【LLM】从零开始训练大模型",
+                "link": "http://zhuanlan.zhihu.com/p/636270877?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-11-10"
+            },
+            {
                 "title": "如何低成本打造「百变客厅」，从家庭影院到书房一键切换？",
                 "link": "http://www.zhihu.com/question/626821953/answer/3282656426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-11-09"
@@ -54464,7 +54484,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,

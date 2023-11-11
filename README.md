@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-11-10】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/84326)
+* [【2023-11-10】 全场满赠、买一送一，正版软件「双十一」开始了](https://sspai.com/post/84322)
+* [【2023-11-10】 相机领域的「大师之剑」，聊聊我眼中的富士 X100V 体验](https://sspai.com/post/84219)
 * [【2023-11-10】 一日一技 | 将 Obsidian 页面按自定义模板导出为 Word 文档](https://sspai.com/post/84232)
 * [【2023-11-10】 派早报：Valve 发布 OLED 款 Steam Deck 游戏主机](https://sspai.com/post/84312)
 * [【2023-11-09】 摄影话题人气作者、港漂 Hermanchannn 都装了啥？](https://sspai.com/prime/story/zhuanglesha-231109)
@@ -42,9 +45,6 @@
 * [【2023-11-09】 拯救 macOS 冷门 app：如何用提醒事项更好地提醒自己？](https://sspai.com/post/78676)
 * [【2023-11-09】 日月山川拍够了，你还可以去文昌追一次火箭发射](https://sspai.com/post/84216)
 * [【2023-11-09】 利用快捷指令，Linux 也能轻松「接力」iOS 剪贴文本](https://sspai.com/post/84133)
-* [【2023-11-09】 派早报：OPPO 召开影像战略沟通会、R 星将公布下一代 GTA 等](https://sspai.com/post/84287)
-* [【2023-11-08】 安阳漫步指南 | 楼台晚映青山郭，罗绮晴娇绿水洲](https://sspai.com/post/84241)
-* [【2023-11-08】 用 iPhone 15 Pro 玩 3A 大作：《生化危机 村庄》详尽游玩体验](https://sspai.com/post/84223)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-11-10】 【LLM】从零开始训练大模型](http://zhuanlan.zhihu.com/p/636270877?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-09】 如何低成本打造「百变客厅」，从家庭影院到书房一键切换？](http://www.zhihu.com/question/626821953/answer/3282656426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-09】 Chat 向左，Agent 向右](http://zhuanlan.zhihu.com/p/662704254?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-09】 新职人生活中，该如何利用智能家居打造一个「会呼吸的家」？](http://www.zhihu.com/question/627399564/answer/3282119431?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-11-01】 汉朝普通人的一天是怎么样的？](http://www.zhihu.com/question/608996177/answer/3269525148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-30】 多动症（ADHD）人士的一生到底有多「苦」？能分享一段「最令你难忘」的经历吗？](http://www.zhihu.com/question/627743115/answer/3266813181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-10-25】 我们如何在绘画中表现时间的流逝？](http://www.zhihu.com/question/45410703/answer/1148815825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-10-24】 「不想恋爱、只想搞钱」——爱情对于新职人而言，还是必需品吗？](http://www.zhihu.com/question/613869948/answer/3150026240?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-10 05:11:19
+:alarm_clock: 更新时间: 2023-11-11 05:10:36
