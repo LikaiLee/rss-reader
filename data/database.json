@@ -578,6 +578,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "临时起意收获惊喜满满：我的新西兰 10 天自驾之旅",
+                "link": "https://sspai.com/post/84239",
+                "published": "2023-11-11"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/84326",
                 "published": "2023-11-10"
@@ -15968,7 +15973,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -54484,7 +54489,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

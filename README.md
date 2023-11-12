@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-11-11】 临时起意收获惊喜满满：我的新西兰 10 天自驾之旅](https://sspai.com/post/84239)
 * [【2023-11-10】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/84326)
 * [【2023-11-10】 全场满赠、买一送一，正版软件「双十一」开始了](https://sspai.com/post/84322)
 * [【2023-11-10】 相机领域的「大师之剑」，聊聊我眼中的富士 X100V 体验](https://sspai.com/post/84219)
@@ -44,7 +45,6 @@
 * [【2023-11-09】 新玩意 164｜少数派的编辑们最近买了啥？](https://sspai.com/post/84306)
 * [【2023-11-09】 拯救 macOS 冷门 app：如何用提醒事项更好地提醒自己？](https://sspai.com/post/78676)
 * [【2023-11-09】 日月山川拍够了，你还可以去文昌追一次火箭发射](https://sspai.com/post/84216)
-* [【2023-11-09】 利用快捷指令，Linux 也能轻松「接力」iOS 剪贴文本](https://sspai.com/post/84133)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-11 05:10:36
+:alarm_clock: 更新时间: 2023-11-12 05:10:46
