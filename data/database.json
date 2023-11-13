@@ -578,6 +578,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "GPTs builder 上手体验：我花 5 分钟时间做了一个 GPT 机器人",
+                "link": "https://sspai.com/post/84325",
+                "published": "2023-11-13"
+            },
+            {
+                "title": "派早报",
+                "link": "https://sspai.com/post/84368",
+                "published": "2023-11-13"
+            },
+            {
+                "title": "价格好、更省心：Apple 官方「以旧换新」更划算了",
+                "link": "https://sspai.com/post/84348",
+                "published": "2023-11-12"
+            },
+            {
                 "title": "临时起意收获惊喜满满：我的新西兰 10 天自驾之旅",
                 "link": "https://sspai.com/post/84239",
                 "published": "2023-11-11"
@@ -15973,7 +15988,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
