@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+5】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-14】 探索生活的设备并不需要完美：iPhone 的四年使用思考](https://sspai.com/post/84362)
+* [【2023-11-14】 派早报：vivo X100 系列发布、长江存储在美起诉美光科技等](https://sspai.com/post/84399)
+* [【2023-11-13】 派评 | 近期值得关注的 App](https://sspai.com/post/84389)
+* [【2023-11-13】 城市漫步指南：寻找记忆中的什切青](https://sspai.com/post/70676)
 * [【2023-11-13】 GPTs builder 上手体验：我花 5 分钟时间做了一个 GPT 机器人](https://sspai.com/post/84325)
 * [【2023-11-13】 派早报](https://sspai.com/post/84368)
 * [【2023-11-12】 价格好、更省心：Apple 官方「以旧换新」更划算了](https://sspai.com/post/84348)
 * [【2023-11-11】 临时起意收获惊喜满满：我的新西兰 10 天自驾之旅](https://sspai.com/post/84239)
 * [【2023-11-10】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/84326)
 * [【2023-11-10】 全场满赠、买一送一，正版软件「双十一」开始了](https://sspai.com/post/84322)
-* [【2023-11-10】 相机领域的「大师之剑」，聊聊我眼中的富士 X100V 体验](https://sspai.com/post/84219)
-* [【2023-11-10】 一日一技 | 将 Obsidian 页面按自定义模板导出为 Word 文档](https://sspai.com/post/84232)
-* [【2023-11-10】 派早报：Valve 发布 OLED 款 Steam Deck 游戏主机](https://sspai.com/post/84312)
-* [【2023-11-09】 摄影话题人气作者、港漂 Hermanchannn 都装了啥？](https://sspai.com/prime/story/zhuanglesha-231109)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-11-13】 有奖活动 | 职场人，你心霾了吗](http://zhuanlan.zhihu.com/p/666640133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-11-13】 浅谈西方美术史](http://zhuanlan.zhihu.com/p/654924503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-11-13】 建筑史上出现过的重大失误有哪些？](http://www.zhihu.com/question/24821237/answer/3282834959?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-11-13】 为什么说 3nm 是现在芯片制程的天花板？](http://www.zhihu.com/question/441612665/answer/3284871191?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-11-13】 你知道有哪些非常好但是未建成的建筑方案？](http://www.zhihu.com/question/37684218/answer/3287095547?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-10】 【LLM】从零开始训练大模型](http://zhuanlan.zhihu.com/p/636270877?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-09】 如何低成本打造「百变客厅」，从家庭影院到书房一键切换？](http://www.zhihu.com/question/626821953/answer/3282656426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-09】 Chat 向左，Agent 向右](http://zhuanlan.zhihu.com/p/662704254?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-09】 新职人生活中，该如何利用智能家居打造一个「会呼吸的家」？](http://www.zhihu.com/question/627399564/answer/3282119431?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-08】 如何低成本打造「百变客厅」，从家庭影院到书房一键切换？](http://www.zhihu.com/question/626821953/answer/3269845936?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-06】 中国古代建筑有哪些建筑思想和人文情怀？](http://www.zhihu.com/question/490572454/answer/3278881047?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-06】 为什么有的化妆品要添加酒精？](http://www.zhihu.com/question/22399766/answer/27505444?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-01】 汉朝普通人的一天是怎么样的？](http://www.zhihu.com/question/608996177/answer/3269525148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-10-30】 多动症（ADHD）人士的一生到底有多「苦」？能分享一段「最令你难忘」的经历吗？](http://www.zhihu.com/question/627743115/answer/3266813181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-10-25】 我们如何在绘画中表现时间的流逝？](http://www.zhihu.com/question/45410703/answer/1148815825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-13 05:11:44
+:alarm_clock: 更新时间: 2023-11-14 05:11:24
