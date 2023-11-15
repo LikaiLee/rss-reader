@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+5】
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-15】 从 HomePod「交响」到按需省电：我的自动化构建思路分享](https://sspai.com/post/84349)
+* [【2023-11-15】 派早报：2023 App Store Awards 入围者揭晓、闪迪固态硬盘故障系设计和制造缺陷等](https://sspai.com/post/84419)
+* [【2023-11-14】 处理器简史｜PowerPC 09：烽火连天 颓势初显（上）](https://sspai.com/prime/story/ppc-history-09)
+* [【2023-11-14】 社区速递 020 | 十年编程路、千元洗衣机以及作者们的新玩意](https://sspai.com/post/84408)
+* [【2023-11-14】 一款低预算 Steam 独立游戏，如何做好发行](https://sspai.com/post/81359)
 * [【2023-11-14】 探索生活的设备并不需要完美：iPhone 的四年使用思考](https://sspai.com/post/84362)
 * [【2023-11-14】 派早报：vivo X100 系列发布、长江存储在美起诉美光科技等](https://sspai.com/post/84399)
 * [【2023-11-13】 派评 | 近期值得关注的 App](https://sspai.com/post/84389)
 * [【2023-11-13】 城市漫步指南：寻找记忆中的什切青](https://sspai.com/post/70676)
 * [【2023-11-13】 GPTs builder 上手体验：我花 5 分钟时间做了一个 GPT 机器人](https://sspai.com/post/84325)
-* [【2023-11-13】 派早报](https://sspai.com/post/84368)
-* [【2023-11-12】 价格好、更省心：Apple 官方「以旧换新」更划算了](https://sspai.com/post/84348)
-* [【2023-11-11】 临时起意收获惊喜满满：我的新西兰 10 天自驾之旅](https://sspai.com/post/84239)
-* [【2023-11-10】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/84326)
-* [【2023-11-10】 全场满赠、买一送一，正版软件「双十一」开始了](https://sspai.com/post/84322)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-11-15】 如果三国演义中的人物同一个姓的为一个势力，哪几个姓有可能统一天下?](http://www.zhihu.com/question/619746650/answer/3193808841?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-11-15】 如果珠穆朗玛峰矗立在平原中或者城市中是什么画面呢？](http://www.zhihu.com/question/411106731/answer/3285596118?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-11-14】 《城市天际线2》初步感受，兼对于模拟城市类游戏的思考](http://zhuanlan.zhihu.com/p/666199224?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-11-14】 塞尔达：旷野之息游戏分析](http://zhuanlan.zhihu.com/p/660146514?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-13】 有奖活动 | 职场人，你心霾了吗](http://zhuanlan.zhihu.com/p/666640133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-13】 浅谈西方美术史](http://zhuanlan.zhihu.com/p/654924503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-13】 建筑史上出现过的重大失误有哪些？](http://www.zhihu.com/question/24821237/answer/3282834959?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-13】 为什么说 3nm 是现在芯片制程的天花板？](http://www.zhihu.com/question/441612665/answer/3284871191?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-13】 你知道有哪些非常好但是未建成的建筑方案？](http://www.zhihu.com/question/37684218/answer/3287095547?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-10】 【LLM】从零开始训练大模型](http://zhuanlan.zhihu.com/p/636270877?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-09】 如何低成本打造「百变客厅」，从家庭影院到书房一键切换？](http://www.zhihu.com/question/626821953/answer/3282656426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-09】 Chat 向左，Agent 向右](http://zhuanlan.zhihu.com/p/662704254?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-09】 新职人生活中，该如何利用智能家居打造一个「会呼吸的家」？](http://www.zhihu.com/question/627399564/answer/3282119431?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-08】 如何低成本打造「百变客厅」，从家庭影院到书房一键切换？](http://www.zhihu.com/question/626821953/answer/3269845936?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-14 05:11:24
+:alarm_clock: 更新时间: 2023-11-15 05:11:33
