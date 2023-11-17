@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 278 期）：棘手的 AI 版权",
+                "link": "http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html",
+                "published": "2023-11-17"
+            },
+            {
                 "title": "科技爱好者周刊（第 277 期）：工作台副屏的最佳选择",
                 "link": "http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html",
                 "published": "2023-11-10"
@@ -570,13 +575,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "在 Mac 与 iPad 上远程使用 Windows 系统，这是我的折腾笔记",
+                "link": "https://sspai.com/post/84443",
+                "published": "2023-11-17"
+            },
+            {
+                "title": "派早报：Apple 将在明年支持 RCS 协议、微软消息五则等",
+                "link": "https://sspai.com/post/84467",
+                "published": "2023-11-17"
+            },
+            {
+                "title": "大厂背锅，版权无忧？——谈生成式 AI 服务的「知识产权承诺」",
+                "link": "https://sspai.com/prime/story/gen-ai-ipr-commitments",
+                "published": "2023-11-16"
+            },
+            {
+                "title": "新玩意 165｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/84457",
+                "published": "2023-11-16"
+            },
+            {
+                "title": "对话王计兵：生活给了我们多少积雪，就给了我们多少个春天",
+                "link": "https://sspai.com/post/84435",
+                "published": "2023-11-16"
+            },
             {
                 "title": "自由输入法 RIME 简明配置指南（2023 版）",
                 "link": "https://sspai.com/post/84373",

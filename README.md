@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-11-17】 科技爱好者周刊（第 278 期）：棘手的 AI 版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html)
 * [【2023-11-10】 科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html)
 * [【2023-11-03】 科技爱好者周刊（第 276 期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html)
 * [【2023-10-27】 科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html)
@@ -25,7 +26,6 @@
 * [【2023-09-15】 科技爱好者周刊（第 271 期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)
 * [【2023-09-07】 科技爱好者周刊（第 270 期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)
 * [【2023-09-01】 科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)
-* [【2023-08-25】 科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-17】 在 Mac 与 iPad 上远程使用 Windows 系统，这是我的折腾笔记](https://sspai.com/post/84443)
+* [【2023-11-17】 派早报：Apple 将在明年支持 RCS 协议、微软消息五则等](https://sspai.com/post/84467)
+* [【2023-11-16】 大厂背锅，版权无忧？——谈生成式 AI 服务的「知识产权承诺」](https://sspai.com/prime/story/gen-ai-ipr-commitments)
+* [【2023-11-16】 新玩意 165｜少数派的编辑们最近买了啥？](https://sspai.com/post/84457)
+* [【2023-11-16】 对话王计兵：生活给了我们多少积雪，就给了我们多少个春天](https://sspai.com/post/84435)
 * [【2023-11-16】 自由输入法 RIME 简明配置指南（2023 版）](https://sspai.com/post/84373)
 * [【2023-11-16】 派早报：小米汽车公示、CDPR 将推出《猎魔人 3》mod 编辑器等](https://sspai.com/post/84444)
 * [【2023-11-15】 从百元到千元磁盘的「消费升级」，聊聊我组装「固态 U 盘」的八年](https://sspai.com/post/82986)
 * [【2023-11-15】 城市漫步指南：宁波，用桂花香开启一整个秋天](https://sspai.com/post/83923)
 * [【2023-11-15】 科技 Live | 一起听歌吧！周六来少数派线下店享受 HiFi 音乐](https://sspai.com/post/84421)
-* [【2023-11-15】 从 HomePod「交响」到按需省电：我的自动化构建思路分享](https://sspai.com/post/84349)
-* [【2023-11-15】 派早报：2023 App Store Awards 入围者揭晓、闪迪固态硬盘故障系设计和制造缺陷等](https://sspai.com/post/84419)
-* [【2023-11-14】 处理器简史｜PowerPC 09：烽火连天 颓势初显（上）](https://sspai.com/prime/story/ppc-history-09)
-* [【2023-11-14】 社区速递 020 | 十年编程路、千元洗衣机以及作者们的新玩意](https://sspai.com/post/84408)
-* [【2023-11-14】 一款低预算 Steam 独立游戏，如何做好发行](https://sspai.com/post/81359)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-16 05:11:57
+:alarm_clock: 更新时间: 2023-11-17 05:12:00
