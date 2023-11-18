@@ -575,13 +575,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大本作品",
+                "link": "https://sspai.com/post/84477",
+                "published": "2023-11-17"
+            },
+            {
+                "title": "从 StressWatch 聊起：我们该如何看待 HRV 和压力监测硬件？",
+                "link": "https://sspai.com/post/84456",
+                "published": "2023-11-17"
+            },
             {
                 "title": "在 Mac 与 iPad 上远程使用 Windows 系统，这是我的折腾笔记",
                 "link": "https://sspai.com/post/84443",
@@ -16088,7 +16098,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
