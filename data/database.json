@@ -583,6 +583,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "来势汹汹的支原体肺炎究竟是什么？我们又该如何应对？",
+                "link": "https://sspai.com/post/84473",
+                "published": "2023-11-18"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的一大本作品",
                 "link": "https://sspai.com/post/84477",
                 "published": "2023-11-17"
@@ -16098,7 +16103,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
