@@ -583,6 +583,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "哪些 GPTs 应用让我眼前一亮？你又该如何找到它们？",
+                "link": "https://sspai.com/post/84471",
+                "published": "2023-11-20"
+            },
+            {
+                "title": "派早报：Sam Altman 被解职，正协商重返",
+                "link": "https://sspai.com/post/84504",
+                "published": "2023-11-20"
+            },
+            {
+                "title": "Niagara Launcher：单手即可掌控的主屏，图标也能「一招鲜」",
+                "link": "https://sspai.com/post/84498",
+                "published": "2023-11-19"
+            },
+            {
                 "title": "来势汹汹的支原体肺炎究竟是什么？我们又该如何应对？",
                 "link": "https://sspai.com/post/84473",
                 "published": "2023-11-18"
@@ -16103,7 +16118,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -46559,6 +46574,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有没有一个永久储存数据的地方？",
+                "link": "http://www.zhihu.com/question/21491409/answer/3294184079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-11-20"
+            },
+            {
                 "title": "如果三国演义中的人物同一个姓的为一个势力，哪几个姓有可能统一天下?",
                 "link": "http://www.zhihu.com/question/619746650/answer/3193808841?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-11-15"
@@ -54664,7 +54684,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
