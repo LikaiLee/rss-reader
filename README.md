@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-21】 城市漫步指南：在将秋未秋时，到访一次京都](https://sspai.com/post/84446)
+* [【2023-11-21】 派早报：Sam Altman 复职谈判破裂，三大运营商公布 10 月数据等](https://sspai.com/post/84517)
+* [【2023-11-20】 派评 | 近期值得关注的 App](https://sspai.com/post/84516)
+* [【2023-11-20】 iPhone 加入游戏，但 USB-C 的乱纪元还没有完结](https://sspai.com/post/84508)
 * [【2023-11-20】 哪些 GPTs 应用让我眼前一亮？你又该如何找到它们？](https://sspai.com/post/84471)
 * [【2023-11-20】 派早报：Sam Altman 被解职，正协商重返](https://sspai.com/post/84504)
 * [【2023-11-19】 Niagara Launcher：单手即可掌控的主屏，图标也能「一招鲜」](https://sspai.com/post/84498)
 * [【2023-11-18】 来势汹汹的支原体肺炎究竟是什么？我们又该如何应对？](https://sspai.com/post/84473)
 * [【2023-11-17】 本周看什么 | 最近值得一看的一大本作品](https://sspai.com/post/84477)
 * [【2023-11-17】 从 StressWatch 聊起：我们该如何看待 HRV 和压力监测硬件？](https://sspai.com/post/84456)
-* [【2023-11-17】 在 Mac 与 iPad 上远程使用 Windows 系统，这是我的折腾笔记](https://sspai.com/post/84443)
-* [【2023-11-17】 派早报：Apple 将在明年支持 RCS 协议、微软消息五则等](https://sspai.com/post/84467)
-* [【2023-11-16】 大厂背锅，版权无忧？——谈生成式 AI 服务的「知识产权承诺」](https://sspai.com/prime/story/gen-ai-ipr-commitments)
-* [【2023-11-16】 新玩意 165｜少数派的编辑们最近买了啥？](https://sspai.com/post/84457)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-20 05:12:08
+:alarm_clock: 更新时间: 2023-11-21 05:12:04
