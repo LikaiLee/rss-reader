@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-22】 独立小团队如何在开发时省钱省事？这是我们选择的技术架构](https://sspai.com/post/83468)
+* [【2023-11-22】 派早报：联发科天玑 8300 发布、「e 路畅通」小程序上线等](https://sspai.com/post/84551)
+* [【2023-11-21】 社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典](https://sspai.com/post/84538)
+* [【2023-11-21】 排排坐，吃果果：趣谈 Apple Store 各色座椅](https://sspai.com/post/84523)
 * [【2023-11-21】 城市漫步指南：在将秋未秋时，到访一次京都](https://sspai.com/post/84446)
 * [【2023-11-21】 派早报：Sam Altman 复职谈判破裂，三大运营商公布 10 月数据等](https://sspai.com/post/84517)
 * [【2023-11-20】 派评 | 近期值得关注的 App](https://sspai.com/post/84516)
 * [【2023-11-20】 iPhone 加入游戏，但 USB-C 的乱纪元还没有完结](https://sspai.com/post/84508)
 * [【2023-11-20】 哪些 GPTs 应用让我眼前一亮？你又该如何找到它们？](https://sspai.com/post/84471)
 * [【2023-11-20】 派早报：Sam Altman 被解职，正协商重返](https://sspai.com/post/84504)
-* [【2023-11-19】 Niagara Launcher：单手即可掌控的主屏，图标也能「一招鲜」](https://sspai.com/post/84498)
-* [【2023-11-18】 来势汹汹的支原体肺炎究竟是什么？我们又该如何应对？](https://sspai.com/post/84473)
-* [【2023-11-17】 本周看什么 | 最近值得一看的一大本作品](https://sspai.com/post/84477)
-* [【2023-11-17】 从 StressWatch 聊起：我们该如何看待 HRV 和压力监测硬件？](https://sspai.com/post/84456)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-21 05:12:04
+:alarm_clock: 更新时间: 2023-11-22 05:12:12
