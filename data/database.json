@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 279 期）：网络社区的悲剧",
+                "link": "http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html",
+                "published": "2023-11-24"
+            },
+            {
                 "title": "科技爱好者周刊（第 278 期）：棘手的 AI 版权",
                 "link": "http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html",
                 "published": "2023-11-17"
@@ -575,13 +580,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "两场比赛，我在日本看到了更「纯粹」的足球",
+                "link": "https://sspai.com/post/84503",
+                "published": "2023-11-24"
+            },
+            {
+                "title": "派早报：CHERRY 宣布推出全新 KC 200 MX 键盘",
+                "link": "https://sspai.com/post/84599",
+                "published": "2023-11-24"
+            },
+            {
+                "title": "咖啡地图 | 中国咖啡的小透明：海南",
+                "link": "https://sspai.com/post/84361",
+                "published": "2023-11-23"
+            },
+            {
+                "title": "Mac 迁移指南：换新机后的任务清单",
+                "link": "https://sspai.com/post/64301",
+                "published": "2023-11-23"
+            },
             {
                 "title": "从 iPhone 15 Pro 谈起，聊聊 Apple 产品的体验、周边和生态",
                 "link": "https://sspai.com/post/84552",

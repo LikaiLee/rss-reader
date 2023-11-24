@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-11-24】 科技爱好者周刊（第 279 期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)
 * [【2023-11-17】 科技爱好者周刊（第 278 期）：棘手的 AI 版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html)
 * [【2023-11-10】 科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html)
 * [【2023-11-03】 科技爱好者周刊（第 276 期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html)
@@ -25,7 +26,6 @@
 * [【2023-09-22】 科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)
 * [【2023-09-15】 科技爱好者周刊（第 271 期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)
 * [【2023-09-07】 科技爱好者周刊（第 270 期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)
-* [【2023-09-01】 科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-24】 两场比赛，我在日本看到了更「纯粹」的足球](https://sspai.com/post/84503)
+* [【2023-11-24】 派早报：CHERRY 宣布推出全新 KC 200 MX 键盘](https://sspai.com/post/84599)
+* [【2023-11-23】 咖啡地图 | 中国咖啡的小透明：海南](https://sspai.com/post/84361)
+* [【2023-11-23】 Mac 迁移指南：换新机后的任务清单](https://sspai.com/post/64301)
 * [【2023-11-23】 从 iPhone 15 Pro 谈起，聊聊 Apple 产品的体验、周边和生态](https://sspai.com/post/84552)
 * [【2023-11-23】 派早报：Sam Altman 将返回 OpenAI 担任 CEO 等](https://sspai.com/post/84575)
 * [【2023-11-22】 少数派作者、爱 CrossFit 也爱吃甜食的克莱尔都装了啥](https://sspai.com/prime/story/zhuanglesha-231122)
 * [【2023-11-22】 满怀希望、认真生活：我对人生与价值的看法](https://sspai.com/post/83743)
 * [【2023-11-22】 独立小团队如何在开发时省钱省事？这是我们选择的技术架构](https://sspai.com/post/83468)
 * [【2023-11-22】 派早报：联发科天玑 8300 发布、「e 路畅通」小程序上线等](https://sspai.com/post/84551)
-* [【2023-11-21】 社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典](https://sspai.com/post/84538)
-* [【2023-11-21】 排排坐，吃果果：趣谈 Apple Store 各色座椅](https://sspai.com/post/84523)
-* [【2023-11-21】 城市漫步指南：在将秋未秋时，到访一次京都](https://sspai.com/post/84446)
-* [【2023-11-21】 派早报：Sam Altman 复职谈判破裂，三大运营商公布 10 月数据等](https://sspai.com/post/84517)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-23 05:11:51
+:alarm_clock: 更新时间: 2023-11-24 05:11:45
