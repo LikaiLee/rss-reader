@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-11-24】 本周看什么 | 最近值得一看的一大套作品](https://sspai.com/post/84612)
+* [【2023-11-24】 「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/84611)
 * [【2023-11-24】 两场比赛，我在日本看到了更「纯粹」的足球](https://sspai.com/post/84503)
 * [【2023-11-24】 派早报：CHERRY 宣布推出全新 KC 200 MX 键盘](https://sspai.com/post/84599)
 * [【2023-11-23】 咖啡地图 | 中国咖啡的小透明：海南](https://sspai.com/post/84361)
@@ -43,8 +45,6 @@
 * [【2023-11-23】 派早报：Sam Altman 将返回 OpenAI 担任 CEO 等](https://sspai.com/post/84575)
 * [【2023-11-22】 少数派作者、爱 CrossFit 也爱吃甜食的克莱尔都装了啥](https://sspai.com/prime/story/zhuanglesha-231122)
 * [【2023-11-22】 满怀希望、认真生活：我对人生与价值的看法](https://sspai.com/post/83743)
-* [【2023-11-22】 独立小团队如何在开发时省钱省事？这是我们选择的技术架构](https://sspai.com/post/83468)
-* [【2023-11-22】 派早报：联发科天玑 8300 发布、「e 路畅通」小程序上线等](https://sspai.com/post/84551)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-11-24】 如果让你在相册里评出 2023 年有关自己的四张年度照片，每个季度各一张，你会选哪四张呢？](http://www.zhihu.com/question/631689980/answer/3301104438?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-20】 有没有一个永久储存数据的地方？](http://www.zhihu.com/question/21491409/answer/3294184079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-15】 如果三国演义中的人物同一个姓的为一个势力，哪几个姓有可能统一天下?](http://www.zhihu.com/question/619746650/answer/3193808841?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-15】 如果珠穆朗玛峰矗立在平原中或者城市中是什么画面呢？](http://www.zhihu.com/question/411106731/answer/3285596118?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-11-13】 浅谈西方美术史](http://zhuanlan.zhihu.com/p/654924503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-13】 建筑史上出现过的重大失误有哪些？](http://www.zhihu.com/question/24821237/answer/3282834959?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-13】 为什么说 3nm 是现在芯片制程的天花板？](http://www.zhihu.com/question/441612665/answer/3284871191?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-13】 你知道有哪些非常好但是未建成的建筑方案？](http://www.zhihu.com/question/37684218/answer/3287095547?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-24 05:11:45
+:alarm_clock: 更新时间: 2023-11-25 05:11:14

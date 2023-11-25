@@ -580,13 +580,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大套作品",
+                "link": "https://sspai.com/post/84612",
+                "published": "2023-11-24"
+            },
+            {
+                "title": "「黑五」值得买：不容错过的 App 和服务优惠",
+                "link": "https://sspai.com/post/84611",
+                "published": "2023-11-24"
+            },
             {
                 "title": "两场比赛，我在日本看到了更「纯粹」的足球",
                 "link": "https://sspai.com/post/84503",
@@ -16203,7 +16213,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -46659,6 +46669,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如果让你在相册里评出 2023 年有关自己的四张年度照片，每个季度各一张，你会选哪四张呢？",
+                "link": "http://www.zhihu.com/question/631689980/answer/3301104438?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-11-24"
+            },
+            {
                 "title": "有没有一个永久储存数据的地方？",
                 "link": "http://www.zhihu.com/question/21491409/answer/3294184079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-11-20"
@@ -54769,7 +54784,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
