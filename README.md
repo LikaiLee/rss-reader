@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-11-25】 Apple Log 个人创作者拍摄指南](https://sspai.com/prime/story/log-color-encoding-for-individual-creators)
+* [【2023-11-25】 一部 Shot on iPhone 的「少女幻想」：专访《delulu》创作团队](https://sspai.com/post/84616)
 * [【2023-11-24】 本周看什么 | 最近值得一看的一大套作品](https://sspai.com/post/84612)
 * [【2023-11-24】 「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/84611)
 * [【2023-11-24】 两场比赛，我在日本看到了更「纯粹」的足球](https://sspai.com/post/84503)
@@ -43,8 +45,6 @@
 * [【2023-11-23】 Mac 迁移指南：换新机后的任务清单](https://sspai.com/post/64301)
 * [【2023-11-23】 从 iPhone 15 Pro 谈起，聊聊 Apple 产品的体验、周边和生态](https://sspai.com/post/84552)
 * [【2023-11-23】 派早报：Sam Altman 将返回 OpenAI 担任 CEO 等](https://sspai.com/post/84575)
-* [【2023-11-22】 少数派作者、爱 CrossFit 也爱吃甜食的克莱尔都装了啥](https://sspai.com/prime/story/zhuanglesha-231122)
-* [【2023-11-22】 满怀希望、认真生活：我对人生与价值的看法](https://sspai.com/post/83743)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-25 05:11:14
+:alarm_clock: 更新时间: 2023-11-26 05:11:03

@@ -588,6 +588,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Apple Log 个人创作者拍摄指南",
+                "link": "https://sspai.com/prime/story/log-color-encoding-for-individual-creators",
+                "published": "2023-11-25"
+            },
+            {
+                "title": "一部 Shot on iPhone 的「少女幻想」：专访《delulu》创作团队",
+                "link": "https://sspai.com/post/84616",
+                "published": "2023-11-25"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的一大套作品",
                 "link": "https://sspai.com/post/84612",
                 "published": "2023-11-24"
@@ -54784,7 +54794,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
