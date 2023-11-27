@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-11-27】 与知识库对话、用嘴找笔记：Notion AI 对话模式体验](https://sspai.com/post/84597)
+* [【2023-11-27】 派早报：淘宝将双 12 改名「年终好价节」](https://sspai.com/post/84648)
+* [【2023-11-26】 发展了十几年，为什么智能手表的血压检测还像个摆设？](https://sspai.com/post/84622)
 * [【2023-11-25】 Apple Log 个人创作者拍摄指南](https://sspai.com/prime/story/log-color-encoding-for-individual-creators)
 * [【2023-11-25】 一部 Shot on iPhone 的「少女幻想」：专访《delulu》创作团队](https://sspai.com/post/84616)
 * [【2023-11-24】 本周看什么 | 最近值得一看的一大套作品](https://sspai.com/post/84612)
@@ -42,9 +45,6 @@
 * [【2023-11-24】 两场比赛，我在日本看到了更「纯粹」的足球](https://sspai.com/post/84503)
 * [【2023-11-24】 派早报：CHERRY 宣布推出全新 KC 200 MX 键盘](https://sspai.com/post/84599)
 * [【2023-11-23】 咖啡地图 | 中国咖啡的小透明：海南](https://sspai.com/post/84361)
-* [【2023-11-23】 Mac 迁移指南：换新机后的任务清单](https://sspai.com/post/64301)
-* [【2023-11-23】 从 iPhone 15 Pro 谈起，聊聊 Apple 产品的体验、周边和生态](https://sspai.com/post/84552)
-* [【2023-11-23】 派早报：Sam Altman 将返回 OpenAI 担任 CEO 等](https://sspai.com/post/84575)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-26 05:11:03
+:alarm_clock: 更新时间: 2023-11-27 05:12:11

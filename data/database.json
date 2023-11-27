@@ -588,6 +588,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "与知识库对话、用嘴找笔记：Notion AI 对话模式体验",
+                "link": "https://sspai.com/post/84597",
+                "published": "2023-11-27"
+            },
+            {
+                "title": "派早报：淘宝将双 12 改名「年终好价节」",
+                "link": "https://sspai.com/post/84648",
+                "published": "2023-11-27"
+            },
+            {
+                "title": "发展了十几年，为什么智能手表的血压检测还像个摆设？",
+                "link": "https://sspai.com/post/84622",
+                "published": "2023-11-26"
+            },
+            {
                 "title": "Apple Log 个人创作者拍摄指南",
                 "link": "https://sspai.com/prime/story/log-color-encoding-for-individual-creators",
                 "published": "2023-11-25"
@@ -16223,7 +16238,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
