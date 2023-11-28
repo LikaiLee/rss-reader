@@ -588,6 +588,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "关于流感和疫苗，你需要知道哪些信息？",
+                "link": "https://sspai.com/post/76945",
+                "published": "2023-11-28"
+            },
+            {
+                "title": "派早报：国家广播电视总局发布三项广播电视和网络视听行业标准等",
+                "link": "https://sspai.com/post/84677",
+                "published": "2023-11-28"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/84665",
+                "published": "2023-11-27"
+            },
+            {
+                "title": "家的风格｜精准狙击台面设计，我把「日咖夜酒」搬回了家",
+                "link": "https://sspai.com/post/82813",
+                "published": "2023-11-27"
+            },
+            {
                 "title": "与知识库对话、用嘴找笔记：Notion AI 对话模式体验",
                 "link": "https://sspai.com/post/84597",
                 "published": "2023-11-27"
@@ -16238,7 +16258,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,

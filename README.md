@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-28】 关于流感和疫苗，你需要知道哪些信息？](https://sspai.com/post/76945)
+* [【2023-11-28】 派早报：国家广播电视总局发布三项广播电视和网络视听行业标准等](https://sspai.com/post/84677)
+* [【2023-11-27】 派评 | 近期值得关注的 App](https://sspai.com/post/84665)
+* [【2023-11-27】 家的风格｜精准狙击台面设计，我把「日咖夜酒」搬回了家](https://sspai.com/post/82813)
 * [【2023-11-27】 与知识库对话、用嘴找笔记：Notion AI 对话模式体验](https://sspai.com/post/84597)
 * [【2023-11-27】 派早报：淘宝将双 12 改名「年终好价节」](https://sspai.com/post/84648)
 * [【2023-11-26】 发展了十几年，为什么智能手表的血压检测还像个摆设？](https://sspai.com/post/84622)
 * [【2023-11-25】 Apple Log 个人创作者拍摄指南](https://sspai.com/prime/story/log-color-encoding-for-individual-creators)
 * [【2023-11-25】 一部 Shot on iPhone 的「少女幻想」：专访《delulu》创作团队](https://sspai.com/post/84616)
 * [【2023-11-24】 本周看什么 | 最近值得一看的一大套作品](https://sspai.com/post/84612)
-* [【2023-11-24】 「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/84611)
-* [【2023-11-24】 两场比赛，我在日本看到了更「纯粹」的足球](https://sspai.com/post/84503)
-* [【2023-11-24】 派早报：CHERRY 宣布推出全新 KC 200 MX 键盘](https://sspai.com/post/84599)
-* [【2023-11-23】 咖啡地图 | 中国咖啡的小透明：海南](https://sspai.com/post/84361)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-27 05:12:11
+:alarm_clock: 更新时间: 2023-11-28 05:11:55
