@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-29】 日本浮生录 04：驶向日本最北，探寻北海道隐秘之境](https://sspai.com/post/84060)
+* [【2023-11-29】 派早报：华为发布智界 S7 等多款新品、Apple 公布 2023 年热门播客等](https://sspai.com/post/84706)
+* [【2023-11-28】 社区速递 022｜播客十年、旗舰苹果店以及实用的新玩意](https://sspai.com/post/84689)
+* [【2023-11-28】 iPhone 15 Pro Max 影像再升级，专业做「相机」的 Halide 怎么看？](https://sspai.com/post/84632)
 * [【2023-11-28】 关于流感和疫苗，你需要知道哪些信息？](https://sspai.com/post/76945)
 * [【2023-11-28】 派早报：国家广播电视总局发布三项广播电视和网络视听行业标准等](https://sspai.com/post/84677)
 * [【2023-11-27】 派评 | 近期值得关注的 App](https://sspai.com/post/84665)
 * [【2023-11-27】 家的风格｜精准狙击台面设计，我把「日咖夜酒」搬回了家](https://sspai.com/post/82813)
 * [【2023-11-27】 与知识库对话、用嘴找笔记：Notion AI 对话模式体验](https://sspai.com/post/84597)
 * [【2023-11-27】 派早报：淘宝将双 12 改名「年终好价节」](https://sspai.com/post/84648)
-* [【2023-11-26】 发展了十几年，为什么智能手表的血压检测还像个摆设？](https://sspai.com/post/84622)
-* [【2023-11-25】 Apple Log 个人创作者拍摄指南](https://sspai.com/prime/story/log-color-encoding-for-individual-creators)
-* [【2023-11-25】 一部 Shot on iPhone 的「少女幻想」：专访《delulu》创作团队](https://sspai.com/post/84616)
-* [【2023-11-24】 本周看什么 | 最近值得一看的一大套作品](https://sspai.com/post/84612)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-28 05:11:55
+:alarm_clock: 更新时间: 2023-11-29 05:11:51
