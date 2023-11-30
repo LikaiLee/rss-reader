@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-11-30】 派早报：红米发布 K70 系列、Google 公布 2023 年 Play Store 最佳榜单](https://sspai.com/post/84727)
+* [【2023-11-29】 在租来的房子里，我这样搭建怡人的光照](https://sspai.com/prime/story/lighting-design-for-rented-properties)
+* [【2023-11-29】 具透 | One UI 6.0 正式版更新，除了 Android 14 还有哪些新功能？](https://sspai.com/post/84715)
+* [【2023-11-29】 从创造需求到满足需求：漫谈我的 iPad 十年体验](https://sspai.com/post/84581)
 * [【2023-11-29】 日本浮生录 04：驶向日本最北，探寻北海道隐秘之境](https://sspai.com/post/84060)
 * [【2023-11-29】 派早报：华为发布智界 S7 等多款新品、Apple 公布 2023 年热门播客等](https://sspai.com/post/84706)
 * [【2023-11-28】 社区速递 022｜播客十年、旗舰苹果店以及实用的新玩意](https://sspai.com/post/84689)
 * [【2023-11-28】 iPhone 15 Pro Max 影像再升级，专业做「相机」的 Halide 怎么看？](https://sspai.com/post/84632)
 * [【2023-11-28】 关于流感和疫苗，你需要知道哪些信息？](https://sspai.com/post/76945)
 * [【2023-11-28】 派早报：国家广播电视总局发布三项广播电视和网络视听行业标准等](https://sspai.com/post/84677)
-* [【2023-11-27】 派评 | 近期值得关注的 App](https://sspai.com/post/84665)
-* [【2023-11-27】 家的风格｜精准狙击台面设计，我把「日咖夜酒」搬回了家](https://sspai.com/post/82813)
-* [【2023-11-27】 与知识库对话、用嘴找笔记：Notion AI 对话模式体验](https://sspai.com/post/84597)
-* [【2023-11-27】 派早报：淘宝将双 12 改名「年终好价节」](https://sspai.com/post/84648)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-11-29 05:11:51
+:alarm_clock: 更新时间: 2023-11-30 05:12:03
