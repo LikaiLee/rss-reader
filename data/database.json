@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 280 期）：机器点餐与宅文化",
+                "link": "http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html",
+                "published": "2023-12-01"
+            },
+            {
                 "title": "科技爱好者周刊（第 279 期）：网络社区的悲剧",
                 "link": "http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html",
                 "published": "2023-11-24"
@@ -580,13 +585,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "诗之所向，素履以往：我的浙东摩旅记录",
+                "link": "https://sspai.com/post/84702",
+                "published": "2023-12-01"
+            },
+            {
+                "title": "派早报：Apple 公布年度应用榜单、魅族推出系列新品等",
+                "link": "https://sspai.com/post/84759",
+                "published": "2023-12-01"
+            },
+            {
+                "title": "新玩意 166｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/84740",
+                "published": "2023-11-30"
+            },
+            {
+                "title": "本月玩什么 | 塔洛斯的法则 2、This Bed We Made、Thirsty Suitors、超级舞动 瓦力欧制造",
+                "link": "https://sspai.com/post/84726",
+                "published": "2023-11-30"
+            },
+            {
+                "title": "App Store Awards 2023 年度应用大奖出炉，我们和获奖开发者聊了聊",
+                "link": "https://sspai.com/post/84738",
+                "published": "2023-11-30"
+            },
             {
                 "title": "派早报：红米发布 K70 系列、Google 公布 2023 年 Play Store 最佳榜单",
                 "link": "https://sspai.com/post/84727",
@@ -16298,7 +16328,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -46754,6 +46784,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "职场年终策划｜2023职场洞察力，用数字和故事还原这一年",
+                "link": "http://zhuanlan.zhihu.com/p/669803861?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-01"
+            },
+            {
                 "title": "如果让你在相册里评出 2023 年有关自己的四张年度照片，每个季度各一张，你会选哪四张呢？",
                 "link": "http://www.zhihu.com/question/631689980/answer/3301104438?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-11-24"
@@ -54869,7 +54904,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
