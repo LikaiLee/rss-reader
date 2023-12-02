@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-12-01】 本周看什么 | 最近值得一看的一大册作品](https://sspai.com/post/84770)
+* [【2023-12-01】 打工人的第一台 HiFi 设备，竟然是一把机械键盘？](https://sspai.com/post/84763)
+* [【2023-12-01】 让折叠屏手机内屏交互更高效好用，OPPO Find N3 是如何呈现的？](https://sspai.com/post/84733)
 * [【2023-12-01】 诗之所向，素履以往：我的浙东摩旅记录](https://sspai.com/post/84702)
 * [【2023-12-01】 派早报：Apple 公布年度应用榜单、魅族推出系列新品等](https://sspai.com/post/84759)
 * [【2023-11-30】 新玩意 166｜少数派的编辑们最近买了啥？](https://sspai.com/post/84740)
@@ -42,9 +45,6 @@
 * [【2023-11-30】 App Store Awards 2023 年度应用大奖出炉，我们和获奖开发者聊了聊](https://sspai.com/post/84738)
 * [【2023-11-30】 派早报：红米发布 K70 系列、Google 公布 2023 年 Play Store 最佳榜单](https://sspai.com/post/84727)
 * [【2023-11-29】 在租来的房子里，我这样搭建怡人的光照](https://sspai.com/prime/story/lighting-design-for-rented-properties)
-* [【2023-11-29】 具透 | One UI 6.0 正式版更新，除了 Android 14 还有哪些新功能？](https://sspai.com/post/84715)
-* [【2023-11-29】 从创造需求到满足需求：漫谈我的 iPad 十年体验](https://sspai.com/post/84581)
-* [【2023-11-29】 日本浮生录 04：驶向日本最北，探寻北海道隐秘之境](https://sspai.com/post/84060)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-12-01】 定制家居中，该如何抓住未来的设计趋势？](http://www.zhihu.com/question/632247478/answer/3305879571?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-01】 职场年终策划｜2023职场洞察力，用数字和故事还原这一年](http://zhuanlan.zhihu.com/p/669803861?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-24】 如果让你在相册里评出 2023 年有关自己的四张年度照片，每个季度各一张，你会选哪四张呢？](http://www.zhihu.com/question/631689980/answer/3301104438?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-20】 有没有一个永久储存数据的地方？](http://www.zhihu.com/question/21491409/answer/3294184079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-11-14】 塞尔达：旷野之息游戏分析](http://zhuanlan.zhihu.com/p/660146514?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-13】 有奖活动 | 职场人，你心霾了吗](http://zhuanlan.zhihu.com/p/666640133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-13】 浅谈西方美术史](http://zhuanlan.zhihu.com/p/654924503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-13】 建筑史上出现过的重大失误有哪些？](http://www.zhihu.com/question/24821237/answer/3282834959?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-01 05:12:16
+:alarm_clock: 更新时间: 2023-12-02 05:11:09

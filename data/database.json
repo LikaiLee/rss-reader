@@ -585,13 +585,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大册作品",
+                "link": "https://sspai.com/post/84770",
+                "published": "2023-12-01"
+            },
+            {
+                "title": "打工人的第一台 HiFi 设备，竟然是一把机械键盘？",
+                "link": "https://sspai.com/post/84763",
+                "published": "2023-12-01"
+            },
+            {
+                "title": "让折叠屏手机内屏交互更高效好用，OPPO Find N3 是如何呈现的？",
+                "link": "https://sspai.com/post/84733",
+                "published": "2023-12-01"
+            },
             {
                 "title": "诗之所向，素履以往：我的浙东摩旅记录",
                 "link": "https://sspai.com/post/84702",
@@ -16328,7 +16343,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -46783,6 +46798,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "定制家居中，该如何抓住未来的设计趋势？",
+                "link": "http://www.zhihu.com/question/632247478/answer/3305879571?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-01"
+            },
             {
                 "title": "职场年终策划｜2023职场洞察力，用数字和故事还原这一年",
                 "link": "http://zhuanlan.zhihu.com/p/669803861?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
