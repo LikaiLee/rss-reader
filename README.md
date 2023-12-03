@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2023-12-02】 入门到精通：从今天开始成为感冒专家](https://sspai.com/post/84574)
 * [【2023-12-01】 本周看什么 | 最近值得一看的一大册作品](https://sspai.com/post/84770)
 * [【2023-12-01】 打工人的第一台 HiFi 设备，竟然是一把机械键盘？](https://sspai.com/post/84763)
 * [【2023-12-01】 让折叠屏手机内屏交互更高效好用，OPPO Find N3 是如何呈现的？](https://sspai.com/post/84733)
@@ -44,7 +45,6 @@
 * [【2023-11-30】 本月玩什么 | 塔洛斯的法则 2、This Bed We Made、Thirsty Suitors、超级舞动 瓦力欧制造](https://sspai.com/post/84726)
 * [【2023-11-30】 App Store Awards 2023 年度应用大奖出炉，我们和获奖开发者聊了聊](https://sspai.com/post/84738)
 * [【2023-11-30】 派早报：红米发布 K70 系列、Google 公布 2023 年 Play Store 最佳榜单](https://sspai.com/post/84727)
-* [【2023-11-29】 在租来的房子里，我这样搭建怡人的光照](https://sspai.com/prime/story/lighting-design-for-rented-properties)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-02 05:11:09
+:alarm_clock: 更新时间: 2023-12-03 05:11:09

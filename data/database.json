@@ -593,6 +593,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "入门到精通：从今天开始成为感冒专家",
+                "link": "https://sspai.com/post/84574",
+                "published": "2023-12-02"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的一大册作品",
                 "link": "https://sspai.com/post/84770",
                 "published": "2023-12-01"
@@ -16343,7 +16348,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -54924,7 +54929,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
