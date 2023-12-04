@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-12-04】 规划一次有针对性的健康检查：我的体检项目定制思路](https://sspai.com/post/84739)
+* [【2023-12-04】 派早报：工信部称 2G/3G 退网是必然选择](https://sspai.com/post/84815)
+* [【2023-12-03】 为了更包容和便利的未来——国际残疾人日专题](https://sspai.com/post/70270)
 * [【2023-12-02】 入门到精通：从今天开始成为感冒专家](https://sspai.com/post/84574)
 * [【2023-12-01】 本周看什么 | 最近值得一看的一大册作品](https://sspai.com/post/84770)
 * [【2023-12-01】 打工人的第一台 HiFi 设备，竟然是一把机械键盘？](https://sspai.com/post/84763)
@@ -42,9 +45,6 @@
 * [【2023-12-01】 诗之所向，素履以往：我的浙东摩旅记录](https://sspai.com/post/84702)
 * [【2023-12-01】 派早报：Apple 公布年度应用榜单、魅族推出系列新品等](https://sspai.com/post/84759)
 * [【2023-11-30】 新玩意 166｜少数派的编辑们最近买了啥？](https://sspai.com/post/84740)
-* [【2023-11-30】 本月玩什么 | 塔洛斯的法则 2、This Bed We Made、Thirsty Suitors、超级舞动 瓦力欧制造](https://sspai.com/post/84726)
-* [【2023-11-30】 App Store Awards 2023 年度应用大奖出炉，我们和获奖开发者聊了聊](https://sspai.com/post/84738)
-* [【2023-11-30】 派早报：红米发布 K70 系列、Google 公布 2023 年 Play Store 最佳榜单](https://sspai.com/post/84727)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-03 05:11:09
+:alarm_clock: 更新时间: 2023-12-04 05:12:13

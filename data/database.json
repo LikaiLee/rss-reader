@@ -593,6 +593,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "规划一次有针对性的健康检查：我的体检项目定制思路",
+                "link": "https://sspai.com/post/84739",
+                "published": "2023-12-04"
+            },
+            {
+                "title": "派早报：工信部称 2G/3G 退网是必然选择",
+                "link": "https://sspai.com/post/84815",
+                "published": "2023-12-04"
+            },
+            {
+                "title": "为了更包容和便利的未来——国际残疾人日专题",
+                "link": "https://sspai.com/post/70270",
+                "published": "2023-12-03"
+            },
+            {
                 "title": "入门到精通：从今天开始成为感冒专家",
                 "link": "https://sspai.com/post/84574",
                 "published": "2023-12-02"
@@ -16348,7 +16363,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
