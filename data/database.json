@@ -593,6 +593,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "适合的才是最好的，我的 EDC 好物分享",
+                "link": "https://sspai.com/post/84762",
+                "published": "2023-12-06"
+            },
+            {
+                "title": "派早报：一加 12 正式发布、黑鲨推出能量饮品等",
+                "link": "https://sspai.com/post/84873",
+                "published": "2023-12-06"
+            },
+            {
+                "title": "社区速递 023 | 妙控键盘平替、本周趣闻以及各种联名款",
+                "link": "https://sspai.com/post/84866",
+                "published": "2023-12-05"
+            },
+            {
+                "title": "爱咖啡，也爱苹果：听「三顿半」讲述风味故事",
+                "link": "https://sspai.com/post/84828",
+                "published": "2023-12-05"
+            },
+            {
                 "title": "巧用开源软件，零成本实现跨平台短信同步功能",
                 "link": "https://sspai.com/post/84621",
                 "published": "2023-12-05"
@@ -16388,7 +16408,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

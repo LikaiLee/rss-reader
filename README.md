@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-06】 适合的才是最好的，我的 EDC 好物分享](https://sspai.com/post/84762)
+* [【2023-12-06】 派早报：一加 12 正式发布、黑鲨推出能量饮品等](https://sspai.com/post/84873)
+* [【2023-12-05】 社区速递 023 | 妙控键盘平替、本周趣闻以及各种联名款](https://sspai.com/post/84866)
+* [【2023-12-05】 爱咖啡，也爱苹果：听「三顿半」讲述风味故事](https://sspai.com/post/84828)
 * [【2023-12-05】 巧用开源软件，零成本实现跨平台短信同步功能](https://sspai.com/post/84621)
 * [【2023-12-05】 派早报：深圳消费者权益保护条例公布，平衡球将登陆 Steam 等](https://sspai.com/post/84851)
 * [【2023-12-04】 派评 | 近期值得关注的 App](https://sspai.com/post/84841)
 * [【2023-12-04】 写给 TESTV 铁丝的一封信：我们为什么要办铁丝俱乐部？](https://sspai.com/post/84823)
 * [【2023-12-04】 全屋智能？来自建筑设计狗的不完全指北](https://sspai.com/post/84820)
 * [【2023-12-04】 规划一次有针对性的健康检查：我的体检项目定制思路](https://sspai.com/post/84739)
-* [【2023-12-04】 派早报：工信部称 2G/3G 退网是必然选择](https://sspai.com/post/84815)
-* [【2023-12-03】 为了更包容和便利的未来——国际残疾人日专题](https://sspai.com/post/70270)
-* [【2023-12-02】 入门到精通：从今天开始成为感冒专家](https://sspai.com/post/84574)
-* [【2023-12-01】 本周看什么 | 最近值得一看的一大册作品](https://sspai.com/post/84770)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-05 05:11:57
+:alarm_clock: 更新时间: 2023-12-06 05:12:00
