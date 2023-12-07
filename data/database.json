@@ -593,6 +593,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Things 没有 Windows 客户端怎么办？这是我的跨生态解决方案",
+                "link": "https://sspai.com/post/84834",
+                "published": "2023-12-07"
+            },
+            {
+                "title": "派早报：Google 推出 AI 模型 Gemini、Beeper 推出 Android 版 iMessage 等",
+                "link": "https://sspai.com/post/84900",
+                "published": "2023-12-07"
+            },
+            {
+                "title": "以 GRE 为例：如何背多背好英语单词",
+                "link": "https://sspai.com/post/84835",
+                "published": "2023-12-06"
+            },
+            {
+                "title": "播客 | 聊聊 Apple 产品、生态和线下店设计",
+                "link": "https://sspai.com/post/84837",
+                "published": "2023-12-06"
+            },
+            {
                 "title": "适合的才是最好的，我的 EDC 好物分享",
                 "link": "https://sspai.com/post/84762",
                 "published": "2023-12-06"
@@ -46864,6 +46884,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2023 年有哪些取暖器值得推荐，好的取暖器要怎么选择？",
+                "link": "http://www.zhihu.com/question/627372825/answer/3315588076?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-06"
+            },
+            {
                 "title": "定制家居中，该如何抓住未来的设计趋势？",
                 "link": "http://www.zhihu.com/question/632247478/answer/3305879571?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-12-01"
@@ -54989,7 +55014,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

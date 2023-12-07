@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-07】 Things 没有 Windows 客户端怎么办？这是我的跨生态解决方案](https://sspai.com/post/84834)
+* [【2023-12-07】 派早报：Google 推出 AI 模型 Gemini、Beeper 推出 Android 版 iMessage 等](https://sspai.com/post/84900)
+* [【2023-12-06】 以 GRE 为例：如何背多背好英语单词](https://sspai.com/post/84835)
+* [【2023-12-06】 播客 | 聊聊 Apple 产品、生态和线下店设计](https://sspai.com/post/84837)
 * [【2023-12-06】 适合的才是最好的，我的 EDC 好物分享](https://sspai.com/post/84762)
 * [【2023-12-06】 派早报：一加 12 正式发布、黑鲨推出能量饮品等](https://sspai.com/post/84873)
 * [【2023-12-05】 社区速递 023 | 妙控键盘平替、本周趣闻以及各种联名款](https://sspai.com/post/84866)
 * [【2023-12-05】 爱咖啡，也爱苹果：听「三顿半」讲述风味故事](https://sspai.com/post/84828)
 * [【2023-12-05】 巧用开源软件，零成本实现跨平台短信同步功能](https://sspai.com/post/84621)
 * [【2023-12-05】 派早报：深圳消费者权益保护条例公布，平衡球将登陆 Steam 等](https://sspai.com/post/84851)
-* [【2023-12-04】 派评 | 近期值得关注的 App](https://sspai.com/post/84841)
-* [【2023-12-04】 写给 TESTV 铁丝的一封信：我们为什么要办铁丝俱乐部？](https://sspai.com/post/84823)
-* [【2023-12-04】 全屋智能？来自建筑设计狗的不完全指北](https://sspai.com/post/84820)
-* [【2023-12-04】 规划一次有针对性的健康检查：我的体检项目定制思路](https://sspai.com/post/84739)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-12-06】 2023 年有哪些取暖器值得推荐，好的取暖器要怎么选择？](http://www.zhihu.com/question/627372825/answer/3315588076?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-01】 定制家居中，该如何抓住未来的设计趋势？](http://www.zhihu.com/question/632247478/answer/3305879571?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-01】 职场年终策划｜2023职场洞察力，用数字和故事还原这一年](http://zhuanlan.zhihu.com/p/669803861?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-24】 如果让你在相册里评出 2023 年有关自己的四张年度照片，每个季度各一张，你会选哪四张呢？](http://www.zhihu.com/question/631689980/answer/3301104438?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-11-14】 《城市天际线2》初步感受，兼对于模拟城市类游戏的思考](http://zhuanlan.zhihu.com/p/666199224?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-14】 塞尔达：旷野之息游戏分析](http://zhuanlan.zhihu.com/p/660146514?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-13】 有奖活动 | 职场人，你心霾了吗](http://zhuanlan.zhihu.com/p/666640133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-13】 浅谈西方美术史](http://zhuanlan.zhihu.com/p/654924503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-06 05:12:00
+:alarm_clock: 更新时间: 2023-12-07 05:12:21
