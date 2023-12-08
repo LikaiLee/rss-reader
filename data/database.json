@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 281 期）：新基建的政策选择",
+                "link": "http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html",
+                "published": "2023-12-08"
+            },
+            {
                 "title": "科技爱好者周刊（第 280 期）：机器点餐与宅文化",
                 "link": "http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html",
                 "published": "2023-12-01"
@@ -585,13 +590,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "三年后，我用「轻薄」重新认识 PS5",
+                "link": "https://sspai.com/post/84916",
+                "published": "2023-12-08"
+            },
+            {
+                "title": "派早报：realme 发布真我 GT5 Pro 手机等",
+                "link": "https://sspai.com/post/84918",
+                "published": "2023-12-08"
+            },
+            {
+                "title": "几分靠打拼、几分是注定？借统计学探寻收入的秘密",
+                "link": "https://sspai.com/post/84836",
+                "published": "2023-12-07"
+            },
+            {
+                "title": "不买可以先收藏 12：中央空调选购指南",
+                "link": "https://sspai.com/post/84782",
+                "published": "2023-12-07"
+            },
             {
                 "title": "Things 没有 Windows 客户端怎么办？这是我的跨生态解决方案",
                 "link": "https://sspai.com/post/84834",
@@ -46884,6 +46909,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "大家有什么好的副业推荐？",
+                "link": "http://zhuanlan.zhihu.com/p/635532252?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-07"
+            },
+            {
+                "title": "以前靠信息不对称赚钱，现在靠什么赚钱？",
+                "link": "http://www.zhihu.com/question/268481226/answer/3287552143?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-07"
+            },
+            {
+                "title": "我是最近才开始学剪辑，因为我是自学，所以不知道如何开始，或者接下来该做什么？请问如何学习视频剪辑？",
+                "link": "http://www.zhihu.com/question/49034369/answer/2603482012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-07"
+            },
+            {
+                "title": "网上影视后期培训班靠谱吗？真的能提供单子吗？",
+                "link": "http://www.zhihu.com/question/547093599/answer/2664853210?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-07"
+            },
+            {
+                "title": "大家都有哪些比较靠谱的兼职或副业？",
+                "link": "http://www.zhihu.com/question/388959290/answer/3287526261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-07"
+            },
+            {
+                "title": "2024 春晚吉祥物「龙辰辰」正式发布，有哪些设计亮点？其元素有何文化渊源与传承？",
+                "link": "http://www.zhihu.com/question/633547293/answer/3315745571?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-07"
+            },
+            {
                 "title": "2023 年有哪些取暖器值得推荐，好的取暖器要怎么选择？",
                 "link": "http://www.zhihu.com/question/627372825/answer/3315588076?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-12-06"
@@ -55014,7 +55069,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 6
     },
     {
         "id": 4,

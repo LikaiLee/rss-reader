@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+6】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-12-08】 科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)
 * [【2023-12-01】 科技爱好者周刊（第 280 期）：机器点餐与宅文化](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html)
 * [【2023-11-24】 科技爱好者周刊（第 279 期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)
 * [【2023-11-17】 科技爱好者周刊（第 278 期）：棘手的 AI 版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html)
@@ -25,7 +26,6 @@
 * [【2023-10-20】 科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html)
 * [【2023-10-13】 科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html)
 * [【2023-09-22】 科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)
-* [【2023-09-15】 科技爱好者周刊（第 271 期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-08】 三年后，我用「轻薄」重新认识 PS5](https://sspai.com/post/84916)
+* [【2023-12-08】 派早报：realme 发布真我 GT5 Pro 手机等](https://sspai.com/post/84918)
+* [【2023-12-07】 几分靠打拼、几分是注定？借统计学探寻收入的秘密](https://sspai.com/post/84836)
+* [【2023-12-07】 不买可以先收藏 12：中央空调选购指南](https://sspai.com/post/84782)
 * [【2023-12-07】 Things 没有 Windows 客户端怎么办？这是我的跨生态解决方案](https://sspai.com/post/84834)
 * [【2023-12-07】 派早报：Google 推出 AI 模型 Gemini、Beeper 推出 Android 版 iMessage 等](https://sspai.com/post/84900)
 * [【2023-12-06】 以 GRE 为例：如何背多背好英语单词](https://sspai.com/post/84835)
 * [【2023-12-06】 播客 | 聊聊 Apple 产品、生态和线下店设计](https://sspai.com/post/84837)
 * [【2023-12-06】 适合的才是最好的，我的 EDC 好物分享](https://sspai.com/post/84762)
 * [【2023-12-06】 派早报：一加 12 正式发布、黑鲨推出能量饮品等](https://sspai.com/post/84873)
-* [【2023-12-05】 社区速递 023 | 妙控键盘平替、本周趣闻以及各种联名款](https://sspai.com/post/84866)
-* [【2023-12-05】 爱咖啡，也爱苹果：听「三顿半」讲述风味故事](https://sspai.com/post/84828)
-* [【2023-12-05】 巧用开源软件，零成本实现跨平台短信同步功能](https://sspai.com/post/84621)
-* [【2023-12-05】 派早报：深圳消费者权益保护条例公布，平衡球将登陆 Steam 等](https://sspai.com/post/84851)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-12-07】 大家有什么好的副业推荐？](http://zhuanlan.zhihu.com/p/635532252?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-07】 以前靠信息不对称赚钱，现在靠什么赚钱？](http://www.zhihu.com/question/268481226/answer/3287552143?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-07】 我是最近才开始学剪辑，因为我是自学，所以不知道如何开始，或者接下来该做什么？请问如何学习视频剪辑？](http://www.zhihu.com/question/49034369/answer/2603482012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-07】 网上影视后期培训班靠谱吗？真的能提供单子吗？](http://www.zhihu.com/question/547093599/answer/2664853210?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-07】 大家都有哪些比较靠谱的兼职或副业？](http://www.zhihu.com/question/388959290/answer/3287526261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-07】 2024 春晚吉祥物「龙辰辰」正式发布，有哪些设计亮点？其元素有何文化渊源与传承？](http://www.zhihu.com/question/633547293/answer/3315745571?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-06】 2023 年有哪些取暖器值得推荐，好的取暖器要怎么选择？](http://www.zhihu.com/question/627372825/answer/3315588076?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-01】 定制家居中，该如何抓住未来的设计趋势？](http://www.zhihu.com/question/632247478/answer/3305879571?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-01】 职场年终策划｜2023职场洞察力，用数字和故事还原这一年](http://zhuanlan.zhihu.com/p/669803861?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-11-24】 如果让你在相册里评出 2023 年有关自己的四张年度照片，每个季度各一张，你会选哪四张呢？](http://www.zhihu.com/question/631689980/answer/3301104438?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-20】 有没有一个永久储存数据的地方？](http://www.zhihu.com/question/21491409/answer/3294184079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-15】 如果三国演义中的人物同一个姓的为一个势力，哪几个姓有可能统一天下?](http://www.zhihu.com/question/619746650/answer/3193808841?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-15】 如果珠穆朗玛峰矗立在平原中或者城市中是什么画面呢？](http://www.zhihu.com/question/411106731/answer/3285596118?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-14】 《城市天际线2》初步感受，兼对于模拟城市类游戏的思考](http://zhuanlan.zhihu.com/p/666199224?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-14】 塞尔达：旷野之息游戏分析](http://zhuanlan.zhihu.com/p/660146514?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-13】 有奖活动 | 职场人，你心霾了吗](http://zhuanlan.zhihu.com/p/666640133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-07 05:12:21
+:alarm_clock: 更新时间: 2023-12-08 05:11:57
