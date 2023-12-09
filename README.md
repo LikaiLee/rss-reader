@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+6】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-09】 技术是条不息的河流，而 ChatGPT 将会如何影响编程？](https://sspai.com/post/84803)
+* [【2023-12-08】 2023 年末，再谈 Safari 竞争力现状](https://sspai.com/prime/story/safari-competitiveness-late-2023)
+* [【2023-12-08】 本周看什么 | 最近值得一看的一大窝作品](https://sspai.com/post/84930)
+* [【2023-12-08】 播客 | 对话白描开发者 Tolecen：一个千万级独立 App 的诞生](https://sspai.com/post/84838)
+* [【2023-12-08】 给还在下一根和最后一根之间挣扎的人：一位烟民的戒烟自述](https://sspai.com/post/84764)
 * [【2023-12-08】 三年后，我用「轻薄」重新认识 PS5](https://sspai.com/post/84916)
 * [【2023-12-08】 派早报：realme 发布真我 GT5 Pro 手机等](https://sspai.com/post/84918)
 * [【2023-12-07】 几分靠打拼、几分是注定？借统计学探寻收入的秘密](https://sspai.com/post/84836)
 * [【2023-12-07】 不买可以先收藏 12：中央空调选购指南](https://sspai.com/post/84782)
 * [【2023-12-07】 Things 没有 Windows 客户端怎么办？这是我的跨生态解决方案](https://sspai.com/post/84834)
-* [【2023-12-07】 派早报：Google 推出 AI 模型 Gemini、Beeper 推出 Android 版 iMessage 等](https://sspai.com/post/84900)
-* [【2023-12-06】 以 GRE 为例：如何背多背好英语单词](https://sspai.com/post/84835)
-* [【2023-12-06】 播客 | 聊聊 Apple 产品、生态和线下店设计](https://sspai.com/post/84837)
-* [【2023-12-06】 适合的才是最好的，我的 EDC 好物分享](https://sspai.com/post/84762)
-* [【2023-12-06】 派早报：一加 12 正式发布、黑鲨推出能量饮品等](https://sspai.com/post/84873)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-08 05:11:57
+:alarm_clock: 更新时间: 2023-12-09 05:11:16

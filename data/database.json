@@ -590,13 +590,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "技术是条不息的河流，而 ChatGPT 将会如何影响编程？",
+                "link": "https://sspai.com/post/84803",
+                "published": "2023-12-09"
+            },
+            {
+                "title": "2023 年末，再谈 Safari 竞争力现状",
+                "link": "https://sspai.com/prime/story/safari-competitiveness-late-2023",
+                "published": "2023-12-08"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大窝作品",
+                "link": "https://sspai.com/post/84930",
+                "published": "2023-12-08"
+            },
+            {
+                "title": "播客 | 对话白描开发者 Tolecen：一个千万级独立 App 的诞生",
+                "link": "https://sspai.com/post/84838",
+                "published": "2023-12-08"
+            },
+            {
+                "title": "给还在下一根和最后一根之间挣扎的人：一位烟民的戒烟自述",
+                "link": "https://sspai.com/post/84764",
+                "published": "2023-12-08"
+            },
             {
                 "title": "三年后，我用「轻薄」重新认识 PS5",
                 "link": "https://sspai.com/post/84916",
@@ -16453,7 +16478,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -55069,7 +55094,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 0
     },
     {
         "id": 4,
