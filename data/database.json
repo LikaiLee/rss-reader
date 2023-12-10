@@ -598,6 +598,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "少数派的年终好价节：除了优惠满赠还有周边新品",
+                "link": "https://sspai.com/post/84926",
+                "published": "2023-12-09"
+            },
+            {
+                "title": "App+1 | AeroSpace：消除窗口重叠，世界属于平铺",
+                "link": "https://sspai.com/post/84935",
+                "published": "2023-12-09"
+            },
+            {
                 "title": "技术是条不息的河流，而 ChatGPT 将会如何影响编程？",
                 "link": "https://sspai.com/post/84803",
                 "published": "2023-12-09"
@@ -16478,7 +16488,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
