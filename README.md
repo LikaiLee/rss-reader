@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-12-11】 告别折腾，获得稳定生产力：我的效率工具观](https://sspai.com/post/84938)
+* [【2023-12-11】 派早报：苹果封杀 iMessage 兼容应用 Beeper Mini](https://sspai.com/post/84962)
 * [【2023-12-09】 少数派的年终好价节：除了优惠满赠还有周边新品](https://sspai.com/post/84926)
 * [【2023-12-09】 App+1 | AeroSpace：消除窗口重叠，世界属于平铺](https://sspai.com/post/84935)
 * [【2023-12-09】 技术是条不息的河流，而 ChatGPT 将会如何影响编程？](https://sspai.com/post/84803)
@@ -43,8 +45,6 @@
 * [【2023-12-08】 播客 | 对话白描开发者 Tolecen：一个千万级独立 App 的诞生](https://sspai.com/post/84838)
 * [【2023-12-08】 给还在下一根和最后一根之间挣扎的人：一位烟民的戒烟自述](https://sspai.com/post/84764)
 * [【2023-12-08】 三年后，我用「轻薄」重新认识 PS5](https://sspai.com/post/84916)
-* [【2023-12-08】 派早报：realme 发布真我 GT5 Pro 手机等](https://sspai.com/post/84918)
-* [【2023-12-07】 几分靠打拼、几分是注定？借统计学探寻收入的秘密](https://sspai.com/post/84836)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-10 05:11:16
+:alarm_clock: 更新时间: 2023-12-11 05:12:17
