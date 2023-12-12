@@ -598,6 +598,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "有奖征文 | 为负面情绪找个出口，「放轻松」这件事其实很重要",
+                "link": "https://sspai.com/post/84979",
+                "published": "2023-12-12"
+            },
+            {
+                "title": "派早报：外卖 App 个人信息收集情况测试报告出炉等",
+                "link": "https://sspai.com/post/84995",
+                "published": "2023-12-12"
+            },
+            {
+                "title": "处理器简史｜PowerPC 10：烽火连天 颓势初显（下）",
+                "link": "https://sspai.com/prime/story/ppc-history-10",
+                "published": "2023-12-11"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/84981",
+                "published": "2023-12-11"
+            },
+            {
+                "title": "何为 Bento 式布局，怎么生产力工具网站都在用？",
+                "link": "https://sspai.com/post/84628",
+                "published": "2023-12-11"
+            },
+            {
                 "title": "告别折腾，获得稳定生产力：我的效率工具观",
                 "link": "https://sspai.com/post/84938",
                 "published": "2023-12-11"
@@ -16498,7 +16523,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -46954,6 +46979,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "觉得自己画的太丑了，画不下去怎么办?",
+                "link": "http://www.zhihu.com/question/460043107/answer/2969589390?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-12"
+            },
+            {
+                "title": "写小说是否有捷径可走?",
+                "link": "http://www.zhihu.com/question/597106509/answer/3217821152?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-12"
+            },
+            {
                 "title": "大家有什么好的副业推荐？",
                 "link": "http://zhuanlan.zhihu.com/p/635532252?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-12-07"
@@ -55114,7 +55149,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,

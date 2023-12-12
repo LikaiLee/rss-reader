@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-12】 有奖征文 | 为负面情绪找个出口，「放轻松」这件事其实很重要](https://sspai.com/post/84979)
+* [【2023-12-12】 派早报：外卖 App 个人信息收集情况测试报告出炉等](https://sspai.com/post/84995)
+* [【2023-12-11】 处理器简史｜PowerPC 10：烽火连天 颓势初显（下）](https://sspai.com/prime/story/ppc-history-10)
+* [【2023-12-11】 派评 | 近期值得关注的 App](https://sspai.com/post/84981)
+* [【2023-12-11】 何为 Bento 式布局，怎么生产力工具网站都在用？](https://sspai.com/post/84628)
 * [【2023-12-11】 告别折腾，获得稳定生产力：我的效率工具观](https://sspai.com/post/84938)
 * [【2023-12-11】 派早报：苹果封杀 iMessage 兼容应用 Beeper Mini](https://sspai.com/post/84962)
 * [【2023-12-09】 少数派的年终好价节：除了优惠满赠还有周边新品](https://sspai.com/post/84926)
 * [【2023-12-09】 App+1 | AeroSpace：消除窗口重叠，世界属于平铺](https://sspai.com/post/84935)
 * [【2023-12-09】 技术是条不息的河流，而 ChatGPT 将会如何影响编程？](https://sspai.com/post/84803)
-* [【2023-12-08】 2023 年末，再谈 Safari 竞争力现状](https://sspai.com/prime/story/safari-competitiveness-late-2023)
-* [【2023-12-08】 本周看什么 | 最近值得一看的一大窝作品](https://sspai.com/post/84930)
-* [【2023-12-08】 播客 | 对话白描开发者 Tolecen：一个千万级独立 App 的诞生](https://sspai.com/post/84838)
-* [【2023-12-08】 给还在下一根和最后一根之间挣扎的人：一位烟民的戒烟自述](https://sspai.com/post/84764)
-* [【2023-12-08】 三年后，我用「轻薄」重新认识 PS5](https://sspai.com/post/84916)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2023-12-12】 觉得自己画的太丑了，画不下去怎么办?](http://www.zhihu.com/question/460043107/answer/2969589390?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-12】 写小说是否有捷径可走?](http://www.zhihu.com/question/597106509/answer/3217821152?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-07】 大家有什么好的副业推荐？](http://zhuanlan.zhihu.com/p/635532252?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-07】 以前靠信息不对称赚钱，现在靠什么赚钱？](http://www.zhihu.com/question/268481226/answer/3287552143?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-07】 我是最近才开始学剪辑，因为我是自学，所以不知道如何开始，或者接下来该做什么？请问如何学习视频剪辑？](http://www.zhihu.com/question/49034369/answer/2603482012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2023-12-07】 2024 春晚吉祥物「龙辰辰」正式发布，有哪些设计亮点？其元素有何文化渊源与传承？](http://www.zhihu.com/question/633547293/answer/3315745571?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-06】 2023 年有哪些取暖器值得推荐，好的取暖器要怎么选择？](http://www.zhihu.com/question/627372825/answer/3315588076?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-01】 定制家居中，该如何抓住未来的设计趋势？](http://www.zhihu.com/question/632247478/answer/3305879571?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-01】 职场年终策划｜2023职场洞察力，用数字和故事还原这一年](http://zhuanlan.zhihu.com/p/669803861?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-11-24】 如果让你在相册里评出 2023 年有关自己的四张年度照片，每个季度各一张，你会选哪四张呢？](http://www.zhihu.com/question/631689980/answer/3301104438?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-11 05:12:17
+:alarm_clock: 更新时间: 2023-12-12 05:12:08
