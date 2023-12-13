@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-13】 品尝「大鸽饭」之余，我顺带研究了复古设计和岭南文化](https://sspai.com/post/84928)
+* [【2023-12-12】 派早报：E3 将永久停办、Google 败诉 Epic Games 等](https://sspai.com/post/85034)
+* [【2023-12-12】 社区速递 024 | NotebookLM、AI 整活以及绍兴之旅](https://sspai.com/post/85007)
+* [【2023-12-12】 TESTV 与少数派，理想主义团队的创业怎么就这么难？](https://sspai.com/post/84563)
+* [【2023-12-12】 讨论 TGA 和年度游戏时，我们还可以聊些什么？](https://sspai.com/post/84976)
 * [【2023-12-12】 有奖征文 | 为负面情绪找个出口，「放轻松」这件事其实很重要](https://sspai.com/post/84979)
 * [【2023-12-12】 派早报：外卖 App 个人信息收集情况测试报告出炉等](https://sspai.com/post/84995)
 * [【2023-12-11】 处理器简史｜PowerPC 10：烽火连天 颓势初显（下）](https://sspai.com/prime/story/ppc-history-10)
 * [【2023-12-11】 派评 | 近期值得关注的 App](https://sspai.com/post/84981)
 * [【2023-12-11】 何为 Bento 式布局，怎么生产力工具网站都在用？](https://sspai.com/post/84628)
-* [【2023-12-11】 告别折腾，获得稳定生产力：我的效率工具观](https://sspai.com/post/84938)
-* [【2023-12-11】 派早报：苹果封杀 iMessage 兼容应用 Beeper Mini](https://sspai.com/post/84962)
-* [【2023-12-09】 少数派的年终好价节：除了优惠满赠还有周边新品](https://sspai.com/post/84926)
-* [【2023-12-09】 App+1 | AeroSpace：消除窗口重叠，世界属于平铺](https://sspai.com/post/84935)
-* [【2023-12-09】 技术是条不息的河流，而 ChatGPT 将会如何影响编程？](https://sspai.com/post/84803)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-12 05:12:08
+:alarm_clock: 更新时间: 2023-12-13 05:12:00
