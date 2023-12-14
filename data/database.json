@@ -598,6 +598,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "二十年后拆掉重建，这是我们「没有风格」的新家",
+                "link": "https://sspai.com/post/85035",
+                "published": "2023-12-14"
+            },
+            {
+                "title": "派早报：Google Bard 提升 YouTube 解析能力、OmniFocus 4 发布等",
+                "link": "https://sspai.com/post/85058",
+                "published": "2023-12-14"
+            },
+            {
+                "title": "牙刷牙线冲牙器，怎么用才是正确的口腔保健？",
+                "link": "https://sspai.com/post/85039",
+                "published": "2023-12-13"
+            },
+            {
+                "title": "手记 app 上线、操作按钮新功能…… iOS 17.2 值得关注的新特性",
+                "link": "https://sspai.com/post/85032",
+                "published": "2023-12-13"
+            },
+            {
                 "title": "品尝「大鸽饭」之余，我顺带研究了复古设计和岭南文化",
                 "link": "https://sspai.com/post/84928",
                 "published": "2023-12-13"
@@ -16548,7 +16568,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
