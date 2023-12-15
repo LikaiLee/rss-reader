@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-12-15】 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)
 * [【2023-12-08】 科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)
 * [【2023-12-01】 科技爱好者周刊（第 280 期）：机器点餐与宅文化](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html)
 * [【2023-11-24】 科技爱好者周刊（第 279 期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)
@@ -25,7 +26,6 @@
 * [【2023-10-27】 科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html)
 * [【2023-10-20】 科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html)
 * [【2023-10-13】 科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html)
-* [【2023-09-22】 科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-15】 小米 14 Pro 上手体验](https://sspai.com/post/84510)
+* [【2023-12-15】 派早报：宝马集团在上海获 L3 级自动驾驶路测牌照等](https://sspai.com/post/85089)
+* [【2023-12-14】 专做 Watch 表盘的小红书博主 BLACK666 都装了啥](https://sspai.com/prime/story/zhuanglesha-231214)
+* [【2023-12-14】 新玩意 167｜少数派的编辑们最近买了啥？](https://sspai.com/post/85074)
+* [【2023-12-14】 App+1 | 易编辑、好管理：你的下一份简历可以试试 Typst](https://sspai.com/post/85051)
 * [【2023-12-14】 二十年后拆掉重建，这是我们「没有风格」的新家](https://sspai.com/post/85035)
 * [【2023-12-14】 派早报：Google Bard 提升 YouTube 解析能力、OmniFocus 4 发布等](https://sspai.com/post/85058)
 * [【2023-12-13】 牙刷牙线冲牙器，怎么用才是正确的口腔保健？](https://sspai.com/post/85039)
 * [【2023-12-13】 手记 app 上线、操作按钮新功能…… iOS 17.2 值得关注的新特性](https://sspai.com/post/85032)
 * [【2023-12-13】 品尝「大鸽饭」之余，我顺带研究了复古设计和岭南文化](https://sspai.com/post/84928)
-* [【2023-12-12】 派早报：E3 将永久停办、Google 败诉 Epic Games 等](https://sspai.com/post/85034)
-* [【2023-12-12】 社区速递 024 | NotebookLM、AI 整活以及绍兴之旅](https://sspai.com/post/85007)
-* [【2023-12-12】 TESTV 与少数派，理想主义团队的创业怎么就这么难？](https://sspai.com/post/84563)
-* [【2023-12-12】 讨论 TGA 和年度游戏时，我们还可以聊些什么？](https://sspai.com/post/84976)
-* [【2023-12-12】 有奖征文 | 为负面情绪找个出口，「放轻松」这件事其实很重要](https://sspai.com/post/84979)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-14 05:12:03
+:alarm_clock: 更新时间: 2023-12-15 05:11:58
