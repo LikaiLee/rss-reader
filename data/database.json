@@ -603,6 +603,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | Windows 连接特定 WiFi 自动静音",
+                "link": "https://sspai.com/post/84576",
+                "published": "2023-12-19"
+            },
+            {
+                "title": "派早报：Adobe 放弃收购 Figma、微软 Copilot 被指错误率过高等",
+                "link": "https://sspai.com/post/85166",
+                "published": "2023-12-19"
+            },
+            {
+                "title": "[送码] 派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/85158",
+                "published": "2023-12-18"
+            },
+            {
+                "title": "探寻 Apple 的都市传说：Store 也有「Pro 版」？",
+                "link": "https://sspai.com/post/84561",
+                "published": "2023-12-18"
+            },
+            {
                 "title": "抛开品牌情绪，小米 14 Pro 的体验究竟如何？",
                 "link": "https://sspai.com/post/85064",
                 "published": "2023-12-18"
@@ -16628,7 +16648,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,

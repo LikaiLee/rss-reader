@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-19】 一日一技 | Windows 连接特定 WiFi 自动静音](https://sspai.com/post/84576)
+* [【2023-12-19】 派早报：Adobe 放弃收购 Figma、微软 Copilot 被指错误率过高等](https://sspai.com/post/85166)
+* [【2023-12-18】 [送码] 派评 | 近期值得关注的 App](https://sspai.com/post/85158)
+* [【2023-12-18】 探寻 Apple 的都市传说：Store 也有「Pro 版」？](https://sspai.com/post/84561)
 * [【2023-12-18】 抛开品牌情绪，小米 14 Pro 的体验究竟如何？](https://sspai.com/post/85064)
 * [【2023-12-18】 派早报：字节跳动回应被 OpenAI 停用账户](https://sspai.com/post/85139)
 * [【2023-12-17】 放轻松 | 解码压力的源头，你该如何与它和谐相处？](https://sspai.com/post/85094)
 * [【2023-12-16】 来自骁龙 8 Gen 3 的强心剂：小米 14 Pro 综合体验](https://sspai.com/post/84805)
 * [【2023-12-15】 本周看什么 | 最近值得一看的一大列作品](https://sspai.com/post/85106)
 * [【2023-12-15】 一站式看完各平台文献推送，我是这样折腾的](https://sspai.com/post/84478)
-* [【2023-12-15】 小米 14 Pro 上手体验](https://sspai.com/post/84510)
-* [【2023-12-15】 派早报：宝马集团在上海获 L3 级自动驾驶路测牌照等](https://sspai.com/post/85089)
-* [【2023-12-14】 专做 Watch 表盘的小红书博主 BLACK666 都装了啥](https://sspai.com/prime/story/zhuanglesha-231214)
-* [【2023-12-14】 新玩意 167｜少数派的编辑们最近买了啥？](https://sspai.com/post/85074)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-18 05:12:35
+:alarm_clock: 更新时间: 2023-12-19 05:11:54
