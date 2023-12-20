@@ -603,6 +603,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 妙用终端清理 macOS 启动台顽固图标",
+                "link": "https://sspai.com/post/85136",
+                "published": "2023-12-20"
+            },
+            {
+                "title": "派早报：努比亚 Z60 Ultra 发布、Google 公布针对 反垄断诉讼的和解措施等",
+                "link": "https://sspai.com/post/85200",
+                "published": "2023-12-19"
+            },
+            {
+                "title": "Android 玩机社区正在走向消亡",
+                "link": "https://sspai.com/prime/story/play-integrity-and-the-demise-of-the-android-mod-community",
+                "published": "2023-12-19"
+            },
+            {
+                "title": "社区速递 025 | 刘海工具、百元耳机以及千奇百怪的放松姿势",
+                "link": "https://sspai.com/post/85179",
+                "published": "2023-12-19"
+            },
+            {
+                "title": "经典再现 | 从寻呼时代穿越到 2023，我们「重制」了曾影响世界的 BB 机",
+                "link": "https://sspai.com/post/85047",
+                "published": "2023-12-19"
+            },
+            {
+                "title": "我的第三台电车，为什么选择蔚来 ES6？",
+                "link": "https://sspai.com/post/85055",
+                "published": "2023-12-19"
+            },
+            {
                 "title": "一日一技 | Windows 连接特定 WiFi 自动静音",
                 "link": "https://sspai.com/post/84576",
                 "published": "2023-12-19"
@@ -16648,7 +16678,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,

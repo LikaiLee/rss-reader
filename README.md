@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-20】 一日一技 | 妙用终端清理 macOS 启动台顽固图标](https://sspai.com/post/85136)
+* [【2023-12-19】 派早报：努比亚 Z60 Ultra 发布、Google 公布针对 反垄断诉讼的和解措施等](https://sspai.com/post/85200)
+* [【2023-12-19】 Android 玩机社区正在走向消亡](https://sspai.com/prime/story/play-integrity-and-the-demise-of-the-android-mod-community)
+* [【2023-12-19】 社区速递 025 | 刘海工具、百元耳机以及千奇百怪的放松姿势](https://sspai.com/post/85179)
+* [【2023-12-19】 经典再现 | 从寻呼时代穿越到 2023，我们「重制」了曾影响世界的 BB 机](https://sspai.com/post/85047)
+* [【2023-12-19】 我的第三台电车，为什么选择蔚来 ES6？](https://sspai.com/post/85055)
 * [【2023-12-19】 一日一技 | Windows 连接特定 WiFi 自动静音](https://sspai.com/post/84576)
 * [【2023-12-19】 派早报：Adobe 放弃收购 Figma、微软 Copilot 被指错误率过高等](https://sspai.com/post/85166)
 * [【2023-12-18】 [送码] 派评 | 近期值得关注的 App](https://sspai.com/post/85158)
 * [【2023-12-18】 探寻 Apple 的都市传说：Store 也有「Pro 版」？](https://sspai.com/post/84561)
-* [【2023-12-18】 抛开品牌情绪，小米 14 Pro 的体验究竟如何？](https://sspai.com/post/85064)
-* [【2023-12-18】 派早报：字节跳动回应被 OpenAI 停用账户](https://sspai.com/post/85139)
-* [【2023-12-17】 放轻松 | 解码压力的源头，你该如何与它和谐相处？](https://sspai.com/post/85094)
-* [【2023-12-16】 来自骁龙 8 Gen 3 的强心剂：小米 14 Pro 综合体验](https://sspai.com/post/84805)
-* [【2023-12-15】 本周看什么 | 最近值得一看的一大列作品](https://sspai.com/post/85106)
-* [【2023-12-15】 一站式看完各平台文献推送，我是这样折腾的](https://sspai.com/post/84478)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-19 05:11:54
+:alarm_clock: 更新时间: 2023-12-20 05:09:46
