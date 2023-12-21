@@ -603,6 +603,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从程序员到调酒师，这是我的体验与思考",
+                "link": "https://sspai.com/post/84505",
+                "published": "2023-12-21"
+            },
+            {
+                "title": "派早报：初代米奇即将进入公共领域、WPS 停止投放第三方商业广告等",
+                "link": "https://sspai.com/post/85226",
+                "published": "2023-12-21"
+            },
+            {
+                "title": "敲响圣诞「叮叮当」，让这 8 部圣诞影片陪你迎接新年",
+                "link": "https://sspai.com/post/85156",
+                "published": "2023-12-20"
+            },
+            {
+                "title": "放轻松 | 用放松，重夺生活的掌控感",
+                "link": "https://sspai.com/post/85159",
+                "published": "2023-12-20"
+            },
+            {
                 "title": "一日一技 | 妙用终端清理 macOS 启动台顽固图标",
                 "link": "https://sspai.com/post/85136",
                 "published": "2023-12-20"
@@ -16678,7 +16698,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -47134,6 +47154,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《三国演义》全篇一共使用了多少计?",
+                "link": "http://www.zhihu.com/question/607523853/answer/3085904282?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-21"
+            },
+            {
+                "title": "抗日战争末期的《中国分省地图》",
+                "link": "http://zhuanlan.zhihu.com/p/632057864?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-20"
+            },
+            {
+                "title": "2024 年，如何用大模型做出一款属于自己的 AI 应用？",
+                "link": "http://www.zhihu.com/question/635320578/answer/3332566660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-20"
+            },
+            {
                 "title": "中国天眼探测并构建世界最大的中性氢星系样本，这一巡天成果有哪些意义？",
                 "link": "http://www.zhihu.com/question/634798604/answer/3325988340?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-12-15"
@@ -55309,7 +55344,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 4,
