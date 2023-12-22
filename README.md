@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-12-22】 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)
 * [【2023-12-15】 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)
 * [【2023-12-08】 科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)
 * [【2023-12-01】 科技爱好者周刊（第 280 期）：机器点餐与宅文化](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html)
@@ -25,7 +26,6 @@
 * [【2023-11-03】 科技爱好者周刊（第 276 期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html)
 * [【2023-10-27】 科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html)
 * [【2023-10-20】 科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html)
-* [【2023-10-13】 科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-22】 抓住日常频繁且随机的灵感，我是如何构建一套「内恰」的写作流程](https://sspai.com/post/84644)
+* [【2023-12-22】 派早报：首批搭载下一代 CarPlay 车企公布](https://sspai.com/post/85260)
+* [【2023-12-21】 iPhone 15 Pro 影像体验：一个神秘学摄影项目的诞生](https://sspai.com/prime/story/mystical-photography-with-iphone-15-pro)
+* [【2023-12-21】 设计优化、功能更强，时隔五年的大更新：OmniFocus 4](https://sspai.com/post/68428)
+* [【2023-12-21】 认真聊聊 ADHD：注意力、肠胃失调、自我认知和「时髦病」](https://sspai.com/post/85217)
 * [【2023-12-21】 从程序员到调酒师，这是我的体验与思考](https://sspai.com/post/84505)
 * [【2023-12-21】 派早报：初代米奇即将进入公共领域、WPS 停止投放第三方商业广告等](https://sspai.com/post/85226)
 * [【2023-12-20】 敲响圣诞「叮叮当」，让这 8 部圣诞影片陪你迎接新年](https://sspai.com/post/85156)
 * [【2023-12-20】 放轻松 | 用放松，重夺生活的掌控感](https://sspai.com/post/85159)
 * [【2023-12-20】 一日一技 | 妙用终端清理 macOS 启动台顽固图标](https://sspai.com/post/85136)
-* [【2023-12-19】 派早报：努比亚 Z60 Ultra 发布、Google 公布针对 反垄断诉讼的和解措施等](https://sspai.com/post/85200)
-* [【2023-12-19】 Android 玩机社区正在走向消亡](https://sspai.com/prime/story/play-integrity-and-the-demise-of-the-android-mod-community)
-* [【2023-12-19】 社区速递 025 | 刘海工具、百元耳机以及千奇百怪的放松姿势](https://sspai.com/post/85179)
-* [【2023-12-19】 经典再现 | 从寻呼时代穿越到 2023，我们「重制」了曾影响世界的 BB 机](https://sspai.com/post/85047)
-* [【2023-12-19】 我的第三台电车，为什么选择蔚来 ES6？](https://sspai.com/post/85055)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-12-21】 金庸中带数字的名号能从一排到十吗？](http://www.zhihu.com/question/346262327/answer/3333040365?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-21】 《三国演义》全篇一共使用了多少计?](http://www.zhihu.com/question/607523853/answer/3085904282?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-20】 抗日战争末期的《中国分省地图》](http://zhuanlan.zhihu.com/p/632057864?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-20】 2024 年，如何用大模型做出一款属于自己的 AI 应用？](http://www.zhihu.com/question/635320578/answer/3332566660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-12-07】 大家有什么好的副业推荐？](http://zhuanlan.zhihu.com/p/635532252?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-07】 以前靠信息不对称赚钱，现在靠什么赚钱？](http://www.zhihu.com/question/268481226/answer/3287552143?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-07】 我是最近才开始学剪辑，因为我是自学，所以不知道如何开始，或者接下来该做什么？请问如何学习视频剪辑？](http://www.zhihu.com/question/49034369/answer/2603482012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-07】 网上影视后期培训班靠谱吗？真的能提供单子吗？](http://www.zhihu.com/question/547093599/answer/2664853210?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-21 05:11:55
+:alarm_clock: 更新时间: 2023-12-22 05:12:15

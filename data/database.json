@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走",
+                "link": "http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html",
+                "published": "2023-12-22"
+            },
+            {
                 "title": "科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电",
                 "link": "http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html",
                 "published": "2023-12-15"
@@ -595,13 +600,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "抓住日常频繁且随机的灵感，我是如何构建一套「内恰」的写作流程",
+                "link": "https://sspai.com/post/84644",
+                "published": "2023-12-22"
+            },
+            {
+                "title": "派早报：首批搭载下一代 CarPlay 车企公布",
+                "link": "https://sspai.com/post/85260",
+                "published": "2023-12-22"
+            },
+            {
+                "title": "iPhone 15 Pro 影像体验：一个神秘学摄影项目的诞生",
+                "link": "https://sspai.com/prime/story/mystical-photography-with-iphone-15-pro",
+                "published": "2023-12-21"
+            },
+            {
+                "title": "设计优化、功能更强，时隔五年的大更新：OmniFocus 4",
+                "link": "https://sspai.com/post/68428",
+                "published": "2023-12-21"
+            },
+            {
+                "title": "认真聊聊 ADHD：注意力、肠胃失调、自我认知和「时髦病」",
+                "link": "https://sspai.com/post/85217",
+                "published": "2023-12-21"
+            },
             {
                 "title": "从程序员到调酒师，这是我的体验与思考",
                 "link": "https://sspai.com/post/84505",
@@ -16698,7 +16728,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -47154,6 +47184,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "金庸中带数字的名号能从一排到十吗？",
+                "link": "http://www.zhihu.com/question/346262327/answer/3333040365?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-21"
+            },
+            {
                 "title": "《三国演义》全篇一共使用了多少计?",
                 "link": "http://www.zhihu.com/question/607523853/answer/3085904282?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-12-21"
@@ -55344,7 +55379,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,
