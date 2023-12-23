@@ -600,13 +600,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "城市漫步指南：《海街 Diary》 里的故事，就在眼前的镰仓",
+                "link": "https://sspai.com/post/84660",
+                "published": "2023-12-23"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大坨作品",
+                "link": "https://sspai.com/post/85272",
+                "published": "2023-12-22"
+            },
+            {
+                "title": "少数派会员年度周边，邀请你一起来创作",
+                "link": "https://sspai.com/prime/story/member-merch-design-2023",
+                "published": "2023-12-22"
+            },
+            {
+                "title": "找到适合自己的图文分享卡片，我对比了 23 款软件",
+                "link": "https://sspai.com/post/85218",
+                "published": "2023-12-22"
+            },
+            {
+                "title": "抓住日常频繁且随机的灵感，我是如何构建一套「内洽」的写作流程",
+                "link": "https://sspai.com/post/84644",
+                "published": "2023-12-22"
+            },
             {
                 "title": "抓住日常频繁且随机的灵感，我是如何构建一套「内恰」的写作流程",
                 "link": "https://sspai.com/post/84644",
@@ -55379,7 +55404,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
