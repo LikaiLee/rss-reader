@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2023-12-25】 放轻松｜用热爱对抗焦虑，在生活中寻找「忙里偷闲」的缝隙](https://sspai.com/post/85247)
+* [【2023-12-25】 派早报](https://sspai.com/post/85316)
+* [【2023-12-24】 用 Ollama 轻松玩转本地大模型](https://sspai.com/post/85193)
 * [【2023-12-23】 城市漫步指南：《海街 Diary》 里的故事，就在眼前的镰仓](https://sspai.com/post/84660)
 * [【2023-12-22】 本周看什么 | 最近值得一看的一大坨作品](https://sspai.com/post/85272)
 * [【2023-12-22】 少数派会员年度周边，邀请你一起来创作](https://sspai.com/prime/story/member-merch-design-2023)
@@ -42,9 +45,6 @@
 * [【2023-12-22】 抓住日常频繁且随机的灵感，我是如何构建一套「内洽」的写作流程](https://sspai.com/post/84644)
 * [【2023-12-22】 抓住日常频繁且随机的灵感，我是如何构建一套「内恰」的写作流程](https://sspai.com/post/84644)
 * [【2023-12-22】 派早报：首批搭载下一代 CarPlay 车企公布](https://sspai.com/post/85260)
-* [【2023-12-21】 iPhone 15 Pro 影像体验：一个神秘学摄影项目的诞生](https://sspai.com/prime/story/mystical-photography-with-iphone-15-pro)
-* [【2023-12-21】 设计优化、功能更强，时隔五年的大更新：OmniFocus 4](https://sspai.com/post/68428)
-* [【2023-12-21】 认真聊聊 ADHD：注意力、肠胃失调、自我认知和「时髦病」](https://sspai.com/post/85217)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-24 05:11:34
+:alarm_clock: 更新时间: 2023-12-25 05:12:28
