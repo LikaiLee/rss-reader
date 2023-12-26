@@ -608,6 +608,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "研究生尾声之际，回顾我与 Obsidian 的四年",
+                "link": "https://sspai.com/post/85339",
+                "published": "2023-12-26"
+            },
+            {
+                "title": "派早报：字节跳动推出线下养车服务、美光科技与福建晋华达成和解等",
+                "link": "https://sspai.com/post/85354",
+                "published": "2023-12-26"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/85340",
+                "published": "2023-12-25"
+            },
+            {
+                "title": "玩乐之外读什么：30 篇优秀报道，回顾游戏行业的 2023",
+                "link": "https://sspai.com/post/85315",
+                "published": "2023-12-25"
+            },
+            {
                 "title": "放轻松｜用热爱对抗焦虑，在生活中寻找「忙里偷闲」的缝隙",
                 "link": "https://sspai.com/post/85247",
                 "published": "2023-12-25"
@@ -16768,7 +16788,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
