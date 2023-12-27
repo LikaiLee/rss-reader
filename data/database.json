@@ -608,6 +608,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "对话青工所：如何制作一期正经又「不正经」的科普节目？",
+                "link": "https://sspai.com/post/85263",
+                "published": "2023-12-27"
+            },
+            {
+                "title": "派早报：华为 nova 12 系列发布、新款 Apple Watch 在美遭到禁售等",
+                "link": "https://sspai.com/post/85383",
+                "published": "2023-12-26"
+            },
+            {
+                "title": "陌生而有趣的训练伙伴——跳箱和敏捷梯使用指南",
+                "link": "https://sspai.com/prime/story/training-guide-plometric-box-agility-ladder",
+                "published": "2023-12-26"
+            },
+            {
+                "title": "社区速递 026 | 通讯回忆录、变频两季扇和新玩意",
+                "link": "https://sspai.com/post/85362",
+                "published": "2023-12-26"
+            },
+            {
+                "title": "评论有奖 | 奔向阿那亚，共赴 2024，老麦的东部自驾游现在启程",
+                "link": "https://sspai.com/post/85328",
+                "published": "2023-12-26"
+            },
+            {
+                "title": "一日一技 | 无需重装，利用 AME Wizard 让你的 Windows PC 焕然一新",
+                "link": "https://sspai.com/post/85256",
+                "published": "2023-12-26"
+            },
+            {
                 "title": "研究生尾声之际，回顾我与 Obsidian 的四年",
                 "link": "https://sspai.com/post/85339",
                 "published": "2023-12-26"
@@ -16788,7 +16818,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -47244,6 +47274,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "2023 年度职场洞察报告 | 用数字和故事还原这一年",
+                "link": "http://zhuanlan.zhihu.com/p/674208627?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-27"
+            },
+            {
                 "title": "金庸中带数字的名号能从一排到十吗？",
                 "link": "http://www.zhihu.com/question/346262327/answer/3333040365?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2023-12-21"
@@ -55439,7 +55474,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

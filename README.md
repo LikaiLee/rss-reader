@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-27】 对话青工所：如何制作一期正经又「不正经」的科普节目？](https://sspai.com/post/85263)
+* [【2023-12-26】 派早报：华为 nova 12 系列发布、新款 Apple Watch 在美遭到禁售等](https://sspai.com/post/85383)
+* [【2023-12-26】 陌生而有趣的训练伙伴——跳箱和敏捷梯使用指南](https://sspai.com/prime/story/training-guide-plometric-box-agility-ladder)
+* [【2023-12-26】 社区速递 026 | 通讯回忆录、变频两季扇和新玩意](https://sspai.com/post/85362)
+* [【2023-12-26】 评论有奖 | 奔向阿那亚，共赴 2024，老麦的东部自驾游现在启程](https://sspai.com/post/85328)
+* [【2023-12-26】 一日一技 | 无需重装，利用 AME Wizard 让你的 Windows PC 焕然一新](https://sspai.com/post/85256)
 * [【2023-12-26】 研究生尾声之际，回顾我与 Obsidian 的四年](https://sspai.com/post/85339)
 * [【2023-12-26】 派早报：字节跳动推出线下养车服务、美光科技与福建晋华达成和解等](https://sspai.com/post/85354)
 * [【2023-12-25】 派评 | 近期值得关注的 App](https://sspai.com/post/85340)
 * [【2023-12-25】 玩乐之外读什么：30 篇优秀报道，回顾游戏行业的 2023](https://sspai.com/post/85315)
-* [【2023-12-25】 放轻松｜用热爱对抗焦虑，在生活中寻找「忙里偷闲」的缝隙](https://sspai.com/post/85247)
-* [【2023-12-25】 派早报](https://sspai.com/post/85316)
-* [【2023-12-24】 用 Ollama 轻松玩转本地大模型](https://sspai.com/post/85193)
-* [【2023-12-23】 城市漫步指南：《海街 Diary》 里的故事，就在眼前的镰仓](https://sspai.com/post/84660)
-* [【2023-12-22】 本周看什么 | 最近值得一看的一大坨作品](https://sspai.com/post/85272)
-* [【2023-12-22】 少数派会员年度周边，邀请你一起来创作](https://sspai.com/prime/story/member-merch-design-2023)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-12-27】 2023 年度职场洞察报告 | 用数字和故事还原这一年](http://zhuanlan.zhihu.com/p/674208627?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-21】 金庸中带数字的名号能从一排到十吗？](http://www.zhihu.com/question/346262327/answer/3333040365?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-21】 《三国演义》全篇一共使用了多少计?](http://www.zhihu.com/question/607523853/answer/3085904282?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-20】 抗日战争末期的《中国分省地图》](http://zhuanlan.zhihu.com/p/632057864?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-12-12】 写小说是否有捷径可走?](http://www.zhihu.com/question/597106509/answer/3217821152?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-07】 大家有什么好的副业推荐？](http://zhuanlan.zhihu.com/p/635532252?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-07】 以前靠信息不对称赚钱，现在靠什么赚钱？](http://www.zhihu.com/question/268481226/answer/3287552143?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-07】 我是最近才开始学剪辑，因为我是自学，所以不知道如何开始，或者接下来该做什么？请问如何学习视频剪辑？](http://www.zhihu.com/question/49034369/answer/2603482012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-26 05:11:58
+:alarm_clock: 更新时间: 2023-12-27 05:11:47
