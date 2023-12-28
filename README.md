@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+8】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-28】 回首过去，展望未来：聊聊我用 Arc 浏览器的这一年](https://sspai.com/post/84931)
+* [【2023-12-28】 派早报：法院暂停专利禁令，苹果暂时仍可销售 Apple Watch](https://sspai.com/post/85385)
+* [【2023-12-27】 更适合国内的远程访问方法：自建根服务器打造基于 ZeroTier 虚拟内网](https://sspai.com/post/85130)
+* [【2023-12-27】 城市漫步指南：济州岛，更适合年轻人的短途免签旅行地](https://sspai.com/post/85237)
 * [【2023-12-27】 对话青工所：如何制作一期正经又「不正经」的科普节目？](https://sspai.com/post/85263)
 * [【2023-12-26】 派早报：华为 nova 12 系列发布、新款 Apple Watch 在美遭到禁售等](https://sspai.com/post/85383)
 * [【2023-12-26】 陌生而有趣的训练伙伴——跳箱和敏捷梯使用指南](https://sspai.com/prime/story/training-guide-plometric-box-agility-ladder)
 * [【2023-12-26】 社区速递 026 | 通讯回忆录、变频两季扇和新玩意](https://sspai.com/post/85362)
 * [【2023-12-26】 评论有奖 | 奔向阿那亚，共赴 2024，老麦的东部自驾游现在启程](https://sspai.com/post/85328)
 * [【2023-12-26】 一日一技 | 无需重装，利用 AME Wizard 让你的 Windows PC 焕然一新](https://sspai.com/post/85256)
-* [【2023-12-26】 研究生尾声之际，回顾我与 Obsidian 的四年](https://sspai.com/post/85339)
-* [【2023-12-26】 派早报：字节跳动推出线下养车服务、美光科技与福建晋华达成和解等](https://sspai.com/post/85354)
-* [【2023-12-25】 派评 | 近期值得关注的 App](https://sspai.com/post/85340)
-* [【2023-12-25】 玩乐之外读什么：30 篇优秀报道，回顾游戏行业的 2023](https://sspai.com/post/85315)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-12-28】 《漫长的季节》中体现了哪些东北人的生活态度？](http://www.zhihu.com/question/636479163/answer/3340726793?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-28】 现实主义题材的作品怎么拍才能让观众共鸣？](http://www.zhihu.com/question/636872215/answer/3341185346?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-27】 在电视剧创作的过程中，导演和编剧之间是什么样的关系？谁更重要？](http://www.zhihu.com/question/636534424/answer/3340828045?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-27】 国产都市剧中应该如何体现「生活」？如果完全贴近生活会枯燥吗？](http://www.zhihu.com/question/636483458/answer/3340817609?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-27】 在如今的社会环境中，我们需要什么样的女性角色？](http://www.zhihu.com/question/636497861/answer/3340731170?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-27】 AGI 会不会消解影视作品的意义？还是只是取代了导演？](http://www.zhihu.com/question/635942442/answer/3340677671?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-27】 知乎 2023 个人年度报告一共有多少种画像，你的画像是什么？](http://www.zhihu.com/question/636727314/answer/3339439811?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-27】 2023 年度职场洞察报告 |  独家解读职场年度 9 大趋势](http://zhuanlan.zhihu.com/p/674208627?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-27】 2023 年度职场洞察报告 | 用数字和故事还原这一年](http://zhuanlan.zhihu.com/p/674208627?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-21】 金庸中带数字的名号能从一排到十吗？](http://www.zhihu.com/question/346262327/answer/3333040365?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-21】 《三国演义》全篇一共使用了多少计?](http://www.zhihu.com/question/607523853/answer/3085904282?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-20】 抗日战争末期的《中国分省地图》](http://zhuanlan.zhihu.com/p/632057864?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-20】 2024 年，如何用大模型做出一款属于自己的 AI 应用？](http://www.zhihu.com/question/635320578/answer/3332566660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-15】 中国天眼探测并构建世界最大的中性氢星系样本，这一巡天成果有哪些意义？](http://www.zhihu.com/question/634798604/answer/3325988340?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-12】 觉得自己画的太丑了，画不下去怎么办?](http://www.zhihu.com/question/460043107/answer/2969589390?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-12】 写小说是否有捷径可走?](http://www.zhihu.com/question/597106509/answer/3217821152?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-07】 大家有什么好的副业推荐？](http://zhuanlan.zhihu.com/p/635532252?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-07】 以前靠信息不对称赚钱，现在靠什么赚钱？](http://www.zhihu.com/question/268481226/answer/3287552143?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-27 05:11:47
+:alarm_clock: 更新时间: 2023-12-28 05:11:57
