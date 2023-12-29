@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+8】
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2023-12-29】 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)
 * [【2023-12-22】 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)
 * [【2023-12-15】 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)
 * [【2023-12-08】 科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)
@@ -25,7 +26,6 @@
 * [【2023-11-10】 科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html)
 * [【2023-11-03】 科技爱好者周刊（第 276 期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html)
 * [【2023-10-27】 科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html)
-* [【2023-10-20】 科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2023-12-29】 全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客](https://sspai.com/post/85141)
+* [【2023-12-29】 派早报：小米前瞻小米汽车 SU7/Max 技术等](https://sspai.com/post/85436)
+* [【2023-12-28】 新玩意 168｜少数派的编辑们最近买了啥？](https://sspai.com/post/85424)
+* [【2023-12-28】 在深秋游黄山，第一次的山岳之旅](https://sspai.com/post/85073)
 * [【2023-12-28】 回首过去，展望未来：聊聊我用 Arc 浏览器的这一年](https://sspai.com/post/84931)
 * [【2023-12-28】 派早报：法院暂停专利禁令，苹果暂时仍可销售 Apple Watch](https://sspai.com/post/85385)
 * [【2023-12-27】 更适合国内的远程访问方法：自建根服务器打造基于 ZeroTier 虚拟内网](https://sspai.com/post/85130)
 * [【2023-12-27】 城市漫步指南：济州岛，更适合年轻人的短途免签旅行地](https://sspai.com/post/85237)
 * [【2023-12-27】 对话青工所：如何制作一期正经又「不正经」的科普节目？](https://sspai.com/post/85263)
 * [【2023-12-26】 派早报：华为 nova 12 系列发布、新款 Apple Watch 在美遭到禁售等](https://sspai.com/post/85383)
-* [【2023-12-26】 陌生而有趣的训练伙伴——跳箱和敏捷梯使用指南](https://sspai.com/prime/story/training-guide-plometric-box-agility-ladder)
-* [【2023-12-26】 社区速递 026 | 通讯回忆录、变频两季扇和新玩意](https://sspai.com/post/85362)
-* [【2023-12-26】 评论有奖 | 奔向阿那亚，共赴 2024，老麦的东部自驾游现在启程](https://sspai.com/post/85328)
-* [【2023-12-26】 一日一技 | 无需重装，利用 AME Wizard 让你的 Windows PC 焕然一新](https://sspai.com/post/85256)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2023-12-29】 如何看待苏晓晔在《洞见对谈》里称「预防大于治疗，关注疾病不如关注健康」？](http://www.zhihu.com/question/636103860/answer/3342499162?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-29】 如何看待张小北在《洞见对谈》里称「科幻从不负责预言未来，它让我们相信一种未来」？](http://www.zhihu.com/question/636101295/answer/3342060395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-29】 2024 年，中国经济增长的「绿芽」在哪里？](http://www.zhihu.com/question/635454821/answer/3342059439?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2023-12-28】 如何看待李泓在《洞见对谈》里称「2030 年固态电池有望量产上车」？](http://www.zhihu.com/question/636100697/answer/3341851626?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-28】 《漫长的季节》中体现了哪些东北人的生活态度？](http://www.zhihu.com/question/636479163/answer/3340726793?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-28】 现实主义题材的作品怎么拍才能让观众共鸣？](http://www.zhihu.com/question/636872215/answer/3341185346?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-27】 在电视剧创作的过程中，导演和编剧之间是什么样的关系？谁更重要？](http://www.zhihu.com/question/636534424/answer/3340828045?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-27】 国产都市剧中应该如何体现「生活」？如果完全贴近生活会枯燥吗？](http://www.zhihu.com/question/636483458/answer/3340817609?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-27】 在如今的社会环境中，我们需要什么样的女性角色？](http://www.zhihu.com/question/636497861/answer/3340731170?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-27】 AGI 会不会消解影视作品的意义？还是只是取代了导演？](http://www.zhihu.com/question/635942442/answer/3340677671?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-27】 知乎 2023 个人年度报告一共有多少种画像，你的画像是什么？](http://www.zhihu.com/question/636727314/answer/3339439811?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-27】 2023 年度职场洞察报告 |  独家解读职场年度 9 大趋势](http://zhuanlan.zhihu.com/p/674208627?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-27】 2023 年度职场洞察报告 | 用数字和故事还原这一年](http://zhuanlan.zhihu.com/p/674208627?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-21】 金庸中带数字的名号能从一排到十吗？](http://www.zhihu.com/question/346262327/answer/3333040365?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-28 05:11:57
+:alarm_clock: 更新时间: 2023-12-29 05:11:45
