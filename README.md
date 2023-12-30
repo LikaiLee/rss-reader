@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-12-29】 本周看什么 | 最近值得一看的一大溜作品](https://sspai.com/post/85455)
+* [【2023-12-29】 获誉「年度突破」的减肥神药，能否突破你的减肥困境？](https://sspai.com/post/85443)
 * [【2023-12-29】 全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客](https://sspai.com/post/85141)
 * [【2023-12-29】 派早报：小米前瞻小米汽车 SU7/Max 技术等](https://sspai.com/post/85436)
 * [【2023-12-28】 新玩意 168｜少数派的编辑们最近买了啥？](https://sspai.com/post/85424)
@@ -43,8 +45,6 @@
 * [【2023-12-28】 派早报：法院暂停专利禁令，苹果暂时仍可销售 Apple Watch](https://sspai.com/post/85385)
 * [【2023-12-27】 更适合国内的远程访问方法：自建根服务器打造基于 ZeroTier 虚拟内网](https://sspai.com/post/85130)
 * [【2023-12-27】 城市漫步指南：济州岛，更适合年轻人的短途免签旅行地](https://sspai.com/post/85237)
-* [【2023-12-27】 对话青工所：如何制作一期正经又「不正经」的科普节目？](https://sspai.com/post/85263)
-* [【2023-12-26】 派早报：华为 nova 12 系列发布、新款 Apple Watch 在美遭到禁售等](https://sspai.com/post/85383)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-29 05:11:45
+:alarm_clock: 更新时间: 2023-12-30 05:11:16
