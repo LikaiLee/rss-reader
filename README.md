@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2023-12-31】 你的 2023，藏在这些 app 里](https://sspai.com/post/85390)
+* [【2023-12-30】 放轻松 | 告别放松羞耻，一场互联网「半废」青年的自救](https://sspai.com/post/85288)
 * [【2023-12-29】 本周看什么 | 最近值得一看的一大溜作品](https://sspai.com/post/85455)
 * [【2023-12-29】 获誉「年度突破」的减肥神药，能否突破你的减肥困境？](https://sspai.com/post/85443)
 * [【2023-12-29】 全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客](https://sspai.com/post/85141)
@@ -43,8 +45,6 @@
 * [【2023-12-28】 在深秋游黄山，第一次的山岳之旅](https://sspai.com/post/85073)
 * [【2023-12-28】 回首过去，展望未来：聊聊我用 Arc 浏览器的这一年](https://sspai.com/post/84931)
 * [【2023-12-28】 派早报：法院暂停专利禁令，苹果暂时仍可销售 Apple Watch](https://sspai.com/post/85385)
-* [【2023-12-27】 更适合国内的远程访问方法：自建根服务器打造基于 ZeroTier 虚拟内网](https://sspai.com/post/85130)
-* [【2023-12-27】 城市漫步指南：济州岛，更适合年轻人的短途免签旅行地](https://sspai.com/post/85237)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2023-12-31】 中国全年汽车出口超越日本已成定局，将首登世界第一，导致汽车行业竞争格局变化的原因是什么？](http://www.zhihu.com/question/637226339/answer/3344345015?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-29】 如何看待苏晓晔在《洞见对谈》里称「预防大于治疗，关注疾病不如关注健康」？](http://www.zhihu.com/question/636103860/answer/3342499162?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-29】 如何看待张小北在《洞见对谈》里称「科幻从不负责预言未来，它让我们相信一种未来」？](http://www.zhihu.com/question/636101295/answer/3342060395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-29】 2024 年，中国经济增长的「绿芽」在哪里？](http://www.zhihu.com/question/635454821/answer/3342059439?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-12-27】 在电视剧创作的过程中，导演和编剧之间是什么样的关系？谁更重要？](http://www.zhihu.com/question/636534424/answer/3340828045?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-27】 国产都市剧中应该如何体现「生活」？如果完全贴近生活会枯燥吗？](http://www.zhihu.com/question/636483458/answer/3340817609?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-27】 在如今的社会环境中，我们需要什么样的女性角色？](http://www.zhihu.com/question/636497861/answer/3340731170?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-27】 AGI 会不会消解影视作品的意义？还是只是取代了导演？](http://www.zhihu.com/question/635942442/answer/3340677671?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2023-12-30 05:11:16
+:alarm_clock: 更新时间: 2023-12-31 05:11:28
