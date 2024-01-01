@@ -613,6 +613,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不只为了省钱：开源密码管理器可用性报告",
+                "link": "https://sspai.com/prime/story/opensource-password-managers-compared",
+                "published": "2023-12-31"
+            },
+            {
+                "title": "本月玩什么 | 本月新游，以及 2023 年遗珠之作盘点",
+                "link": "https://sspai.com/post/85480",
+                "published": "2023-12-31"
+            },
+            {
+                "title": "App+1 | Rond 与世界迷雾：现实世界的塞尔达传说地图册",
+                "link": "https://sspai.com/post/85355",
+                "published": "2023-12-31"
+            },
+            {
                 "title": "你的 2023，藏在这些 app 里",
                 "link": "https://sspai.com/post/85390",
                 "published": "2023-12-31"
@@ -16883,7 +16898,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -47338,6 +47353,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "小米首款汽车 SU7 搭载的核心部件及技术是否先进？有哪些值得关注的点？",
+                "link": "http://www.zhihu.com/question/637238460/answer/3344716232?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2023-12-31"
+            },
             {
                 "title": "中国全年汽车出口超越日本已成定局，将首登世界第一，导致汽车行业竞争格局变化的原因是什么？",
                 "link": "http://www.zhihu.com/question/637226339/answer/3344345015?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
