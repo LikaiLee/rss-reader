@@ -613,6 +613,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "放轻松 | 身处「焦虑时代」的我们，如何做自己情绪的「心理医生」",
+                "link": "https://sspai.com/post/85308",
+                "published": "2024-01-02"
+            },
+            {
+                "title": "派早报：微信发布 2023 年度朋友圈十大谣言等",
+                "link": "https://sspai.com/post/85504",
+                "published": "2024-01-02"
+            },
+            {
                 "title": "不只为了省钱：开源密码管理器可用性报告",
                 "link": "https://sspai.com/prime/story/opensource-password-managers-compared",
                 "published": "2023-12-31"
@@ -16898,7 +16908,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -55624,7 +55634,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

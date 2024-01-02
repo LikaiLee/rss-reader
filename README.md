@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-01-02】 放轻松 | 身处「焦虑时代」的我们，如何做自己情绪的「心理医生」](https://sspai.com/post/85308)
+* [【2024-01-02】 派早报：微信发布 2023 年度朋友圈十大谣言等](https://sspai.com/post/85504)
 * [【2023-12-31】 不只为了省钱：开源密码管理器可用性报告](https://sspai.com/prime/story/opensource-password-managers-compared)
 * [【2023-12-31】 本月玩什么 | 本月新游，以及 2023 年遗珠之作盘点](https://sspai.com/post/85480)
 * [【2023-12-31】 App+1 | Rond 与世界迷雾：现实世界的塞尔达传说地图册](https://sspai.com/post/85355)
@@ -43,8 +45,6 @@
 * [【2023-12-29】 本周看什么 | 最近值得一看的一大溜作品](https://sspai.com/post/85455)
 * [【2023-12-29】 获誉「年度突破」的减肥神药，能否突破你的减肥困境？](https://sspai.com/post/85443)
 * [【2023-12-29】 全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客](https://sspai.com/post/85141)
-* [【2023-12-29】 派早报：小米前瞻小米汽车 SU7/Max 技术等](https://sspai.com/post/85436)
-* [【2023-12-28】 新玩意 168｜少数派的编辑们最近买了啥？](https://sspai.com/post/85424)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-01 05:12:55
+:alarm_clock: 更新时间: 2024-01-02 05:12:15
