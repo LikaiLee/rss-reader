@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-01-03】 提示词或许需要工程，但提问一定需要智慧](https://sspai.com/post/85484)
+* [【2024-01-02】 派早报：百度宣布终止收购 YY、泰国宣布将对华永久免签等](https://sspai.com/post/85537)
+* [【2024-01-02】 社区速递 027 | 最不后悔购买的X件产品大合辑](https://sspai.com/post/85528)
+* [【2024-01-02】 不读可以先收藏：2023 少数派年度高分内容「合订本」](https://sspai.com/post/85521)
 * [【2024-01-02】 放轻松 | 身处「焦虑时代」的我们，如何做自己情绪的「心理医生」](https://sspai.com/post/85308)
 * [【2024-01-02】 派早报：微信发布 2023 年度朋友圈十大谣言等](https://sspai.com/post/85504)
 * [【2023-12-31】 不只为了省钱：开源密码管理器可用性报告](https://sspai.com/prime/story/opensource-password-managers-compared)
 * [【2023-12-31】 本月玩什么 | 本月新游，以及 2023 年遗珠之作盘点](https://sspai.com/post/85480)
 * [【2023-12-31】 App+1 | Rond 与世界迷雾：现实世界的塞尔达传说地图册](https://sspai.com/post/85355)
 * [【2023-12-31】 你的 2023，藏在这些 app 里](https://sspai.com/post/85390)
-* [【2023-12-30】 放轻松 | 告别放松羞耻，一场互联网「半废」青年的自救](https://sspai.com/post/85288)
-* [【2023-12-29】 本周看什么 | 最近值得一看的一大溜作品](https://sspai.com/post/85455)
-* [【2023-12-29】 获誉「年度突破」的减肥神药，能否突破你的减肥困境？](https://sspai.com/post/85443)
-* [【2023-12-29】 全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客](https://sspai.com/post/85141)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-02 05:12:15
+:alarm_clock: 更新时间: 2024-01-03 05:11:49
