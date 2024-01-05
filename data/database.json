@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录",
+                "link": "http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html",
+                "published": "2024-01-05"
+            },
+            {
                 "title": "科技爱好者周刊（第 284 期）：YouTube 有多少个视频？",
                 "link": "http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html",
                 "published": "2023-12-29"
@@ -605,13 +610,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "App+1 | 用 Collections Database 搭建自己的数据库",
+                "link": "https://sspai.com/post/85464",
+                "published": "2024-01-05"
+            },
+            {
+                "title": "派早报：微软计划在键盘上新增 Copilot 按键",
+                "link": "https://sspai.com/post/85581",
+                "published": "2024-01-05"
+            },
+            {
+                "title": "新玩意 169｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/85572",
+                "published": "2024-01-04"
+            },
+            {
+                "title": "放轻松｜精简生活、回味兴趣，生病后的我这样疗愈自己",
+                "link": "https://sspai.com/post/85421",
+                "published": "2024-01-04"
+            },
             {
                 "title": "Find N3「全景虚拟屏」浅析：谈到大屏适配，我们究竟在谈些什么？",
                 "link": "https://sspai.com/post/84641",
@@ -16953,7 +16978,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -55684,7 +55709,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

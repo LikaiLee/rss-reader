@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-01-05】 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)
 * [【2023-12-29】 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)
 * [【2023-12-22】 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)
 * [【2023-12-15】 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)
@@ -25,7 +26,6 @@
 * [【2023-11-17】 科技爱好者周刊（第 278 期）：棘手的 AI 版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html)
 * [【2023-11-10】 科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html)
 * [【2023-11-03】 科技爱好者周刊（第 276 期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html)
-* [【2023-10-27】 科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-01-05】 App+1 | 用 Collections Database 搭建自己的数据库](https://sspai.com/post/85464)
+* [【2024-01-05】 派早报：微软计划在键盘上新增 Copilot 按键](https://sspai.com/post/85581)
+* [【2024-01-04】 新玩意 169｜少数派的编辑们最近买了啥？](https://sspai.com/post/85572)
+* [【2024-01-04】 放轻松｜精简生活、回味兴趣，生病后的我这样疗愈自己](https://sspai.com/post/85421)
 * [【2024-01-04】 Find N3「全景虚拟屏」浅析：谈到大屏适配，我们究竟在谈些什么？](https://sspai.com/post/84641)
 * [【2024-01-04】 派早报：三星确认 Unpacked 2024 举办时间等](https://sspai.com/post/85555)
 * [【2024-01-03】 十五道冬日暖锅，助你度过此刻严寒](https://sspai.com/prime/story/one-pot-recipes-for-winter)
 * [【2024-01-03】 城市漫步指南：我的台北之旅，天气不似预期](https://sspai.com/post/85206)
 * [【2024-01-03】 如何入门硬件开发？一个软件开发者的边学边做手记](https://sspai.com/post/85507)
 * [【2024-01-03】 提示词或许需要工程，但提问一定需要智慧](https://sspai.com/post/85484)
-* [【2024-01-02】 派早报：百度宣布终止收购 YY、泰国宣布将对华永久免签等](https://sspai.com/post/85537)
-* [【2024-01-02】 社区速递 027 | 最不后悔购买的X件产品大合辑](https://sspai.com/post/85528)
-* [【2024-01-02】 不读可以先收藏：2023 少数派年度高分内容「合订本」](https://sspai.com/post/85521)
-* [【2024-01-02】 放轻松 | 身处「焦虑时代」的我们，如何做自己情绪的「心理医生」](https://sspai.com/post/85308)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-04 05:12:00
+:alarm_clock: 更新时间: 2024-01-05 05:12:07
