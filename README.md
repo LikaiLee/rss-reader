@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-01-05】 本周看什么 | 最近值得一看的一大斛作品](https://sspai.com/post/85594)
+* [【2024-01-05】 不用世界迷雾，还有这些工具来处理足迹](https://sspai.com/post/85505)
 * [【2024-01-05】 App+1 | 用 Collections Database 搭建自己的数据库](https://sspai.com/post/85464)
 * [【2024-01-05】 派早报：微软计划在键盘上新增 Copilot 按键](https://sspai.com/post/85581)
 * [【2024-01-04】 新玩意 169｜少数派的编辑们最近买了啥？](https://sspai.com/post/85572)
@@ -43,8 +45,6 @@
 * [【2024-01-04】 派早报：三星确认 Unpacked 2024 举办时间等](https://sspai.com/post/85555)
 * [【2024-01-03】 十五道冬日暖锅，助你度过此刻严寒](https://sspai.com/prime/story/one-pot-recipes-for-winter)
 * [【2024-01-03】 城市漫步指南：我的台北之旅，天气不似预期](https://sspai.com/post/85206)
-* [【2024-01-03】 如何入门硬件开发？一个软件开发者的边学边做手记](https://sspai.com/post/85507)
-* [【2024-01-03】 提示词或许需要工程，但提问一定需要智慧](https://sspai.com/post/85484)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-01-05】 小米汽车的动力电池有哪些技术创新？很安全吗？](http://www.zhihu.com/question/637086345/answer/3351086477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-04】 2024 汽车福利活动汇总（持续更新 | 最新1月）](http://zhuanlan.zhihu.com/p/675678012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-31】 小米首款汽车 SU7 搭载的核心部件及技术是否先进？有哪些值得关注的点？](http://www.zhihu.com/question/637238460/answer/3344716232?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-31】 中国全年汽车出口超越日本已成定局，将首登世界第一，导致汽车行业竞争格局变化的原因是什么？](http://www.zhihu.com/question/637226339/answer/3344345015?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-12-28】 如何看待李泓在《洞见对谈》里称「2030 年固态电池有望量产上车」？](http://www.zhihu.com/question/636100697/answer/3341851626?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-28】 《漫长的季节》中体现了哪些东北人的生活态度？](http://www.zhihu.com/question/636479163/answer/3340726793?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-28】 现实主义题材的作品怎么拍才能让观众共鸣？](http://www.zhihu.com/question/636872215/answer/3341185346?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-27】 在电视剧创作的过程中，导演和编剧之间是什么样的关系？谁更重要？](http://www.zhihu.com/question/636534424/answer/3340828045?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-05 05:12:07
+:alarm_clock: 更新时间: 2024-01-06 05:11:12
