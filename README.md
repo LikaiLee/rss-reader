@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-01-08】 Matrix Talk | 极简桌面、优质平替……这是我们的桌搭进化之路](https://sspai.com/post/85556)
+* [【2024-01-08】 派早报：新版快递市场管理办法细化服务规范](https://sspai.com/post/85637)
+* [【2024-01-07】 智能家居的网关新形态：Aqara 方舟智慧中枢 M3 体验](https://sspai.com/post/85621)
+* [【2024-01-06】 放轻松 | It's okay to be sad，这是焦虑和放松带给我的思考](https://sspai.com/post/85499)
 * [【2024-01-07】 有奖 | 我们做了一款人见人爱的移动电源，现在还想用它来帮你「表白」](https://sspai.com/post/85545)
 * [【2024-01-06】 放轻松 | It‘s okay to be sad，这是焦虑和放松带给我的思考](https://sspai.com/post/85499)
 * [【2024-01-05】 本周看什么 | 最近值得一看的一大斛作品](https://sspai.com/post/85594)
 * [【2024-01-05】 不用世界迷雾，还有这些工具来处理足迹](https://sspai.com/post/85505)
 * [【2024-01-05】 App+1 | 用 Collections Database 搭建自己的数据库](https://sspai.com/post/85464)
 * [【2024-01-05】 派早报：微软计划在键盘上新增 Copilot 按键](https://sspai.com/post/85581)
-* [【2024-01-04】 新玩意 169｜少数派的编辑们最近买了啥？](https://sspai.com/post/85572)
-* [【2024-01-04】 放轻松｜精简生活、回味兴趣，生病后的我这样疗愈自己](https://sspai.com/post/85421)
-* [【2024-01-04】 Find N3「全景虚拟屏」浅析：谈到大屏适配，我们究竟在谈些什么？](https://sspai.com/post/84641)
-* [【2024-01-04】 派早报：三星确认 Unpacked 2024 举办时间等](https://sspai.com/post/85555)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-01-08】 神经网络能否被严谨地解释为符号逻辑？](http://www.zhihu.com/question/637090808/answer/3354166358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-05】 小米汽车的动力电池有哪些技术创新？很安全吗？](http://www.zhihu.com/question/637086345/answer/3351086477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-04】 2024 汽车福利活动汇总（持续更新 | 最新1月）](http://zhuanlan.zhihu.com/p/675678012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-31】 小米首款汽车 SU7 搭载的核心部件及技术是否先进？有哪些值得关注的点？](http://www.zhihu.com/question/637238460/answer/3344716232?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2023-12-29】 2024 年，中国经济增长的「绿芽」在哪里？](http://www.zhihu.com/question/635454821/answer/3342059439?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-28】 如何看待李泓在《洞见对谈》里称「2030 年固态电池有望量产上车」？](http://www.zhihu.com/question/636100697/answer/3341851626?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2023-12-28】 《漫长的季节》中体现了哪些东北人的生活态度？](http://www.zhihu.com/question/636479163/answer/3340726793?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-28】 现实主义题材的作品怎么拍才能让观众共鸣？](http://www.zhihu.com/question/636872215/answer/3341185346?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-07 05:11:43
+:alarm_clock: 更新时间: 2024-01-08 05:12:34

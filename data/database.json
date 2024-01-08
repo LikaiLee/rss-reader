@@ -618,6 +618,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Matrix Talk | 极简桌面、优质平替……这是我们的桌搭进化之路",
+                "link": "https://sspai.com/post/85556",
+                "published": "2024-01-08"
+            },
+            {
+                "title": "派早报：新版快递市场管理办法细化服务规范",
+                "link": "https://sspai.com/post/85637",
+                "published": "2024-01-08"
+            },
+            {
+                "title": "智能家居的网关新形态：Aqara 方舟智慧中枢 M3 体验",
+                "link": "https://sspai.com/post/85621",
+                "published": "2024-01-07"
+            },
+            {
+                "title": "放轻松 | It's okay to be sad，这是焦虑和放松带给我的思考",
+                "link": "https://sspai.com/post/85499",
+                "published": "2024-01-06"
+            },
+            {
                 "title": "有奖 | 我们做了一款人见人爱的移动电源，现在还想用它来帮你「表白」",
                 "link": "https://sspai.com/post/85545",
                 "published": "2024-01-07"
@@ -16998,7 +17018,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -47454,6 +47474,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "神经网络能否被严谨地解释为符号逻辑？",
+                "link": "http://www.zhihu.com/question/637090808/answer/3354166358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-08"
+            },
+            {
                 "title": "小米汽车的动力电池有哪些技术创新？很安全吗？",
                 "link": "http://www.zhihu.com/question/637086345/answer/3351086477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-01-05"
@@ -55734,7 +55759,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
