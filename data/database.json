@@ -618,6 +618,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "自建 UniFi 内网监控面板，家庭网络动态尽在掌握",
+                "link": "https://sspai.com/post/85481",
+                "published": "2024-01-09"
+            },
+            {
+                "title": "派早报：OPPO 发布 Find X7 系列，CES 2024 周一发布了什么等",
+                "link": "https://sspai.com/post/85670",
+                "published": "2024-01-09"
+            },
+            {
+                "title": "[送码] 派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/85663",
+                "published": "2024-01-08"
+            },
+            {
+                "title": "辅酶 Q10 对人体健康极其重要，但「补一补」或许没那么必要？",
+                "link": "https://sspai.com/post/85322",
+                "published": "2024-01-08"
+            },
+            {
                 "title": "Matrix Talk | 极简桌面、优质平替……这是我们的桌搭进化之路",
                 "link": "https://sspai.com/post/85556",
                 "published": "2024-01-08"
@@ -47473,6 +47493,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "见证者中的数学原理",
+                "link": "http://zhuanlan.zhihu.com/p/676204647?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-08"
+            },
             {
                 "title": "神经网络能否被严谨地解释为符号逻辑？",
                 "link": "http://www.zhihu.com/question/637090808/answer/3354166358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
