@@ -618,6 +618,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Apple Music 古典乐将在大陆地区上线等",
+                "link": "https://sspai.com/post/85699",
+                "published": "2024-01-10"
+            },
+            {
+                "title": "社区速递 028 | 2023 年度照片、给娃 AI 起名以及作者的新玩意",
+                "link": "https://sspai.com/post/85689",
+                "published": "2024-01-09"
+            },
+            {
+                "title": "放轻松 | 治愈「被互联网影响的心智」",
+                "link": "https://sspai.com/post/85420",
+                "published": "2024-01-09"
+            },
+            {
                 "title": "自建 UniFi 内网监控面板，家庭网络动态尽在掌握",
                 "link": "https://sspai.com/post/85481",
                 "published": "2024-01-09"
@@ -17038,7 +17053,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -47494,6 +47509,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "安全的本质：大模型能否被严谨解释为符号逻辑？｜知乎先行者沙龙分享",
+                "link": "http://zhuanlan.zhihu.com/p/676436144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-09"
+            },
+            {
+                "title": "大模型行业如何持续发展（知乎AI先行者沙龙）",
+                "link": "http://zhuanlan.zhihu.com/p/676874333?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-09"
+            },
+            {
                 "title": "见证者中的数学原理",
                 "link": "http://zhuanlan.zhihu.com/p/676204647?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-01-08"
@@ -55784,7 +55809,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
