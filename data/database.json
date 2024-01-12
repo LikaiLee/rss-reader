@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案",
+                "link": "http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html",
+                "published": "2024-01-12"
+            },
+            {
                 "title": "科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录",
                 "link": "http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html",
                 "published": "2024-01-05"
@@ -610,13 +615,53 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派早报：荣耀发布 Magic6 系列手机、OpenAI 推出 GPTs 商店",
+                "link": "https://sspai.com/post/85764",
+                "published": "2024-01-12"
+            },
+            {
+                "title": "调整页码、转移批注、切割页面：这些命令行工具帮你玩转 PDF",
+                "link": "https://sspai.com/prime/story/cli-utils-for-pdf-manipulations",
+                "published": "2024-01-11"
+            },
+            {
+                "title": "换台新电脑、迎接新一年：2024 Mac 选购指南",
+                "link": "https://sspai.com/post/85735",
+                "published": "2024-01-11"
+            },
+            {
+                "title": "放轻松 | 不再追逐快乐，允许自己悲伤，以及我的思考",
+                "link": "https://sspai.com/post/85462",
+                "published": "2024-01-11"
+            },
+            {
+                "title": "派早报：荣耀发布 MagicOS 8.0、播客工具 Castro 恢复运营等",
+                "link": "https://sspai.com/post/85729",
+                "published": "2024-01-11"
+            },
+            {
+                "title": "定格影像记忆，我们给心中的 2023「年度最佳」颁了奖",
+                "link": "https://sspai.com/post/85655",
+                "published": "2024-01-10"
+            },
+            {
+                "title": "播客 | 开一家自己的出版社，再出一本自己写的书",
+                "link": "https://sspai.com/post/85675",
+                "published": "2024-01-10"
+            },
+            {
+                "title": "Heptabase：重塑知识管理与学习的未来",
+                "link": "https://sspai.com/post/85171",
+                "published": "2024-01-10"
+            },
             {
                 "title": "派早报：Apple Music 古典乐将在大陆地区上线等",
                 "link": "https://sspai.com/post/85699",
@@ -17053,7 +17098,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 8
     },
     {
         "id": 2,
@@ -47509,6 +47554,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "持家之眼扛把子——枪神8 Plus超竞版简评",
+                "link": "http://zhuanlan.zhihu.com/p/677289659?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-11"
+            },
+            {
+                "title": "十八世纪帆船横渡大西洋大约要多久？",
+                "link": "http://www.zhihu.com/question/449782036/answer/1791223243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-11"
+            },
+            {
+                "title": "未来海平面上升 70 米会对全球产生什么影响？",
+                "link": "http://www.zhihu.com/question/595400867/answer/3345603175?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-11"
+            },
+            {
+                "title": "AI 落地进行时，让创新真正触手可及｜AI 先行者沙龙圆桌实录",
+                "link": "http://zhuanlan.zhihu.com/p/676903031?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-10"
+            },
+            {
+                "title": "「百模大战」之后，预见行业新生态｜AI 先行者沙龙圆桌实录",
+                "link": "http://zhuanlan.zhihu.com/p/676902538?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-10"
+            },
+            {
                 "title": "安全的本质：大模型能否被严谨解释为符号逻辑？｜知乎先行者沙龙分享",
                 "link": "http://zhuanlan.zhihu.com/p/676436144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-01-09"
@@ -55809,7 +55879,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     },
     {
         "id": 4,

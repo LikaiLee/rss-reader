@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+8】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+5】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-01-12】 科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html)
 * [【2024-01-05】 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)
 * [【2023-12-29】 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)
 * [【2023-12-22】 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)
@@ -25,7 +26,6 @@
 * [【2023-11-24】 科技爱好者周刊（第 279 期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)
 * [【2023-11-17】 科技爱好者周刊（第 278 期）：棘手的 AI 版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html)
 * [【2023-11-10】 科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html)
-* [【2023-11-03】 科技爱好者周刊（第 276 期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-01-12】 派早报：荣耀发布 Magic6 系列手机、OpenAI 推出 GPTs 商店](https://sspai.com/post/85764)
+* [【2024-01-11】 调整页码、转移批注、切割页面：这些命令行工具帮你玩转 PDF](https://sspai.com/prime/story/cli-utils-for-pdf-manipulations)
+* [【2024-01-11】 换台新电脑、迎接新一年：2024 Mac 选购指南](https://sspai.com/post/85735)
+* [【2024-01-11】 放轻松 | 不再追逐快乐，允许自己悲伤，以及我的思考](https://sspai.com/post/85462)
+* [【2024-01-11】 派早报：荣耀发布 MagicOS 8.0、播客工具 Castro 恢复运营等](https://sspai.com/post/85729)
+* [【2024-01-10】 定格影像记忆，我们给心中的 2023「年度最佳」颁了奖](https://sspai.com/post/85655)
+* [【2024-01-10】 播客 | 开一家自己的出版社，再出一本自己写的书](https://sspai.com/post/85675)
+* [【2024-01-10】 Heptabase：重塑知识管理与学习的未来](https://sspai.com/post/85171)
 * [【2024-01-10】 派早报：Apple Music 古典乐将在大陆地区上线等](https://sspai.com/post/85699)
 * [【2024-01-09】 社区速递 028 | 2023 年度照片、给娃 AI 起名以及作者的新玩意](https://sspai.com/post/85689)
-* [【2024-01-09】 放轻松 | 治愈「被互联网影响的心智」](https://sspai.com/post/85420)
-* [【2024-01-09】 自建 UniFi 内网监控面板，家庭网络动态尽在掌握](https://sspai.com/post/85481)
-* [【2024-01-09】 派早报：OPPO 发布 Find X7 系列，CES 2024 周一发布了什么等](https://sspai.com/post/85670)
-* [【2024-01-08】 [送码] 派评 | 近期值得关注的 App](https://sspai.com/post/85663)
-* [【2024-01-08】 辅酶 Q10 对人体健康极其重要，但「补一补」或许没那么必要？](https://sspai.com/post/85322)
-* [【2024-01-08】 Matrix Talk | 极简桌面、优质平替……这是我们的桌搭进化之路](https://sspai.com/post/85556)
-* [【2024-01-08】 派早报：新版快递市场管理办法细化服务规范](https://sspai.com/post/85637)
-* [【2024-01-07】 智能家居的网关新形态：Aqara 方舟智慧中枢 M3 体验](https://sspai.com/post/85621)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2024-01-11】 持家之眼扛把子——枪神8 Plus超竞版简评](http://zhuanlan.zhihu.com/p/677289659?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-01-11】 十八世纪帆船横渡大西洋大约要多久？](http://www.zhihu.com/question/449782036/answer/1791223243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-01-11】 未来海平面上升 70 米会对全球产生什么影响？](http://www.zhihu.com/question/595400867/answer/3345603175?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-01-10】 AI 落地进行时，让创新真正触手可及｜AI 先行者沙龙圆桌实录](http://zhuanlan.zhihu.com/p/676903031?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-01-10】 「百模大战」之后，预见行业新生态｜AI 先行者沙龙圆桌实录](http://zhuanlan.zhihu.com/p/676902538?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-09】 安全的本质：大模型能否被严谨解释为符号逻辑？｜知乎先行者沙龙分享](http://zhuanlan.zhihu.com/p/676436144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-09】 大模型行业如何持续发展（知乎AI先行者沙龙）](http://zhuanlan.zhihu.com/p/676874333?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-08】 见证者中的数学原理](http://zhuanlan.zhihu.com/p/676204647?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-08】 神经网络能否被严谨地解释为符号逻辑？](http://www.zhihu.com/question/637090808/answer/3354166358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-05】 小米汽车的动力电池有哪些技术创新？很安全吗？](http://www.zhihu.com/question/637086345/answer/3351086477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-04】 2024 汽车福利活动汇总（持续更新 | 最新1月）](http://zhuanlan.zhihu.com/p/675678012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-31】 小米首款汽车 SU7 搭载的核心部件及技术是否先进？有哪些值得关注的点？](http://www.zhihu.com/question/637238460/answer/3344716232?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-31】 中国全年汽车出口超越日本已成定局，将首登世界第一，导致汽车行业竞争格局变化的原因是什么？](http://www.zhihu.com/question/637226339/answer/3344345015?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-29】 如何看待苏晓晔在《洞见对谈》里称「预防大于治疗，关注疾病不如关注健康」？](http://www.zhihu.com/question/636103860/answer/3342499162?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2023-12-29】 如何看待张小北在《洞见对谈》里称「科幻从不负责预言未来，它让我们相信一种未来」？](http://www.zhihu.com/question/636101295/answer/3342060395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-10 05:12:15
+:alarm_clock: 更新时间: 2024-01-12 05:12:36
