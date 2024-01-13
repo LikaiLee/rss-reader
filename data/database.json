@@ -615,13 +615,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/85779",
+                "published": "2024-01-12"
+            },
+            {
+                "title": "焕然一新的 Thunderbird 也许是最好的 Windows 邮件日历客户端",
+                "link": "https://sspai.com/post/85622",
+                "published": "2024-01-12"
+            },
+            {
+                "title": "众测 | 性能至强，有龙则灵：第二期先享体验计划荣耀Magic6 Pro 开启",
+                "link": "https://sspai.com/post/85765",
+                "published": "2024-01-12"
+            },
             {
                 "title": "派早报：荣耀发布 Magic6 系列手机、OpenAI 推出 GPTs 商店",
                 "link": "https://sspai.com/post/85764",
@@ -17098,7 +17113,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -55879,7 +55894,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 0
     },
     {
         "id": 4,

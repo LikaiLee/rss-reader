@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+8】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+5】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-01-12】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/85779)
+* [【2024-01-12】 焕然一新的 Thunderbird 也许是最好的 Windows 邮件日历客户端](https://sspai.com/post/85622)
+* [【2024-01-12】 众测 | 性能至强，有龙则灵：第二期先享体验计划荣耀Magic6 Pro 开启](https://sspai.com/post/85765)
 * [【2024-01-12】 派早报：荣耀发布 Magic6 系列手机、OpenAI 推出 GPTs 商店](https://sspai.com/post/85764)
 * [【2024-01-11】 调整页码、转移批注、切割页面：这些命令行工具帮你玩转 PDF](https://sspai.com/prime/story/cli-utils-for-pdf-manipulations)
 * [【2024-01-11】 换台新电脑、迎接新一年：2024 Mac 选购指南](https://sspai.com/post/85735)
@@ -42,9 +45,6 @@
 * [【2024-01-11】 派早报：荣耀发布 MagicOS 8.0、播客工具 Castro 恢复运营等](https://sspai.com/post/85729)
 * [【2024-01-10】 定格影像记忆，我们给心中的 2023「年度最佳」颁了奖](https://sspai.com/post/85655)
 * [【2024-01-10】 播客 | 开一家自己的出版社，再出一本自己写的书](https://sspai.com/post/85675)
-* [【2024-01-10】 Heptabase：重塑知识管理与学习的未来](https://sspai.com/post/85171)
-* [【2024-01-10】 派早报：Apple Music 古典乐将在大陆地区上线等](https://sspai.com/post/85699)
-* [【2024-01-09】 社区速递 028 | 2023 年度照片、给娃 AI 起名以及作者的新玩意](https://sspai.com/post/85689)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-12 05:12:36
+:alarm_clock: 更新时间: 2024-01-13 05:12:07
