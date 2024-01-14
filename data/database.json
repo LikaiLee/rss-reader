@@ -623,6 +623,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "用好 F12，一键开启浏览器的「上帝模式」",
+                "link": "https://sspai.com/post/85686",
+                "published": "2024-01-13"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/85779",
                 "published": "2024-01-12"
@@ -17113,7 +17118,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,

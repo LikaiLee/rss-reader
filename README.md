@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-01-13】 用好 F12，一键开启浏览器的「上帝模式」](https://sspai.com/post/85686)
 * [【2024-01-12】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/85779)
 * [【2024-01-12】 焕然一新的 Thunderbird 也许是最好的 Windows 邮件日历客户端](https://sspai.com/post/85622)
 * [【2024-01-12】 众测 | 性能至强，有龙则灵：第二期先享体验计划荣耀Magic6 Pro 开启](https://sspai.com/post/85765)
@@ -44,7 +45,6 @@
 * [【2024-01-11】 放轻松 | 不再追逐快乐，允许自己悲伤，以及我的思考](https://sspai.com/post/85462)
 * [【2024-01-11】 派早报：荣耀发布 MagicOS 8.0、播客工具 Castro 恢复运营等](https://sspai.com/post/85729)
 * [【2024-01-10】 定格影像记忆，我们给心中的 2023「年度最佳」颁了奖](https://sspai.com/post/85655)
-* [【2024-01-10】 播客 | 开一家自己的出版社，再出一本自己写的书](https://sspai.com/post/85675)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-13 05:12:07
+:alarm_clock: 更新时间: 2024-01-14 05:11:41
