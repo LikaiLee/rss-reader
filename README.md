@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-01-14】 CES 2024 亮点回顾：硬件软件两开花](https://sspai.com/post/85807)
 * [【2024-01-13】 用好 F12，一键开启浏览器的「上帝模式」](https://sspai.com/post/85686)
 * [【2024-01-12】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/85779)
 * [【2024-01-12】 焕然一新的 Thunderbird 也许是最好的 Windows 邮件日历客户端](https://sspai.com/post/85622)
@@ -44,7 +45,6 @@
 * [【2024-01-11】 换台新电脑、迎接新一年：2024 Mac 选购指南](https://sspai.com/post/85735)
 * [【2024-01-11】 放轻松 | 不再追逐快乐，允许自己悲伤，以及我的思考](https://sspai.com/post/85462)
 * [【2024-01-11】 派早报：荣耀发布 MagicOS 8.0、播客工具 Castro 恢复运营等](https://sspai.com/post/85729)
-* [【2024-01-10】 定格影像记忆，我们给心中的 2023「年度最佳」颁了奖](https://sspai.com/post/85655)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-01-15】 破譯了一段更奇妙的亂碼 [Pk-116]](http://zhuanlan.zhihu.com/p/676267027?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-11】 持家之眼扛把子——枪神8 Plus超竞版简评](http://zhuanlan.zhihu.com/p/677289659?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-11】 十八世纪帆船横渡大西洋大约要多久？](http://www.zhihu.com/question/449782036/answer/1791223243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-11】 未来海平面上升 70 米会对全球产生什么影响？](http://www.zhihu.com/question/595400867/answer/3345603175?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-01-09】 大模型行业如何持续发展（知乎AI先行者沙龙）](http://zhuanlan.zhihu.com/p/676874333?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-08】 见证者中的数学原理](http://zhuanlan.zhihu.com/p/676204647?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-08】 神经网络能否被严谨地解释为符号逻辑？](http://www.zhihu.com/question/637090808/answer/3354166358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-05】 小米汽车的动力电池有哪些技术创新？很安全吗？](http://www.zhihu.com/question/637086345/answer/3351086477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-14 05:11:41
+:alarm_clock: 更新时间: 2024-01-15 05:12:47

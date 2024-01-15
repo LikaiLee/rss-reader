@@ -623,6 +623,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "CES 2024 亮点回顾：硬件软件两开花",
+                "link": "https://sspai.com/post/85807",
+                "published": "2024-01-14"
+            },
+            {
                 "title": "用好 F12，一键开启浏览器的「上帝模式」",
                 "link": "https://sspai.com/post/85686",
                 "published": "2024-01-13"
@@ -47574,6 +47579,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "破譯了一段更奇妙的亂碼 [Pk-116]",
+                "link": "http://zhuanlan.zhihu.com/p/676267027?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-15"
+            },
+            {
                 "title": "持家之眼扛把子——枪神8 Plus超竞版简评",
                 "link": "http://zhuanlan.zhihu.com/p/677289659?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-01-11"
@@ -55899,7 +55909,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
