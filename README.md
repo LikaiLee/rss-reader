@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派)
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-01-19】 科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html)
 * [【2024-01-12】 科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html)
 * [【2024-01-05】 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)
 * [【2023-12-29】 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)
@@ -25,7 +26,6 @@
 * [【2023-12-01】 科技爱好者周刊（第 280 期）：机器点餐与宅文化](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html)
 * [【2023-11-24】 科技爱好者周刊（第 279 期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)
 * [【2023-11-17】 科技爱好者周刊（第 278 期）：棘手的 AI 版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html)
-* [【2023-11-10】 科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-18 05:12:33
+:alarm_clock: 更新时间: 2024-01-19 05:12:01
