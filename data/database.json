@@ -620,13 +620,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/85939",
+                "published": "2024-01-19"
+            },
+            {
+                "title": "买点年货送人送己，少数派的年货节来了",
+                "link": "https://sspai.com/post/85933",
+                "published": "2024-01-19"
+            },
             {
                 "title": "原理、对策与产品：聊聊牙齿美白两三事",
                 "link": "https://sspai.com/prime/story/teeth-whitening",
@@ -17133,7 +17143,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -47589,6 +47599,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何理解心理学教授王小华分享的「职场人设跟真实自我的关系与平衡」问题？",
+                "link": "http://www.zhihu.com/question/639632403/answer/3367927947?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-19"
+            },
+            {
+                "title": "如何理解心理学教授王小华分享的「为什么当你『松弛』下来会产生愧疚感」？",
+                "link": "http://www.zhihu.com/question/639632408/answer/3367943685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-19"
+            },
+            {
+                "title": "如何理解心理学教授王小华分享的「面对职场打压如何做心理调适」？",
+                "link": "http://www.zhihu.com/question/639759605/answer/3367933436?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-19"
+            },
+            {
                 "title": "冲高教科书—ThinkBook 14+ 2024评测",
                 "link": "http://zhuanlan.zhihu.com/p/652181681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-01-17"
@@ -55944,7 +55969,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 4,

@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派)
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-01-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/85939)
+* [【2024-01-19】 买点年货送人送己，少数派的年货节来了](https://sspai.com/post/85933)
 * [【2024-01-16】 原理、对策与产品：聊聊牙齿美白两三事](https://sspai.com/prime/story/teeth-whitening)
 * [【2024-01-14】 CES 2024 亮点回顾：硬件软件两开花](https://sspai.com/post/85807)
 * [【2024-01-13】 用好 F12，一键开启浏览器的「上帝模式」](https://sspai.com/post/85686)
@@ -43,8 +45,6 @@
 * [【2024-01-12】 众测 | 性能至强，有龙则灵：第二期先享体验计划荣耀Magic6 Pro 开启](https://sspai.com/post/85765)
 * [【2024-01-12】 派早报：荣耀发布 Magic6 系列手机、OpenAI 推出 GPTs 商店](https://sspai.com/post/85764)
 * [【2024-01-11】 调整页码、转移批注、切割页面：这些命令行工具帮你玩转 PDF](https://sspai.com/prime/story/cli-utils-for-pdf-manipulations)
-* [【2024-01-11】 换台新电脑、迎接新一年：2024 Mac 选购指南](https://sspai.com/post/85735)
-* [【2024-01-11】 放轻松 | 不再追逐快乐，允许自己悲伤，以及我的思考](https://sspai.com/post/85462)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2024-01-19】 如何理解心理学教授王小华分享的「职场人设跟真实自我的关系与平衡」问题？](http://www.zhihu.com/question/639632403/answer/3367927947?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-01-19】 如何理解心理学教授王小华分享的「为什么当你『松弛』下来会产生愧疚感」？](http://www.zhihu.com/question/639632408/answer/3367943685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-01-19】 如何理解心理学教授王小华分享的「面对职场打压如何做心理调适」？](http://www.zhihu.com/question/639759605/answer/3367933436?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-17】 冲高教科书—ThinkBook 14+ 2024评测](http://zhuanlan.zhihu.com/p/652181681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-16】 为什么江南园林都长一个样？](http://zhuanlan.zhihu.com/p/673080365?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-15】 羽毛球的那些梗](http://zhuanlan.zhihu.com/p/563084036?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2024-01-15】 职业教育的春天是不是已经来了？](http://www.zhihu.com/question/504612899/answer/3358524036?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-15】 破譯了一段更奇妙的亂碼 [Pk-116]](http://zhuanlan.zhihu.com/p/676267027?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-11】 持家之眼扛把子——枪神8 Plus超竞版简评](http://zhuanlan.zhihu.com/p/677289659?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-11】 十八世纪帆船横渡大西洋大约要多久？](http://www.zhihu.com/question/449782036/answer/1791223243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-11】 未来海平面上升 70 米会对全球产生什么影响？](http://www.zhihu.com/question/595400867/answer/3345603175?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-10】 AI 落地进行时，让创新真正触手可及｜AI 先行者沙龙圆桌实录](http://zhuanlan.zhihu.com/p/676903031?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-19 05:12:01
+:alarm_clock: 更新时间: 2024-01-20 05:11:45
