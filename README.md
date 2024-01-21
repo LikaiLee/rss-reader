@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-01-20】 App+1 | 使用 Asciidoc 制作学术个人主页](https://sspai.com/post/85757)
 * [【2024-01-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/85939)
 * [【2024-01-19】 买点年货送人送己，少数派的年货节来了](https://sspai.com/post/85933)
 * [【2024-01-16】 原理、对策与产品：聊聊牙齿美白两三事](https://sspai.com/prime/story/teeth-whitening)
@@ -44,7 +45,6 @@
 * [【2024-01-12】 焕然一新的 Thunderbird 也许是最好的 Windows 邮件日历客户端](https://sspai.com/post/85622)
 * [【2024-01-12】 众测 | 性能至强，有龙则灵：第二期先享体验计划荣耀Magic6 Pro 开启](https://sspai.com/post/85765)
 * [【2024-01-12】 派早报：荣耀发布 Magic6 系列手机、OpenAI 推出 GPTs 商店](https://sspai.com/post/85764)
-* [【2024-01-11】 调整页码、转移批注、切割页面：这些命令行工具帮你玩转 PDF](https://sspai.com/prime/story/cli-utils-for-pdf-manipulations)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-20 05:11:45
+:alarm_clock: 更新时间: 2024-01-21 05:32:41
