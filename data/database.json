@@ -628,6 +628,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "无限循环：最独特的 Apple Store 上周永久停业，但它的故事不会就此了结",
+                "link": "https://sspai.com/post/85883",
+                "published": "2024-01-22"
+            },
+            {
+                "title": "派早报：Vision Pro 上架资讯汇总",
+                "link": "https://sspai.com/post/85973",
+                "published": "2024-01-22"
+            },
+            {
+                "title": "放轻松 | 放松身体，是一件值得专门花时间的事",
+                "link": "https://sspai.com/post/85754",
+                "published": "2024-01-21"
+            },
+            {
                 "title": "App+1 | 使用 Asciidoc 制作学术个人主页",
                 "link": "https://sspai.com/post/85757",
                 "published": "2024-01-20"
@@ -17148,7 +17163,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

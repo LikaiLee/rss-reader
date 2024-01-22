@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-01-22】 无限循环：最独特的 Apple Store 上周永久停业，但它的故事不会就此了结](https://sspai.com/post/85883)
+* [【2024-01-22】 派早报：Vision Pro 上架资讯汇总](https://sspai.com/post/85973)
+* [【2024-01-21】 放轻松 | 放松身体，是一件值得专门花时间的事](https://sspai.com/post/85754)
 * [【2024-01-20】 App+1 | 使用 Asciidoc 制作学术个人主页](https://sspai.com/post/85757)
 * [【2024-01-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/85939)
 * [【2024-01-19】 买点年货送人送己，少数派的年货节来了](https://sspai.com/post/85933)
@@ -42,9 +45,6 @@
 * [【2024-01-14】 CES 2024 亮点回顾：硬件软件两开花](https://sspai.com/post/85807)
 * [【2024-01-13】 用好 F12，一键开启浏览器的「上帝模式」](https://sspai.com/post/85686)
 * [【2024-01-12】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/85779)
-* [【2024-01-12】 焕然一新的 Thunderbird 也许是最好的 Windows 邮件日历客户端](https://sspai.com/post/85622)
-* [【2024-01-12】 众测 | 性能至强，有龙则灵：第二期先享体验计划荣耀Magic6 Pro 开启](https://sspai.com/post/85765)
-* [【2024-01-12】 派早报：荣耀发布 Magic6 系列手机、OpenAI 推出 GPTs 商店](https://sspai.com/post/85764)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-21 05:32:41
+:alarm_clock: 更新时间: 2024-01-22 05:12:47
