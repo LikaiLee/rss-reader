@@ -628,6 +628,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技｜巧用 Keyboard Maestro，快速在备忘录中记录窗口的选中内容",
+                "link": "https://sspai.com/post/85816",
+                "published": "2024-01-23"
+            },
+            {
+                "title": "派早报：Apple 发布 iOS/iPadOS 17.3 与 macOS 14.3 等正式版",
+                "link": "https://sspai.com/post/85997",
+                "published": "2024-01-23"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/85988",
+                "published": "2024-01-22"
+            },
+            {
+                "title": "树莓派 DIY 墨水屏相框完全指南",
+                "link": "https://sspai.com/prime/story/tutorial-diy-eink-photoframe-with-rpi",
+                "published": "2024-01-22"
+            },
+            {
+                "title": "Notion Calendar 上线简评：终于打通 Notion 与日历，却难说完美",
+                "link": "https://sspai.com/post/85941",
+                "published": "2024-01-22"
+            },
+            {
                 "title": "无限循环：最独特的 Apple Store 上周永久停业，但它的故事不会就此了结",
                 "link": "https://sspai.com/post/85883",
                 "published": "2024-01-22"
@@ -17163,7 +17188,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,

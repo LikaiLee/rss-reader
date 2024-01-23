@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-01-23】 一日一技｜巧用 Keyboard Maestro，快速在备忘录中记录窗口的选中内容](https://sspai.com/post/85816)
+* [【2024-01-23】 派早报：Apple 发布 iOS/iPadOS 17.3 与 macOS 14.3 等正式版](https://sspai.com/post/85997)
+* [【2024-01-22】 派评 | 近期值得关注的 App](https://sspai.com/post/85988)
+* [【2024-01-22】 树莓派 DIY 墨水屏相框完全指南](https://sspai.com/prime/story/tutorial-diy-eink-photoframe-with-rpi)
+* [【2024-01-22】 Notion Calendar 上线简评：终于打通 Notion 与日历，却难说完美](https://sspai.com/post/85941)
 * [【2024-01-22】 无限循环：最独特的 Apple Store 上周永久停业，但它的故事不会就此了结](https://sspai.com/post/85883)
 * [【2024-01-22】 派早报：Vision Pro 上架资讯汇总](https://sspai.com/post/85973)
 * [【2024-01-21】 放轻松 | 放松身体，是一件值得专门花时间的事](https://sspai.com/post/85754)
 * [【2024-01-20】 App+1 | 使用 Asciidoc 制作学术个人主页](https://sspai.com/post/85757)
 * [【2024-01-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/85939)
-* [【2024-01-19】 买点年货送人送己，少数派的年货节来了](https://sspai.com/post/85933)
-* [【2024-01-16】 原理、对策与产品：聊聊牙齿美白两三事](https://sspai.com/prime/story/teeth-whitening)
-* [【2024-01-14】 CES 2024 亮点回顾：硬件软件两开花](https://sspai.com/post/85807)
-* [【2024-01-13】 用好 F12，一键开启浏览器的「上帝模式」](https://sspai.com/post/85686)
-* [【2024-01-12】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/85779)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-22 05:12:47
+:alarm_clock: 更新时间: 2024-01-23 05:12:18
