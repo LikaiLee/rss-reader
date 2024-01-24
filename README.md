@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-01-24】 看完 Sam Altman 的斯坦福创业课，我学到了什么？](https://sspai.com/post/84988)
+* [【2024-01-24】 派早报：Apple 将为空间音频内容创作者提供版税补贴等](https://sspai.com/post/86018)
+* [【2024-01-23】 社区速递 029 | 投影仪折腾、在看的书以及作者们的新玩意](https://sspai.com/post/86008)
+* [【2024-01-23】 放轻松 | 摆脱碎片化，让放松触手可及](https://sspai.com/post/85763)
 * [【2024-01-23】 一日一技｜巧用 Keyboard Maestro，快速在备忘录中记录窗口的选中内容](https://sspai.com/post/85816)
 * [【2024-01-23】 派早报：Apple 发布 iOS/iPadOS 17.3 与 macOS 14.3 等正式版](https://sspai.com/post/85997)
 * [【2024-01-22】 派评 | 近期值得关注的 App](https://sspai.com/post/85988)
 * [【2024-01-22】 树莓派 DIY 墨水屏相框完全指南](https://sspai.com/prime/story/tutorial-diy-eink-photoframe-with-rpi)
 * [【2024-01-22】 Notion Calendar 上线简评：终于打通 Notion 与日历，却难说完美](https://sspai.com/post/85941)
 * [【2024-01-22】 无限循环：最独特的 Apple Store 上周永久停业，但它的故事不会就此了结](https://sspai.com/post/85883)
-* [【2024-01-22】 派早报：Vision Pro 上架资讯汇总](https://sspai.com/post/85973)
-* [【2024-01-21】 放轻松 | 放松身体，是一件值得专门花时间的事](https://sspai.com/post/85754)
-* [【2024-01-20】 App+1 | 使用 Asciidoc 制作学术个人主页](https://sspai.com/post/85757)
-* [【2024-01-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/85939)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-23 05:12:18
+:alarm_clock: 更新时间: 2024-01-24 05:12:44

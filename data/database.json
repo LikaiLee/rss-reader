@@ -628,6 +628,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "看完 Sam Altman 的斯坦福创业课，我学到了什么？",
+                "link": "https://sspai.com/post/84988",
+                "published": "2024-01-24"
+            },
+            {
+                "title": "派早报：Apple 将为空间音频内容创作者提供版税补贴等",
+                "link": "https://sspai.com/post/86018",
+                "published": "2024-01-24"
+            },
+            {
+                "title": "社区速递 029 | 投影仪折腾、在看的书以及作者们的新玩意",
+                "link": "https://sspai.com/post/86008",
+                "published": "2024-01-23"
+            },
+            {
+                "title": "放轻松 | 摆脱碎片化，让放松触手可及",
+                "link": "https://sspai.com/post/85763",
+                "published": "2024-01-23"
+            },
+            {
                 "title": "一日一技｜巧用 Keyboard Maestro，快速在备忘录中记录窗口的选中内容",
                 "link": "https://sspai.com/post/85816",
                 "published": "2024-01-23"
@@ -17188,7 +17208,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
