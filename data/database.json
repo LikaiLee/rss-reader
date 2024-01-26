@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 288 期）：技术写作的首要诀窍",
+                "link": "http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html",
+                "published": "2024-01-26"
+            },
+            {
                 "title": "科技爱好者周刊（第 287 期）：禄丰恐龙谷记行",
                 "link": "http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html",
                 "published": "2024-01-19"
@@ -620,13 +625,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "播客 | 创业就是如果你对你的工作不满意，那就永远不退休",
+                "link": "https://sspai.com/post/86101",
+                "published": "2024-01-26"
+            },
+            {
+                "title": "派早报：OPPO 与诺基亚达成专利交叉许可协议，微软游戏部门裁员 1900 人等",
+                "link": "https://sspai.com/post/86095",
+                "published": "2024-01-26"
+            },
+            {
+                "title": "遇见皆是好风景：我们影像里的 2024 少数派泰国团建",
+                "link": "https://sspai.com/post/86088",
+                "published": "2024-01-25"
+            },
+            {
+                "title": "新玩意 170｜少数派的编辑们最近买了啥？（泰国特别篇）",
+                "link": "https://sspai.com/post/86083",
+                "published": "2024-01-25"
+            },
+            {
+                "title": "如何为 Apple ID 和 iCloud 资料「搬家」：我的迁移经历以及经验分享",
+                "link": "https://sspai.com/post/85912",
+                "published": "2024-01-25"
+            },
             {
                 "title": "学点复式记账，让个人理财更有逻辑",
                 "link": "https://sspai.com/post/85033",
@@ -17228,7 +17258,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -47684,6 +47714,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "全国高铁网车次密度示意图 2024年1月",
+                "link": "http://zhuanlan.zhihu.com/p/679679135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-26"
+            },
+            {
+                "title": "北京为何称为中国文化中心？",
+                "link": "http://www.zhihu.com/question/59444812/answer/3196768901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-26"
+            },
+            {
+                "title": "「Legend of Cretaceous丨白垩传○1」末世对决（上）：进击的暴龙",
+                "link": "http://zhuanlan.zhihu.com/p/60973952?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-26"
+            },
+            {
+                "title": "喜羊羊与灰太狼在你心中地位有多高？",
+                "link": "http://www.zhihu.com/question/514570746/answer/3373690481?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-25"
+            },
+            {
                 "title": "如何理解心理学教授王小华分享的「职场人设跟真实自我的关系与平衡」问题？",
                 "link": "http://www.zhihu.com/question/639632403/answer/3367927947?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-01-19"
@@ -56054,7 +56104,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 4,
