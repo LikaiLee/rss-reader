@@ -625,13 +625,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/86118",
+                "published": "2024-01-26"
+            },
+            {
+                "title": "为 Steam Deck 装载更多可能性：Decky Loader 插件推荐",
+                "link": "https://sspai.com/post/85809",
+                "published": "2024-01-26"
+            },
             {
                 "title": "播客 | 创业就是如果你对你的工作不满意，那就永远不退休",
                 "link": "https://sspai.com/post/86101",
@@ -17258,7 +17268,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -56104,7 +56114,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 0
     },
     {
         "id": 4,
