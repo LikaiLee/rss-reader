@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-01-27】 概念、趋势、产品推荐：近期大模型应用方向解析](https://sspai.com/post/86005)
 * [【2024-01-26】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86118)
 * [【2024-01-26】 为 Steam Deck 装载更多可能性：Decky Loader 插件推荐](https://sspai.com/post/85809)
 * [【2024-01-26】 播客 | 创业就是如果你对你的工作不满意，那就永远不退休](https://sspai.com/post/86101)
@@ -44,7 +45,6 @@
 * [【2024-01-25】 如何为 Apple ID 和 iCloud 资料「搬家」：我的迁移经历以及经验分享](https://sspai.com/post/85912)
 * [【2024-01-25】 学点复式记账，让个人理财更有逻辑](https://sspai.com/post/85033)
 * [【2024-01-25】 派早报：Chrome 引入 AI 功能、Apple 开启 2024 Swift 学生挑战赛等](https://sspai.com/post/86068)
-* [【2024-01-24】 Macintosh：40 年之前的故事](https://sspai.com/post/73310)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-27 05:11:03
+:alarm_clock: 更新时间: 2024-01-28 05:11:43
