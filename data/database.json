@@ -633,6 +633,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "摩拳擦掌准备假期旅行？这些冷门但必备的好物，推荐给你",
+                "link": "https://sspai.com/post/86007",
+                "published": "2024-01-29"
+            },
+            {
+                "title": "派早报：App Store 在欧合规举措引起批评",
+                "link": "https://sspai.com/post/86150",
+                "published": "2024-01-29"
+            },
+            {
+                "title": "一日一技 | 达玛卡亚冥想法入门指南",
+                "link": "https://sspai.com/post/86003",
+                "published": "2024-01-28"
+            },
+            {
                 "title": "概念、趋势、产品推荐：近期大模型应用方向解析",
                 "link": "https://sspai.com/post/86005",
                 "published": "2024-01-27"
@@ -17273,7 +17288,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -47729,6 +47744,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "当教室突然安静——扰动，突变与回复",
+                "link": "http://zhuanlan.zhihu.com/p/679862117?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-29"
+            },
+            {
                 "title": "全国高铁网车次密度示意图 2024年1月",
                 "link": "http://zhuanlan.zhihu.com/p/679679135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-01-26"
@@ -56119,7 +56139,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

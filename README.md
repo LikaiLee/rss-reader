@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-01-29】 摩拳擦掌准备假期旅行？这些冷门但必备的好物，推荐给你](https://sspai.com/post/86007)
+* [【2024-01-29】 派早报：App Store 在欧合规举措引起批评](https://sspai.com/post/86150)
+* [【2024-01-28】 一日一技 | 达玛卡亚冥想法入门指南](https://sspai.com/post/86003)
 * [【2024-01-27】 概念、趋势、产品推荐：近期大模型应用方向解析](https://sspai.com/post/86005)
 * [【2024-01-26】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86118)
 * [【2024-01-26】 为 Steam Deck 装载更多可能性：Decky Loader 插件推荐](https://sspai.com/post/85809)
@@ -42,9 +45,6 @@
 * [【2024-01-26】 派早报：OPPO 与诺基亚达成专利交叉许可协议，微软游戏部门裁员 1900 人等](https://sspai.com/post/86095)
 * [【2024-01-25】 遇见皆是好风景：我们影像里的 2024 少数派泰国团建](https://sspai.com/post/86088)
 * [【2024-01-25】 新玩意 170｜少数派的编辑们最近买了啥？（泰国特别篇）](https://sspai.com/post/86083)
-* [【2024-01-25】 如何为 Apple ID 和 iCloud 资料「搬家」：我的迁移经历以及经验分享](https://sspai.com/post/85912)
-* [【2024-01-25】 学点复式记账，让个人理财更有逻辑](https://sspai.com/post/85033)
-* [【2024-01-25】 派早报：Chrome 引入 AI 功能、Apple 开启 2024 Swift 学生挑战赛等](https://sspai.com/post/86068)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-01-29】 当教室突然安静——扰动，突变与回复](http://zhuanlan.zhihu.com/p/679862117?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-26】 全国高铁网车次密度示意图 2024年1月](http://zhuanlan.zhihu.com/p/679679135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-26】 北京为何称为中国文化中心？](http://www.zhihu.com/question/59444812/answer/3196768901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-26】 「Legend of Cretaceous丨白垩传○1」末世对决（上）：进击的暴龙](http://zhuanlan.zhihu.com/p/60973952?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-01-19】 如何理解心理学教授王小华分享的「面对职场打压如何做心理调适」？](http://www.zhihu.com/question/639759605/answer/3367933436?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-17】 冲高教科书—ThinkBook 14+ 2024评测](http://zhuanlan.zhihu.com/p/652181681?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-16】 为什么江南园林都长一个样？](http://zhuanlan.zhihu.com/p/673080365?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-15】 羽毛球的那些梗](http://zhuanlan.zhihu.com/p/563084036?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-28 05:11:43
+:alarm_clock: 更新时间: 2024-01-29 05:12:34
