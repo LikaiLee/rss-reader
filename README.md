@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-01-30】 失窃设备保护、Apple Music 协作播放列表……iOS 17.3 值得关注的新特性](https://sspai.com/post/86155)
+* [【2024-01-30】 派早报：小红书上线「风险地点」举报专线的公告，森海塞尔 ACCENTUM Plus 发布等](https://sspai.com/post/86177)
+* [【2024-01-29】 新机械键盘结构漫谈（上）](https://sspai.com/prime/story/mechanic-keyboard-structures-01)
+* [【2024-01-29】 派评 | 近期值得关注的 App](https://sspai.com/post/86166)
+* [【2024-01-29】 纸与数字碰撞：找到你最适合的记笔记方法](https://sspai.com/post/85800)
 * [【2024-01-29】 摩拳擦掌准备假期旅行？这些冷门但必备的好物，推荐给你](https://sspai.com/post/86007)
 * [【2024-01-29】 派早报：App Store 在欧合规举措引起批评](https://sspai.com/post/86150)
 * [【2024-01-28】 一日一技 | 达玛卡亚冥想法入门指南](https://sspai.com/post/86003)
 * [【2024-01-27】 概念、趋势、产品推荐：近期大模型应用方向解析](https://sspai.com/post/86005)
 * [【2024-01-26】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86118)
-* [【2024-01-26】 为 Steam Deck 装载更多可能性：Decky Loader 插件推荐](https://sspai.com/post/85809)
-* [【2024-01-26】 播客 | 创业就是如果你对你的工作不满意，那就永远不退休](https://sspai.com/post/86101)
-* [【2024-01-26】 派早报：OPPO 与诺基亚达成专利交叉许可协议，微软游戏部门裁员 1900 人等](https://sspai.com/post/86095)
-* [【2024-01-25】 遇见皆是好风景：我们影像里的 2024 少数派泰国团建](https://sspai.com/post/86088)
-* [【2024-01-25】 新玩意 170｜少数派的编辑们最近买了啥？（泰国特别篇）](https://sspai.com/post/86083)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-01-29 05:12:34
+:alarm_clock: 更新时间: 2024-01-30 05:12:12
