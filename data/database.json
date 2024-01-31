@@ -633,6 +633,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "丰田皇冠简史",
+                "link": "https://sspai.com/post/82267",
+                "published": "2024-01-31"
+            },
+            {
+                "title": "派早报：大模型新闻三则、首例 Neuralink 人体植入进展顺利",
+                "link": "https://sspai.com/post/86197",
+                "published": "2024-01-31"
+            },
+            {
+                "title": "社区速递 030 | 年度作者、能量小食和新玩意",
+                "link": "https://sspai.com/post/86185",
+                "published": "2024-01-30"
+            },
+            {
+                "title": "城市漫步指南：冬天快要过去，夏季北欧行可以开始计划了",
+                "link": "https://sspai.com/post/85975",
+                "published": "2024-01-30"
+            },
+            {
                 "title": "失窃设备保护、Apple Music 协作播放列表……iOS 17.3 值得关注的新特性",
                 "link": "https://sspai.com/post/86155",
                 "published": "2024-01-30"
@@ -17313,7 +17333,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -47769,6 +47789,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有哪些令人叹为观止的细节？",
+                "link": "http://www.zhihu.com/question/63537524/answer/3364481763?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-31"
+            },
+            {
+                "title": "为什么深圳地铁的线路规划不像北京一样设计成棋盘布局？",
+                "link": "http://www.zhihu.com/question/63842971/answer/565524025?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-30"
+            },
+            {
                 "title": "当教室突然安静——扰动，突变与回复",
                 "link": "http://zhuanlan.zhihu.com/p/679862117?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-01-29"
@@ -56164,7 +56194,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
