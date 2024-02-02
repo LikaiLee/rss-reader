@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-02-02】 科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)
 * [【2024-01-26】 科技爱好者周刊（第 288 期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html)
 * [【2024-01-19】 科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html)
 * [【2024-01-12】 科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html)
@@ -25,7 +26,6 @@
 * [【2023-12-15】 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)
 * [【2023-12-08】 科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)
 * [【2023-12-01】 科技爱好者周刊（第 280 期）：机器点餐与宅文化](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html)
-* [【2023-11-24】 科技爱好者周刊（第 279 期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-02-02】 早晚用得上的生活指南：我的第一次拔牙经历分享](https://sspai.com/post/86201)
+* [【2024-02-02】 派早报：HMD Global 社交账户改名、第三方社区「Linux 中国」停止运营等](https://sspai.com/post/86250)
+* [【2024-02-01】 新玩意 171｜少数派的编辑们最近买了啥？](https://sspai.com/post/86233)
+* [【2024-02-01】 当《原神》不再启动：聊聊我的二次元游戏观察与思考](https://sspai.com/post/85830)
+* [【2024-02-01】 水獭派对 | 好用不割手的开箱刀，少数派还为你要来了全场最低价](https://sspai.com/post/86215)
 * [【2024-02-01】 人机交互的基石｜Apple 字体设计排版深度解析](https://sspai.com/post/86214)
 * [【2024-02-01】 派早报：Apple 延长与高通的基带合作协议、小岛秀夫将推出谍战新作等](https://sspai.com/post/86222)
 * [【2024-01-31】 「沉浸式翻译」开发者 Owen 都装了啥？](https://sspai.com/prime/story/zhuanglesha-240131)
 * [【2024-01-31】 一日一技 | Mac 版微信聊天记录如何自动备份至外接硬盘](https://sspai.com/post/86175)
 * [【2024-01-31】 巧用「书签」，你的得力助手就在眼前](https://sspai.com/post/85996)
-* [【2024-01-31】 丰田皇冠简史](https://sspai.com/post/82267)
-* [【2024-01-31】 派早报：大模型新闻三则、首例 Neuralink 人体植入进展顺利](https://sspai.com/post/86197)
-* [【2024-01-30】 社区速递 030 | 年度作者、能量小食和新玩意](https://sspai.com/post/86185)
-* [【2024-01-30】 城市漫步指南：冬天快要过去，夏季北欧行可以开始计划了](https://sspai.com/post/85975)
-* [【2024-01-30】 失窃设备保护、Apple Music 协作播放列表……iOS 17.3 值得关注的新特性](https://sspai.com/post/86155)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-01 05:11:51
+:alarm_clock: 更新时间: 2024-02-02 05:12:33

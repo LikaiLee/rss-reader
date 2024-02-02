@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 289 期）：宽容从何而来",
+                "link": "http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html",
+                "published": "2024-02-02"
+            },
+            {
                 "title": "科技爱好者周刊（第 288 期）：技术写作的首要诀窍",
                 "link": "http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html",
                 "published": "2024-01-26"
@@ -625,13 +630,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "早晚用得上的生活指南：我的第一次拔牙经历分享",
+                "link": "https://sspai.com/post/86201",
+                "published": "2024-02-02"
+            },
+            {
+                "title": "派早报：HMD Global 社交账户改名、第三方社区「Linux 中国」停止运营等",
+                "link": "https://sspai.com/post/86250",
+                "published": "2024-02-02"
+            },
+            {
+                "title": "新玩意 171｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/86233",
+                "published": "2024-02-01"
+            },
+            {
+                "title": "当《原神》不再启动：聊聊我的二次元游戏观察与思考",
+                "link": "https://sspai.com/post/85830",
+                "published": "2024-02-01"
+            },
+            {
+                "title": "水獭派对 | 好用不割手的开箱刀，少数派还为你要来了全场最低价",
+                "link": "https://sspai.com/post/86215",
+                "published": "2024-02-01"
+            },
             {
                 "title": "人机交互的基石｜Apple 字体设计排版深度解析",
                 "link": "https://sspai.com/post/86214",
