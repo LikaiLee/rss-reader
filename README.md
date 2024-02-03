@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-02-02】 本周看什么 | 最近值得一看的一大碟作品](https://sspai.com/post/86266)
+* [【2024-02-02】 虽意犹未尽，但无可挑剔：《The Last of Us Part II》重制版篝火评测](https://sspai.com/post/86259)
 * [【2024-02-02】 早晚用得上的生活指南：我的第一次拔牙经历分享](https://sspai.com/post/86201)
 * [【2024-02-02】 派早报：HMD Global 社交账户改名、第三方社区「Linux 中国」停止运营等](https://sspai.com/post/86250)
 * [【2024-02-01】 新玩意 171｜少数派的编辑们最近买了啥？](https://sspai.com/post/86233)
@@ -43,8 +45,6 @@
 * [【2024-02-01】 人机交互的基石｜Apple 字体设计排版深度解析](https://sspai.com/post/86214)
 * [【2024-02-01】 派早报：Apple 延长与高通的基带合作协议、小岛秀夫将推出谍战新作等](https://sspai.com/post/86222)
 * [【2024-01-31】 「沉浸式翻译」开发者 Owen 都装了啥？](https://sspai.com/prime/story/zhuanglesha-240131)
-* [【2024-01-31】 一日一技 | Mac 版微信聊天记录如何自动备份至外接硬盘](https://sspai.com/post/86175)
-* [【2024-01-31】 巧用「书签」，你的得力助手就在眼前](https://sspai.com/post/85996)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-02 05:12:33
+:alarm_clock: 更新时间: 2024-02-03 05:10:55

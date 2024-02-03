@@ -630,13 +630,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大碟作品",
+                "link": "https://sspai.com/post/86266",
+                "published": "2024-02-02"
+            },
+            {
+                "title": "虽意犹未尽，但无可挑剔：《The Last of Us Part II》重制版篝火评测",
+                "link": "https://sspai.com/post/86259",
+                "published": "2024-02-02"
+            },
             {
                 "title": "早晚用得上的生活指南：我的第一次拔牙经历分享",
                 "link": "https://sspai.com/post/86201",
@@ -17388,7 +17398,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
