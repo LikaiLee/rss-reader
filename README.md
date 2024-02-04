@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-02-03】 年度数码科技大盘点：我们眼中的最佳与最差都是啥？](https://sspai.com/post/86281)
 * [【2024-02-02】 本周看什么 | 最近值得一看的一大碟作品](https://sspai.com/post/86266)
 * [【2024-02-02】 虽意犹未尽，但无可挑剔：《The Last of Us Part II》重制版篝火评测](https://sspai.com/post/86259)
 * [【2024-02-02】 早晚用得上的生活指南：我的第一次拔牙经历分享](https://sspai.com/post/86201)
@@ -44,7 +45,6 @@
 * [【2024-02-01】 水獭派对 | 好用不割手的开箱刀，少数派还为你要来了全场最低价](https://sspai.com/post/86215)
 * [【2024-02-01】 人机交互的基石｜Apple 字体设计排版深度解析](https://sspai.com/post/86214)
 * [【2024-02-01】 派早报：Apple 延长与高通的基带合作协议、小岛秀夫将推出谍战新作等](https://sspai.com/post/86222)
-* [【2024-01-31】 「沉浸式翻译」开发者 Owen 都装了啥？](https://sspai.com/prime/story/zhuanglesha-240131)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-03 05:10:55
+:alarm_clock: 更新时间: 2024-02-04 05:10:43

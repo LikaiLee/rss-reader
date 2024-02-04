@@ -638,6 +638,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度数码科技大盘点：我们眼中的最佳与最差都是啥？",
+                "link": "https://sspai.com/post/86281",
+                "published": "2024-02-03"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的一大碟作品",
                 "link": "https://sspai.com/post/86266",
                 "published": "2024-02-02"
@@ -17398,7 +17403,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
