@@ -638,6 +638,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "「放轻松」主题征文结束，这 14 篇文章值得一看",
+                "link": "https://sspai.com/post/86307",
+                "published": "2024-02-05"
+            },
+            {
+                "title": "派早报：iFixit 拆解 Vision Pro，谷歌正式移除网页缓存功能",
+                "link": "https://sspai.com/post/86310",
+                "published": "2024-02-05"
+            },
+            {
+                "title": "App+1 | 满足你的轻量化需求，把私密文件和 app 藏起来：Amarok",
+                "link": "https://sspai.com/post/86161",
+                "published": "2024-02-04"
+            },
+            {
                 "title": "年度数码科技大盘点：我们眼中的最佳与最差都是啥？",
                 "link": "https://sspai.com/post/86281",
                 "published": "2024-02-03"
@@ -17403,7 +17418,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -47859,6 +47874,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "ChatGPT到底有多厉害？",
+                "link": "http://www.zhihu.com/question/582621456/answer/3354357907?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-02-04"
+            },
+            {
+                "title": "今年过年回家你有特别想见到的人吗？",
+                "link": "http://www.zhihu.com/question/642364909/answer/3386896207?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-02-04"
+            },
+            {
+                "title": "你有没有一张对你来说意义非凡的老照片？照片背后有哪些难以忘怀的人或事？",
+                "link": "http://www.zhihu.com/question/642350460/answer/3386793921?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-02-04"
+            },
+            {
                 "title": "有哪些令人叹为观止的细节？",
                 "link": "http://www.zhihu.com/question/63537524/answer/3364481763?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-01-31"
@@ -56264,7 +56294,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 4,

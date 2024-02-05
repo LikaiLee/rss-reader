@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-02-05】 「放轻松」主题征文结束，这 14 篇文章值得一看](https://sspai.com/post/86307)
+* [【2024-02-05】 派早报：iFixit 拆解 Vision Pro，谷歌正式移除网页缓存功能](https://sspai.com/post/86310)
+* [【2024-02-04】 App+1 | 满足你的轻量化需求，把私密文件和 app 藏起来：Amarok](https://sspai.com/post/86161)
 * [【2024-02-03】 年度数码科技大盘点：我们眼中的最佳与最差都是啥？](https://sspai.com/post/86281)
 * [【2024-02-02】 本周看什么 | 最近值得一看的一大碟作品](https://sspai.com/post/86266)
 * [【2024-02-02】 虽意犹未尽，但无可挑剔：《The Last of Us Part II》重制版篝火评测](https://sspai.com/post/86259)
@@ -42,9 +45,6 @@
 * [【2024-02-02】 派早报：HMD Global 社交账户改名、第三方社区「Linux 中国」停止运营等](https://sspai.com/post/86250)
 * [【2024-02-01】 新玩意 171｜少数派的编辑们最近买了啥？](https://sspai.com/post/86233)
 * [【2024-02-01】 当《原神》不再启动：聊聊我的二次元游戏观察与思考](https://sspai.com/post/85830)
-* [【2024-02-01】 水獭派对 | 好用不割手的开箱刀，少数派还为你要来了全场最低价](https://sspai.com/post/86215)
-* [【2024-02-01】 人机交互的基石｜Apple 字体设计排版深度解析](https://sspai.com/post/86214)
-* [【2024-02-01】 派早报：Apple 延长与高通的基带合作协议、小岛秀夫将推出谍战新作等](https://sspai.com/post/86222)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2024-02-04】 ChatGPT到底有多厉害？](http://www.zhihu.com/question/582621456/answer/3354357907?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-02-04】 今年过年回家你有特别想见到的人吗？](http://www.zhihu.com/question/642364909/answer/3386896207?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-02-04】 你有没有一张对你来说意义非凡的老照片？照片背后有哪些难以忘怀的人或事？](http://www.zhihu.com/question/642350460/answer/3386793921?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-31】 有哪些令人叹为观止的细节？](http://www.zhihu.com/question/63537524/answer/3364481763?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-30】 为什么深圳地铁的线路规划不像北京一样设计成棋盘布局？](http://www.zhihu.com/question/63842971/answer/565524025?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-29】 当教室突然安静——扰动，突变与回复](http://zhuanlan.zhihu.com/p/679862117?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2024-01-26】 北京为何称为中国文化中心？](http://www.zhihu.com/question/59444812/answer/3196768901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-26】 「Legend of Cretaceous丨白垩传○1」末世对决（上）：进击的暴龙](http://zhuanlan.zhihu.com/p/60973952?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-25】 喜羊羊与灰太狼在你心中地位有多高？](http://www.zhihu.com/question/514570746/answer/3373690481?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-19】 如何理解心理学教授王小华分享的「职场人设跟真实自我的关系与平衡」问题？](http://www.zhihu.com/question/639632403/answer/3367927947?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-19】 如何理解心理学教授王小华分享的「为什么当你『松弛』下来会产生愧疚感」？](http://www.zhihu.com/question/639632408/answer/3367943685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-19】 如何理解心理学教授王小华分享的「面对职场打压如何做心理调适」？](http://www.zhihu.com/question/639759605/answer/3367933436?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-04 05:10:43
+:alarm_clock: 更新时间: 2024-02-05 05:12:53
