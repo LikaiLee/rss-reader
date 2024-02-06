@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-02-06】 我的新年 flag 是听 100 张专辑](https://sspai.com/post/86287)
+* [【2024-02-06】 派早报：腾讯上线低温雨雪冰冻信息上报平台小程序等](https://sspai.com/post/86345)
+* [【2024-02-05】 派评 | 近期值得关注的 App](https://sspai.com/post/86335)
+* [【2024-02-05】 满分五分，你给 Apple 的 2023 年打几分？](https://sspai.com/post/83281)
+* [【2024-02-05】 2024 年高峰期火车票购买指南](https://sspai.com/post/86328)
 * [【2024-02-05】 「放轻松」主题征文结束，这 14 篇文章值得一看](https://sspai.com/post/86307)
 * [【2024-02-05】 派早报：iFixit 拆解 Vision Pro，谷歌正式移除网页缓存功能](https://sspai.com/post/86310)
 * [【2024-02-04】 App+1 | 满足你的轻量化需求，把私密文件和 app 藏起来：Amarok](https://sspai.com/post/86161)
 * [【2024-02-03】 年度数码科技大盘点：我们眼中的最佳与最差都是啥？](https://sspai.com/post/86281)
 * [【2024-02-02】 本周看什么 | 最近值得一看的一大碟作品](https://sspai.com/post/86266)
-* [【2024-02-02】 虽意犹未尽，但无可挑剔：《The Last of Us Part II》重制版篝火评测](https://sspai.com/post/86259)
-* [【2024-02-02】 早晚用得上的生活指南：我的第一次拔牙经历分享](https://sspai.com/post/86201)
-* [【2024-02-02】 派早报：HMD Global 社交账户改名、第三方社区「Linux 中国」停止运营等](https://sspai.com/post/86250)
-* [【2024-02-01】 新玩意 171｜少数派的编辑们最近买了啥？](https://sspai.com/post/86233)
-* [【2024-02-01】 当《原神》不再启动：聊聊我的二次元游戏观察与思考](https://sspai.com/post/85830)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-02-06】 宋朝之前连棉被都没有，零下几十度的寒冬，古人是怎么熬过去的？](http://www.zhihu.com/question/637934776/answer/3351931524?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-04】 ChatGPT到底有多厉害？](http://www.zhihu.com/question/582621456/answer/3354357907?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-04】 今年过年回家你有特别想见到的人吗？](http://www.zhihu.com/question/642364909/answer/3386896207?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-04】 你有没有一张对你来说意义非凡的老照片？照片背后有哪些难以忘怀的人或事？](http://www.zhihu.com/question/642350460/answer/3386793921?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-01-26】 全国高铁网车次密度示意图 2024年1月](http://zhuanlan.zhihu.com/p/679679135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-26】 北京为何称为中国文化中心？](http://www.zhihu.com/question/59444812/answer/3196768901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-26】 「Legend of Cretaceous丨白垩传○1」末世对决（上）：进击的暴龙](http://zhuanlan.zhihu.com/p/60973952?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-25】 喜羊羊与灰太狼在你心中地位有多高？](http://www.zhihu.com/question/514570746/answer/3373690481?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-05 05:12:53
+:alarm_clock: 更新时间: 2024-02-06 05:11:42
