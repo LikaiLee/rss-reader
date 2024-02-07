@@ -638,6 +638,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Mac 视觉史 vol.2.5：山中俊治的「手绘板」",
+                "link": "https://sspai.com/post/86124",
+                "published": "2024-02-07"
+            },
+            {
+                "title": "派早报：2025 款保时捷 Taycan 发布、OpenAI 引入 C2PA 标准水印等",
+                "link": "https://sspai.com/post/86366",
+                "published": "2024-02-07"
+            },
+            {
+                "title": "新机械键盘结构漫谈（下）",
+                "link": "https://sspai.com/prime/story/mechanic-keyboard-structures-02",
+                "published": "2024-02-06"
+            },
+            {
+                "title": "社区速递 031 | 年度一派回顾、曼陀罗绘画和作者的新玩意",
+                "link": "https://sspai.com/post/86352",
+                "published": "2024-02-06"
+            },
+            {
+                "title": "年货买了啥？分享 12 件好吃、好玩、好用的春节好物",
+                "link": "https://sspai.com/post/86297",
+                "published": "2024-02-06"
+            },
+            {
                 "title": "我的新年 flag 是听 100 张专辑",
                 "link": "https://sspai.com/post/86287",
                 "published": "2024-02-06"
@@ -47898,6 +47923,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "啄木鸟每天这样duangduang疯狂用头撞树，为啥不会脑震荡？",
+                "link": "http://zhuanlan.zhihu.com/p/681416135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-02-06"
+            },
             {
                 "title": "宋朝之前连棉被都没有，零下几十度的寒冬，古人是怎么熬过去的？",
                 "link": "http://www.zhihu.com/question/637934776/answer/3351931524?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",

@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-02-07】 Mac 视觉史 vol.2.5：山中俊治的「手绘板」](https://sspai.com/post/86124)
+* [【2024-02-07】 派早报：2025 款保时捷 Taycan 发布、OpenAI 引入 C2PA 标准水印等](https://sspai.com/post/86366)
+* [【2024-02-06】 新机械键盘结构漫谈（下）](https://sspai.com/prime/story/mechanic-keyboard-structures-02)
+* [【2024-02-06】 社区速递 031 | 年度一派回顾、曼陀罗绘画和作者的新玩意](https://sspai.com/post/86352)
+* [【2024-02-06】 年货买了啥？分享 12 件好吃、好玩、好用的春节好物](https://sspai.com/post/86297)
 * [【2024-02-06】 我的新年 flag 是听 100 张专辑](https://sspai.com/post/86287)
 * [【2024-02-06】 派早报：腾讯上线低温雨雪冰冻信息上报平台小程序等](https://sspai.com/post/86345)
 * [【2024-02-05】 派评 | 近期值得关注的 App](https://sspai.com/post/86335)
 * [【2024-02-05】 满分五分，你给 Apple 的 2023 年打几分？](https://sspai.com/post/83281)
 * [【2024-02-05】 2024 年高峰期火车票购买指南](https://sspai.com/post/86328)
-* [【2024-02-05】 「放轻松」主题征文结束，这 14 篇文章值得一看](https://sspai.com/post/86307)
-* [【2024-02-05】 派早报：iFixit 拆解 Vision Pro，谷歌正式移除网页缓存功能](https://sspai.com/post/86310)
-* [【2024-02-04】 App+1 | 满足你的轻量化需求，把私密文件和 app 藏起来：Amarok](https://sspai.com/post/86161)
-* [【2024-02-03】 年度数码科技大盘点：我们眼中的最佳与最差都是啥？](https://sspai.com/post/86281)
-* [【2024-02-02】 本周看什么 | 最近值得一看的一大碟作品](https://sspai.com/post/86266)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-02-06】 啄木鸟每天这样duangduang疯狂用头撞树，为啥不会脑震荡？](http://zhuanlan.zhihu.com/p/681416135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-06】 宋朝之前连棉被都没有，零下几十度的寒冬，古人是怎么熬过去的？](http://www.zhihu.com/question/637934776/answer/3351931524?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-04】 ChatGPT到底有多厉害？](http://www.zhihu.com/question/582621456/answer/3354357907?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-04】 今年过年回家你有特别想见到的人吗？](http://www.zhihu.com/question/642364909/answer/3386896207?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-01-29】 当教室突然安静——扰动，突变与回复](http://zhuanlan.zhihu.com/p/679862117?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-26】 全国高铁网车次密度示意图 2024年1月](http://zhuanlan.zhihu.com/p/679679135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-26】 北京为何称为中国文化中心？](http://www.zhihu.com/question/59444812/answer/3196768901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-26】 「Legend of Cretaceous丨白垩传○1」末世对决（上）：进击的暴龙](http://zhuanlan.zhihu.com/p/60973952?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-06 05:11:42
+:alarm_clock: 更新时间: 2024-02-07 05:12:05
