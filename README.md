@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-02-08】 端侧 AI 加持、功能大满贯：荣耀Magic6 Pro 上手体验](https://sspai.com/post/86384)
+* [【2024-02-08】 7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
+* [【2024-02-08】 派早报: Mozilla 推出 Monitor Plus 服务、Apple 公布仅需通过语言描述修图的 AI 工具](https://sspai.com/post/86386)
+* [【2024-02-07】 轻便长焦我都要，聊聊「演唱会神机」的个人体验与选购建议](https://sspai.com/post/84545)
+* [【2024-02-07】 春节将至，送你 5 份清单，助你过好平安吉祥年](https://sspai.com/post/86229)
+* [【2024-02-07】 AI 助力计算摄影：荣耀Magic6 Pro 体验](https://sspai.com/post/86371)
 * [【2024-02-07】 Mac 视觉史 vol.2.5：山中俊治的「手绘板」](https://sspai.com/post/86124)
 * [【2024-02-07】 派早报：2025 款保时捷 Taycan 发布、OpenAI 引入 C2PA 标准水印等](https://sspai.com/post/86366)
 * [【2024-02-06】 新机械键盘结构漫谈（下）](https://sspai.com/prime/story/mechanic-keyboard-structures-02)
 * [【2024-02-06】 社区速递 031 | 年度一派回顾、曼陀罗绘画和作者的新玩意](https://sspai.com/post/86352)
-* [【2024-02-06】 年货买了啥？分享 12 件好吃、好玩、好用的春节好物](https://sspai.com/post/86297)
-* [【2024-02-06】 我的新年 flag 是听 100 张专辑](https://sspai.com/post/86287)
-* [【2024-02-06】 派早报：腾讯上线低温雨雪冰冻信息上报平台小程序等](https://sspai.com/post/86345)
-* [【2024-02-05】 派评 | 近期值得关注的 App](https://sspai.com/post/86335)
-* [【2024-02-05】 满分五分，你给 Apple 的 2023 年打几分？](https://sspai.com/post/83281)
-* [【2024-02-05】 2024 年高峰期火车票购买指南](https://sspai.com/post/86328)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-07 05:12:05
+:alarm_clock: 更新时间: 2024-02-08 05:13:06

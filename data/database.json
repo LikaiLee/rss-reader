@@ -638,6 +638,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "端侧 AI 加持、功能大满贯：荣耀Magic6 Pro 上手体验",
+                "link": "https://sspai.com/post/86384",
+                "published": "2024-02-08"
+            },
+            {
+                "title": "7 道简单易上手的年夜菜，厨房小白也能在春节露一手",
+                "link": "https://sspai.com/post/71241",
+                "published": "2024-02-08"
+            },
+            {
+                "title": "派早报: Mozilla 推出 Monitor Plus 服务、Apple 公布仅需通过语言描述修图的 AI 工具",
+                "link": "https://sspai.com/post/86386",
+                "published": "2024-02-08"
+            },
+            {
+                "title": "轻便长焦我都要，聊聊「演唱会神机」的个人体验与选购建议",
+                "link": "https://sspai.com/post/84545",
+                "published": "2024-02-07"
+            },
+            {
+                "title": "春节将至，送你 5 份清单，助你过好平安吉祥年",
+                "link": "https://sspai.com/post/86229",
+                "published": "2024-02-07"
+            },
+            {
+                "title": "AI 助力计算摄影：荣耀Magic6 Pro 体验",
+                "link": "https://sspai.com/post/86371",
+                "published": "2024-02-07"
+            },
+            {
                 "title": "Mac 视觉史 vol.2.5：山中俊治的「手绘板」",
                 "link": "https://sspai.com/post/86124",
                 "published": "2024-02-07"
@@ -17468,7 +17498,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -56354,7 +56384,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
