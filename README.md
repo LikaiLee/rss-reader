@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-02-09】 老麦的除夕寄语——附 2023 年度征文](https://sspai.com/post/86409)
+* [【2024-02-09】 不想春节「包饺子」？用这 5 款游戏给自己开场快乐春晚](https://sspai.com/post/86390)
 * [【2024-02-09】 从独立小品到 3A 大作：春节游戏玩点啥](https://sspai.com/post/86388)
 * [【2024-02-09】 派早报：微软电脑管家登陆全球 Microsoft Store、迪士尼消息两则等](https://sspai.com/post/86407)
 * [【2024-02-08】 新玩意 172｜少数派的编辑们最近买了啥？](https://sspai.com/post/86396)
@@ -43,8 +45,6 @@
 * [【2024-02-08】 端侧 AI 加持、功能大满贯：荣耀Magic6 Pro 上手体验](https://sspai.com/post/86384)
 * [【2024-02-08】 7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
 * [【2024-02-08】 派早报: Mozilla 推出 Monitor Plus 服务、Apple 公布仅需通过语言描述修图的 AI 工具](https://sspai.com/post/86386)
-* [【2024-02-07】 轻便长焦我都要，聊聊「演唱会神机」的个人体验与选购建议](https://sspai.com/post/84545)
-* [【2024-02-07】 春节将至，送你 5 份清单，助你过好平安吉祥年](https://sspai.com/post/86229)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-02-10】 2024年开放式蓝牙耳机实测，如何选购适合自己的开放式蓝牙耳机、一文搞定开放式蓝牙耳机|塞那、倍思、QCY、ambie、声阔、oladance热门耳机对比](http://zhuanlan.zhihu.com/p/681870051?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-06】 啄木鸟每天这样duangduang疯狂用头撞树，为啥不会脑震荡？](http://zhuanlan.zhihu.com/p/681416135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-06】 宋朝之前连棉被都没有，零下几十度的寒冬，古人是怎么熬过去的？](http://www.zhihu.com/question/637934776/answer/3351931524?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-04】 ChatGPT到底有多厉害？](http://www.zhihu.com/question/582621456/answer/3354357907?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-01-30】 为什么深圳地铁的线路规划不像北京一样设计成棋盘布局？](http://www.zhihu.com/question/63842971/answer/565524025?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-29】 当教室突然安静——扰动，突变与回复](http://zhuanlan.zhihu.com/p/679862117?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-26】 全国高铁网车次密度示意图 2024年1月](http://zhuanlan.zhihu.com/p/679679135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-26】 北京为何称为中国文化中心？](http://www.zhihu.com/question/59444812/answer/3196768901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-09 05:11:15
+:alarm_clock: 更新时间: 2024-02-10 05:10:21
