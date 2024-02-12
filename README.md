@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-02-12】 看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单](https://sspai.com/post/71209)
 * [【2024-02-09】 老麦的除夕寄语——附 2023 年度征文](https://sspai.com/post/86409)
 * [【2024-02-09】 不想春节「包饺子」？用这 5 款游戏给自己开场快乐春晚](https://sspai.com/post/86390)
 * [【2024-02-09】 从独立小品到 3A 大作：春节游戏玩点啥](https://sspai.com/post/86388)
@@ -44,7 +45,6 @@
 * [【2024-02-08】 龙跃智能，有龙则灵：新的一年骁龙如何用 AI 开启「芯」篇章](https://sspai.com/post/86395)
 * [【2024-02-08】 端侧 AI 加持、功能大满贯：荣耀Magic6 Pro 上手体验](https://sspai.com/post/86384)
 * [【2024-02-08】 7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
-* [【2024-02-08】 派早报: Mozilla 推出 Monitor Plus 服务、Apple 公布仅需通过语言描述修图的 AI 工具](https://sspai.com/post/86386)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-11 05:10:41
+:alarm_clock: 更新时间: 2024-02-12 05:12:27

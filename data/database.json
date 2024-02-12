@@ -638,6 +638,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单",
+                "link": "https://sspai.com/post/71209",
+                "published": "2024-02-12"
+            },
+            {
                 "title": "老麦的除夕寄语——附 2023 年度征文",
                 "link": "https://sspai.com/post/86409",
                 "published": "2024-02-09"
@@ -17533,7 +17538,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 2,
