@@ -638,6 +638,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "仰卧起坐脖子疼？聊聊如何找对健身发力感",
+                "link": "https://sspai.com/post/86361",
+                "published": "2024-02-14"
+            },
+            {
+                "title": "做好新年计划，你可以先从制定年度预算开始",
+                "link": "https://sspai.com/post/86327",
+                "published": "2024-02-13"
+            },
+            {
+                "title": "真情侣，不记账：用支付宝荷包 + 飞书多维表格建立消费记录与分析系统",
+                "link": "https://sspai.com/post/86274",
+                "published": "2024-02-13"
+            },
+            {
                 "title": "后会有「7」：下一代 Wi-Fi 技术解读",
                 "link": "https://sspai.com/prime/story/wifi-7-explained",
                 "published": "2024-02-12"
@@ -17548,7 +17563,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -56444,7 +56459,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
