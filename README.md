@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-02-15】 城市漫步指南：去墨尔本躲避北半球的冬天](https://sspai.com/post/85649)
+* [【2024-02-14】 城市漫步指南：非典型的福州之旅，看见这座城市的 B 面](https://sspai.com/post/86245)
 * [【2024-02-14】 仰卧起坐脖子疼？聊聊如何找对健身发力感](https://sspai.com/post/86361)
 * [【2024-02-13】 做好新年计划，你可以先从制定年度预算开始](https://sspai.com/post/86327)
 * [【2024-02-13】 真情侣，不记账：用支付宝荷包 + 飞书多维表格建立消费记录与分析系统](https://sspai.com/post/86274)
@@ -43,8 +45,6 @@
 * [【2024-02-12】 看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单](https://sspai.com/post/71209)
 * [【2024-02-09】 老麦的除夕寄语——附 2023 年度征文](https://sspai.com/post/86409)
 * [【2024-02-09】 不想春节「包饺子」？用这 5 款游戏给自己开场快乐春晚](https://sspai.com/post/86390)
-* [【2024-02-09】 从独立小品到 3A 大作：春节游戏玩点啥](https://sspai.com/post/86388)
-* [【2024-02-09】 派早报：微软电脑管家登陆全球 Microsoft Store、迪士尼消息两则等](https://sspai.com/post/86407)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-14 05:12:14
+:alarm_clock: 更新时间: 2024-02-15 05:12:26

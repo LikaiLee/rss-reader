@@ -638,6 +638,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫步指南：去墨尔本躲避北半球的冬天",
+                "link": "https://sspai.com/post/85649",
+                "published": "2024-02-15"
+            },
+            {
+                "title": "城市漫步指南：非典型的福州之旅，看见这座城市的 B 面",
+                "link": "https://sspai.com/post/86245",
+                "published": "2024-02-14"
+            },
+            {
                 "title": "仰卧起坐脖子疼？聊聊如何找对健身发力感",
                 "link": "https://sspai.com/post/86361",
                 "published": "2024-02-14"
@@ -17563,7 +17573,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 2,
