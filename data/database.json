@@ -638,6 +638,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "这 5 个数码产品，是我们 2023 买过最不后悔的「新玩意」",
+                "link": "https://sspai.com/post/86457",
+                "published": "2024-02-15"
+            },
+            {
                 "title": "城市漫步指南：去墨尔本躲避北半球的冬天",
                 "link": "https://sspai.com/post/85649",
                 "published": "2024-02-15"
@@ -17573,7 +17578,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
