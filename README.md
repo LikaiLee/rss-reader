@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-02-18】 用最低限度的开始，给自己最大的养成空间](https://sspai.com/post/78434)
+* [【2024-02-17】 演示大考：全新家具、个性化试戴，Vision Pro 发布对零售店的一次大考](https://sspai.com/post/86439)
+* [【2024-02-17】 整理假期拍摄的照片之前，不妨读读这些关于摄影的技巧和理论](https://sspai.com/post/75837)
 * [【2024-02-16】 新年新开始：从为什么到写什么，带你重新认识日记](https://sspai.com/post/86356)
 * [【2024-02-15】 这 5 个数码产品，是我们 2023 买过最不后悔的「新玩意」](https://sspai.com/post/86457)
 * [【2024-02-15】 城市漫步指南：去墨尔本躲避北半球的冬天](https://sspai.com/post/85649)
@@ -42,9 +45,6 @@
 * [【2024-02-14】 仰卧起坐脖子疼？聊聊如何找对健身发力感](https://sspai.com/post/86361)
 * [【2024-02-13】 做好新年计划，你可以先从制定年度预算开始](https://sspai.com/post/86327)
 * [【2024-02-13】 真情侣，不记账：用支付宝荷包 + 飞书多维表格建立消费记录与分析系统](https://sspai.com/post/86274)
-* [【2024-02-12】 后会有「7」：下一代 Wi-Fi 技术解读](https://sspai.com/prime/story/wifi-7-explained)
-* [【2024-02-12】 过年聚会玩些什么？我们准备了 8 款游戏让春节更欢乐](https://sspai.com/post/86430)
-* [【2024-02-12】 看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单](https://sspai.com/post/71209)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-17 05:10:50
+:alarm_clock: 更新时间: 2024-02-18 05:10:31
