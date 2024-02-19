@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-02-19】 年度征文 | 感冒频次突增的一年，我从身体反馈中学到哪些？](https://sspai.com/post/86483)
+* [【2024-02-19】 派早报：Sora 视频生成模型公布研发进展，nginx 主要维护者宣布分叉](https://sspai.com/post/86497)
 * [【2024-02-18】 用最低限度的开始，给自己最大的养成空间](https://sspai.com/post/78434)
 * [【2024-02-17】 演示大考：全新家具、个性化试戴，Vision Pro 发布对零售店的一次大考](https://sspai.com/post/86439)
 * [【2024-02-17】 整理假期拍摄的照片之前，不妨读读这些关于摄影的技巧和理论](https://sspai.com/post/75837)
@@ -43,8 +45,6 @@
 * [【2024-02-15】 城市漫步指南：去墨尔本躲避北半球的冬天](https://sspai.com/post/85649)
 * [【2024-02-14】 城市漫步指南：非典型的福州之旅，看见这座城市的 B 面](https://sspai.com/post/86245)
 * [【2024-02-14】 仰卧起坐脖子疼？聊聊如何找对健身发力感](https://sspai.com/post/86361)
-* [【2024-02-13】 做好新年计划，你可以先从制定年度预算开始](https://sspai.com/post/86327)
-* [【2024-02-13】 真情侣，不记账：用支付宝荷包 + 飞书多维表格建立消费记录与分析系统](https://sspai.com/post/86274)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-02-18】 有些什么普遍被认为不能被科学解释的问题其实已经被科学解释了？](http://www.zhihu.com/question/24585559/answer/3396345556?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-02-18】 龙年即将到来，如何用你的专业送出一个新春祝福？](http://www.zhihu.com/question/641826071/answer/3384795807?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-12】 看完“热辣滚烫”聊一聊健身的目的和途径](http://zhuanlan.zhihu.com/p/682134877?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-10】 2024年开放式蓝牙耳机实测，如何选购适合自己的开放式蓝牙耳机、一文搞定开放式蓝牙耳机|塞那、倍思、QCY、ambie、声阔、oladance热门耳机对比](http://zhuanlan.zhihu.com/p/681870051?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-06】 啄木鸟每天这样duangduang疯狂用头撞树，为啥不会脑震荡？](http://zhuanlan.zhihu.com/p/681416135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-02-04】 今年过年回家你有特别想见到的人吗？](http://www.zhihu.com/question/642364909/answer/3386896207?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-04】 你有没有一张对你来说意义非凡的老照片？照片背后有哪些难以忘怀的人或事？](http://www.zhihu.com/question/642350460/answer/3386793921?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-31】 有哪些令人叹为观止的细节？](http://www.zhihu.com/question/63537524/answer/3364481763?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-30】 为什么深圳地铁的线路规划不像北京一样设计成棋盘布局？](http://www.zhihu.com/question/63842971/answer/565524025?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-29】 当教室突然安静——扰动，突变与回复](http://zhuanlan.zhihu.com/p/679862117?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-18 05:10:31
+:alarm_clock: 更新时间: 2024-02-19 05:12:07

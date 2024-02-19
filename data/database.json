@@ -638,6 +638,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 感冒频次突增的一年，我从身体反馈中学到哪些？",
+                "link": "https://sspai.com/post/86483",
+                "published": "2024-02-19"
+            },
+            {
+                "title": "派早报：Sora 视频生成模型公布研发进展，nginx 主要维护者宣布分叉",
+                "link": "https://sspai.com/post/86497",
+                "published": "2024-02-19"
+            },
+            {
                 "title": "用最低限度的开始，给自己最大的养成空间",
                 "link": "https://sspai.com/post/78434",
                 "published": "2024-02-18"
@@ -17598,7 +17608,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -48054,6 +48064,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有些什么普遍被认为不能被科学解释的问题其实已经被科学解释了？",
+                "link": "http://www.zhihu.com/question/24585559/answer/3396345556?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-02-18"
+            },
+            {
+                "title": "龙年即将到来，如何用你的专业送出一个新春祝福？",
+                "link": "http://www.zhihu.com/question/641826071/answer/3384795807?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-02-18"
+            },
+            {
                 "title": "看完“热辣滚烫”聊一聊健身的目的和途径",
                 "link": "http://zhuanlan.zhihu.com/p/682134877?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-02-12"
@@ -56494,7 +56514,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
