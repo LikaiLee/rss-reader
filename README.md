@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-02-20】 派早报：Intel 被指控夸大 CPU 测试结果，英国芯片制造商 Graphcore 寻求出售等](https://sspai.com/post/86522)
+* [【2024-02-19】 派评 | 近期值得关注的 App](https://sspai.com/post/86521)
+* [【2024-02-19】 家用咖啡手册（番外） | 随心所欲，这是你的「拼配豆」DIY 指南](https://sspai.com/post/86481)
 * [【2024-02-19】 年度征文 | 感冒频次突增的一年，我从身体反馈中学到哪些？](https://sspai.com/post/86483)
 * [【2024-02-19】 派早报：Sora 视频生成模型公布研发进展，nginx 主要维护者宣布分叉](https://sspai.com/post/86497)
 * [【2024-02-18】 用最低限度的开始，给自己最大的养成空间](https://sspai.com/post/78434)
@@ -42,9 +45,6 @@
 * [【2024-02-17】 整理假期拍摄的照片之前，不妨读读这些关于摄影的技巧和理论](https://sspai.com/post/75837)
 * [【2024-02-16】 新年新开始：从为什么到写什么，带你重新认识日记](https://sspai.com/post/86356)
 * [【2024-02-15】 这 5 个数码产品，是我们 2023 买过最不后悔的「新玩意」](https://sspai.com/post/86457)
-* [【2024-02-15】 城市漫步指南：去墨尔本躲避北半球的冬天](https://sspai.com/post/85649)
-* [【2024-02-14】 城市漫步指南：非典型的福州之旅，看见这座城市的 B 面](https://sspai.com/post/86245)
-* [【2024-02-14】 仰卧起坐脖子疼？聊聊如何找对健身发力感](https://sspai.com/post/86361)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2024-02-20】 日本文明历史中是否存在灭绝过的独有物种？](http://www.zhihu.com/question/265207616/answer/3386938966?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-02-20】 呼和浩特为什么发展不起来？](http://www.zhihu.com/question/566693642/answer/3346737991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-02-19】 当教室突然安静·二——衰减与“静默波”](http://zhuanlan.zhihu.com/p/681377984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-18】 有些什么普遍被认为不能被科学解释的问题其实已经被科学解释了？](http://www.zhihu.com/question/24585559/answer/3396345556?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-18】 龙年即将到来，如何用你的专业送出一个新春祝福？](http://www.zhihu.com/question/641826071/answer/3384795807?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-12】 看完“热辣滚烫”聊一聊健身的目的和途径](http://zhuanlan.zhihu.com/p/682134877?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2024-02-06】 啄木鸟每天这样duangduang疯狂用头撞树，为啥不会脑震荡？](http://zhuanlan.zhihu.com/p/681416135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-06】 宋朝之前连棉被都没有，零下几十度的寒冬，古人是怎么熬过去的？](http://www.zhihu.com/question/637934776/answer/3351931524?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-04】 ChatGPT到底有多厉害？](http://www.zhihu.com/question/582621456/answer/3354357907?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-02-04】 今年过年回家你有特别想见到的人吗？](http://www.zhihu.com/question/642364909/answer/3386896207?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-02-04】 你有没有一张对你来说意义非凡的老照片？照片背后有哪些难以忘怀的人或事？](http://www.zhihu.com/question/642350460/answer/3386793921?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-31】 有哪些令人叹为观止的细节？](http://www.zhihu.com/question/63537524/answer/3364481763?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-19 05:12:07
+:alarm_clock: 更新时间: 2024-02-20 05:12:18
