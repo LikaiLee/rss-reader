@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-02-23】 科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)
 * [【2024-02-02】 科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)
 * [【2024-01-26】 科技爱好者周刊（第 288 期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html)
 * [【2024-01-19】 科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html)
@@ -25,7 +26,6 @@
 * [【2023-12-22】 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)
 * [【2023-12-15】 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)
 * [【2023-12-08】 科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)
-* [【2023-12-01】 科技爱好者周刊（第 280 期）：机器点餐与宅文化](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-02-23】 磁带，可不止三十年前的老歌](https://sspai.com/post/86559)
+* [【2024-02-23】 派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等](https://sspai.com/post/86608)
+* [【2024-02-22】 时间都去哪儿了：我的 Obsidian 间歇日志实践方案](https://sspai.com/post/86518)
+* [【2024-02-22】 随时收听、更省流量，用 HLS 搭建私有音乐电台](https://sspai.com/post/86398)
 * [【2024-02-22】 #起源、用法和趣闻：关于井号的补充史#](https://sspai.com/post/86471)
 * [【2024-02-22】 派早报：Apple Music 新增每月统计功能、《艾尔登法环》推出 DLC 等](https://sspai.com/post/86581)
 * [【2024-02-21】 善用命名法，让「搜索」成为最简单的本地文件管理方案](https://sspai.com/post/86393)
 * [【2024-02-21】 一日一技 | 用快捷指令一键切换 Mac 音频输出设备](https://sspai.com/post/86520)
 * [【2024-02-21】 年度征文｜在波折失业的 2023 中，我学到了这些](https://sspai.com/post/86509)
 * [【2024-02-21】 派早报：富士推出 X100VI、OpenAI 放宽 GPT-4 Turbo 每日使用限制等](https://sspai.com/post/86555)
-* [【2024-02-20】 社区速递 032 | 写小说利器、被盗版以及春节照片后的故事](https://sspai.com/post/86538)
-* [【2024-02-20】 在租来的房子里，我这样搭建怡人的光照](https://sspai.com/prime/story/lighting-design-for-rented-properties)
-* [【2024-02-20】 用浏览器思路，为 iPad 带来桌面级体验：Lok Board](https://sspai.com/post/86288)
-* [【2024-02-20】 派早报：Intel 被指控夸大 CPU 测试结果，英国芯片制造商 Graphcore 寻求出售等](https://sspai.com/post/86522)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-02-22】 【影评】电影《第二十条》：唤醒沉睡的“二十条”](http://zhuanlan.zhihu.com/p/682551953?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-21】 先秦时期的楚国历经八百年，你认为哪一位楚王的功绩是最显赫的？](http://www.zhihu.com/question/473055100/answer/3311191942?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-21】 如果让你来补完这条龙，你会画出什么样的创意画作？](http://www.zhihu.com/question/641826562/answer/3403942402?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-21】 如果你是杨修，该如何支持曹植上位，又能避免被曹操砍死？](http://www.zhihu.com/question/622910466/answer/3222978578?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-02-20】 呼和浩特为什么发展不起来？](http://www.zhihu.com/question/566693642/answer/3346737991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-19】 当教室突然安静·二——衰减与“静默波”](http://zhuanlan.zhihu.com/p/681377984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-18】 有些什么普遍被认为不能被科学解释的问题其实已经被科学解释了？](http://www.zhihu.com/question/24585559/answer/3396345556?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-02-18】 龙年即将到来，如何用你的专业送出一个新春祝福？](http://www.zhihu.com/question/641826071/answer/3384795807?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-22 05:12:45
+:alarm_clock: 更新时间: 2024-02-23 05:12:23

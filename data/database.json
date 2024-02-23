@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 290 期）：苹果头盔的最大问题",
+                "link": "http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html",
+                "published": "2024-02-23"
+            },
+            {
                 "title": "科技爱好者周刊（第 289 期）：宽容从何而来",
                 "link": "http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html",
                 "published": "2024-02-02"
@@ -630,13 +635,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "磁带，可不止三十年前的老歌",
+                "link": "https://sspai.com/post/86559",
+                "published": "2024-02-23"
+            },
+            {
+                "title": "派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等",
+                "link": "https://sspai.com/post/86608",
+                "published": "2024-02-23"
+            },
+            {
+                "title": "时间都去哪儿了：我的 Obsidian 间歇日志实践方案",
+                "link": "https://sspai.com/post/86518",
+                "published": "2024-02-22"
+            },
+            {
+                "title": "随时收听、更省流量，用 HLS 搭建私有音乐电台",
+                "link": "https://sspai.com/post/86398",
+                "published": "2024-02-22"
+            },
             {
                 "title": "#起源、用法和趣闻：关于井号的补充史#",
                 "link": "https://sspai.com/post/86471",
@@ -48124,6 +48149,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "【影评】电影《第二十条》：唤醒沉睡的“二十条”",
+                "link": "http://zhuanlan.zhihu.com/p/682551953?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-02-22"
+            },
+            {
                 "title": "先秦时期的楚国历经八百年，你认为哪一位楚王的功绩是最显赫的？",
                 "link": "http://www.zhihu.com/question/473055100/answer/3311191942?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-02-21"
@@ -56614,7 +56644,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,
