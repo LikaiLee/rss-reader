@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-02-24】 我的注意力去哪儿了？聊聊 ADHD 和背后的故事](https://sspai.com/post/86560)
+* [【2024-02-23】 用广告拦截器隐藏干扰元素：常用思路和语法介绍](https://sspai.com/prime/story/adblock-annoyances-intro)
+* [【2024-02-23】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86623)
+* [【2024-02-23】 年度征文 | 古典、现代与未来：史学写作与科技的跨界](https://sspai.com/post/86552)
 * [【2024-02-23】 磁带，可不止三十年前的老歌](https://sspai.com/post/86559)
 * [【2024-02-23】 派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等](https://sspai.com/post/86608)
 * [【2024-02-22】 时间都去哪儿了：我的 Obsidian 间歇日志实践方案](https://sspai.com/post/86518)
 * [【2024-02-22】 随时收听、更省流量，用 HLS 搭建私有音乐电台](https://sspai.com/post/86398)
 * [【2024-02-22】 #起源、用法和趣闻：关于井号的补充史#](https://sspai.com/post/86471)
 * [【2024-02-22】 派早报：Apple Music 新增每月统计功能、《艾尔登法环》推出 DLC 等](https://sspai.com/post/86581)
-* [【2024-02-21】 善用命名法，让「搜索」成为最简单的本地文件管理方案](https://sspai.com/post/86393)
-* [【2024-02-21】 一日一技 | 用快捷指令一键切换 Mac 音频输出设备](https://sspai.com/post/86520)
-* [【2024-02-21】 年度征文｜在波折失业的 2023 中，我学到了这些](https://sspai.com/post/86509)
-* [【2024-02-21】 派早报：富士推出 X100VI、OpenAI 放宽 GPT-4 Turbo 每日使用限制等](https://sspai.com/post/86555)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-02-23】 什么是world models/世界模型](http://zhuanlan.zhihu.com/p/661768957?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-22】 【影评】电影《第二十条》：唤醒沉睡的“二十条”](http://zhuanlan.zhihu.com/p/682551953?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-21】 先秦时期的楚国历经八百年，你认为哪一位楚王的功绩是最显赫的？](http://www.zhihu.com/question/473055100/answer/3311191942?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-21】 如果让你来补完这条龙，你会画出什么样的创意画作？](http://www.zhihu.com/question/641826562/answer/3403942402?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-02-20】 日本文明历史中是否存在灭绝过的独有物种？](http://www.zhihu.com/question/265207616/answer/3386938966?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-20】 呼和浩特为什么发展不起来？](http://www.zhihu.com/question/566693642/answer/3346737991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-19】 当教室突然安静·二——衰减与“静默波”](http://zhuanlan.zhihu.com/p/681377984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-02-18】 有些什么普遍被认为不能被科学解释的问题其实已经被科学解释了？](http://www.zhihu.com/question/24585559/answer/3396345556?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-23 05:12:23
+:alarm_clock: 更新时间: 2024-02-24 05:11:11

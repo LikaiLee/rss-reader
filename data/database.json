@@ -635,13 +635,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "我的注意力去哪儿了？聊聊 ADHD 和背后的故事",
+                "link": "https://sspai.com/post/86560",
+                "published": "2024-02-24"
+            },
+            {
+                "title": "用广告拦截器隐藏干扰元素：常用思路和语法介绍",
+                "link": "https://sspai.com/prime/story/adblock-annoyances-intro",
+                "published": "2024-02-23"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/86623",
+                "published": "2024-02-23"
+            },
+            {
+                "title": "年度征文 | 古典、现代与未来：史学写作与科技的跨界",
+                "link": "https://sspai.com/post/86552",
+                "published": "2024-02-23"
+            },
             {
                 "title": "磁带，可不止三十年前的老歌",
                 "link": "https://sspai.com/post/86559",
@@ -48148,6 +48168,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "什么是world models/世界模型",
+                "link": "http://zhuanlan.zhihu.com/p/661768957?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-02-23"
+            },
             {
                 "title": "【影评】电影《第二十条》：唤醒沉睡的“二十条”",
                 "link": "http://zhuanlan.zhihu.com/p/682551953?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
