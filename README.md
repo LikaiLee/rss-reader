@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-02-26】 用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？](https://sspai.com/post/86677)
+* [【2024-02-26】 派早报：Reddit 申请上市，Vision Pro 零部件成本约为 1542 美元](https://sspai.com/post/86668)
+* [【2024-02-25】 年度征文｜数字无业游民的自我「和解」](https://sspai.com/post/86421)
 * [【2024-02-24】 我的注意力去哪儿了？聊聊 ADHD 和背后的故事](https://sspai.com/post/86560)
 * [【2024-02-23】 用广告拦截器隐藏干扰元素：常用思路和语法介绍](https://sspai.com/prime/story/adblock-annoyances-intro)
 * [【2024-02-23】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86623)
@@ -42,9 +45,6 @@
 * [【2024-02-23】 磁带，可不止三十年前的老歌](https://sspai.com/post/86559)
 * [【2024-02-23】 派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等](https://sspai.com/post/86608)
 * [【2024-02-22】 时间都去哪儿了：我的 Obsidian 间歇日志实践方案](https://sspai.com/post/86518)
-* [【2024-02-22】 随时收听、更省流量，用 HLS 搭建私有音乐电台](https://sspai.com/post/86398)
-* [【2024-02-22】 #起源、用法和趣闻：关于井号的补充史#](https://sspai.com/post/86471)
-* [【2024-02-22】 派早报：Apple Music 新增每月统计功能、《艾尔登法环》推出 DLC 等](https://sspai.com/post/86581)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-25 05:11:39
+:alarm_clock: 更新时间: 2024-02-26 05:12:23
