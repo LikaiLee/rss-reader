@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-02-27】 5 大话题、24 本书：我的 2023 年年度书单](https://sspai.com/post/85733)
+* [【2024-02-27】 派早报：AI-RAN 联盟成立，高通发布骁龙 X80 基带等](https://sspai.com/post/86693)
+* [【2024-02-26】 派评 | 近期值得关注的 App](https://sspai.com/post/86685)
+* [【2024-02-26】 年度征文｜新手家庭财务初探](https://sspai.com/post/86627)
 * [【2024-02-26】 用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？](https://sspai.com/post/86677)
 * [【2024-02-26】 派早报：Reddit 申请上市，Vision Pro 零部件成本约为 1542 美元](https://sspai.com/post/86668)
 * [【2024-02-25】 年度征文｜数字无业游民的自我「和解」](https://sspai.com/post/86421)
 * [【2024-02-24】 我的注意力去哪儿了？聊聊 ADHD 和背后的故事](https://sspai.com/post/86560)
 * [【2024-02-23】 用广告拦截器隐藏干扰元素：常用思路和语法介绍](https://sspai.com/prime/story/adblock-annoyances-intro)
 * [【2024-02-23】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86623)
-* [【2024-02-23】 年度征文 | 古典、现代与未来：史学写作与科技的跨界](https://sspai.com/post/86552)
-* [【2024-02-23】 磁带，可不止三十年前的老歌](https://sspai.com/post/86559)
-* [【2024-02-23】 派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等](https://sspai.com/post/86608)
-* [【2024-02-22】 时间都去哪儿了：我的 Obsidian 间歇日志实践方案](https://sspai.com/post/86518)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-02-26】 月更！2024年机械键盘入门及选购推荐（含无线键盘、游戏键盘）](http://zhuanlan.zhihu.com/p/111186496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-23】 什么是world models/世界模型](http://zhuanlan.zhihu.com/p/661768957?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-22】 【影评】电影《第二十条》：唤醒沉睡的“二十条”](http://zhuanlan.zhihu.com/p/682551953?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-21】 先秦时期的楚国历经八百年，你认为哪一位楚王的功绩是最显赫的？](http://www.zhihu.com/question/473055100/answer/3311191942?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-01-04】 2024 汽车福利活动汇总（持续更新 | 最新2月）](http://zhuanlan.zhihu.com/p/675678012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-20】 日本文明历史中是否存在灭绝过的独有物种？](http://www.zhihu.com/question/265207616/answer/3386938966?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-20】 呼和浩特为什么发展不起来？](http://www.zhihu.com/question/566693642/answer/3346737991?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-02-19】 当教室突然安静·二——衰减与“静默波”](http://zhuanlan.zhihu.com/p/681377984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-26 05:12:23
+:alarm_clock: 更新时间: 2024-02-27 05:12:35

@@ -643,6 +643,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "5 大话题、24 本书：我的 2023 年年度书单",
+                "link": "https://sspai.com/post/85733",
+                "published": "2024-02-27"
+            },
+            {
+                "title": "派早报：AI-RAN 联盟成立，高通发布骁龙 X80 基带等",
+                "link": "https://sspai.com/post/86693",
+                "published": "2024-02-27"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/86685",
+                "published": "2024-02-26"
+            },
+            {
+                "title": "年度征文｜新手家庭财务初探",
+                "link": "https://sspai.com/post/86627",
+                "published": "2024-02-26"
+            },
+            {
                 "title": "用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？",
                 "link": "https://sspai.com/post/86677",
                 "published": "2024-02-26"
@@ -17728,7 +17748,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -48184,6 +48204,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "月更！2024年机械键盘入门及选购推荐（含无线键盘、游戏键盘）",
+                "link": "http://zhuanlan.zhihu.com/p/111186496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-02-26"
+            },
+            {
                 "title": "什么是world models/世界模型",
                 "link": "http://zhuanlan.zhihu.com/p/661768957?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-02-23"
@@ -56684,7 +56709,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
