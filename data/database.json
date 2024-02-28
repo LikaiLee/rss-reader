@@ -643,6 +643,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我的 2023 年度效率工具",
+                "link": "https://sspai.com/post/85490",
+                "published": "2024-02-28"
+            },
+            {
+                "title": "派早报：努比亚公布多款新机、微软与 Mistral 达成合作等",
+                "link": "https://sspai.com/post/86732",
+                "published": "2024-02-28"
+            },
+            {
+                "title": "社区速递 033 | 最爱的第三方相机应用、小米电纸书以及快捷指令懒人记账",
+                "link": "https://sspai.com/post/86718",
+                "published": "2024-02-27"
+            },
+            {
+                "title": "年度征文 | 伪斜杠青年的自救：「兴趣使然」是最好的治愈良药",
+                "link": "https://sspai.com/post/86625",
+                "published": "2024-02-27"
+            },
+            {
                 "title": "5 大话题、24 本书：我的 2023 年年度书单",
                 "link": "https://sspai.com/post/85733",
                 "published": "2024-02-27"
@@ -48203,6 +48223,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "2024十大高性价比设计专业图形移动工作站笔记本排行榜及避坑指南，轻松省下1W+！（内含专业图形显卡天梯）",
+                "link": "http://zhuanlan.zhihu.com/p/265515477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-02-28"
+            },
             {
                 "title": "月更！2024年机械键盘入门及选购推荐（含无线键盘、游戏键盘）",
                 "link": "http://zhuanlan.zhihu.com/p/111186496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
