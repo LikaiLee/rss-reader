@@ -643,6 +643,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "找到适合自己的可循之法：聊聊我对语言学习的思考",
+                "link": "https://sspai.com/post/85611",
+                "published": "2024-02-29"
+            },
+            {
+                "title": "派早报：一加推出 Ace 3 原神刻晴定制版、Apple 放弃造车等",
+                "link": "https://sspai.com/post/86766",
+                "published": "2024-02-29"
+            },
+            {
+                "title": "本月玩什么 | 超自然车旅、最终幻想 VII 重生、班德尔城物语",
+                "link": "https://sspai.com/post/86752",
+                "published": "2024-02-28"
+            },
+            {
+                "title": "年度征文 | 绝知此事要躬行：谈谈笔记与自我管理的元方法论",
+                "link": "https://sspai.com/post/86605",
+                "published": "2024-02-28"
+            },
+            {
                 "title": "我的 2023 年度效率工具",
                 "link": "https://sspai.com/post/85490",
                 "published": "2024-02-28"
@@ -48223,6 +48243,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "《快乐星球》第一部外景过曝是从当年就是这样的吗？",
+                "link": "http://www.zhihu.com/question/645940397/answer/3410372125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-02-28"
+            },
             {
                 "title": "2024十大高性价比设计专业图形移动工作站笔记本排行榜及避坑指南，轻松省下1W+！（内含专业图形显卡天梯）",
                 "link": "http://zhuanlan.zhihu.com/p/265515477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
