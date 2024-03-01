@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 291 期）：AI 没有护城河",
+                "link": "http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html",
+                "published": "2024-03-01"
+            },
+            {
                 "title": "科技爱好者周刊（第 290 期）：苹果头盔的最大问题",
                 "link": "http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html",
                 "published": "2024-02-23"
@@ -635,13 +640,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "以「工作」为分类标准，探讨「知识管理」的新思路",
+                "link": "https://sspai.com/post/85567",
+                "published": "2024-03-01"
+            },
+            {
+                "title": "派早报：魅族推出魅族 21 Pro 手机、Apple Music 新增「爱不释耳」个性播放列表",
+                "link": "https://sspai.com/post/86797",
+                "published": "2024-03-01"
+            },
+            {
+                "title": "如何快速重置 macOS 应用窗口的位置",
+                "link": "https://sspai.com/prime/story/reset-macos-window-position",
+                "published": "2024-02-29"
+            },
+            {
+                "title": "新玩意 173｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/86780",
+                "published": "2024-02-29"
+            },
+            {
+                "title": "属于游戏玩家的春节档最强「贺岁片」：绝地潜兵 2",
+                "link": "https://sspai.com/post/86680",
+                "published": "2024-02-29"
+            },
             {
                 "title": "找到适合自己的可循之法：聊聊我对语言学习的思考",
                 "link": "https://sspai.com/post/85611",
@@ -17788,7 +17818,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -48243,6 +48273,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "2024 汽车福利活动汇总（持续更新 | 最新3月）",
+                "link": "http://zhuanlan.zhihu.com/p/675678012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-01-04"
+            },
             {
                 "title": "《快乐星球》第一部外景过曝是从当年就是这样的吗？",
                 "link": "http://www.zhihu.com/question/645940397/answer/3410372125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",

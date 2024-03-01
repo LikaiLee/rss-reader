@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-03-01】 科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html)
 * [【2024-02-23】 科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)
 * [【2024-02-02】 科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)
 * [【2024-01-26】 科技爱好者周刊（第 288 期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html)
@@ -25,7 +26,6 @@
 * [【2023-12-29】 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)
 * [【2023-12-22】 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)
 * [【2023-12-15】 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)
-* [【2023-12-08】 科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-03-01】 以「工作」为分类标准，探讨「知识管理」的新思路](https://sspai.com/post/85567)
+* [【2024-03-01】 派早报：魅族推出魅族 21 Pro 手机、Apple Music 新增「爱不释耳」个性播放列表](https://sspai.com/post/86797)
+* [【2024-02-29】 如何快速重置 macOS 应用窗口的位置](https://sspai.com/prime/story/reset-macos-window-position)
+* [【2024-02-29】 新玩意 173｜少数派的编辑们最近买了啥？](https://sspai.com/post/86780)
+* [【2024-02-29】 属于游戏玩家的春节档最强「贺岁片」：绝地潜兵 2](https://sspai.com/post/86680)
 * [【2024-02-29】 找到适合自己的可循之法：聊聊我对语言学习的思考](https://sspai.com/post/85611)
 * [【2024-02-29】 派早报：一加推出 Ace 3 原神刻晴定制版、Apple 放弃造车等](https://sspai.com/post/86766)
 * [【2024-02-28】 本月玩什么 | 超自然车旅、最终幻想 VII 重生、班德尔城物语](https://sspai.com/post/86752)
 * [【2024-02-28】 年度征文 | 绝知此事要躬行：谈谈笔记与自我管理的元方法论](https://sspai.com/post/86605)
 * [【2024-02-28】 我的 2023 年度效率工具](https://sspai.com/post/85490)
-* [【2024-02-28】 派早报：努比亚公布多款新机、微软与 Mistral 达成合作等](https://sspai.com/post/86732)
-* [【2024-02-27】 社区速递 033 | 最爱的第三方相机应用、小米电纸书以及快捷指令懒人记账](https://sspai.com/post/86718)
-* [【2024-02-27】 年度征文 | 伪斜杠青年的自救：「兴趣使然」是最好的治愈良药](https://sspai.com/post/86625)
-* [【2024-02-27】 5 大话题、24 本书：我的 2023 年年度书单](https://sspai.com/post/85733)
-* [【2024-02-27】 派早报：AI-RAN 联盟成立，高通发布骁龙 X80 基带等](https://sspai.com/post/86693)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-01-04】 2024 汽车福利活动汇总（持续更新 | 最新3月）](http://zhuanlan.zhihu.com/p/675678012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-28】 《快乐星球》第一部外景过曝是从当年就是这样的吗？](http://www.zhihu.com/question/645940397/answer/3410372125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-28】 2024十大高性价比设计专业图形移动工作站笔记本排行榜及避坑指南，轻松省下1W+！（内含专业图形显卡天梯）](http://zhuanlan.zhihu.com/p/265515477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-26】 月更！2024年机械键盘入门及选购推荐（含无线键盘、游戏键盘）](http://zhuanlan.zhihu.com/p/111186496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-02-21】 如果让你来补完这条龙，你会画出什么样的创意画作？](http://www.zhihu.com/question/641826562/answer/3403942402?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-21】 如果你是杨修，该如何支持曹植上位，又能避免被曹操砍死？](http://www.zhihu.com/question/622910466/answer/3222978578?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-20】 网传国际空间站使用寿命快到期了，现在的美国还有实力自己独立完成空间站吗？](http://www.zhihu.com/question/639003959/answer/3395500964?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-04】 2024 汽车福利活动汇总（持续更新 | 最新2月）](http://zhuanlan.zhihu.com/p/675678012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-02-29 05:13:21
+:alarm_clock: 更新时间: 2024-03-01 05:12:23
