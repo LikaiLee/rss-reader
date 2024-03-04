@@ -648,6 +648,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 平衡的幻觉：为什么我们总是追求不到完美的平衡？",
+                "link": "https://sspai.com/post/86444",
+                "published": "2024-03-04"
+            },
+            {
+                "title": "派早报：马斯克起诉 OpenAI",
+                "link": "https://sspai.com/post/86873",
+                "published": "2024-03-04"
+            },
+            {
+                "title": "欧盟或将开出巨额罚单：Spotify 诉 Apple 不正当竞争案即将宣判",
+                "link": "https://sspai.com/post/86850",
+                "published": "2024-03-03"
+            },
+            {
                 "title": "为家庭清洁增添一份愉悦感：追觅 H30 Ultra 洗地机使用体验",
                 "link": "https://sspai.com/post/86636",
                 "published": "2024-03-02"
@@ -17833,7 +17848,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -48289,6 +48304,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "人可以在A4纸上以准确的比例尺画出太阳系所有的行星和相对距离吗？",
+                "link": "http://www.zhihu.com/question/646411030/answer/3415990667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-03-04"
+            },
+            {
                 "title": "如何评价张艺谋的《第二十条》？",
                 "link": "http://www.zhihu.com/question/639190230/answer/3394425243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-03-01"
@@ -56814,7 +56834,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
