@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-03-05】 不用「死记」，但能「嗯背」：用重复和双链的力量搞定单词](https://sspai.com/post/85470)
+* [【2024-03-05】 派早报：Apple 发布新款 MacBook Air，Apple 发布与 Spotify 有关的声明等](https://sspai.com/post/86902)
+* [【2024-03-04】 派评 | 近期值得关注的 App](https://sspai.com/post/86890)
+* [【2024-03-04】 一日一技 | 避免 Excel 跨工作表撤消的临时方案](https://sspai.com/post/86822)
 * [【2024-03-04】 年度征文 | 平衡的幻觉：为什么我们总是追求不到完美的平衡？](https://sspai.com/post/86444)
 * [【2024-03-04】 派早报：马斯克起诉 OpenAI](https://sspai.com/post/86873)
 * [【2024-03-03】 欧盟或将开出巨额罚单：Spotify 诉 Apple 不正当竞争案即将宣判](https://sspai.com/post/86850)
 * [【2024-03-02】 为家庭清洁增添一份愉悦感：追觅 H30 Ultra 洗地机使用体验](https://sspai.com/post/86636)
 * [【2024-03-01】 本周看什么 | 最近值得一看的一大井作品](https://sspai.com/post/86816)
 * [【2024-03-01】 年度征文 | 如何维护职场权益：我的「尝试」与实战经验分享](https://sspai.com/post/86776)
-* [【2024-03-01】 以「工作」为分类标准，探讨「知识管理」的新思路](https://sspai.com/post/85567)
-* [【2024-03-01】 派早报：魅族推出魅族 21 Pro 手机、Apple Music 新增「爱不释耳」个性播放列表](https://sspai.com/post/86797)
-* [【2024-02-29】 如何快速重置 macOS 应用窗口的位置](https://sspai.com/prime/story/reset-macos-window-position)
-* [【2024-02-29】 新玩意 173｜少数派的编辑们最近买了啥？](https://sspai.com/post/86780)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-04 05:46:13
+:alarm_clock: 更新时间: 2024-03-05 05:11:34

@@ -648,6 +648,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不用「死记」，但能「嗯背」：用重复和双链的力量搞定单词",
+                "link": "https://sspai.com/post/85470",
+                "published": "2024-03-05"
+            },
+            {
+                "title": "派早报：Apple 发布新款 MacBook Air，Apple 发布与 Spotify 有关的声明等",
+                "link": "https://sspai.com/post/86902",
+                "published": "2024-03-05"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/86890",
+                "published": "2024-03-04"
+            },
+            {
+                "title": "一日一技 | 避免 Excel 跨工作表撤消的临时方案",
+                "link": "https://sspai.com/post/86822",
+                "published": "2024-03-04"
+            },
+            {
                 "title": "年度征文 | 平衡的幻觉：为什么我们总是追求不到完美的平衡？",
                 "link": "https://sspai.com/post/86444",
                 "published": "2024-03-04"
@@ -17848,7 +17868,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -56834,7 +56854,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
