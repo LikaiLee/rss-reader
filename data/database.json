@@ -648,6 +648,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：M3 MacBook Pro 将支持同时外接两台显示器等",
+                "link": "https://sspai.com/post/86945",
+                "published": "2024-03-06"
+            },
+            {
+                "title": "填满 Android 全面屏，怎么就这么难？",
+                "link": "https://sspai.com/prime/story/android-edge-to-edge-problem",
+                "published": "2024-03-05"
+            },
+            {
+                "title": "社区速递 034 | 派友们的周日行程、月光社畜开始攒钱和新玩意们",
+                "link": "https://sspai.com/post/86921",
+                "published": "2024-03-05"
+            },
+            {
+                "title": "好键盘还不贵，派商店的 K3 / K3 Pro 的史低清仓",
+                "link": "https://sspai.com/post/86893",
+                "published": "2024-03-05"
+            },
+            {
+                "title": "城市收藏夹｜慕尼黑的二月",
+                "link": "https://sspai.com/post/86664",
+                "published": "2024-03-05"
+            },
+            {
                 "title": "不用「死记」，但能「嗯背」：用重复和双链的力量搞定单词",
                 "link": "https://sspai.com/post/85470",
                 "published": "2024-03-05"
@@ -17868,7 +17893,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -48324,6 +48349,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "你最喜欢的插画师是谁？",
+                "link": "http://www.zhihu.com/question/491885658/answer/3205581687?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-03-05"
+            },
+            {
                 "title": "人可以在A4纸上以准确的比例尺画出太阳系所有的行星和相对距离吗？",
                 "link": "http://www.zhihu.com/question/646411030/answer/3415990667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-03-04"
@@ -56854,7 +56884,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
