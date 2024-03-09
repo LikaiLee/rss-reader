@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-03-09】 打造一部「电子茅台」：聊聊富士的产品策略及市场博弈](https://sspai.com/post/87038)
+* [【2024-03-08】 本周看什么 | 最近值得一看的一大卷作品](https://sspai.com/post/87049)
+* [【2024-03-08】 想要购买新款 MacBook Air？这些细节你值得注意](https://sspai.com/post/85735)
 * [【2024-03-08】 年度征文 | 突破边界，成为一列想脱轨的列车](https://sspai.com/post/86658)
 * [【2024-03-08】 派早报：Apple 发布 macOS 14.4 等系统正式版等](https://sspai.com/post/87033)
 * [【2024-03-07】 出海产品 Podwise 开发团队、《硬地骇客》主播都装了啥？](https://sspai.com/prime/story/zhuanglesha-240307)
@@ -42,9 +45,6 @@
 * [【2024-03-07】 年度征文 | 当了两年全职奶爸感悟：生孩子还需慎重](https://sspai.com/post/86863)
 * [【2024-03-07】 用笔记建立生活的秩序感：我的记录体系搭建方案](https://sspai.com/post/85785)
 * [【2024-03-07】 派早报：Apple 发布 iOS 17.4 更新、Meta 系产品出现大面积访问故障等](https://sspai.com/post/86993)
-* [【2024-03-06】 年度征文 | 一个「修仙体质」设计师尝试写作这一年](https://sspai.com/post/86604)
-* [【2024-03-06】 少数派圆桌：从工具到方法，2024 年初再聊 AI](https://sspai.com/post/86901)
-* [【2024-03-06】 年度征文 | AI，零基础，我的第一款应用](https://sspai.com/post/86860)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-08 05:12:40
+:alarm_clock: 更新时间: 2024-03-09 05:13:23

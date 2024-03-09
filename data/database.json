@@ -645,13 +645,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "打造一部「电子茅台」：聊聊富士的产品策略及市场博弈",
+                "link": "https://sspai.com/post/87038",
+                "published": "2024-03-09"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大卷作品",
+                "link": "https://sspai.com/post/87049",
+                "published": "2024-03-08"
+            },
+            {
+                "title": "想要购买新款 MacBook Air？这些细节你值得注意",
+                "link": "https://sspai.com/post/85735",
+                "published": "2024-03-08"
+            },
             {
                 "title": "年度征文 | 突破边界，成为一列想脱轨的列车",
                 "link": "https://sspai.com/post/86658",
@@ -17948,7 +17963,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -56954,7 +56969,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
