@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-03-11】 年度征文 | 渐入佳境：斜杠程序员的数字游民转型之旅](https://sspai.com/post/86832)
+* [【2024-03-11】 派早报：OpenAI 宣布新董事会成员，Altman 回归](https://sspai.com/post/87084)
 * [【2024-03-10】 线路延绵，在异国重拾独属于「铁道」的感动](https://sspai.com/post/85299)
 * [【2024-03-09】 年度征文 | 手机长焦现在发展成什么样了？](https://sspai.com/post/86906)
 * [【2024-03-09】 打造一部「电子茅台」：聊聊富士的产品策略及市场博弈](https://sspai.com/post/87038)
@@ -43,8 +45,6 @@
 * [【2024-03-08】 年度征文 | 突破边界，成为一列想脱轨的列车](https://sspai.com/post/86658)
 * [【2024-03-08】 派早报：Apple 发布 macOS 14.4 等系统正式版等](https://sspai.com/post/87033)
 * [【2024-03-07】 出海产品 Podwise 开发团队、《硬地骇客》主播都装了啥？](https://sspai.com/prime/story/zhuanglesha-240307)
-* [【2024-03-07】 新玩意 174｜少数派的编辑们最近买了啥？](https://sspai.com/post/87014)
-* [【2024-03-07】 年度征文 | 当了两年全职奶爸感悟：生孩子还需慎重](https://sspai.com/post/86863)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-10 05:11:33
+:alarm_clock: 更新时间: 2024-03-11 05:12:44
