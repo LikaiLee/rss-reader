@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-03-12】 年度征文 | 一个末代手摄爱好者的回顾](https://sspai.com/post/86779)
+* [【2024-03-12】 派早报：马斯克称 xAI 将于本周开源 Grok，微软公开数字市场法案合规措施等](https://sspai.com/post/87107)
+* [【2024-03-11】 年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅](https://sspai.com/post/86944)
+* [【2024-03-11】 派评 | 近期值得关注的 App](https://sspai.com/post/87100)
+* [【2024-03-11】 一日一技 | 巧用公式实现 Notion 数据库去重](https://sspai.com/post/86909)
 * [【2024-03-11】 年度征文 | 渐入佳境：斜杠程序员的数字游民转型之旅](https://sspai.com/post/86832)
 * [【2024-03-11】 派早报：OpenAI 宣布新董事会成员，Altman 回归](https://sspai.com/post/87084)
 * [【2024-03-10】 线路延绵，在异国重拾独属于「铁道」的感动](https://sspai.com/post/85299)
 * [【2024-03-09】 年度征文 | 手机长焦现在发展成什么样了？](https://sspai.com/post/86906)
 * [【2024-03-09】 打造一部「电子茅台」：聊聊富士的产品策略及市场博弈](https://sspai.com/post/87038)
-* [【2024-03-08】 本周看什么 | 最近值得一看的一大卷作品](https://sspai.com/post/87049)
-* [【2024-03-08】 想要购买新款 MacBook Air？这些细节你值得注意](https://sspai.com/post/85735)
-* [【2024-03-08】 年度征文 | 突破边界，成为一列想脱轨的列车](https://sspai.com/post/86658)
-* [【2024-03-08】 派早报：Apple 发布 macOS 14.4 等系统正式版等](https://sspai.com/post/87033)
-* [【2024-03-07】 出海产品 Podwise 开发团队、《硬地骇客》主播都装了啥？](https://sspai.com/prime/story/zhuanglesha-240307)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-03-12】 为什么会有深湖比深海更可怕这种说法？](http://www.zhihu.com/question/310112318/answer/3407403779?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-03-11】 电影《沙丘 2》怎么样，符合你的预期吗？](http://www.zhihu.com/question/647447394/answer/3424893873?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-07】 芯片生态的竞争逻辑](http://zhuanlan.zhihu.com/p/672689713?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-07】 清华大学、北京大学的学生，都自信吗？](http://www.zhihu.com/question/472895327/answer/3414232629?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-07】 台湾人怎么看周处除三害在大陆火爆?](http://www.zhihu.com/question/647159751/answer/3420833090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-03-01】 如何评价张艺谋的《第二十条》？](http://www.zhihu.com/question/639190230/answer/3394425243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-01-04】 2024 汽车福利活动汇总（持续更新 | 最新3月）](http://zhuanlan.zhihu.com/p/675678012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-02-28】 《快乐星球》第一部外景过曝是从当年就是这样的吗？](http://www.zhihu.com/question/645940397/answer/3410372125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-02-28】 2024十大高性价比设计专业图形移动工作站笔记本排行榜及避坑指南，轻松省下1W+！（内含专业图形显卡天梯）](http://zhuanlan.zhihu.com/p/265515477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-02-26】 月更！2024年机械键盘入门及选购推荐（含无线键盘、游戏键盘）](http://zhuanlan.zhihu.com/p/111186496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-11 05:12:44
+:alarm_clock: 更新时间: 2024-03-12 05:13:23
