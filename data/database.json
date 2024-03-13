@@ -653,6 +653,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文 | 二十年后我再次和纸笔恋爱了",
+                "link": "https://sspai.com/post/87018",
+                "published": "2024-03-13"
+            },
+            {
+                "title": "派早报：阿里云盘将下线部分功能、Apple 将在国内扩建及新增更多实验室等",
+                "link": "https://sspai.com/post/87141",
+                "published": "2024-03-13"
+            },
+            {
+                "title": "年度征文 |「狐狸」的成长：兴趣杂、难坚持，如何找到精进之路？",
+                "link": "https://sspai.com/post/86886",
+                "published": "2024-03-12"
+            },
+            {
+                "title": "2024 年，翻盖机还有什么可玩？",
+                "link": "https://sspai.com/prime/story/buy-a-flip-phone-in-2024",
+                "published": "2024-03-12"
+            },
+            {
+                "title": "社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们",
+                "link": "https://sspai.com/post/87128",
+                "published": "2024-03-12"
+            },
+            {
+                "title": "少数派的 12 岁：正版软件特惠限时开启",
+                "link": "https://sspai.com/post/87126",
+                "published": "2024-03-12"
+            },
+            {
+                "title": "App+1 | 寻找最适合写小说的工具——novelWriter",
+                "link": "https://sspai.com/post/86447",
+                "published": "2024-03-12"
+            },
+            {
                 "title": "年度征文 | 一个末代手摄爱好者的回顾",
                 "link": "https://sspai.com/post/86779",
                 "published": "2024-03-12"
@@ -18008,7 +18043,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -57024,7 +57059,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
