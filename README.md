@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+7】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-03-14】 年度征文 | 赐我一场前去欧洲的流亡](https://sspai.com/post/86992)
+* [【2024-03-14】 派早报：大上推出彩色墨水屏显示器、Sora 服务年内开放等](https://sspai.com/post/87177)
+* [【2024-03-13】 年度征文｜上什么班啊，不过是来历劫罢了](https://sspai.com/post/86905)
+* [【2024-03-13】 将手机变成胶片机，拍一张专属「回忆盲盒」：Moment](https://sspai.com/post/85031)
+* [【2024-03-13】 手把手教你装机：PC 组装入门指南](https://sspai.com/post/86958)
 * [【2024-03-13】 年度征文 | 二十年后我再次和纸笔恋爱了](https://sspai.com/post/87018)
 * [【2024-03-13】 派早报：阿里云盘将下线部分功能、Apple 将在国内扩建及新增更多实验室等](https://sspai.com/post/87141)
 * [【2024-03-12】 年度征文 |「狐狸」的成长：兴趣杂、难坚持，如何找到精进之路？](https://sspai.com/post/86886)
 * [【2024-03-12】 2024 年，翻盖机还有什么可玩？](https://sspai.com/prime/story/buy-a-flip-phone-in-2024)
 * [【2024-03-12】 社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们](https://sspai.com/post/87128)
-* [【2024-03-12】 少数派的 12 岁：正版软件特惠限时开启](https://sspai.com/post/87126)
-* [【2024-03-12】 App+1 | 寻找最适合写小说的工具——novelWriter](https://sspai.com/post/86447)
-* [【2024-03-12】 年度征文 | 一个末代手摄爱好者的回顾](https://sspai.com/post/86779)
-* [【2024-03-12】 派早报：马斯克称 xAI 将于本周开源 Grok，微软公开数字市场法案合规措施等](https://sspai.com/post/87107)
-* [【2024-03-11】 年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅](https://sspai.com/post/86944)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-13 05:13:11
+:alarm_clock: 更新时间: 2024-03-14 05:11:25
