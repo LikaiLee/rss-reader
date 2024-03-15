@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 293 期）：一周是一年的2%",
+                "link": "http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html",
+                "published": "2024-03-15"
+            },
+            {
                 "title": "科技爱好者周刊（第 292 期）：所有代码都是技术债",
                 "link": "http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html",
                 "published": "2024-03-08"
@@ -645,13 +650,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家",
+                "link": "https://sspai.com/post/86989",
+                "published": "2024-03-15"
+            },
+            {
+                "title": "派早报：Google 将在 5 月 14 日召开 I/O 大会",
+                "link": "https://sspai.com/post/87209",
+                "published": "2024-03-15"
+            },
+            {
+                "title": "年度征文 | 书能读完吗，读完了还能读什么？",
+                "link": "https://sspai.com/post/87027",
+                "published": "2024-03-14"
+            },
+            {
+                "title": "城市漫步指南：无锡，正是江南春好时",
+                "link": "https://sspai.com/post/86987",
+                "published": "2024-03-14"
+            },
+            {
+                "title": "App+1 | 自己动手解决 Pixel 启动器的图标问题：不规则图标补全计划",
+                "link": "https://sspai.com/post/87095",
+                "published": "2024-03-14"
+            },
             {
                 "title": "年度征文 | 赐我一场前去欧洲的流亡",
                 "link": "https://sspai.com/post/86992",
@@ -48524,6 +48554,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价《沙丘 2》导演维伦纽瓦与陈思诚「造最真实的梦」主题对谈？",
+                "link": "http://www.zhihu.com/question/648513817/answer/3430586920?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-03-15"
+            },
+            {
+                "title": "台湾人怎么看《周处除三害》在大陆火爆?",
+                "link": "http://www.zhihu.com/question/647159751/answer/3420833090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-03-07"
+            },
+            {
                 "title": "为什么会有深湖比深海更可怕这种说法？",
                 "link": "http://www.zhihu.com/question/310112318/answer/3407403779?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-03-12"
@@ -57084,7 +57124,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,

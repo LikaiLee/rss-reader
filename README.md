@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-03-15】 科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)
 * [【2024-03-08】 科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)
 * [【2024-03-01】 科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html)
 * [【2024-02-23】 科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)
@@ -25,7 +26,6 @@
 * [【2024-01-12】 科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html)
 * [【2024-01-05】 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)
 * [【2023-12-29】 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)
-* [【2023-12-22】 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-03-15】 年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家](https://sspai.com/post/86989)
+* [【2024-03-15】 派早报：Google 将在 5 月 14 日召开 I/O 大会](https://sspai.com/post/87209)
+* [【2024-03-14】 年度征文 | 书能读完吗，读完了还能读什么？](https://sspai.com/post/87027)
+* [【2024-03-14】 城市漫步指南：无锡，正是江南春好时](https://sspai.com/post/86987)
+* [【2024-03-14】 App+1 | 自己动手解决 Pixel 启动器的图标问题：不规则图标补全计划](https://sspai.com/post/87095)
 * [【2024-03-14】 年度征文 | 赐我一场前去欧洲的流亡](https://sspai.com/post/86992)
 * [【2024-03-14】 派早报：大上推出彩色墨水屏显示器、Sora 服务年内开放等](https://sspai.com/post/87177)
 * [【2024-03-13】 年度征文｜上什么班啊，不过是来历劫罢了](https://sspai.com/post/86905)
 * [【2024-03-13】 将手机变成胶片机，拍一张专属「回忆盲盒」：Moment](https://sspai.com/post/85031)
 * [【2024-03-13】 手把手教你装机：PC 组装入门指南](https://sspai.com/post/86958)
-* [【2024-03-13】 年度征文 | 二十年后我再次和纸笔恋爱了](https://sspai.com/post/87018)
-* [【2024-03-13】 派早报：阿里云盘将下线部分功能、Apple 将在国内扩建及新增更多实验室等](https://sspai.com/post/87141)
-* [【2024-03-12】 年度征文 |「狐狸」的成长：兴趣杂、难坚持，如何找到精进之路？](https://sspai.com/post/86886)
-* [【2024-03-12】 2024 年，翻盖机还有什么可玩？](https://sspai.com/prime/story/buy-a-flip-phone-in-2024)
-* [【2024-03-12】 社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们](https://sspai.com/post/87128)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-03-15】 如何评价《沙丘 2》导演维伦纽瓦与陈思诚「造最真实的梦」主题对谈？](http://www.zhihu.com/question/648513817/answer/3430586920?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-03-07】 台湾人怎么看《周处除三害》在大陆火爆?](http://www.zhihu.com/question/647159751/answer/3420833090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-12】 为什么会有深湖比深海更可怕这种说法？](http://www.zhihu.com/question/310112318/answer/3407403779?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-11】 电影《沙丘 2》怎么样，符合你的预期吗？](http://www.zhihu.com/question/647447394/answer/3424893873?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-07】 芯片生态的竞争逻辑](http://zhuanlan.zhihu.com/p/672689713?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-03-05】 你最喜欢的插画师是谁？](http://www.zhihu.com/question/491885658/answer/3205581687?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-04】 人可以在A4纸上以准确的比例尺画出太阳系所有的行星和相对距离吗？](http://www.zhihu.com/question/646411030/answer/3415990667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-01】 如何评价张艺谋的《第二十条》？](http://www.zhihu.com/question/639190230/answer/3394425243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-01-04】 2024 汽车福利活动汇总（持续更新 | 最新3月）](http://zhuanlan.zhihu.com/p/675678012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-02-28】 《快乐星球》第一部外景过曝是从当年就是这样的吗？](http://www.zhihu.com/question/645940397/answer/3410372125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-14 05:11:25
+:alarm_clock: 更新时间: 2024-03-15 05:12:43
