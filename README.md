@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-03-16】 纯电长途、节假日出行，蔚来换电可还行](https://sspai.com/post/86882)
+* [【2024-03-15】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/87219)
+* [【2024-03-15】 年度征文 | 从戒除安眠药开始，我选择不再将自己外包](https://sspai.com/post/86911)
+* [【2024-03-15】 一次常规更新：M3 版 MacBook Air 快速上手](https://sspai.com/post/87202)
 * [【2024-03-15】 年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家](https://sspai.com/post/86989)
 * [【2024-03-15】 派早报：Google 将在 5 月 14 日召开 I/O 大会](https://sspai.com/post/87209)
 * [【2024-03-14】 年度征文 | 书能读完吗，读完了还能读什么？](https://sspai.com/post/87027)
 * [【2024-03-14】 城市漫步指南：无锡，正是江南春好时](https://sspai.com/post/86987)
 * [【2024-03-14】 App+1 | 自己动手解决 Pixel 启动器的图标问题：不规则图标补全计划](https://sspai.com/post/87095)
 * [【2024-03-14】 年度征文 | 赐我一场前去欧洲的流亡](https://sspai.com/post/86992)
-* [【2024-03-14】 派早报：大上推出彩色墨水屏显示器、Sora 服务年内开放等](https://sspai.com/post/87177)
-* [【2024-03-13】 年度征文｜上什么班啊，不过是来历劫罢了](https://sspai.com/post/86905)
-* [【2024-03-13】 将手机变成胶片机，拍一张专属「回忆盲盒」：Moment](https://sspai.com/post/85031)
-* [【2024-03-13】 手把手教你装机：PC 组装入门指南](https://sspai.com/post/86958)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-15 05:12:43
+:alarm_clock: 更新时间: 2024-03-16 05:13:10

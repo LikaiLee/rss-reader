@@ -650,13 +650,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "纯电长途、节假日出行，蔚来换电可还行",
+                "link": "https://sspai.com/post/86882",
+                "published": "2024-03-16"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/87219",
+                "published": "2024-03-15"
+            },
+            {
+                "title": "年度征文 | 从戒除安眠药开始，我选择不再将自己外包",
+                "link": "https://sspai.com/post/86911",
+                "published": "2024-03-15"
+            },
+            {
+                "title": "一次常规更新：M3 版 MacBook Air 快速上手",
+                "link": "https://sspai.com/post/87202",
+                "published": "2024-03-15"
+            },
             {
                 "title": "年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家",
                 "link": "https://sspai.com/post/86989",
@@ -18098,7 +18118,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -57124,7 +57144,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
