@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-03-18】 做了 4 年短视频内容，我想和你分享这些心得方法](https://sspai.com/post/86760)
+* [【2024-03-18】 派早报：xAI 开源 Grok-1 模型](https://sspai.com/post/87349)
+* [【2024-03-17】 从 Pixel 手机出发，志在千家万户——与毫米波技术「对谈」](https://sspai.com/post/87229)
 * [【2024-03-17】 现代打工人如何获得幸福？](https://sspai.com/post/86697)
 * [【2024-03-16】 少数派的 12 岁：付费栏目开启周年庆大促](https://sspai.com/post/87214)
 * [【2024-03-16】 纯电长途、节假日出行，蔚来换电可还行](https://sspai.com/post/86882)
@@ -42,9 +45,6 @@
 * [【2024-03-15】 年度征文 | 从戒除安眠药开始，我选择不再将自己外包](https://sspai.com/post/86911)
 * [【2024-03-15】 一次常规更新：M3 版 MacBook Air 快速上手](https://sspai.com/post/87202)
 * [【2024-03-15】 年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家](https://sspai.com/post/86989)
-* [【2024-03-15】 派早报：Google 将在 5 月 14 日召开 I/O 大会](https://sspai.com/post/87209)
-* [【2024-03-14】 年度征文 | 书能读完吗，读完了还能读什么？](https://sspai.com/post/87027)
-* [【2024-03-14】 城市漫步指南：无锡，正是江南春好时](https://sspai.com/post/86987)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-17 05:12:25
+:alarm_clock: 更新时间: 2024-03-18 05:13:18
