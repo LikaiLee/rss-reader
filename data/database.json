@@ -658,6 +658,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "为了养成每日习惯、实现自我提升，我开发了 ReHabit 这款应用",
+                "link": "https://sspai.com/post/85961",
+                "published": "2024-03-19"
+            },
+            {
+                "title": "派早报：LinkedIn 计划添加游戏，BT 流量不再占据主导地位等",
+                "link": "https://sspai.com/post/87368",
+                "published": "2024-03-19"
+            },
+            {
+                "title": "花见花开暗香来：Apple 静安店抢先看",
+                "link": "https://sspai.com/post/87357",
+                "published": "2024-03-18"
+            },
+            {
+                "title": "[送码] 派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/87366",
+                "published": "2024-03-18"
+            },
+            {
+                "title": "周岁前的日子也可以很精彩：我的小月龄带娃经历",
+                "link": "https://sspai.com/post/84704",
+                "published": "2024-03-18"
+            },
+            {
+                "title": "派开箱 | 科技祛魅，返璞归真：明基新款屏幕挂灯实用也更好用了",
+                "link": "https://sspai.com/post/87186",
+                "published": "2024-03-18"
+            },
+            {
                 "title": "做了 4 年短视频内容，我想和你分享这些心得方法",
                 "link": "https://sspai.com/post/86760",
                 "published": "2024-03-18"
@@ -18143,7 +18173,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
