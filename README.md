@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-03-20】 基于思源笔记的博客写作、管理和分发流程](https://sspai.com/post/87171)
+* [【2024-03-20】 派早报：Steam 新版家庭功能开启测试等](https://sspai.com/post/87396)
+* [【2024-03-19】 社区速递 036 | Action Button 的妙用、纸书自由以及超小收纳包](https://sspai.com/post/87385)
+* [【2024-03-19】 上新优惠皆齐全，周边商店的十二周年促销](https://sspai.com/post/87321)
+* [【2024-03-19】 洞察 | 数量增长超百档，喜剧播客挣钱了么？](https://sspai.com/post/87363)
 * [【2024-03-19】 为了养成每日习惯、实现自我提升，我开发了 ReHabit 这款应用](https://sspai.com/post/85961)
 * [【2024-03-19】 派早报：LinkedIn 计划添加游戏，BT 流量不再占据主导地位等](https://sspai.com/post/87368)
 * [【2024-03-18】 花见花开暗香来：Apple 静安店抢先看](https://sspai.com/post/87357)
 * [【2024-03-18】 [送码] 派评 | 近期值得关注的 App](https://sspai.com/post/87366)
 * [【2024-03-18】 周岁前的日子也可以很精彩：我的小月龄带娃经历](https://sspai.com/post/84704)
-* [【2024-03-18】 派开箱 | 科技祛魅，返璞归真：明基新款屏幕挂灯实用也更好用了](https://sspai.com/post/87186)
-* [【2024-03-18】 做了 4 年短视频内容，我想和你分享这些心得方法](https://sspai.com/post/86760)
-* [【2024-03-18】 派早报：xAI 开源 Grok-1 模型](https://sspai.com/post/87349)
-* [【2024-03-17】 从 Pixel 手机出发，志在千家万户——与毫米波技术「对谈」](https://sspai.com/post/87229)
-* [【2024-03-17】 现代打工人如何获得幸福？](https://sspai.com/post/86697)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-03-20】 技术神秘化的去魅：Sora关键技术逆向工程图解](http://zhuanlan.zhihu.com/p/687928845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-15】 如何评价《沙丘 2》导演维伦纽瓦与陈思诚「造最真实的梦」主题对谈？](http://www.zhihu.com/question/648513817/answer/3430586920?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-07】 台湾人怎么看《周处除三害》在大陆火爆?](http://www.zhihu.com/question/647159751/answer/3420833090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-12】 为什么会有深湖比深海更可怕这种说法？](http://www.zhihu.com/question/310112318/answer/3407403779?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-03-07】 台湾人怎么看周处除三害在大陆火爆?](http://www.zhihu.com/question/647159751/answer/3420833090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-05】 你最喜欢的插画师是谁？](http://www.zhihu.com/question/491885658/answer/3205581687?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-04】 人可以在A4纸上以准确的比例尺画出太阳系所有的行星和相对距离吗？](http://www.zhihu.com/question/646411030/answer/3415990667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-03-01】 如何评价张艺谋的《第二十条》？](http://www.zhihu.com/question/639190230/answer/3394425243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-19 05:12:18
+:alarm_clock: 更新时间: 2024-03-20 05:13:00
