@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-03-21】 预告 | 少数派共创产品分享会即将召开，一起开启 iPhone 效率新世代](https://sspai.com/post/87409)
+* [【2024-03-21】 派早报：NVIDIA 尝试借助 AI 提高游戏 NPC 的表现、比亚迪京东自营旗舰店上线等](https://sspai.com/post/87418)
+* [【2024-03-20】 浅谈 AI 工具的性价比评估思路](https://sspai.com/prime/story/ai-tools-eval)
+* [【2024-03-20】 在梦里成为「新造的人」，10 部影片带你探索梦的世界](https://sspai.com/post/87131)
+* [【2024-03-20】 水獭派对 | 高效办公，畅快摸鱼，给你的鼠标升个级](https://sspai.com/post/87403)
+* [【2024-03-20】 他山之石，漫谈日本城市垃圾处理制度](https://sspai.com/post/86734)
 * [【2024-03-20】 基于思源笔记的博客写作、管理和分发流程](https://sspai.com/post/87171)
 * [【2024-03-20】 派早报：Steam 新版家庭功能开启测试等](https://sspai.com/post/87396)
 * [【2024-03-19】 社区速递 036 | Action Button 的妙用、纸书自由以及超小收纳包](https://sspai.com/post/87385)
 * [【2024-03-19】 上新优惠皆齐全，周边商店的十二周年促销](https://sspai.com/post/87321)
-* [【2024-03-19】 洞察 | 数量增长超百档，喜剧播客挣钱了么？](https://sspai.com/post/87363)
-* [【2024-03-19】 为了养成每日习惯、实现自我提升，我开发了 ReHabit 这款应用](https://sspai.com/post/85961)
-* [【2024-03-19】 派早报：LinkedIn 计划添加游戏，BT 流量不再占据主导地位等](https://sspai.com/post/87368)
-* [【2024-03-18】 花见花开暗香来：Apple 静安店抢先看](https://sspai.com/post/87357)
-* [【2024-03-18】 [送码] 派评 | 近期值得关注的 App](https://sspai.com/post/87366)
-* [【2024-03-18】 周岁前的日子也可以很精彩：我的小月龄带娃经历](https://sspai.com/post/84704)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-20 05:13:00
+:alarm_clock: 更新时间: 2024-03-21 05:11:18

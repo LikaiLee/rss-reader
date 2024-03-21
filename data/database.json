@@ -658,6 +658,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "预告 | 少数派共创产品分享会即将召开，一起开启 iPhone 效率新世代",
+                "link": "https://sspai.com/post/87409",
+                "published": "2024-03-21"
+            },
+            {
+                "title": "派早报：NVIDIA 尝试借助 AI 提高游戏 NPC 的表现、比亚迪京东自营旗舰店上线等",
+                "link": "https://sspai.com/post/87418",
+                "published": "2024-03-21"
+            },
+            {
+                "title": "浅谈 AI 工具的性价比评估思路",
+                "link": "https://sspai.com/prime/story/ai-tools-eval",
+                "published": "2024-03-20"
+            },
+            {
+                "title": "在梦里成为「新造的人」，10 部影片带你探索梦的世界",
+                "link": "https://sspai.com/post/87131",
+                "published": "2024-03-20"
+            },
+            {
+                "title": "水獭派对 | 高效办公，畅快摸鱼，给你的鼠标升个级",
+                "link": "https://sspai.com/post/87403",
+                "published": "2024-03-20"
+            },
+            {
+                "title": "他山之石，漫谈日本城市垃圾处理制度",
+                "link": "https://sspai.com/post/86734",
+                "published": "2024-03-20"
+            },
+            {
                 "title": "基于思源笔记的博客写作、管理和分发流程",
                 "link": "https://sspai.com/post/87171",
                 "published": "2024-03-20"
@@ -18198,7 +18228,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -57229,7 +57259,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
