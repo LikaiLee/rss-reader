@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-03-22】 科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)
 * [【2024-03-15】 科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)
 * [【2024-03-08】 科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)
 * [【2024-03-01】 科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html)
@@ -25,7 +26,6 @@
 * [【2024-01-19】 科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html)
 * [【2024-01-12】 科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html)
 * [【2024-01-05】 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)
-* [【2023-12-29】 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-03-22】 另辟蹊「径」，看操作系统的发展](https://sspai.com/post/86642)
+* [【2024-03-22】 派早报：微软发布两款新品、美司法部指控 Apple 在手机市场涉嫌非法垄断](https://sspai.com/post/87446)
+* [【2024-03-21】 新玩意 175｜少数派的编辑们最近买了啥？](https://sspai.com/post/87432)
+* [【2024-03-21】 从动机错位入手：快消内容戒除方法谈](https://sspai.com/post/86260)
 * [【2024-03-21】 预告 | 少数派共创产品分享会即将召开，一起开启 iPhone 效率新世代](https://sspai.com/post/87409)
 * [【2024-03-21】 派早报：NVIDIA 尝试借助 AI 提高游戏 NPC 的表现、比亚迪京东自营旗舰店上线等](https://sspai.com/post/87418)
 * [【2024-03-20】 浅谈 AI 工具的性价比评估思路](https://sspai.com/prime/story/ai-tools-eval)
 * [【2024-03-20】 在梦里成为「新造的人」，10 部影片带你探索梦的世界](https://sspai.com/post/87131)
 * [【2024-03-20】 水獭派对 | 高效办公，畅快摸鱼，给你的鼠标升个级](https://sspai.com/post/87403)
 * [【2024-03-20】 他山之石，漫谈日本城市垃圾处理制度](https://sspai.com/post/86734)
-* [【2024-03-20】 基于思源笔记的博客写作、管理和分发流程](https://sspai.com/post/87171)
-* [【2024-03-20】 派早报：Steam 新版家庭功能开启测试等](https://sspai.com/post/87396)
-* [【2024-03-19】 社区速递 036 | Action Button 的妙用、纸书自由以及超小收纳包](https://sspai.com/post/87385)
-* [【2024-03-19】 上新优惠皆齐全，周边商店的十二周年促销](https://sspai.com/post/87321)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-03-21】 最多可以找到几阶的汉字正交拉丁方阵？](http://www.zhihu.com/question/649069727/answer/3434869485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-20】 技术神秘化的去魅：Sora关键技术逆向工程图解](http://zhuanlan.zhihu.com/p/687928845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-15】 如何评价《沙丘 2》导演维伦纽瓦与陈思诚「造最真实的梦」主题对谈？](http://www.zhihu.com/question/648513817/answer/3430586920?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-07】 台湾人怎么看《周处除三害》在大陆火爆?](http://www.zhihu.com/question/647159751/answer/3420833090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-03-07】 清华大学、北京大学的学生，都自信吗？](http://www.zhihu.com/question/472895327/answer/3414232629?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-07】 台湾人怎么看周处除三害在大陆火爆?](http://www.zhihu.com/question/647159751/answer/3420833090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-05】 你最喜欢的插画师是谁？](http://www.zhihu.com/question/491885658/answer/3205581687?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-03-04】 人可以在A4纸上以准确的比例尺画出太阳系所有的行星和相对距离吗？](http://www.zhihu.com/question/646411030/answer/3415990667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-21 05:11:18
+:alarm_clock: 更新时间: 2024-03-22 05:13:25
