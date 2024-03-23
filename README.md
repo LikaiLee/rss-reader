@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-03-23】 表现有待完善，体验瑕不掩瑜：话题性新游《龙之信条 2》好玩在哪](https://sspai.com/post/87438)
+* [【2024-03-22】 本周看什么 | 最近值得一看的一大柜作品](https://sspai.com/post/87471)
+* [【2024-03-22】 在全平台同步阅读与笔记：以 Kindle、思源笔记与纸间书摘为例](https://sspai.com/post/87401)
 * [【2024-03-22】 另辟蹊「径」，看操作系统的发展](https://sspai.com/post/86642)
 * [【2024-03-22】 派早报：微软发布两款新品、美司法部指控 Apple 在手机市场涉嫌非法垄断](https://sspai.com/post/87446)
 * [【2024-03-21】 新玩意 175｜少数派的编辑们最近买了啥？](https://sspai.com/post/87432)
@@ -42,9 +45,6 @@
 * [【2024-03-21】 预告 | 少数派共创产品分享会即将召开，一起开启 iPhone 效率新世代](https://sspai.com/post/87409)
 * [【2024-03-21】 派早报：NVIDIA 尝试借助 AI 提高游戏 NPC 的表现、比亚迪京东自营旗舰店上线等](https://sspai.com/post/87418)
 * [【2024-03-20】 浅谈 AI 工具的性价比评估思路](https://sspai.com/prime/story/ai-tools-eval)
-* [【2024-03-20】 在梦里成为「新造的人」，10 部影片带你探索梦的世界](https://sspai.com/post/87131)
-* [【2024-03-20】 水獭派对 | 高效办公，畅快摸鱼，给你的鼠标升个级](https://sspai.com/post/87403)
-* [【2024-03-20】 他山之石，漫谈日本城市垃圾处理制度](https://sspai.com/post/86734)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-22 05:13:25
+:alarm_clock: 更新时间: 2024-03-23 05:11:55

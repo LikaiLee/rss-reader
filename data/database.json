@@ -655,13 +655,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "表现有待完善，体验瑕不掩瑜：话题性新游《龙之信条 2》好玩在哪",
+                "link": "https://sspai.com/post/87438",
+                "published": "2024-03-23"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大柜作品",
+                "link": "https://sspai.com/post/87471",
+                "published": "2024-03-22"
+            },
+            {
+                "title": "在全平台同步阅读与笔记：以 Kindle、思源笔记与纸间书摘为例",
+                "link": "https://sspai.com/post/87401",
+                "published": "2024-03-22"
+            },
             {
                 "title": "另辟蹊「径」，看操作系统的发展",
                 "link": "https://sspai.com/post/86642",
@@ -18253,7 +18268,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -57289,7 +57304,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
