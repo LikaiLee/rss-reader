@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-03-24】 复古机身、胶片模拟以及高溢价：聊聊富士 X100 VI](https://sspai.com/post/87501)
 * [【2024-03-23】 表现有待完善，体验瑕不掩瑜：话题性新游《龙之信条 2》好玩在哪](https://sspai.com/post/87438)
 * [【2024-03-22】 本周看什么 | 最近值得一看的一大柜作品](https://sspai.com/post/87471)
 * [【2024-03-22】 在全平台同步阅读与笔记：以 Kindle、思源笔记与纸间书摘为例](https://sspai.com/post/87401)
@@ -44,7 +45,6 @@
 * [【2024-03-21】 从动机错位入手：快消内容戒除方法谈](https://sspai.com/post/86260)
 * [【2024-03-21】 预告 | 少数派共创产品分享会即将召开，一起开启 iPhone 效率新世代](https://sspai.com/post/87409)
 * [【2024-03-21】 派早报：NVIDIA 尝试借助 AI 提高游戏 NPC 的表现、比亚迪京东自营旗舰店上线等](https://sspai.com/post/87418)
-* [【2024-03-20】 浅谈 AI 工具的性价比评估思路](https://sspai.com/prime/story/ai-tools-eval)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-23 05:11:55
+:alarm_clock: 更新时间: 2024-03-24 05:11:42
