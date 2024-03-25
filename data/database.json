@@ -663,6 +663,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "UCG 评测 |「幻水」之韵，在此新生：《百英雄传》先行体验报告",
+                "link": "https://sspai.com/post/87422",
+                "published": "2024-03-25"
+            },
+            {
+                "title": "派早报：库克称 Vision Pro 年内中国上市，持续加大在华研发投资",
+                "link": "https://sspai.com/post/87535",
+                "published": "2024-03-25"
+            },
+            {
+                "title": "2023 年度征文获奖结果公布",
+                "link": "https://sspai.com/post/87503",
+                "published": "2024-03-24"
+            },
+            {
                 "title": "复古机身、胶片模拟以及高溢价：聊聊富士 X100 VI",
                 "link": "https://sspai.com/post/87501",
                 "published": "2024-03-24"
@@ -18273,7 +18288,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
