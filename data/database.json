@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "2024最流行的网站架构----边缘平台架构：概念与产品",
+                "link": "http://www.ruanyifeng.com/blog/2024/03/edge-platform.html",
+                "published": "2024-03-26"
+            },
+            {
                 "title": "科技爱好者周刊（第 294 期）：崖门海战的感想",
                 "link": "http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html",
                 "published": "2024-03-22"
@@ -655,13 +660,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "众测 |「先」声夺人：第三期先享体验计划，Bose Ultra 开放式耳机众测开启",
+                "link": "https://sspai.com/post/86965",
+                "published": "2024-03-26"
+            },
+            {
+                "title": "派早报：欧盟对 Apple 等公司展开新一轮调查，英特尔和 ARM 签署备忘录等",
+                "link": "https://sspai.com/post/87554",
+                "published": "2024-03-26"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/87546",
+                "published": "2024-03-25"
+            },
+            {
+                "title": "与 Google Pixel 在日本的 169 天：Pixel Fold 是「精致败类」吗？",
+                "link": "https://sspai.com/post/87344",
+                "published": "2024-03-25"
+            },
             {
                 "title": "UCG 评测 |「幻水」之韵，在此新生：《百英雄传》先行体验报告",
                 "link": "https://sspai.com/post/87422",
@@ -18288,7 +18313,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -48744,6 +48769,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "铁器普及之前农业生产是怎么进行的?",
+                "link": "http://www.zhihu.com/question/363545213/answer/3437805919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-03-25"
+            },
+            {
                 "title": "最多可以找到几阶的汉字正交拉丁方阵？",
                 "link": "http://www.zhihu.com/question/649069727/answer/3434869485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-03-21"
@@ -57324,7 +57354,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
