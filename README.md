@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-03-27】 数字时代的人文关怀：Google 无障碍解决方案汇总](https://sspai.com/post/87150)
+* [【2024-03-27】 派早报：WWDC24 将于 6 月 10 日举行等](https://sspai.com/post/87585)
+* [【2024-03-26】 BANG!CASE 开启超前预售：一键按下，开启 iPhone 效率新世代](https://sspai.com/post/87559)
+* [【2024-03-26】 WSA 谢幕之际，盘点 PC 运行 Android 应用解决方案](https://sspai.com/prime/story/wsa-alternatives)
+* [【2024-03-26】 社区速递 037 | 给父母买的手机、优秀热点机以及半入耳式耳机](https://sspai.com/post/87563)
+* [【2024-03-26】 深度体验一年之后，我爱上了 Apple Fitness+](https://sspai.com/post/87413)
 * [【2024-03-26】 众测 |「先」声夺人：第三期先享体验计划，Bose Ultra 开放式耳机众测开启](https://sspai.com/post/86965)
 * [【2024-03-26】 派早报：欧盟对 Apple 等公司展开新一轮调查，英特尔和 ARM 签署备忘录等](https://sspai.com/post/87554)
 * [【2024-03-25】 派评 | 近期值得关注的 App](https://sspai.com/post/87546)
 * [【2024-03-25】 与 Google Pixel 在日本的 169 天：Pixel Fold 是「精致败类」吗？](https://sspai.com/post/87344)
-* [【2024-03-25】 UCG 评测 |「幻水」之韵，在此新生：《百英雄传》先行体验报告](https://sspai.com/post/87422)
-* [【2024-03-25】 派早报：库克称 Vision Pro 年内中国上市，持续加大在华研发投资](https://sspai.com/post/87535)
-* [【2024-03-24】 2023 年度征文获奖结果公布](https://sspai.com/post/87503)
-* [【2024-03-24】 复古机身、胶片模拟以及高溢价：聊聊富士 X100 VI](https://sspai.com/post/87501)
-* [【2024-03-23】 表现有待完善，体验瑕不掩瑜：话题性新游《龙之信条 2》好玩在哪](https://sspai.com/post/87438)
-* [【2024-03-22】 本周看什么 | 最近值得一看的一大柜作品](https://sspai.com/post/87471)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-26 05:11:45
+:alarm_clock: 更新时间: 2024-03-27 05:13:00

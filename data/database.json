@@ -660,13 +660,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "数字时代的人文关怀：Google 无障碍解决方案汇总",
+                "link": "https://sspai.com/post/87150",
+                "published": "2024-03-27"
+            },
+            {
+                "title": "派早报：WWDC24 将于 6 月 10 日举行等",
+                "link": "https://sspai.com/post/87585",
+                "published": "2024-03-27"
+            },
+            {
+                "title": "BANG!CASE 开启超前预售：一键按下，开启 iPhone 效率新世代",
+                "link": "https://sspai.com/post/87559",
+                "published": "2024-03-26"
+            },
+            {
+                "title": "WSA 谢幕之际，盘点 PC 运行 Android 应用解决方案",
+                "link": "https://sspai.com/prime/story/wsa-alternatives",
+                "published": "2024-03-26"
+            },
+            {
+                "title": "社区速递 037 | 给父母买的手机、优秀热点机以及半入耳式耳机",
+                "link": "https://sspai.com/post/87563",
+                "published": "2024-03-26"
+            },
+            {
+                "title": "深度体验一年之后，我爱上了 Apple Fitness+",
+                "link": "https://sspai.com/post/87413",
+                "published": "2024-03-26"
+            },
             {
                 "title": "众测 |「先」声夺人：第三期先享体验计划，Bose Ultra 开放式耳机众测开启",
                 "link": "https://sspai.com/post/86965",
@@ -18313,7 +18343,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -57354,7 +57384,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
