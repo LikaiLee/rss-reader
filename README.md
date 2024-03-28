@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-03-28】 回县城去：青年维特的烦恼](https://sspai.com/post/86722)
+* [【2024-03-28】 派早报：英特尔和微软联合定义 AI PC、麦当劳推出一次性胶卷相机等](https://sspai.com/post/87611)
+* [【2024-03-27】 5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」](https://sspai.com/post/87587)
+* [【2024-03-27】 城市漫步指南：新加坡，赤道独有的新浪漫](https://sspai.com/post/87580)
 * [【2024-03-27】 数字时代的人文关怀：Google 无障碍解决方案汇总](https://sspai.com/post/87150)
 * [【2024-03-27】 派早报：WWDC24 将于 6 月 10 日举行等](https://sspai.com/post/87585)
 * [【2024-03-26】 BANG!CASE 开启超前预售：一键按下，开启 iPhone 效率新世代](https://sspai.com/post/87559)
 * [【2024-03-26】 WSA 谢幕之际，盘点 PC 运行 Android 应用解决方案](https://sspai.com/prime/story/wsa-alternatives)
 * [【2024-03-26】 社区速递 037 | 给父母买的手机、优秀热点机以及半入耳式耳机](https://sspai.com/post/87563)
 * [【2024-03-26】 深度体验一年之后，我爱上了 Apple Fitness+](https://sspai.com/post/87413)
-* [【2024-03-26】 众测 |「先」声夺人：第三期先享体验计划，Bose Ultra 开放式耳机众测开启](https://sspai.com/post/86965)
-* [【2024-03-26】 派早报：欧盟对 Apple 等公司展开新一轮调查，英特尔和 ARM 签署备忘录等](https://sspai.com/post/87554)
-* [【2024-03-25】 派评 | 近期值得关注的 App](https://sspai.com/post/87546)
-* [【2024-03-25】 与 Google Pixel 在日本的 169 天：Pixel Fold 是「精致败类」吗？](https://sspai.com/post/87344)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-03-28】 对于吉他来说，该如何学习音阶？](http://www.zhihu.com/question/28183674/answer/3433303413?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-03-27】 玉其实是不是相似于钻石，也是一场营销而已？](http://www.zhihu.com/question/20899613/answer/2771357290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-25】 铁器普及之前农业生产是怎么进行的?](http://www.zhihu.com/question/363545213/answer/3437805919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-21】 最多可以找到几阶的汉字正交拉丁方阵？](http://www.zhihu.com/question/649069727/answer/3434869485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-20】 技术神秘化的去魅：Sora关键技术逆向工程图解](http://zhuanlan.zhihu.com/p/687928845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-03-12】 为什么会有深湖比深海更可怕这种说法？](http://www.zhihu.com/question/310112318/answer/3407403779?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-11】 电影《沙丘 2》怎么样，符合你的预期吗？](http://www.zhihu.com/question/647447394/answer/3424893873?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-07】 芯片生态的竞争逻辑](http://zhuanlan.zhihu.com/p/672689713?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-03-07】 清华大学、北京大学的学生，都自信吗？](http://www.zhihu.com/question/472895327/answer/3414232629?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-03-07】 台湾人怎么看周处除三害在大陆火爆?](http://www.zhihu.com/question/647159751/answer/3420833090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-27 05:13:00
+:alarm_clock: 更新时间: 2024-03-28 05:13:28
