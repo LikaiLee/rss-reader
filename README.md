@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-03-29】 科技爱好者周刊（第 295 期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html)
 * [【2024-03-26】 2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html)
 * [【2024-03-22】 科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)
 * [【2024-03-15】 科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)
@@ -25,7 +26,6 @@
 * [【2024-02-02】 科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)
 * [【2024-01-26】 科技爱好者周刊（第 288 期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html)
 * [【2024-01-19】 科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html)
-* [【2024-01-12】 科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-03-29】 家用咖啡手册（番外） | 低因咖啡是怎么回事？](https://sspai.com/post/87595)
+* [【2024-03-29】 派早报：小米推出 SU7 系列汽车、理光推出 GR III HDF 及特别版](https://sspai.com/post/87642)
+* [【2024-03-28】 新玩意 176｜少数派的编辑们最近买了啥？](https://sspai.com/post/87623)
+* [【2024-03-28】 超越工具与概念之争：可持续知识管理的个人实践](https://sspai.com/post/87028)
 * [【2024-03-28】 回县城去：青年维特的烦恼](https://sspai.com/post/86722)
 * [【2024-03-28】 派早报：英特尔和微软联合定义 AI PC、麦当劳推出一次性胶卷相机等](https://sspai.com/post/87611)
 * [【2024-03-27】 5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」](https://sspai.com/post/87587)
 * [【2024-03-27】 城市漫步指南：新加坡，赤道独有的新浪漫](https://sspai.com/post/87580)
 * [【2024-03-27】 数字时代的人文关怀：Google 无障碍解决方案汇总](https://sspai.com/post/87150)
 * [【2024-03-27】 派早报：WWDC24 将于 6 月 10 日举行等](https://sspai.com/post/87585)
-* [【2024-03-26】 BANG!CASE 开启超前预售：一键按下，开启 iPhone 效率新世代](https://sspai.com/post/87559)
-* [【2024-03-26】 WSA 谢幕之际，盘点 PC 运行 Android 应用解决方案](https://sspai.com/prime/story/wsa-alternatives)
-* [【2024-03-26】 社区速递 037 | 给父母买的手机、优秀热点机以及半入耳式耳机](https://sspai.com/post/87563)
-* [【2024-03-26】 深度体验一年之后，我爱上了 Apple Fitness+](https://sspai.com/post/87413)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-28 05:13:28
+:alarm_clock: 更新时间: 2024-03-29 05:12:10
