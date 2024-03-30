@@ -665,13 +665,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "尝试了众多输入法方案后，我想和你分享这些心得",
+                "link": "https://sspai.com/post/86791",
+                "published": "2024-03-30"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大兜作品",
+                "link": "https://sspai.com/post/87654",
+                "published": "2024-03-29"
+            },
+            {
+                "title": "探索从短信转发到通知推送的全平台解决方案",
+                "link": "https://sspai.com/prime/story/cross-platform-sms-forwarding-solution",
+                "published": "2024-03-29"
+            },
+            {
+                "title": "20 年代的赛博复古：我们都在用这些新时代的「老玩意」",
+                "link": "https://sspai.com/post/87622",
+                "published": "2024-03-29"
+            },
             {
                 "title": "家用咖啡手册（番外） | 低因咖啡是怎么回事？",
                 "link": "https://sspai.com/post/87595",
