@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-04-01】 App+1 | 录屏灵活可控，后期省时省心：Screen Studio](https://sspai.com/post/86574)
+* [【2024-04-01】 派早报：少数派宣布进入汽车配件市场](https://sspai.com/post/87713)
+* [【2024-03-31】 本月玩什么 | 龙之信条 2、浪人崛起、Open Roads、Llamasoft: The Jeff Minter Story](https://sspai.com/post/87696)
+* [【2024-03-31】 空想特摄的浪漫：奥特曼入坑指南](https://sspai.com/post/87652)
 * [【2024-03-30】 尝试了众多输入法方案后，我想和你分享这些心得](https://sspai.com/post/86791)
 * [【2024-03-29】 本周看什么 | 最近值得一看的一大兜作品](https://sspai.com/post/87654)
 * [【2024-03-29】 探索从短信转发到通知推送的全平台解决方案](https://sspai.com/prime/story/cross-platform-sms-forwarding-solution)
 * [【2024-03-29】 20 年代的赛博复古：我们都在用这些新时代的「老玩意」](https://sspai.com/post/87622)
 * [【2024-03-29】 家用咖啡手册（番外） | 低因咖啡是怎么回事？](https://sspai.com/post/87595)
 * [【2024-03-29】 派早报：小米推出 SU7 系列汽车、理光推出 GR III HDF 及特别版](https://sspai.com/post/87642)
-* [【2024-03-28】 新玩意 176｜少数派的编辑们最近买了啥？](https://sspai.com/post/87623)
-* [【2024-03-28】 超越工具与概念之争：可持续知识管理的个人实践](https://sspai.com/post/87028)
-* [【2024-03-28】 回县城去：青年维特的烦恼](https://sspai.com/post/86722)
-* [【2024-03-28】 派早报：英特尔和微软联合定义 AI PC、麦当劳推出一次性胶卷相机等](https://sspai.com/post/87611)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-03-31 05:11:38
+:alarm_clock: 更新时间: 2024-04-01 05:12:49

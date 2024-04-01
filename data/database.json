@@ -673,6 +673,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 | 录屏灵活可控，后期省时省心：Screen Studio",
+                "link": "https://sspai.com/post/86574",
+                "published": "2024-04-01"
+            },
+            {
+                "title": "派早报：少数派宣布进入汽车配件市场",
+                "link": "https://sspai.com/post/87713",
+                "published": "2024-04-01"
+            },
+            {
+                "title": "本月玩什么 | 龙之信条 2、浪人崛起、Open Roads、Llamasoft: The Jeff Minter Story",
+                "link": "https://sspai.com/post/87696",
+                "published": "2024-03-31"
+            },
+            {
+                "title": "空想特摄的浪漫：奥特曼入坑指南",
+                "link": "https://sspai.com/post/87652",
+                "published": "2024-03-31"
+            },
+            {
                 "title": "尝试了众多输入法方案后，我想和你分享这些心得",
                 "link": "https://sspai.com/post/86791",
                 "published": "2024-03-30"
@@ -18408,7 +18428,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 2,
