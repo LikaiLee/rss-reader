@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-04-03】 选题、专业性、完美主义、数据和灵感，这些创作焦虑该如何应对？](https://sspai.com/post/87015)
+* [【2024-04-03】 派早报：ChatGPT 支持免登录使用等](https://sspai.com/post/87773)
+* [【2024-04-02】 社区速递 038 | 新玩意、进度条和派友们最爱的鼠标](https://sspai.com/post/87761)
+* [【2024-04-02】 轻量化、自动化、全面化：我的「量化自我」尝试数字之旅](https://sspai.com/post/86747)
 * [【2024-04-02】 一日一技 | 你也能上手的网络优先级调整，轻松实现局域网分流](https://sspai.com/post/87558)
 * [【2024-04-02】 派早报：Google 同意删除隐私模式收集的资料等](https://sspai.com/post/87740)
 * [【2024-04-01】 派评 | 近期值得关注的 App](https://sspai.com/post/87733)
 * [【2024-04-01】 我的「数字资产」管理思与行](https://sspai.com/post/87694)
 * [【2024-04-01】 App+1 | 录屏灵活可控，后期省时省心：Screen Studio](https://sspai.com/post/86574)
 * [【2024-04-01】 派早报：少数派宣布进入汽车配件市场](https://sspai.com/post/87713)
-* [【2024-03-31】 本月玩什么 | 龙之信条 2、浪人崛起、Open Roads、Llamasoft: The Jeff Minter Story](https://sspai.com/post/87696)
-* [【2024-03-31】 空想特摄的浪漫：奥特曼入坑指南](https://sspai.com/post/87652)
-* [【2024-03-30】 尝试了众多输入法方案后，我想和你分享这些心得](https://sspai.com/post/86791)
-* [【2024-03-29】 本周看什么 | 最近值得一看的一大兜作品](https://sspai.com/post/87654)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-02 05:11:29
+:alarm_clock: 更新时间: 2024-04-03 05:12:21
