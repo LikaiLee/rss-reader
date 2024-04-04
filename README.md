@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-04-04】 写给 Apple 用户的情书：vivo X Fold3 Pro](https://sspai.com/post/87747)
+* [【2024-04-03】 小众游戏 Ingress 的十年：是什么让它令人如此着迷](https://sspai.com/prime/story/ingress-ten-years)
+* [【2024-04-03】 当 AI 拥有 200 万字的记忆：体验 Kimi 智能助手长上下文支持](https://sspai.com/post/87797)
+* [【2024-04-03】 清谈半窗月，澹坐一杯茶：我的饮茶入坑杂记](https://sspai.com/post/87788)
 * [【2024-04-03】 选题、专业性、完美主义、数据和灵感，这些创作焦虑该如何应对？](https://sspai.com/post/87015)
 * [【2024-04-03】 派早报：ChatGPT 支持免登录使用等](https://sspai.com/post/87773)
 * [【2024-04-02】 社区速递 038 | 新玩意、进度条和派友们最爱的鼠标](https://sspai.com/post/87761)
 * [【2024-04-02】 轻量化、自动化、全面化：我的「量化自我」尝试数字之旅](https://sspai.com/post/86747)
 * [【2024-04-02】 一日一技 | 你也能上手的网络优先级调整，轻松实现局域网分流](https://sspai.com/post/87558)
 * [【2024-04-02】 派早报：Google 同意删除隐私模式收集的资料等](https://sspai.com/post/87740)
-* [【2024-04-01】 派评 | 近期值得关注的 App](https://sspai.com/post/87733)
-* [【2024-04-01】 我的「数字资产」管理思与行](https://sspai.com/post/87694)
-* [【2024-04-01】 App+1 | 录屏灵活可控，后期省时省心：Screen Studio](https://sspai.com/post/86574)
-* [【2024-04-01】 派早报：少数派宣布进入汽车配件市场](https://sspai.com/post/87713)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-03 05:12:21
+:alarm_clock: 更新时间: 2024-04-04 05:14:17
