@@ -673,6 +673,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "特别策划 | 灵活而又强大的 Notion 可以怎么用？不妨看看少数派们的分享",
+                "link": "https://sspai.com/post/87836",
+                "published": "2024-04-06"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的一大斗作品",
+                "link": "https://sspai.com/post/87799",
+                "published": "2024-04-05"
+            },
+            {
                 "title": "写给 Apple 用户的情书：vivo X Fold3 Pro",
                 "link": "https://sspai.com/post/87747",
                 "published": "2024-04-04"
@@ -18488,7 +18498,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 2,
