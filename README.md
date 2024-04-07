@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-04-07】 Nothing Phone 2(a) 的「必要」与「表达」](https://sspai.com/post/87846)
 * [【2024-04-06】 特别策划 | 灵活而又强大的 Notion 可以怎么用？不妨看看少数派们的分享](https://sspai.com/post/87836)
 * [【2024-04-05】 本周看什么 | 最近值得一看的一大斗作品](https://sspai.com/post/87799)
 * [【2024-04-04】 写给 Apple 用户的情书：vivo X Fold3 Pro](https://sspai.com/post/87747)
@@ -44,7 +45,6 @@
 * [【2024-04-03】 选题、专业性、完美主义、数据和灵感，这些创作焦虑该如何应对？](https://sspai.com/post/87015)
 * [【2024-04-03】 派早报：ChatGPT 支持免登录使用等](https://sspai.com/post/87773)
 * [【2024-04-02】 社区速递 038 | 新玩意、进度条和派友们最爱的鼠标](https://sspai.com/post/87761)
-* [【2024-04-02】 轻量化、自动化、全面化：我的「量化自我」尝试数字之旅](https://sspai.com/post/86747)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-06 05:12:00
+:alarm_clock: 更新时间: 2024-04-07 05:13:00

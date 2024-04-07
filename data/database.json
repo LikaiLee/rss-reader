@@ -673,6 +673,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Nothing Phone 2(a) 的「必要」与「表达」",
+                "link": "https://sspai.com/post/87846",
+                "published": "2024-04-07"
+            },
+            {
                 "title": "特别策划 | 灵活而又强大的 Notion 可以怎么用？不妨看看少数派们的分享",
                 "link": "https://sspai.com/post/87836",
                 "published": "2024-04-06"
@@ -18498,7 +18503,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
