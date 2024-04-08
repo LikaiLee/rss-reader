@@ -673,6 +673,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "也许学校根本没有教你如何学习：论什么是真正的自学",
+                "link": "https://sspai.com/post/87551",
+                "published": "2024-04-08"
+            },
+            {
+                "title": "派早报：运营商称将扩大「二次号码」解绑服务范围",
+                "link": "https://sspai.com/post/87879",
+                "published": "2024-04-08"
+            },
+            {
+                "title": "你的眼睛也会长结石，但这事没什么可怕的",
+                "link": "https://sspai.com/post/87853",
+                "published": "2024-04-07"
+            },
+            {
+                "title": "少数派为什么要支持创新者：做难而正确的事",
+                "link": "https://sspai.com/post/87854",
+                "published": "2024-04-07"
+            },
+            {
                 "title": "Nothing Phone 2(a) 的「必要」与「表达」",
                 "link": "https://sspai.com/post/87846",
                 "published": "2024-04-07"
@@ -18503,7 +18523,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 2,
