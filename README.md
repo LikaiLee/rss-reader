@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-04-09】 打造可持续的个人工作流 02：系统篇](https://sspai.com/post/87698)
+* [【2024-04-09】 派早报：14 款进口网络游戏获批、台积电获美国补贴将建第三厂等](https://sspai.com/post/87916)
+* [【2024-04-08】 陌生而有趣的训练伙伴——波速球和 ViPR 炮筒](https://sspai.com/prime/story/training-guide-bosu-ball-vipr)
+* [【2024-04-08】 [送码] 派评 | 近期值得关注的 App](https://sspai.com/post/87904)
+* [【2024-04-08】 从零开始认识 API，把网页信息化为己用](https://sspai.com/post/87885)
 * [【2024-04-08】 也许学校根本没有教你如何学习：论什么是真正的自学](https://sspai.com/post/87551)
 * [【2024-04-08】 派早报：运营商称将扩大「二次号码」解绑服务范围](https://sspai.com/post/87879)
 * [【2024-04-07】 你的眼睛也会长结石，但这事没什么可怕的](https://sspai.com/post/87853)
 * [【2024-04-07】 少数派为什么要支持创新者：做难而正确的事](https://sspai.com/post/87854)
 * [【2024-04-07】 Nothing Phone 2(a) 的「必要」与「表达」](https://sspai.com/post/87846)
-* [【2024-04-06】 特别策划 | 灵活而又强大的 Notion 可以怎么用？不妨看看少数派们的分享](https://sspai.com/post/87836)
-* [【2024-04-05】 本周看什么 | 最近值得一看的一大斗作品](https://sspai.com/post/87799)
-* [【2024-04-04】 写给 Apple 用户的情书：vivo X Fold3 Pro](https://sspai.com/post/87747)
-* [【2024-04-03】 小众游戏 Ingress 的十年：是什么让它令人如此着迷](https://sspai.com/prime/story/ingress-ten-years)
-* [【2024-04-03】 当 AI 拥有 200 万字的记忆：体验 Kimi 智能助手长上下文支持](https://sspai.com/post/87797)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-08 05:13:07
+:alarm_clock: 更新时间: 2024-04-09 05:11:52
