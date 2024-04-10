@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-04-10】 当设计代替性价比：从设计的角度解读 Nothing Phone (2a)](https://sspai.com/post/87883)
+* [【2024-04-10】 派早报：Fairphone 推出可更换电池的 ANC 耳机等](https://sspai.com/post/87944)
+* [【2024-04-09】 社区速递 039 | 新玩意、自动记账和派友们关注的小红书博主](https://sspai.com/post/87929)
+* [【2024-04-09】 再见你好吗：在 2024 回顾 Windows 的移动之梦](https://sspai.com/post/87907)
 * [【2024-04-09】 打造可持续的个人工作流 02：系统篇](https://sspai.com/post/87698)
 * [【2024-04-09】 派早报：14 款进口网络游戏获批、台积电获美国补贴将建第三厂等](https://sspai.com/post/87916)
 * [【2024-04-08】 陌生而有趣的训练伙伴——波速球和 ViPR 炮筒](https://sspai.com/prime/story/training-guide-bosu-ball-vipr)
 * [【2024-04-08】 [送码] 派评 | 近期值得关注的 App](https://sspai.com/post/87904)
 * [【2024-04-08】 从零开始认识 API，把网页信息化为己用](https://sspai.com/post/87885)
 * [【2024-04-08】 也许学校根本没有教你如何学习：论什么是真正的自学](https://sspai.com/post/87551)
-* [【2024-04-08】 派早报：运营商称将扩大「二次号码」解绑服务范围](https://sspai.com/post/87879)
-* [【2024-04-07】 你的眼睛也会长结石，但这事没什么可怕的](https://sspai.com/post/87853)
-* [【2024-04-07】 少数派为什么要支持创新者：做难而正确的事](https://sspai.com/post/87854)
-* [【2024-04-07】 Nothing Phone 2(a) 的「必要」与「表达」](https://sspai.com/post/87846)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-09 05:11:52
+:alarm_clock: 更新时间: 2024-04-10 05:11:37
