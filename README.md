@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-04-11】 给国内新用户的 Google Pixel 使用指南](https://sspai.com/post/78200)
+* [【2024-04-11】 派早报：红米召开新品发布会、暴雪娱乐确认回归等](https://sspai.com/post/87978)
+* [【2024-04-10】 曾经「装机必备」的老游戏，现在怎么样了？](https://sspai.com/post/78197)
 * [【2024-04-10】 当设计代替性价比：从设计的角度解读 Nothing Phone (2a)](https://sspai.com/post/87883)
 * [【2024-04-10】 派早报：Fairphone 推出可更换电池的 ANC 耳机等](https://sspai.com/post/87944)
 * [【2024-04-09】 社区速递 039 | 新玩意、自动记账和派友们关注的小红书博主](https://sspai.com/post/87929)
@@ -42,9 +45,6 @@
 * [【2024-04-09】 打造可持续的个人工作流 02：系统篇](https://sspai.com/post/87698)
 * [【2024-04-09】 派早报：14 款进口网络游戏获批、台积电获美国补贴将建第三厂等](https://sspai.com/post/87916)
 * [【2024-04-08】 陌生而有趣的训练伙伴——波速球和 ViPR 炮筒](https://sspai.com/prime/story/training-guide-bosu-ball-vipr)
-* [【2024-04-08】 [送码] 派评 | 近期值得关注的 App](https://sspai.com/post/87904)
-* [【2024-04-08】 从零开始认识 API，把网页信息化为己用](https://sspai.com/post/87885)
-* [【2024-04-08】 也许学校根本没有教你如何学习：论什么是真正的自学](https://sspai.com/post/87551)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-04-10】 中国西安《小果酱》画稿展](http://zhuanlan.zhihu.com/p/690008063?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-04-10】 灯塔之下，科学璀璨](http://zhuanlan.zhihu.com/p/690686329?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-28】 对于吉他来说，该如何学习音阶？](http://www.zhihu.com/question/28183674/answer/3433303413?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-27】 玉其实是不是相似于钻石，也是一场营销而已？](http://www.zhihu.com/question/20899613/answer/2771357290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-25】 铁器普及之前农业生产是怎么进行的?](http://www.zhihu.com/question/363545213/answer/3437805919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-03-15】 如何评价《沙丘 2》导演维伦纽瓦与陈思诚「造最真实的梦」主题对谈？](http://www.zhihu.com/question/648513817/answer/3430586920?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-07】 台湾人怎么看《周处除三害》在大陆火爆?](http://www.zhihu.com/question/647159751/answer/3420833090?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-03-12】 为什么会有深湖比深海更可怕这种说法？](http://www.zhihu.com/question/310112318/answer/3407403779?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-03-11】 电影《沙丘 2》怎么样，符合你的预期吗？](http://www.zhihu.com/question/647447394/answer/3424893873?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-03-07】 芯片生态的竞争逻辑](http://zhuanlan.zhihu.com/p/672689713?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-10 05:11:37
+:alarm_clock: 更新时间: 2024-04-11 05:12:18

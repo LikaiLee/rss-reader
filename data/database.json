@@ -673,6 +673,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "给国内新用户的 Google Pixel 使用指南",
+                "link": "https://sspai.com/post/78200",
+                "published": "2024-04-11"
+            },
+            {
+                "title": "派早报：红米召开新品发布会、暴雪娱乐确认回归等",
+                "link": "https://sspai.com/post/87978",
+                "published": "2024-04-11"
+            },
+            {
+                "title": "曾经「装机必备」的老游戏，现在怎么样了？",
+                "link": "https://sspai.com/post/78197",
+                "published": "2024-04-10"
+            },
+            {
                 "title": "当设计代替性价比：从设计的角度解读 Nothing Phone (2a)",
                 "link": "https://sspai.com/post/87883",
                 "published": "2024-04-10"
@@ -18568,7 +18583,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -49024,6 +49039,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "中国西安《小果酱》画稿展",
+                "link": "http://zhuanlan.zhihu.com/p/690008063?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-04-10"
+            },
+            {
+                "title": "灯塔之下，科学璀璨",
+                "link": "http://zhuanlan.zhihu.com/p/690686329?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-04-10"
+            },
+            {
                 "title": "对于吉他来说，该如何学习音阶？",
                 "link": "http://www.zhihu.com/question/28183674/answer/3433303413?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-03-28"
@@ -57619,7 +57644,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
