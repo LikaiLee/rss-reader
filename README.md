@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-04-11】 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html)
 * [【2024-03-29】 科技爱好者周刊（第 295 期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html)
 * [【2024-03-26】 2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html)
 * [【2024-03-22】 科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)
@@ -25,7 +26,6 @@
 * [【2024-02-23】 科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)
 * [【2024-02-02】 科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)
 * [【2024-01-26】 科技爱好者周刊（第 288 期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html)
-* [【2024-01-19】 科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-04-12】 用没那么枯燥的方式学英语：我的沉浸式语言学习实践](https://sspai.com/post/87977)
+* [【2024-04-12】 派早报：大疆发布 DJI Avata 2 无人机、汉王发布新款 N10 和 N10 Mini](https://sspai.com/post/88008)
+* [【2024-04-11】 新玩意 177｜少数派的编辑们最近买了啥？](https://sspai.com/post/87996)
+* [【2024-04-11】 当你以为自己用的是苹果系统字体](https://sspai.com/post/87960)
 * [【2024-04-11】 给国内新用户的 Google Pixel 使用指南](https://sspai.com/post/78200)
 * [【2024-04-11】 派早报：红米召开新品发布会、暴雪娱乐确认回归等](https://sspai.com/post/87978)
 * [【2024-04-10】 曾经「装机必备」的老游戏，现在怎么样了？](https://sspai.com/post/78197)
 * [【2024-04-10】 当设计代替性价比：从设计的角度解读 Nothing Phone (2a)](https://sspai.com/post/87883)
 * [【2024-04-10】 派早报：Fairphone 推出可更换电池的 ANC 耳机等](https://sspai.com/post/87944)
 * [【2024-04-09】 社区速递 039 | 新玩意、自动记账和派友们关注的小红书博主](https://sspai.com/post/87929)
-* [【2024-04-09】 再见你好吗：在 2024 回顾 Windows 的移动之梦](https://sspai.com/post/87907)
-* [【2024-04-09】 打造可持续的个人工作流 02：系统篇](https://sspai.com/post/87698)
-* [【2024-04-09】 派早报：14 款进口网络游戏获批、台积电获美国补贴将建第三厂等](https://sspai.com/post/87916)
-* [【2024-04-08】 陌生而有趣的训练伙伴——波速球和 ViPR 炮筒](https://sspai.com/prime/story/training-guide-bosu-ball-vipr)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-11 05:12:18
+:alarm_clock: 更新时间: 2024-04-12 05:13:38

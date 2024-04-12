@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？",
+                "link": "http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html",
+                "published": "2024-04-11"
+            },
+            {
                 "title": "科技爱好者周刊（第 295 期）：巧妙的灯泡钟",
                 "link": "http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html",
                 "published": "2024-03-29"
@@ -665,13 +670,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "用没那么枯燥的方式学英语：我的沉浸式语言学习实践",
+                "link": "https://sspai.com/post/87977",
+                "published": "2024-04-12"
+            },
+            {
+                "title": "派早报：大疆发布 DJI Avata 2 无人机、汉王发布新款 N10 和 N10 Mini",
+                "link": "https://sspai.com/post/88008",
+                "published": "2024-04-12"
+            },
+            {
+                "title": "新玩意 177｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/87996",
+                "published": "2024-04-11"
+            },
+            {
+                "title": "当你以为自己用的是苹果系统字体",
+                "link": "https://sspai.com/post/87960",
+                "published": "2024-04-11"
+            },
             {
                 "title": "给国内新用户的 Google Pixel 使用指南",
                 "link": "https://sspai.com/post/78200",
@@ -18583,7 +18608,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -57644,7 +57669,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,
