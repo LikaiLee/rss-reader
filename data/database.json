@@ -670,13 +670,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "触碰虚拟与现实的边界：少数派的 Let's visionOS 2024 大会回顾",
+                "link": "https://sspai.com/post/88040",
+                "published": "2024-04-13"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的好一些作品",
+                "link": "https://sspai.com/post/88024",
+                "published": "2024-04-12"
+            },
+            {
+                "title": "新兴云端部署服务 Zeabur 创始团队都装了啥？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-230412",
+                "published": "2024-04-12"
+            },
+            {
+                "title": "为了发现更多感兴趣的播客，我开发了一款工具",
+                "link": "https://sspai.com/post/87991",
+                "published": "2024-04-12"
+            },
             {
                 "title": "用没那么枯燥的方式学英语：我的沉浸式语言学习实践",
                 "link": "https://sspai.com/post/87977",
