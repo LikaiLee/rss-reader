@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-04-15】 App+1 | 功能强大的录屏与编辑工具，而且免费：Screenity](https://sspai.com/post/87950)
+* [【2024-04-15】 派早报：商务部推动数字消费提升、消费品以旧换新](https://sspai.com/post/88074)
+* [【2024-04-14】 具透 | 首个 Beta 版上线：Android 15 现阶段最值得关注的三大亮点汇总](https://sspai.com/post/88060)
 * [【2024-04-13】 触碰虚拟与现实的边界：少数派的 Let's visionOS 2024 大会回顾](https://sspai.com/post/88040)
 * [【2024-04-12】 本周看什么 | 最近值得一看的好一些作品](https://sspai.com/post/88024)
 * [【2024-04-12】 新兴云端部署服务 Zeabur 创始团队都装了啥？](https://sspai.com/prime/story/zhuanglesha-230412)
@@ -42,9 +45,6 @@
 * [【2024-04-12】 用没那么枯燥的方式学英语：我的沉浸式语言学习实践](https://sspai.com/post/87977)
 * [【2024-04-12】 派早报：大疆发布 DJI Avata 2 无人机、汉王发布新款 N10 和 N10 Mini](https://sspai.com/post/88008)
 * [【2024-04-11】 新玩意 177｜少数派的编辑们最近买了啥？](https://sspai.com/post/87996)
-* [【2024-04-11】 当你以为自己用的是苹果系统字体](https://sspai.com/post/87960)
-* [【2024-04-11】 给国内新用户的 Google Pixel 使用指南](https://sspai.com/post/78200)
-* [【2024-04-11】 派早报：红米召开新品发布会、暴雪娱乐确认回归等](https://sspai.com/post/87978)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-14 05:58:49
+:alarm_clock: 更新时间: 2024-04-15 05:11:00
