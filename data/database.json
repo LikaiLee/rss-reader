@@ -678,6 +678,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "有瑕疵的旅途伴侣：小米 14 Ultra 旅拍体验",
+                "link": "https://sspai.com/post/88067",
+                "published": "2024-04-16"
+            },
+            {
+                "title": "派早报：第一季度全球智能机出货量上涨 7.8%，OpenAI 开设日本分部等",
+                "link": "https://sspai.com/post/88102",
+                "published": "2024-04-16"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/88086",
+                "published": "2024-04-15"
+            },
+            {
+                "title": "城市漫步指南：初见山西，记住大同",
+                "link": "https://sspai.com/post/87791",
+                "published": "2024-04-15"
+            },
+            {
                 "title": "App+1 | 功能强大的录屏与编辑工具，而且免费：Screenity",
                 "link": "https://sspai.com/post/87950",
                 "published": "2024-04-15"
@@ -18643,7 +18663,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -49099,6 +49119,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "请调频至A人专属电台！！",
+                "link": "http://zhuanlan.zhihu.com/p/692375007?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-04-15"
+            },
+            {
+                "title": "社群公告",
+                "link": "http://zhuanlan.zhihu.com/p/688783714?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-04-15"
+            },
+            {
                 "title": "中国西安《小果酱》画稿展",
                 "link": "http://zhuanlan.zhihu.com/p/690008063?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-04-10"
@@ -57704,7 +57734,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
