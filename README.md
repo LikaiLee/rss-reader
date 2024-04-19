@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-04-19】 科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html)
 * [【2024-04-11】 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html)
 * [【2024-03-29】 科技爱好者周刊（第 295 期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html)
 * [【2024-03-26】 2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html)
@@ -25,7 +26,6 @@
 * [【2024-03-01】 科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html)
 * [【2024-02-23】 科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)
 * [【2024-02-02】 科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)
-* [【2024-01-26】 科技爱好者周刊（第 288 期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-04-19】 探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光](https://sspai.com/post/88132)
+* [【2024-04-19】 派早报：首个第三方应用程序商店 AltStore PAL 上线等](https://sspai.com/post/88182)
+* [【2024-04-18】 解锁你的「三倍生产力」，几硕 FlipGo 效率双屏](https://sspai.com/post/88154)
+* [【2024-04-18】 新玩意 178｜少数派的编辑们最近买了啥？](https://sspai.com/post/88142)
+* [【2024-04-18】 复古胶片拍立得，口袋相机新选择：Limi Cam](https://sspai.com/post/88045)
 * [【2024-04-18】 有奖｜2024 年，我如何找回听歌实感](https://sspai.com/post/88147)
 * [【2024-04-18】 派早报：AMD 发布锐龙 PRO 系列处理器、Adobe Acrobat 上线 AI 助手等](https://sspai.com/post/88145)
 * [【2024-04-17】 重回记忆中起风的草原：聊聊我们最爱的吉卜力电影](https://sspai.com/post/88085)
 * [【2024-04-17】 这 100 年来，我们如何「听见」声音](https://sspai.com/post/88090)
 * [【2024-04-17】 一日一技 | 一篇教你搞定 SSL 证书监控和续签](https://sspai.com/post/88127)
-* [【2024-04-17】 派早报：影石发布 8K 全景运动相机 X4 等](https://sspai.com/post/88125)
-* [【2024-04-16】 电子茅台与不驯灵魂：X100VI 漫谈，以及更多的复古相机选择](https://sspai.com/prime/story/xv100vi-retro-cameras)
-* [【2024-04-16】 社区速递 040 | 季度作者、跑出半马、海鸥双反以及派友手机壳大推荐](https://sspai.com/post/88118)
-* [【2024-04-16】 Ghidra 逆向工程实战：看看 macOS 恶意软件动了什么手脚](https://sspai.com/post/87870)
-* [【2024-04-16】 有瑕疵的旅途伴侣：小米 14 Ultra 旅拍体验](https://sspai.com/post/88067)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2024-04-18】 大模型时代的芯片机遇与未来 | 知乎AI先行者沙龙](http://zhuanlan.zhihu.com/p/693265689?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-04-18】 双重A的我：ADHD、ASD以及人生滑稽剧](http://zhuanlan.zhihu.com/p/692301130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-04-18】 两端固定的纸张拱起所成曲线的方程是什么？](http://www.zhihu.com/question/340323059/answer/2970744309?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-18】 《城市:天际线》怎么布局比较好？](http://www.zhihu.com/question/339153862/answer/3025074075?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-18】 如何看待北京十三号线西二旗站地铁里的拳击赛？](http://www.zhihu.com/question/489774267/answer/3469547134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-18】 照骗能骗到什么程度？](http://www.zhihu.com/question/348566387/answer/2994483280?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2024-04-17】 欧洲美人身上的“大妞感”和“女神气息”为什么会出现地域扎堆的情况？](http://zhuanlan.zhihu.com/p/564592327?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-17】 如何识别「赫鲁晓夫楼」、「筒子楼」与「老式单元楼」？](http://www.zhihu.com/question/652609179/answer/3468866932?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-16】 京藏高速为何出京由南向北?](http://www.zhihu.com/question/21576053/answer/2703572384?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-15】 请调频至A人专属电台！！](http://zhuanlan.zhihu.com/p/692375007?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-15】 社群公告](http://zhuanlan.zhihu.com/p/688783714?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-10】 中国西安《小果酱》画稿展](http://zhuanlan.zhihu.com/p/690008063?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-18 05:13:23
+:alarm_clock: 更新时间: 2024-04-19 05:12:18

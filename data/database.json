@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 297 期）：饮水鸟玩具",
+                "link": "http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html",
+                "published": "2024-04-19"
+            },
+            {
                 "title": "科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？",
                 "link": "http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html",
                 "published": "2024-04-11"
@@ -670,13 +675,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光",
+                "link": "https://sspai.com/post/88132",
+                "published": "2024-04-19"
+            },
+            {
+                "title": "派早报：首个第三方应用程序商店 AltStore PAL 上线等",
+                "link": "https://sspai.com/post/88182",
+                "published": "2024-04-19"
+            },
+            {
+                "title": "解锁你的「三倍生产力」，几硕 FlipGo 效率双屏",
+                "link": "https://sspai.com/post/88154",
+                "published": "2024-04-18"
+            },
+            {
+                "title": "新玩意 178｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/88142",
+                "published": "2024-04-18"
+            },
+            {
+                "title": "复古胶片拍立得，口袋相机新选择：Limi Cam",
+                "link": "https://sspai.com/post/88045",
+                "published": "2024-04-18"
+            },
             {
                 "title": "有奖｜2024 年，我如何找回听歌实感",
                 "link": "https://sspai.com/post/88147",
@@ -18708,7 +18738,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -49164,6 +49194,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "大模型时代的芯片机遇与未来 | 知乎AI先行者沙龙",
+                "link": "http://zhuanlan.zhihu.com/p/693265689?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-04-18"
+            },
+            {
+                "title": "双重A的我：ADHD、ASD以及人生滑稽剧",
+                "link": "http://zhuanlan.zhihu.com/p/692301130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-04-18"
+            },
+            {
+                "title": "两端固定的纸张拱起所成曲线的方程是什么？",
+                "link": "http://www.zhihu.com/question/340323059/answer/2970744309?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-04-18"
+            },
+            {
                 "title": "《城市:天际线》怎么布局比较好？",
                 "link": "http://www.zhihu.com/question/339153862/answer/3025074075?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-04-18"
@@ -57814,7 +57859,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 4,
