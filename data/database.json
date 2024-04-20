@@ -675,13 +675,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大煲作品",
+                "link": "https://sspai.com/post/88196",
+                "published": "2024-04-19"
+            },
+            {
+                "title": "赛博时代的复古异类：我们为什么还在用这些「旧玩意」",
+                "link": "https://sspai.com/post/88186",
+                "published": "2024-04-19"
+            },
+            {
+                "title": "做一款创意驱动的手机壳，让每个人都能玩开心",
+                "link": "https://sspai.com/post/88188",
+                "published": "2024-04-19"
+            },
             {
                 "title": "探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光",
                 "link": "https://sspai.com/post/88132",
@@ -18738,7 +18753,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -49194,6 +49209,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "什么叫中国人的浪漫？",
+                "link": "http://www.zhihu.com/question/638573300/answer/3456237662?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-04-19"
+            },
+            {
                 "title": "大模型时代的芯片机遇与未来 | 知乎AI先行者沙龙",
                 "link": "http://zhuanlan.zhihu.com/p/693265689?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-04-18"
@@ -57859,7 +57879,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,
