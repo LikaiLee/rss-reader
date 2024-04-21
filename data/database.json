@@ -683,6 +683,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "小众游戏 Ingress 的十年：是什么让它令人如此着迷",
+                "link": "https://sspai.com/prime/story/ingress-ten-years",
+                "published": "2024-04-21"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的一大煲作品",
                 "link": "https://sspai.com/post/88196",
                 "published": "2024-04-19"
@@ -18753,7 +18758,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -57879,7 +57884,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

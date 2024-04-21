@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-04-21】 小众游戏 Ingress 的十年：是什么让它令人如此着迷](https://sspai.com/prime/story/ingress-ten-years)
 * [【2024-04-19】 本周看什么 | 最近值得一看的一大煲作品](https://sspai.com/post/88196)
 * [【2024-04-19】 赛博时代的复古异类：我们为什么还在用这些「旧玩意」](https://sspai.com/post/88186)
 * [【2024-04-19】 做一款创意驱动的手机壳，让每个人都能玩开心](https://sspai.com/post/88188)
@@ -44,7 +45,6 @@
 * [【2024-04-18】 新玩意 178｜少数派的编辑们最近买了啥？](https://sspai.com/post/88142)
 * [【2024-04-18】 复古胶片拍立得，口袋相机新选择：Limi Cam](https://sspai.com/post/88045)
 * [【2024-04-18】 有奖｜2024 年，我如何找回听歌实感](https://sspai.com/post/88147)
-* [【2024-04-18】 派早报：AMD 发布锐龙 PRO 系列处理器、Adobe Acrobat 上线 AI 助手等](https://sspai.com/post/88145)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-20 05:12:09
+:alarm_clock: 更新时间: 2024-04-21 05:12:07
