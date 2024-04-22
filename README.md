@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-04-22】 手机号绑定了哪些服务？写点代码从短信里找出答案](https://sspai.com/post/88076)
+* [【2024-04-22】 派早报：特斯拉因踏板缺陷召回全部 Cybertruck](https://sspai.com/post/88234)
 * [【2024-04-21】 小众游戏 Ingress 的十年：是什么让它令人如此着迷](https://sspai.com/prime/story/ingress-ten-years)
 * [【2024-04-19】 本周看什么 | 最近值得一看的一大煲作品](https://sspai.com/post/88196)
 * [【2024-04-19】 赛博时代的复古异类：我们为什么还在用这些「旧玩意」](https://sspai.com/post/88186)
@@ -43,8 +45,6 @@
 * [【2024-04-19】 派早报：首个第三方应用程序商店 AltStore PAL 上线等](https://sspai.com/post/88182)
 * [【2024-04-18】 解锁你的「三倍生产力」，几硕 FlipGo 效率双屏](https://sspai.com/post/88154)
 * [【2024-04-18】 新玩意 178｜少数派的编辑们最近买了啥？](https://sspai.com/post/88142)
-* [【2024-04-18】 复古胶片拍立得，口袋相机新选择：Limi Cam](https://sspai.com/post/88045)
-* [【2024-04-18】 有奖｜2024 年，我如何找回听歌实感](https://sspai.com/post/88147)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-04-22】 火灾之后的巴黎圣母院，应该完全按古迹原样修复，还是应该根据现代建筑的技术加入新的元素？](http://www.zhihu.com/question/320439466/answer/3225146759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-19】 什么叫中国人的浪漫？](http://www.zhihu.com/question/638573300/answer/3456237662?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-18】 大模型时代的芯片机遇与未来 | 知乎AI先行者沙龙](http://zhuanlan.zhihu.com/p/693265689?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-18】 双重A的我：ADHD、ASD以及人生滑稽剧](http://zhuanlan.zhihu.com/p/692301130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-04-18】 照骗能骗到什么程度？](http://www.zhihu.com/question/348566387/answer/2994483280?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-17】 如果让你来改进一座「筒子楼」，你会怎么设计？](http://www.zhihu.com/question/652609243/answer/3468994199?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-17】 欧洲美人身上的“大妞感”和“女神气息”为什么会出现地域扎堆的情况？](http://zhuanlan.zhihu.com/p/564592327?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-17】 如何识别「赫鲁晓夫楼」、「筒子楼」与「老式单元楼」？](http://www.zhihu.com/question/652609179/answer/3468866932?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-21 05:12:07
+:alarm_clock: 更新时间: 2024-04-22 05:12:38
