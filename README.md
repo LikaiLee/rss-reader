@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-04-23】 我的购房指北：买房之前可以关注什么？](https://sspai.com/post/88238)
+* [【2024-04-23】 派早报：Meta 向第三方开放混合现实系统 Horizon OS，微软推出 VASA-1 AI 框架等](https://sspai.com/post/88272)
+* [【2024-04-22】 如何借助维基百科 API 查询术语翻译](https://sspai.com/prime/story/wikipedia-translator)
+* [【2024-04-22】 派评 | 近期值得关注的 App](https://sspai.com/post/88259)
+* [【2024-04-22】 一个操作按钮还不够用？这些捷径和另类玩法带你解锁全部潜力](https://sspai.com/post/88236)
 * [【2024-04-22】 手机号绑定了哪些服务？写点代码从短信里找出答案](https://sspai.com/post/88076)
 * [【2024-04-22】 派早报：特斯拉因踏板缺陷召回全部 Cybertruck](https://sspai.com/post/88234)
 * [【2024-04-21】 小众游戏 Ingress 的十年：是什么让它令人如此着迷](https://sspai.com/prime/story/ingress-ten-years)
 * [【2024-04-19】 本周看什么 | 最近值得一看的一大煲作品](https://sspai.com/post/88196)
 * [【2024-04-19】 赛博时代的复古异类：我们为什么还在用这些「旧玩意」](https://sspai.com/post/88186)
-* [【2024-04-19】 做一款创意驱动的手机壳，让每个人都能玩开心](https://sspai.com/post/88188)
-* [【2024-04-19】 探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光](https://sspai.com/post/88132)
-* [【2024-04-19】 派早报：首个第三方应用程序商店 AltStore PAL 上线等](https://sspai.com/post/88182)
-* [【2024-04-18】 解锁你的「三倍生产力」，几硕 FlipGo 效率双屏](https://sspai.com/post/88154)
-* [【2024-04-18】 新玩意 178｜少数派的编辑们最近买了啥？](https://sspai.com/post/88142)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-22 05:12:38
+:alarm_clock: 更新时间: 2024-04-23 05:11:41
