@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-04-24】 放轻松，这就是大人的玩具：大疆 Avata 2 第一视角无人机](https://sspai.com/post/88270)
+* [【2024-04-24】 派早报：雷蛇毒蝰 V3 专业版发布等](https://sspai.com/post/88303)
+* [【2024-04-23】 社区速递 041 | 派友速食大曝光、开源的老乡鸡以及作者的新玩意](https://sspai.com/post/88290)
+* [【2024-04-23】 看过太多意外，我们做了个 App 来记录「身体信号」：BodyKnows [送码]](https://sspai.com/post/88207)
 * [【2024-04-23】 我的购房指北：买房之前可以关注什么？](https://sspai.com/post/88238)
 * [【2024-04-23】 派早报：Meta 向第三方开放混合现实系统 Horizon OS，微软推出 VASA-1 AI 框架等](https://sspai.com/post/88272)
 * [【2024-04-22】 如何借助维基百科 API 查询术语翻译](https://sspai.com/prime/story/wikipedia-translator)
 * [【2024-04-22】 派评 | 近期值得关注的 App](https://sspai.com/post/88259)
 * [【2024-04-22】 一个操作按钮还不够用？这些捷径和另类玩法带你解锁全部潜力](https://sspai.com/post/88236)
 * [【2024-04-22】 手机号绑定了哪些服务？写点代码从短信里找出答案](https://sspai.com/post/88076)
-* [【2024-04-22】 派早报：特斯拉因踏板缺陷召回全部 Cybertruck](https://sspai.com/post/88234)
-* [【2024-04-21】 小众游戏 Ingress 的十年：是什么让它令人如此着迷](https://sspai.com/prime/story/ingress-ten-years)
-* [【2024-04-19】 本周看什么 | 最近值得一看的一大煲作品](https://sspai.com/post/88196)
-* [【2024-04-19】 赛博时代的复古异类：我们为什么还在用这些「旧玩意」](https://sspai.com/post/88186)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-23 05:11:41
+:alarm_clock: 更新时间: 2024-04-24 05:13:18

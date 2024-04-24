@@ -683,6 +683,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "放轻松，这就是大人的玩具：大疆 Avata 2 第一视角无人机",
+                "link": "https://sspai.com/post/88270",
+                "published": "2024-04-24"
+            },
+            {
+                "title": "派早报：雷蛇毒蝰 V3 专业版发布等",
+                "link": "https://sspai.com/post/88303",
+                "published": "2024-04-24"
+            },
+            {
+                "title": "社区速递 041 | 派友速食大曝光、开源的老乡鸡以及作者的新玩意",
+                "link": "https://sspai.com/post/88290",
+                "published": "2024-04-23"
+            },
+            {
+                "title": "看过太多意外，我们做了个 App 来记录「身体信号」：BodyKnows [送码]",
+                "link": "https://sspai.com/post/88207",
+                "published": "2024-04-23"
+            },
+            {
                 "title": "我的购房指北：买房之前可以关注什么？",
                 "link": "https://sspai.com/post/88238",
                 "published": "2024-04-23"
@@ -18793,7 +18813,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
