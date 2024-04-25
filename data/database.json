@@ -683,6 +683,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "「助你苹安」iPhone 一键遥控 Android 热点，简单设置强化双持体验",
+                "link": "https://sspai.com/post/88334",
+                "published": "2024-04-25"
+            },
+            {
+                "title": "派早报：OPPO 发布 K12、vivo 推出 Z9 系列手机等",
+                "link": "https://sspai.com/post/88335",
+                "published": "2024-04-25"
+            },
+            {
+                "title": "你的五一旅行必备清单，这些出行好物推荐给你",
+                "link": "https://sspai.com/post/88300",
+                "published": "2024-04-24"
+            },
+            {
+                "title": "出行锦囊 | 找到假期应有的惬意：聊聊攻略规划与星级酒店",
+                "link": "https://sspai.com/post/83199",
+                "published": "2024-04-24"
+            },
+            {
+                "title": "听我爱听的——基于 Antennapod 的全播客解决方案",
+                "link": "https://sspai.com/post/88279",
+                "published": "2024-04-24"
+            },
+            {
                 "title": "放轻松，这就是大人的玩具：大疆 Avata 2 第一视角无人机",
                 "link": "https://sspai.com/post/88270",
                 "published": "2024-04-24"
@@ -18813,7 +18838,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
