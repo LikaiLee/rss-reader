@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-04-26】 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html)
 * [【2024-04-19】 科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html)
 * [【2024-04-11】 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html)
 * [【2024-03-29】 科技爱好者周刊（第 295 期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html)
@@ -25,7 +26,6 @@
 * [【2024-03-08】 科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)
 * [【2024-03-01】 科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html)
 * [【2024-02-23】 科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)
-* [【2024-02-02】 科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-04-26】 什么是笔记的理想形态？个人笔记系统折腾手记](https://sspai.com/post/87490)
+* [【2024-04-26】 派早报：水月雨发布 MIAD 01 HiFi 手机、高通发布骁龙 X Plus 处理器](https://sspai.com/post/88364)
+* [【2024-04-25】 新玩意 179｜少数派的编辑们最近买了啥？](https://sspai.com/post/88350)
+* [【2024-04-25】 在「移动的家」里，这是我们的爱护方式和好物推荐](https://sspai.com/post/88348)
+* [【2024-04-25】 iPhone 终于有任天堂模拟器了：聊聊热门应用 Delta 的前世今生](https://sspai.com/post/88299)
 * [【2024-04-25】 「助你苹安」iPhone 一键遥控 Android 热点，简单设置强化双持体验](https://sspai.com/post/88334)
 * [【2024-04-25】 派早报：OPPO 发布 K12、vivo 推出 Z9 系列手机等](https://sspai.com/post/88335)
 * [【2024-04-24】 你的五一旅行必备清单，这些出行好物推荐给你](https://sspai.com/post/88300)
 * [【2024-04-24】 出行锦囊 | 找到假期应有的惬意：聊聊攻略规划与星级酒店](https://sspai.com/post/83199)
 * [【2024-04-24】 听我爱听的——基于 Antennapod 的全播客解决方案](https://sspai.com/post/88279)
-* [【2024-04-24】 放轻松，这就是大人的玩具：大疆 Avata 2 第一视角无人机](https://sspai.com/post/88270)
-* [【2024-04-24】 派早报：雷蛇毒蝰 V3 专业版发布等](https://sspai.com/post/88303)
-* [【2024-04-23】 社区速递 041 | 派友速食大曝光、开源的老乡鸡以及作者的新玩意](https://sspai.com/post/88290)
-* [【2024-04-23】 看过太多意外，我们做了个 App 来记录「身体信号」：BodyKnows [送码]](https://sspai.com/post/88207)
-* [【2024-04-23】 我的购房指北：买房之前可以关注什么？](https://sspai.com/post/88238)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-25 05:12:09
+:alarm_clock: 更新时间: 2024-04-26 05:11:48

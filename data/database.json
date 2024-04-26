@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了",
+                "link": "http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html",
+                "published": "2024-04-26"
+            },
+            {
                 "title": "科技爱好者周刊（第 297 期）：饮水鸟玩具",
                 "link": "http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html",
                 "published": "2024-04-19"
@@ -675,13 +680,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "什么是笔记的理想形态？个人笔记系统折腾手记",
+                "link": "https://sspai.com/post/87490",
+                "published": "2024-04-26"
+            },
+            {
+                "title": "派早报：水月雨发布 MIAD 01 HiFi 手机、高通发布骁龙 X Plus 处理器",
+                "link": "https://sspai.com/post/88364",
+                "published": "2024-04-26"
+            },
+            {
+                "title": "新玩意 179｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/88350",
+                "published": "2024-04-25"
+            },
+            {
+                "title": "在「移动的家」里，这是我们的爱护方式和好物推荐",
+                "link": "https://sspai.com/post/88348",
+                "published": "2024-04-25"
+            },
+            {
+                "title": "iPhone 终于有任天堂模拟器了：聊聊热门应用 Delta 的前世今生",
+                "link": "https://sspai.com/post/88299",
+                "published": "2024-04-25"
+            },
             {
                 "title": "「助你苹安」iPhone 一键遥控 Android 热点，简单设置强化双持体验",
                 "link": "https://sspai.com/post/88334",
