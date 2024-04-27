@@ -680,13 +680,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "出行锦囊 | 出去玩带什么：和你分享我的包",
+                "link": "https://sspai.com/post/83351",
+                "published": "2024-04-27"
+            },
+            {
+                "title": "19 种做法，解锁笋的节节美味",
+                "link": "https://sspai.com/prime/story/bamboo-shoots-recipes",
+                "published": "2024-04-26"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 12 部作品",
+                "link": "https://sspai.com/post/88382",
+                "published": "2024-04-26"
+            },
+            {
+                "title": "一日一技 | Windows 11 满地广告：教你如何关闭它",
+                "link": "https://sspai.com/post/88373",
+                "published": "2024-04-26"
+            },
             {
                 "title": "什么是笔记的理想形态？个人笔记系统折腾手记",
                 "link": "https://sspai.com/post/87490",
@@ -18868,7 +18888,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
