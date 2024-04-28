@@ -688,6 +688,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始",
+                "link": "https://sspai.com/post/88325",
+                "published": "2024-04-28"
+            },
+            {
                 "title": "出行锦囊 | 出去玩带什么：和你分享我的包",
                 "link": "https://sspai.com/post/83351",
                 "published": "2024-04-27"
@@ -18888,7 +18893,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,

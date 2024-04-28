@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-04-28】 Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始](https://sspai.com/post/88325)
 * [【2024-04-27】 出行锦囊 | 出去玩带什么：和你分享我的包](https://sspai.com/post/83351)
 * [【2024-04-26】 19 种做法，解锁笋的节节美味](https://sspai.com/prime/story/bamboo-shoots-recipes)
 * [【2024-04-26】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/88382)
@@ -44,7 +45,6 @@
 * [【2024-04-25】 新玩意 179｜少数派的编辑们最近买了啥？](https://sspai.com/post/88350)
 * [【2024-04-25】 在「移动的家」里，这是我们的爱护方式和好物推荐](https://sspai.com/post/88348)
 * [【2024-04-25】 iPhone 终于有任天堂模拟器了：聊聊热门应用 Delta 的前世今生](https://sspai.com/post/88299)
-* [【2024-04-25】 「助你苹安」iPhone 一键遥控 Android 热点，简单设置强化双持体验](https://sspai.com/post/88334)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-27 05:15:09
+:alarm_clock: 更新时间: 2024-04-28 05:12:36
