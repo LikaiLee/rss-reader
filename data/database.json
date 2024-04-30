@@ -688,6 +688,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一个「吸引」行业震动的小小改动",
+                "link": "https://sspai.com/post/88461",
+                "published": "2024-04-30"
+            },
+            {
+                "title": "派早报：六家企业通过汽车数据安全合规要求检测等",
+                "link": "https://sspai.com/post/88465",
+                "published": "2024-04-30"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/88456",
+                "published": "2024-04-29"
+            },
+            {
                 "title": "为即将到来的出境游做好准备：这些经验让你少踩坑",
                 "link": "https://sspai.com/post/88394",
                 "published": "2024-04-29"
@@ -18903,7 +18918,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,

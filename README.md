@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-04-30】 一个「吸引」行业震动的小小改动](https://sspai.com/post/88461)
+* [【2024-04-30】 派早报：六家企业通过汽车数据安全合规要求检测等](https://sspai.com/post/88465)
+* [【2024-04-29】 派评 | 近期值得关注的 App](https://sspai.com/post/88456)
 * [【2024-04-29】 为即将到来的出境游做好准备：这些经验让你少踩坑](https://sspai.com/post/88394)
 * [【2024-04-29】 派早报：字节跳动称无计划出售 TikTok](https://sspai.com/post/88419)
 * [【2024-04-28】 Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始](https://sspai.com/post/88325)
@@ -42,9 +45,6 @@
 * [【2024-04-26】 19 种做法，解锁笋的节节美味](https://sspai.com/prime/story/bamboo-shoots-recipes)
 * [【2024-04-26】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/88382)
 * [【2024-04-26】 一日一技 | Windows 11 满地广告：教你如何关闭它](https://sspai.com/post/88373)
-* [【2024-04-26】 什么是笔记的理想形态？个人笔记系统折腾手记](https://sspai.com/post/87490)
-* [【2024-04-26】 派早报：水月雨发布 MIAD 01 HiFi 手机、高通发布骁龙 X Plus 处理器](https://sspai.com/post/88364)
-* [【2024-04-25】 新玩意 179｜少数派的编辑们最近买了啥？](https://sspai.com/post/88350)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-29 05:14:11
+:alarm_clock: 更新时间: 2024-04-30 05:11:51
