@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-01】 这个五一假期，和这些好文、音乐与电影享受轻松时刻](https://sspai.com/post/79515)
+* [【2024-04-30】 本月玩什么 | 波坦尼庄园、太阳之子、哈罗德·哈利巴](https://sspai.com/post/88489)
+* [【2024-04-30】 小屏手机，一只脚踏进坟地](https://sspai.com/prime/story/small-phones-the-demise-of)
+* [【2024-04-30】 社区速递 042 | RIME 多端同步、无线充电争议以及派友们的新玩意](https://sspai.com/post/88483)
+* [【2024-04-30】 五一假期将至，用 iPhone 轻松搞定假日出行](https://sspai.com/post/88452)
 * [【2024-04-30】 一个「吸引」行业震动的小小改动](https://sspai.com/post/88461)
 * [【2024-04-30】 派早报：六家企业通过汽车数据安全合规要求检测等](https://sspai.com/post/88465)
 * [【2024-04-29】 派评 | 近期值得关注的 App](https://sspai.com/post/88456)
 * [【2024-04-29】 为即将到来的出境游做好准备：这些经验让你少踩坑](https://sspai.com/post/88394)
 * [【2024-04-29】 派早报：字节跳动称无计划出售 TikTok](https://sspai.com/post/88419)
-* [【2024-04-28】 Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始](https://sspai.com/post/88325)
-* [【2024-04-27】 出行锦囊 | 出去玩带什么：和你分享我的包](https://sspai.com/post/83351)
-* [【2024-04-26】 19 种做法，解锁笋的节节美味](https://sspai.com/prime/story/bamboo-shoots-recipes)
-* [【2024-04-26】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/88382)
-* [【2024-04-26】 一日一技 | Windows 11 满地广告：教你如何关闭它](https://sspai.com/post/88373)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-04-30 05:11:51
+:alarm_clock: 更新时间: 2024-05-01 05:12:04
