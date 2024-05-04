@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-05-04】 如何用快捷指令批量清理截图状态栏](https://sspai.com/post/79283)
+* [【2024-05-04】 又一届 Swift 学生挑战赛圆满落幕，今年这些作品值得关注](https://sspai.com/post/88525)
+* [【2024-05-03】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/88518)
 * [【2024-05-03】 12.5 GPT 与进阶技巧：AI 内容检测](https://sspai.com/post/85766)
 * [【2024-05-02】 只缘身在此山中：我在五台山做义工](https://sspai.com/post/88078)
 * [【2024-05-02】 用 Keyboard Maestro 增强浏览器使用体验](https://sspai.com/post/83865)
@@ -42,9 +45,6 @@
 * [【2024-05-01】 找回最简单的摄影乐趣：索尼 A7C2](https://sspai.com/post/85853)
 * [【2024-05-01】 如何用 LaTeX 给文档创建美观的目录和索引](https://sspai.com/post/87254)
 * [【2024-05-01】 这个五一假期，和这些好文、音乐与电影享受轻松时刻](https://sspai.com/post/79515)
-* [【2024-04-30】 本月玩什么 | 波坦尼庄园、太阳之子、哈罗德·哈利巴](https://sspai.com/post/88489)
-* [【2024-04-30】 小屏手机，一只脚踏进坟地](https://sspai.com/prime/story/small-phones-the-demise-of)
-* [【2024-04-30】 社区速递 042 | RIME 多端同步、无线充电争议以及派友们的新玩意](https://sspai.com/post/88483)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-03 05:12:31
+:alarm_clock: 更新时间: 2024-05-04 05:13:01
