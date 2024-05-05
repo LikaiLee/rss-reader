@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-05】 抓住冬天的尾巴，去见江南的楼阁](https://sspai.com/post/86171)
+* [【2024-05-05】 旅行拍照虽然开心，但别忘了清洁相机](https://sspai.com/post/68863)
+* [【2024-05-04】 用 Proxmox 敲开家庭服务器的大门](https://sspai.com/prime/story/proxmox-homelab-guide-1)
+* [【2024-05-04】 比装备推荐更重要的户外知识：重装徒步入坑指南](https://sspai.com/post/88425)
 * [【2024-05-04】 如何用快捷指令批量清理截图状态栏](https://sspai.com/post/79283)
 * [【2024-05-04】 又一届 Swift 学生挑战赛圆满落幕，今年这些作品值得关注](https://sspai.com/post/88525)
 * [【2024-05-03】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/88518)
 * [【2024-05-03】 12.5 GPT 与进阶技巧：AI 内容检测](https://sspai.com/post/85766)
 * [【2024-05-02】 只缘身在此山中：我在五台山做义工](https://sspai.com/post/88078)
 * [【2024-05-02】 用 Keyboard Maestro 增强浏览器使用体验](https://sspai.com/post/83865)
-* [【2024-05-02】 把宝贵的时间留给佳作，追剧观影少不了这些辅助](https://sspai.com/post/79491)
-* [【2024-05-01】 找回最简单的摄影乐趣：索尼 A7C2](https://sspai.com/post/85853)
-* [【2024-05-01】 如何用 LaTeX 给文档创建美观的目录和索引](https://sspai.com/post/87254)
-* [【2024-05-01】 这个五一假期，和这些好文、音乐与电影享受轻松时刻](https://sspai.com/post/79515)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-04 05:13:01
+:alarm_clock: 更新时间: 2024-05-05 05:11:51

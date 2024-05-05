@@ -688,6 +688,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "抓住冬天的尾巴，去见江南的楼阁",
+                "link": "https://sspai.com/post/86171",
+                "published": "2024-05-05"
+            },
+            {
+                "title": "旅行拍照虽然开心，但别忘了清洁相机",
+                "link": "https://sspai.com/post/68863",
+                "published": "2024-05-05"
+            },
+            {
+                "title": "用 Proxmox 敲开家庭服务器的大门",
+                "link": "https://sspai.com/prime/story/proxmox-homelab-guide-1",
+                "published": "2024-05-04"
+            },
+            {
+                "title": "比装备推荐更重要的户外知识：重装徒步入坑指南",
+                "link": "https://sspai.com/post/88425",
+                "published": "2024-05-04"
+            },
+            {
                 "title": "如何用快捷指令批量清理截图状态栏",
                 "link": "https://sspai.com/post/79283",
                 "published": "2024-05-04"
@@ -18988,7 +19008,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
