@@ -688,6 +688,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "喀拉峻的瞬间",
+                "link": "https://sspai.com/post/88505",
+                "published": "2024-05-06"
+            },
+            {
+                "title": "派早报：首个完全使用 Sora 制作的 MV 发布",
+                "link": "https://sspai.com/post/88562",
+                "published": "2024-05-06"
+            },
+            {
+                "title": "掌握 Windows 终端命令的基本语法及风格",
+                "link": "https://sspai.com/post/78248",
+                "published": "2024-05-05"
+            },
+            {
                 "title": "抓住冬天的尾巴，去见江南的楼阁",
                 "link": "https://sspai.com/post/86171",
                 "published": "2024-05-05"
@@ -19008,7 +19023,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
