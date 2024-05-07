@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-07】 在 2024 年播放一张上世纪的「图像唱片」：LaserDisc](https://sspai.com/post/88519)
+* [【2024-05-07】 派早报：Stack Overflow 与 OpenAI 合作，英伟达更新 ChatRTX 等](https://sspai.com/post/88593)
+* [【2024-05-06】 派评 | 近期值得关注的 app](https://sspai.com/post/88579)
+* [【2024-05-06】 从 1.0 到 95，见证 Windows 界面从青涩到成熟](https://sspai.com/post/87835)
+* [【2024-05-06】 理解 Keynote「神奇移动」效果的原理](https://sspai.com/post/77495)
 * [【2024-05-06】 喀拉峻的瞬间](https://sspai.com/post/88505)
 * [【2024-05-06】 派早报：首个完全使用 Sora 制作的 MV 发布](https://sspai.com/post/88562)
 * [【2024-05-05】 掌握 Windows 终端命令的基本语法及风格](https://sspai.com/post/78248)
 * [【2024-05-05】 抓住冬天的尾巴，去见江南的楼阁](https://sspai.com/post/86171)
 * [【2024-05-05】 旅行拍照虽然开心，但别忘了清洁相机](https://sspai.com/post/68863)
-* [【2024-05-04】 用 Proxmox 敲开家庭服务器的大门](https://sspai.com/prime/story/proxmox-homelab-guide-1)
-* [【2024-05-04】 比装备推荐更重要的户外知识：重装徒步入坑指南](https://sspai.com/post/88425)
-* [【2024-05-04】 如何用快捷指令批量清理截图状态栏](https://sspai.com/post/79283)
-* [【2024-05-04】 又一届 Swift 学生挑战赛圆满落幕，今年这些作品值得关注](https://sspai.com/post/88525)
-* [【2024-05-03】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/88518)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-06 05:13:42
+:alarm_clock: 更新时间: 2024-05-07 05:14:39
