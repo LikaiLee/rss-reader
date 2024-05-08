@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-08】 派早报：Apple 发布多款 iPad 新品等](https://sspai.com/post/88620)
+* [【2024-05-07】 一图流 | Apple 春季特别活动回顾](https://sspai.com/post/88619)
+* [【2024-05-07】 iPad Pro 重磅升级、Apple Pencil Pro 全新亮相：Apple 发布会回顾](https://sspai.com/post/88618)
+* [【2024-05-07】 社区速递 043 | 浏览器里的虚拟机、派友小组件大曝光以及新玩意](https://sspai.com/post/88607)
+* [【2024-05-07】 我的栖息之所：历时半年，把房子装成家](https://sspai.com/post/88391)
+* [【2024-05-07】 用对字体，像图片一样呈现文本](https://sspai.com/post/76990)
 * [【2024-05-07】 在 2024 年播放一张上世纪的「图像唱片」：LaserDisc](https://sspai.com/post/88519)
 * [【2024-05-07】 派早报：Stack Overflow 与 OpenAI 合作，英伟达更新 ChatRTX 等](https://sspai.com/post/88593)
 * [【2024-05-06】 派评 | 近期值得关注的 app](https://sspai.com/post/88579)
 * [【2024-05-06】 从 1.0 到 95，见证 Windows 界面从青涩到成熟](https://sspai.com/post/87835)
-* [【2024-05-06】 理解 Keynote「神奇移动」效果的原理](https://sspai.com/post/77495)
-* [【2024-05-06】 喀拉峻的瞬间](https://sspai.com/post/88505)
-* [【2024-05-06】 派早报：首个完全使用 Sora 制作的 MV 发布](https://sspai.com/post/88562)
-* [【2024-05-05】 掌握 Windows 终端命令的基本语法及风格](https://sspai.com/post/78248)
-* [【2024-05-05】 抓住冬天的尾巴，去见江南的楼阁](https://sspai.com/post/86171)
-* [【2024-05-05】 旅行拍照虽然开心，但别忘了清洁相机](https://sspai.com/post/68863)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-07 05:14:39
+:alarm_clock: 更新时间: 2024-05-08 05:12:09

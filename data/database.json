@@ -688,6 +688,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Apple 发布多款 iPad 新品等",
+                "link": "https://sspai.com/post/88620",
+                "published": "2024-05-08"
+            },
+            {
+                "title": "一图流 | Apple 春季特别活动回顾",
+                "link": "https://sspai.com/post/88619",
+                "published": "2024-05-07"
+            },
+            {
+                "title": "iPad Pro 重磅升级、Apple Pencil Pro 全新亮相：Apple 发布会回顾",
+                "link": "https://sspai.com/post/88618",
+                "published": "2024-05-07"
+            },
+            {
+                "title": "社区速递 043 | 浏览器里的虚拟机、派友小组件大曝光以及新玩意",
+                "link": "https://sspai.com/post/88607",
+                "published": "2024-05-07"
+            },
+            {
+                "title": "我的栖息之所：历时半年，把房子装成家",
+                "link": "https://sspai.com/post/88391",
+                "published": "2024-05-07"
+            },
+            {
+                "title": "用对字体，像图片一样呈现文本",
+                "link": "https://sspai.com/post/76990",
+                "published": "2024-05-07"
+            },
+            {
                 "title": "在 2024 年播放一张上世纪的「图像唱片」：LaserDisc",
                 "link": "https://sspai.com/post/88519",
                 "published": "2024-05-07"
@@ -19048,7 +19078,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
