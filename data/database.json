@@ -688,6 +688,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 | 小鹤音形在 iPhone 上的完美归宿：仓输入法",
+                "link": "https://sspai.com/post/88595",
+                "published": "2024-05-09"
+            },
+            {
+                "title": "派早报：Matter 1.3 规范发布、哈苏发布 XCD 2,5/25V 广角夜拍中画幅镜头",
+                "link": "https://sspai.com/post/88658",
+                "published": "2024-05-09"
+            },
+            {
+                "title": "返工怎能不烦恼，打工人片单总有一部是你的「嘴替」",
+                "link": "https://sspai.com/post/88578",
+                "published": "2024-05-08"
+            },
+            {
+                "title": "如何让 app 设计易于上手？从认识「可供性」开始",
+                "link": "https://sspai.com/post/88464",
+                "published": "2024-05-08"
+            },
+            {
                 "title": "派早报：Apple 发布多款 iPad 新品等",
                 "link": "https://sspai.com/post/88620",
                 "published": "2024-05-08"
@@ -19078,7 +19098,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,

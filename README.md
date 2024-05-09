@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-09】 App+1 | 小鹤音形在 iPhone 上的完美归宿：仓输入法](https://sspai.com/post/88595)
+* [【2024-05-09】 派早报：Matter 1.3 规范发布、哈苏发布 XCD 2,5/25V 广角夜拍中画幅镜头](https://sspai.com/post/88658)
+* [【2024-05-08】 返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
+* [【2024-05-08】 如何让 app 设计易于上手？从认识「可供性」开始](https://sspai.com/post/88464)
 * [【2024-05-08】 派早报：Apple 发布多款 iPad 新品等](https://sspai.com/post/88620)
 * [【2024-05-07】 一图流 | Apple 春季特别活动回顾](https://sspai.com/post/88619)
 * [【2024-05-07】 iPad Pro 重磅升级、Apple Pencil Pro 全新亮相：Apple 发布会回顾](https://sspai.com/post/88618)
 * [【2024-05-07】 社区速递 043 | 浏览器里的虚拟机、派友小组件大曝光以及新玩意](https://sspai.com/post/88607)
 * [【2024-05-07】 我的栖息之所：历时半年，把房子装成家](https://sspai.com/post/88391)
 * [【2024-05-07】 用对字体，像图片一样呈现文本](https://sspai.com/post/76990)
-* [【2024-05-07】 在 2024 年播放一张上世纪的「图像唱片」：LaserDisc](https://sspai.com/post/88519)
-* [【2024-05-07】 派早报：Stack Overflow 与 OpenAI 合作，英伟达更新 ChatRTX 等](https://sspai.com/post/88593)
-* [【2024-05-06】 派评 | 近期值得关注的 app](https://sspai.com/post/88579)
-* [【2024-05-06】 从 1.0 到 95，见证 Windows 界面从青涩到成熟](https://sspai.com/post/87835)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-08 05:12:09
+:alarm_clock: 更新时间: 2024-05-09 05:13:29
