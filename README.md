@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-05-10】 科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html)
 * [【2024-04-26】 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html)
 * [【2024-04-19】 科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html)
 * [【2024-04-11】 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html)
@@ -25,7 +26,6 @@
 * [【2024-03-15】 科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)
 * [【2024-03-08】 科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)
 * [【2024-03-01】 科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html)
-* [【2024-02-23】 科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-10】 派早报：Google 发布 Pixel 8a、Apple 就 iPad Pro 广告致歉等](https://sspai.com/post/88677)
+* [【2024-05-09】 处理器简史 08 | 频率大战一触即发，黄金时代转瞬即逝](https://sspai.com/prime/story/sv-anecdotes-08)
+* [【2024-05-09】 新玩意 180｜少数派的编辑们最近买了啥？](https://sspai.com/post/88671)
+* [【2024-05-09】 来一场有准备的国内自驾：线路规划篇](https://sspai.com/post/88227)
 * [【2024-05-09】 App+1 | 小鹤音形在 iPhone 上的完美归宿：仓输入法](https://sspai.com/post/88595)
 * [【2024-05-09】 派早报：Matter 1.3 规范发布、哈苏发布 XCD 2,5/25V 广角夜拍中画幅镜头](https://sspai.com/post/88658)
 * [【2024-05-08】 返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
 * [【2024-05-08】 如何让 app 设计易于上手？从认识「可供性」开始](https://sspai.com/post/88464)
 * [【2024-05-08】 派早报：Apple 发布多款 iPad 新品等](https://sspai.com/post/88620)
 * [【2024-05-07】 一图流 | Apple 春季特别活动回顾](https://sspai.com/post/88619)
-* [【2024-05-07】 iPad Pro 重磅升级、Apple Pencil Pro 全新亮相：Apple 发布会回顾](https://sspai.com/post/88618)
-* [【2024-05-07】 社区速递 043 | 浏览器里的虚拟机、派友小组件大曝光以及新玩意](https://sspai.com/post/88607)
-* [【2024-05-07】 我的栖息之所：历时半年，把房子装成家](https://sspai.com/post/88391)
-* [【2024-05-07】 用对字体，像图片一样呈现文本](https://sspai.com/post/76990)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-05-10】 《艾尔登法环》到底好不好玩？](http://www.zhihu.com/question/518718046/answer/3460213728?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-22】 火灾之后的巴黎圣母院，应该完全按古迹原样修复，还是应该根据现代建筑的技术加入新的元素？](http://www.zhihu.com/question/320439466/answer/3225146759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-19】 什么叫中国人的浪漫？](http://www.zhihu.com/question/638573300/answer/3456237662?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-18】 大模型时代的芯片机遇与未来 | 知乎AI先行者沙龙](http://zhuanlan.zhihu.com/p/693265689?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-04-18】 如何看待北京十三号线西二旗站地铁里的拳击赛？](http://www.zhihu.com/question/489774267/answer/3469547134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-18】 照骗能骗到什么程度？](http://www.zhihu.com/question/348566387/answer/2994483280?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-17】 如果让你来改进一座「筒子楼」，你会怎么设计？](http://www.zhihu.com/question/652609243/answer/3468994199?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-17】 欧洲美人身上的“大妞感”和“女神气息”为什么会出现地域扎堆的情况？](http://zhuanlan.zhihu.com/p/564592327?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-09 05:13:29
+:alarm_clock: 更新时间: 2024-05-10 05:12:14

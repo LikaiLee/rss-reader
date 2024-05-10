@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 299 期）：AI 的关键是语料",
+                "link": "http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html",
+                "published": "2024-05-10"
+            },
+            {
                 "title": "科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了",
                 "link": "http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html",
                 "published": "2024-04-26"
@@ -680,13 +685,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派早报：Google 发布 Pixel 8a、Apple 就 iPad Pro 广告致歉等",
+                "link": "https://sspai.com/post/88677",
+                "published": "2024-05-10"
+            },
+            {
+                "title": "处理器简史 08 | 频率大战一触即发，黄金时代转瞬即逝",
+                "link": "https://sspai.com/prime/story/sv-anecdotes-08",
+                "published": "2024-05-09"
+            },
+            {
+                "title": "新玩意 180｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/88671",
+                "published": "2024-05-09"
+            },
+            {
+                "title": "来一场有准备的国内自驾：线路规划篇",
+                "link": "https://sspai.com/post/88227",
+                "published": "2024-05-09"
+            },
             {
                 "title": "App+1 | 小鹤音形在 iPhone 上的完美归宿：仓输入法",
                 "link": "https://sspai.com/post/88595",
@@ -49554,6 +49579,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《艾尔登法环》到底好不好玩？",
+                "link": "http://www.zhihu.com/question/518718046/answer/3460213728?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-10"
+            },
+            {
                 "title": "火灾之后的巴黎圣母院，应该完全按古迹原样修复，还是应该根据现代建筑的技术加入新的元素？",
                 "link": "http://www.zhihu.com/question/320439466/answer/3225146759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-04-22"
@@ -58229,7 +58259,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
