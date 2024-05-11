@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-05-10】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/88696)
+* [【2024-05-10】 我就是想继续用 Windows 10：那安全漏洞怎么办？](https://sspai.com/post/88541)
+* [【2024-05-10】 能弯曲的 Bose Ultra 开放式耳机，黑科技带来时尚的体验](https://sspai.com/post/88673)
 * [【2024-05-10】 派早报：Google 发布 Pixel 8a、Apple 就 iPad Pro 广告致歉等](https://sspai.com/post/88677)
 * [【2024-05-09】 处理器简史 08 | 频率大战一触即发，黄金时代转瞬即逝](https://sspai.com/prime/story/sv-anecdotes-08)
 * [【2024-05-09】 新玩意 180｜少数派的编辑们最近买了啥？](https://sspai.com/post/88671)
@@ -42,9 +45,6 @@
 * [【2024-05-09】 App+1 | 小鹤音形在 iPhone 上的完美归宿：仓输入法](https://sspai.com/post/88595)
 * [【2024-05-09】 派早报：Matter 1.3 规范发布、哈苏发布 XCD 2,5/25V 广角夜拍中画幅镜头](https://sspai.com/post/88658)
 * [【2024-05-08】 返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
-* [【2024-05-08】 如何让 app 设计易于上手？从认识「可供性」开始](https://sspai.com/post/88464)
-* [【2024-05-08】 派早报：Apple 发布多款 iPad 新品等](https://sspai.com/post/88620)
-* [【2024-05-07】 一图流 | Apple 春季特别活动回顾](https://sspai.com/post/88619)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2024-05-11】 你管这破玩意叫指针？](http://zhuanlan.zhihu.com/p/673888668?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-05-11】 若由你来提名一幅能参加「名画PK大赛」的美术画作，你会挑哪张呢？](http://www.zhihu.com/question/654055226/answer/3478750257?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-05-10】 都说民国继承了清朝的法统，那么清朝的法统又源于何处？](http://www.zhihu.com/question/655546193/answer/3493810288?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-10】 《艾尔登法环》到底好不好玩？](http://www.zhihu.com/question/518718046/answer/3460213728?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-22】 火灾之后的巴黎圣母院，应该完全按古迹原样修复，还是应该根据现代建筑的技术加入新的元素？](http://www.zhihu.com/question/320439466/answer/3225146759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-19】 什么叫中国人的浪漫？](http://www.zhihu.com/question/638573300/answer/3456237662?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2024-04-18】 双重A的我：ADHD、ASD以及人生滑稽剧](http://zhuanlan.zhihu.com/p/692301130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-18】 两端固定的纸张拱起所成曲线的方程是什么？](http://www.zhihu.com/question/340323059/answer/2970744309?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-18】 《城市:天际线》怎么布局比较好？](http://www.zhihu.com/question/339153862/answer/3025074075?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-18】 如何看待北京十三号线西二旗站地铁里的拳击赛？](http://www.zhihu.com/question/489774267/answer/3469547134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-18】 照骗能骗到什么程度？](http://www.zhihu.com/question/348566387/answer/2994483280?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-17】 如果让你来改进一座「筒子楼」，你会怎么设计？](http://www.zhihu.com/question/652609243/answer/3468994199?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-10 05:12:14
+:alarm_clock: 更新时间: 2024-05-11 05:12:19

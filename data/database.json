@@ -685,13 +685,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/88696",
+                "published": "2024-05-10"
+            },
+            {
+                "title": "我就是想继续用 Windows 10：那安全漏洞怎么办？",
+                "link": "https://sspai.com/post/88541",
+                "published": "2024-05-10"
+            },
+            {
+                "title": "能弯曲的 Bose Ultra 开放式耳机，黑科技带来时尚的体验",
+                "link": "https://sspai.com/post/88673",
+                "published": "2024-05-10"
+            },
             {
                 "title": "派早报：Google 发布 Pixel 8a、Apple 就 iPad Pro 广告致歉等",
                 "link": "https://sspai.com/post/88677",
@@ -19123,7 +19138,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -49579,6 +49594,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "你管这破玩意叫指针？",
+                "link": "http://zhuanlan.zhihu.com/p/673888668?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-11"
+            },
+            {
+                "title": "若由你来提名一幅能参加「名画PK大赛」的美术画作，你会挑哪张呢？",
+                "link": "http://www.zhihu.com/question/654055226/answer/3478750257?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-11"
+            },
+            {
+                "title": "都说民国继承了清朝的法统，那么清朝的法统又源于何处？",
+                "link": "http://www.zhihu.com/question/655546193/answer/3493810288?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-10"
+            },
+            {
                 "title": "《艾尔登法环》到底好不好玩？",
                 "link": "http://www.zhihu.com/question/518718046/answer/3460213728?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-05-10"
@@ -58259,7 +58289,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 4,
