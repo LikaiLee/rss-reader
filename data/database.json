@@ -693,6 +693,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一场长途自驾后的讨论：油电同乐，拥抱纯电",
+                "link": "https://sspai.com/post/88715",
+                "published": "2024-05-11"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 10 部作品",
                 "link": "https://sspai.com/post/88696",
                 "published": "2024-05-10"
@@ -19138,7 +19143,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -58289,7 +58294,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     },
     {
         "id": 4,

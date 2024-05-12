@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-05-11】 一场长途自驾后的讨论：油电同乐，拥抱纯电](https://sspai.com/post/88715)
 * [【2024-05-10】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/88696)
 * [【2024-05-10】 我就是想继续用 Windows 10：那安全漏洞怎么办？](https://sspai.com/post/88541)
 * [【2024-05-10】 能弯曲的 Bose Ultra 开放式耳机，黑科技带来时尚的体验](https://sspai.com/post/88673)
@@ -44,7 +45,6 @@
 * [【2024-05-09】 来一场有准备的国内自驾：线路规划篇](https://sspai.com/post/88227)
 * [【2024-05-09】 App+1 | 小鹤音形在 iPhone 上的完美归宿：仓输入法](https://sspai.com/post/88595)
 * [【2024-05-09】 派早报：Matter 1.3 规范发布、哈苏发布 XCD 2,5/25V 广角夜拍中画幅镜头](https://sspai.com/post/88658)
-* [【2024-05-08】 返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-11 05:12:19
+:alarm_clock: 更新时间: 2024-05-12 05:13:04
