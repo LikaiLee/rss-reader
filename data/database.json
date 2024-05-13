@@ -693,6 +693,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "面对国产软件的 VVIP，我选择了退订",
+                "link": "https://sspai.com/post/88734",
+                "published": "2024-05-13"
+            },
+            {
+                "title": "派早报：苹果称仅极少开发者申请接入外部支付",
+                "link": "https://sspai.com/post/88754",
+                "published": "2024-05-13"
+            },
+            {
                 "title": "一场长途自驾后的讨论：油电同乐，拥抱纯电",
                 "link": "https://sspai.com/post/88715",
                 "published": "2024-05-11"
@@ -19143,7 +19153,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -49599,6 +49609,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "当名画《拾穗者》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？",
+                "link": "http://www.zhihu.com/question/655433872/answer/3495130121?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-13"
+            },
+            {
                 "title": "你管这破玩意叫指针？",
                 "link": "http://zhuanlan.zhihu.com/p/673888668?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-05-11"
@@ -58294,7 +58309,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

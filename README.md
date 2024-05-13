@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-05-13】 面对国产软件的 VVIP，我选择了退订](https://sspai.com/post/88734)
+* [【2024-05-13】 派早报：苹果称仅极少开发者申请接入外部支付](https://sspai.com/post/88754)
 * [【2024-05-11】 一场长途自驾后的讨论：油电同乐，拥抱纯电](https://sspai.com/post/88715)
 * [【2024-05-10】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/88696)
 * [【2024-05-10】 我就是想继续用 Windows 10：那安全漏洞怎么办？](https://sspai.com/post/88541)
@@ -43,8 +45,6 @@
 * [【2024-05-09】 处理器简史 08 | 频率大战一触即发，黄金时代转瞬即逝](https://sspai.com/prime/story/sv-anecdotes-08)
 * [【2024-05-09】 新玩意 180｜少数派的编辑们最近买了啥？](https://sspai.com/post/88671)
 * [【2024-05-09】 来一场有准备的国内自驾：线路规划篇](https://sspai.com/post/88227)
-* [【2024-05-09】 App+1 | 小鹤音形在 iPhone 上的完美归宿：仓输入法](https://sspai.com/post/88595)
-* [【2024-05-09】 派早报：Matter 1.3 规范发布、哈苏发布 XCD 2,5/25V 广角夜拍中画幅镜头](https://sspai.com/post/88658)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-05-13】 当名画《拾穗者》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？](http://www.zhihu.com/question/655433872/answer/3495130121?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-11】 你管这破玩意叫指针？](http://zhuanlan.zhihu.com/p/673888668?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-11】 若由你来提名一幅能参加「名画PK大赛」的美术画作，你会挑哪张呢？](http://www.zhihu.com/question/654055226/answer/3478750257?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-10】 都说民国继承了清朝的法统，那么清朝的法统又源于何处？](http://www.zhihu.com/question/655546193/answer/3493810288?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-04-18】 大模型时代的芯片机遇与未来 | 知乎AI先行者沙龙](http://zhuanlan.zhihu.com/p/693265689?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-18】 双重A的我：ADHD、ASD以及人生滑稽剧](http://zhuanlan.zhihu.com/p/692301130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-18】 两端固定的纸张拱起所成曲线的方程是什么？](http://www.zhihu.com/question/340323059/answer/2970744309?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-18】 《城市:天际线》怎么布局比较好？](http://www.zhihu.com/question/339153862/answer/3025074075?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-12 05:13:04
+:alarm_clock: 更新时间: 2024-05-13 05:14:32
