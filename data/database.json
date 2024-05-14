@@ -693,6 +693,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 用 iCloud Drive 实现 RIME 输入法配置跨平台同步",
+                "link": "https://sspai.com/post/88355",
+                "published": "2024-05-14"
+            },
+            {
+                "title": "派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等",
+                "link": "https://sspai.com/post/88779",
+                "published": "2024-05-14"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/88773",
+                "published": "2024-05-13"
+            },
+            {
+                "title": "Windows 设计史（二）「海王星」项目：「稳定」表象背后的求索",
+                "link": "https://sspai.com/post/88506",
+                "published": "2024-05-13"
+            },
+            {
                 "title": "面对国产软件的 VVIP，我选择了退订",
                 "link": "https://sspai.com/post/88734",
                 "published": "2024-05-13"
@@ -19153,7 +19173,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -49609,6 +49629,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "21世纪之后还诞生过哪些全球公认的名画作品？",
+                "link": "http://www.zhihu.com/question/655670347/answer/3495903125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-13"
+            },
+            {
+                "title": "历史上有哪些如神一般存在的人物？",
+                "link": "http://www.zhihu.com/question/302114868/answer/3153108590?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-13"
+            },
+            {
                 "title": "当名画《拾穗者》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？",
                 "link": "http://www.zhihu.com/question/655433872/answer/3495130121?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-05-13"
@@ -58309,7 +58339,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,

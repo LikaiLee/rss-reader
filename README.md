@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-14】 一日一技 | 用 iCloud Drive 实现 RIME 输入法配置跨平台同步](https://sspai.com/post/88355)
+* [【2024-05-14】 派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等](https://sspai.com/post/88779)
+* [【2024-05-13】 派评 | 近期值得关注的 App](https://sspai.com/post/88773)
+* [【2024-05-13】 Windows 设计史（二）「海王星」项目：「稳定」表象背后的求索](https://sspai.com/post/88506)
 * [【2024-05-13】 面对国产软件的 VVIP，我选择了退订](https://sspai.com/post/88734)
 * [【2024-05-13】 派早报：苹果称仅极少开发者申请接入外部支付](https://sspai.com/post/88754)
 * [【2024-05-11】 一场长途自驾后的讨论：油电同乐，拥抱纯电](https://sspai.com/post/88715)
 * [【2024-05-10】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/88696)
 * [【2024-05-10】 我就是想继续用 Windows 10：那安全漏洞怎么办？](https://sspai.com/post/88541)
 * [【2024-05-10】 能弯曲的 Bose Ultra 开放式耳机，黑科技带来时尚的体验](https://sspai.com/post/88673)
-* [【2024-05-10】 派早报：Google 发布 Pixel 8a、Apple 就 iPad Pro 广告致歉等](https://sspai.com/post/88677)
-* [【2024-05-09】 处理器简史 08 | 频率大战一触即发，黄金时代转瞬即逝](https://sspai.com/prime/story/sv-anecdotes-08)
-* [【2024-05-09】 新玩意 180｜少数派的编辑们最近买了啥？](https://sspai.com/post/88671)
-* [【2024-05-09】 来一场有准备的国内自驾：线路规划篇](https://sspai.com/post/88227)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-05-13】 21世纪之后还诞生过哪些全球公认的名画作品？](http://www.zhihu.com/question/655670347/answer/3495903125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-05-13】 历史上有哪些如神一般存在的人物？](http://www.zhihu.com/question/302114868/answer/3153108590?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-13】 当名画《拾穗者》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？](http://www.zhihu.com/question/655433872/answer/3495130121?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-11】 你管这破玩意叫指针？](http://zhuanlan.zhihu.com/p/673888668?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-11】 若由你来提名一幅能参加「名画PK大赛」的美术画作，你会挑哪张呢？](http://www.zhihu.com/question/654055226/answer/3478750257?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-04-22】 火灾之后的巴黎圣母院，应该完全按古迹原样修复，还是应该根据现代建筑的技术加入新的元素？](http://www.zhihu.com/question/320439466/answer/3225146759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-19】 什么叫中国人的浪漫？](http://www.zhihu.com/question/638573300/answer/3456237662?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-04-18】 大模型时代的芯片机遇与未来 | 知乎AI先行者沙龙](http://zhuanlan.zhihu.com/p/693265689?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-18】 双重A的我：ADHD、ASD以及人生滑稽剧](http://zhuanlan.zhihu.com/p/692301130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-18】 两端固定的纸张拱起所成曲线的方程是什么？](http://www.zhihu.com/question/340323059/answer/2970744309?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-13 05:14:32
+:alarm_clock: 更新时间: 2024-05-14 05:13:12
