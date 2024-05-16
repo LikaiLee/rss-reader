@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-16】 怀旧游戏全能王：RetroArch 极速入门](https://sspai.com/post/88260)
+* [【2024-05-16】 派早报：OpenAI 首席科学家 Ilya 宣布离职、乐道发布 L60 纯电中型 SUV 等](https://sspai.com/post/88841)
+* [【2024-05-15】 小巧轻便，随时聆听：Beats Solo 4 佩戴体验](https://sspai.com/post/88797)
+* [【2024-05-15】 征文 | 找回数字生活主导权，聊聊你的自托管经验技巧](https://sspai.com/post/88807)
 * [【2024-05-15】 OpenAI 春季更新：大戏到来前的半代升级](https://sspai.com/post/88803)
 * [【2024-05-15】 派早报：Setapp 应用商店在欧洲上线、未知位置追踪器检测行业标准落地等](https://sspai.com/post/88806)
 * [【2024-05-14】 社区速递 044 | 作者的新玩意、NuPhy 以及派友用车小心得](https://sspai.com/post/88798)
 * [【2024-05-14】 来一场有准备的国内自驾：招募队友、住行票务与物资准备](https://sspai.com/post/88656)
 * [【2024-05-14】 一日一技 | 用 iCloud Drive 实现 RIME 输入法配置跨平台同步](https://sspai.com/post/88355)
 * [【2024-05-14】 派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等](https://sspai.com/post/88779)
-* [【2024-05-13】 派评 | 近期值得关注的 App](https://sspai.com/post/88773)
-* [【2024-05-13】 Windows 设计史（二）「海王星」项目：「稳定」表象背后的求索](https://sspai.com/post/88506)
-* [【2024-05-13】 面对国产软件的 VVIP，我选择了退订](https://sspai.com/post/88734)
-* [【2024-05-13】 派早报：苹果称仅极少开发者申请接入外部支付](https://sspai.com/post/88754)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2024-05-16】 看完《长安三万里》，各位脑洞一波，宋朝拍谁，明朝拍谁，怎么拍?](http://www.zhihu.com/question/613500879/answer/3141290416?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-05-15】 想认真记录旅行中看到的风景，有哪些相机值得购买？](http://www.zhihu.com/question/653888674/answer/3491944894?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-05-15】 有哪些装机方案，能够完美兼顾游戏与生产力需求？](http://www.zhihu.com/question/653888855/answer/3499195646?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-14】 如何选择合适的显卡，能够兼顾娱乐和生产力需求？](http://www.zhihu.com/question/653888745/answer/3497934548?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-13】 21世纪之后还诞生过哪些全球公认的名画作品？](http://www.zhihu.com/question/655670347/answer/3495903125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-13】 历史上有哪些如神一般存在的人物？](http://www.zhihu.com/question/302114868/answer/3153108590?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2024-05-11】 你管这破玩意叫指针？](http://zhuanlan.zhihu.com/p/673888668?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-11】 若由你来提名一幅能参加「名画PK大赛」的美术画作，你会挑哪张呢？](http://www.zhihu.com/question/654055226/answer/3478750257?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-10】 都说民国继承了清朝的法统，那么清朝的法统又源于何处？](http://www.zhihu.com/question/655546193/answer/3493810288?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-10】 《艾尔登法环》到底好不好玩？](http://www.zhihu.com/question/518718046/answer/3460213728?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-22】 火灾之后的巴黎圣母院，应该完全按古迹原样修复，还是应该根据现代建筑的技术加入新的元素？](http://www.zhihu.com/question/320439466/answer/3225146759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-04-19】 什么叫中国人的浪漫？](http://www.zhihu.com/question/638573300/answer/3456237662?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-15 05:13:27
+:alarm_clock: 更新时间: 2024-05-16 05:12:58
