@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 300 期）：三十年，解决人生三大问题",
+                "link": "http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html",
+                "published": "2024-05-17"
+            },
+            {
                 "title": "科技爱好者周刊（第 299 期）：AI 的关键是语料",
                 "link": "http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html",
                 "published": "2024-05-10"
@@ -685,13 +690,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "好文章也想「慢慢读」，于是我写了一个把网页变成电子书的工具",
+                "link": "https://sspai.com/post/88800",
+                "published": "2024-05-17"
+            },
+            {
+                "title": "派早报：适马推出新款 24⁠–70 镜头、《沙丘》前传剧集公布预告片等",
+                "link": "https://sspai.com/post/88862",
+                "published": "2024-05-17"
+            },
+            {
+                "title": "新玩意 181｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/88853",
+                "published": "2024-05-16"
+            },
+            {
+                "title": "[现货发售] FlipGo 效率双屏带来了哪些改变？来自少数派作者们的思考",
+                "link": "https://sspai.com/post/88827",
+                "published": "2024-05-16"
+            },
+            {
+                "title": "iOS 辅助功能知多少",
+                "link": "https://sspai.com/post/76750",
+                "published": "2024-05-16"
+            },
+            {
+                "title": "「怀旧游戏全能王」上架 App Store，带你入门 RetroArch",
+                "link": "https://sspai.com/post/88260",
+                "published": "2024-05-16"
+            },
             {
                 "title": "怀旧游戏全能王：RetroArch 极速入门",
                 "link": "https://sspai.com/post/88260",
@@ -19213,7 +19248,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -58399,7 +58434,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     },
     {
         "id": 4,

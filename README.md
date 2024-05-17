@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-05-17】 科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html)
 * [【2024-05-10】 科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html)
 * [【2024-04-26】 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html)
 * [【2024-04-19】 科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html)
@@ -25,7 +26,6 @@
 * [【2024-03-22】 科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)
 * [【2024-03-15】 科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)
 * [【2024-03-08】 科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)
-* [【2024-03-01】 科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-17】 好文章也想「慢慢读」，于是我写了一个把网页变成电子书的工具](https://sspai.com/post/88800)
+* [【2024-05-17】 派早报：适马推出新款 24⁠–70 镜头、《沙丘》前传剧集公布预告片等](https://sspai.com/post/88862)
+* [【2024-05-16】 新玩意 181｜少数派的编辑们最近买了啥？](https://sspai.com/post/88853)
+* [【2024-05-16】 [现货发售] FlipGo 效率双屏带来了哪些改变？来自少数派作者们的思考](https://sspai.com/post/88827)
+* [【2024-05-16】 iOS 辅助功能知多少](https://sspai.com/post/76750)
+* [【2024-05-16】 「怀旧游戏全能王」上架 App Store，带你入门 RetroArch](https://sspai.com/post/88260)
 * [【2024-05-16】 怀旧游戏全能王：RetroArch 极速入门](https://sspai.com/post/88260)
 * [【2024-05-16】 派早报：OpenAI 首席科学家 Ilya 宣布离职、乐道发布 L60 纯电中型 SUV 等](https://sspai.com/post/88841)
 * [【2024-05-15】 小巧轻便，随时聆听：Beats Solo 4 佩戴体验](https://sspai.com/post/88797)
 * [【2024-05-15】 征文 | 找回数字生活主导权，聊聊你的自托管经验技巧](https://sspai.com/post/88807)
-* [【2024-05-15】 OpenAI 春季更新：大戏到来前的半代升级](https://sspai.com/post/88803)
-* [【2024-05-15】 派早报：Setapp 应用商店在欧洲上线、未知位置追踪器检测行业标准落地等](https://sspai.com/post/88806)
-* [【2024-05-14】 社区速递 044 | 作者的新玩意、NuPhy 以及派友用车小心得](https://sspai.com/post/88798)
-* [【2024-05-14】 来一场有准备的国内自驾：招募队友、住行票务与物资准备](https://sspai.com/post/88656)
-* [【2024-05-14】 一日一技 | 用 iCloud Drive 实现 RIME 输入法配置跨平台同步](https://sspai.com/post/88355)
-* [【2024-05-14】 派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等](https://sspai.com/post/88779)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-16 05:12:58
+:alarm_clock: 更新时间: 2024-05-17 05:13:49
