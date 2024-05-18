@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-05-17】 AI 硬件接连翻车，怪我们太严格了吗？](https://sspai.com/prime/story/ai-gadgets-hype)
+* [【2024-05-17】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/88877)
+* [【2024-05-17】 具透 | 原生 Android「分身」来了：Android 15 Beta 2 亮点速览](https://sspai.com/post/88875)
 * [【2024-05-17】 好文章也想「慢慢读」，于是我写了一个把网页变成电子书的工具](https://sspai.com/post/88800)
 * [【2024-05-17】 派早报：适马推出新款 24⁠–70 镜头、《沙丘》前传剧集公布预告片等](https://sspai.com/post/88862)
 * [【2024-05-16】 新玩意 181｜少数派的编辑们最近买了啥？](https://sspai.com/post/88853)
@@ -42,9 +45,6 @@
 * [【2024-05-16】 iOS 辅助功能知多少](https://sspai.com/post/76750)
 * [【2024-05-16】 「怀旧游戏全能王」上架 App Store，带你入门 RetroArch](https://sspai.com/post/88260)
 * [【2024-05-16】 怀旧游戏全能王：RetroArch 极速入门](https://sspai.com/post/88260)
-* [【2024-05-16】 派早报：OpenAI 首席科学家 Ilya 宣布离职、乐道发布 L60 纯电中型 SUV 等](https://sspai.com/post/88841)
-* [【2024-05-15】 小巧轻便，随时聆听：Beats Solo 4 佩戴体验](https://sspai.com/post/88797)
-* [【2024-05-15】 征文 | 找回数字生活主导权，聊聊你的自托管经验技巧](https://sspai.com/post/88807)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-17 05:13:49
+:alarm_clock: 更新时间: 2024-05-18 05:12:35

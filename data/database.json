@@ -690,13 +690,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "AI 硬件接连翻车，怪我们太严格了吗？",
+                "link": "https://sspai.com/prime/story/ai-gadgets-hype",
+                "published": "2024-05-17"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/88877",
+                "published": "2024-05-17"
+            },
+            {
+                "title": "具透 | 原生 Android「分身」来了：Android 15 Beta 2 亮点速览",
+                "link": "https://sspai.com/post/88875",
+                "published": "2024-05-17"
+            },
             {
                 "title": "好文章也想「慢慢读」，于是我写了一个把网页变成电子书的工具",
                 "link": "https://sspai.com/post/88800",
@@ -19248,7 +19263,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 2,
