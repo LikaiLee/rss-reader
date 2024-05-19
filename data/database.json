@@ -698,6 +698,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "网上冲浪也能兼顾效率和体验：Chrome 侧边栏浏览器扩展集锦",
+                "link": "https://sspai.com/post/88825",
+                "published": "2024-05-18"
+            },
+            {
                 "title": "AI 硬件接连翻车，怪我们太严格了吗？",
                 "link": "https://sspai.com/prime/story/ai-gadgets-hype",
                 "published": "2024-05-17"
@@ -19263,7 +19268,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -49719,6 +49724,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "浅谈一下范闲前七集情绪变化起伏",
+                "link": "http://zhuanlan.zhihu.com/p/698522987?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-18"
+            },
+            {
+                "title": "如何评价范闲两季跪拜的变化？",
+                "link": "http://zhuanlan.zhihu.com/p/698522675?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-18"
+            },
+            {
+                "title": "如何理解庆余年2中的范闲？",
+                "link": "http://zhuanlan.zhihu.com/p/698521968?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-18"
+            },
+            {
+                "title": "如何评价庆余年2范闲假死是欺君之罪？",
+                "link": "http://zhuanlan.zhihu.com/p/698521375?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-18"
+            },
+            {
                 "title": "看完《长安三万里》，各位脑洞一波，宋朝拍谁，明朝拍谁，怎么拍?",
                 "link": "http://www.zhihu.com/question/613500879/answer/3141290416?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-05-16"
@@ -58449,7 +58474,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 4,
