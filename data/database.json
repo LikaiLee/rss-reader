@@ -698,6 +698,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 | 用 Sandboxie-Plus，管住「不听话」的 Windows 软件",
+                "link": "https://sspai.com/post/88759",
+                "published": "2024-05-20"
+            },
+            {
+                "title": "派早报：iOS 第三方浏览器引擎只能由实际位于欧盟的设备调试",
+                "link": "https://sspai.com/post/88917",
+                "published": "2024-05-20"
+            },
+            {
+                "title": "从编程小白到三次被苹果推荐，这是我送给自己最好的本科毕业礼物",
+                "link": "https://sspai.com/post/88689",
+                "published": "2024-05-19"
+            },
+            {
                 "title": "网上冲浪也能兼顾效率和体验：Chrome 侧边栏浏览器扩展集锦",
                 "link": "https://sspai.com/post/88825",
                 "published": "2024-05-18"
@@ -19268,7 +19283,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -58474,7 +58489,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 0
     },
     {
         "id": 4,

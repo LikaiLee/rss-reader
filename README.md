@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-05-20】 App+1 | 用 Sandboxie-Plus，管住「不听话」的 Windows 软件](https://sspai.com/post/88759)
+* [【2024-05-20】 派早报：iOS 第三方浏览器引擎只能由实际位于欧盟的设备调试](https://sspai.com/post/88917)
+* [【2024-05-19】 从编程小白到三次被苹果推荐，这是我送给自己最好的本科毕业礼物](https://sspai.com/post/88689)
 * [【2024-05-18】 网上冲浪也能兼顾效率和体验：Chrome 侧边栏浏览器扩展集锦](https://sspai.com/post/88825)
 * [【2024-05-17】 AI 硬件接连翻车，怪我们太严格了吗？](https://sspai.com/prime/story/ai-gadgets-hype)
 * [【2024-05-17】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/88877)
@@ -42,9 +45,6 @@
 * [【2024-05-17】 好文章也想「慢慢读」，于是我写了一个把网页变成电子书的工具](https://sspai.com/post/88800)
 * [【2024-05-17】 派早报：适马推出新款 24⁠–70 镜头、《沙丘》前传剧集公布预告片等](https://sspai.com/post/88862)
 * [【2024-05-16】 新玩意 181｜少数派的编辑们最近买了啥？](https://sspai.com/post/88853)
-* [【2024-05-16】 [现货发售] FlipGo 效率双屏带来了哪些改变？来自少数派作者们的思考](https://sspai.com/post/88827)
-* [【2024-05-16】 iOS 辅助功能知多少](https://sspai.com/post/76750)
-* [【2024-05-16】 「怀旧游戏全能王」上架 App Store，带你入门 RetroArch](https://sspai.com/post/88260)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-19 05:12:43
+:alarm_clock: 更新时间: 2024-05-20 05:14:28
