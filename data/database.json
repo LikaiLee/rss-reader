@@ -698,6 +698,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "自力更生 | 你可能不需要一个 NAS？从零开始搭建自托管的影音服务器",
+                "link": "https://sspai.com/post/88861",
+                "published": "2024-05-21"
+            },
+            {
+                "title": "派早报：英国研究所发布 LLM 安全报告，柳青升任滴滴永久合伙人等",
+                "link": "https://sspai.com/post/88954",
+                "published": "2024-05-21"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/88936",
+                "published": "2024-05-20"
+            },
+            {
+                "title": "问就是 AI 过：盘点与「人工智能」相关的 Apple 软硬件",
+                "link": "https://sspai.com/post/88923",
+                "published": "2024-05-20"
+            },
+            {
                 "title": "App+1 | 用 Sandboxie-Plus，管住「不听话」的 Windows 软件",
                 "link": "https://sspai.com/post/88759",
                 "published": "2024-05-20"
@@ -19283,7 +19303,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -49739,6 +49759,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有哪些著名的由女画家绘制的绘画作品？",
+                "link": "http://www.zhihu.com/question/656191726/answer/3500705930?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-20"
+            },
+            {
+                "title": "21世纪之后还诞生过哪些全球公认的名画作品？",
+                "link": "http://www.zhihu.com/question/655670347/answer/3497269176?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-20"
+            },
+            {
                 "title": "浅谈一下范闲前七集情绪变化起伏",
                 "link": "http://zhuanlan.zhihu.com/p/698522987?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-05-18"
@@ -58489,7 +58519,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,

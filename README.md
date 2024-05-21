@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-21】 自力更生 | 你可能不需要一个 NAS？从零开始搭建自托管的影音服务器](https://sspai.com/post/88861)
+* [【2024-05-21】 派早报：英国研究所发布 LLM 安全报告，柳青升任滴滴永久合伙人等](https://sspai.com/post/88954)
+* [【2024-05-20】 派评 | 近期值得关注的 App](https://sspai.com/post/88936)
+* [【2024-05-20】 问就是 AI 过：盘点与「人工智能」相关的 Apple 软硬件](https://sspai.com/post/88923)
 * [【2024-05-20】 App+1 | 用 Sandboxie-Plus，管住「不听话」的 Windows 软件](https://sspai.com/post/88759)
 * [【2024-05-20】 派早报：iOS 第三方浏览器引擎只能由实际位于欧盟的设备调试](https://sspai.com/post/88917)
 * [【2024-05-19】 从编程小白到三次被苹果推荐，这是我送给自己最好的本科毕业礼物](https://sspai.com/post/88689)
 * [【2024-05-18】 网上冲浪也能兼顾效率和体验：Chrome 侧边栏浏览器扩展集锦](https://sspai.com/post/88825)
 * [【2024-05-17】 AI 硬件接连翻车，怪我们太严格了吗？](https://sspai.com/prime/story/ai-gadgets-hype)
 * [【2024-05-17】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/88877)
-* [【2024-05-17】 具透 | 原生 Android「分身」来了：Android 15 Beta 2 亮点速览](https://sspai.com/post/88875)
-* [【2024-05-17】 好文章也想「慢慢读」，于是我写了一个把网页变成电子书的工具](https://sspai.com/post/88800)
-* [【2024-05-17】 派早报：适马推出新款 24⁠–70 镜头、《沙丘》前传剧集公布预告片等](https://sspai.com/post/88862)
-* [【2024-05-16】 新玩意 181｜少数派的编辑们最近买了啥？](https://sspai.com/post/88853)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-05-20】 有哪些著名的由女画家绘制的绘画作品？](http://www.zhihu.com/question/656191726/answer/3500705930?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-05-20】 21世纪之后还诞生过哪些全球公认的名画作品？](http://www.zhihu.com/question/655670347/answer/3497269176?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-18】 浅谈一下范闲前七集情绪变化起伏](http://zhuanlan.zhihu.com/p/698522987?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-18】 如何评价范闲两季跪拜的变化？](http://zhuanlan.zhihu.com/p/698522675?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-18】 如何理解庆余年2中的范闲？](http://zhuanlan.zhihu.com/p/698521968?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-05-15】 想认真记录旅行中看到的风景，有哪些相机值得购买？](http://www.zhihu.com/question/653888674/answer/3491944894?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-15】 有哪些装机方案，能够完美兼顾游戏与生产力需求？](http://www.zhihu.com/question/653888855/answer/3499195646?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-14】 如何选择合适的显卡，能够兼顾娱乐和生产力需求？](http://www.zhihu.com/question/653888745/answer/3497934548?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-13】 21世纪之后还诞生过哪些全球公认的名画作品？](http://www.zhihu.com/question/655670347/answer/3495903125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-13】 历史上有哪些如神一般存在的人物？](http://www.zhihu.com/question/302114868/answer/3153108590?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-20 05:14:28
+:alarm_clock: 更新时间: 2024-05-21 05:13:10
