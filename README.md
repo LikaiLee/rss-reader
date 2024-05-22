@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+5】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-22】 也许你也用得上的技术，从零开始了解内网穿透](https://sspai.com/post/88937)
+* [【2024-05-22】 派早报：OpenAI 暂时停用 Sky 语音选项、京东支付与微信支付实现互联互通等](https://sspai.com/post/88989)
+* [【2024-05-21】 社区速递 045 | 广告争议、自建NAS以及作者的新玩意](https://sspai.com/post/88975)
+* [【2024-05-21】 无套路、很简单，少数派周边商店 618 促销开启](https://sspai.com/post/88932)
+* [【2024-05-21】 暴雨和洪涝的季节，这些技巧助你从容自保](https://sspai.com/post/68024)
 * [【2024-05-21】 自力更生 | 你可能不需要一个 NAS？从零开始搭建自托管的影音服务器](https://sspai.com/post/88861)
 * [【2024-05-21】 派早报：英国研究所发布 LLM 安全报告，柳青升任滴滴永久合伙人等](https://sspai.com/post/88954)
 * [【2024-05-20】 派评 | 近期值得关注的 App](https://sspai.com/post/88936)
 * [【2024-05-20】 问就是 AI 过：盘点与「人工智能」相关的 Apple 软硬件](https://sspai.com/post/88923)
 * [【2024-05-20】 App+1 | 用 Sandboxie-Plus，管住「不听话」的 Windows 软件](https://sspai.com/post/88759)
-* [【2024-05-20】 派早报：iOS 第三方浏览器引擎只能由实际位于欧盟的设备调试](https://sspai.com/post/88917)
-* [【2024-05-19】 从编程小白到三次被苹果推荐，这是我送给自己最好的本科毕业礼物](https://sspai.com/post/88689)
-* [【2024-05-18】 网上冲浪也能兼顾效率和体验：Chrome 侧边栏浏览器扩展集锦](https://sspai.com/post/88825)
-* [【2024-05-17】 AI 硬件接连翻车，怪我们太严格了吗？](https://sspai.com/prime/story/ai-gadgets-hype)
-* [【2024-05-17】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/88877)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2024-05-21】 博物馆如何处理争议性展品或历史事件？](http://www.zhihu.com/question/656010784/answer/3502017859?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-05-21】 【网络迷踪】图中有高速铁路，或其他动车组运行线路时的解题思路，以及相关内容的简要科普](http://zhuanlan.zhihu.com/p/625352281?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-05-21】 ADHD需要哪些因素才能取得更高成就呢？](http://zhuanlan.zhihu.com/p/693065733?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-05-21】 A人好书-社群书单分享](http://zhuanlan.zhihu.com/p/698648430?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-05-21】 若由你来提名一幅能参加「名画PK大赛」的美术画作，你会挑哪张呢？](http://www.zhihu.com/question/654055226/answer/3481928199?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-20】 有哪些著名的由女画家绘制的绘画作品？](http://www.zhihu.com/question/656191726/answer/3500705930?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-20】 21世纪之后还诞生过哪些全球公认的名画作品？](http://www.zhihu.com/question/655670347/answer/3497269176?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-18】 浅谈一下范闲前七集情绪变化起伏](http://zhuanlan.zhihu.com/p/698522987?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-18】 如何评价范闲两季跪拜的变化？](http://zhuanlan.zhihu.com/p/698522675?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-18】 如何理解庆余年2中的范闲？](http://zhuanlan.zhihu.com/p/698521968?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-18】 如何评价庆余年2范闲假死是欺君之罪？](http://zhuanlan.zhihu.com/p/698521375?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-16】 看完《长安三万里》，各位脑洞一波，宋朝拍谁，明朝拍谁，怎么拍?](http://www.zhihu.com/question/613500879/answer/3141290416?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-15】 想认真记录旅行中看到的风景，有哪些相机值得购买？](http://www.zhihu.com/question/653888674/answer/3491944894?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-15】 有哪些装机方案，能够完美兼顾游戏与生产力需求？](http://www.zhihu.com/question/653888855/answer/3499195646?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-14】 如何选择合适的显卡，能够兼顾娱乐和生产力需求？](http://www.zhihu.com/question/653888745/answer/3497934548?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-21 05:13:10
+:alarm_clock: 更新时间: 2024-05-22 05:14:01
