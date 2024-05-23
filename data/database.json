@@ -698,6 +698,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从光机电算到软硬芯云，华为影像 XMAGE 希望继续为移动影像做些什么？",
+                "link": "https://sspai.com/post/88977",
+                "published": "2024-05-23"
+            },
+            {
+                "title": "从有所耳闻到为己所用，我是这样入门 AI 的",
+                "link": "https://sspai.com/post/88960",
+                "published": "2024-05-23"
+            },
+            {
+                "title": "派早报：松下发布 LUMIX S9 相机、Sonos 发布头戴式耳机等",
+                "link": "https://sspai.com/post/89018",
+                "published": "2024-05-23"
+            },
+            {
+                "title": "《地狱之刃2：塞娜的传说》篝火评测：互动小说的极致游戏化表现",
+                "link": "https://sspai.com/post/89000",
+                "published": "2024-05-22"
+            },
+            {
+                "title": "一群中国的高中生，打算办一场全球性的黑客松",
+                "link": "https://sspai.com/post/88924",
+                "published": "2024-05-22"
+            },
+            {
                 "title": "也许你也用得上的技术，从零开始了解内网穿透",
                 "link": "https://sspai.com/post/88937",
                 "published": "2024-05-22"
@@ -49784,6 +49809,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "A人好书-社群书单分享-1",
+                "link": "http://zhuanlan.zhihu.com/p/698648430?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-21"
+            },
+            {
                 "title": "博物馆如何处理争议性展品或历史事件？",
                 "link": "http://www.zhihu.com/question/656010784/answer/3502017859?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-05-21"
@@ -58569,7 +58599,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 1
     },
     {
         "id": 4,
