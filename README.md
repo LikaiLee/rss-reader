@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-05-24】 科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html)
 * [【2024-05-17】 科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html)
 * [【2024-05-10】 科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html)
 * [【2024-04-26】 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html)
@@ -25,7 +26,6 @@
 * [【2024-03-26】 2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html)
 * [【2024-03-22】 科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)
 * [【2024-03-15】 科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)
-* [【2024-03-08】 科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-24】 理解睡眠，破除焦虑，让我睡得更好](https://sspai.com/post/88390)
+* [【2024-05-24】 派早报：微软向 Release Preview 发布 Windows 11 24H2 预览版等](https://sspai.com/post/89048)
+* [【2024-05-23】 新玩意 182｜少数派的编辑们最近买了啥？](https://sspai.com/post/89031)
+* [【2024-05-23】 到手即用的「高配」客制化键盘：少数派定制版 Keychron Q1 Max 体验](https://sspai.com/post/89030)
 * [【2024-05-23】 从光机电算到软硬芯云，华为影像 XMAGE 希望继续为移动影像做些什么？](https://sspai.com/post/88977)
 * [【2024-05-23】 从有所耳闻到为己所用，我是这样入门 AI 的](https://sspai.com/post/88960)
 * [【2024-05-23】 派早报：松下发布 LUMIX S9 相机、Sonos 发布头戴式耳机等](https://sspai.com/post/89018)
 * [【2024-05-22】 《地狱之刃2：塞娜的传说》篝火评测：互动小说的极致游戏化表现](https://sspai.com/post/89000)
 * [【2024-05-22】 一群中国的高中生，打算办一场全球性的黑客松](https://sspai.com/post/88924)
 * [【2024-05-22】 也许你也用得上的技术，从零开始了解内网穿透](https://sspai.com/post/88937)
-* [【2024-05-22】 派早报：OpenAI 暂时停用 Sky 语音选项、京东支付与微信支付实现互联互通等](https://sspai.com/post/88989)
-* [【2024-05-21】 社区速递 045 | 广告争议、自建NAS以及作者的新玩意](https://sspai.com/post/88975)
-* [【2024-05-21】 无套路、很简单，少数派周边商店 618 促销开启](https://sspai.com/post/88932)
-* [【2024-05-21】 暴雨和洪涝的季节，这些技巧助你从容自保](https://sspai.com/post/68024)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-23 05:14:39
+:alarm_clock: 更新时间: 2024-05-24 05:13:02

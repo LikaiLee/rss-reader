@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位",
+                "link": "http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html",
+                "published": "2024-05-24"
+            },
+            {
                 "title": "科技爱好者周刊（第 300 期）：三十年，解决人生三大问题",
                 "link": "http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html",
                 "published": "2024-05-17"
@@ -690,13 +695,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "理解睡眠，破除焦虑，让我睡得更好",
+                "link": "https://sspai.com/post/88390",
+                "published": "2024-05-24"
+            },
+            {
+                "title": "派早报：微软向 Release Preview 发布 Windows 11 24H2 预览版等",
+                "link": "https://sspai.com/post/89048",
+                "published": "2024-05-24"
+            },
+            {
+                "title": "新玩意 182｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/89031",
+                "published": "2024-05-23"
+            },
+            {
+                "title": "到手即用的「高配」客制化键盘：少数派定制版 Keychron Q1 Max 体验",
+                "link": "https://sspai.com/post/89030",
+                "published": "2024-05-23"
+            },
             {
                 "title": "从光机电算到软硬芯云，华为影像 XMAGE 希望继续为移动影像做些什么？",
                 "link": "https://sspai.com/post/88977",
@@ -19353,7 +19378,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -58599,7 +58624,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
