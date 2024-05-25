@@ -695,13 +695,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "关于代糖，你应该多了解的几个问题",
+                "link": "https://sspai.com/prime/story/sweeteners-faq",
+                "published": "2024-05-24"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 11 部作品",
+                "link": "https://sspai.com/post/89070",
+                "published": "2024-05-24"
+            },
+            {
+                "title": "App+1 | 在 Android 平台，找到「好像在哪里见过」的你：Snapseek",
+                "link": "https://sspai.com/post/89059",
+                "published": "2024-05-24"
+            },
             {
                 "title": "理解睡眠，破除焦虑，让我睡得更好",
                 "link": "https://sspai.com/post/88390",
@@ -19378,7 +19393,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
