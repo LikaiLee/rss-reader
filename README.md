@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-05-26】 找不到好听的新歌？从这些地方扩充你的华语曲库](https://sspai.com/post/89093)
+* [【2024-05-25】 用计算机科学的方法优化个人任务管理](https://sspai.com/post/87071)
 * [【2024-05-24】 关于代糖，你应该多了解的几个问题](https://sspai.com/prime/story/sweeteners-faq)
 * [【2024-05-24】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/89070)
 * [【2024-05-24】 App+1 | 在 Android 平台，找到「好像在哪里见过」的你：Snapseek](https://sspai.com/post/89059)
@@ -43,8 +45,6 @@
 * [【2024-05-23】 新玩意 182｜少数派的编辑们最近买了啥？](https://sspai.com/post/89031)
 * [【2024-05-23】 到手即用的「高配」客制化键盘：少数派定制版 Keychron Q1 Max 体验](https://sspai.com/post/89030)
 * [【2024-05-23】 从光机电算到软硬芯云，华为影像 XMAGE 希望继续为移动影像做些什么？](https://sspai.com/post/88977)
-* [【2024-05-23】 从有所耳闻到为己所用，我是这样入门 AI 的](https://sspai.com/post/88960)
-* [【2024-05-23】 派早报：松下发布 LUMIX S9 相机、Sonos 发布头戴式耳机等](https://sspai.com/post/89018)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-05-25】 名画pk决赛：当名画《清明上河图》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？](http://www.zhihu.com/question/656999935/answer/3509102960?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-21】 A人好书-社群书单分享-1](http://zhuanlan.zhihu.com/p/698648430?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-21】 博物馆如何处理争议性展品或历史事件？](http://www.zhihu.com/question/656010784/answer/3502017859?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-21】 【网络迷踪】图中有高速铁路，或其他动车组运行线路时的解题思路，以及相关内容的简要科普](http://zhuanlan.zhihu.com/p/625352281?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-05-20】 有哪些著名的由女画家绘制的绘画作品？](http://www.zhihu.com/question/656191726/answer/3500705930?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-20】 21世纪之后还诞生过哪些全球公认的名画作品？](http://www.zhihu.com/question/655670347/answer/3497269176?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-18】 浅谈一下范闲前七集情绪变化起伏](http://zhuanlan.zhihu.com/p/698522987?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-18】 如何评价范闲两季跪拜的变化？](http://zhuanlan.zhihu.com/p/698522675?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-25 05:12:14
+:alarm_clock: 更新时间: 2024-05-26 05:11:52

@@ -703,6 +703,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "找不到好听的新歌？从这些地方扩充你的华语曲库",
+                "link": "https://sspai.com/post/89093",
+                "published": "2024-05-26"
+            },
+            {
+                "title": "用计算机科学的方法优化个人任务管理",
+                "link": "https://sspai.com/post/87071",
+                "published": "2024-05-25"
+            },
+            {
                 "title": "关于代糖，你应该多了解的几个问题",
                 "link": "https://sspai.com/prime/story/sweeteners-faq",
                 "published": "2024-05-24"
@@ -19393,7 +19403,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -49849,6 +49859,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "名画pk决赛：当名画《清明上河图》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？",
+                "link": "http://www.zhihu.com/question/656999935/answer/3509102960?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-25"
+            },
+            {
                 "title": "A人好书-社群书单分享-1",
                 "link": "http://zhuanlan.zhihu.com/p/698648430?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-05-21"
@@ -58639,7 +58654,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
