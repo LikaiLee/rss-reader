@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-28】 派早报：荣耀发布 200 系列新机，夏普小米签订专利交叉许可协议等](https://sspai.com/post/89139)
+* [【2024-05-27】 派评 | 近期值得关注的 App](https://sspai.com/post/89134)
+* [【2024-05-27】 TA 有好物 | 夏天到来快乐吃冰，来试试一拉就出的「懒人冰格」](https://sspai.com/post/67455)
+* [【2024-05-27】 自力更生 | 守护一方赛博净土，我的自建服务思路分享](https://sspai.com/post/88959)
 * [【2024-05-27】 你见过那只四处「威逼利诱」的猫头鹰吗？微小成就感如何成就多邻国](https://sspai.com/post/89013)
 * [【2024-05-27】 派早报：ICQ 将于 6 月关闭](https://sspai.com/post/89109)
 * [【2024-05-26】 找不到好听的新歌？从这些地方扩充你的华语曲库](https://sspai.com/post/89093)
 * [【2024-05-25】 用计算机科学的方法优化个人任务管理](https://sspai.com/post/87071)
 * [【2024-05-24】 关于代糖，你应该多了解的几个问题](https://sspai.com/prime/story/sweeteners-faq)
 * [【2024-05-24】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/89070)
-* [【2024-05-24】 App+1 | 在 Android 平台，找到「好像在哪里见过」的你：Snapseek](https://sspai.com/post/89059)
-* [【2024-05-24】 理解睡眠，破除焦虑，让我睡得更好](https://sspai.com/post/88390)
-* [【2024-05-24】 派早报：微软向 Release Preview 发布 Windows 11 24H2 预览版等](https://sspai.com/post/89048)
-* [【2024-05-23】 新玩意 182｜少数派的编辑们最近买了啥？](https://sspai.com/post/89031)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-05-27】 为什么半固态电池、固态电池、钠离子电池被业内认为是新一代动力电池？有何优势？](http://www.zhihu.com/question/648735601/answer/3434048465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-25】 名画pk决赛：当名画《清明上河图》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？](http://www.zhihu.com/question/656999935/answer/3509102960?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-21】 A人好书-社群书单分享-1](http://zhuanlan.zhihu.com/p/698648430?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-21】 博物馆如何处理争议性展品或历史事件？](http://www.zhihu.com/question/656010784/answer/3502017859?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-05-21】 若由你来提名一幅能参加「名画PK大赛」的美术画作，你会挑哪张呢？](http://www.zhihu.com/question/654055226/answer/3481928199?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-20】 有哪些著名的由女画家绘制的绘画作品？](http://www.zhihu.com/question/656191726/answer/3500705930?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-20】 21世纪之后还诞生过哪些全球公认的名画作品？](http://www.zhihu.com/question/655670347/answer/3497269176?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-18】 浅谈一下范闲前七集情绪变化起伏](http://zhuanlan.zhihu.com/p/698522987?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-27 05:12:58
+:alarm_clock: 更新时间: 2024-05-28 05:12:23

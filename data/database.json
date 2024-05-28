@@ -703,6 +703,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：荣耀发布 200 系列新机，夏普小米签订专利交叉许可协议等",
+                "link": "https://sspai.com/post/89139",
+                "published": "2024-05-28"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/89134",
+                "published": "2024-05-27"
+            },
+            {
+                "title": "TA 有好物 | 夏天到来快乐吃冰，来试试一拉就出的「懒人冰格」",
+                "link": "https://sspai.com/post/67455",
+                "published": "2024-05-27"
+            },
+            {
+                "title": "自力更生 | 守护一方赛博净土，我的自建服务思路分享",
+                "link": "https://sspai.com/post/88959",
+                "published": "2024-05-27"
+            },
+            {
                 "title": "你见过那只四处「威逼利诱」的猫头鹰吗？微小成就感如何成就多邻国",
                 "link": "https://sspai.com/post/89013",
                 "published": "2024-05-27"
@@ -19413,7 +19433,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -49869,6 +49889,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "为什么半固态电池、固态电池、钠离子电池被业内认为是新一代动力电池？有何优势？",
+                "link": "http://www.zhihu.com/question/648735601/answer/3434048465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-27"
+            },
+            {
                 "title": "名画pk决赛：当名画《清明上河图》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？",
                 "link": "http://www.zhihu.com/question/656999935/answer/3509102960?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-05-25"
@@ -58664,7 +58689,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
