@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "分布式数据库入门：以国产数据库 TDSQL 为例",
+                "link": "http://www.ruanyifeng.com/blog/2024/05/tdsql.html",
+                "published": "2024-05-29"
+            },
+            {
                 "title": "科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位",
                 "link": "http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html",
                 "published": "2024-05-24"
@@ -695,13 +700,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "自力更生 | 如何压榨 24 小时工作的 NAS",
+                "link": "https://sspai.com/post/89049",
+                "published": "2024-05-29"
+            },
+            {
+                "title": "派早报：腾讯应用宝与 Microsoft Store 达成合作等",
+                "link": "https://sspai.com/post/89166",
+                "published": "2024-05-29"
+            },
+            {
+                "title": "社区速递 046 | 龙珠大冒险、作者的新玩意以及派友在用的导航",
+                "link": "https://sspai.com/post/89150",
+                "published": "2024-05-28"
+            },
+            {
+                "title": "从零到终点线：我如何跑完人生第一场马拉松",
+                "link": "https://sspai.com/post/89067",
+                "published": "2024-05-28"
+            },
+            {
+                "title": "为了缩短批量处理工作时长，我做了一款 Figma 插件",
+                "link": "https://sspai.com/post/89084",
+                "published": "2024-05-28"
+            },
             {
                 "title": "派早报：荣耀发布 200 系列新机，夏普小米签订专利交叉许可协议等",
                 "link": "https://sspai.com/post/89139",
@@ -19433,7 +19463,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -49888,6 +49918,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "考考你它在哪：（很难！）狗狗在哪里嬉戏？",
+                "link": "http://www.zhihu.com/question/657268769/answer/3511584186?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-05-28"
+            },
             {
                 "title": "为什么半固态电池、固态电池、钠离子电池被业内认为是新一代动力电池？有何优势？",
                 "link": "http://www.zhihu.com/question/648735601/answer/3434048465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
