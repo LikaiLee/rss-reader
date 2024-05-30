@@ -700,13 +700,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "为了能让老婆看上带中文字幕的俄剧，我做了一个产品",
+                "link": "https://sspai.com/post/88291",
+                "published": "2024-05-30"
+            },
+            {
+                "title": "派早报：Apple 发布 WWDC 邀请函、《使命召唤 21》将加入 XGP 等",
+                "link": "https://sspai.com/post/89208",
+                "published": "2024-05-30"
+            },
+            {
+                "title": "爱上深夜的便利港湾：9 位少数派的便利店好物与故事",
+                "link": "https://sspai.com/post/89163",
+                "published": "2024-05-29"
+            },
+            {
+                "title": "WWDC24 派对之夜：四城四场线下活动，来与我们一起看 Apple 发布会",
+                "link": "https://sspai.com/post/89180",
+                "published": "2024-05-29"
+            },
             {
                 "title": "自力更生 | 如何压榨 24 小时工作的 NAS",
                 "link": "https://sspai.com/post/89049",
@@ -19463,7 +19483,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -58724,7 +58744,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

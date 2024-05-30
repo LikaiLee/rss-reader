@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-30】 为了能让老婆看上带中文字幕的俄剧，我做了一个产品](https://sspai.com/post/88291)
+* [【2024-05-30】 派早报：Apple 发布 WWDC 邀请函、《使命召唤 21》将加入 XGP 等](https://sspai.com/post/89208)
+* [【2024-05-29】 爱上深夜的便利港湾：9 位少数派的便利店好物与故事](https://sspai.com/post/89163)
+* [【2024-05-29】 WWDC24 派对之夜：四城四场线下活动，来与我们一起看 Apple 发布会](https://sspai.com/post/89180)
 * [【2024-05-29】 自力更生 | 如何压榨 24 小时工作的 NAS](https://sspai.com/post/89049)
 * [【2024-05-29】 派早报：腾讯应用宝与 Microsoft Store 达成合作等](https://sspai.com/post/89166)
 * [【2024-05-28】 社区速递 046 | 龙珠大冒险、作者的新玩意以及派友在用的导航](https://sspai.com/post/89150)
 * [【2024-05-28】 从零到终点线：我如何跑完人生第一场马拉松](https://sspai.com/post/89067)
 * [【2024-05-28】 为了缩短批量处理工作时长，我做了一款 Figma 插件](https://sspai.com/post/89084)
 * [【2024-05-28】 派早报：荣耀发布 200 系列新机，夏普小米签订专利交叉许可协议等](https://sspai.com/post/89139)
-* [【2024-05-27】 派评 | 近期值得关注的 App](https://sspai.com/post/89134)
-* [【2024-05-27】 TA 有好物 | 夏天到来快乐吃冰，来试试一拉就出的「懒人冰格」](https://sspai.com/post/67455)
-* [【2024-05-27】 自力更生 | 守护一方赛博净土，我的自建服务思路分享](https://sspai.com/post/88959)
-* [【2024-05-27】 你见过那只四处「威逼利诱」的猫头鹰吗？微小成就感如何成就多邻国](https://sspai.com/post/89013)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-29 05:13:23
+:alarm_clock: 更新时间: 2024-05-30 05:13:06
