@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-05-31】 科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html)
 * [【2024-05-29】 分布式数据库入门：以国产数据库 TDSQL 为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html)
 * [【2024-05-24】 科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html)
 * [【2024-05-17】 科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html)
@@ -25,7 +26,6 @@
 * [【2024-04-11】 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html)
 * [【2024-03-29】 科技爱好者周刊（第 295 期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html)
 * [【2024-03-26】 2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html)
-* [【2024-03-22】 科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-05-31】 我的 AI 内容总结使用心得：用什么、何时用与怎么用](https://sspai.com/post/88530)
+* [【2024-05-31】 派早报：Fitbit 发布 Ace LTE 儿童手表等](https://sspai.com/post/89242)
+* [【2024-05-30】 新玩意 184｜少数派的编辑们最近买了啥？](https://sspai.com/post/89223)
+* [【2024-05-30】 本月玩什么 | Lorelei and the Laser Eyes、动物井、印蒂卡、地狱之刃 2](https://sspai.com/post/89216)
 * [【2024-05-30】 为了能让老婆看上带中文字幕的俄剧，我做了一个产品](https://sspai.com/post/88291)
 * [【2024-05-30】 派早报：Apple 发布 WWDC 邀请函、《使命召唤 21》将加入 XGP 等](https://sspai.com/post/89208)
 * [【2024-05-29】 爱上深夜的便利港湾：9 位少数派的便利店好物与故事](https://sspai.com/post/89163)
 * [【2024-05-29】 WWDC24 派对之夜：四城四场线下活动，来与我们一起看 Apple 发布会](https://sspai.com/post/89180)
 * [【2024-05-29】 自力更生 | 如何压榨 24 小时工作的 NAS](https://sspai.com/post/89049)
 * [【2024-05-29】 派早报：腾讯应用宝与 Microsoft Store 达成合作等](https://sspai.com/post/89166)
-* [【2024-05-28】 社区速递 046 | 龙珠大冒险、作者的新玩意以及派友在用的导航](https://sspai.com/post/89150)
-* [【2024-05-28】 从零到终点线：我如何跑完人生第一场马拉松](https://sspai.com/post/89067)
-* [【2024-05-28】 为了缩短批量处理工作时长，我做了一款 Figma 插件](https://sspai.com/post/89084)
-* [【2024-05-28】 派早报：荣耀发布 200 系列新机，夏普小米签订专利交叉许可协议等](https://sspai.com/post/89139)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-05-30 05:13:06
+:alarm_clock: 更新时间: 2024-05-31 05:15:32
