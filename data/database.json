@@ -705,13 +705,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的一大篓作品",
+                "link": "https://sspai.com/post/89259",
+                "published": "2024-05-31"
+            },
+            {
+                "title": "追赶有道，Intel 效法 AMD；竞争无门，AMD 再诉 Intel",
+                "link": "https://sspai.com/prime/story/sv-anecdotes-09",
+                "published": "2024-05-31"
+            },
+            {
+                "title": "错过一次再等半年，618 主流相机选购不完全攻略",
+                "link": "https://sspai.com/post/89245",
+                "published": "2024-05-31"
+            },
             {
                 "title": "我的 AI 内容总结使用心得：用什么、何时用与怎么用",
                 "link": "https://sspai.com/post/88530",
@@ -19508,7 +19523,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
