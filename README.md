@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-06-01】 一年买两次，一次用半年：618 护肤购物不完全指南](https://sspai.com/post/89219)
 * [【2024-05-31】 本周看什么 | 最近值得一看的一大篓作品](https://sspai.com/post/89259)
 * [【2024-05-31】 追赶有道，Intel 效法 AMD；竞争无门，AMD 再诉 Intel](https://sspai.com/prime/story/sv-anecdotes-09)
 * [【2024-05-31】 错过一次再等半年，618 主流相机选购不完全攻略](https://sspai.com/post/89245)
@@ -44,7 +45,6 @@
 * [【2024-05-30】 本月玩什么 | Lorelei and the Laser Eyes、动物井、印蒂卡、地狱之刃 2](https://sspai.com/post/89216)
 * [【2024-05-30】 为了能让老婆看上带中文字幕的俄剧，我做了一个产品](https://sspai.com/post/88291)
 * [【2024-05-30】 派早报：Apple 发布 WWDC 邀请函、《使命召唤 21》将加入 XGP 等](https://sspai.com/post/89208)
-* [【2024-05-29】 爱上深夜的便利港湾：9 位少数派的便利店好物与故事](https://sspai.com/post/89163)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-01 05:13:48
+:alarm_clock: 更新时间: 2024-06-02 05:12:24

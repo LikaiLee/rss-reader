@@ -713,6 +713,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一年买两次，一次用半年：618 护肤购物不完全指南",
+                "link": "https://sspai.com/post/89219",
+                "published": "2024-06-01"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的一大篓作品",
                 "link": "https://sspai.com/post/89259",
                 "published": "2024-05-31"
@@ -19523,7 +19528,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
