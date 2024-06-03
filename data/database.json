@@ -713,6 +713,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "自力更生 | 基于 Readeck 搭建个人稍后读与书签服务",
+                "link": "https://sspai.com/post/89289",
+                "published": "2024-06-03"
+            },
+            {
+                "title": "派早报：Napster 推出 25 周年",
+                "link": "https://sspai.com/post/89306",
+                "published": "2024-06-03"
+            },
+            {
+                "title": "陌生而有趣的训练伙伴——波速球和 ViPR 炮筒",
+                "link": "https://sspai.com/prime/story/training-guide-bosu-ball-vipr",
+                "published": "2024-06-02"
+            },
+            {
                 "title": "一年买两次，一次用半年：618 护肤购物不完全指南",
                 "link": "https://sspai.com/post/89219",
                 "published": "2024-06-01"
@@ -19528,7 +19543,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
