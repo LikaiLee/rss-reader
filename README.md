@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-06-04】 [护城河] 苹果在 AI 上真的落后吗？WWDC24 AI 功能预测解析](https://sspai.com/post/89315)
+* [【2024-06-04】 派早报：AMD 推出多款新处理器、亚马逊 Kindle 中国电子书店月底停止服务等](https://sspai.com/post/89336)
+* [【2024-06-03】 派评 | 近期值得关注的 App](https://sspai.com/post/89329)
+* [【2024-06-03】 卡夫卡逝世 100 周年：他的困境，就是我们现代人的困境](https://sspai.com/post/89299)
 * [【2024-06-03】 自力更生 | 基于 Readeck 搭建个人稍后读与书签服务](https://sspai.com/post/89289)
 * [【2024-06-03】 派早报：Napster 推出 25 周年](https://sspai.com/post/89306)
 * [【2024-06-02】 陌生而有趣的训练伙伴——波速球和 ViPR 炮筒](https://sspai.com/prime/story/training-guide-bosu-ball-vipr)
 * [【2024-06-01】 一年买两次，一次用半年：618 护肤购物不完全指南](https://sspai.com/post/89219)
 * [【2024-05-31】 本周看什么 | 最近值得一看的一大篓作品](https://sspai.com/post/89259)
 * [【2024-05-31】 追赶有道，Intel 效法 AMD；竞争无门，AMD 再诉 Intel](https://sspai.com/prime/story/sv-anecdotes-09)
-* [【2024-05-31】 错过一次再等半年，618 主流相机选购不完全攻略](https://sspai.com/post/89245)
-* [【2024-05-31】 我的 AI 内容总结使用心得：用什么、何时用与怎么用](https://sspai.com/post/88530)
-* [【2024-05-31】 派早报：Fitbit 发布 Ace LTE 儿童手表等](https://sspai.com/post/89242)
-* [【2024-05-30】 新玩意 184｜少数派的编辑们最近买了啥？](https://sspai.com/post/89223)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-03 05:14:31
+:alarm_clock: 更新时间: 2024-06-04 05:16:00
