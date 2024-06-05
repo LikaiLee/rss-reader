@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-06-05】 一日一技 | 借助 Obsidian 插件和快捷指令快速添加阅读记录](https://sspai.com/post/89317)
+* [【2024-06-05】 派早报：英特尔公布 Lunar Lake 芯片、索尼发布适用于 PC 的 PS VR2 适配器等](https://sspai.com/post/89360)
+* [【2024-06-04】 社区速递 047 | 在线CAD、作者新玩意以及派友们新关注的博主](https://sspai.com/post/89353)
+* [【2024-06-04】 618 想买鼠标，这些型号值得一看](https://sspai.com/post/89262)
+* [【2024-06-04】 「移动的家」为什么需要更智能的车载香氛，他们说……](https://sspai.com/post/88605)
 * [【2024-06-04】 [护城河] 苹果在 AI 上真的落后吗？WWDC24 AI 功能预测解析](https://sspai.com/post/89315)
 * [【2024-06-04】 派早报：AMD 推出多款新处理器、亚马逊 Kindle 中国电子书店月底停止服务等](https://sspai.com/post/89336)
 * [【2024-06-03】 派评 | 近期值得关注的 App](https://sspai.com/post/89329)
 * [【2024-06-03】 卡夫卡逝世 100 周年：他的困境，就是我们现代人的困境](https://sspai.com/post/89299)
 * [【2024-06-03】 自力更生 | 基于 Readeck 搭建个人稍后读与书签服务](https://sspai.com/post/89289)
-* [【2024-06-03】 派早报：Napster 推出 25 周年](https://sspai.com/post/89306)
-* [【2024-06-02】 陌生而有趣的训练伙伴——波速球和 ViPR 炮筒](https://sspai.com/prime/story/training-guide-bosu-ball-vipr)
-* [【2024-06-01】 一年买两次，一次用半年：618 护肤购物不完全指南](https://sspai.com/post/89219)
-* [【2024-05-31】 本周看什么 | 最近值得一看的一大篓作品](https://sspai.com/post/89259)
-* [【2024-05-31】 追赶有道，Intel 效法 AMD；竞争无门，AMD 再诉 Intel](https://sspai.com/prime/story/sv-anecdotes-09)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-06-04】 考考你它在哪，拍摄者即将出发，他乘坐的车次是？](http://www.zhihu.com/question/658044838/answer/3519762355?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-28】 考考你它在哪：（很难！）狗狗在哪里嬉戏？](http://www.zhihu.com/question/657268769/answer/3511584186?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-27】 为什么半固态电池、固态电池、钠离子电池被业内认为是新一代动力电池？有何优势？](http://www.zhihu.com/question/648735601/answer/3434048465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-25】 名画pk决赛：当名画《清明上河图》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？](http://www.zhihu.com/question/656999935/answer/3509102960?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-05-21】 ADHD需要哪些因素才能取得更高成就呢？](http://zhuanlan.zhihu.com/p/693065733?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-21】 A人好书-社群书单分享](http://zhuanlan.zhihu.com/p/698648430?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-21】 若由你来提名一幅能参加「名画PK大赛」的美术画作，你会挑哪张呢？](http://www.zhihu.com/question/654055226/answer/3481928199?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-20】 有哪些著名的由女画家绘制的绘画作品？](http://www.zhihu.com/question/656191726/answer/3500705930?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-04 05:16:00
+:alarm_clock: 更新时间: 2024-06-05 05:13:24
