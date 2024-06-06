@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-06-06】 日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
+* [【2024-06-06】 派早报：Netflix 将停止支持旧款 Apple TV、三星 Z 系列新品通过 FCC 认证等](https://sspai.com/post/89400)
+* [【2024-06-05】 2024 年，如何「正确地」观看一场演唱会](https://sspai.com/post/89101)
+* [【2024-06-05】 买第二台车的时候，我们终于冷静了](https://sspai.com/post/89322)
 * [【2024-06-05】 一日一技 | 借助 Obsidian 插件和快捷指令快速添加阅读记录](https://sspai.com/post/89317)
 * [【2024-06-05】 派早报：英特尔公布 Lunar Lake 芯片、索尼发布适用于 PC 的 PS VR2 适配器等](https://sspai.com/post/89360)
 * [【2024-06-04】 社区速递 047 | 在线CAD、作者新玩意以及派友们新关注的博主](https://sspai.com/post/89353)
 * [【2024-06-04】 618 想买鼠标，这些型号值得一看](https://sspai.com/post/89262)
 * [【2024-06-04】 「移动的家」为什么需要更智能的车载香氛，他们说……](https://sspai.com/post/88605)
 * [【2024-06-04】 [护城河] 苹果在 AI 上真的落后吗？WWDC24 AI 功能预测解析](https://sspai.com/post/89315)
-* [【2024-06-04】 派早报：AMD 推出多款新处理器、亚马逊 Kindle 中国电子书店月底停止服务等](https://sspai.com/post/89336)
-* [【2024-06-03】 派评 | 近期值得关注的 App](https://sspai.com/post/89329)
-* [【2024-06-03】 卡夫卡逝世 100 周年：他的困境，就是我们现代人的困境](https://sspai.com/post/89299)
-* [【2024-06-03】 自力更生 | 基于 Readeck 搭建个人稍后读与书签服务](https://sspai.com/post/89289)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2024-06-06】 哪一刻让你觉得保护海洋环境很重要？](http://www.zhihu.com/question/657361836/answer/3519297838?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-06】 哪一刻让你觉得保护海洋环境很重要？](http://www.zhihu.com/question/657361836/answer/3515393489?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-05】 哪一刻让你觉得保护海洋环境很重要？](http://www.zhihu.com/question/657361836/answer/3520771219?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-05】 两人可以一辈子租房生活吗？](http://zhuanlan.zhihu.com/p/699094701?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-04】 考考你它在哪，拍摄者即将出发，他乘坐的车次是？](http://www.zhihu.com/question/658044838/answer/3519762355?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-28】 考考你它在哪：（很难！）狗狗在哪里嬉戏？](http://www.zhihu.com/question/657268769/answer/3511584186?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-27】 为什么半固态电池、固态电池、钠离子电池被业内认为是新一代动力电池？有何优势？](http://www.zhihu.com/question/648735601/answer/3434048465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-25】 名画pk决赛：当名画《清明上河图》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？](http://www.zhihu.com/question/656999935/answer/3509102960?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-21】 A人好书-社群书单分享-1](http://zhuanlan.zhihu.com/p/698648430?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-21】 博物馆如何处理争议性展品或历史事件？](http://www.zhihu.com/question/656010784/answer/3502017859?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-21】 【网络迷踪】图中有高速铁路，或其他动车组运行线路时的解题思路，以及相关内容的简要科普](http://zhuanlan.zhihu.com/p/625352281?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-21】 ADHD需要哪些因素才能取得更高成就呢？](http://zhuanlan.zhihu.com/p/693065733?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-21】 A人好书-社群书单分享](http://zhuanlan.zhihu.com/p/698648430?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-21】 若由你来提名一幅能参加「名画PK大赛」的美术画作，你会挑哪张呢？](http://www.zhihu.com/question/654055226/answer/3481928199?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-05 05:13:24
+:alarm_clock: 更新时间: 2024-06-06 05:13:44
