@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+4】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-06-07】 科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html)
 * [【2024-05-31】 科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html)
 * [【2024-05-29】 分布式数据库入门：以国产数据库 TDSQL 为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html)
 * [【2024-05-24】 科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html)
@@ -25,7 +26,6 @@
 * [【2024-04-19】 科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html)
 * [【2024-04-11】 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html)
 * [【2024-03-29】 科技爱好者周刊（第 295 期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html)
-* [【2024-03-26】 2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-06-07】 众测 | 第四期先享体验计划，vivo X100 Ultra 众测开启](https://sspai.com/post/89327)
+* [【2024-06-07】 派早报：徕卡推出 Leica Lux 相机应用、Apple 2024 年设计大奖得主公布等](https://sspai.com/post/89427)
+* [【2024-06-06】 具透 Plus | 近期值得你关注的软件更新细节](https://sspai.com/prime/story/inside-release-notes)
+* [【2024-06-06】 告别 Apple Watch 续航焦虑，这些设置和小习惯值得收藏](https://sspai.com/post/89403)
 * [【2024-06-06】 日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
 * [【2024-06-06】 派早报：Netflix 将停止支持旧款 Apple TV、三星 Z 系列新品通过 FCC 认证等](https://sspai.com/post/89400)
 * [【2024-06-05】 2024 年，如何「正确地」观看一场演唱会](https://sspai.com/post/89101)
 * [【2024-06-05】 买第二台车的时候，我们终于冷静了](https://sspai.com/post/89322)
 * [【2024-06-05】 一日一技 | 借助 Obsidian 插件和快捷指令快速添加阅读记录](https://sspai.com/post/89317)
 * [【2024-06-05】 派早报：英特尔公布 Lunar Lake 芯片、索尼发布适用于 PC 的 PS VR2 适配器等](https://sspai.com/post/89360)
-* [【2024-06-04】 社区速递 047 | 在线CAD、作者新玩意以及派友们新关注的博主](https://sspai.com/post/89353)
-* [【2024-06-04】 618 想买鼠标，这些型号值得一看](https://sspai.com/post/89262)
-* [【2024-06-04】 「移动的家」为什么需要更智能的车载香氛，他们说……](https://sspai.com/post/88605)
-* [【2024-06-04】 [护城河] 苹果在 AI 上真的落后吗？WWDC24 AI 功能预测解析](https://sspai.com/post/89315)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-06-06】 [游戏中的破坏][GDC24]TheFinals的破坏系统](http://zhuanlan.zhihu.com/p/692442664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-06】 哪一刻让你觉得保护海洋环境很重要？](http://www.zhihu.com/question/657361836/answer/3519297838?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-06】 哪一刻让你觉得保护海洋环境很重要？](http://www.zhihu.com/question/657361836/answer/3515393489?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-05】 哪一刻让你觉得保护海洋环境很重要？](http://www.zhihu.com/question/657361836/answer/3520771219?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-05-27】 为什么半固态电池、固态电池、钠离子电池被业内认为是新一代动力电池？有何优势？](http://www.zhihu.com/question/648735601/answer/3434048465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-25】 名画pk决赛：当名画《清明上河图》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？](http://www.zhihu.com/question/656999935/answer/3509102960?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-21】 A人好书-社群书单分享-1](http://zhuanlan.zhihu.com/p/698648430?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-21】 博物馆如何处理争议性展品或历史事件？](http://www.zhihu.com/question/656010784/answer/3502017859?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-06 05:13:44
+:alarm_clock: 更新时间: 2024-06-07 05:13:55

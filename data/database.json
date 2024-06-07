@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 303 期）：技术封建主义",
+                "link": "http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html",
+                "published": "2024-06-07"
+            },
+            {
                 "title": "科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了",
                 "link": "http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html",
                 "published": "2024-05-31"
@@ -705,13 +710,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "众测 | 第四期先享体验计划，vivo X100 Ultra 众测开启",
+                "link": "https://sspai.com/post/89327",
+                "published": "2024-06-07"
+            },
+            {
+                "title": "派早报：徕卡推出 Leica Lux 相机应用、Apple 2024 年设计大奖得主公布等",
+                "link": "https://sspai.com/post/89427",
+                "published": "2024-06-07"
+            },
+            {
+                "title": "具透 Plus | 近期值得你关注的软件更新细节",
+                "link": "https://sspai.com/prime/story/inside-release-notes",
+                "published": "2024-06-06"
+            },
+            {
+                "title": "告别 Apple Watch 续航焦虑，这些设置和小习惯值得收藏",
+                "link": "https://sspai.com/post/89403",
+                "published": "2024-06-06"
+            },
             {
                 "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
                 "link": "https://sspai.com/post/89194",
@@ -50064,6 +50089,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "[游戏中的破坏][GDC24]TheFinals的破坏系统",
+                "link": "http://zhuanlan.zhihu.com/p/692442664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-06"
+            },
+            {
                 "title": "哪一刻让你觉得保护海洋环境很重要？",
                 "link": "http://www.zhihu.com/question/657361836/answer/3519297838?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-06-06"
@@ -58894,7 +58924,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 4,
