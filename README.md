@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-06-08】 WWDC24 前瞻：人工智能的浪潮里，Apple 又将带来哪些亮点](https://sspai.com/post/89308)
+* [【2024-06-07】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/89444)
+* [【2024-06-07】 循环永续，创想无尽：与「无穷小亮」探讨环境科普内容创作](https://sspai.com/post/89436)
+* [【2024-06-07】 少数派正版软件 + 付费教程 618 促销活动限时开启](https://sspai.com/post/89374)
 * [【2024-06-07】 众测 | 第四期先享体验计划，vivo X100 Ultra 众测开启](https://sspai.com/post/89327)
 * [【2024-06-07】 派早报：徕卡推出 Leica Lux 相机应用、Apple 2024 年设计大奖得主公布等](https://sspai.com/post/89427)
 * [【2024-06-06】 具透 Plus | 近期值得你关注的软件更新细节](https://sspai.com/prime/story/inside-release-notes)
 * [【2024-06-06】 告别 Apple Watch 续航焦虑，这些设置和小习惯值得收藏](https://sspai.com/post/89403)
 * [【2024-06-06】 日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
 * [【2024-06-06】 派早报：Netflix 将停止支持旧款 Apple TV、三星 Z 系列新品通过 FCC 认证等](https://sspai.com/post/89400)
-* [【2024-06-05】 2024 年，如何「正确地」观看一场演唱会](https://sspai.com/post/89101)
-* [【2024-06-05】 买第二台车的时候，我们终于冷静了](https://sspai.com/post/89322)
-* [【2024-06-05】 一日一技 | 借助 Obsidian 插件和快捷指令快速添加阅读记录](https://sspai.com/post/89317)
-* [【2024-06-05】 派早报：英特尔公布 Lunar Lake 芯片、索尼发布适用于 PC 的 PS VR2 适配器等](https://sspai.com/post/89360)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-07 05:13:55
+:alarm_clock: 更新时间: 2024-06-08 05:12:39

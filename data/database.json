@@ -710,13 +710,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "WWDC24 前瞻：人工智能的浪潮里，Apple 又将带来哪些亮点",
+                "link": "https://sspai.com/post/89308",
+                "published": "2024-06-08"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/89444",
+                "published": "2024-06-07"
+            },
+            {
+                "title": "循环永续，创想无尽：与「无穷小亮」探讨环境科普内容创作",
+                "link": "https://sspai.com/post/89436",
+                "published": "2024-06-07"
+            },
+            {
+                "title": "少数派正版软件 + 付费教程 618 促销活动限时开启",
+                "link": "https://sspai.com/post/89374",
+                "published": "2024-06-07"
+            },
             {
                 "title": "众测 | 第四期先享体验计划，vivo X100 Ultra 众测开启",
                 "link": "https://sspai.com/post/89327",
@@ -58924,7 +58944,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
