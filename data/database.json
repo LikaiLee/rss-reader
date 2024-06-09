@@ -718,6 +718,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "WWDC24 前瞻：当家也能「升级」，我们该对 Aqara 如何期待",
+                "link": "https://sspai.com/post/89467",
+                "published": "2024-06-09"
+            },
+            {
                 "title": "WWDC24 前瞻：人工智能的浪潮里，Apple 又将带来哪些亮点",
                 "link": "https://sspai.com/post/89308",
                 "published": "2024-06-08"
@@ -19653,7 +19658,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -50109,6 +50114,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《大人的高考-知乎卷》正式发布！如果再参加一次高考，你能得几分？",
+                "link": "http://www.zhihu.com/question/658295422/answer/3522782228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-08"
+            },
+            {
                 "title": "[游戏中的破坏][GDC24]TheFinals的破坏系统",
                 "link": "http://zhuanlan.zhihu.com/p/692442664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-06-06"
@@ -58944,7 +58954,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
