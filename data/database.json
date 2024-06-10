@@ -19658,7 +19658,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 2,
@@ -50113,6 +50113,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "有哪些你上了大学才明白的道理?",
+                "link": "http://www.zhihu.com/question/325482916/answer/3525346940?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-10"
+            },
             {
                 "title": "《大人的高考-知乎卷》正式发布！如果再参加一次高考，你能得几分？",
                 "link": "http://www.zhihu.com/question/658295422/answer/3522782228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
