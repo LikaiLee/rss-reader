@@ -718,6 +718,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Apple 在 WWDC24 开幕活动中发布 iOS 18 等新系统等",
+                "link": "https://sspai.com/post/89498",
+                "published": "2024-06-11"
+            },
+            {
+                "title": "一图流 | WWDC24 开幕式回顾",
+                "link": "https://sspai.com/post/89497",
+                "published": "2024-06-10"
+            },
+            {
+                "title": "大步跨进 AI 时代，系统更新还有这些亮点：WWDC24 发布会回顾",
+                "link": "https://sspai.com/post/89496",
+                "published": "2024-06-10"
+            },
+            {
+                "title": "高考结束的暑假除了狂欢，还能如何为将来做准备",
+                "link": "https://sspai.com/post/89473",
+                "published": "2024-06-10"
+            },
+            {
                 "title": "WWDC24 前瞻：当家也能「升级」，我们该对 Aqara 如何期待",
                 "link": "https://sspai.com/post/89467",
                 "published": "2024-06-09"
@@ -19658,7 +19678,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -50113,6 +50133,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "为什么国家大力发展电车？而其他国家并没有多少电车？",
+                "link": "http://www.zhihu.com/question/656815564/answer/3517246293?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-11"
+            },
             {
                 "title": "有哪些你上了大学才明白的道理?",
                 "link": "http://www.zhihu.com/question/325482916/answer/3525346940?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",

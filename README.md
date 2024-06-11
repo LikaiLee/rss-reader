@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-06-11】 派早报：Apple 在 WWDC24 开幕活动中发布 iOS 18 等新系统等](https://sspai.com/post/89498)
+* [【2024-06-10】 一图流 | WWDC24 开幕式回顾](https://sspai.com/post/89497)
+* [【2024-06-10】 大步跨进 AI 时代，系统更新还有这些亮点：WWDC24 发布会回顾](https://sspai.com/post/89496)
+* [【2024-06-10】 高考结束的暑假除了狂欢，还能如何为将来做准备](https://sspai.com/post/89473)
 * [【2024-06-09】 WWDC24 前瞻：当家也能「升级」，我们该对 Aqara 如何期待](https://sspai.com/post/89467)
 * [【2024-06-08】 WWDC24 前瞻：人工智能的浪潮里，Apple 又将带来哪些亮点](https://sspai.com/post/89308)
 * [【2024-06-07】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/89444)
 * [【2024-06-07】 循环永续，创想无尽：与「无穷小亮」探讨环境科普内容创作](https://sspai.com/post/89436)
 * [【2024-06-07】 少数派正版软件 + 付费教程 618 促销活动限时开启](https://sspai.com/post/89374)
 * [【2024-06-07】 众测 | 第四期先享体验计划，vivo X100 Ultra 众测开启](https://sspai.com/post/89327)
-* [【2024-06-07】 派早报：徕卡推出 Leica Lux 相机应用、Apple 2024 年设计大奖得主公布等](https://sspai.com/post/89427)
-* [【2024-06-06】 具透 Plus | 近期值得你关注的软件更新细节](https://sspai.com/prime/story/inside-release-notes)
-* [【2024-06-06】 告别 Apple Watch 续航焦虑，这些设置和小习惯值得收藏](https://sspai.com/post/89403)
-* [【2024-06-06】 日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-06-11】 为什么国家大力发展电车？而其他国家并没有多少电车？](http://www.zhihu.com/question/656815564/answer/3517246293?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-10】 有哪些你上了大学才明白的道理?](http://www.zhihu.com/question/325482916/answer/3525346940?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-08】 《大人的高考-知乎卷》正式发布！如果再参加一次高考，你能得几分？](http://www.zhihu.com/question/658295422/answer/3522782228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-06】 [游戏中的破坏][GDC24]TheFinals的破坏系统](http://zhuanlan.zhihu.com/p/692442664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-06-05】 两人可以一辈子租房生活吗？](http://zhuanlan.zhihu.com/p/699094701?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-04】 考考你它在哪，拍摄者即将出发，他乘坐的车次是？](http://www.zhihu.com/question/658044838/answer/3519762355?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-05-28】 考考你它在哪：（很难！）狗狗在哪里嬉戏？](http://www.zhihu.com/question/657268769/answer/3511584186?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-05-27】 为什么半固态电池、固态电池、钠离子电池被业内认为是新一代动力电池？有何优势？](http://www.zhihu.com/question/648735601/answer/3434048465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-10 05:13:31
+:alarm_clock: 更新时间: 2024-06-11 05:14:07
