@@ -718,6 +718,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Clicks Keyboard：另一场全键盘的同床异梦",
+                "link": "https://sspai.com/post/89493",
+                "published": "2024-06-12"
+            },
+            {
+                "title": "派早报：佳能发布 RF-S 双鱼眼镜头、微软公布新的 Outlook 安全策略等",
+                "link": "https://sspai.com/post/89519",
+                "published": "2024-06-12"
+            },
+            {
+                "title": "社区速递 048 | 派友电费大曝光、自建音乐库以及作者的新玩意",
+                "link": "https://sspai.com/post/89505",
+                "published": "2024-06-11"
+            },
+            {
+                "title": "直播预告 | WWDC24 开幕式回顾：哪些亮点值得展开讲讲？",
+                "link": "https://sspai.com/post/89432",
+                "published": "2024-06-11"
+            },
+            {
+                "title": "认清需求再下手，面向大众的 NAS 选购与折腾指南",
+                "link": "https://sspai.com/post/89214",
+                "published": "2024-06-11"
+            },
+            {
                 "title": "派早报：Apple 在 WWDC24 开幕活动中发布 iOS 18 等新系统等",
                 "link": "https://sspai.com/post/89498",
                 "published": "2024-06-11"
@@ -19678,7 +19703,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -58984,7 +59009,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-06-12】 Clicks Keyboard：另一场全键盘的同床异梦](https://sspai.com/post/89493)
+* [【2024-06-12】 派早报：佳能发布 RF-S 双鱼眼镜头、微软公布新的 Outlook 安全策略等](https://sspai.com/post/89519)
+* [【2024-06-11】 社区速递 048 | 派友电费大曝光、自建音乐库以及作者的新玩意](https://sspai.com/post/89505)
+* [【2024-06-11】 直播预告 | WWDC24 开幕式回顾：哪些亮点值得展开讲讲？](https://sspai.com/post/89432)
+* [【2024-06-11】 认清需求再下手，面向大众的 NAS 选购与折腾指南](https://sspai.com/post/89214)
 * [【2024-06-11】 派早报：Apple 在 WWDC24 开幕活动中发布 iOS 18 等新系统等](https://sspai.com/post/89498)
 * [【2024-06-10】 一图流 | WWDC24 开幕式回顾](https://sspai.com/post/89497)
 * [【2024-06-10】 大步跨进 AI 时代，系统更新还有这些亮点：WWDC24 发布会回顾](https://sspai.com/post/89496)
 * [【2024-06-10】 高考结束的暑假除了狂欢，还能如何为将来做准备](https://sspai.com/post/89473)
 * [【2024-06-09】 WWDC24 前瞻：当家也能「升级」，我们该对 Aqara 如何期待](https://sspai.com/post/89467)
-* [【2024-06-08】 WWDC24 前瞻：人工智能的浪潮里，Apple 又将带来哪些亮点](https://sspai.com/post/89308)
-* [【2024-06-07】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/89444)
-* [【2024-06-07】 循环永续，创想无尽：与「无穷小亮」探讨环境科普内容创作](https://sspai.com/post/89436)
-* [【2024-06-07】 少数派正版软件 + 付费教程 618 促销活动限时开启](https://sspai.com/post/89374)
-* [【2024-06-07】 众测 | 第四期先享体验计划，vivo X100 Ultra 众测开启](https://sspai.com/post/89327)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-11 05:14:07
+:alarm_clock: 更新时间: 2024-06-12 05:13:02
