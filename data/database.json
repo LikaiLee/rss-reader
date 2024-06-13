@@ -718,6 +718,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Windows 设计史 03 | Windows XP：摆脱机械，拥抱自然",
+                "link": "https://sspai.com/post/88722",
+                "published": "2024-06-13"
+            },
+            {
+                "title": "派早报：HTC 推出 U24 Pro 手机、Android 测试防盗功能等",
+                "link": "https://sspai.com/post/89560",
+                "published": "2024-06-13"
+            },
+            {
+                "title": "捧读、Miraa 开发者周楷雯都装了啥？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-240612",
+                "published": "2024-06-12"
+            },
+            {
+                "title": "2024 德国欧洲杯观赛指南",
+                "link": "https://sspai.com/post/89490",
+                "published": "2024-06-12"
+            },
+            {
+                "title": "80 后到 00 后，他们在用 PiPods 听……",
+                "link": "https://sspai.com/post/78464",
+                "published": "2024-06-12"
+            },
+            {
+                "title": "Apple 2024 年设计奖揭幕，这 14 款应用是今年的赢家",
+                "link": "https://sspai.com/post/89465",
+                "published": "2024-06-12"
+            },
+            {
                 "title": "Clicks Keyboard：另一场全键盘的同床异梦",
                 "link": "https://sspai.com/post/89493",
                 "published": "2024-06-12"
@@ -19703,7 +19733,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
