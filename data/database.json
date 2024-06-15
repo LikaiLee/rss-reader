@@ -715,13 +715,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "WWDC24 开幕式，该聊还是得聊两句",
+                "link": "https://sspai.com/post/89581",
+                "published": "2024-06-15"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/89614",
+                "published": "2024-06-14"
+            },
+            {
+                "title": "小风扇常见，但可以降温的「高速吹风机」你不妨一试",
+                "link": "https://sspai.com/post/81440",
+                "published": "2024-06-14"
+            },
+            {
+                "title": "具透 | 全心全意，只属于你：iOS 18 中值得关注的新特性",
+                "link": "https://sspai.com/post/89561",
+                "published": "2024-06-14"
+            },
             {
                 "title": "X-T50 使用体验：富士的最后一个爆款？",
                 "link": "https://sspai.com/post/89599",
@@ -50214,6 +50234,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "庄园领主的一些发展方式和技巧",
+                "link": "http://zhuanlan.zhihu.com/p/695424601?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-14"
+            },
+            {
+                "title": "iG vs KZ深度复盘：我上了，没打过，有什么好说的",
+                "link": "http://zhuanlan.zhihu.com/p/72696621?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-14"
+            },
+            {
+                "title": "《英雄联盟》硬核教学：如何成为一名优秀的打野玩家？",
+                "link": "http://zhuanlan.zhihu.com/p/143160297?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-14"
+            },
+            {
                 "title": "为什么国家大力发展电车？而其他国家并没有多少电车？",
                 "link": "http://www.zhihu.com/question/656815564/answer/3517246293?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-06-11"
@@ -59064,7 +59099,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 4,
