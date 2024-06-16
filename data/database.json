@@ -723,6 +723,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透 | iPadOS 18：史诗级更新「计算器」来了，这些变化也值得一试",
+                "link": "https://sspai.com/post/89644",
+                "published": "2024-06-16"
+            },
+            {
+                "title": "劝老人体检难过高考？不如先了解一下他们需要的这些细节",
+                "link": "https://sspai.com/post/89624",
+                "published": "2024-06-15"
+            },
+            {
+                "title": "跨专业转行、裸辞、自媒体……活了 34 年我才看清「迷茫」的真相",
+                "link": "https://sspai.com/post/89248",
+                "published": "2024-06-15"
+            },
+            {
                 "title": "WWDC24 开幕式，该聊还是得聊两句",
                 "link": "https://sspai.com/post/89581",
                 "published": "2024-06-15"
@@ -19778,7 +19793,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -59099,7 +59114,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     },
     {
         "id": 4,
