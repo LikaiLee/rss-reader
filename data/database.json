@@ -723,6 +723,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "挑选适合自己的夏日被子，享受凉爽舒适睡眠",
+                "link": "https://sspai.com/post/89135",
+                "published": "2024-06-17"
+            },
+            {
+                "title": "派早报：YouTube 测试在服务端向视频植入广告",
+                "link": "https://sspai.com/post/89656",
+                "published": "2024-06-17"
+            },
+            {
                 "title": "具透 | iPadOS 18：史诗级更新「计算器」来了，这些变化也值得一试",
                 "link": "https://sspai.com/post/89644",
                 "published": "2024-06-16"
@@ -19793,7 +19803,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 2,

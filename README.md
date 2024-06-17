@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-06-17】 挑选适合自己的夏日被子，享受凉爽舒适睡眠](https://sspai.com/post/89135)
+* [【2024-06-17】 派早报：YouTube 测试在服务端向视频植入广告](https://sspai.com/post/89656)
 * [【2024-06-16】 具透 | iPadOS 18：史诗级更新「计算器」来了，这些变化也值得一试](https://sspai.com/post/89644)
 * [【2024-06-15】 劝老人体检难过高考？不如先了解一下他们需要的这些细节](https://sspai.com/post/89624)
 * [【2024-06-15】 跨专业转行、裸辞、自媒体……活了 34 年我才看清「迷茫」的真相](https://sspai.com/post/89248)
@@ -43,8 +45,6 @@
 * [【2024-06-14】 小风扇常见，但可以降温的「高速吹风机」你不妨一试](https://sspai.com/post/81440)
 * [【2024-06-14】 具透 | 全心全意，只属于你：iOS 18 中值得关注的新特性](https://sspai.com/post/89561)
 * [【2024-06-14】 X-T50 使用体验：富士的最后一个爆款？](https://sspai.com/post/89599)
-* [【2024-06-14】 派早报：荣耀发布 Magic V Flip 折叠屏手机，影石发布 Insta360 GO 3S 相机等](https://sspai.com/post/89594)
-* [【2024-06-13】 新玩意 184｜少数派的编辑们最近买了啥？](https://sspai.com/post/89580)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-16 05:13:32
+:alarm_clock: 更新时间: 2024-06-17 05:16:18
