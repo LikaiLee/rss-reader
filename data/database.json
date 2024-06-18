@@ -723,6 +723,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "移动的家绕不开用电问题：聊聊房车上关于电的那些事",
+                "link": "https://sspai.com/post/88929",
+                "published": "2024-06-18"
+            },
+            {
+                "title": "派早报：尼康发布 Z6Ⅲ 相机，软银与 AI 搜索引擎 Perplexity 达成战略合作等",
+                "link": "https://sspai.com/post/89685",
+                "published": "2024-06-18"
+            },
+            {
+                "title": "天气逐渐变热，派商店带你解锁夏日饮品新配方",
+                "link": "https://sspai.com/post/79882",
+                "published": "2024-06-17"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/89677",
+                "published": "2024-06-17"
+            },
+            {
+                "title": "具透 | 关心健康，更关心你：watchOS 11 中值得关注的更新",
+                "link": "https://sspai.com/post/89662",
+                "published": "2024-06-17"
+            },
+            {
                 "title": "挑选适合自己的夏日被子，享受凉爽舒适睡眠",
                 "link": "https://sspai.com/post/89135",
                 "published": "2024-06-17"
@@ -19803,7 +19828,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -50259,6 +50284,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如果给你一个新知青年大会虚拟摊位可以卖任何东西，你会卖什么脑洞商品？",
+                "link": "http://www.zhihu.com/question/658835107/answer/3533741862?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-18"
+            },
+            {
+                "title": "《大人的高考-知乎卷》正式发布！如果再参加一次高考，你能得几分？",
+                "link": "http://www.zhihu.com/question/658295422/answer/3533990066?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-18"
+            },
+            {
+                "title": "活侠传正式版攻略1 开局事件&设施解读&心相作用",
+                "link": "http://zhuanlan.zhihu.com/p/703328106?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-18"
+            },
+            {
+                "title": "猛踩油门 VS 慢慢开车，哪种驾驶习惯更伤车？",
+                "link": "http://www.zhihu.com/question/656520879/answer/3508158516?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-17"
+            },
+            {
                 "title": "庄园领主的一些发展方式和技巧",
                 "link": "http://zhuanlan.zhihu.com/p/695424601?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-06-14"
@@ -59124,7 +59169,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 4,
