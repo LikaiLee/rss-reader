@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-06-21】 科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)
 * [【2024-06-14】 科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html)
 * [【2024-06-07】 科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html)
 * [【2024-05-31】 科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html)
@@ -25,7 +26,6 @@
 * [【2024-05-10】 科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html)
 * [【2024-04-26】 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html)
 * [【2024-04-19】 科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html)
-* [【2024-04-11】 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-06-21】 时隔两年再度封神？《艾尔登法环 黄金树幽影》游玩体验](https://sspai.com/post/89739)
+* [【2024-06-21】 派早报：Anthropic 发布 Claude 3.5 Sonnet 模型等](https://sspai.com/post/89783)
+* [【2024-06-20】 新玩意 185｜少数派的编辑们最近买了啥？](https://sspai.com/post/89771)
+* [【2024-06-20】 我晕：iPhone 的新辅助功能，真能让你不晕车？](https://sspai.com/post/89765)
 * [【2024-06-20】 Linux 游戏生态览：真的有人用它来打游戏吗？](https://sspai.com/post/89743)
 * [【2024-06-19】 派早报：Apple Vision Pro 国区 App Store 已上线、腾讯成为 2024 巴黎奥运会特许转播商等](https://sspai.com/post/89752)
 * [【2024-06-19】 新疆的十天，在伊犁遇见人生最美景色](https://sspai.com/post/88904)
 * [【2024-06-19】 具透 | 这或许才是完全体的 Vision Pro，VisionOS 2 中值得你关注的新功能](https://sspai.com/post/89704)
 * [【2024-06-19】 如果生命可以描出画面，我们该用什么方式记录](https://sspai.com/post/89678)
 * [【2024-06-19】 沪漂七年、搬家七次，我的选房思路与租房好物分享](https://sspai.com/post/89127)
-* [【2024-06-19】 派早报：Meta 发布 Threads API、美国司法部就订阅续费问题起诉 Adobe 等](https://sspai.com/post/89720)
-* [【2024-06-18】 新品首发 | 玩出个性桌搭，好拼、好看、好玩的积木插座来了](https://sspai.com/post/89696)
-* [【2024-06-18】 社区速递 049 | 洛阳自驾游、派友升级中以及作者的新玩意](https://sspai.com/post/89710)
-* [【2024-06-18】 具透 | macOS Sequoia 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/89629)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2024-06-21】 《红警》里有哪些很牛的操作？](http://www.zhihu.com/question/266994288/answer/3482118905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-20】 游戏开发中，配置数据是写在文件中还是写在代码中好？](http://www.zhihu.com/question/659220848/answer/3535134281?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-20】 如果让你来画刘看山，你会画成什么样呢？](http://www.zhihu.com/question/658896911/answer/3533557157?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-20】 如果让你来画刘看山，你会画成什么样呢？](http://www.zhihu.com/question/658896911/answer/3535977880?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-20】 如何反驳有些人“游戏速通有什么用，建议他们XX时候也速通”这一观点？](http://www.zhihu.com/question/659309004/answer/3535684377?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-19】 【The K 聊汽车安全（1）】带你认识全球汽车碰撞安全法规](http://zhuanlan.zhihu.com/p/703485626?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-19】 如何评价游戏《历历在目（Before Your Eyes）》？](http://www.zhihu.com/question/455549566/answer/3472283587?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-19】 《艾尔登法环》（Elden Ring）讲了一个怎样的故事?](http://www.zhihu.com/question/517963071/answer/2413871973?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-18】 《八方旅人2》远远不只有情怀](http://zhuanlan.zhihu.com/p/675260213?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-18】 如果给你一个新知青年大会虚拟摊位可以卖任何东西，你会卖什么脑洞商品？](http://www.zhihu.com/question/658835107/answer/3533741862?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-18】 《大人的高考-知乎卷》正式发布！如果再参加一次高考，你能得几分？](http://www.zhihu.com/question/658295422/answer/3533990066?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-18】 活侠传正式版攻略1 开局事件&设施解读&心相作用](http://zhuanlan.zhihu.com/p/703328106?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-17】 猛踩油门 VS 慢慢开车，哪种驾驶习惯更伤车？](http://www.zhihu.com/question/656520879/answer/3508158516?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-14】 庄园领主的一些发展方式和技巧](http://zhuanlan.zhihu.com/p/695424601?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-20 05:13:02
+:alarm_clock: 更新时间: 2024-06-21 05:14:01
