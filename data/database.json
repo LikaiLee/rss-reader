@@ -728,6 +728,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "WWDC 横幅：可能是苹果又一项失传的手艺",
+                "link": "https://sspai.com/post/89448",
+                "published": "2024-06-24"
+            },
+            {
+                "title": "派早报：TikTok 就反对美国禁令提交法律意见",
+                "link": "https://sspai.com/post/89868",
+                "published": "2024-06-24"
+            },
+            {
                 "title": "WWDC24 在现场：我们听到了这些开发者的声音",
                 "link": "https://sspai.com/post/89816",
                 "published": "2024-06-22"
@@ -19923,7 +19933,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -50379,6 +50389,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《艾尔登法环》DLC黄金树幽影媒体评分再度爆棚，你的具体游玩体验是怎样的呢？",
+                "link": "http://www.zhihu.com/question/659503755/answer/3539966905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-24"
+            },
+            {
                 "title": "现已可游玩，如何评价艾尔登法环DLC《黄金树幽影》？",
                 "link": "http://www.zhihu.com/question/659482075/answer/3537454020?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-06-21"
@@ -59319,7 +59334,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
