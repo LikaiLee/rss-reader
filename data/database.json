@@ -728,6 +728,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "在上海，当一天书店店长，参加一次电影节",
+                "link": "https://sspai.com/post/89523",
+                "published": "2024-06-26"
+            },
+            {
+                "title": "派早报：新款 Beats Pill 发布、欧盟对 Apple 展开进一步 DMA 违规调查等",
+                "link": "https://sspai.com/post/89935",
+                "published": "2024-06-26"
+            },
+            {
+                "title": "重燃了我折腾的心：特洛克积木插座小评",
+                "link": "https://sspai.com/post/89830",
+                "published": "2024-06-25"
+            },
+            {
+                "title": "社区速递 050 | 宝宝辅食、类原生系统折腾、好眠技巧以及作者的新玩意",
+                "link": "https://sspai.com/post/89919",
+                "published": "2024-06-25"
+            },
+            {
+                "title": "印度尼西亚：从布罗莫火山到精灵坠崖的魔幻之旅",
+                "link": "https://sspai.com/post/89105",
+                "published": "2024-06-25"
+            },
+            {
                 "title": "自力更生 | 自托管前，你考虑过网络安全吗？",
                 "link": "https://sspai.com/post/89837",
                 "published": "2024-06-25"
@@ -19953,7 +19978,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -50409,6 +50434,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "需要加 5.67 升机油的车，机油加到 5 升的时候启动了，会不会造成磨损拉缸？",
+                "link": "http://www.zhihu.com/question/656080007/answer/3502136014?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-25"
+            },
+            {
                 "title": "如何评价《艾尔登法环》中的角色米凯拉(Miquella)?",
                 "link": "http://www.zhihu.com/question/524177611/answer/2534089702?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-06-24"
@@ -59379,7 +59409,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 1
     },
     {
         "id": 4,

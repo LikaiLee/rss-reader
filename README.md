@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+5】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-06-26】 在上海，当一天书店店长，参加一次电影节](https://sspai.com/post/89523)
+* [【2024-06-26】 派早报：新款 Beats Pill 发布、欧盟对 Apple 展开进一步 DMA 违规调查等](https://sspai.com/post/89935)
+* [【2024-06-25】 重燃了我折腾的心：特洛克积木插座小评](https://sspai.com/post/89830)
+* [【2024-06-25】 社区速递 050 | 宝宝辅食、类原生系统折腾、好眠技巧以及作者的新玩意](https://sspai.com/post/89919)
+* [【2024-06-25】 印度尼西亚：从布罗莫火山到精灵坠崖的魔幻之旅](https://sspai.com/post/89105)
 * [【2024-06-25】 自力更生 | 自托管前，你考虑过网络安全吗？](https://sspai.com/post/89837)
 * [【2024-06-25】 派早报：微信推出高考查分渠道等整合服务，Meta 为 Quest 头显推出刷机工具等](https://sspai.com/post/89894)
 * [【2024-06-24】 派评 | 近期值得关注的 App](https://sspai.com/post/89889)
 * [【2024-06-24】 没有 E3 但新作扎堆：「御三家」的 6 月谁更精彩？](https://sspai.com/post/89876)
 * [【2024-06-24】 WWDC 横幅：可能是苹果又一项失传的手艺](https://sspai.com/post/89448)
-* [【2024-06-24】 派早报：TikTok 就反对美国禁令提交法律意见](https://sspai.com/post/89868)
-* [【2024-06-22】 WWDC24 在现场：我们听到了这些开发者的声音](https://sspai.com/post/89816)
-* [【2024-06-21】 iOS 18 的图标自定义有什么问题？](https://sspai.com/prime/story/ios-18-tinted-icon-issues)
-* [【2024-06-21】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/89815)
-* [【2024-06-21】 从应届生到社会人：我的职场生长经验录](https://sspai.com/post/89736)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-06-25】 需要加 5.67 升机油的车，机油加到 5 升的时候启动了，会不会造成磨损拉缸？](http://www.zhihu.com/question/656080007/answer/3502136014?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-24】 如何评价《艾尔登法环》中的角色米凯拉(Miquella)?](http://www.zhihu.com/question/524177611/answer/2534089702?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-24】 如何评价《艾尔登法环》中的角色米凯拉(Miquella)?](http://www.zhihu.com/question/524177611/answer/2481043190?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-24】 《最后生还者2》【巡逻】关卡：寻路关卡如何完美控制玩家行为和预期](http://zhuanlan.zhihu.com/p/633361130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-06-21】 现已可游玩，如何评价艾尔登法环DLC《黄金树幽影》？](http://www.zhihu.com/question/659482075/answer/3537454020?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-21】 深度解析游戏中的流通经济设计](http://zhuanlan.zhihu.com/p/671564259?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-21】 《红警》里有哪些很牛的操作？](http://www.zhihu.com/question/266994288/answer/3482118905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-20】 游戏开发中，配置数据是写在文件中还是写在代码中好？](http://www.zhihu.com/question/659220848/answer/3535134281?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-25 05:13:36
+:alarm_clock: 更新时间: 2024-06-26 05:12:57
