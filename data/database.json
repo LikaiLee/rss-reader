@@ -728,6 +728,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "国行版  Vision Pro 上手体验：你可能会关心的 8 个问题",
+                "link": "https://sspai.com/post/89976",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "派早报：Mac 版 ChatGPT 桌面应用正式开放、Firefox 将接入 AI 聊天机器人等",
+                "link": "https://sspai.com/post/89975",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "明讽强敌，暗渡陈仓：世纪之交的苹果如何悄悄转向英特尔",
+                "link": "https://sspai.com/prime/story/ppc-history-11",
+                "published": "2024-06-26"
+            },
+            {
+                "title": "做好优化、选好软件：我是如何改善 Android 类原生 ROM 使用体验的",
+                "link": "https://sspai.com/post/89282",
+                "published": "2024-06-26"
+            },
+            {
+                "title": "除了显卡，玩转大模型的门槛还在哪？",
+                "link": "https://sspai.com/post/89162",
+                "published": "2024-06-26"
+            },
+            {
                 "title": "在上海，当一天书店店长，参加一次电影节",
                 "link": "https://sspai.com/post/89523",
                 "published": "2024-06-26"
@@ -50434,6 +50459,61 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "Switch上有哪些好玩的游戏？",
+                "link": "http://www.zhihu.com/question/58951987/answer/1257352429?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "【钢铁雄心4】1.14版本陆军学说详解",
+                "link": "http://zhuanlan.zhihu.com/p/704363961?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "《艾尔登法环》DLC是否已经彻底无力回天，宫崎英高还能否在年内实现本体当年的口碑逆转？",
+                "link": "http://www.zhihu.com/question/659674514/answer/3541573356?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "短评：从《艾尔登法环：黄金树幽影》的体验和评价来看设计者需要思考的内容",
+                "link": "http://zhuanlan.zhihu.com/p/705611845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "《艾尔登法环》新DLC究竟讲了一个什么故事？",
+                "link": "http://www.zhihu.com/question/659834846/answer/3541299919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "《Finding Paradise》完结感想",
+                "link": "http://zhuanlan.zhihu.com/p/658883010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-26"
+            },
+            {
+                "title": "纸与笔的幻想碰撞 剑与魔法的旖丽之歌——漫谈TRPG与电子游戏发展",
+                "link": "http://zhuanlan.zhihu.com/p/686507431?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-26"
+            },
+            {
+                "title": "你对艾尔登法环《黄金树幽影》新角色穿刺者梅瑟莫有何评价？",
+                "link": "http://www.zhihu.com/question/645289134/answer/3405598809?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-26"
+            },
+            {
+                "title": "你心目中最好的十款单机游戏是什么？",
+                "link": "http://www.zhihu.com/question/479719590/answer/3366241612?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-26"
+            },
+            {
+                "title": "你心目中最好的十款单机游戏是什么？",
+                "link": "http://www.zhihu.com/question/479719590/answer/3500845768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-26"
+            },
+            {
+                "title": "通关《老头环》DLC后，一晚上睡不着，我想说点实话",
+                "link": "http://zhuanlan.zhihu.com/p/705496764?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-26"
+            },
+            {
                 "title": "需要加 5.67 升机油的车，机油加到 5 升的时候启动了，会不会造成磨损拉缸？",
                 "link": "http://www.zhihu.com/question/656080007/answer/3502136014?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-06-25"
@@ -59409,7 +59489,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 11
     },
     {
         "id": 4,

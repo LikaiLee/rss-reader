@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+11】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-06-27】 国行版  Vision Pro 上手体验：你可能会关心的 8 个问题](https://sspai.com/post/89976)
+* [【2024-06-27】 派早报：Mac 版 ChatGPT 桌面应用正式开放、Firefox 将接入 AI 聊天机器人等](https://sspai.com/post/89975)
+* [【2024-06-26】 明讽强敌，暗渡陈仓：世纪之交的苹果如何悄悄转向英特尔](https://sspai.com/prime/story/ppc-history-11)
+* [【2024-06-26】 做好优化、选好软件：我是如何改善 Android 类原生 ROM 使用体验的](https://sspai.com/post/89282)
+* [【2024-06-26】 除了显卡，玩转大模型的门槛还在哪？](https://sspai.com/post/89162)
 * [【2024-06-26】 在上海，当一天书店店长，参加一次电影节](https://sspai.com/post/89523)
 * [【2024-06-26】 派早报：新款 Beats Pill 发布、欧盟对 Apple 展开进一步 DMA 违规调查等](https://sspai.com/post/89935)
 * [【2024-06-25】 重燃了我折腾的心：特洛克积木插座小评](https://sspai.com/post/89830)
 * [【2024-06-25】 社区速递 050 | 宝宝辅食、类原生系统折腾、好眠技巧以及作者的新玩意](https://sspai.com/post/89919)
 * [【2024-06-25】 印度尼西亚：从布罗莫火山到精灵坠崖的魔幻之旅](https://sspai.com/post/89105)
-* [【2024-06-25】 自力更生 | 自托管前，你考虑过网络安全吗？](https://sspai.com/post/89837)
-* [【2024-06-25】 派早报：微信推出高考查分渠道等整合服务，Meta 为 Quest 头显推出刷机工具等](https://sspai.com/post/89894)
-* [【2024-06-24】 派评 | 近期值得关注的 App](https://sspai.com/post/89889)
-* [【2024-06-24】 没有 E3 但新作扎堆：「御三家」的 6 月谁更精彩？](https://sspai.com/post/89876)
-* [【2024-06-24】 WWDC 横幅：可能是苹果又一项失传的手艺](https://sspai.com/post/89448)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
-* [【2024-06-25】 需要加 5.67 升机油的车，机油加到 5 升的时候启动了，会不会造成磨损拉缸？](http://www.zhihu.com/question/656080007/answer/3502136014?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-24】 如何评价《艾尔登法环》中的角色米凯拉(Miquella)?](http://www.zhihu.com/question/524177611/answer/2534089702?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-24】 如何评价《艾尔登法环》中的角色米凯拉(Miquella)?](http://www.zhihu.com/question/524177611/answer/2481043190?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-24】 《最后生还者2》【巡逻】关卡：寻路关卡如何完美控制玩家行为和预期](http://zhuanlan.zhihu.com/p/633361130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-24】 《星空》：反快餐，沉浸式叙事和体验设计](http://zhuanlan.zhihu.com/p/654011768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-24】 如何评价《艾尔登法环》中的角色拉塔恩(Radahn)?](http://www.zhihu.com/question/523762067/answer/2463909652?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-24】 《艾尔登法环》DLC黄金树幽影媒体评分再度爆棚，你的具体游玩体验是怎样的呢？](http://www.zhihu.com/question/659503755/answer/3539966905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-21】 现已可游玩，如何评价艾尔登法环DLC《黄金树幽影》？](http://www.zhihu.com/question/659482075/answer/3537454020?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-21】 深度解析游戏中的流通经济设计](http://zhuanlan.zhihu.com/p/671564259?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-21】 《红警》里有哪些很牛的操作？](http://www.zhihu.com/question/266994288/answer/3482118905?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-27】 Switch上有哪些好玩的游戏？](http://www.zhihu.com/question/58951987/answer/1257352429?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-27】 【钢铁雄心4】1.14版本陆军学说详解](http://zhuanlan.zhihu.com/p/704363961?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-27】 《艾尔登法环》DLC是否已经彻底无力回天，宫崎英高还能否在年内实现本体当年的口碑逆转？](http://www.zhihu.com/question/659674514/answer/3541573356?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-27】 短评：从《艾尔登法环：黄金树幽影》的体验和评价来看设计者需要思考的内容](http://zhuanlan.zhihu.com/p/705611845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-27】 《艾尔登法环》新DLC究竟讲了一个什么故事？](http://www.zhihu.com/question/659834846/answer/3541299919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-26】 《Finding Paradise》完结感想](http://zhuanlan.zhihu.com/p/658883010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-26】 纸与笔的幻想碰撞 剑与魔法的旖丽之歌——漫谈TRPG与电子游戏发展](http://zhuanlan.zhihu.com/p/686507431?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-26】 你对艾尔登法环《黄金树幽影》新角色穿刺者梅瑟莫有何评价？](http://www.zhihu.com/question/645289134/answer/3405598809?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-26】 你心目中最好的十款单机游戏是什么？](http://www.zhihu.com/question/479719590/answer/3366241612?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-06-26】 你心目中最好的十款单机游戏是什么？](http://www.zhihu.com/question/479719590/answer/3500845768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-26 05:12:57
+:alarm_clock: 更新时间: 2024-06-27 05:13:49
