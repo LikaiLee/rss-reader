@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 306 期）：信息就像糖一样上瘾",
+                "link": "http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html",
+                "published": "2024-06-28"
+            },
+            {
                 "title": "科技爱好者周刊（第 305 期）：随机数，这是一个问题",
                 "link": "http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html",
                 "published": "2024-06-21"
@@ -720,13 +725,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "你可以在 Mac 上使用 iPhone 了：iOS/iPadOS 18 Beta 2 具透",
+                "link": "https://sspai.com/post/89981",
+                "published": "2024-06-28"
+            },
+            {
+                "title": "派早报：Apple Vision Pro 国行版开售、《魔兽世界》国服将于 8 月 1 日开服",
+                "link": "https://sspai.com/post/90016",
+                "published": "2024-06-28"
+            },
+            {
+                "title": "新玩意 186｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/89993",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "回到毕业的六月那天，让你的记忆在这些影像中弥新",
+                "link": "https://sspai.com/post/80318",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "国行版 Vision Pro 上手体验：你可能会关心的 8 个问题",
+                "link": "https://sspai.com/post/89976",
+                "published": "2024-06-27"
+            },
             {
                 "title": "国行版  Vision Pro 上手体验：你可能会关心的 8 个问题",
                 "link": "https://sspai.com/post/89976",
@@ -50459,6 +50489,36 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《艾尔登法环》新DLC究竟讲了一个什么故事？",
+                "link": "http://www.zhihu.com/question/659834846/answer/3544334514?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-28"
+            },
+            {
+                "title": "为什么燃油车很少刹车失灵，而新能源汽车刹车失灵概率高，这是什么原因？",
+                "link": "http://www.zhihu.com/question/659675567/answer/3543096253?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "如何评价《艾尔登法环》的简体中文翻译水平？",
+                "link": "http://www.zhihu.com/question/527929084/answer/2623487818?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "《艾尔登法环》DLC黄金树幽影媒体评分再度爆棚，你的具体游玩体验是怎样的呢？",
+                "link": "http://www.zhihu.com/question/659503755/answer/3538964874?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "如何评价艾尔登法环DLC《黄金树幽影》好评率65%，评价跌至褒贬不一，并且仍有下降趋势？",
+                "link": "http://www.zhihu.com/question/659613928/answer/3543240677?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-27"
+            },
+            {
+                "title": "宫崎英高近期表示《艾尔登法环》的成功离不开高难度，对此观点你如何评价？",
+                "link": "http://www.zhihu.com/question/659764342/answer/3540699906?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-27"
+            },
+            {
                 "title": "Switch上有哪些好玩的游戏？",
                 "link": "http://www.zhihu.com/question/58951987/answer/1257352429?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-06-27"
@@ -59489,7 +59549,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 11
+        "new_feeds": 6
     },
     {
         "id": 4,
