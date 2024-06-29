@@ -725,13 +725,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题",
+                "link": "https://sspai.com/post/89784",
+                "published": "2024-06-29"
+            },
+            {
+                "title": "Apple Intelligence 面面观：「果味」模型是怎样炼成的？",
+                "link": "https://sspai.com/prime/story/apple-intelligence-the-making-of",
+                "published": "2024-06-28"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/90039",
+                "published": "2024-06-28"
+            },
+            {
+                "title": "本月玩什么 | 觉醒深渊，以及黄金树幽影等大把 DLC……",
+                "link": "https://sspai.com/post/90019",
+                "published": "2024-06-28"
+            },
             {
                 "title": "你可以在 Mac 上使用 iPhone 了：iOS/iPadOS 18 Beta 2 具透",
                 "link": "https://sspai.com/post/89981",
@@ -20033,7 +20053,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -50489,6 +50509,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "姜萍事件的疑点分析",
+                "link": "http://zhuanlan.zhihu.com/p/705650067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-28"
+            },
+            {
+                "title": "游戏《艾尔登法环》中有哪些乍一看没什么，细想想却很可悲的设定？",
+                "link": "http://www.zhihu.com/question/518457201/answer/2393983068?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-06-28"
+            },
+            {
                 "title": "《艾尔登法环》新DLC究竟讲了一个什么故事？",
                 "link": "http://www.zhihu.com/question/659834846/answer/3544334514?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-06-28"
@@ -59549,7 +59579,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 4,
