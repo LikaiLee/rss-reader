@@ -733,6 +733,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Navidrome：自建音乐库新选择",
+                "link": "https://sspai.com/post/89420",
+                "published": "2024-06-30"
+            },
+            {
                 "title": "自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题",
                 "link": "https://sspai.com/post/89784",
                 "published": "2024-06-29"
@@ -20053,7 +20058,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -59579,7 +59584,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,

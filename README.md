@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-06-30】 Navidrome：自建音乐库新选择](https://sspai.com/post/89420)
 * [【2024-06-29】 自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题](https://sspai.com/post/89784)
 * [【2024-06-28】 Apple Intelligence 面面观：「果味」模型是怎样炼成的？](https://sspai.com/prime/story/apple-intelligence-the-making-of)
 * [【2024-06-28】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/90039)
@@ -44,7 +45,6 @@
 * [【2024-06-27】 新玩意 186｜少数派的编辑们最近买了啥？](https://sspai.com/post/89993)
 * [【2024-06-27】 回到毕业的六月那天，让你的记忆在这些影像中弥新](https://sspai.com/post/80318)
 * [【2024-06-27】 国行版 Vision Pro 上手体验：你可能会关心的 8 个问题](https://sspai.com/post/89976)
-* [【2024-06-27】 国行版  Vision Pro 上手体验：你可能会关心的 8 个问题](https://sspai.com/post/89976)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-06-29 05:14:25
+:alarm_clock: 更新时间: 2024-06-30 05:12:23
