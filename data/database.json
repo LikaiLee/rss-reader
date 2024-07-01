@@ -733,6 +733,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "想去的地方很多？用 Tripsy 轻松制定旅行计划",
+                "link": "https://sspai.com/post/89705",
+                "published": "2024-07-01"
+            },
+            {
+                "title": "派早报：多平台宣布处置挑动极端民族主义情绪有害信息",
+                "link": "https://sspai.com/post/90090",
+                "published": "2024-07-01"
+            },
+            {
+                "title": "一年过半，给去年值得一听的专辑查缺补漏",
+                "link": "https://sspai.com/post/90066",
+                "published": "2024-06-30"
+            },
+            {
                 "title": "Navidrome：自建音乐库新选择",
                 "link": "https://sspai.com/post/89420",
                 "published": "2024-06-30"
@@ -20058,7 +20073,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -50514,6 +50529,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "二次元游戏的内在困境：服务型游戏为何在“服务”上翻车？",
+                "link": "http://zhuanlan.zhihu.com/p/705619635?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-01"
+            },
+            {
                 "title": "姜萍事件的疑点分析",
                 "link": "http://zhuanlan.zhihu.com/p/705650067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-06-28"
@@ -59584,7 +59604,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
