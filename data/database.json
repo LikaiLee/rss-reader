@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode",
+                "link": "http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html",
+                "published": "2024-07-03"
+            },
+            {
                 "title": "科技爱好者周刊（第 306 期）：信息就像糖一样上瘾",
                 "link": "http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html",
                 "published": "2024-06-28"
@@ -725,13 +730,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "善用白板和卡片，聊聊 Heptabase 如何助我「知识管理」",
+                "link": "https://sspai.com/post/90069",
+                "published": "2024-07-03"
+            },
+            {
+                "title": "派早报：Meta 更新平台内 AI 信息标注、搜狗输入法上线多项 AI 功能等",
+                "link": "https://sspai.com/post/90168",
+                "published": "2024-07-03"
+            },
+            {
+                "title": "社区速递 051 | 一周热评、AirTag 平替与派友的主屏幕",
+                "link": "https://sspai.com/post/90160",
+                "published": "2024-07-02"
+            },
+            {
+                "title": "北京 LiveHouse 地图：那个塑造了我音乐喜好的地方",
+                "link": "https://sspai.com/post/90121",
+                "published": "2024-07-02"
+            },
             {
                 "title": "从配置到优化，搭建称手的 RIME 雾凇拼音输入方案",
                 "link": "https://sspai.com/post/89281",
@@ -20098,7 +20123,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -50554,6 +50579,26 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "Steam游戏有什么推荐?",
+                "link": "http://www.zhihu.com/question/528511559/answer/3549921144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-03"
+            },
+            {
+                "title": "《艾尔登法环》里谁杀了主角的女巫？",
+                "link": "http://www.zhihu.com/question/520542675/answer/3372050234?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-02"
+            },
+            {
+                "title": "《艾尔登法环》里谁杀了主角的女巫？",
+                "link": "http://www.zhihu.com/question/520542675/answer/2486727016?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-02"
+            },
+            {
+                "title": "《艾尔登法环》里谁杀了主角的女巫？",
+                "link": "http://www.zhihu.com/question/520542675/answer/3366968885?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-02"
+            },
+            {
                 "title": "孤独星球已关闭中国办公室，所有官方社媒账号已停更，原因有哪些？对中国旅行者有哪些影响？",
                 "link": "http://www.zhihu.com/question/660007190/answer/3548320361?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-07-02"
@@ -59634,7 +59679,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 4,

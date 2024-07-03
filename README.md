@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-07-03】 AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html)
 * [【2024-06-28】 科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html)
 * [【2024-06-21】 科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)
 * [【2024-06-14】 科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html)
@@ -25,7 +26,6 @@
 * [【2024-05-24】 科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html)
 * [【2024-05-17】 科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html)
 * [【2024-05-10】 科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html)
-* [【2024-04-26】 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-07-03】 善用白板和卡片，聊聊 Heptabase 如何助我「知识管理」](https://sspai.com/post/90069)
+* [【2024-07-03】 派早报：Meta 更新平台内 AI 信息标注、搜狗输入法上线多项 AI 功能等](https://sspai.com/post/90168)
+* [【2024-07-02】 社区速递 051 | 一周热评、AirTag 平替与派友的主屏幕](https://sspai.com/post/90160)
+* [【2024-07-02】 北京 LiveHouse 地图：那个塑造了我音乐喜好的地方](https://sspai.com/post/90121)
 * [【2024-07-02】 从配置到优化，搭建称手的 RIME 雾凇拼音输入方案](https://sspai.com/post/89281)
 * [【2024-07-02】 派早报：微软回应关闭国内线下授权门店，淘宝本月将上线闲鱼网页版等](https://sspai.com/post/90124)
 * [【2024-07-01】 派评 | 近期值得关注的 App](https://sspai.com/post/90113)
 * [【2024-07-01】 带在身边的一缕风，让夏天更快乐的 4 款小风扇](https://sspai.com/post/90075)
 * [【2024-07-01】 玩音箱，有线和 AirPlay 我全都要：飞傲 SR11](https://sspai.com/post/89834)
 * [【2024-07-01】 想去的地方很多？用 Tripsy 轻松制定旅行计划](https://sspai.com/post/89705)
-* [【2024-07-01】 派早报：多平台宣布处置挑动极端民族主义情绪有害信息](https://sspai.com/post/90090)
-* [【2024-06-30】 一年过半，给去年值得一听的专辑查缺补漏](https://sspai.com/post/90066)
-* [【2024-06-30】 Navidrome：自建音乐库新选择](https://sspai.com/post/89420)
-* [【2024-06-29】 自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题](https://sspai.com/post/89784)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2024-07-03】 Steam游戏有什么推荐?](http://www.zhihu.com/question/528511559/answer/3549921144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-07-02】 《艾尔登法环》里谁杀了主角的女巫？](http://www.zhihu.com/question/520542675/answer/3372050234?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-07-02】 《艾尔登法环》里谁杀了主角的女巫？](http://www.zhihu.com/question/520542675/answer/2486727016?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-07-02】 《艾尔登法环》里谁杀了主角的女巫？](http://www.zhihu.com/question/520542675/answer/3366968885?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-02】 孤独星球已关闭中国办公室，所有官方社媒账号已停更，原因有哪些？对中国旅行者有哪些影响？](http://www.zhihu.com/question/660007190/answer/3548320361?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-01】 二次元游戏的内在困境：服务型游戏为何在“服务”上翻车？](http://zhuanlan.zhihu.com/p/705619635?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-28】 姜萍事件的疑点分析](http://zhuanlan.zhihu.com/p/705650067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-28】 游戏《艾尔登法环》中有哪些乍一看没什么，细想想却很可悲的设定？](http://www.zhihu.com/question/518457201/answer/2393983068?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-28】 《艾尔登法环》新DLC究竟讲了一个什么故事？](http://www.zhihu.com/question/659834846/answer/3544334514?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-06-27】 为什么燃油车很少刹车失灵，而新能源汽车刹车失灵概率高，这是什么原因？](http://www.zhihu.com/question/659675567/answer/3543096253?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-27】 如何评价《艾尔登法环》的简体中文翻译水平？](http://www.zhihu.com/question/527929084/answer/2623487818?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-27】 《艾尔登法环》DLC黄金树幽影媒体评分再度爆棚，你的具体游玩体验是怎样的呢？](http://www.zhihu.com/question/659503755/answer/3538964874?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-27】 如何评价艾尔登法环DLC《黄金树幽影》好评率65%，评价跌至褒贬不一，并且仍有下降趋势？](http://www.zhihu.com/question/659613928/answer/3543240677?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-06-27】 宫崎英高近期表示《艾尔登法环》的成功离不开高难度，对此观点你如何评价？](http://www.zhihu.com/question/659764342/answer/3540699906?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-02 05:13:59
+:alarm_clock: 更新时间: 2024-07-03 05:14:08
