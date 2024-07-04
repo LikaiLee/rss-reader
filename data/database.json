@@ -730,13 +730,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "让 RIME 体验更上一层楼：如何用 MediaWiki 扩展词库",
+                "link": "https://sspai.com/post/90068",
+                "published": "2024-07-04"
+            },
+            {
+                "title": "派早报：Apple 以观察员身份入驻 OpenAI 董事会、大疆推出自行车电助力系统等",
+                "link": "https://sspai.com/post/90196",
+                "published": "2024-07-04"
+            },
+            {
+                "title": "面向 AI 时代，共建「多维」未来：多维表格开发者日 | AI 专场邀你报名",
+                "link": "https://sspai.com/post/90180",
+                "published": "2024-07-03"
+            },
+            {
+                "title": "特洛克积木插座 Pixel 65，「充电」之外还可以做更多",
+                "link": "https://sspai.com/post/90109",
+                "published": "2024-07-03"
+            },
+            {
+                "title": "比花钱扩容更有性价比：华为手机 NM 存储卡使用指南",
+                "link": "https://sspai.com/post/89840",
+                "published": "2024-07-03"
+            },
+            {
+                "title": "见光不见灯之我见：聊聊家庭光照设计",
+                "link": "https://sspai.com/post/89609",
+                "published": "2024-07-03"
+            },
             {
                 "title": "善用白板和卡片，聊聊 Heptabase 如何助我「知识管理」",
                 "link": "https://sspai.com/post/90069",
@@ -20123,7 +20153,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -50579,6 +50609,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《艾尔登法环》新DLC究竟讲了一个什么故事？",
+                "link": "http://www.zhihu.com/question/659834846/answer/3548934396?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-03"
+            },
+            {
+                "title": "高考毕业后做一款 gal 现实吗 ？",
+                "link": "http://www.zhihu.com/question/660364555/answer/3549459178?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-03"
+            },
+            {
                 "title": "Steam游戏有什么推荐?",
                 "link": "http://www.zhihu.com/question/528511559/answer/3549921144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-07-03"
@@ -59679,7 +59719,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 4,
