@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 307 期）：不要看重 Product Hunt",
+                "link": "http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html",
+                "published": "2024-07-05"
+            },
+            {
                 "title": "AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode",
                 "link": "http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html",
                 "published": "2024-07-03"
@@ -730,13 +735,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "「临门一脚」助你入门 Vim：Kickstart 配置笔记",
+                "link": "https://sspai.com/post/90115",
+                "published": "2024-07-05"
+            },
+            {
+                "title": "派早报：双因素认证服务 Authy 数据泄露、FTC 要求公司修改非法保修条款等",
+                "link": "https://sspai.com/post/90218",
+                "published": "2024-07-05"
+            },
+            {
+                "title": "空想特摄的浪漫（二）：《假面骑士》入坑指南",
+                "link": "https://sspai.com/post/90188",
+                "published": "2024-07-04"
+            },
             {
                 "title": "让 RIME 体验更上一层楼：如何用 MediaWiki 扩展词库",
                 "link": "https://sspai.com/post/90068",
@@ -20153,7 +20173,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -50609,6 +50629,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "押井守的攻壳机动队为什么会有大量的中国因素？",
+                "link": "http://www.zhihu.com/question/355415817/answer/3551138685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-05"
+            },
+            {
+                "title": "游戏策划、心得、与告别",
+                "link": "http://zhuanlan.zhihu.com/p/610734290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-05"
+            },
+            {
+                "title": "技术宅宣言：为什么二次元代表了一个加速主义未来，以及米哈游如何预示了御宅族的终结",
+                "link": "http://zhuanlan.zhihu.com/p/706798135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-04"
+            },
+            {
                 "title": "《艾尔登法环》新DLC究竟讲了一个什么故事？",
                 "link": "http://www.zhihu.com/question/659834846/answer/3548934396?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-07-03"
@@ -59719,7 +59754,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 4,
