@@ -735,13 +735,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "Heptabase + Logseq + Readwise：我的知识管理与输出实践",
+                "link": "https://sspai.com/post/90223",
+                "published": "2024-07-06"
+            },
+            {
+                "title": "线下活动：节奏与世界｜Asalato 制作工坊及世界音乐即兴音乐会",
+                "link": "https://sspai.com/post/90240",
+                "published": "2024-07-06"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/90243",
+                "published": "2024-07-05"
+            },
+            {
+                "title": "具透 Plus | 企图变聪明的 Chrome 与小广告止不住的 Windows",
+                "link": "https://sspai.com/prime/story/inside-release-notes-240705",
+                "published": "2024-07-05"
+            },
+            {
+                "title": "一日一技 | 如何从快照镜像恢复图床服务器数据",
+                "link": "https://sspai.com/post/90154",
+                "published": "2024-07-05"
+            },
             {
                 "title": "「临门一脚」助你入门 Vim：Kickstart 配置笔记",
                 "link": "https://sspai.com/post/90115",
@@ -20173,7 +20198,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -50629,6 +50654,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "单机模拟经营游戏制作过程中如何保证作品对玩家有持续的激励？",
+                "link": "http://www.zhihu.com/question/653840396/answer/3476843609?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-05"
+            },
+            {
+                "title": "押井守的攻壳机动队为什么会有大量的中国元素？",
+                "link": "http://www.zhihu.com/question/355415817/answer/3551138685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-05"
+            },
+            {
                 "title": "押井守的攻壳机动队为什么会有大量的中国因素？",
                 "link": "http://www.zhihu.com/question/355415817/answer/3551138685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-07-05"
@@ -59754,7 +59789,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 4,
