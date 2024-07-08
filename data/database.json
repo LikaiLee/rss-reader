@@ -743,6 +743,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "花点心思，「平价」也能拥有皮实的隐形车衣",
+                "link": "https://sspai.com/post/90265",
+                "published": "2024-07-08"
+            },
+            {
+                "title": "派早报：苹果批准 Epic 在欧盟区开设第三方应用商店",
+                "link": "https://sspai.com/post/90275",
+                "published": "2024-07-08"
+            },
+            {
+                "title": "「都市丽人」小跑一夏：我如何让跑步成为习惯",
+                "link": "https://sspai.com/post/90189",
+                "published": "2024-07-07"
+            },
+            {
                 "title": "Heptabase + Logseq + Readwise：我的知识管理与输出实践",
                 "link": "https://sspai.com/post/90223",
                 "published": "2024-07-06"
@@ -20198,7 +20213,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -50654,6 +50669,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "舍不得删的经典！20款让你欲罢不能的Steam游戏",
+                "link": "http://zhuanlan.zhihu.com/p/705941622?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-08"
+            },
+            {
                 "title": "单机模拟经营游戏制作过程中如何保证作品对玩家有持续的激励？",
                 "link": "http://www.zhihu.com/question/653840396/answer/3476843609?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-07-05"
@@ -59789,7 +59809,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,
