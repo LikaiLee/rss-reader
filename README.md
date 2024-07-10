@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-07-10】 多关节可动人偶白菜价：Dummy 13 入门指南](https://sspai.com/post/90185)
+* [【2024-07-10】 派早报：realme 发布真我 GT6、华硕发布 NUC 14 Pro+ 迷你 PC 等](https://sspai.com/post/90344)
+* [【2024-07-09】 YaoYao 跳绳开发者中年程序猿汪二都装了啥？](https://sspai.com/prime/story/zhuanglesha-240709)
+* [【2024-07-09】 社区速递 052 | 一周热评、派友在用的键盘和新玩意](https://sspai.com/post/90320)
+* [【2024-07-09】 用 AutoHotKey 在 Windows 上找回 macOS 使用体验](https://sspai.com/post/90212)
+* [【2024-07-09】 打扫房间可以很简单：10 个便宜好用的清洁用品](https://sspai.com/post/89304)
 * [【2024-07-09】 派早报：Nothing 子品牌 CMF 发布多款新品，支付宝推出「碰一下」支付等](https://sspai.com/post/90295)
 * [【2024-07-08】 派评 | 近期值得关注的 App](https://sspai.com/post/90287)
 * [【2024-07-08】 放烟火的人生而平等：AI 应用从概念到落地需要克服哪些问题](https://sspai.com/post/90225)
 * [【2024-07-08】 花点心思，「平价」也能拥有皮实的隐形车衣](https://sspai.com/post/90265)
-* [【2024-07-08】 派早报：苹果批准 Epic 在欧盟区开设第三方应用商店](https://sspai.com/post/90275)
-* [【2024-07-07】 「都市丽人」小跑一夏：我如何让跑步成为习惯](https://sspai.com/post/90189)
-* [【2024-07-06】 Heptabase + Logseq + Readwise：我的知识管理与输出实践](https://sspai.com/post/90223)
-* [【2024-07-06】 线下活动：节奏与世界｜Asalato 制作工坊及世界音乐即兴音乐会](https://sspai.com/post/90240)
-* [【2024-07-05】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/90243)
-* [【2024-07-05】 具透 Plus | 企图变聪明的 Chrome 与小广告止不住的 Windows](https://sspai.com/prime/story/inside-release-notes-240705)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-07-10】 《艾尔登法环》（Elden Ring）讲了一个怎样的故事?](http://www.zhihu.com/question/517963071/answer/2427626562?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-07-10】 各位桌游大神一般去哪找桌游中文规则书？](http://www.zhihu.com/question/67521005/answer/3228605632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-08】 信长之野望系列中织田信长的画风是否越来越像西方人，为什么？](http://www.zhihu.com/question/30893253/answer/3260938008?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-08】 舍不得删的经典！20款让你欲罢不能的Steam游戏](http://zhuanlan.zhihu.com/p/705941622?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-05】 单机模拟经营游戏制作过程中如何保证作品对玩家有持续的激励？](http://www.zhihu.com/question/653840396/answer/3476843609?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-07-05】 游戏策划、心得、与告别](http://zhuanlan.zhihu.com/p/610734290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-04】 技术宅宣言：为什么二次元代表了一个加速主义未来，以及米哈游如何预示了御宅族的终结](http://zhuanlan.zhihu.com/p/706798135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-03】 《艾尔登法环》新DLC究竟讲了一个什么故事？](http://www.zhihu.com/question/659834846/answer/3548934396?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-03】 高考毕业后做一款 gal 现实吗 ？](http://www.zhihu.com/question/660364555/answer/3549459178?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-03】 Steam游戏有什么推荐?](http://www.zhihu.com/question/528511559/answer/3549921144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-09 05:13:48
+:alarm_clock: 更新时间: 2024-07-10 05:13:49

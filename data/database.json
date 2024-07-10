@@ -743,6 +743,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "多关节可动人偶白菜价：Dummy 13 入门指南",
+                "link": "https://sspai.com/post/90185",
+                "published": "2024-07-10"
+            },
+            {
+                "title": "派早报：realme 发布真我 GT6、华硕发布 NUC 14 Pro+ 迷你 PC 等",
+                "link": "https://sspai.com/post/90344",
+                "published": "2024-07-10"
+            },
+            {
+                "title": "YaoYao 跳绳开发者中年程序猿汪二都装了啥？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-240709",
+                "published": "2024-07-09"
+            },
+            {
+                "title": "社区速递 052 | 一周热评、派友在用的键盘和新玩意",
+                "link": "https://sspai.com/post/90320",
+                "published": "2024-07-09"
+            },
+            {
+                "title": "用 AutoHotKey 在 Windows 上找回 macOS 使用体验",
+                "link": "https://sspai.com/post/90212",
+                "published": "2024-07-09"
+            },
+            {
+                "title": "打扫房间可以很简单：10 个便宜好用的清洁用品",
+                "link": "https://sspai.com/post/89304",
+                "published": "2024-07-09"
+            },
+            {
                 "title": "派早报：Nothing 子品牌 CMF 发布多款新品，支付宝推出「碰一下」支付等",
                 "link": "https://sspai.com/post/90295",
                 "published": "2024-07-09"
@@ -20228,7 +20258,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -50684,6 +50714,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《艾尔登法环》（Elden Ring）讲了一个怎样的故事?",
+                "link": "http://www.zhihu.com/question/517963071/answer/2427626562?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-10"
+            },
+            {
+                "title": "各位桌游大神一般去哪找桌游中文规则书？",
+                "link": "http://www.zhihu.com/question/67521005/answer/3228605632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-10"
+            },
+            {
                 "title": "信长之野望系列中织田信长的画风是否越来越像西方人，为什么？",
                 "link": "http://www.zhihu.com/question/30893253/answer/3260938008?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-07-08"
@@ -59829,7 +59869,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
