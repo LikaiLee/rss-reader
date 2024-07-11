@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+4】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-07-11】 诸事皆橙：半年时间个人物品的「黑橙」配色改造](https://sspai.com/post/90236)
+* [【2024-07-11】 派早报：三星推出多款新品、索尼发布 ZV-E10 II 相机等](https://sspai.com/post/90378)
+* [【2024-07-10】 「自力更生」征文收官，来听听少数派们的自托管经验谈](https://sspai.com/post/90350)
+* [【2024-07-10】 周末去哪玩：我们收集了这些不同城市的「度假」方式](https://sspai.com/post/90103)
+* [【2024-07-10】 「动真格」无需大动作，小处着手保护 iPhone 隐私](https://sspai.com/post/79967)
 * [【2024-07-10】 多关节可动人偶白菜价：Dummy 13 入门指南](https://sspai.com/post/90185)
 * [【2024-07-10】 派早报：realme 发布真我 GT6、华硕发布 NUC 14 Pro+ 迷你 PC 等](https://sspai.com/post/90344)
 * [【2024-07-09】 YaoYao 跳绳开发者中年程序猿汪二都装了啥？](https://sspai.com/prime/story/zhuanglesha-240709)
 * [【2024-07-09】 社区速递 052 | 一周热评、派友在用的键盘和新玩意](https://sspai.com/post/90320)
 * [【2024-07-09】 用 AutoHotKey 在 Windows 上找回 macOS 使用体验](https://sspai.com/post/90212)
-* [【2024-07-09】 打扫房间可以很简单：10 个便宜好用的清洁用品](https://sspai.com/post/89304)
-* [【2024-07-09】 派早报：Nothing 子品牌 CMF 发布多款新品，支付宝推出「碰一下」支付等](https://sspai.com/post/90295)
-* [【2024-07-08】 派评 | 近期值得关注的 App](https://sspai.com/post/90287)
-* [【2024-07-08】 放烟火的人生而平等：AI 应用从概念到落地需要克服哪些问题](https://sspai.com/post/90225)
-* [【2024-07-08】 花点心思，「平价」也能拥有皮实的隐形车衣](https://sspai.com/post/90265)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2024-07-11】 【The K 聊汽车安全（2）】汽车工程是如何进行人体伤害评价的？](http://zhuanlan.zhihu.com/p/708149469?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-07-10】 如何给《只狼》的BOSS难度排名？](http://www.zhihu.com/question/317563487/answer/941571637?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-07-10】 骑行时需要怎么保持正确的呼吸方法？](http://www.zhihu.com/question/654134922/answer/3517090698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-07-10】 高温天气的好与坏：耐热训练，启动](http://zhuanlan.zhihu.com/p/707829419?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-10】 《艾尔登法环》（Elden Ring）讲了一个怎样的故事?](http://www.zhihu.com/question/517963071/answer/2427626562?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-10】 各位桌游大神一般去哪找桌游中文规则书？](http://www.zhihu.com/question/67521005/answer/3228605632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-08】 信长之野望系列中织田信长的画风是否越来越像西方人，为什么？](http://www.zhihu.com/question/30893253/answer/3260938008?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-08】 舍不得删的经典！20款让你欲罢不能的Steam游戏](http://zhuanlan.zhihu.com/p/705941622?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-05】 单机模拟经营游戏制作过程中如何保证作品对玩家有持续的激励？](http://www.zhihu.com/question/653840396/answer/3476843609?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-05】 押井守的攻壳机动队为什么会有大量的中国元素？](http://www.zhihu.com/question/355415817/answer/3551138685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-05】 押井守的攻壳机动队为什么会有大量的中国因素？](http://www.zhihu.com/question/355415817/answer/3551138685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-05】 游戏策划、心得、与告别](http://zhuanlan.zhihu.com/p/610734290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-04】 技术宅宣言：为什么二次元代表了一个加速主义未来，以及米哈游如何预示了御宅族的终结](http://zhuanlan.zhihu.com/p/706798135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-03】 《艾尔登法环》新DLC究竟讲了一个什么故事？](http://www.zhihu.com/question/659834846/answer/3548934396?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-10 05:13:49
+:alarm_clock: 更新时间: 2024-07-11 05:13:27
