@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-07-12】 善用 watchOS 新功能，让 Apple Watch 离专业跑步手表更近一步](https://sspai.com/prime/story/watchos-running-stats-explained)
+* [【2024-07-12】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/90439)
+* [【2024-07-12】 选择更多，参加更易：Apple 高校优惠活动开始了](https://sspai.com/post/90436)
 * [【2024-07-12】 在二维世界里踩三维空间的坑：我的装修平面图诞生记](https://sspai.com/post/89268)
 * [【2024-07-12】 派早报: iQOO 发布 Neo9S Pro+ 等新品](https://sspai.com/post/90417)
 * [【2024-07-11】 新玩意 187｜少数派的编辑们最近买了啥？](https://sspai.com/post/90396)
@@ -42,9 +45,6 @@
 * [【2024-07-11】 诸事皆橙：半年时间个人物品的「黑橙」配色改造](https://sspai.com/post/90236)
 * [【2024-07-11】 派早报：三星推出多款新品、索尼发布 ZV-E10 II 相机等](https://sspai.com/post/90378)
 * [【2024-07-10】 「自力更生」征文收官，来听听少数派们的自托管经验谈](https://sspai.com/post/90350)
-* [【2024-07-10】 周末去哪玩：我们收集了这些不同城市的「度假」方式](https://sspai.com/post/90103)
-* [【2024-07-10】 「动真格」无需大动作，小处着手保护 iPhone 隐私](https://sspai.com/post/79967)
-* [【2024-07-10】 多关节可动人偶白菜价：Dummy 13 入门指南](https://sspai.com/post/90185)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-12 05:13:05
+:alarm_clock: 更新时间: 2024-07-13 05:13:12
