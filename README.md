@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-07-13】 给国内新用户的 Google Pixel 使用指南](https://sspai.com/post/78200)
 * [【2024-07-12】 善用 watchOS 新功能，让 Apple Watch 离专业跑步手表更近一步](https://sspai.com/prime/story/watchos-running-stats-explained)
 * [【2024-07-12】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/90439)
 * [【2024-07-12】 选择更多，参加更易：Apple 高校优惠活动开始了](https://sspai.com/post/90436)
@@ -44,7 +45,6 @@
 * [【2024-07-11】 Halide 团队全新力作，专业视频更轻松拍：Kino](https://sspai.com/post/90314)
 * [【2024-07-11】 诸事皆橙：半年时间个人物品的「黑橙」配色改造](https://sspai.com/post/90236)
 * [【2024-07-11】 派早报：三星推出多款新品、索尼发布 ZV-E10 II 相机等](https://sspai.com/post/90378)
-* [【2024-07-10】 「自力更生」征文收官，来听听少数派们的自托管经验谈](https://sspai.com/post/90350)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-13 05:13:12
+:alarm_clock: 更新时间: 2024-07-14 05:15:31
