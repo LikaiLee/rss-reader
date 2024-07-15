@@ -748,6 +748,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "读了等于没读？可能是读书笔记的方法错了",
+                "link": "https://sspai.com/post/89269",
+                "published": "2024-07-15"
+            },
+            {
+                "title": "派早报：欧盟 AI 法案发布最终文本，八月生效",
+                "link": "https://sspai.com/post/90474",
+                "published": "2024-07-15"
+            },
+            {
+                "title": "决胜时刻，Intel 举棋若定；绝处逢生，AMD 备战未来",
+                "link": "https://sspai.com/prime/story/sv-anecdotes-10",
+                "published": "2024-07-14"
+            },
+            {
                 "title": "给国内新用户的 Google Pixel 使用指南",
                 "link": "https://sspai.com/post/78200",
                 "published": "2024-07-13"
@@ -20328,7 +20343,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -50784,6 +50799,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "光荣公司的历史观点有什么特色？",
+                "link": "http://www.zhihu.com/question/40910862/answer/912557535?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-15"
+            },
+            {
+                "title": "历代的《三国志》里有哪些细思恐极的细节？",
+                "link": "http://www.zhihu.com/question/51665665/answer/1054518713?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-15"
+            },
+            {
                 "title": "买游戏机 Steam Deck 和 Switch 该怎么选？",
                 "link": "http://www.zhihu.com/question/582923472/answer/2894656134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-07-11"
@@ -59964,7 +59989,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
