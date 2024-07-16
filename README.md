@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-07-16】 系统抽风蹦出的「火星文」，如何帮助推动本地化？](https://sspai.com/post/90269)
+* [【2024-07-16】 派早报：Google 终止 Android 5.X 的 Google Play 服务支持等](https://sspai.com/post/90502)
+* [【2024-07-15】 派评 | 近期值得关注的 App](https://sspai.com/post/90492)
+* [【2024-07-15】 终于可以在 Linux 下愉快打印了：Linux 发行版配置打印机攻略](https://sspai.com/post/90194)
 * [【2024-07-15】 读了等于没读？可能是读书笔记的方法错了](https://sspai.com/post/89269)
 * [【2024-07-15】 派早报：欧盟 AI 法案发布最终文本，八月生效](https://sspai.com/post/90474)
 * [【2024-07-14】 决胜时刻，Intel 举棋若定；绝处逢生，AMD 备战未来](https://sspai.com/prime/story/sv-anecdotes-10)
 * [【2024-07-13】 给国内新用户的 Google Pixel 使用指南](https://sspai.com/post/78200)
 * [【2024-07-12】 善用 watchOS 新功能，让 Apple Watch 离专业跑步手表更近一步](https://sspai.com/prime/story/watchos-running-stats-explained)
 * [【2024-07-12】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/90439)
-* [【2024-07-12】 选择更多，参加更易：Apple 高校优惠活动开始了](https://sspai.com/post/90436)
-* [【2024-07-12】 在二维世界里踩三维空间的坑：我的装修平面图诞生记](https://sspai.com/post/89268)
-* [【2024-07-12】 派早报: iQOO 发布 Neo9S Pro+ 等新品](https://sspai.com/post/90417)
-* [【2024-07-11】 新玩意 187｜少数派的编辑们最近买了啥？](https://sspai.com/post/90396)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-07-15】 对于《刺客信条：起源》中所展示的古埃及，你作何评价？](http://www.zhihu.com/question/656773603/answer/3510443442?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-07-15】 钢铁雄心4  非作战状态时，部队的装备损耗怎么看？](http://www.zhihu.com/question/661363752/answer/3559991405?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-15】 光荣公司的历史观点有什么特色？](http://www.zhihu.com/question/40910862/answer/912557535?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-15】 历代的《三国志》里有哪些细思恐极的细节？](http://www.zhihu.com/question/51665665/answer/1054518713?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-11】 买游戏机 Steam Deck 和 Switch 该怎么选？](http://www.zhihu.com/question/582923472/answer/2894656134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-07-10】 骑行时需要怎么保持正确的呼吸方法？](http://www.zhihu.com/question/654134922/answer/3517090698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-10】 高温天气的好与坏：耐热训练，启动](http://zhuanlan.zhihu.com/p/707829419?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-10】 《艾尔登法环》（Elden Ring）讲了一个怎样的故事?](http://www.zhihu.com/question/517963071/answer/2427626562?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-10】 各位桌游大神一般去哪找桌游中文规则书？](http://www.zhihu.com/question/67521005/answer/3228605632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-08】 信长之野望系列中织田信长的画风是否越来越像西方人，为什么？](http://www.zhihu.com/question/30893253/answer/3260938008?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-15 05:13:38
+:alarm_clock: 更新时间: 2024-07-16 05:13:09

@@ -748,6 +748,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "系统抽风蹦出的「火星文」，如何帮助推动本地化？",
+                "link": "https://sspai.com/post/90269",
+                "published": "2024-07-16"
+            },
+            {
+                "title": "派早报：Google 终止 Android 5.X 的 Google Play 服务支持等",
+                "link": "https://sspai.com/post/90502",
+                "published": "2024-07-16"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/90492",
+                "published": "2024-07-15"
+            },
+            {
+                "title": "终于可以在 Linux 下愉快打印了：Linux 发行版配置打印机攻略",
+                "link": "https://sspai.com/post/90194",
+                "published": "2024-07-15"
+            },
+            {
                 "title": "读了等于没读？可能是读书笔记的方法错了",
                 "link": "https://sspai.com/post/89269",
                 "published": "2024-07-15"
@@ -20343,7 +20363,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -50798,6 +50818,16 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "对于《刺客信条：起源》中所展示的古埃及，你作何评价？",
+                "link": "http://www.zhihu.com/question/656773603/answer/3510443442?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-15"
+            },
+            {
+                "title": "钢铁雄心4  非作战状态时，部队的装备损耗怎么看？",
+                "link": "http://www.zhihu.com/question/661363752/answer/3559991405?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-15"
+            },
             {
                 "title": "光荣公司的历史观点有什么特色？",
                 "link": "http://www.zhihu.com/question/40910862/answer/912557535?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
