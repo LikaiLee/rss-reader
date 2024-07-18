@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-07-18】 精装房里「塞满」Apple Home 智能家居，这是我的思路与方案](https://sspai.com/post/90442)
+* [【2024-07-18】 派早报：佳能发布 EOS R1 和 EOS R5 Mark II 相机、联发科发布天玑 7350 芯片等](https://sspai.com/post/90570)
+* [【2024-07-17】 App+1 | PhotoGIMP：让开源的 GIMP「变身」Photoshop](https://sspai.com/post/90413)
+* [【2024-07-17】 少数派会员第四年：权益升级，优惠回归](https://sspai.com/post/90556)
+* [【2024-07-17】 日本浮生录 05：在冲绳的十天，日日与海为伴](https://sspai.com/post/90157)
 * [【2024-07-17】 具透 | iOS 18 Public Beta 公测版来了，这些功能值得一试](https://sspai.com/post/90525)
 * [【2024-07-17】 派早报：魅族发布魅蓝 20 AI 手机、Claude 推出 Android 版应用等](https://sspai.com/post/90536)
 * [【2024-07-16】 2001: 让乔布斯下定转向英特尔决心的转折之年](https://sspai.com/prime/story/ppc-history-12)
 * [【2024-07-16】 社区速递 053 | 一周最热评、派友六月买了啥汇总](https://sspai.com/post/90521)
 * [【2024-07-16】 iOS / iPadOS 18 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/90227)
-* [【2024-07-16】 系统抽风蹦出的「火星文」，如何帮助推动本地化？](https://sspai.com/post/90269)
-* [【2024-07-16】 派早报：Google 终止 Android 5.X 的 Google Play 服务支持等](https://sspai.com/post/90502)
-* [【2024-07-15】 派评 | 近期值得关注的 App](https://sspai.com/post/90492)
-* [【2024-07-15】 终于可以在 Linux 下愉快打印了：Linux 发行版配置打印机攻略](https://sspai.com/post/90194)
-* [【2024-07-15】 读了等于没读？可能是读书笔记的方法错了](https://sspai.com/post/89269)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-17 05:13:30
+:alarm_clock: 更新时间: 2024-07-18 05:13:53

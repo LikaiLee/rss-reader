@@ -748,6 +748,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "精装房里「塞满」Apple Home 智能家居，这是我的思路与方案",
+                "link": "https://sspai.com/post/90442",
+                "published": "2024-07-18"
+            },
+            {
+                "title": "派早报：佳能发布 EOS R1 和 EOS R5 Mark II 相机、联发科发布天玑 7350 芯片等",
+                "link": "https://sspai.com/post/90570",
+                "published": "2024-07-18"
+            },
+            {
+                "title": "App+1 | PhotoGIMP：让开源的 GIMP「变身」Photoshop",
+                "link": "https://sspai.com/post/90413",
+                "published": "2024-07-17"
+            },
+            {
+                "title": "少数派会员第四年：权益升级，优惠回归",
+                "link": "https://sspai.com/post/90556",
+                "published": "2024-07-17"
+            },
+            {
+                "title": "日本浮生录 05：在冲绳的十天，日日与海为伴",
+                "link": "https://sspai.com/post/90157",
+                "published": "2024-07-17"
+            },
+            {
                 "title": "具透 | iOS 18 Public Beta 公测版来了，这些功能值得一试",
                 "link": "https://sspai.com/post/90525",
                 "published": "2024-07-17"
@@ -60059,7 +60084,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     },
     {
         "id": 4,
