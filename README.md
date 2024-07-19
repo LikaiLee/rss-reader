@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-07-19】 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)
 * [【2024-07-12】 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)
 * [【2024-07-05】 科技爱好者周刊（第 307 期）：不要看重 Product Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)
 * [【2024-07-03】 AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html)
@@ -25,7 +26,6 @@
 * [【2024-06-07】 科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html)
 * [【2024-05-31】 科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html)
 * [【2024-05-29】 分布式数据库入门：以国产数据库 TDSQL 为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html)
-* [【2024-05-24】 科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-07-19】 四条线路，带你成为上海书店游民](https://sspai.com/post/90123)
+* [【2024-07-19】 派早报：美光推出英睿达 P310 固态硬盘、英伟达宣布全面转向开源……](https://sspai.com/post/90603)
+* [【2024-07-18】 新玩意 188｜少数派的编辑们最近买了啥？](https://sspai.com/post/90584)
+* [【2024-07-18】 为了更懂你的 watchOS 11 做了什么？我们与 Apple 工程师聊了聊](https://sspai.com/post/90588)
+* [【2024-07-18】 具透 | iPadOS 18：史诗级更新‍「计算器」‍来了，还有这些值得一试的亮点功能](https://sspai.com/post/90553)
 * [【2024-07-18】 精装房里「塞满」Apple Home 智能家居，这是我的思路与方案](https://sspai.com/post/90442)
 * [【2024-07-18】 派早报：佳能发布 EOS R1 和 EOS R5 Mark II 相机、联发科发布天玑 7350 芯片等](https://sspai.com/post/90570)
 * [【2024-07-17】 App+1 | PhotoGIMP：让开源的 GIMP「变身」Photoshop](https://sspai.com/post/90413)
 * [【2024-07-17】 少数派会员第四年：权益升级，优惠回归](https://sspai.com/post/90556)
 * [【2024-07-17】 日本浮生录 05：在冲绳的十天，日日与海为伴](https://sspai.com/post/90157)
-* [【2024-07-17】 具透 | iOS 18 Public Beta 公测版来了，这些功能值得一试](https://sspai.com/post/90525)
-* [【2024-07-17】 派早报：魅族发布魅蓝 20 AI 手机、Claude 推出 Android 版应用等](https://sspai.com/post/90536)
-* [【2024-07-16】 2001: 让乔布斯下定转向英特尔决心的转折之年](https://sspai.com/prime/story/ppc-history-12)
-* [【2024-07-16】 社区速递 053 | 一周最热评、派友六月买了啥汇总](https://sspai.com/post/90521)
-* [【2024-07-16】 iOS / iPadOS 18 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/90227)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-18 05:13:53
+:alarm_clock: 更新时间: 2024-07-19 05:14:36

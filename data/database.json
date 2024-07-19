@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃",
+                "link": "http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html",
+                "published": "2024-07-19"
+            },
+            {
                 "title": "科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？",
                 "link": "http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html",
                 "published": "2024-07-12"
@@ -740,13 +745,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "四条线路，带你成为上海书店游民",
+                "link": "https://sspai.com/post/90123",
+                "published": "2024-07-19"
+            },
+            {
+                "title": "派早报：美光推出英睿达 P310 固态硬盘、英伟达宣布全面转向开源……",
+                "link": "https://sspai.com/post/90603",
+                "published": "2024-07-19"
+            },
+            {
+                "title": "新玩意 188｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/90584",
+                "published": "2024-07-18"
+            },
+            {
+                "title": "为了更懂你的 watchOS 11 做了什么？我们与 Apple 工程师聊了聊",
+                "link": "https://sspai.com/post/90588",
+                "published": "2024-07-18"
+            },
+            {
+                "title": "具透 | iPadOS 18：史诗级更新‍「计算器」‍来了，还有这些值得一试的亮点功能",
+                "link": "https://sspai.com/post/90553",
+                "published": "2024-07-18"
+            },
             {
                 "title": "精装房里「塞满」Apple Home 智能家居，这是我的思路与方案",
                 "link": "https://sspai.com/post/90442",
