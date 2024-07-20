@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-07-19】 骁游记归来，聊聊我眼里的骁龙](https://sspai.com/post/90638)
+* [【2024-07-19】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/90624)
+* [【2024-07-19】 两天时间兜个小圈子，用自驾的方式认识贵州](https://sspai.com/post/90363)
+* [【2024-07-19】 具透 | 精心细调更懂你：watchOS 11 中值得关注的更新](https://sspai.com/post/90582)
 * [【2024-07-19】 四条线路，带你成为上海书店游民](https://sspai.com/post/90123)
 * [【2024-07-19】 派早报：美光推出英睿达 P310 固态硬盘、英伟达宣布全面转向开源……](https://sspai.com/post/90603)
 * [【2024-07-18】 新玩意 188｜少数派的编辑们最近买了啥？](https://sspai.com/post/90584)
 * [【2024-07-18】 为了更懂你的 watchOS 11 做了什么？我们与 Apple 工程师聊了聊](https://sspai.com/post/90588)
 * [【2024-07-18】 具透 | iPadOS 18：史诗级更新‍「计算器」‍来了，还有这些值得一试的亮点功能](https://sspai.com/post/90553)
 * [【2024-07-18】 精装房里「塞满」Apple Home 智能家居，这是我的思路与方案](https://sspai.com/post/90442)
-* [【2024-07-18】 派早报：佳能发布 EOS R1 和 EOS R5 Mark II 相机、联发科发布天玑 7350 芯片等](https://sspai.com/post/90570)
-* [【2024-07-17】 App+1 | PhotoGIMP：让开源的 GIMP「变身」Photoshop](https://sspai.com/post/90413)
-* [【2024-07-17】 少数派会员第四年：权益升级，优惠回归](https://sspai.com/post/90556)
-* [【2024-07-17】 日本浮生录 05：在冲绳的十天，日日与海为伴](https://sspai.com/post/90157)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-07-19】 艾尔登法环DLC剧情解析：你不知道的黄金树之影（上）](http://zhuanlan.zhihu.com/p/706431098?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-07-19】 游戏 UI 谈话会](http://zhuanlan.zhihu.com/p/464771892?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-16】 独立游戏《曼尼汉堡店》在中国莫名奇妙破圈，如何评价独游“墙外开花墙内香”的这种现象？](http://www.zhihu.com/question/661344453/answer/3563870825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-16】 面对新技术浪潮，如何找到好的产品落地方向｜AI 先行者沙龙圆桌实录](http://zhuanlan.zhihu.com/p/709153865?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-16】 MoonBit: 大模型时代下的编程语言探索](http://zhuanlan.zhihu.com/p/709181162?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-07-15】 光荣公司的历史观点有什么特色？](http://www.zhihu.com/question/40910862/answer/912557535?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-15】 历代的《三国志》里有哪些细思恐极的细节？](http://www.zhihu.com/question/51665665/answer/1054518713?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-11】 买游戏机 Steam Deck 和 Switch 该怎么选？](http://www.zhihu.com/question/582923472/answer/2894656134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-11】 【The K 聊汽车安全（2）】汽车工程是如何进行人体伤害评价的？](http://zhuanlan.zhihu.com/p/708149469?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-10】 如何给《只狼》的BOSS难度排名？](http://www.zhihu.com/question/317563487/answer/941571637?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-19 05:14:36
+:alarm_clock: 更新时间: 2024-07-20 05:13:32

@@ -745,13 +745,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "骁游记归来，聊聊我眼里的骁龙",
+                "link": "https://sspai.com/post/90638",
+                "published": "2024-07-19"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/90624",
+                "published": "2024-07-19"
+            },
+            {
+                "title": "两天时间兜个小圈子，用自驾的方式认识贵州",
+                "link": "https://sspai.com/post/90363",
+                "published": "2024-07-19"
+            },
+            {
+                "title": "具透 | 精心细调更懂你：watchOS 11 中值得关注的更新",
+                "link": "https://sspai.com/post/90582",
+                "published": "2024-07-19"
+            },
             {
                 "title": "四条线路，带你成为上海书店游民",
                 "link": "https://sspai.com/post/90123",
@@ -20443,7 +20463,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -50899,6 +50919,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "艾尔登法环DLC剧情解析：你不知道的黄金树之影（上）",
+                "link": "http://zhuanlan.zhihu.com/p/706431098?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-19"
+            },
+            {
+                "title": "游戏 UI 谈话会",
+                "link": "http://zhuanlan.zhihu.com/p/464771892?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-19"
+            },
+            {
                 "title": "独立游戏《曼尼汉堡店》在中国莫名奇妙破圈，如何评价独游“墙外开花墙内香”的这种现象？",
                 "link": "http://www.zhihu.com/question/661344453/answer/3563870825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-07-16"
@@ -60114,7 +60144,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
