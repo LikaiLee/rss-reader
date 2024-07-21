@@ -753,6 +753,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能",
+                "link": "https://sspai.com/post/90618",
+                "published": "2024-07-20"
+            },
+            {
                 "title": "骁游记归来，聊聊我眼里的骁龙",
                 "link": "https://sspai.com/post/90638",
                 "published": "2024-07-19"
@@ -20463,7 +20468,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -60144,7 +60149,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,

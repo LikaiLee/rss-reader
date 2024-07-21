@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-07-20】 具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能](https://sspai.com/post/90618)
 * [【2024-07-19】 骁游记归来，聊聊我眼里的骁龙](https://sspai.com/post/90638)
 * [【2024-07-19】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/90624)
 * [【2024-07-19】 两天时间兜个小圈子，用自驾的方式认识贵州](https://sspai.com/post/90363)
@@ -44,7 +45,6 @@
 * [【2024-07-18】 新玩意 188｜少数派的编辑们最近买了啥？](https://sspai.com/post/90584)
 * [【2024-07-18】 为了更懂你的 watchOS 11 做了什么？我们与 Apple 工程师聊了聊](https://sspai.com/post/90588)
 * [【2024-07-18】 具透 | iPadOS 18：史诗级更新‍「计算器」‍来了，还有这些值得一试的亮点功能](https://sspai.com/post/90553)
-* [【2024-07-18】 精装房里「塞满」Apple Home 智能家居，这是我的思路与方案](https://sspai.com/post/90442)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-20 05:13:32
+:alarm_clock: 更新时间: 2024-07-21 05:14:26
