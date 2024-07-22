@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-07-22】 GraphRAG + GPT-4o mini 低成本构建 AI 图谱知识库](https://sspai.com/post/90665)
+* [【2024-07-22】 派早报：安全软件缺陷导致全球 Windows 设备故障](https://sspai.com/post/90680)
+* [【2024-07-21】 看什么 Café | 日剧观看指南：电视台篇](https://sspai.com/post/90534)
 * [【2024-07-20】 具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能](https://sspai.com/post/90618)
 * [【2024-07-19】 骁游记归来，聊聊我眼里的骁龙](https://sspai.com/post/90638)
 * [【2024-07-19】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/90624)
@@ -42,9 +45,6 @@
 * [【2024-07-19】 具透 | 精心细调更懂你：watchOS 11 中值得关注的更新](https://sspai.com/post/90582)
 * [【2024-07-19】 四条线路，带你成为上海书店游民](https://sspai.com/post/90123)
 * [【2024-07-19】 派早报：美光推出英睿达 P310 固态硬盘、英伟达宣布全面转向开源……](https://sspai.com/post/90603)
-* [【2024-07-18】 新玩意 188｜少数派的编辑们最近买了啥？](https://sspai.com/post/90584)
-* [【2024-07-18】 为了更懂你的 watchOS 11 做了什么？我们与 Apple 工程师聊了聊](https://sspai.com/post/90588)
-* [【2024-07-18】 具透 | iPadOS 18：史诗级更新‍「计算器」‍来了，还有这些值得一试的亮点功能](https://sspai.com/post/90553)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-21 05:14:26
+:alarm_clock: 更新时间: 2024-07-22 05:14:40

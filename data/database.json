@@ -753,6 +753,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "GraphRAG + GPT-4o mini 低成本构建 AI 图谱知识库",
+                "link": "https://sspai.com/post/90665",
+                "published": "2024-07-22"
+            },
+            {
+                "title": "派早报：安全软件缺陷导致全球 Windows 设备故障",
+                "link": "https://sspai.com/post/90680",
+                "published": "2024-07-22"
+            },
+            {
+                "title": "看什么 Café | 日剧观看指南：电视台篇",
+                "link": "https://sspai.com/post/90534",
+                "published": "2024-07-21"
+            },
+            {
                 "title": "具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能",
                 "link": "https://sspai.com/post/90618",
                 "published": "2024-07-20"
@@ -20468,7 +20483,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
