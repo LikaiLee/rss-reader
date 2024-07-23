@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-07-23】 一日一技 | 使用 Docker 为 iCloud 照片生成本地备份](https://sspai.com/post/90641)
+* [【2024-07-23】 派早报：WPS 与豆包否认 AI 层面任何形式合作等](https://sspai.com/post/90712)
+* [【2024-07-22】 派评 | 近期值得关注的 App](https://sspai.com/post/90709)
+* [【2024-07-22】 它的反反复复、你的难以启齿：口腔溃疡二三事](https://sspai.com/post/90520)
 * [【2024-07-22】 GraphRAG + GPT-4o mini 低成本构建 AI 图谱知识库](https://sspai.com/post/90665)
 * [【2024-07-22】 派早报：安全软件缺陷导致全球 Windows 设备故障](https://sspai.com/post/90680)
 * [【2024-07-21】 看什么 Café | 日剧观看指南：电视台篇](https://sspai.com/post/90534)
 * [【2024-07-20】 具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能](https://sspai.com/post/90618)
 * [【2024-07-19】 骁游记归来，聊聊我眼里的骁龙](https://sspai.com/post/90638)
 * [【2024-07-19】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/90624)
-* [【2024-07-19】 两天时间兜个小圈子，用自驾的方式认识贵州](https://sspai.com/post/90363)
-* [【2024-07-19】 具透 | 精心细调更懂你：watchOS 11 中值得关注的更新](https://sspai.com/post/90582)
-* [【2024-07-19】 四条线路，带你成为上海书店游民](https://sspai.com/post/90123)
-* [【2024-07-19】 派早报：美光推出英睿达 P310 固态硬盘、英伟达宣布全面转向开源……](https://sspai.com/post/90603)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-22 05:14:40
+:alarm_clock: 更新时间: 2024-07-23 05:14:15

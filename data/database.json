@@ -753,6 +753,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 使用 Docker 为 iCloud 照片生成本地备份",
+                "link": "https://sspai.com/post/90641",
+                "published": "2024-07-23"
+            },
+            {
+                "title": "派早报：WPS 与豆包否认 AI 层面任何形式合作等",
+                "link": "https://sspai.com/post/90712",
+                "published": "2024-07-23"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/90709",
+                "published": "2024-07-22"
+            },
+            {
+                "title": "它的反反复复、你的难以启齿：口腔溃疡二三事",
+                "link": "https://sspai.com/post/90520",
+                "published": "2024-07-22"
+            },
+            {
                 "title": "GraphRAG + GPT-4o mini 低成本构建 AI 图谱知识库",
                 "link": "https://sspai.com/post/90665",
                 "published": "2024-07-22"
@@ -20483,7 +20503,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
