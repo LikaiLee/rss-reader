@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-07-24】 用 xdg-ninja「整治」杂乱的 Linux 家目录](https://sspai.com/post/90480)
+* [【2024-07-23】 派早报：英特尔将修复部分酷睿台式机处理器的稳定性问题等](https://sspai.com/post/90755)
+* [【2024-07-23】 社区速递 054 | 你没见过的社区文章、一周最热评、派友用的翻译服务](https://sspai.com/post/90736)
+* [【2024-07-23】 盖是「蓝屏」的，但锅不全是微软的：聊聊近期的 Windows 大规模宕机](https://sspai.com/post/90673)
 * [【2024-07-23】 一日一技 | 使用 Docker 为 iCloud 照片生成本地备份](https://sspai.com/post/90641)
 * [【2024-07-23】 派早报：WPS 与豆包否认 AI 层面任何形式合作等](https://sspai.com/post/90712)
 * [【2024-07-22】 派评 | 近期值得关注的 App](https://sspai.com/post/90709)
 * [【2024-07-22】 它的反反复复、你的难以启齿：口腔溃疡二三事](https://sspai.com/post/90520)
 * [【2024-07-22】 GraphRAG + GPT-4o mini 低成本构建 AI 图谱知识库](https://sspai.com/post/90665)
 * [【2024-07-22】 派早报：安全软件缺陷导致全球 Windows 设备故障](https://sspai.com/post/90680)
-* [【2024-07-21】 看什么 Café | 日剧观看指南：电视台篇](https://sspai.com/post/90534)
-* [【2024-07-20】 具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能](https://sspai.com/post/90618)
-* [【2024-07-19】 骁游记归来，聊聊我眼里的骁龙](https://sspai.com/post/90638)
-* [【2024-07-19】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/90624)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-23 05:14:15
+:alarm_clock: 更新时间: 2024-07-24 05:13:47

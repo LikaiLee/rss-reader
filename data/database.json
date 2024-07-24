@@ -753,6 +753,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "用 xdg-ninja「整治」杂乱的 Linux 家目录",
+                "link": "https://sspai.com/post/90480",
+                "published": "2024-07-24"
+            },
+            {
+                "title": "派早报：英特尔将修复部分酷睿台式机处理器的稳定性问题等",
+                "link": "https://sspai.com/post/90755",
+                "published": "2024-07-23"
+            },
+            {
+                "title": "社区速递 054 | 你没见过的社区文章、一周最热评、派友用的翻译服务",
+                "link": "https://sspai.com/post/90736",
+                "published": "2024-07-23"
+            },
+            {
+                "title": "盖是「蓝屏」的，但锅不全是微软的：聊聊近期的 Windows 大规模宕机",
+                "link": "https://sspai.com/post/90673",
+                "published": "2024-07-23"
+            },
+            {
                 "title": "一日一技 | 使用 Docker 为 iCloud 照片生成本地备份",
                 "link": "https://sspai.com/post/90641",
                 "published": "2024-07-23"
