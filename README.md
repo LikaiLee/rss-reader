@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-07-25】 久违了香港：我的西贡行山看海记](https://sspai.com/post/90192)
+* [【2024-07-25】 派早报：Adobe Illustrator 和 Photoshop 迎来新的 AI 功能等](https://sspai.com/post/90793)
+* [【2024-07-24】 少数派开啥车｜捡漏还是血亏？13年前的大众甲壳虫还能买吗？](https://sspai.com/post/90753)
+* [【2024-07-24】 在家做一个魔法师，智能家居也可以动「手」不动口](https://sspai.com/post/90675)
 * [【2024-07-24】 用 xdg-ninja「整治」杂乱的 Linux 家目录](https://sspai.com/post/90480)
 * [【2024-07-23】 派早报：英特尔将修复部分酷睿台式机处理器的稳定性问题等](https://sspai.com/post/90755)
 * [【2024-07-23】 社区速递 054 | 你没见过的社区文章、一周最热评、派友用的翻译服务](https://sspai.com/post/90736)
 * [【2024-07-23】 盖是「蓝屏」的，但锅不全是微软的：聊聊近期的 Windows 大规模宕机](https://sspai.com/post/90673)
 * [【2024-07-23】 一日一技 | 使用 Docker 为 iCloud 照片生成本地备份](https://sspai.com/post/90641)
 * [【2024-07-23】 派早报：WPS 与豆包否认 AI 层面任何形式合作等](https://sspai.com/post/90712)
-* [【2024-07-22】 派评 | 近期值得关注的 App](https://sspai.com/post/90709)
-* [【2024-07-22】 它的反反复复、你的难以启齿：口腔溃疡二三事](https://sspai.com/post/90520)
-* [【2024-07-22】 GraphRAG + GPT-4o mini 低成本构建 AI 图谱知识库](https://sspai.com/post/90665)
-* [【2024-07-22】 派早报：安全软件缺陷导致全球 Windows 设备故障](https://sspai.com/post/90680)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-07-25】 为什么《信长之野望16》有2206个武将，而《三国志14》才1000个武将？三国还没信野的一半！？](http://www.zhihu.com/question/660987513/answer/3566730694?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-19】 艾尔登法环DLC剧情解析：你不知道的黄金树之影（上）](http://zhuanlan.zhihu.com/p/706431098?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-19】 游戏 UI 谈话会](http://zhuanlan.zhihu.com/p/464771892?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-16】 独立游戏《曼尼汉堡店》在中国莫名奇妙破圈，如何评价独游“墙外开花墙内香”的这种现象？](http://www.zhihu.com/question/661344453/answer/3563870825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-07-15】 钢铁雄心4  非作战状态时，部队的装备损耗怎么看？](http://www.zhihu.com/question/661363752/answer/3559991405?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-15】 光荣公司的历史观点有什么特色？](http://www.zhihu.com/question/40910862/answer/912557535?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-15】 历代的《三国志》里有哪些细思恐极的细节？](http://www.zhihu.com/question/51665665/answer/1054518713?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-11】 买游戏机 Steam Deck 和 Switch 该怎么选？](http://www.zhihu.com/question/582923472/answer/2894656134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-24 05:13:47
+:alarm_clock: 更新时间: 2024-07-25 05:13:48

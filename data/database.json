@@ -753,6 +753,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "久违了香港：我的西贡行山看海记",
+                "link": "https://sspai.com/post/90192",
+                "published": "2024-07-25"
+            },
+            {
+                "title": "派早报：Adobe Illustrator 和 Photoshop 迎来新的 AI 功能等",
+                "link": "https://sspai.com/post/90793",
+                "published": "2024-07-25"
+            },
+            {
+                "title": "少数派开啥车｜捡漏还是血亏？13年前的大众甲壳虫还能买吗？",
+                "link": "https://sspai.com/post/90753",
+                "published": "2024-07-24"
+            },
+            {
+                "title": "在家做一个魔法师，智能家居也可以动「手」不动口",
+                "link": "https://sspai.com/post/90675",
+                "published": "2024-07-24"
+            },
+            {
                 "title": "用 xdg-ninja「整治」杂乱的 Linux 家目录",
                 "link": "https://sspai.com/post/90480",
                 "published": "2024-07-24"
@@ -50979,6 +50999,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "为什么《信长之野望16》有2206个武将，而《三国志14》才1000个武将？三国还没信野的一半！？",
+                "link": "http://www.zhihu.com/question/660987513/answer/3566730694?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-25"
+            },
+            {
                 "title": "艾尔登法环DLC剧情解析：你不知道的黄金树之影（上）",
                 "link": "http://zhuanlan.zhihu.com/p/706431098?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-07-19"
@@ -60204,7 +60229,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
