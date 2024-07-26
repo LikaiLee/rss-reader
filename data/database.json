@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术",
+                "link": "http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html",
+                "published": "2024-07-26"
+            },
+            {
                 "title": "科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃",
                 "link": "http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html",
                 "published": "2024-07-19"
@@ -745,13 +750,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "业余复合创作者的旅程：如何开始并坚持做一个小内容生产者",
+                "link": "https://sspai.com/post/90765",
+                "published": "2024-07-26"
+            },
+            {
+                "title": "派早报：Apple 宣布推出 Apple Maps 网页版、Gemini 1.5 Flash 开放等",
+                "link": "https://sspai.com/post/90837",
+                "published": "2024-07-26"
+            },
+            {
+                "title": "新玩意 189｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/90800",
+                "published": "2024-07-25"
+            },
+            {
+                "title": "随时看热闹、轻松看门道：2024 巴黎奥运观赛指南",
+                "link": "https://sspai.com/post/90797",
+                "published": "2024-07-25"
+            },
             {
                 "title": "久违了香港：我的西贡行山看海记",
                 "link": "https://sspai.com/post/90192",
@@ -60229,7 +60254,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

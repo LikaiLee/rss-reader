@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-07-26】 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html)
 * [【2024-07-19】 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)
 * [【2024-07-12】 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)
 * [【2024-07-05】 科技爱好者周刊（第 307 期）：不要看重 Product Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)
@@ -25,7 +26,6 @@
 * [【2024-06-14】 科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html)
 * [【2024-06-07】 科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html)
 * [【2024-05-31】 科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html)
-* [【2024-05-29】 分布式数据库入门：以国产数据库 TDSQL 为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-07-26】 业余复合创作者的旅程：如何开始并坚持做一个小内容生产者](https://sspai.com/post/90765)
+* [【2024-07-26】 派早报：Apple 宣布推出 Apple Maps 网页版、Gemini 1.5 Flash 开放等](https://sspai.com/post/90837)
+* [【2024-07-25】 新玩意 189｜少数派的编辑们最近买了啥？](https://sspai.com/post/90800)
+* [【2024-07-25】 随时看热闹、轻松看门道：2024 巴黎奥运观赛指南](https://sspai.com/post/90797)
 * [【2024-07-25】 久违了香港：我的西贡行山看海记](https://sspai.com/post/90192)
 * [【2024-07-25】 派早报：Adobe Illustrator 和 Photoshop 迎来新的 AI 功能等](https://sspai.com/post/90793)
 * [【2024-07-24】 少数派开啥车｜捡漏还是血亏？13年前的大众甲壳虫还能买吗？](https://sspai.com/post/90753)
 * [【2024-07-24】 在家做一个魔法师，智能家居也可以动「手」不动口](https://sspai.com/post/90675)
 * [【2024-07-24】 用 xdg-ninja「整治」杂乱的 Linux 家目录](https://sspai.com/post/90480)
 * [【2024-07-23】 派早报：英特尔将修复部分酷睿台式机处理器的稳定性问题等](https://sspai.com/post/90755)
-* [【2024-07-23】 社区速递 054 | 你没见过的社区文章、一周最热评、派友用的翻译服务](https://sspai.com/post/90736)
-* [【2024-07-23】 盖是「蓝屏」的，但锅不全是微软的：聊聊近期的 Windows 大规模宕机](https://sspai.com/post/90673)
-* [【2024-07-23】 一日一技 | 使用 Docker 为 iCloud 照片生成本地备份](https://sspai.com/post/90641)
-* [【2024-07-23】 派早报：WPS 与豆包否认 AI 层面任何形式合作等](https://sspai.com/post/90712)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-25 05:13:48
+:alarm_clock: 更新时间: 2024-07-26 05:14:14
