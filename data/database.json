@@ -750,13 +750,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "用上大模型翻译之后，机器更像人类了吗？",
+                "link": "https://sspai.com/post/90874",
+                "published": "2024-07-27"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/90868",
+                "published": "2024-07-26"
+            },
+            {
+                "title": "少数派编辑部怎么用 AI 打工？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-240726",
+                "published": "2024-07-26"
+            },
+            {
+                "title": "结绳计算远古事，临鱼摹鸟象字生：如何制作一款字形输入法",
+                "link": "https://sspai.com/post/90816",
+                "published": "2024-07-26"
+            },
             {
                 "title": "业余复合创作者的旅程：如何开始并坚持做一个小内容生产者",
                 "link": "https://sspai.com/post/90765",

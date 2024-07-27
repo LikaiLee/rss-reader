@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-07-27】 用上大模型翻译之后，机器更像人类了吗？](https://sspai.com/post/90874)
+* [【2024-07-26】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/90868)
+* [【2024-07-26】 少数派编辑部怎么用 AI 打工？](https://sspai.com/prime/story/zhuanglesha-240726)
+* [【2024-07-26】 结绳计算远古事，临鱼摹鸟象字生：如何制作一款字形输入法](https://sspai.com/post/90816)
 * [【2024-07-26】 业余复合创作者的旅程：如何开始并坚持做一个小内容生产者](https://sspai.com/post/90765)
 * [【2024-07-26】 派早报：Apple 宣布推出 Apple Maps 网页版、Gemini 1.5 Flash 开放等](https://sspai.com/post/90837)
 * [【2024-07-25】 新玩意 189｜少数派的编辑们最近买了啥？](https://sspai.com/post/90800)
 * [【2024-07-25】 随时看热闹、轻松看门道：2024 巴黎奥运观赛指南](https://sspai.com/post/90797)
 * [【2024-07-25】 久违了香港：我的西贡行山看海记](https://sspai.com/post/90192)
 * [【2024-07-25】 派早报：Adobe Illustrator 和 Photoshop 迎来新的 AI 功能等](https://sspai.com/post/90793)
-* [【2024-07-24】 少数派开啥车｜捡漏还是血亏？13年前的大众甲壳虫还能买吗？](https://sspai.com/post/90753)
-* [【2024-07-24】 在家做一个魔法师，智能家居也可以动「手」不动口](https://sspai.com/post/90675)
-* [【2024-07-24】 用 xdg-ninja「整治」杂乱的 Linux 家目录](https://sspai.com/post/90480)
-* [【2024-07-23】 派早报：英特尔将修复部分酷睿台式机处理器的稳定性问题等](https://sspai.com/post/90755)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-26 05:14:14
+:alarm_clock: 更新时间: 2024-07-27 05:13:17
