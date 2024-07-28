@@ -758,6 +758,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫步指南：沈阳，共和国长子中的硬核担当",
+                "link": "https://sspai.com/post/89947",
+                "published": "2024-07-28"
+            },
+            {
                 "title": "用上大模型翻译之后，机器更像人类了吗？",
                 "link": "https://sspai.com/post/90874",
                 "published": "2024-07-27"
@@ -20588,7 +20593,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
