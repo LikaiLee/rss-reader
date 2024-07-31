@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+5】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-07-31】 派早报：抖音上线违规作品修改功能等](https://sspai.com/post/91002)
+* [【2024-07-30】 社区速递 055 | 你没见过的社区文章、一周最热评、夏日派友翻包](https://sspai.com/post/90990)
+* [【2024-07-30】 在曲线中寻找秩序与和谐：跟着 Apple Watch 初识产品工业设计](https://sspai.com/post/90882)
 * [【2024-07-30】 派早报：闲鱼网页版回归、微软 Xbox 360 游戏商店正式关闭等](https://sspai.com/post/90967)
 * [【2024-07-29】 BlackBerry 如何在 9·11 事件中赢得信赖](https://sspai.com/prime/story/vintage-tech-stories-blackberry-3)
 * [【2024-07-29】 派评 | 近期值得关注的 App](https://sspai.com/post/90930)
@@ -42,9 +45,6 @@
 * [【2024-07-29】 派早报：淘宝天猫收取软件服务费，放松仅退款规则](https://sspai.com/post/90898)
 * [【2024-07-28】 城市漫步指南：沈阳，共和国长子中的硬核担当](https://sspai.com/post/89947)
 * [【2024-07-27】 用上大模型翻译之后，机器更像人类了吗？](https://sspai.com/post/90874)
-* [【2024-07-26】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/90868)
-* [【2024-07-26】 少数派编辑部怎么用 AI 打工？](https://sspai.com/prime/story/zhuanglesha-240726)
-* [【2024-07-26】 结绳计算远古事，临鱼摹鸟象字生：如何制作一款字形输入法](https://sspai.com/post/90816)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-30 05:14:36
+:alarm_clock: 更新时间: 2024-07-31 05:12:00
