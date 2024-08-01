@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-08-01】 vivo X100 Ultra: 「100」尺杆头，愿影像更进步](https://sspai.com/post/90906)
+* [【2024-08-01】 派早报：Nothing Phone (2a) Plus 发布、高通推出第二代骁龙 4s 平台等](https://sspai.com/post/91061)
+* [【2024-07-31】 探索创作方法、找寻创作核心，他们选择了 iPad](https://sspai.com/post/91034)
+* [【2024-07-31】 以「性价比」之名：一次 4 天 3 夜的东京旅行](https://sspai.com/post/90047)
+* [【2024-07-31】 本月玩什么 | 祇：女神之路、Flock、绘夏](https://sspai.com/post/91005)
 * [【2024-07-31】 派早报：抖音上线违规作品修改功能等](https://sspai.com/post/91002)
 * [【2024-07-30】 社区速递 055 | 你没见过的社区文章、一周最热评、夏日派友翻包](https://sspai.com/post/90990)
 * [【2024-07-30】 在曲线中寻找秩序与和谐：跟着 Apple Watch 初识产品工业设计](https://sspai.com/post/90882)
 * [【2024-07-30】 派早报：闲鱼网页版回归、微软 Xbox 360 游戏商店正式关闭等](https://sspai.com/post/90967)
 * [【2024-07-29】 BlackBerry 如何在 9·11 事件中赢得信赖](https://sspai.com/prime/story/vintage-tech-stories-blackberry-3)
-* [【2024-07-29】 派评 | 近期值得关注的 App](https://sspai.com/post/90930)
-* [【2024-07-29】 铝型材 DIY 实录：做一个和桌面更搭的电脑支架](https://sspai.com/post/90884)
-* [【2024-07-29】 派早报：淘宝天猫收取软件服务费，放松仅退款规则](https://sspai.com/post/90898)
-* [【2024-07-28】 城市漫步指南：沈阳，共和国长子中的硬核担当](https://sspai.com/post/89947)
-* [【2024-07-27】 用上大模型翻译之后，机器更像人类了吗？](https://sspai.com/post/90874)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-08-01】 为什么草莓这种水果一旦做成果汁或零食，味道闻起来没有那么清新？甚至有点臭臭的？](http://www.zhihu.com/question/663011823/answer/3579954478?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-07-31】 数学教授教体育把 9 名校队选手送进巴黎奥运会，这是怎么做到的？数学对游泳的贡献能有多大？](http://www.zhihu.com/question/663022763/answer/3579377534?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-30】 为什么不禁止ENF板材？](http://www.zhihu.com/question/654101680/answer/3484076605?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-30】 2024 知乎创作者盐沙龙·上海站活动回顾](http://zhuanlan.zhihu.com/p/711570894?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-29】 关于巴黎，你有哪些值得聊聊的旅行记忆？](http://www.zhihu.com/question/662628483/answer/3577202695?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-07-25】 为什么《信长之野望16》有2206个武将，而《三国志14》才1000个武将？三国还没信野的一半！？](http://www.zhihu.com/question/660987513/answer/3566730694?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-19】 艾尔登法环DLC剧情解析：你不知道的黄金树之影（上）](http://zhuanlan.zhihu.com/p/706431098?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-07-19】 游戏 UI 谈话会](http://zhuanlan.zhihu.com/p/464771892?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-16】 独立游戏《曼尼汉堡店》在中国莫名奇妙破圈，如何评价独游“墙外开花墙内香”的这种现象？](http://www.zhihu.com/question/661344453/answer/3563870825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-16】 面对新技术浪潮，如何找到好的产品落地方向｜AI 先行者沙龙圆桌实录](http://zhuanlan.zhihu.com/p/709153865?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-07-31 05:12:00
+:alarm_clock: 更新时间: 2024-08-01 05:13:40

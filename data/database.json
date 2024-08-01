@@ -758,6 +758,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "vivo X100 Ultra: 「100」尺杆头，愿影像更进步",
+                "link": "https://sspai.com/post/90906",
+                "published": "2024-08-01"
+            },
+            {
+                "title": "派早报：Nothing Phone (2a) Plus 发布、高通推出第二代骁龙 4s 平台等",
+                "link": "https://sspai.com/post/91061",
+                "published": "2024-08-01"
+            },
+            {
+                "title": "探索创作方法、找寻创作核心，他们选择了 iPad",
+                "link": "https://sspai.com/post/91034",
+                "published": "2024-07-31"
+            },
+            {
+                "title": "以「性价比」之名：一次 4 天 3 夜的东京旅行",
+                "link": "https://sspai.com/post/90047",
+                "published": "2024-07-31"
+            },
+            {
+                "title": "本月玩什么 | 祇：女神之路、Flock、绘夏",
+                "link": "https://sspai.com/post/91005",
+                "published": "2024-07-31"
+            },
+            {
                 "title": "派早报：抖音上线违规作品修改功能等",
                 "link": "https://sspai.com/post/91002",
                 "published": "2024-07-31"
@@ -20633,7 +20658,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -51089,6 +51114,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "为什么草莓这种水果一旦做成果汁或零食，味道闻起来没有那么清新？甚至有点臭臭的？",
+                "link": "http://www.zhihu.com/question/663011823/answer/3579954478?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-01"
+            },
+            {
+                "title": "数学教授教体育把 9 名校队选手送进巴黎奥运会，这是怎么做到的？数学对游泳的贡献能有多大？",
+                "link": "http://www.zhihu.com/question/663022763/answer/3579377534?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-07-31"
+            },
+            {
                 "title": "为什么不禁止ENF板材？",
                 "link": "http://www.zhihu.com/question/654101680/answer/3484076605?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-07-30"
@@ -60344,7 +60379,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
