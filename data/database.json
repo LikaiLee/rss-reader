@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 311 期）：低利率与长期项目",
+                "link": "http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html",
+                "published": "2024-08-02"
+            },
+            {
                 "title": "科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术",
                 "link": "http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html",
                 "published": "2024-07-26"
@@ -750,13 +755,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "2024 年，我是如何使用 Windows PC 的",
+                "link": "https://sspai.com/post/90272",
+                "published": "2024-08-02"
+            },
+            {
+                "title": "派早报：Google 发布三款开放式 AI 模型、Ampere 推出 AmpereOne Aurora 处理器",
+                "link": "https://sspai.com/post/91093",
+                "published": "2024-08-02"
+            },
+            {
+                "title": "iPhone 通话录音姗姗来迟，但好像和其他手机不太一样",
+                "link": "https://sspai.com/post/91078",
+                "published": "2024-08-01"
+            },
+            {
+                "title": "新玩意 190｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/91073",
+                "published": "2024-08-01"
+            },
             {
                 "title": "vivo X100 Ultra: 「100」尺杆头，愿影像更进步",
                 "link": "https://sspai.com/post/90906",
@@ -20658,7 +20683,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -60379,7 +60404,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,

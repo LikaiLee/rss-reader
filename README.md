@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-08-02】 科技爱好者周刊（第 311 期）：低利率与长期项目](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html)
 * [【2024-07-26】 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html)
 * [【2024-07-19】 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)
 * [【2024-07-12】 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)
@@ -25,7 +26,6 @@
 * [【2024-06-21】 科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)
 * [【2024-06-14】 科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html)
 * [【2024-06-07】 科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html)
-* [【2024-05-31】 科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-08-02】 2024 年，我是如何使用 Windows PC 的](https://sspai.com/post/90272)
+* [【2024-08-02】 派早报：Google 发布三款开放式 AI 模型、Ampere 推出 AmpereOne Aurora 处理器](https://sspai.com/post/91093)
+* [【2024-08-01】 iPhone 通话录音姗姗来迟，但好像和其他手机不太一样](https://sspai.com/post/91078)
+* [【2024-08-01】 新玩意 190｜少数派的编辑们最近买了啥？](https://sspai.com/post/91073)
 * [【2024-08-01】 vivo X100 Ultra: 「100」尺杆头，愿影像更进步](https://sspai.com/post/90906)
 * [【2024-08-01】 派早报：Nothing Phone (2a) Plus 发布、高通推出第二代骁龙 4s 平台等](https://sspai.com/post/91061)
 * [【2024-07-31】 探索创作方法、找寻创作核心，他们选择了 iPad](https://sspai.com/post/91034)
 * [【2024-07-31】 以「性价比」之名：一次 4 天 3 夜的东京旅行](https://sspai.com/post/90047)
 * [【2024-07-31】 本月玩什么 | 祇：女神之路、Flock、绘夏](https://sspai.com/post/91005)
 * [【2024-07-31】 派早报：抖音上线违规作品修改功能等](https://sspai.com/post/91002)
-* [【2024-07-30】 社区速递 055 | 你没见过的社区文章、一周最热评、夏日派友翻包](https://sspai.com/post/90990)
-* [【2024-07-30】 在曲线中寻找秩序与和谐：跟着 Apple Watch 初识产品工业设计](https://sspai.com/post/90882)
-* [【2024-07-30】 派早报：闲鱼网页版回归、微软 Xbox 360 游戏商店正式关闭等](https://sspai.com/post/90967)
-* [【2024-07-29】 BlackBerry 如何在 9·11 事件中赢得信赖](https://sspai.com/prime/story/vintage-tech-stories-blackberry-3)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-08-01 05:13:40
+:alarm_clock: 更新时间: 2024-08-02 05:14:09
