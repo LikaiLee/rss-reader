@@ -755,13 +755,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "线下活动·七夕特别版｜就让花草替我表白",
+                "link": "https://sspai.com/post/90973",
+                "published": "2024-08-03"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/91111",
+                "published": "2024-08-02"
+            },
+            {
+                "title": "七夕送礼不抓狂，这是派商店为你准备的送礼清单",
+                "link": "https://sspai.com/post/91092",
+                "published": "2024-08-02"
+            },
+            {
+                "title": "「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治",
+                "link": "https://sspai.com/post/74761",
+                "published": "2024-08-02"
+            },
             {
                 "title": "2024 年，我是如何使用 Windows PC 的",
                 "link": "https://sspai.com/post/90272",
@@ -51139,6 +51159,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "有网友巴黎奥运会赛前发文「中国游泳主要问题是有氧能力被废了」从运动训练角度看，他说的有道理吗？",
+                "link": "http://www.zhihu.com/question/663056543/answer/3580660212?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-02"
+            },
+            {
+                "title": "传统服饰中有哪些特别的设计，在如今看来依旧非常潮？",
+                "link": "http://www.zhihu.com/question/661141249/answer/3581858204?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-02"
+            },
+            {
+                "title": "2024 年巴黎奥运会各国代表团都穿什么牌子的入场服？你觉得哪个代表团的服装最好看？",
+                "link": "http://www.zhihu.com/question/662656626/answer/3574664561?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-02"
+            },
+            {
+                "title": "如果第一届奥运会的选手穿越到今天，会对会场上哪些科技感到震撼？",
+                "link": "http://www.zhihu.com/question/473879903/answer/2040789664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-02"
+            },
+            {
+                "title": "患「僵人综合征」的席琳·迪翁再次亮相奥运会开幕式，如何评价她的表演？这种疾病可以被治愈吗？",
+                "link": "http://www.zhihu.com/question/662618179/answer/3574137389?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-02"
+            },
+            {
                 "title": "为什么草莓这种水果一旦做成果汁或零食，味道闻起来没有那么清新？甚至有点臭臭的？",
                 "link": "http://www.zhihu.com/question/663011823/answer/3579954478?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-01"
@@ -60404,7 +60449,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 5
     },
     {
         "id": 4,
