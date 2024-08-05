@@ -763,6 +763,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫步指南：海风、海景，神户人的霓虹生活",
+                "link": "https://sspai.com/post/90074",
+                "published": "2024-08-05"
+            },
+            {
+                "title": "派早报：苹果就内购分成问题向腾讯和字节跳动施压",
+                "link": "https://sspai.com/post/91149",
+                "published": "2024-08-05"
+            },
+            {
+                "title": "七月 Notion 动态：中文版或将上线、AI 功能迎来更新",
+                "link": "https://sspai.com/post/90997",
+                "published": "2024-08-04"
+            },
+            {
                 "title": "线下活动·七夕特别版｜就让花草替我表白",
                 "link": "https://sspai.com/post/90973",
                 "published": "2024-08-03"
@@ -20703,7 +20718,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -51159,6 +51174,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "看樊振东夺冠比赛，在为他喊加油的同时，我有一个疑问，是外国运动员不出汗，还是中国队的衣服不吸汗？",
+                "link": "http://www.zhihu.com/question/663449911/answer/3584072120?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-05"
+            },
+            {
+                "title": "看起来高难度的奥运项目是如何成为大众日常运动项目的？",
+                "link": "http://www.zhihu.com/question/662656425/answer/3582664807?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-05"
+            },
+            {
                 "title": "有网友巴黎奥运会赛前发文「中国游泳主要问题是有氧能力被废了」从运动训练角度看，他说的有道理吗？",
                 "link": "http://www.zhihu.com/question/663056543/answer/3580660212?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-02"
@@ -60449,7 +60474,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
