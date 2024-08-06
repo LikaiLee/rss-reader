@@ -763,6 +763,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "有争议，无悬念：我的一年期 MacBook Pro使用记录与随想",
+                "link": "https://sspai.com/post/91091",
+                "published": "2024-08-06"
+            },
+            {
+                "title": "派早报：腾讯文件助手将停运，网信办公布今年 7 月网络举报受理数据等",
+                "link": "https://sspai.com/post/91185",
+                "published": "2024-08-06"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/91173",
+                "published": "2024-08-05"
+            },
+            {
+                "title": "App+1 | Mebot 离真正「懂你」的小助手还有多远？",
+                "link": "https://sspai.com/post/91127",
+                "published": "2024-08-05"
+            },
+            {
                 "title": "城市漫步指南：海风、海景，神户人的霓虹生活",
                 "link": "https://sspai.com/post/90074",
                 "published": "2024-08-05"
@@ -20718,7 +20738,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -51174,6 +51194,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "马拉松职业运动员一场比赛平均心率这么高是怎么顶下全程的？",
+                "link": "http://www.zhihu.com/question/629121053/answer/3528591340?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-05"
+            },
+            {
                 "title": "看樊振东夺冠比赛，在为他喊加油的同时，我有一个疑问，是外国运动员不出汗，还是中国队的衣服不吸汗？",
                 "link": "http://www.zhihu.com/question/663449911/answer/3584072120?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-05"
@@ -60474,7 +60499,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,
