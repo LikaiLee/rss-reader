@@ -763,6 +763,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：鸿蒙智行享界 S9 正式发布、Google 推出 TV Streamer 机顶盒等",
+                "link": "https://sspai.com/post/91241",
+                "published": "2024-08-07"
+            },
+            {
+                "title": "功能加量还「减价」：全新 Beats Pill 首发体验",
+                "link": "https://sspai.com/post/91204",
+                "published": "2024-08-06"
+            },
+            {
+                "title": "具透 Plus | 三大浏览器争相介绍隐私保护「好」消息",
+                "link": "https://sspai.com/prime/story/inside-release-notes-240806",
+                "published": "2024-08-06"
+            },
+            {
+                "title": "社区速递 056 | 你没见过的社区文章、一周最热评、派友给学子的购机建议",
+                "link": "https://sspai.com/post/91207",
+                "published": "2024-08-06"
+            },
+            {
                 "title": "有争议，无悬念：我的一年期 MacBook Pro使用记录与随想",
                 "link": "https://sspai.com/post/91091",
                 "published": "2024-08-06"
@@ -51194,6 +51214,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "游戏《上古卷轴5》称得上为「神作」吗？",
+                "link": "http://www.zhihu.com/question/29066139/answer/3307647382?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-06"
+            },
+            {
+                "title": "「回归性原理：交界地就是地球村！」——论《艾尔登法环》中的现实原型(新大陆篇)",
+                "link": "http://zhuanlan.zhihu.com/p/673425527?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-06"
+            },
+            {
                 "title": "马拉松职业运动员一场比赛平均心率这么高是怎么顶下全程的？",
                 "link": "http://www.zhihu.com/question/629121053/answer/3528591340?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-05"
@@ -60499,7 +60529,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,

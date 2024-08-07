@@ -5,7 +5,7 @@
 * [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-08-07】 派早报：鸿蒙智行享界 S9 正式发布、Google 推出 TV Streamer 机顶盒等](https://sspai.com/post/91241)
+* [【2024-08-06】 功能加量还「减价」：全新 Beats Pill 首发体验](https://sspai.com/post/91204)
+* [【2024-08-06】 具透 Plus | 三大浏览器争相介绍隐私保护「好」消息](https://sspai.com/prime/story/inside-release-notes-240806)
+* [【2024-08-06】 社区速递 056 | 你没见过的社区文章、一周最热评、派友给学子的购机建议](https://sspai.com/post/91207)
 * [【2024-08-06】 有争议，无悬念：我的一年期 MacBook Pro使用记录与随想](https://sspai.com/post/91091)
 * [【2024-08-06】 派早报：腾讯文件助手将停运，网信办公布今年 7 月网络举报受理数据等](https://sspai.com/post/91185)
 * [【2024-08-05】 派评 | 近期值得关注的 App](https://sspai.com/post/91173)
 * [【2024-08-05】 App+1 | Mebot 离真正「懂你」的小助手还有多远？](https://sspai.com/post/91127)
 * [【2024-08-05】 城市漫步指南：海风、海景，神户人的霓虹生活](https://sspai.com/post/90074)
 * [【2024-08-05】 派早报：苹果就内购分成问题向腾讯和字节跳动施压](https://sspai.com/post/91149)
-* [【2024-08-04】 七月 Notion 动态：中文版或将上线、AI 功能迎来更新](https://sspai.com/post/90997)
-* [【2024-08-03】 线下活动·七夕特别版｜就让花草替我表白](https://sspai.com/post/90973)
-* [【2024-08-02】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/91111)
-* [【2024-08-02】 七夕送礼不抓狂，这是派商店为你准备的送礼清单](https://sspai.com/post/91092)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-08-06】 游戏《上古卷轴5》称得上为「神作」吗？](http://www.zhihu.com/question/29066139/answer/3307647382?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-08-06】 「回归性原理：交界地就是地球村！」——论《艾尔登法环》中的现实原型(新大陆篇)](http://zhuanlan.zhihu.com/p/673425527?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-05】 马拉松职业运动员一场比赛平均心率这么高是怎么顶下全程的？](http://www.zhihu.com/question/629121053/answer/3528591340?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-05】 看樊振东夺冠比赛，在为他喊加油的同时，我有一个疑问，是外国运动员不出汗，还是中国队的衣服不吸汗？](http://www.zhihu.com/question/663449911/answer/3584072120?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-05】 看起来高难度的奥运项目是如何成为大众日常运动项目的？](http://www.zhihu.com/question/662656425/answer/3582664807?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-08-02】 2024 年巴黎奥运会各国代表团都穿什么牌子的入场服？你觉得哪个代表团的服装最好看？](http://www.zhihu.com/question/662656626/answer/3574664561?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-02】 如果第一届奥运会的选手穿越到今天，会对会场上哪些科技感到震撼？](http://www.zhihu.com/question/473879903/answer/2040789664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-02】 患「僵人综合征」的席琳·迪翁再次亮相奥运会开幕式，如何评价她的表演？这种疾病可以被治愈吗？](http://www.zhihu.com/question/662618179/answer/3574137389?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-01】 为什么草莓这种水果一旦做成果汁或零食，味道闻起来没有那么清新？甚至有点臭臭的？](http://www.zhihu.com/question/663011823/answer/3579954478?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-07-31】 数学教授教体育把 9 名校队选手送进巴黎奥运会，这是怎么做到的？数学对游泳的贡献能有多大？](http://www.zhihu.com/question/663022763/answer/3579377534?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-08-06 05:13:59
+:alarm_clock: 更新时间: 2024-08-07 05:13:50
