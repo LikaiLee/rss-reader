@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-08-09】 「就像是三岁孩子的玩具」：黑莓如何在触屏时代失宠](https://sspai.com/prime/story/vintage-tech-stories-blackberry-4)
+* [【2024-08-09】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/91324)
+* [【2024-08-09】 六年六万六千公里：这是我的特斯拉 Model 3「完整版」体验](https://sspai.com/post/91307)
 * [【2024-08-09】 一日一技 | 手机不支持内录？用 Reaper 四步抢救录音效果](https://sspai.com/post/91097)
 * [【2024-08-09】 派早报：Disney+ 将开始严厉打击密码共享行为、联发科技发布 Helio G100](https://sspai.com/post/91308)
 * [【2024-08-08】 有奖征集：分享你的特洛克 Pixel 65 #桌面小世界#](https://sspai.com/post/91172)
@@ -42,9 +45,6 @@
 * [【2024-08-08】 4 年 223 场演出，为你总结这份 Livehouse 观演指南](https://sspai.com/post/91212)
 * [【2024-08-08】 寻源大圣之旅：就像是一场梦，醒来以后还是很感动](https://sspai.com/post/91218)
 * [【2024-08-08】 派早报：英特尔公布第 13、14 代桌面处理器延保细节、NVMe 2.1 规范发布等](https://sspai.com/post/91271)
-* [【2024-08-07】 城市漫步指南：济州岛的躺平之旅，雨季也别有风味](https://sspai.com/post/90668)
-* [【2024-08-07】 语言学习进入瓶颈期，如何突破？](https://sspai.com/post/91068)
-* [【2024-08-07】 派早报：鸿蒙智行享界 S9 正式发布、Google 推出 TV Streamer 机顶盒等](https://sspai.com/post/91241)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-08-09】 幼儿园放假，想带孩子练习跳绳，但总是学不会，有什么简单易懂的指导吗？](http://www.zhihu.com/question/661959444/answer/3567142996?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-08】 运动员在备战奥运赛事的日常训练中，有哪些意想不到的新科技加持呢？](http://www.zhihu.com/question/663593723/answer/3586049874?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-08】 奥运乒乓球决赛，为什么莫雷加德的衣服干爽而樊振东却大汗满身？](http://zhuanlan.zhihu.com/p/713295701?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-08】 看起来高难度的奥运项目是如何成为大众日常运动项目的？](http://www.zhihu.com/question/662656425/answer/3580406010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-08-05】 马拉松职业运动员一场比赛平均心率这么高是怎么顶下全程的？](http://www.zhihu.com/question/629121053/answer/3528591340?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-05】 看樊振东夺冠比赛，在为他喊加油的同时，我有一个疑问，是外国运动员不出汗，还是中国队的衣服不吸汗？](http://www.zhihu.com/question/663449911/answer/3584072120?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-05】 看起来高难度的奥运项目是如何成为大众日常运动项目的？](http://www.zhihu.com/question/662656425/answer/3582664807?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-02】 有网友巴黎奥运会赛前发文「中国游泳主要问题是有氧能力被废了」从运动训练角度看，他说的有道理吗？](http://www.zhihu.com/question/663056543/answer/3580660212?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-08-09 05:14:18
+:alarm_clock: 更新时间: 2024-08-10 05:12:39
