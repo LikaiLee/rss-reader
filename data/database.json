@@ -768,6 +768,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "你喜欢《I Really Want to Stay at Your House》吗？",
+                "link": "https://sspai.com/post/91340",
+                "published": "2024-08-10"
+            },
+            {
                 "title": "「就像是三岁孩子的玩具」：黑莓如何在触屏时代失宠",
                 "link": "https://sspai.com/prime/story/vintage-tech-stories-blackberry-4",
                 "published": "2024-08-09"
@@ -20823,7 +20828,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -60619,7 +60624,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
