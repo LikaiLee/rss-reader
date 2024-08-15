@@ -768,6 +768,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "长辈们的健康也能被量化：聊聊《中国健康老年人标准》",
+                "link": "https://sspai.com/post/91412",
+                "published": "2024-08-15"
+            },
+            {
+                "title": "派早报：Apple 确认将开放 NFC 功能、SteamOS 将支持第三方掌机等",
+                "link": "https://sspai.com/post/91485",
+                "published": "2024-08-15"
+            },
+            {
+                "title": "一台更实用的「iPhone」：小米 14 半年体验",
+                "link": "https://sspai.com/post/89643",
+                "published": "2024-08-14"
+            },
+            {
+                "title": "社区速递 057 | 你没见过的社区文章、一周最热评、派友七月买了啥",
+                "link": "https://sspai.com/post/91435",
+                "published": "2024-08-14"
+            },
+            {
                 "title": "Google 硬件发布会回顾：Gemini 分量管饱，AI 体验保真",
                 "link": "https://sspai.com/post/91450",
                 "published": "2024-08-14"
@@ -20888,7 +20908,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -51344,6 +51364,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "创业一年，人间三年",
+                "link": "http://zhuanlan.zhihu.com/p/714533901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-14"
+            },
+            {
+                "title": "你好！新同学｜2024 开学季活动正式启动🔥",
+                "link": "http://zhuanlan.zhihu.com/p/714038743?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-14"
+            },
+            {
                 "title": "从零开始制作一个属于你自己的GPU | 基于FPGA的图形加速器实现原理",
                 "link": "http://zhuanlan.zhihu.com/p/714400366?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-14"
@@ -60694,7 +60724,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
