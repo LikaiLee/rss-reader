@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+10】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-08-16】 科技爱好者周刊（第 313 期）：如果新加坡没有空调](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html)
 * [【2024-08-09】 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html)
 * [【2024-08-02】 科技爱好者周刊（第 311 期）：低利率与长期项目](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html)
 * [【2024-07-26】 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html)
@@ -25,7 +26,6 @@
 * [【2024-07-03】 AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html)
 * [【2024-06-28】 科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html)
 * [【2024-06-21】 科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)
-* [【2024-06-14】 科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
-* [【2024-08-15】 长辈们的健康也能被量化：聊聊《中国健康老年人标准》](https://sspai.com/post/91412)
-* [【2024-08-15】 派早报：Apple 确认将开放 NFC 功能、SteamOS 将支持第三方掌机等](https://sspai.com/post/91485)
-* [【2024-08-14】 一台更实用的「iPhone」：小米 14 半年体验](https://sspai.com/post/89643)
-* [【2024-08-14】 社区速递 057 | 你没见过的社区文章、一周最热评、派友七月买了啥](https://sspai.com/post/91435)
-* [【2024-08-14】 Google 硬件发布会回顾：Gemini 分量管饱，AI 体验保真](https://sspai.com/post/91450)
-* [【2024-08-14】 派早报：Google 发布 Pixel 9 系列等多款新品、Pantone 7 发布等](https://sspai.com/post/91445)
-* [【2024-08-13】 家庭居酒屋备货指南：基酒篇](https://sspai.com/prime/story/izakaya-at-home-base)
-* [【2024-08-13】 蝴蝶终飞去：蝶式键盘的前世今生](https://sspai.com/post/91242)
-* [【2024-08-13】 App+1 | 16 年前「没人玩」的游戏，续作也不按套路走：粘粘世界 2](https://sspai.com/post/91358)
-* [【2024-08-13】 装满数字生活与青春：我的背包进化史](https://sspai.com/post/91356)
+* [【2024-08-18】 不买可以先收藏 15：如何做一锅好吃的米饭](https://sspai.com/post/91338)
+* [【2024-08-17】 从游泳、骑行到跑步：浅析奥运金牌背后的科技变革](https://sspai.com/post/91394)
+* [【2024-08-17】 《黑神话：悟空》评测：敢问路在何方，路在脚下](https://sspai.com/post/91560)
+* [【2024-08-16】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/91553)
+* [【2024-08-16】 让你的回忆井然有序：不用花钱的 Lightroom Classic 照片整理方案](https://sspai.com/post/91248)
+* [【2024-08-16】 关于猴痘病毒，你现在需要了解这些](https://sspai.com/post/74231)
+* [【2024-08-16】 派早报：Beats Studio Pro 推出 Kim 特别版新配色等](https://sspai.com/post/91515)
+* [【2024-08-15】 2024 年屏蔽网页广告哪家强，以及一些本不该你操心的琐事](https://sspai.com/prime/story/adblocking-in-2024-recommendation-and-minutiae)
+* [【2024-08-15】 新玩意 191｜少数派的编辑们最近买了啥？](https://sspai.com/post/91507)
+* [【2024-08-15】 不当赛博文盲，N 个常见问题解决方案不求人](https://sspai.com/post/91469)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2024-08-16】 电影类型拓荒者乌尔善 一直在勇于试错的路上](http://zhuanlan.zhihu.com/p/714883186?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-08-16】 侠盗猎车手（GTA）5通关后，还能怎么玩，或者说还有哪些有趣的事情可以做？](http://www.zhihu.com/question/31333146/answer/2849644674?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-08-15】 我有一个绝妙的游戏点子，怎样才能把它做出来？——独立游戏可行性概念篇](http://zhuanlan.zhihu.com/p/713706470?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-14】 创业一年，人间三年](http://zhuanlan.zhihu.com/p/714533901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-14】 你好！新同学｜2024 开学季活动正式启动🔥](http://zhuanlan.zhihu.com/p/714038743?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-14】 从零开始制作一个属于你自己的GPU | 基于FPGA的图形加速器实现原理](http://zhuanlan.zhihu.com/p/714400366?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2024-08-09】 幼儿园放假，想带孩子练习跳绳，但总是学不会，有什么简单易懂的指导吗？](http://www.zhihu.com/question/661959444/answer/3567142996?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-08】 运动员在备战奥运赛事的日常训练中，有哪些意想不到的新科技加持呢？](http://www.zhihu.com/question/663593723/answer/3586049874?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-08】 奥运乒乓球决赛，为什么莫雷加德的衣服干爽而樊振东却大汗满身？](http://zhuanlan.zhihu.com/p/713295701?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-08】 看起来高难度的奥运项目是如何成为大众日常运动项目的？](http://www.zhihu.com/question/662656425/answer/3580406010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-08】 樊振东 0-2 落后选择更换球衣，随后找回状态完成大逆转，更换球衣从战术和心理层面有多大影响？](http://www.zhihu.com/question/663207247/answer/3581993787?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-06】 游戏《上古卷轴5》称得上为「神作」吗？](http://www.zhihu.com/question/29066139/answer/3307647382?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-08-15 05:14:20
+:alarm_clock: 更新时间: 2024-08-18 05:13:52

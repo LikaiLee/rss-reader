@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 313 期）：如果新加坡没有空调",
+                "link": "http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html",
+                "published": "2024-08-16"
+            },
+            {
                 "title": "科技爱好者周刊（第 312 期）：从英特尔看\"美国制造\"",
                 "link": "http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html",
                 "published": "2024-08-09"
@@ -760,13 +765,63 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "不买可以先收藏 15：如何做一锅好吃的米饭",
+                "link": "https://sspai.com/post/91338",
+                "published": "2024-08-18"
+            },
+            {
+                "title": "从游泳、骑行到跑步：浅析奥运金牌背后的科技变革",
+                "link": "https://sspai.com/post/91394",
+                "published": "2024-08-17"
+            },
+            {
+                "title": "《黑神话：悟空》评测：敢问路在何方，路在脚下",
+                "link": "https://sspai.com/post/91560",
+                "published": "2024-08-17"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/91553",
+                "published": "2024-08-16"
+            },
+            {
+                "title": "让你的回忆井然有序：不用花钱的 Lightroom Classic 照片整理方案",
+                "link": "https://sspai.com/post/91248",
+                "published": "2024-08-16"
+            },
+            {
+                "title": "关于猴痘病毒，你现在需要了解这些",
+                "link": "https://sspai.com/post/74231",
+                "published": "2024-08-16"
+            },
+            {
+                "title": "派早报：Beats Studio Pro 推出 Kim 特别版新配色等",
+                "link": "https://sspai.com/post/91515",
+                "published": "2024-08-16"
+            },
+            {
+                "title": "2024 年屏蔽网页广告哪家强，以及一些本不该你操心的琐事",
+                "link": "https://sspai.com/prime/story/adblocking-in-2024-recommendation-and-minutiae",
+                "published": "2024-08-15"
+            },
+            {
+                "title": "新玩意 191｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/91507",
+                "published": "2024-08-15"
+            },
+            {
+                "title": "不当赛博文盲，N 个常见问题解决方案不求人",
+                "link": "https://sspai.com/post/91469",
+                "published": "2024-08-15"
+            },
             {
                 "title": "长辈们的健康也能被量化：聊聊《中国健康老年人标准》",
                 "link": "https://sspai.com/post/91412",
@@ -20908,7 +20963,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 10
     },
     {
         "id": 2,
@@ -51364,6 +51419,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "电影类型拓荒者乌尔善 一直在勇于试错的路上",
+                "link": "http://zhuanlan.zhihu.com/p/714883186?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-16"
+            },
+            {
+                "title": "侠盗猎车手（GTA）5通关后，还能怎么玩，或者说还有哪些有趣的事情可以做？",
+                "link": "http://www.zhihu.com/question/31333146/answer/2849644674?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-16"
+            },
+            {
+                "title": "我有一个绝妙的游戏点子，怎样才能把它做出来？——独立游戏可行性概念篇",
+                "link": "http://zhuanlan.zhihu.com/p/713706470?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-15"
+            },
+            {
                 "title": "创业一年，人间三年",
                 "link": "http://zhuanlan.zhihu.com/p/714533901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-14"
@@ -60724,7 +60794,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 4,
