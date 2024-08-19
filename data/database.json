@@ -765,13 +765,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "让 AI 给新闻把把关：基于 Tasker 的资讯过滤与播报",
+                "link": "https://sspai.com/post/91424",
+                "published": "2024-08-19"
+            },
+            {
+                "title": "派早报：《堡垒之夜》通过 Epic 商店重返 iOS",
+                "link": "https://sspai.com/post/91600",
+                "published": "2024-08-19"
+            },
             {
                 "title": "不买可以先收藏 15：如何做一锅好吃的米饭",
                 "link": "https://sspai.com/post/91338",
@@ -20963,7 +20973,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -60794,7 +60804,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     },
     {
         "id": 4,

@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+10】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-08-19】 让 AI 给新闻把把关：基于 Tasker 的资讯过滤与播报](https://sspai.com/post/91424)
+* [【2024-08-19】 派早报：《堡垒之夜》通过 Epic 商店重返 iOS](https://sspai.com/post/91600)
 * [【2024-08-18】 不买可以先收藏 15：如何做一锅好吃的米饭](https://sspai.com/post/91338)
 * [【2024-08-17】 从游泳、骑行到跑步：浅析奥运金牌背后的科技变革](https://sspai.com/post/91394)
 * [【2024-08-17】 《黑神话：悟空》评测：敢问路在何方，路在脚下](https://sspai.com/post/91560)
@@ -43,8 +45,6 @@
 * [【2024-08-16】 关于猴痘病毒，你现在需要了解这些](https://sspai.com/post/74231)
 * [【2024-08-16】 派早报：Beats Studio Pro 推出 Kim 特别版新配色等](https://sspai.com/post/91515)
 * [【2024-08-15】 2024 年屏蔽网页广告哪家强，以及一些本不该你操心的琐事](https://sspai.com/prime/story/adblocking-in-2024-recommendation-and-minutiae)
-* [【2024-08-15】 新玩意 191｜少数派的编辑们最近买了啥？](https://sspai.com/post/91507)
-* [【2024-08-15】 不当赛博文盲，N 个常见问题解决方案不求人](https://sspai.com/post/91469)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-08-18 05:13:52
+:alarm_clock: 更新时间: 2024-08-19 05:14:05
