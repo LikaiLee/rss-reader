@@ -773,6 +773,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不等一个阳光明媚的晴天，让这些电影带你去海边",
+                "link": "https://sspai.com/post/91498",
+                "published": "2024-08-20"
+            },
+            {
+                "title": "派早报：Procreate 明确拒绝生成式 AI，网易云音乐发生服务器故障等",
+                "link": "https://sspai.com/post/91626",
+                "published": "2024-08-20"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/91620",
+                "published": "2024-08-19"
+            },
+            {
+                "title": "八个月里数台数码新品，我们用「众测」发现了骁龙芯片的更多惊喜",
+                "link": "https://sspai.com/post/91496",
+                "published": "2024-08-19"
+            },
+            {
+                "title": "寻源大圣：黑神话悟空背后的民俗及文化起源",
+                "link": "https://sspai.com/post/91582",
+                "published": "2024-08-19"
+            },
+            {
                 "title": "让 AI 给新闻把把关：基于 Tasker 的资讯过滤与播报",
                 "link": "https://sspai.com/post/91424",
                 "published": "2024-08-19"
@@ -20973,7 +20998,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -51429,6 +51454,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "去客厅化是否等同于多功能客厅，在现代空间设计中，如何赋予空间 N 种可能？",
+                "link": "http://www.zhihu.com/question/663770727/answer/3591925456?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-19"
+            },
+            {
                 "title": "电影类型拓荒者乌尔善 一直在勇于试错的路上",
                 "link": "http://zhuanlan.zhihu.com/p/714883186?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-16"
@@ -60804,7 +60834,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
