@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-08-21】 基于「在途时间」作旅行规划，这是我的方法和工具](https://sspai.com/post/91147)
+* [【2024-08-21】 派早报：网页版 Apple Podcasts 上线、树莓派 5 推出 2GB 版本等](https://sspai.com/post/91658)
+* [【2024-08-20】 社区速递 058 | 你没见过的社区文章、一周最热评、派友在用的电纸书](https://sspai.com/post/91639)
+* [【2024-08-20】 中文版全新上线，这 5 条建议伴你高效上手 Notion](https://sspai.com/post/80972)
 * [【2024-08-20】 不等一个阳光明媚的晴天，让这些电影带你去海边](https://sspai.com/post/91498)
 * [【2024-08-20】 派早报：Procreate 明确拒绝生成式 AI，网易云音乐发生服务器故障等](https://sspai.com/post/91626)
 * [【2024-08-19】 派评 | 近期值得关注的 App](https://sspai.com/post/91620)
 * [【2024-08-19】 八个月里数台数码新品，我们用「众测」发现了骁龙芯片的更多惊喜](https://sspai.com/post/91496)
 * [【2024-08-19】 寻源大圣：黑神话悟空背后的民俗及文化起源](https://sspai.com/post/91582)
 * [【2024-08-19】 让 AI 给新闻把把关：基于 Tasker 的资讯过滤与播报](https://sspai.com/post/91424)
-* [【2024-08-19】 派早报：《堡垒之夜》通过 Epic 商店重返 iOS](https://sspai.com/post/91600)
-* [【2024-08-18】 不买可以先收藏 15：如何做一锅好吃的米饭](https://sspai.com/post/91338)
-* [【2024-08-17】 从游泳、骑行到跑步：浅析奥运金牌背后的科技变革](https://sspai.com/post/91394)
-* [【2024-08-17】 《黑神话：悟空》评测：敢问路在何方，路在脚下](https://sspai.com/post/91560)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-08-21】 乌尔善：以新技术探索中国电影工业化之路](http://zhuanlan.zhihu.com/p/715661517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-19】 去客厅化是否等同于多功能客厅，在现代空间设计中，如何赋予空间 N 种可能？](http://www.zhihu.com/question/663770727/answer/3591925456?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-16】 电影类型拓荒者乌尔善 一直在勇于试错的路上](http://zhuanlan.zhihu.com/p/714883186?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-16】 侠盗猎车手（GTA）5通关后，还能怎么玩，或者说还有哪些有趣的事情可以做？](http://www.zhihu.com/question/31333146/answer/2849644674?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-08-14】 从零开始制作一个属于你自己的GPU | 基于FPGA的图形加速器实现原理](http://zhuanlan.zhihu.com/p/714400366?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-12】 本届奥运会上有没有人完成，足以吊打一个时代的成就？](http://www.zhihu.com/question/664002660/answer/3590919116?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-09】 幼儿园放假，想带孩子练习跳绳，但总是学不会，有什么简单易懂的指导吗？](http://www.zhihu.com/question/661959444/answer/3567142996?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-08】 运动员在备战奥运赛事的日常训练中，有哪些意想不到的新科技加持呢？](http://www.zhihu.com/question/663593723/answer/3586049874?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-08-20 05:13:10
+:alarm_clock: 更新时间: 2024-08-21 05:13:54
