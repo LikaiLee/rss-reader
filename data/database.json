@@ -773,6 +773,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "移动应用创新赛开赛，今年都有哪些新看点",
+                "link": "https://sspai.com/post/91683",
+                "published": "2024-08-22"
+            },
+            {
+                "title": "派早报：PICO 4 Ultra 发布、《纪念碑谷 3》首发 Netflix 等",
+                "link": "https://sspai.com/post/91697",
+                "published": "2024-08-22"
+            },
+            {
+                "title": "不用等苹果上线，用快捷指令实现 AI 陪读",
+                "link": "https://sspai.com/post/91597",
+                "published": "2024-08-21"
+            },
+            {
+                "title": "App+1 | 用 AI 选出好照片：基于 Aftershoot 和 Lightroom 的人像摄影工作流",
+                "link": "https://sspai.com/post/91608",
+                "published": "2024-08-21"
+            },
+            {
                 "title": "基于「在途时间」作旅行规划，这是我的方法和工具",
                 "link": "https://sspai.com/post/91147",
                 "published": "2024-08-21"
@@ -51473,6 +51493,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "《黑神话：悟空》的地图设计是否属于给美术设计让路的太严重了？",
+                "link": "http://www.zhihu.com/question/664877196/answer/3601519631?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-22"
+            },
             {
                 "title": "乌尔善：以新技术探索中国电影工业化之路",
                 "link": "http://zhuanlan.zhihu.com/p/715661517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
