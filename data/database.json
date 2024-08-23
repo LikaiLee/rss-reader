@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？",
+                "link": "http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html",
+                "published": "2024-08-23"
+            },
+            {
                 "title": "科技爱好者周刊（第 313 期）：如果新加坡没有空调",
                 "link": "http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html",
                 "published": "2024-08-16"
@@ -765,13 +770,48 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "与 AI 共个创：无代码经验的我开发了一款图文卡片小工具",
+                "link": "https://sspai.com/post/91443",
+                "published": "2024-08-23"
+            },
+            {
+                "title": "派早报：Windows 11 Recall 将在 10 月开启公测、贝锐推出自研操作系统 OrayOS",
+                "link": "https://sspai.com/post/91724",
+                "published": "2024-08-23"
+            },
+            {
+                "title": "时间不贫困：如何便捷、准确地记录自己的一天",
+                "link": "https://sspai.com/prime/story/ios-time-logging-suite",
+                "published": "2024-08-22"
+            },
+            {
+                "title": "把女朋友拍好看，技巧可能没有你以为的那么重要",
+                "link": "https://sspai.com/post/90666",
+                "published": "2024-08-22"
+            },
+            {
+                "title": "键盘鼠标都最低，派商店 Keychron 系列清仓促销专场",
+                "link": "https://sspai.com/post/91677",
+                "published": "2024-08-22"
+            },
+            {
+                "title": "一派 | 天命人，来聊聊你的《黑神话：悟空》游玩体验",
+                "link": "https://sspai.com/post/91709",
+                "published": "2024-08-22"
+            },
+            {
+                "title": "线下活动：不止于玩 |《黑神话：悟空》探索工坊及 3A 游戏差异视角研讨会",
+                "link": "https://sspai.com/post/91700",
+                "published": "2024-08-22"
+            },
             {
                 "title": "移动应用创新赛开赛，今年都有哪些新看点",
                 "link": "https://sspai.com/post/91683",
@@ -21038,7 +21078,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 7
     },
     {
         "id": 2,
@@ -51493,6 +51533,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "现在的食品科技相较于古代如此发达，那腐乳和方便面调料哪个更鲜？",
+                "link": "http://www.zhihu.com/question/661482971/answer/3602383984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-23"
+            },
             {
                 "title": "《黑神话：悟空》的地图设计是否属于给美术设计让路的太严重了？",
                 "link": "http://www.zhihu.com/question/664877196/answer/3601519631?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
