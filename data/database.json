@@ -770,13 +770,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "武功山穿越指南：「坚持」是最好的技巧",
+                "link": "https://sspai.com/post/91152",
+                "published": "2024-08-24"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/91745",
+                "published": "2024-08-23"
+            },
+            {
+                "title": "用快捷指令和 Python，做一个极简的时间记录器",
+                "link": "https://sspai.com/post/91260",
+                "published": "2024-08-23"
+            },
             {
                 "title": "与 AI 共个创：无代码经验的我开发了一款图文卡片小工具",
                 "link": "https://sspai.com/post/91443",
@@ -21078,7 +21093,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -51533,6 +51548,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "《黑神话：悟空》中的「观音禅院」有原型吗？它是哪个朝代的建筑风格？",
+                "link": "http://www.zhihu.com/question/664839272/answer/3602870819?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-23"
+            },
             {
                 "title": "现在的食品科技相较于古代如此发达，那腐乳和方便面调料哪个更鲜？",
                 "link": "http://www.zhihu.com/question/661482971/answer/3602383984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
