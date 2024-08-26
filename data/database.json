@@ -778,6 +778,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Game+1 | 希望永无二周目：把流氓软件做成游戏是什么体验？",
+                "link": "https://sspai.com/post/91347",
+                "published": "2024-08-26"
+            },
+            {
+                "title": "派早报：专家回应网号、网证热点问题",
+                "link": "https://sspai.com/post/91788",
+                "published": "2024-08-26"
+            },
+            {
+                "title": "一场高中生唱主角的黑客松：访谈 AdventureX 核心团队及优秀作品团队",
+                "link": "https://sspai.com/post/91777",
+                "published": "2024-08-25"
+            },
+            {
                 "title": "武功山穿越指南：「坚持」是最好的技巧",
                 "link": "https://sspai.com/post/91152",
                 "published": "2024-08-24"
@@ -21093,7 +21108,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -51549,6 +51564,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "全合成的意义是什么？",
+                "link": "http://www.zhihu.com/question/29971756/answer/3595718726?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-26"
+            },
+            {
                 "title": "《黑神话：悟空》中的「观音禅院」有原型吗？它是哪个朝代的建筑风格？",
                 "link": "http://www.zhihu.com/question/664839272/answer/3602870819?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-23"
@@ -60949,7 +60969,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

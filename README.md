@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-08-26】 Game+1 | 希望永无二周目：把流氓软件做成游戏是什么体验？](https://sspai.com/post/91347)
+* [【2024-08-26】 派早报：专家回应网号、网证热点问题](https://sspai.com/post/91788)
+* [【2024-08-25】 一场高中生唱主角的黑客松：访谈 AdventureX 核心团队及优秀作品团队](https://sspai.com/post/91777)
 * [【2024-08-24】 武功山穿越指南：「坚持」是最好的技巧](https://sspai.com/post/91152)
 * [【2024-08-23】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/91745)
 * [【2024-08-23】 用快捷指令和 Python，做一个极简的时间记录器](https://sspai.com/post/91260)
@@ -42,9 +45,6 @@
 * [【2024-08-23】 派早报：Windows 11 Recall 将在 10 月开启公测、贝锐推出自研操作系统 OrayOS](https://sspai.com/post/91724)
 * [【2024-08-22】 时间不贫困：如何便捷、准确地记录自己的一天](https://sspai.com/prime/story/ios-time-logging-suite)
 * [【2024-08-22】 把女朋友拍好看，技巧可能没有你以为的那么重要](https://sspai.com/post/90666)
-* [【2024-08-22】 键盘鼠标都最低，派商店 Keychron 系列清仓促销专场](https://sspai.com/post/91677)
-* [【2024-08-22】 一派 | 天命人，来聊聊你的《黑神话：悟空》游玩体验](https://sspai.com/post/91709)
-* [【2024-08-22】 线下活动：不止于玩 |《黑神话：悟空》探索工坊及 3A 游戏差异视角研讨会](https://sspai.com/post/91700)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-08-26】 全合成的意义是什么？](http://www.zhihu.com/question/29971756/answer/3595718726?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-23】 《黑神话：悟空》中的「观音禅院」有原型吗？它是哪个朝代的建筑风格？](http://www.zhihu.com/question/664839272/answer/3602870819?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-23】 现在的食品科技相较于古代如此发达，那腐乳和方便面调料哪个更鲜？](http://www.zhihu.com/question/661482971/answer/3602383984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-22】 《黑神话：悟空》的地图设计是否属于给美术设计让路的太严重了？](http://www.zhihu.com/question/664877196/answer/3601519631?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-08-16】 侠盗猎车手（GTA）5通关后，还能怎么玩，或者说还有哪些有趣的事情可以做？](http://www.zhihu.com/question/31333146/answer/2849644674?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-15】 我有一个绝妙的游戏点子，怎样才能把它做出来？——独立游戏可行性概念篇](http://zhuanlan.zhihu.com/p/713706470?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-14】 创业一年，人间三年](http://zhuanlan.zhihu.com/p/714533901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-14】 你好！新同学｜2024 开学季活动正式启动🔥](http://zhuanlan.zhihu.com/p/714038743?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-08-25 05:15:18
+:alarm_clock: 更新时间: 2024-08-26 05:13:53
