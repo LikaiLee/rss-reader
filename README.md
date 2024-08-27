@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-08-27】 App+1 | 用你可能也想要的细节，做一款更现代的倒数日应用：Pinning](https://sspai.com/post/91599)
+* [【2024-08-27】 派早报：国内无线充电新规即将施行，奇安信公布 Steam 被攻击细节等](https://sspai.com/post/91816)
+* [【2024-08-26】 派评 | 近期值得关注的 App](https://sspai.com/post/91806)
+* [【2024-08-26】 Torch 和 PlayBook：黑莓追赶多点触控的两次尴尬尝试](https://sspai.com/prime/story/vintage-tech-stories-blackberry-5)
+* [【2024-08-26】 重塑旅行体验：Exping 城市路线探索的幕后故事](https://sspai.com/post/91416)
 * [【2024-08-26】 Game+1 | 希望永无二周目：把流氓软件做成游戏是什么体验？](https://sspai.com/post/91347)
 * [【2024-08-26】 派早报：专家回应网号、网证热点问题](https://sspai.com/post/91788)
 * [【2024-08-25】 一场高中生唱主角的黑客松：访谈 AdventureX 核心团队及优秀作品团队](https://sspai.com/post/91777)
 * [【2024-08-24】 武功山穿越指南：「坚持」是最好的技巧](https://sspai.com/post/91152)
 * [【2024-08-23】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/91745)
-* [【2024-08-23】 用快捷指令和 Python，做一个极简的时间记录器](https://sspai.com/post/91260)
-* [【2024-08-23】 与 AI 共个创：无代码经验的我开发了一款图文卡片小工具](https://sspai.com/post/91443)
-* [【2024-08-23】 派早报：Windows 11 Recall 将在 10 月开启公测、贝锐推出自研操作系统 OrayOS](https://sspai.com/post/91724)
-* [【2024-08-22】 时间不贫困：如何便捷、准确地记录自己的一天](https://sspai.com/prime/story/ios-time-logging-suite)
-* [【2024-08-22】 把女朋友拍好看，技巧可能没有你以为的那么重要](https://sspai.com/post/90666)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-08-26】 抑郁症少年说「当面对老师的批评，没有人站在我的身后，非常痛苦」，与孩子「站在一起」这件事有多重要？](http://www.zhihu.com/question/664891874/answer/3606562901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-08-26】 目前来看，智能家居的「理想态」是什么？中国品牌在智能家居上有了哪些突破和可能性？](http://www.zhihu.com/question/663851174/answer/3589558198?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-26】 全合成的意义是什么？](http://www.zhihu.com/question/29971756/answer/3595718726?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-23】 《黑神话：悟空》中的「观音禅院」有原型吗？它是哪个朝代的建筑风格？](http://www.zhihu.com/question/664839272/answer/3602870819?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-23】 现在的食品科技相较于古代如此发达，那腐乳和方便面调料哪个更鲜？](http://www.zhihu.com/question/661482971/answer/3602383984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-08-19】 去客厅化是否等同于多功能客厅，在现代空间设计中，如何赋予空间 N 种可能？](http://www.zhihu.com/question/663770727/answer/3591925456?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-16】 电影类型拓荒者乌尔善 一直在勇于试错的路上](http://zhuanlan.zhihu.com/p/714883186?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-16】 侠盗猎车手（GTA）5通关后，还能怎么玩，或者说还有哪些有趣的事情可以做？](http://www.zhihu.com/question/31333146/answer/2849644674?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-15】 我有一个绝妙的游戏点子，怎样才能把它做出来？——独立游戏可行性概念篇](http://zhuanlan.zhihu.com/p/713706470?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-14】 创业一年，人间三年](http://zhuanlan.zhihu.com/p/714533901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-08-26 05:13:53
+:alarm_clock: 更新时间: 2024-08-27 05:14:06

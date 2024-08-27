@@ -778,6 +778,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 | 用你可能也想要的细节，做一款更现代的倒数日应用：Pinning",
+                "link": "https://sspai.com/post/91599",
+                "published": "2024-08-27"
+            },
+            {
+                "title": "派早报：国内无线充电新规即将施行，奇安信公布 Steam 被攻击细节等",
+                "link": "https://sspai.com/post/91816",
+                "published": "2024-08-27"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/91806",
+                "published": "2024-08-26"
+            },
+            {
+                "title": "Torch 和 PlayBook：黑莓追赶多点触控的两次尴尬尝试",
+                "link": "https://sspai.com/prime/story/vintage-tech-stories-blackberry-5",
+                "published": "2024-08-26"
+            },
+            {
+                "title": "重塑旅行体验：Exping 城市路线探索的幕后故事",
+                "link": "https://sspai.com/post/91416",
+                "published": "2024-08-26"
+            },
+            {
                 "title": "Game+1 | 希望永无二周目：把流氓软件做成游戏是什么体验？",
                 "link": "https://sspai.com/post/91347",
                 "published": "2024-08-26"
@@ -21108,7 +21133,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -51564,6 +51589,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "抑郁症少年说「当面对老师的批评，没有人站在我的身后，非常痛苦」，与孩子「站在一起」这件事有多重要？",
+                "link": "http://www.zhihu.com/question/664891874/answer/3606562901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-26"
+            },
+            {
+                "title": "目前来看，智能家居的「理想态」是什么？中国品牌在智能家居上有了哪些突破和可能性？",
+                "link": "http://www.zhihu.com/question/663851174/answer/3589558198?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-26"
+            },
+            {
                 "title": "全合成的意义是什么？",
                 "link": "http://www.zhihu.com/question/29971756/answer/3595718726?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-26"
@@ -60969,7 +61004,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
