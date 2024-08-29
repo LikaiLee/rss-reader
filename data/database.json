@@ -778,6 +778,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "喜欢就是最适合的：领克 07 EM-P「满月」报告",
+                "link": "https://sspai.com/post/91570",
+                "published": "2024-08-29"
+            },
+            {
+                "title": "派早报：佳明发布新品、索尼推出 PC 端 PlayStation 配件应用等",
+                "link": "https://sspai.com/post/91864",
+                "published": "2024-08-29"
+            },
+            {
+                "title": "三支队伍三个故事，他们用 Mac 和 iPad 挥洒创意",
+                "link": "https://sspai.com/post/91834",
+                "published": "2024-08-28"
+            },
+            {
+                "title": "终于可以愉快地扫描了：Linux 扫描仪配置与使用攻略",
+                "link": "https://sspai.com/post/91396",
+                "published": "2024-08-28"
+            },
+            {
                 "title": "夕阳无限好，天色已黄昏：我的落日观赏经验谈",
                 "link": "https://sspai.com/post/91610",
                 "published": "2024-08-28"
@@ -51609,6 +51629,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "一些数字国画博主质疑《黑神话：悟空》的游戏内壁画是AI生成的，实际上这些美术作品的创作难度有多大？",
+                "link": "http://www.zhihu.com/question/665529986/answer/3608949883?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-29"
+            },
+            {
+                "title": "敢问路在何方——浅谈黑神话悟空的关卡设计",
+                "link": "http://zhuanlan.zhihu.com/p/716661286?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-28"
+            },
+            {
+                "title": "《黑神话：悟空》中的隐藏剧情和彩蛋，你发现了多少？",
+                "link": "http://www.zhihu.com/question/664822209/answer/3604988117?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-28"
+            },
+            {
                 "title": "如何评价《黑神话：悟空》第五回「日落红尘」？在难度、剧情、地图和战斗设计方面有哪些值得聊聊？",
                 "link": "http://www.zhihu.com/question/664966240/answer/3607867268?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-28"
@@ -61044,7 +61079,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 4,
