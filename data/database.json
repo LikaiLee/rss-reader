@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 315 期）：一份谷歌离职报告",
+                "link": "http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html",
+                "published": "2024-08-30"
+            },
+            {
                 "title": "科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？",
                 "link": "http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html",
                 "published": "2024-08-23"
@@ -770,13 +775,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "给人生经历加点料：打工人的低成本留学之旅",
+                "link": "https://sspai.com/post/91741",
+                "published": "2024-08-30"
+            },
+            {
+                "title": "派早报：Telegram CEO 获得保释，加州通过 AI 安全法案",
+                "link": "https://sspai.com/post/91907",
+                "published": "2024-08-30"
+            },
+            {
+                "title": "想要轻松坚持运动，我给自己做了《运动派对》",
+                "link": "https://sspai.com/post/91849",
+                "published": "2024-08-29"
+            },
+            {
+                "title": "玄学 or 科学？MBTI 测试准不准、对你的生活有影响吗？",
+                "link": "https://sspai.com/post/91815",
+                "published": "2024-08-29"
+            },
             {
                 "title": "喜欢就是最适合的：领克 07 EM-P「满月」报告",
                 "link": "https://sspai.com/post/91570",
@@ -51629,6 +51654,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《黑神话：悟空》里都有哪些山西古迹？",
+                "link": "http://www.zhihu.com/question/664774524/answer/3603037255?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-30"
+            },
+            {
                 "title": "一些数字国画博主质疑《黑神话：悟空》的游戏内壁画是AI生成的，实际上这些美术作品的创作难度有多大？",
                 "link": "http://www.zhihu.com/question/665529986/answer/3608949883?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-29"
@@ -61079,7 +61109,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 4,
