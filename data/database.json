@@ -775,13 +775,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/91920",
+                "published": "2024-08-30"
+            },
+            {
+                "title": "App+1 | 捏个朋友一起专注，主打陪伴的番茄钟：gogh",
+                "link": "https://sspai.com/post/91696",
+                "published": "2024-08-30"
+            },
             {
                 "title": "给人生经历加点料：打工人的低成本留学之旅",
                 "link": "https://sspai.com/post/91741",
@@ -21198,7 +21208,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -51654,6 +51664,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "为什欧洲各国联赛球队都希望参加欧冠联赛？",
+                "link": "http://www.zhihu.com/question/49542581/answer/3610799856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-30"
+            },
+            {
+                "title": "有哪些天生自带鲜味的食材？",
+                "link": "http://www.zhihu.com/question/664293162/answer/3610523061?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-30"
+            },
+            {
                 "title": "《黑神话：悟空》里都有哪些山西古迹？",
                 "link": "http://www.zhihu.com/question/664774524/answer/3603037255?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-30"
@@ -61109,7 +61129,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
