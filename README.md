@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-08-31】 个性、好拼又好看的积木插座，TA 们这样玩](https://sspai.com/post/91899)
 * [【2024-08-30】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/91920)
 * [【2024-08-30】 App+1 | 捏个朋友一起专注，主打陪伴的番茄钟：gogh](https://sspai.com/post/91696)
 * [【2024-08-30】 给人生经历加点料：打工人的低成本留学之旅](https://sspai.com/post/91741)
@@ -44,7 +45,6 @@
 * [【2024-08-29】 喜欢就是最适合的：领克 07 EM-P「满月」报告](https://sspai.com/post/91570)
 * [【2024-08-29】 派早报：佳明发布新品、索尼推出 PC 端 PlayStation 配件应用等](https://sspai.com/post/91864)
 * [【2024-08-28】 三支队伍三个故事，他们用 Mac 和 iPad 挥洒创意](https://sspai.com/post/91834)
-* [【2024-08-28】 终于可以愉快地扫描了：Linux 扫描仪配置与使用攻略](https://sspai.com/post/91396)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-08-31 05:13:16
+:alarm_clock: 更新时间: 2024-09-01 05:15:19
