@@ -783,6 +783,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "少数派线下 | Apple「高光时刻」即将到来，欢迎你来和我们一起看",
+                "link": "https://sspai.com/post/91958",
+                "published": "2024-09-02"
+            },
+            {
+                "title": "派早报：市场监管总局督导阿里完成三年整改",
+                "link": "https://sspai.com/post/91952",
+                "published": "2024-09-02"
+            },
+            {
+                "title": "开学季 | 值得关注的官翻渠道汇总（2024）",
+                "link": "https://sspai.com/post/91945",
+                "published": "2024-09-01"
+            },
+            {
                 "title": "个性、好拼又好看的积木插座，TA 们这样玩",
                 "link": "https://sspai.com/post/91899",
                 "published": "2024-08-31"
@@ -21213,7 +21228,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -51669,6 +51684,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "通关《黑神话：悟空》后，你如何评价这款游戏？",
+                "link": "http://www.zhihu.com/question/664774078/answer/3612607918?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-02"
+            },
+            {
                 "title": "为什欧洲各国联赛球队都希望参加欧冠联赛？",
                 "link": "http://www.zhihu.com/question/49542581/answer/3610799856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-30"
@@ -61134,7 +61154,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
