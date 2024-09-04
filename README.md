@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-09-04】 在无线入耳时代上手一副有线平头耳塞](https://sspai.com/post/91725)
+* [【2024-09-04】 派早报：真我 13 Pro、Beoplay H100 头戴式耳机等新品发布](https://sspai.com/post/92005)
+* [【2024-09-03】 正确显示 HDR 照片，怎么就这么难？](https://sspai.com/prime/story/hdr-photo-issues)
+* [【2024-09-03】 社区速递 060 | 你没见过的社区文章、一周最热评、中秋国庆去哪玩](https://sspai.com/post/91985)
+* [【2024-09-03】 Apple 发布会前瞻：屏幕更大、AI 更强，除了 iPhone 还有哪些看点？](https://sspai.com/post/91989)
+* [【2024-09-03】 线下活动：漫谈人工智能 | 在情绪潮水消退后，回顾 AI 的本质](https://sspai.com/post/91983)
 * [【2024-09-03】 城市漫步指南：和中日作家们一起，来一趟日本推理圣地巡礼](https://sspai.com/post/89572)
 * [【2024-09-03】 派早报：高通发布骁龙 6 Gen 3，法院驳回滥用七天无理由男子主张权益等](https://sspai.com/post/91978)
 * [【2024-09-02】 派评 | 近期值得关注的 App](https://sspai.com/post/91972)
 * [【2024-09-02】 我怎样搭建舒适的写作环境](https://sspai.com/post/91791)
-* [【2024-09-02】 少数派线下 | Apple「高光时刻」即将到来，欢迎你来和我们一起看](https://sspai.com/post/91958)
-* [【2024-09-02】 派早报：市场监管总局督导阿里完成三年整改](https://sspai.com/post/91952)
-* [【2024-09-01】 开学季 | 值得关注的官翻渠道汇总（2024）](https://sspai.com/post/91945)
-* [【2024-08-31】 个性、好拼又好看的积木插座，TA 们这样玩](https://sspai.com/post/91899)
-* [【2024-08-30】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/91920)
-* [【2024-08-30】 App+1 | 捏个朋友一起专注，主打陪伴的番茄钟：gogh](https://sspai.com/post/91696)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-03 05:14:24
+:alarm_clock: 更新时间: 2024-09-04 05:15:17
