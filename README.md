@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-09-05】 开学季 | 买赠 Apple Pencil 和 AirPods，Apple 高校活动还在继续](https://sspai.com/post/90436)
+* [【2024-09-05】 派早报：英特尔发布酷睿 Ultra 200V 系列处理器、淘宝将接入微信支付等](https://sspai.com/post/92033)
+* [【2024-09-04】 Apple Watch 的十年一剑（上）：从跨界新秀到可穿戴「大腕」](https://sspai.com/post/91846)
+* [【2024-09-04】 仅靠软装，我打造了一个「轻度极繁主义」的家](https://sspai.com/post/91979)
 * [【2024-09-04】 在无线入耳时代上手一副有线平头耳塞](https://sspai.com/post/91725)
 * [【2024-09-04】 派早报：真我 13 Pro、Beoplay H100 头戴式耳机等新品发布](https://sspai.com/post/92005)
 * [【2024-09-03】 正确显示 HDR 照片，怎么就这么难？](https://sspai.com/prime/story/hdr-photo-issues)
 * [【2024-09-03】 社区速递 060 | 你没见过的社区文章、一周最热评、中秋国庆去哪玩](https://sspai.com/post/91985)
 * [【2024-09-03】 Apple 发布会前瞻：屏幕更大、AI 更强，除了 iPhone 还有哪些看点？](https://sspai.com/post/91989)
 * [【2024-09-03】 线下活动：漫谈人工智能 | 在情绪潮水消退后，回顾 AI 的本质](https://sspai.com/post/91983)
-* [【2024-09-03】 城市漫步指南：和中日作家们一起，来一趟日本推理圣地巡礼](https://sspai.com/post/89572)
-* [【2024-09-03】 派早报：高通发布骁龙 6 Gen 3，法院驳回滥用七天无理由男子主张权益等](https://sspai.com/post/91978)
-* [【2024-09-02】 派评 | 近期值得关注的 App](https://sspai.com/post/91972)
-* [【2024-09-02】 我怎样搭建舒适的写作环境](https://sspai.com/post/91791)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-09-05】 如何评价《黑神话：悟空》的战斗设计？](http://www.zhihu.com/question/664774003/answer/3604907698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-09-04】 英超20队转会开局总结 黑马一黑到底 切尔西打游戏 曼联信错一人](http://zhuanlan.zhihu.com/p/718161289?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-02】 通关《黑神话：悟空》后，你如何评价这款游戏？](http://www.zhihu.com/question/664774078/answer/3613728839?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-02】 网友发现《黑神话：悟空》误将钢筋扫描至游戏中，如何评价游戏场景实景扫描这样的做法？是怎么办到的？](http://www.zhihu.com/question/665320697/answer/3613646265?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-02】 中国有哪些现存的宏伟至极的古建筑？](http://www.zhihu.com/question/30892385/answer/2348224759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-08-30】 有哪些天生自带鲜味的食材？](http://www.zhihu.com/question/664293162/answer/3610523061?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-30】 《黑神话：悟空》里都有哪些山西古迹？](http://www.zhihu.com/question/664774524/answer/3603037255?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-29】 一些数字国画博主质疑《黑神话：悟空》的游戏内壁画是AI生成的，实际上这些美术作品的创作难度有多大？](http://www.zhihu.com/question/665529986/answer/3608949883?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-28】 敢问路在何方——浅谈黑神话悟空的关卡设计](http://zhuanlan.zhihu.com/p/716661286?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-28】 《黑神话：悟空》中的隐藏剧情和彩蛋，你发现了多少？](http://www.zhihu.com/question/664822209/answer/3604988117?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-04 05:15:17
+:alarm_clock: 更新时间: 2024-09-05 05:14:16

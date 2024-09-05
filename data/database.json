@@ -783,6 +783,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "开学季 | 买赠 Apple Pencil 和 AirPods，Apple 高校活动还在继续",
+                "link": "https://sspai.com/post/90436",
+                "published": "2024-09-05"
+            },
+            {
+                "title": "派早报：英特尔发布酷睿 Ultra 200V 系列处理器、淘宝将接入微信支付等",
+                "link": "https://sspai.com/post/92033",
+                "published": "2024-09-05"
+            },
+            {
+                "title": "Apple Watch 的十年一剑（上）：从跨界新秀到可穿戴「大腕」",
+                "link": "https://sspai.com/post/91846",
+                "published": "2024-09-04"
+            },
+            {
+                "title": "仅靠软装，我打造了一个「轻度极繁主义」的家",
+                "link": "https://sspai.com/post/91979",
+                "published": "2024-09-04"
+            },
+            {
                 "title": "在无线入耳时代上手一副有线平头耳塞",
                 "link": "https://sspai.com/post/91725",
                 "published": "2024-09-04"
@@ -21278,7 +21298,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -51734,6 +51754,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价《黑神话：悟空》的战斗设计？",
+                "link": "http://www.zhihu.com/question/664774003/answer/3604907698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-05"
+            },
+            {
+                "title": "英超20队转会开局总结 黑马一黑到底 切尔西打游戏 曼联信错一人",
+                "link": "http://zhuanlan.zhihu.com/p/718161289?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-04"
+            },
+            {
                 "title": "通关《黑神话：悟空》后，你如何评价这款游戏？",
                 "link": "http://www.zhihu.com/question/664774078/answer/3613728839?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-09-02"
@@ -61219,7 +61249,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
