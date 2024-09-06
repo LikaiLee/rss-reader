@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-09-06】 科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)
 * [【2024-08-30】 科技爱好者周刊（第 315 期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)
 * [【2024-08-23】 科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)
 * [【2024-08-16】 科技爱好者周刊（第 313 期）：如果新加坡没有空调](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html)
@@ -25,7 +26,6 @@
 * [【2024-07-19】 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)
 * [【2024-07-12】 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)
 * [【2024-07-05】 科技爱好者周刊（第 307 期）：不要看重 Product Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)
-* [【2024-07-03】 AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-09-06】 生活处处是投资，这档节目教你让钱包和生活都变得确定](https://sspai.com/post/92054)
+* [【2024-09-06】 派早报：Remarkable 发布 Paper Pro 墨水屏电子阅读器等](https://sspai.com/post/92062)
+* [【2024-09-05】 出行好物召集计划：轻装出行，但也万无一失](https://sspai.com/post/91964)
+* [【2024-09-05】 看懂配料表、营养成分表，我是这样通过包装选购食品的](https://sspai.com/post/91911)
+* [【2024-09-05】 开学季 | 付费栏目、正版软件上新 + 多重优惠](https://sspai.com/post/92009)
 * [【2024-09-05】 开学季 | 买赠 Apple Pencil 和 AirPods，Apple 高校活动还在继续](https://sspai.com/post/90436)
 * [【2024-09-05】 派早报：英特尔发布酷睿 Ultra 200V 系列处理器、淘宝将接入微信支付等](https://sspai.com/post/92033)
 * [【2024-09-04】 Apple Watch 的十年一剑（上）：从跨界新秀到可穿戴「大腕」](https://sspai.com/post/91846)
 * [【2024-09-04】 仅靠软装，我打造了一个「轻度极繁主义」的家](https://sspai.com/post/91979)
 * [【2024-09-04】 在无线入耳时代上手一副有线平头耳塞](https://sspai.com/post/91725)
-* [【2024-09-04】 派早报：真我 13 Pro、Beoplay H100 头戴式耳机等新品发布](https://sspai.com/post/92005)
-* [【2024-09-03】 正确显示 HDR 照片，怎么就这么难？](https://sspai.com/prime/story/hdr-photo-issues)
-* [【2024-09-03】 社区速递 060 | 你没见过的社区文章、一周最热评、中秋国庆去哪玩](https://sspai.com/post/91985)
-* [【2024-09-03】 Apple 发布会前瞻：屏幕更大、AI 更强，除了 iPhone 还有哪些看点？](https://sspai.com/post/91989)
-* [【2024-09-03】 线下活动：漫谈人工智能 | 在情绪潮水消退后，回顾 AI 的本质](https://sspai.com/post/91983)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-09-05】 【长文】24.8~京都大学数据科学/东京大学情报理工CS/东京大学复杂理工~合格经验](http://zhuanlan.zhihu.com/p/718237324?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-05】 如何评价《黑神话：悟空》的战斗设计？](http://www.zhihu.com/question/664774003/answer/3604907698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-04】 英超20队转会开局总结 黑马一黑到底 切尔西打游戏 曼联信错一人](http://zhuanlan.zhihu.com/p/718161289?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-02】 通关《黑神话：悟空》后，你如何评价这款游戏？](http://www.zhihu.com/question/664774078/answer/3613728839?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-08-30】 为什欧洲各国联赛球队都希望参加欧冠联赛？](http://www.zhihu.com/question/49542581/answer/3610799856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-30】 有哪些天生自带鲜味的食材？](http://www.zhihu.com/question/664293162/answer/3610523061?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-08-30】 《黑神话：悟空》里都有哪些山西古迹？](http://www.zhihu.com/question/664774524/answer/3603037255?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-29】 一些数字国画博主质疑《黑神话：悟空》的游戏内壁画是AI生成的，实际上这些美术作品的创作难度有多大？](http://www.zhihu.com/question/665529986/answer/3608949883?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-05 05:14:16
+:alarm_clock: 更新时间: 2024-09-06 05:15:09

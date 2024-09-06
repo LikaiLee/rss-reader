@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 316 期）：你一生的故事",
+                "link": "http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html",
+                "published": "2024-09-06"
+            },
+            {
                 "title": "科技爱好者周刊（第 315 期）：一份谷歌离职报告",
                 "link": "http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html",
                 "published": "2024-08-30"
@@ -775,13 +780,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "生活处处是投资，这档节目教你让钱包和生活都变得确定",
+                "link": "https://sspai.com/post/92054",
+                "published": "2024-09-06"
+            },
+            {
+                "title": "派早报：Remarkable 发布 Paper Pro 墨水屏电子阅读器等",
+                "link": "https://sspai.com/post/92062",
+                "published": "2024-09-06"
+            },
+            {
+                "title": "出行好物召集计划：轻装出行，但也万无一失",
+                "link": "https://sspai.com/post/91964",
+                "published": "2024-09-05"
+            },
+            {
+                "title": "看懂配料表、营养成分表，我是这样通过包装选购食品的",
+                "link": "https://sspai.com/post/91911",
+                "published": "2024-09-05"
+            },
+            {
+                "title": "开学季 | 付费栏目、正版软件上新 + 多重优惠",
+                "link": "https://sspai.com/post/92009",
+                "published": "2024-09-05"
+            },
             {
                 "title": "开学季 | 买赠 Apple Pencil 和 AirPods，Apple 高校活动还在继续",
                 "link": "https://sspai.com/post/90436",
@@ -21298,7 +21328,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -51754,6 +51784,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "【长文】24.8~京都大学数据科学/东京大学情报理工CS/东京大学复杂理工~合格经验",
+                "link": "http://zhuanlan.zhihu.com/p/718237324?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-05"
+            },
+            {
                 "title": "如何评价《黑神话：悟空》的战斗设计？",
                 "link": "http://www.zhihu.com/question/664774003/answer/3604907698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-09-05"
@@ -61249,7 +61284,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,
