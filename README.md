@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-09-07】 《黑神话：悟空》欢乐圆桌：聊聊游戏内外的趣事儿](https://sspai.com/post/92084)
+* [【2024-09-06】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/92082)
+* [【2024-09-06】 「空气炸锅真是伟大的发明」](https://sspai.com/prime/story/air-fryer-recipes)
+* [【2024-09-06】 开学季 | MarginNote 4 工具升值包限时上架优惠：你的高效学习利器](https://sspai.com/post/92069)
+* [【2024-09-06】 让家的智能符合期待，他们选择了 Apple Home](https://sspai.com/post/91922)
 * [【2024-09-06】 生活处处是投资，这档节目教你让钱包和生活都变得确定](https://sspai.com/post/92054)
 * [【2024-09-06】 派早报：Remarkable 发布 Paper Pro 墨水屏电子阅读器等](https://sspai.com/post/92062)
 * [【2024-09-05】 出行好物召集计划：轻装出行，但也万无一失](https://sspai.com/post/91964)
 * [【2024-09-05】 看懂配料表、营养成分表，我是这样通过包装选购食品的](https://sspai.com/post/91911)
 * [【2024-09-05】 开学季 | 付费栏目、正版软件上新 + 多重优惠](https://sspai.com/post/92009)
-* [【2024-09-05】 开学季 | 买赠 Apple Pencil 和 AirPods，Apple 高校活动还在继续](https://sspai.com/post/90436)
-* [【2024-09-05】 派早报：英特尔发布酷睿 Ultra 200V 系列处理器、淘宝将接入微信支付等](https://sspai.com/post/92033)
-* [【2024-09-04】 Apple Watch 的十年一剑（上）：从跨界新秀到可穿戴「大腕」](https://sspai.com/post/91846)
-* [【2024-09-04】 仅靠软装，我打造了一个「轻度极繁主义」的家](https://sspai.com/post/91979)
-* [【2024-09-04】 在无线入耳时代上手一副有线平头耳塞](https://sspai.com/post/91725)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-06 05:15:09
+:alarm_clock: 更新时间: 2024-09-07 05:13:28

@@ -780,13 +780,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "《黑神话：悟空》欢乐圆桌：聊聊游戏内外的趣事儿",
+                "link": "https://sspai.com/post/92084",
+                "published": "2024-09-07"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/92082",
+                "published": "2024-09-06"
+            },
+            {
+                "title": "「空气炸锅真是伟大的发明」",
+                "link": "https://sspai.com/prime/story/air-fryer-recipes",
+                "published": "2024-09-06"
+            },
+            {
+                "title": "开学季 | MarginNote 4 工具升值包限时上架优惠：你的高效学习利器",
+                "link": "https://sspai.com/post/92069",
+                "published": "2024-09-06"
+            },
+            {
+                "title": "让家的智能符合期待，他们选择了 Apple Home",
+                "link": "https://sspai.com/post/91922",
+                "published": "2024-09-06"
+            },
             {
                 "title": "生活处处是投资，这档节目教你让钱包和生活都变得确定",
                 "link": "https://sspai.com/post/92054",
@@ -61284,7 +61309,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
