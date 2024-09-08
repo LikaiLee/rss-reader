@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-09-08】 贾想请继续：不带立场，感知风流](https://sspai.com/post/92085)
 * [【2024-09-07】 《黑神话：悟空》欢乐圆桌：聊聊游戏内外的趣事儿](https://sspai.com/post/92084)
 * [【2024-09-06】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/92082)
 * [【2024-09-06】 「空气炸锅真是伟大的发明」](https://sspai.com/prime/story/air-fryer-recipes)
@@ -44,7 +45,6 @@
 * [【2024-09-06】 派早报：Remarkable 发布 Paper Pro 墨水屏电子阅读器等](https://sspai.com/post/92062)
 * [【2024-09-05】 出行好物召集计划：轻装出行，但也万无一失](https://sspai.com/post/91964)
 * [【2024-09-05】 看懂配料表、营养成分表，我是这样通过包装选购食品的](https://sspai.com/post/91911)
-* [【2024-09-05】 开学季 | 付费栏目、正版软件上新 + 多重优惠](https://sspai.com/post/92009)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-07 05:13:28
+:alarm_clock: 更新时间: 2024-09-08 05:14:27

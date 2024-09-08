@@ -788,6 +788,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "贾想请继续：不带立场，感知风流",
+                "link": "https://sspai.com/post/92085",
+                "published": "2024-09-08"
+            },
+            {
                 "title": "《黑神话：悟空》欢乐圆桌：聊聊游戏内外的趣事儿",
                 "link": "https://sspai.com/post/92084",
                 "published": "2024-09-07"
@@ -21353,7 +21358,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 1
     },
     {
         "id": 2,
