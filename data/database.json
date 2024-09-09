@@ -788,6 +788,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "使用 Ansible 管理 Linux 系统的配置文件",
+                "link": "https://sspai.com/post/91932",
+                "published": "2024-09-09"
+            },
+            {
+                "title": "你可能错过的新鲜事：阿里旗下平台将支持微信支付",
+                "link": "https://sspai.com/post/92137",
+                "published": "2024-09-09"
+            },
+            {
                 "title": "贾想请继续：不带立场，感知风流",
                 "link": "https://sspai.com/post/92085",
                 "published": "2024-09-08"
@@ -21358,7 +21368,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -51814,6 +51824,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "《黑神话：悟空》讲了一个什么故事？",
+                "link": "http://www.zhihu.com/question/658731240/answer/3617442408?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-09"
+            },
+            {
+                "title": "2024 知乎创作者盐沙龙·成都站活动回顾",
+                "link": "http://zhuanlan.zhihu.com/p/718959820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-09"
+            },
+            {
                 "title": "【长文】24.8~京都大学数据科学/东京大学情报理工CS/东京大学复杂理工~合格经验",
                 "link": "http://zhuanlan.zhihu.com/p/718237324?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-09-05"
@@ -61314,7 +61334,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
