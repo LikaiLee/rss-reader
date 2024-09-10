@@ -788,6 +788,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Apple 发布多款新品，Thread 更新 1.4 版规范等",
+                "link": "https://sspai.com/post/92166",
+                "published": "2024-09-10"
+            },
+            {
+                "title": "新配色，新亮点：iPhone 16 Pro 快速上手体验",
+                "link": "https://sspai.com/post/92168",
+                "published": "2024-09-09"
+            },
+            {
+                "title": "一图流 | 一张图带你看完 iPhone 16 发布会",
+                "link": "https://sspai.com/post/92164",
+                "published": "2024-09-09"
+            },
+            {
+                "title": "新按钮、新配色，还有这些意外惊喜……Apple 发布会看点回顾",
+                "link": "https://sspai.com/post/92163",
+                "published": "2024-09-09"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/92152",
+                "published": "2024-09-09"
+            },
+            {
+                "title": "又逢开学季，又到读书时：这些文章帮你找好书、好读书",
+                "link": "https://sspai.com/post/92045",
+                "published": "2024-09-09"
+            },
+            {
                 "title": "使用 Ansible 管理 Linux 系统的配置文件",
                 "link": "https://sspai.com/post/91932",
                 "published": "2024-09-09"
@@ -21368,7 +21398,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     },
     {
         "id": 2,
@@ -51824,6 +51854,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何欣赏《黑神话：悟空》中极其精致的铠甲披挂，它符合中国历史上的真实甲胄设计吗？",
+                "link": "http://www.zhihu.com/question/666360932/answer/3620459503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-09"
+            },
+            {
                 "title": "《黑神话：悟空》讲了一个什么故事？",
                 "link": "http://www.zhihu.com/question/658731240/answer/3617442408?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-09-09"
@@ -61334,7 +61369,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,

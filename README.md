@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-09-10】 派早报：Apple 发布多款新品，Thread 更新 1.4 版规范等](https://sspai.com/post/92166)
+* [【2024-09-09】 新配色，新亮点：iPhone 16 Pro 快速上手体验](https://sspai.com/post/92168)
+* [【2024-09-09】 一图流 | 一张图带你看完 iPhone 16 发布会](https://sspai.com/post/92164)
+* [【2024-09-09】 新按钮、新配色，还有这些意外惊喜……Apple 发布会看点回顾](https://sspai.com/post/92163)
+* [【2024-09-09】 派评 | 近期值得关注的 App](https://sspai.com/post/92152)
+* [【2024-09-09】 又逢开学季，又到读书时：这些文章帮你找好书、好读书](https://sspai.com/post/92045)
 * [【2024-09-09】 使用 Ansible 管理 Linux 系统的配置文件](https://sspai.com/post/91932)
 * [【2024-09-09】 你可能错过的新鲜事：阿里旗下平台将支持微信支付](https://sspai.com/post/92137)
 * [【2024-09-08】 贾想请继续：不带立场，感知风流](https://sspai.com/post/92085)
 * [【2024-09-07】 《黑神话：悟空》欢乐圆桌：聊聊游戏内外的趣事儿](https://sspai.com/post/92084)
-* [【2024-09-06】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/92082)
-* [【2024-09-06】 「空气炸锅真是伟大的发明」](https://sspai.com/prime/story/air-fryer-recipes)
-* [【2024-09-06】 开学季 | MarginNote 4 工具升值包限时上架优惠：你的高效学习利器](https://sspai.com/post/92069)
-* [【2024-09-06】 让家的智能符合期待，他们选择了 Apple Home](https://sspai.com/post/91922)
-* [【2024-09-06】 生活处处是投资，这档节目教你让钱包和生活都变得确定](https://sspai.com/post/92054)
-* [【2024-09-06】 派早报：Remarkable 发布 Paper Pro 墨水屏电子阅读器等](https://sspai.com/post/92062)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-09-09】 如何欣赏《黑神话：悟空》中极其精致的铠甲披挂，它符合中国历史上的真实甲胄设计吗？](http://www.zhihu.com/question/666360932/answer/3620459503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-09】 《黑神话：悟空》讲了一个什么故事？](http://www.zhihu.com/question/658731240/answer/3617442408?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-09】 2024 知乎创作者盐沙龙·成都站活动回顾](http://zhuanlan.zhihu.com/p/718959820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-05】 【长文】24.8~京都大学数据科学/东京大学情报理工CS/东京大学复杂理工~合格经验](http://zhuanlan.zhihu.com/p/718237324?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-09-02】 网友发现《黑神话：悟空》误将钢筋扫描至游戏中，如何评价游戏场景实景扫描这样的做法？是怎么办到的？](http://www.zhihu.com/question/665320697/answer/3613646265?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-02】 中国有哪些现存的宏伟至极的古建筑？](http://www.zhihu.com/question/30892385/answer/2348224759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-02】 通关《黑神话：悟空》后，你如何评价这款游戏？](http://www.zhihu.com/question/664774078/answer/3612607918?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-08-30】 为什欧洲各国联赛球队都希望参加欧冠联赛？](http://www.zhihu.com/question/49542581/answer/3610799856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-09 05:15:27
+:alarm_clock: 更新时间: 2024-09-10 05:14:43
