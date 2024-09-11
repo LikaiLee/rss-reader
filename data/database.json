@@ -788,6 +788,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 | 如何用 AI 辅助快速生成概念示意图",
+                "link": "https://sspai.com/post/92113",
+                "published": "2024-09-11"
+            },
+            {
+                "title": "派早报：联通 App 电话小程序开启预约、《我的世界》将推出 PS5 原生版本等",
+                "link": "https://sspai.com/post/92203",
+                "published": "2024-09-11"
+            },
+            {
+                "title": "社区速递 061 | 你没见过的社区文章、一周最热评、派友拍的《黑神话》",
+                "link": "https://sspai.com/post/92190",
+                "published": "2024-09-10"
+            },
+            {
                 "title": "派早报：Apple 发布多款新品，Thread 更新 1.4 版规范等",
                 "link": "https://sspai.com/post/92166",
                 "published": "2024-09-10"
@@ -21398,7 +21413,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -51853,6 +51868,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "在战锤世界中，四邪神是通过什么方法蛊惑忠诚派星际战士入坑的？",
+                "link": "http://www.zhihu.com/question/666669754/answer/3621783069?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-11"
+            },
             {
                 "title": "如何欣赏《黑神话：悟空》中极其精致的铠甲披挂，它符合中国历史上的真实甲胄设计吗？",
                 "link": "http://www.zhihu.com/question/666360932/answer/3620459503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
