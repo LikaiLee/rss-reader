@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "白话多集群：工具和应用助手",
+                "link": "http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html",
+                "published": "2024-09-11"
+            },
+            {
                 "title": "科技爱好者周刊（第 316 期）：你一生的故事",
                 "link": "http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html",
                 "published": "2024-09-06"
@@ -780,13 +785,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "加州连线：聊聊 Apple 新品发布会现场体验",
+                "link": "https://sspai.com/post/92238",
+                "published": "2024-09-12"
+            },
+            {
+                "title": "派早报：部分旧版 Windows 11 即将结束支持、Xbox Game Pass Standard 上架等",
+                "link": "https://sspai.com/post/92236",
+                "published": "2024-09-12"
+            },
+            {
+                "title": "升级半世代、定价创新高：PS5 Pro 为什么难以打动人？",
+                "link": "https://sspai.com/post/92227",
+                "published": "2024-09-11"
+            },
+            {
+                "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
+                "link": "https://sspai.com/post/68623",
+                "published": "2024-09-11"
+            },
             {
                 "title": "App+1 | 如何用 AI 辅助快速生成概念示意图",
                 "link": "https://sspai.com/post/92113",
@@ -21413,7 +21438,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -61389,7 +61414,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
