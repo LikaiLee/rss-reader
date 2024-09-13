@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言",
+                "link": "http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html",
+                "published": "2024-09-12"
+            },
+            {
                 "title": "白话多集群：工具和应用助手",
                 "link": "http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html",
                 "published": "2024-09-11"
@@ -792,6 +797,31 @@
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派开箱 | 重构无人机航拍体验，DJI NEO 让你放手去飞",
+                "link": "https://sspai.com/post/92131",
+                "published": "2024-09-13"
+            },
+            {
+                "title": "派早报：OpenAI 发布全新 o1 模型、所有的淘宝商家均可开通微信支付等",
+                "link": "https://sspai.com/post/92259",
+                "published": "2024-09-13"
+            },
+            {
+                "title": "新玩意 192｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/92251",
+                "published": "2024-09-12"
+            },
+            {
+                "title": "线下活动·中秋特别版｜家庭手工坊：扭扭棒花桶制作",
+                "link": "https://sspai.com/post/92246",
+                "published": "2024-09-12"
+            },
+            {
+                "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
+                "link": "https://sspai.com/post/68227",
+                "published": "2024-09-12"
+            },
             {
                 "title": "加州连线：聊聊 Apple 新品发布会现场体验",
                 "link": "https://sspai.com/post/92238",
@@ -21438,7 +21468,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -51894,6 +51924,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "清华计算机入学教育之“关于如何做科研的一些个人经验”",
+                "link": "http://zhuanlan.zhihu.com/p/718156903?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-12"
+            },
+            {
                 "title": "在战锤世界中，四邪神是通过什么方法蛊惑忠诚派星际战士入坑的？",
                 "link": "http://www.zhihu.com/question/666669754/answer/3621783069?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-09-11"
@@ -61414,7 +61449,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,
