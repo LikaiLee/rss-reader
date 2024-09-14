@@ -790,13 +790,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "功能变革、订阅终行：老牌阅读器 Reeder 重焕新生",
+                "link": "https://sspai.com/post/92205",
+                "published": "2024-09-14"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/92277",
+                "published": "2024-09-13"
+            },
+            {
+                "title": "不止金钱：经济形势、就业环境、焦虑情绪和松弛感",
+                "link": "https://sspai.com/post/92272",
+                "published": "2024-09-13"
+            },
+            {
+                "title": "iPhone 16 系列发布会上没说的那些事",
+                "link": "https://sspai.com/post/92265",
+                "published": "2024-09-13"
+            },
             {
                 "title": "派开箱 | 重构无人机航拍体验，DJI NEO 让你放手去飞",
                 "link": "https://sspai.com/post/92131",
@@ -21468,7 +21488,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -61449,7 +61469,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

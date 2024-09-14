@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-09-14】 功能变革、订阅终行：老牌阅读器 Reeder 重焕新生](https://sspai.com/post/92205)
+* [【2024-09-13】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/92277)
+* [【2024-09-13】 不止金钱：经济形势、就业环境、焦虑情绪和松弛感](https://sspai.com/post/92272)
+* [【2024-09-13】 iPhone 16 系列发布会上没说的那些事](https://sspai.com/post/92265)
 * [【2024-09-13】 派开箱 | 重构无人机航拍体验，DJI NEO 让你放手去飞](https://sspai.com/post/92131)
 * [【2024-09-13】 派早报：OpenAI 发布全新 o1 模型、所有的淘宝商家均可开通微信支付等](https://sspai.com/post/92259)
 * [【2024-09-12】 新玩意 192｜少数派的编辑们最近买了啥？](https://sspai.com/post/92251)
 * [【2024-09-12】 线下活动·中秋特别版｜家庭手工坊：扭扭棒花桶制作](https://sspai.com/post/92246)
 * [【2024-09-12】 开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
 * [【2024-09-12】 加州连线：聊聊 Apple 新品发布会现场体验](https://sspai.com/post/92238)
-* [【2024-09-12】 派早报：部分旧版 Windows 11 即将结束支持、Xbox Game Pass Standard 上架等](https://sspai.com/post/92236)
-* [【2024-09-11】 升级半世代、定价创新高：PS5 Pro 为什么难以打动人？](https://sspai.com/post/92227)
-* [【2024-09-11】 开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理](https://sspai.com/post/68623)
-* [【2024-09-11】 App+1 | 如何用 AI 辅助快速生成概念示意图](https://sspai.com/post/92113)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-13 05:14:25
+:alarm_clock: 更新时间: 2024-09-14 05:14:50
