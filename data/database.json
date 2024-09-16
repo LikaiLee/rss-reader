@@ -798,6 +798,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫步指南：关西的夏日重现",
+                "link": "https://sspai.com/post/91511",
+                "published": "2024-09-15"
+            },
+            {
                 "title": "抚慰身心的深夜食堂：5 位少数派的夜宵美食与故事",
                 "link": "https://sspai.com/post/92242",
                 "published": "2024-09-14"
@@ -21498,7 +21503,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
@@ -61484,7 +61489,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
