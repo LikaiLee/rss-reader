@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-09-18】 具透 | iPadOS 18：除了新设计、新交互，还有这些值得一试的亮点功能](https://sspai.com/post/92015)
+* [【2024-09-18】 派早报：2024 年国庆假期火车票开售、Edge 放弃标签圆角矩形设计等](https://sspai.com/post/92350)
 * [【2024-09-17】 具透 |  iOS 18 正式版来了，升级后记得试试这些新功能](https://sspai.com/post/91789)
 * [【2024-09-16】 设计小调整，功能大进步：AirPods 4 首发体验](https://sspai.com/post/92323)
 * [【2024-09-15】 城市漫步指南：关西的夏日重现](https://sspai.com/post/91511)
@@ -43,8 +45,6 @@
 * [【2024-09-14】 功能变革、订阅终行：老牌阅读器 Reeder 重焕新生](https://sspai.com/post/92205)
 * [【2024-09-13】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/92277)
 * [【2024-09-13】 不止金钱：经济形势、就业环境、焦虑情绪和松弛感](https://sspai.com/post/92272)
-* [【2024-09-13】 iPhone 16 系列发布会上没说的那些事](https://sspai.com/post/92265)
-* [【2024-09-13】 派开箱 | 重构无人机航拍体验，DJI NEO 让你放手去飞](https://sspai.com/post/92131)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-17 05:15:48
+:alarm_clock: 更新时间: 2024-09-18 05:14:53
