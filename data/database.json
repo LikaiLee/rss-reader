@@ -798,6 +798,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透 | 精心细调更懂你：watchOS 11 中值得关注的更新",
+                "link": "https://sspai.com/post/92010",
+                "published": "2024-09-19"
+            },
+            {
+                "title": "派早报：Apple 为 iPhone 16 系列带来无线恢复功能等",
+                "link": "https://sspai.com/post/92378",
+                "published": "2024-09-19"
+            },
+            {
+                "title": "Apple Watch 的十年一剑（下）：稳坐龙头，独孤求败",
+                "link": "https://sspai.com/post/91950",
+                "published": "2024-09-18"
+            },
+            {
+                "title": "新品 | 不割手的水獭刀，随身带着随时用",
+                "link": "https://sspai.com/post/91966",
+                "published": "2024-09-18"
+            },
+            {
+                "title": "环阿尔卑斯七国，三千公里的山与海",
+                "link": "https://sspai.com/post/91374",
+                "published": "2024-09-18"
+            },
+            {
                 "title": "具透 | iPadOS 18：除了新设计、新交互，还有这些值得一试的亮点功能",
                 "link": "https://sspai.com/post/92015",
                 "published": "2024-09-18"
@@ -21523,7 +21548,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -51979,6 +52004,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "各自精彩——《无敌号》原著与游戏情节对比",
+                "link": "http://zhuanlan.zhihu.com/p/667847831?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-19"
+            },
+            {
                 "title": "大众对攀岩运动有哪些误解？",
                 "link": "http://www.zhihu.com/question/666094054/answer/3625626684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-09-15"
@@ -61509,7 +61539,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 4,

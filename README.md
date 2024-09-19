@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-09-19】 具透 | 精心细调更懂你：watchOS 11 中值得关注的更新](https://sspai.com/post/92010)
+* [【2024-09-19】 派早报：Apple 为 iPhone 16 系列带来无线恢复功能等](https://sspai.com/post/92378)
+* [【2024-09-18】 Apple Watch 的十年一剑（下）：稳坐龙头，独孤求败](https://sspai.com/post/91950)
+* [【2024-09-18】 新品 | 不割手的水獭刀，随身带着随时用](https://sspai.com/post/91966)
+* [【2024-09-18】 环阿尔卑斯七国，三千公里的山与海](https://sspai.com/post/91374)
 * [【2024-09-18】 具透 | iPadOS 18：除了新设计、新交互，还有这些值得一试的亮点功能](https://sspai.com/post/92015)
 * [【2024-09-18】 派早报：2024 年国庆假期火车票开售、Edge 放弃标签圆角矩形设计等](https://sspai.com/post/92350)
 * [【2024-09-17】 具透 |  iOS 18 正式版来了，升级后记得试试这些新功能](https://sspai.com/post/91789)
 * [【2024-09-16】 设计小调整，功能大进步：AirPods 4 首发体验](https://sspai.com/post/92323)
 * [【2024-09-15】 城市漫步指南：关西的夏日重现](https://sspai.com/post/91511)
-* [【2024-09-14】 抚慰身心的深夜食堂：5 位少数派的夜宵美食与故事](https://sspai.com/post/92242)
-* [【2024-09-14】 顺风车司机初体验：劝退油车通勤人士](https://sspai.com/post/92087)
-* [【2024-09-14】 功能变革、订阅终行：老牌阅读器 Reeder 重焕新生](https://sspai.com/post/92205)
-* [【2024-09-13】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/92277)
-* [【2024-09-13】 不止金钱：经济形势、就业环境、焦虑情绪和松弛感](https://sspai.com/post/92272)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-09-19】 各自精彩——《无敌号》原著与游戏情节对比](http://zhuanlan.zhihu.com/p/667847831?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-15】 大众对攀岩运动有哪些误解？](http://www.zhihu.com/question/666094054/answer/3625626684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-12】 清华计算机入学教育之“关于如何做科研的一些个人经验”](http://zhuanlan.zhihu.com/p/718156903?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-11】 在战锤世界中，四邪神是通过什么方法蛊惑忠诚派星际战士入坑的？](http://www.zhihu.com/question/666669754/answer/3621783069?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-09-05】 【长文】24.8~京都大学数据科学/东京大学情报理工CS/东京大学复杂理工~合格经验](http://zhuanlan.zhihu.com/p/718237324?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-05】 如何评价《黑神话：悟空》的战斗设计？](http://www.zhihu.com/question/664774003/answer/3604907698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-04】 英超20队转会开局总结 黑马一黑到底 切尔西打游戏 曼联信错一人](http://zhuanlan.zhihu.com/p/718161289?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-02】 通关《黑神话：悟空》后，你如何评价这款游戏？](http://www.zhihu.com/question/664774078/answer/3613728839?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-18 05:14:53
+:alarm_clock: 更新时间: 2024-09-19 05:14:44
