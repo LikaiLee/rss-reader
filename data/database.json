@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 318 期）：创业咖啡馆的记忆",
+                "link": "http://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html",
+                "published": "2024-09-20"
+            },
+            {
                 "title": "科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言",
                 "link": "http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html",
                 "published": "2024-09-12"
@@ -790,13 +795,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "具透 | macOS Sequoia 正式版来了，升级后记得试试这些新功能",
+                "link": "https://sspai.com/post/91855",
+                "published": "2024-09-20"
+            },
+            {
+                "title": "派早报：乐道正式发布 L60 电动 SUV、任天堂起诉《幻兽帕鲁》开发商等",
+                "link": "https://sspai.com/post/92403",
+                "published": "2024-09-20"
+            },
+            {
+                "title": "城市漫步指南：十天，看尽新西兰的牛羊、草原和雪山",
+                "link": "https://sspai.com/post/90479",
+                "published": "2024-09-19"
+            },
+            {
+                "title": "六年之后的再升级：我的 iPad Pro (M4) + Apple Pencil Pro 使用体验",
+                "link": "https://sspai.com/post/92354",
+                "published": "2024-09-19"
+            },
             {
                 "title": "具透 | 精心细调更懂你：watchOS 11 中值得关注的更新",
                 "link": "https://sspai.com/post/92010",
@@ -21548,7 +21573,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
@@ -52004,6 +52029,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "给独立游戏制作人的进阶建议",
+                "link": "http://zhuanlan.zhihu.com/p/690749704?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-20"
+            },
+            {
+                "title": "黑神话悟空：斗罢艰险，能否出发？",
+                "link": "http://zhuanlan.zhihu.com/p/718886088?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-20"
+            },
+            {
+                "title": "方励为拍摄《里斯本丸沉没》「砸锅卖铁」是否值得？这部电影会产生多大影响？",
+                "link": "http://www.zhihu.com/question/666739101/answer/3629869440?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-19"
+            },
+            {
                 "title": "各自精彩——《无敌号》原著与游戏情节对比",
                 "link": "http://zhuanlan.zhihu.com/p/667847831?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-09-19"
@@ -61539,7 +61579,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 4,

@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选) 【+3】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-09-20】 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html)
 * [【2024-09-12】 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html)
 * [【2024-09-11】 白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html)
 * [【2024-09-06】 科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)
@@ -25,7 +26,6 @@
 * [【2024-08-09】 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html)
 * [【2024-08-02】 科技爱好者周刊（第 311 期）：低利率与长期项目](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html)
 * [【2024-07-26】 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html)
-* [【2024-07-19】 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-09-20】 具透 | macOS Sequoia 正式版来了，升级后记得试试这些新功能](https://sspai.com/post/91855)
+* [【2024-09-20】 派早报：乐道正式发布 L60 电动 SUV、任天堂起诉《幻兽帕鲁》开发商等](https://sspai.com/post/92403)
+* [【2024-09-19】 城市漫步指南：十天，看尽新西兰的牛羊、草原和雪山](https://sspai.com/post/90479)
+* [【2024-09-19】 六年之后的再升级：我的 iPad Pro (M4) + Apple Pencil Pro 使用体验](https://sspai.com/post/92354)
 * [【2024-09-19】 具透 | 精心细调更懂你：watchOS 11 中值得关注的更新](https://sspai.com/post/92010)
 * [【2024-09-19】 派早报：Apple 为 iPhone 16 系列带来无线恢复功能等](https://sspai.com/post/92378)
 * [【2024-09-18】 Apple Watch 的十年一剑（下）：稳坐龙头，独孤求败](https://sspai.com/post/91950)
 * [【2024-09-18】 新品 | 不割手的水獭刀，随身带着随时用](https://sspai.com/post/91966)
 * [【2024-09-18】 环阿尔卑斯七国，三千公里的山与海](https://sspai.com/post/91374)
 * [【2024-09-18】 具透 | iPadOS 18：除了新设计、新交互，还有这些值得一试的亮点功能](https://sspai.com/post/92015)
-* [【2024-09-18】 派早报：2024 年国庆假期火车票开售、Edge 放弃标签圆角矩形设计等](https://sspai.com/post/92350)
-* [【2024-09-17】 具透 |  iOS 18 正式版来了，升级后记得试试这些新功能](https://sspai.com/post/91789)
-* [【2024-09-16】 设计小调整，功能大进步：AirPods 4 首发体验](https://sspai.com/post/92323)
-* [【2024-09-15】 城市漫步指南：关西的夏日重现](https://sspai.com/post/91511)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,9 @@
     </summary>
 
 
+* [【2024-09-20】 给独立游戏制作人的进阶建议](http://zhuanlan.zhihu.com/p/690749704?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-09-20】 黑神话悟空：斗罢艰险，能否出发？](http://zhuanlan.zhihu.com/p/718886088?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-09-19】 方励为拍摄《里斯本丸沉没》「砸锅卖铁」是否值得？这部电影会产生多大影响？](http://www.zhihu.com/question/666739101/answer/3629869440?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-19】 各自精彩——《无敌号》原著与游戏情节对比](http://zhuanlan.zhihu.com/p/667847831?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-15】 大众对攀岩运动有哪些误解？](http://www.zhihu.com/question/666094054/answer/3625626684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-12】 清华计算机入学教育之“关于如何做科研的一些个人经验”](http://zhuanlan.zhihu.com/p/718156903?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -80,9 +83,6 @@
 * [【2024-09-09】 如何欣赏《黑神话：悟空》中极其精致的铠甲披挂，它符合中国历史上的真实甲胄设计吗？](http://www.zhihu.com/question/666360932/answer/3620459503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-09】 《黑神话：悟空》讲了一个什么故事？](http://www.zhihu.com/question/658731240/answer/3617442408?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-09】 2024 知乎创作者盐沙龙·成都站活动回顾](http://zhuanlan.zhihu.com/p/718959820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-05】 【长文】24.8~京都大学数据科学/东京大学情报理工CS/东京大学复杂理工~合格经验](http://zhuanlan.zhihu.com/p/718237324?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-05】 如何评价《黑神话：悟空》的战斗设计？](http://www.zhihu.com/question/664774003/answer/3604907698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-04】 英超20队转会开局总结 黑马一黑到底 切尔西打游戏 曼联信错一人](http://zhuanlan.zhihu.com/p/718161289?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-19 05:14:44
+:alarm_clock: 更新时间: 2024-09-20 05:14:53
