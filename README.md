@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+3】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-09-21】 一日一技 | 借助 RTSP 协议将摄像头统一接入监控系统](https://sspai.com/post/92327)
+* [【2024-09-20】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/92433)
+* [【2024-09-20】 收藏不等于有用，6 条准则助我高效管理书签](https://sspai.com/post/92312)
 * [【2024-09-20】 具透 | macOS Sequoia 正式版来了，升级后记得试试这些新功能](https://sspai.com/post/91855)
 * [【2024-09-20】 派早报：乐道正式发布 L60 电动 SUV、任天堂起诉《幻兽帕鲁》开发商等](https://sspai.com/post/92403)
 * [【2024-09-19】 城市漫步指南：十天，看尽新西兰的牛羊、草原和雪山](https://sspai.com/post/90479)
@@ -42,9 +45,6 @@
 * [【2024-09-19】 具透 | 精心细调更懂你：watchOS 11 中值得关注的更新](https://sspai.com/post/92010)
 * [【2024-09-19】 派早报：Apple 为 iPhone 16 系列带来无线恢复功能等](https://sspai.com/post/92378)
 * [【2024-09-18】 Apple Watch 的十年一剑（下）：稳坐龙头，独孤求败](https://sspai.com/post/91950)
-* [【2024-09-18】 新品 | 不割手的水獭刀，随身带着随时用](https://sspai.com/post/91966)
-* [【2024-09-18】 环阿尔卑斯七国，三千公里的山与海](https://sspai.com/post/91374)
-* [【2024-09-18】 具透 | iPadOS 18：除了新设计、新交互，还有这些值得一试的亮点功能](https://sspai.com/post/92015)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-20 05:14:53
+:alarm_clock: 更新时间: 2024-09-21 05:14:03

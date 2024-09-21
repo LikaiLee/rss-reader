@@ -795,13 +795,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一日一技 | 借助 RTSP 协议将摄像头统一接入监控系统",
+                "link": "https://sspai.com/post/92327",
+                "published": "2024-09-21"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/92433",
+                "published": "2024-09-20"
+            },
+            {
+                "title": "收藏不等于有用，6 条准则助我高效管理书签",
+                "link": "https://sspai.com/post/92312",
+                "published": "2024-09-20"
+            },
             {
                 "title": "具透 | macOS Sequoia 正式版来了，升级后记得试试这些新功能",
                 "link": "https://sspai.com/post/91855",
@@ -21573,7 +21588,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -61579,7 +61594,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     },
     {
         "id": 4,
