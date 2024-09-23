@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-09-23】 如何获取美亚纸版书的 PDF：寄送扫描服务及手工优化记录](https://sspai.com/post/92306)
+* [【2024-09-23】 具透 | 这或许才是完全体，visionOS 2 中值得你关注的新功能](https://sspai.com/post/91866)
+* [【2024-09-23】 派早报：高通接触英特尔探讨收购意向](https://sspai.com/post/92468)
+* [【2024-09-22】 全能又有性价比：唯卓仕索尼 E 口 40 f/2.5 镜头体验](https://sspai.com/post/92361)
 * [【2024-09-21】 一日一技 | 借助 RTSP 协议将摄像头统一接入监控系统](https://sspai.com/post/92327)
 * [【2024-09-20】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/92433)
 * [【2024-09-20】 收藏不等于有用，6 条准则助我高效管理书签](https://sspai.com/post/92312)
 * [【2024-09-20】 具透 | macOS Sequoia 正式版来了，升级后记得试试这些新功能](https://sspai.com/post/91855)
 * [【2024-09-20】 派早报：乐道正式发布 L60 电动 SUV、任天堂起诉《幻兽帕鲁》开发商等](https://sspai.com/post/92403)
 * [【2024-09-19】 城市漫步指南：十天，看尽新西兰的牛羊、草原和雪山](https://sspai.com/post/90479)
-* [【2024-09-19】 六年之后的再升级：我的 iPad Pro (M4) + Apple Pencil Pro 使用体验](https://sspai.com/post/92354)
-* [【2024-09-19】 具透 | 精心细调更懂你：watchOS 11 中值得关注的更新](https://sspai.com/post/92010)
-* [【2024-09-19】 派早报：Apple 为 iPhone 16 系列带来无线恢复功能等](https://sspai.com/post/92378)
-* [【2024-09-18】 Apple Watch 的十年一剑（下）：稳坐龙头，独孤求败](https://sspai.com/post/91950)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-22 05:14:38
+:alarm_clock: 更新时间: 2024-09-23 05:15:05

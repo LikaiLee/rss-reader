@@ -803,6 +803,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "如何获取美亚纸版书的 PDF：寄送扫描服务及手工优化记录",
+                "link": "https://sspai.com/post/92306",
+                "published": "2024-09-23"
+            },
+            {
+                "title": "具透 | 这或许才是完全体，visionOS 2 中值得你关注的新功能",
+                "link": "https://sspai.com/post/91866",
+                "published": "2024-09-23"
+            },
+            {
+                "title": "派早报：高通接触英特尔探讨收购意向",
+                "link": "https://sspai.com/post/92468",
+                "published": "2024-09-23"
+            },
+            {
+                "title": "全能又有性价比：唯卓仕索尼 E 口 40 f/2.5 镜头体验",
+                "link": "https://sspai.com/post/92361",
+                "published": "2024-09-22"
+            },
+            {
                 "title": "一日一技 | 借助 RTSP 协议将摄像头统一接入监控系统",
                 "link": "https://sspai.com/post/92327",
                 "published": "2024-09-21"
@@ -21588,7 +21608,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 2,
