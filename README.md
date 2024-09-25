@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+9】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选)
+* [知乎每日精选](#知乎每日精选) 【+8】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-09-25】 一日一技 | 用 Tasker 切换三星「即圈即搜」搜索源](https://sspai.com/post/92193)
+* [【2024-09-24】 派早报：iQOO Z9 Turbo+、华为 WATCH GT 5 系列发布等](https://sspai.com/post/92527)
+* [【2024-09-24】 社区速递 062 | 你没见过的社区文章、一周最热评、派友给大学新生的贴士](https://sspai.com/post/92508)
+* [【2024-09-24】 写在闲鱼收取普遍服务费后，闲置交易平台的用户体验变化了吗？](https://sspai.com/post/92423)
+* [【2024-09-24】 采访 | 好用不伤手的秘密！我们和 Slice CEO 聊了聊](https://sspai.com/post/92489)
+* [【2024-09-24】 电脑日语输入简明指南](https://sspai.com/post/92346)
+* [【2024-09-24】 派早报：微软弃用 WSUS 更新服务，工信部调整汽车制动系统国标意见等](https://sspai.com/post/92498)
+* [【2024-09-23】 派评 | 近期值得关注的 App](https://sspai.com/post/92490)
+* [【2024-09-23】 BlackBerry 10 的最后时光与 RIM 的全面转向](https://sspai.com/prime/story/vintage-tech-stories-blackberry-6)
 * [【2024-09-23】 如何获取美亚纸版书的 PDF：寄送扫描服务及手工优化记录](https://sspai.com/post/92306)
-* [【2024-09-23】 具透 | 这或许才是完全体，visionOS 2 中值得你关注的新功能](https://sspai.com/post/91866)
-* [【2024-09-23】 派早报：高通接触英特尔探讨收购意向](https://sspai.com/post/92468)
-* [【2024-09-22】 全能又有性价比：唯卓仕索尼 E 口 40 f/2.5 镜头体验](https://sspai.com/post/92361)
-* [【2024-09-21】 一日一技 | 借助 RTSP 协议将摄像头统一接入监控系统](https://sspai.com/post/92327)
-* [【2024-09-20】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/92433)
-* [【2024-09-20】 收藏不等于有用，6 条准则助我高效管理书签](https://sspai.com/post/92312)
-* [【2024-09-20】 具透 | macOS Sequoia 正式版来了，升级后记得试试这些新功能](https://sspai.com/post/91855)
-* [【2024-09-20】 派早报：乐道正式发布 L60 电动 SUV、任天堂起诉《幻兽帕鲁》开发商等](https://sspai.com/post/92403)
-* [【2024-09-19】 城市漫步指南：十天，看尽新西兰的牛羊、草原和雪山](https://sspai.com/post/90479)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,16 +73,16 @@
     </summary>
 
 
+* [【2024-09-25】 Reverse-o1:OpenAI o1原理逆向工程图解](http://zhuanlan.zhihu.com/p/721952915?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-09-24】 你一直坚持热爱的事情是什么？坚持了多久？](http://www.zhihu.com/question/23473414/answer/3634688765?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-09-24】 中国制造能否诞生「奢侈品」？](http://www.zhihu.com/question/19825959/answer/3634614274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-09-24】 独立游戏在中国 插曲：手游版号办理完全攻略](http://zhuanlan.zhihu.com/p/24856060?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-09-24】 如何评价《黑神话：悟空》这款游戏？它到底好不好玩？](http://www.zhihu.com/question/664775480/answer/3634435096?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-09-23】 如何评价游戏《废土3》？](http://www.zhihu.com/question/378008009/answer/1468710463?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-09-23】 有人可以把《战锤2：全面战争》的背景故事和人物关系讲清楚吗？](http://www.zhihu.com/question/463856156/answer/1937948036?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-09-23】 OpenAI o1 self-play RL 技术路线推演](http://zhuanlan.zhihu.com/p/720106482?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-20】 给独立游戏制作人的进阶建议](http://zhuanlan.zhihu.com/p/690749704?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-20】 黑神话悟空：斗罢艰险，能否出发？](http://zhuanlan.zhihu.com/p/718886088?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-19】 方励为拍摄《里斯本丸沉没》「砸锅卖铁」是否值得？这部电影会产生多大影响？](http://www.zhihu.com/question/666739101/answer/3629869440?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-19】 各自精彩——《无敌号》原著与游戏情节对比](http://zhuanlan.zhihu.com/p/667847831?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-15】 大众对攀岩运动有哪些误解？](http://www.zhihu.com/question/666094054/answer/3625626684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-12】 清华计算机入学教育之“关于如何做科研的一些个人经验”](http://zhuanlan.zhihu.com/p/718156903?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-11】 在战锤世界中，四邪神是通过什么方法蛊惑忠诚派星际战士入坑的？](http://www.zhihu.com/question/666669754/answer/3621783069?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-09】 如何欣赏《黑神话：悟空》中极其精致的铠甲披挂，它符合中国历史上的真实甲胄设计吗？](http://www.zhihu.com/question/666360932/answer/3620459503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-09】 《黑神话：悟空》讲了一个什么故事？](http://www.zhihu.com/question/658731240/answer/3617442408?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-09】 2024 知乎创作者盐沙龙·成都站活动回顾](http://zhuanlan.zhihu.com/p/718959820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-23 05:15:05
+:alarm_clock: 更新时间: 2024-09-25 05:15:26
