@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+9】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+8】
+* [知乎每日精选](#知乎每日精选) 【+2】
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-09-26】 在西域古城喀什噶尔，我想追求的只有快乐](https://sspai.com/post/92389)
+* [【2024-09-26】 派早报：魅族推出多款新品、Nothing Ear (open) 正式公开等](https://sspai.com/post/92557)
+* [【2024-09-25】 为日常增添「幸福感」：他们分享了 6 个生活好物](https://sspai.com/post/92382)
+* [【2024-09-25】 线下活动：感知色彩与材质世界 | CMF 设计探索工坊及 Nothing 产品交流会](https://sspai.com/post/92530)
+* [【2024-09-25】 接纳不等于忍受，这是我的 Windows 11 设置思路](https://sspai.com/post/92064)
 * [【2024-09-25】 一日一技 | 用 Tasker 切换三星「即圈即搜」搜索源](https://sspai.com/post/92193)
 * [【2024-09-24】 派早报：iQOO Z9 Turbo+、华为 WATCH GT 5 系列发布等](https://sspai.com/post/92527)
 * [【2024-09-24】 社区速递 062 | 你没见过的社区文章、一周最热评、派友给大学新生的贴士](https://sspai.com/post/92508)
 * [【2024-09-24】 写在闲鱼收取普遍服务费后，闲置交易平台的用户体验变化了吗？](https://sspai.com/post/92423)
 * [【2024-09-24】 采访 | 好用不伤手的秘密！我们和 Slice CEO 聊了聊](https://sspai.com/post/92489)
-* [【2024-09-24】 电脑日语输入简明指南](https://sspai.com/post/92346)
-* [【2024-09-24】 派早报：微软弃用 WSUS 更新服务，工信部调整汽车制动系统国标意见等](https://sspai.com/post/92498)
-* [【2024-09-23】 派评 | 近期值得关注的 App](https://sspai.com/post/92490)
-* [【2024-09-23】 BlackBerry 10 的最后时光与 RIM 的全面转向](https://sspai.com/prime/story/vintage-tech-stories-blackberry-6)
-* [【2024-09-23】 如何获取美亚纸版书的 PDF：寄送扫描服务及手工优化记录](https://sspai.com/post/92306)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,8 @@
     </summary>
 
 
+* [【2024-09-26】 游戏《冰汽时代2》中的“暖券”是什么？在现实中有类似的通货么？](http://www.zhihu.com/question/667494988/answer/3630157856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+* [【2024-09-25】 已经掌握独立建造第三代核电站的技术的国家有哪些？](http://www.zhihu.com/question/19700567/answer/3635928923?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-25】 Reverse-o1:OpenAI o1原理逆向工程图解](http://zhuanlan.zhihu.com/p/721952915?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-24】 你一直坚持热爱的事情是什么？坚持了多久？](http://www.zhihu.com/question/23473414/answer/3634688765?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-24】 中国制造能否诞生「奢侈品」？](http://www.zhihu.com/question/19825959/answer/3634614274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -81,8 +83,6 @@
 * [【2024-09-23】 如何评价游戏《废土3》？](http://www.zhihu.com/question/378008009/answer/1468710463?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-23】 有人可以把《战锤2：全面战争》的背景故事和人物关系讲清楚吗？](http://www.zhihu.com/question/463856156/answer/1937948036?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-23】 OpenAI o1 self-play RL 技术路线推演](http://zhuanlan.zhihu.com/p/720106482?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-20】 给独立游戏制作人的进阶建议](http://zhuanlan.zhihu.com/p/690749704?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-20】 黑神话悟空：斗罢艰险，能否出发？](http://zhuanlan.zhihu.com/p/718886088?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-25 05:15:26
+:alarm_clock: 更新时间: 2024-09-26 05:15:01

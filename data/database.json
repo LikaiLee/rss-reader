@@ -803,6 +803,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "在西域古城喀什噶尔，我想追求的只有快乐",
+                "link": "https://sspai.com/post/92389",
+                "published": "2024-09-26"
+            },
+            {
+                "title": "派早报：魅族推出多款新品、Nothing Ear (open) 正式公开等",
+                "link": "https://sspai.com/post/92557",
+                "published": "2024-09-26"
+            },
+            {
+                "title": "为日常增添「幸福感」：他们分享了 6 个生活好物",
+                "link": "https://sspai.com/post/92382",
+                "published": "2024-09-25"
+            },
+            {
+                "title": "线下活动：感知色彩与材质世界 | CMF 设计探索工坊及 Nothing 产品交流会",
+                "link": "https://sspai.com/post/92530",
+                "published": "2024-09-25"
+            },
+            {
+                "title": "接纳不等于忍受，这是我的 Windows 11 设置思路",
+                "link": "https://sspai.com/post/92064",
+                "published": "2024-09-25"
+            },
+            {
                 "title": "一日一技 | 用 Tasker 切换三星「即圈即搜」搜索源",
                 "link": "https://sspai.com/post/92193",
                 "published": "2024-09-25"
@@ -21653,7 +21678,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -52109,6 +52134,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "游戏《冰汽时代2》中的“暖券”是什么？在现实中有类似的通货么？",
+                "link": "http://www.zhihu.com/question/667494988/answer/3630157856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-26"
+            },
+            {
+                "title": "已经掌握独立建造第三代核电站的技术的国家有哪些？",
+                "link": "http://www.zhihu.com/question/19700567/answer/3635928923?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-25"
+            },
+            {
                 "title": "Reverse-o1:OpenAI o1原理逆向工程图解",
                 "link": "http://zhuanlan.zhihu.com/p/721952915?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-09-25"
@@ -61699,7 +61734,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 2
     },
     {
         "id": 4,
