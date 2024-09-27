@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 319 期）：如何拍出爆款视频",
+                "link": "http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html",
+                "published": "2024-09-27"
+            },
+            {
                 "title": "科技爱好者周刊（第 318 期）：创业咖啡馆的记忆",
                 "link": "http://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html",
                 "published": "2024-09-20"
@@ -795,13 +800,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "我做了个 AI 助手，让「稍后读」清单学会自我管理",
+                "link": "https://sspai.com/post/91575",
+                "published": "2024-09-27"
+            },
+            {
+                "title": "派早报：Meta 发布新款 VR 头显、SteelSeries 发布新款入耳式耳机等",
+                "link": "https://sspai.com/post/92581",
+                "published": "2024-09-27"
+            },
+            {
+                "title": "iOS 如何按地区限制功能：浅析 MobileGestalt 与 Eligibility",
+                "link": "https://sspai.com/prime/story/ios-feature-region-lock",
+                "published": "2024-09-26"
+            },
+            {
+                "title": "新玩意 193｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/92573",
+                "published": "2024-09-26"
+            },
+            {
+                "title": "iPhone 16 Pro 体验：年年岁岁花相似，今年何处不相同？",
+                "link": "https://sspai.com/post/92537",
+                "published": "2024-09-26"
+            },
             {
                 "title": "在西域古城喀什噶尔，我想追求的只有快乐",
                 "link": "https://sspai.com/post/92389",
@@ -52134,6 +52164,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "游戏的系列作品，下一作应该如何削弱前作中玩家已经养成的“战神”级角色？",
+                "link": "http://www.zhihu.com/question/667962011/answer/3633824129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-27"
+            },
+            {
                 "title": "游戏《冰汽时代2》中的“暖券”是什么？在现实中有类似的通货么？",
                 "link": "http://www.zhihu.com/question/667494988/answer/3630157856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-09-26"
@@ -61734,7 +61769,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,
