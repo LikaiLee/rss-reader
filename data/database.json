@@ -800,13 +800,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/92597",
+                "published": "2024-09-27"
+            },
+            {
+                "title": "不止于轻薄，我的 Apple Watch Series 10 一周体验",
+                "link": "https://sspai.com/post/92560",
+                "published": "2024-09-27"
+            },
+            {
+                "title": "水獭周边 | 不割手、带着走，「拆獭」开箱刀大家这样说……",
+                "link": "https://sspai.com/post/92561",
+                "published": "2024-09-27"
+            },
             {
                 "title": "我做了个 AI 助手，让「稍后读」清单学会自我管理",
                 "link": "https://sspai.com/post/91575",
@@ -21708,7 +21723,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -52163,6 +52178,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "最新一期「优秀答主」名单揭晓，快来看看都有哪些宝藏答主~",
+                "link": "http://zhuanlan.zhihu.com/p/722278385?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-27"
+            },
             {
                 "title": "游戏的系列作品，下一作应该如何削弱前作中玩家已经养成的“战神”级角色？",
                 "link": "http://www.zhihu.com/question/667962011/answer/3633824129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
