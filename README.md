@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选) 【+1】
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-09-29】 All in Windows 的失败，是傲慢还是必然？](https://sspai.com/post/92388)
+* [【2024-09-28】 一日一技｜为升级到 DSM 7.2.2 的群晖装回 Video Station 套件](https://sspai.com/post/92455)
 * [【2024-09-27】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/92597)
 * [【2024-09-27】 不止于轻薄，我的 Apple Watch Series 10 一周体验](https://sspai.com/post/92560)
 * [【2024-09-27】 水獭周边 | 不割手、带着走，「拆獭」开箱刀大家这样说……](https://sspai.com/post/92561)
@@ -43,8 +45,6 @@
 * [【2024-09-26】 iOS 如何按地区限制功能：浅析 MobileGestalt 与 Eligibility](https://sspai.com/prime/story/ios-feature-region-lock)
 * [【2024-09-26】 新玩意 193｜少数派的编辑们最近买了啥？](https://sspai.com/post/92573)
 * [【2024-09-26】 iPhone 16 Pro 体验：年年岁岁花相似，今年何处不相同？](https://sspai.com/post/92537)
-* [【2024-09-26】 在西域古城喀什噶尔，我想追求的只有快乐](https://sspai.com/post/92389)
-* [【2024-09-26】 派早报：魅族推出多款新品、Nothing Ear (open) 正式公开等](https://sspai.com/post/92557)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -73,6 +73,7 @@
     </summary>
 
 
+* [【2024-09-29】 为什么即时战略游戏越来越落寞？](http://www.zhihu.com/question/36160228/answer/3267149436?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-27】 最新一期「优秀答主」名单揭晓，快来看看都有哪些宝藏答主~](http://zhuanlan.zhihu.com/p/722278385?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-27】 游戏的系列作品，下一作应该如何削弱前作中玩家已经养成的“战神”级角色？](http://www.zhihu.com/question/667962011/answer/3633824129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-26】 游戏《冰汽时代2》中的“暖券”是什么？在现实中有类似的通货么？](http://www.zhihu.com/question/667494988/answer/3630157856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -82,7 +83,6 @@
 * [【2024-09-24】 中国制造能否诞生「奢侈品」？](http://www.zhihu.com/question/19825959/answer/3634614274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-24】 独立游戏在中国 插曲：手游版号办理完全攻略](http://zhuanlan.zhihu.com/p/24856060?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [【2024-09-24】 如何评价《黑神话：悟空》这款游戏？它到底好不好玩？](http://www.zhihu.com/question/664775480/answer/3634435096?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-* [【2024-09-23】 如何评价游戏《废土3》？](http://www.zhihu.com/question/378008009/answer/1468710463?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 * [:arrow_forward: 全部文章](data/知乎每日精选.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-28 05:13:48
+:alarm_clock: 更新时间: 2024-09-29 05:14:04

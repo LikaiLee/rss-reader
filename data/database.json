@@ -808,6 +808,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "All in Windows 的失败，是傲慢还是必然？",
+                "link": "https://sspai.com/post/92388",
+                "published": "2024-09-29"
+            },
+            {
+                "title": "一日一技｜为升级到 DSM 7.2.2 的群晖装回 Video Station 套件",
+                "link": "https://sspai.com/post/92455",
+                "published": "2024-09-28"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 10 部作品",
                 "link": "https://sspai.com/post/92597",
                 "published": "2024-09-27"
@@ -21723,7 +21733,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -52178,6 +52188,11 @@
         "title": "知乎每日精选",
         "url": "https://www.zhihu.com/rss",
         "feeds": [
+            {
+                "title": "为什么即时战略游戏越来越落寞？",
+                "link": "http://www.zhihu.com/question/36160228/answer/3267149436?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-29"
+            },
             {
                 "title": "最新一期「优秀答主」名单揭晓，快来看看都有哪些宝藏答主~",
                 "link": "http://zhuanlan.zhihu.com/p/722278385?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
