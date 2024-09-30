@@ -808,6 +808,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "reMarkable Paper Pro 快速体验与中文字体指北",
+                "link": "https://sspai.com/post/87393",
+                "published": "2024-09-30"
+            },
+            {
+                "title": "派早报：OpenAI 计划 ChatGPT 涨价，即将完成新融资",
+                "link": "https://sspai.com/post/92644",
+                "published": "2024-09-30"
+            },
+            {
+                "title": "本月玩什么 | 智慧的再现、宇宙机器人、UFO 50、冰汽时代 2 等",
+                "link": "https://sspai.com/post/92622",
+                "published": "2024-09-29"
+            },
+            {
                 "title": "All in Windows 的失败，是傲慢还是必然？",
                 "link": "https://sspai.com/post/92388",
                 "published": "2024-09-29"
@@ -21733,7 +21748,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -61804,7 +61819,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,
