@@ -808,6 +808,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "深入 iPhone 16 Plus：距离完美的最后一步",
+                "link": "https://sspai.com/post/92648",
+                "published": "2024-09-30"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/92661",
+                "published": "2024-09-30"
+            },
+            {
+                "title": "在吃螃蟹最好的季节，用这 10 种做法尝尝鲜",
+                "link": "https://sspai.com/prime/story/crab-cooking-guide",
+                "published": "2024-09-30"
+            },
+            {
+                "title": "曲中秘闻：埋在《黑神话：悟空》配乐里的经与咒",
+                "link": "https://sspai.com/prime/story/black-myth-mantra",
+                "published": "2024-09-30"
+            },
+            {
                 "title": "reMarkable Paper Pro 快速体验与中文字体指北",
                 "link": "https://sspai.com/post/87393",
                 "published": "2024-09-30"
@@ -21748,7 +21768,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,

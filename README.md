@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-09-30】 深入 iPhone 16 Plus：距离完美的最后一步](https://sspai.com/post/92648)
+* [【2024-09-30】 派评 | 近期值得关注的 App](https://sspai.com/post/92661)
+* [【2024-09-30】 在吃螃蟹最好的季节，用这 10 种做法尝尝鲜](https://sspai.com/prime/story/crab-cooking-guide)
+* [【2024-09-30】 曲中秘闻：埋在《黑神话：悟空》配乐里的经与咒](https://sspai.com/prime/story/black-myth-mantra)
 * [【2024-09-30】 reMarkable Paper Pro 快速体验与中文字体指北](https://sspai.com/post/87393)
 * [【2024-09-30】 派早报：OpenAI 计划 ChatGPT 涨价，即将完成新融资](https://sspai.com/post/92644)
 * [【2024-09-29】 本月玩什么 | 智慧的再现、宇宙机器人、UFO 50、冰汽时代 2 等](https://sspai.com/post/92622)
 * [【2024-09-29】 All in Windows 的失败，是傲慢还是必然？](https://sspai.com/post/92388)
 * [【2024-09-28】 一日一技｜为升级到 DSM 7.2.2 的群晖装回 Video Station 套件](https://sspai.com/post/92455)
 * [【2024-09-27】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/92597)
-* [【2024-09-27】 不止于轻薄，我的 Apple Watch Series 10 一周体验](https://sspai.com/post/92560)
-* [【2024-09-27】 水獭周边 | 不割手、带着走，「拆獭」开箱刀大家这样说……](https://sspai.com/post/92561)
-* [【2024-09-27】 我做了个 AI 助手，让「稍后读」清单学会自我管理](https://sspai.com/post/91575)
-* [【2024-09-27】 派早报：Meta 发布新款 VR 头显、SteelSeries 发布新款入耳式耳机等](https://sspai.com/post/92581)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-09-30 05:15:26
+:alarm_clock: 更新时间: 2024-10-01 05:15:21
