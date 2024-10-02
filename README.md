@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-10-01】 社区速递 063 | 你没见过的社区文章、一周最热评、派友八月买的啥](https://sspai.com/post/92669)
 * [【2024-09-30】 深入 iPhone 16 Plus：距离完美的最后一步](https://sspai.com/post/92648)
 * [【2024-09-30】 派评 | 近期值得关注的 App](https://sspai.com/post/92661)
 * [【2024-09-30】 在吃螃蟹最好的季节，用这 10 种做法尝尝鲜](https://sspai.com/prime/story/crab-cooking-guide)
@@ -44,7 +45,6 @@
 * [【2024-09-29】 本月玩什么 | 智慧的再现、宇宙机器人、UFO 50、冰汽时代 2 等](https://sspai.com/post/92622)
 * [【2024-09-29】 All in Windows 的失败，是傲慢还是必然？](https://sspai.com/post/92388)
 * [【2024-09-28】 一日一技｜为升级到 DSM 7.2.2 的群晖装回 Video Station 套件](https://sspai.com/post/92455)
-* [【2024-09-27】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/92597)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-01 05:15:21
+:alarm_clock: 更新时间: 2024-10-02 05:15:06

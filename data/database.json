@@ -808,6 +808,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "社区速递 063 | 你没见过的社区文章、一周最热评、派友八月买的啥",
+                "link": "https://sspai.com/post/92669",
+                "published": "2024-10-01"
+            },
+            {
                 "title": "深入 iPhone 16 Plus：距离完美的最后一步",
                 "link": "https://sspai.com/post/92648",
                 "published": "2024-09-30"
@@ -21768,7 +21773,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
