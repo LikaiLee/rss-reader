@@ -808,6 +808,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "当女孩成为武器：追忆被遗忘的战时人工算力",
+                "link": "https://sspai.com/post/92219",
+                "published": "2024-10-03"
+            },
+            {
+                "title": "小长假不片荒，精选好剧助你刷够 7 天乐",
+                "link": "https://sspai.com/post/92632",
+                "published": "2024-10-02"
+            },
+            {
                 "title": "社区速递 063 | 你没见过的社区文章、一周最热评、派友八月买的啥",
                 "link": "https://sspai.com/post/92669",
                 "published": "2024-10-01"
@@ -21773,7 +21783,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
