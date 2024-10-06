@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-10-05】 重新认识读书这件小事：谈我的「读书之道」](https://sspai.com/post/90963)
+* [【2024-10-05】 一日一技 | 用 iOS 快捷指令和 AI，DIY 一个更好用的「闪念笔记」](https://sspai.com/post/92610)
 * [【2024-10-03】 当女孩成为武器：追忆被遗忘的战时人工算力](https://sspai.com/post/92219)
 * [【2024-10-02】 小长假不片荒，精选好剧助你刷够 7 天乐](https://sspai.com/post/92632)
 * [【2024-10-01】 社区速递 063 | 你没见过的社区文章、一周最热评、派友八月买的啥](https://sspai.com/post/92669)
@@ -43,8 +45,6 @@
 * [【2024-09-30】 在吃螃蟹最好的季节，用这 10 种做法尝尝鲜](https://sspai.com/prime/story/crab-cooking-guide)
 * [【2024-09-30】 曲中秘闻：埋在《黑神话：悟空》配乐里的经与咒](https://sspai.com/prime/story/black-myth-mantra)
 * [【2024-09-30】 reMarkable Paper Pro 快速体验与中文字体指北](https://sspai.com/post/87393)
-* [【2024-09-30】 派早报：OpenAI 计划 ChatGPT 涨价，即将完成新融资](https://sspai.com/post/92644)
-* [【2024-09-29】 本月玩什么 | 智慧的再现、宇宙机器人、UFO 50、冰汽时代 2 等](https://sspai.com/post/92622)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-05 05:14:25
+:alarm_clock: 更新时间: 2024-10-06 05:14:06
