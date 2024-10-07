@@ -808,6 +808,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "爱好的保鲜和培养：成年人也要好好活着",
+                "link": "https://sspai.com/post/90445",
+                "published": "2024-10-06"
+            },
+            {
                 "title": "重新认识读书这件小事：谈我的「读书之道」",
                 "link": "https://sspai.com/post/90963",
                 "published": "2024-10-05"
@@ -21793,7 +21798,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,

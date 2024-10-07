@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-10-06】 爱好的保鲜和培养：成年人也要好好活着](https://sspai.com/post/90445)
 * [【2024-10-05】 重新认识读书这件小事：谈我的「读书之道」](https://sspai.com/post/90963)
 * [【2024-10-05】 一日一技 | 用 iOS 快捷指令和 AI，DIY 一个更好用的「闪念笔记」](https://sspai.com/post/92610)
 * [【2024-10-03】 当女孩成为武器：追忆被遗忘的战时人工算力](https://sspai.com/post/92219)
@@ -44,7 +45,6 @@
 * [【2024-09-30】 派评 | 近期值得关注的 App](https://sspai.com/post/92661)
 * [【2024-09-30】 在吃螃蟹最好的季节，用这 10 种做法尝尝鲜](https://sspai.com/prime/story/crab-cooking-guide)
 * [【2024-09-30】 曲中秘闻：埋在《黑神话：悟空》配乐里的经与咒](https://sspai.com/prime/story/black-myth-mantra)
-* [【2024-09-30】 reMarkable Paper Pro 快速体验与中文字体指北](https://sspai.com/post/87393)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-06 05:14:06
+:alarm_clock: 更新时间: 2024-10-07 05:16:25
