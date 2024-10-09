@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-10-09】 打造自主、安全、可控的摄像头：我的智能家居监控方案](https://sspai.com/post/92566)
+* [【2024-10-08】 派早报：原生鸿蒙系统公测开启、Google 在反垄断诉讼中败诉等](https://sspai.com/post/92760)
+* [【2024-10-08】 5G 套餐如何做到「便宜大碗」？CPE、MiFi 和物联卡初探](https://sspai.com/post/92452)
+* [【2024-10-08】 感谢捉虫：聊聊自动更正的前世今生](https://sspai.com/post/92657)
 * [【2024-10-08】 从三维设计师入坑三年，我是这样使用 Mac 的](https://sspai.com/post/91848)
 * [【2024-10-08】 派早报：育碧回应收购传闻、浏览器厂商要求欧盟限制 Edge 等](https://sspai.com/post/92738)
 * [【2024-10-07】 善用 Logseq 复盘每周 DailyLog 笔记](https://sspai.com/post/92446)
 * [【2024-10-06】 爱好的保鲜和培养：成年人也要好好活着](https://sspai.com/post/90445)
 * [【2024-10-05】 重新认识读书这件小事：谈我的「读书之道」](https://sspai.com/post/90963)
 * [【2024-10-05】 一日一技 | 用 iOS 快捷指令和 AI，DIY 一个更好用的「闪念笔记」](https://sspai.com/post/92610)
-* [【2024-10-03】 当女孩成为武器：追忆被遗忘的战时人工算力](https://sspai.com/post/92219)
-* [【2024-10-02】 小长假不片荒，精选好剧助你刷够 7 天乐](https://sspai.com/post/92632)
-* [【2024-10-01】 社区速递 063 | 你没见过的社区文章、一周最热评、派友八月买的啥](https://sspai.com/post/92669)
-* [【2024-09-30】 深入 iPhone 16 Plus：距离完美的最后一步](https://sspai.com/post/92648)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-08 05:15:01
+:alarm_clock: 更新时间: 2024-10-09 05:16:15

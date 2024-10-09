@@ -808,6 +808,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "打造自主、安全、可控的摄像头：我的智能家居监控方案",
+                "link": "https://sspai.com/post/92566",
+                "published": "2024-10-09"
+            },
+            {
+                "title": "派早报：原生鸿蒙系统公测开启、Google 在反垄断诉讼中败诉等",
+                "link": "https://sspai.com/post/92760",
+                "published": "2024-10-08"
+            },
+            {
+                "title": "5G 套餐如何做到「便宜大碗」？CPE、MiFi 和物联卡初探",
+                "link": "https://sspai.com/post/92452",
+                "published": "2024-10-08"
+            },
+            {
+                "title": "感谢捉虫：聊聊自动更正的前世今生",
+                "link": "https://sspai.com/post/92657",
+                "published": "2024-10-08"
+            },
+            {
                 "title": "从三维设计师入坑三年，我是这样使用 Mac 的",
                 "link": "https://sspai.com/post/91848",
                 "published": "2024-10-08"
@@ -21813,7 +21833,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
