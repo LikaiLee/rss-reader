@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "后面试时代与 AI 刷题",
+                "link": "http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html",
+                "published": "2024-10-10"
+            },
+            {
                 "title": "科技爱好者周刊（第 319 期）：如何拍出爆款视频",
                 "link": "http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html",
                 "published": "2024-09-27"
@@ -800,13 +805,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派早报：天玑 9400 处理器正式发布、微信新增「搜索直达」等",
+                "link": "https://sspai.com/post/92787",
+                "published": "2024-10-10"
+            },
+            {
+                "title": "从零开始，入门 Android 自动化高级应用 Tasker",
+                "link": "https://sspai.com/prime/story/get-started-with-tasker-intro",
+                "published": "2024-10-09"
+            },
+            {
+                "title": "如果 Zune 还活着，它应该长什么样子？",
+                "link": "https://sspai.com/post/92714",
+                "published": "2024-10-09"
+            },
+            {
+                "title": "让洗衣不再为难：看标签选购适合自己的洗衣液",
+                "link": "https://sspai.com/post/92764",
+                "published": "2024-10-09"
+            },
             {
                 "title": "打造自主、安全、可控的摄像头：我的智能家居监控方案",
                 "link": "https://sspai.com/post/92566",
