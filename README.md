@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-10-11】 科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html)
 * [【2024-10-10】 后面试时代与 AI 刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html)
 * [【2024-09-27】 科技爱好者周刊（第 319 期）：如何拍出爆款视频](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html)
 * [【2024-09-20】 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html)
@@ -25,7 +26,6 @@
 * [【2024-08-30】 科技爱好者周刊（第 315 期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)
 * [【2024-08-23】 科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)
 * [【2024-08-16】 科技爱好者周刊（第 313 期）：如果新加坡没有空调](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html)
-* [【2024-08-09】 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-10-11】 书签「上上千」：用 Linkding 和 Trilium 自建服务轻松管理](https://sspai.com/post/92796)
+* [【2024-10-11】 派早报：vivo 开发者大会开幕、Intel 发布新款桌面级 Core Ultra 200S 系列处理器等](https://sspai.com/post/92817)
+* [【2024-10-10】 看什么 Café | 日剧观看指南：编剧篇](https://sspai.com/post/92507)
+* [【2024-10-10】 不变的颜值，更强的连接，少数派定制 Keychron K3 Max](https://sspai.com/post/92779)
+* [【2024-10-10】 日本浮生录 06：漫步古街、高山徒步，在金泽富山畅享夏日](https://sspai.com/post/92519)
+* [【2024-10-10】 已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒](https://sspai.com/post/92653)
 * [【2024-10-10】 派早报：天玑 9400 处理器正式发布、微信新增「搜索直达」等](https://sspai.com/post/92787)
 * [【2024-10-09】 从零开始，入门 Android 自动化高级应用 Tasker](https://sspai.com/prime/story/get-started-with-tasker-intro)
 * [【2024-10-09】 如果 Zune 还活着，它应该长什么样子？](https://sspai.com/post/92714)
 * [【2024-10-09】 让洗衣不再为难：看标签选购适合自己的洗衣液](https://sspai.com/post/92764)
-* [【2024-10-09】 打造自主、安全、可控的摄像头：我的智能家居监控方案](https://sspai.com/post/92566)
-* [【2024-10-08】 派早报：原生鸿蒙系统公测开启、Google 在反垄断诉讼中败诉等](https://sspai.com/post/92760)
-* [【2024-10-08】 5G 套餐如何做到「便宜大碗」？CPE、MiFi 和物联卡初探](https://sspai.com/post/92452)
-* [【2024-10-08】 感谢捉虫：聊聊自动更正的前世今生](https://sspai.com/post/92657)
-* [【2024-10-08】 从三维设计师入坑三年，我是这样使用 Mac 的](https://sspai.com/post/91848)
-* [【2024-10-08】 派早报：育碧回应收购传闻、浏览器厂商要求欧盟限制 Edge 等](https://sspai.com/post/92738)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-10 05:15:18
+:alarm_clock: 更新时间: 2024-10-11 05:14:51

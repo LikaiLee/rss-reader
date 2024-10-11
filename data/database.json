@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 320 期）：乒乓仓",
+                "link": "http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html",
+                "published": "2024-10-11"
+            },
+            {
                 "title": "后面试时代与 AI 刷题",
                 "link": "http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html",
                 "published": "2024-10-10"
@@ -812,6 +817,36 @@
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "书签「上上千」：用 Linkding 和 Trilium 自建服务轻松管理",
+                "link": "https://sspai.com/post/92796",
+                "published": "2024-10-11"
+            },
+            {
+                "title": "派早报：vivo 开发者大会开幕、Intel 发布新款桌面级 Core Ultra 200S 系列处理器等",
+                "link": "https://sspai.com/post/92817",
+                "published": "2024-10-11"
+            },
+            {
+                "title": "看什么 Café | 日剧观看指南：编剧篇",
+                "link": "https://sspai.com/post/92507",
+                "published": "2024-10-10"
+            },
+            {
+                "title": "不变的颜值，更强的连接，少数派定制 Keychron K3 Max",
+                "link": "https://sspai.com/post/92779",
+                "published": "2024-10-10"
+            },
+            {
+                "title": "日本浮生录 06：漫步古街、高山徒步，在金泽富山畅享夏日",
+                "link": "https://sspai.com/post/92519",
+                "published": "2024-10-10"
+            },
+            {
+                "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
+                "link": "https://sspai.com/post/92653",
+                "published": "2024-10-10"
+            },
             {
                 "title": "派早报：天玑 9400 处理器正式发布、微信新增「搜索直达」等",
                 "link": "https://sspai.com/post/92787",
@@ -21858,7 +21893,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
