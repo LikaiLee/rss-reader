@@ -810,13 +810,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "城市漫步指南：掠过七月的曼谷",
+                "link": "https://sspai.com/post/91357",
+                "published": "2024-10-12"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/92850",
+                "published": "2024-10-11"
+            },
+            {
+                "title": "仍是那颗「恐怖游戏」桂冠上的明珠：《寂静岭 2 重制版》游玩体验",
+                "link": "https://sspai.com/post/92829",
+                "published": "2024-10-11"
+            },
             {
                 "title": "书签「上上千」：用 Linkding 和 Trilium 自建服务轻松管理",
                 "link": "https://sspai.com/post/92796",
@@ -21893,7 +21908,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 2,

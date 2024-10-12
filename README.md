@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-10-12】 城市漫步指南：掠过七月的曼谷](https://sspai.com/post/91357)
+* [【2024-10-11】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/92850)
+* [【2024-10-11】 仍是那颗「恐怖游戏」桂冠上的明珠：《寂静岭 2 重制版》游玩体验](https://sspai.com/post/92829)
 * [【2024-10-11】 书签「上上千」：用 Linkding 和 Trilium 自建服务轻松管理](https://sspai.com/post/92796)
 * [【2024-10-11】 派早报：vivo 开发者大会开幕、Intel 发布新款桌面级 Core Ultra 200S 系列处理器等](https://sspai.com/post/92817)
 * [【2024-10-10】 看什么 Café | 日剧观看指南：编剧篇](https://sspai.com/post/92507)
@@ -42,9 +45,6 @@
 * [【2024-10-10】 日本浮生录 06：漫步古街、高山徒步，在金泽富山畅享夏日](https://sspai.com/post/92519)
 * [【2024-10-10】 已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒](https://sspai.com/post/92653)
 * [【2024-10-10】 派早报：天玑 9400 处理器正式发布、微信新增「搜索直达」等](https://sspai.com/post/92787)
-* [【2024-10-09】 从零开始，入门 Android 自动化高级应用 Tasker](https://sspai.com/prime/story/get-started-with-tasker-intro)
-* [【2024-10-09】 如果 Zune 还活着，它应该长什么样子？](https://sspai.com/post/92714)
-* [【2024-10-09】 让洗衣不再为难：看标签选购适合自己的洗衣液](https://sspai.com/post/92764)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-11 05:14:51
+:alarm_clock: 更新时间: 2024-10-12 05:14:30
