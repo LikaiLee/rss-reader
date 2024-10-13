@@ -818,6 +818,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "佳能无反系统购买指南",
+                "link": "https://sspai.com/prime/story/canon-mirrorless-buyers-guide",
+                "published": "2024-10-12"
+            },
+            {
                 "title": "城市漫步指南：掠过七月的曼谷",
                 "link": "https://sspai.com/post/91357",
                 "published": "2024-10-12"
@@ -21908,7 +21913,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
