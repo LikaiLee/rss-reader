@@ -818,6 +818,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "如何用 4 到 6 个月从零基础自学过 N2",
+                "link": "https://sspai.com/post/92308",
+                "published": "2024-10-14"
+            },
+            {
+                "title": "派早报：上交所通过重启系统解决堵单问题",
+                "link": "https://sspai.com/post/92897",
+                "published": "2024-10-14"
+            },
+            {
+                "title": "从来如此便是对吗？来自「愣头青」的杰作：BALMUDA Phone",
+                "link": "https://sspai.com/post/92454",
+                "published": "2024-10-13"
+            },
+            {
                 "title": "佳能无反系统购买指南",
                 "link": "https://sspai.com/prime/story/canon-mirrorless-buyers-guide",
                 "published": "2024-10-12"
@@ -21913,7 +21928,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

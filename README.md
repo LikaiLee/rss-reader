@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-10-14】 如何用 4 到 6 个月从零基础自学过 N2](https://sspai.com/post/92308)
+* [【2024-10-14】 派早报：上交所通过重启系统解决堵单问题](https://sspai.com/post/92897)
+* [【2024-10-13】 从来如此便是对吗？来自「愣头青」的杰作：BALMUDA Phone](https://sspai.com/post/92454)
 * [【2024-10-12】 佳能无反系统购买指南](https://sspai.com/prime/story/canon-mirrorless-buyers-guide)
 * [【2024-10-12】 城市漫步指南：掠过七月的曼谷](https://sspai.com/post/91357)
 * [【2024-10-11】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/92850)
@@ -42,9 +45,6 @@
 * [【2024-10-11】 书签「上上千」：用 Linkding 和 Trilium 自建服务轻松管理](https://sspai.com/post/92796)
 * [【2024-10-11】 派早报：vivo 开发者大会开幕、Intel 发布新款桌面级 Core Ultra 200S 系列处理器等](https://sspai.com/post/92817)
 * [【2024-10-10】 看什么 Café | 日剧观看指南：编剧篇](https://sspai.com/post/92507)
-* [【2024-10-10】 不变的颜值，更强的连接，少数派定制 Keychron K3 Max](https://sspai.com/post/92779)
-* [【2024-10-10】 日本浮生录 06：漫步古街、高山徒步，在金泽富山畅享夏日](https://sspai.com/post/92519)
-* [【2024-10-10】 已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒](https://sspai.com/post/92653)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-13 05:15:36
+:alarm_clock: 更新时间: 2024-10-14 05:15:47
