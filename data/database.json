@@ -818,6 +818,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "应急储备包制作经验分享：打造个人应急「救生圈」",
+                "link": "https://sspai.com/post/92664",
+                "published": "2024-10-15"
+            },
+            {
+                "title": "派早报：vivo 发布 X200 系列等新品，富士发布 X-M5 无反数码相机等",
+                "link": "https://sspai.com/post/92923",
+                "published": "2024-10-15"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/92918",
+                "published": "2024-10-14"
+            },
+            {
+                "title": "日本浮生录 06：漫步古街、高山徒步，在金泽富山畅享夏日",
+                "link": "https://sspai.com/post/92519",
+                "published": "2024-10-14"
+            },
+            {
                 "title": "如何用 4 到 6 个月从零基础自学过 N2",
                 "link": "https://sspai.com/post/92308",
                 "published": "2024-10-14"
@@ -21928,7 +21948,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
