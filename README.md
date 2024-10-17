@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-10-17】 从 Face ID 到 ARKit，苹果收购多少公司才认清了你的脸？](https://sspai.com/post/92798)
+* [【2024-10-17】 派早报：AMD 等多家巨头组建 x86 生态小组、Adobe 展示多款 AI 工具等](https://sspai.com/post/92974)
+* [【2024-10-16】 「双十一」开启之际，复习一些能让你少花钱的网购常识](https://sspai.com/post/92952)
+* [【2024-10-16】 vivo X200 Pro：可以打电话的相机有什么不好？](https://sspai.com/post/92954)
 * [【2024-10-16】 哈巴雪山高山徒步初体验：没有人工的自然，才是真的世界](https://sspai.com/post/89841)
 * [【2024-10-15】 派早报：Apple 发布新款 iPad mini、30 周年限定版 PS5 国内预约细节公布等](https://sspai.com/post/92953)
 * [【2024-10-15】 具透 | 一边搬家、一边填坑：Windows 11 24H2 更新速览](https://sspai.com/post/92942)
 * [【2024-10-15】 社区速递 064 | 你没见过的社区文章、一周最热评、手机与相机的碰撞](https://sspai.com/post/92935)
 * [【2024-10-15】 线下活动：开发者 Demo Day | 和更多独立创造者一起，交流产品与思考](https://sspai.com/post/92930)
 * [【2024-10-15】 应急储备包制作经验分享：打造个人应急「救生圈」](https://sspai.com/post/92664)
-* [【2024-10-15】 派早报：vivo 发布 X200 系列等新品，富士发布 X-M5 无反数码相机等](https://sspai.com/post/92923)
-* [【2024-10-14】 派评 | 近期值得关注的 App](https://sspai.com/post/92918)
-* [【2024-10-14】 日本浮生录 06：漫步古街、高山徒步，在金泽富山畅享夏日](https://sspai.com/post/92519)
-* [【2024-10-14】 如何用 4 到 6 个月从零基础自学过 N2](https://sspai.com/post/92308)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-16 05:15:38
+:alarm_clock: 更新时间: 2024-10-17 05:15:33

@@ -818,6 +818,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从 Face ID 到 ARKit，苹果收购多少公司才认清了你的脸？",
+                "link": "https://sspai.com/post/92798",
+                "published": "2024-10-17"
+            },
+            {
+                "title": "派早报：AMD 等多家巨头组建 x86 生态小组、Adobe 展示多款 AI 工具等",
+                "link": "https://sspai.com/post/92974",
+                "published": "2024-10-17"
+            },
+            {
+                "title": "「双十一」开启之际，复习一些能让你少花钱的网购常识",
+                "link": "https://sspai.com/post/92952",
+                "published": "2024-10-16"
+            },
+            {
+                "title": "vivo X200 Pro：可以打电话的相机有什么不好？",
+                "link": "https://sspai.com/post/92954",
+                "published": "2024-10-16"
+            },
+            {
                 "title": "哈巴雪山高山徒步初体验：没有人工的自然，才是真的世界",
                 "link": "https://sspai.com/post/89841",
                 "published": "2024-10-16"
@@ -21973,7 +21993,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
