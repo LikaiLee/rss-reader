@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-10-17】 科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html)
 * [【2024-10-11】 科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html)
 * [【2024-10-10】 后面试时代与 AI 刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html)
 * [【2024-09-27】 科技爱好者周刊（第 319 期）：如何拍出爆款视频](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html)
@@ -25,7 +26,6 @@
 * [【2024-09-06】 科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)
 * [【2024-08-30】 科技爱好者周刊（第 315 期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)
 * [【2024-08-23】 科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)
-* [【2024-08-16】 科技爱好者周刊（第 313 期）：如果新加坡没有空调](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-10-18】 在尝试了 3 款开源个人记账项目后，谈谈我对这十多年的记账思考](https://sspai.com/post/92911)
+* [【2024-10-18】 派早报：OPPO 召开 2024 年开发者大会、亚马逊 Kindle 系列更新等](https://sspai.com/post/93006)
+* [【2024-10-17】 具透 Plus | Firefox 垂直标签、Windows 版 sudo 等近期半成品功能](https://sspai.com/prime/story/inside-release-notes-241017)
+* [【2024-10-17】 新玩意 194｜少数派的编辑们最近买了啥？](https://sspai.com/post/92993)
+* [【2024-10-17】 1024 程序员日：少数派×香蕉攀岩，邀请你来一起「debug」](https://sspai.com/post/92982)
+* [【2024-10-17】 城市漫步指南 | 穿行在圣彼得堡和莫斯科的大街小巷](https://sspai.com/post/92759)
 * [【2024-10-17】 从 Face ID 到 ARKit，苹果收购多少公司才认清了你的脸？](https://sspai.com/post/92798)
 * [【2024-10-17】 派早报：AMD 等多家巨头组建 x86 生态小组、Adobe 展示多款 AI 工具等](https://sspai.com/post/92974)
 * [【2024-10-16】 「双十一」开启之际，复习一些能让你少花钱的网购常识](https://sspai.com/post/92952)
 * [【2024-10-16】 vivo X200 Pro：可以打电话的相机有什么不好？](https://sspai.com/post/92954)
-* [【2024-10-16】 哈巴雪山高山徒步初体验：没有人工的自然，才是真的世界](https://sspai.com/post/89841)
-* [【2024-10-15】 派早报：Apple 发布新款 iPad mini、30 周年限定版 PS5 国内预约细节公布等](https://sspai.com/post/92953)
-* [【2024-10-15】 具透 | 一边搬家、一边填坑：Windows 11 24H2 更新速览](https://sspai.com/post/92942)
-* [【2024-10-15】 社区速递 064 | 你没见过的社区文章、一周最热评、手机与相机的碰撞](https://sspai.com/post/92935)
-* [【2024-10-15】 线下活动：开发者 Demo Day | 和更多独立创造者一起，交流产品与思考](https://sspai.com/post/92930)
-* [【2024-10-15】 应急储备包制作经验分享：打造个人应急「救生圈」](https://sspai.com/post/92664)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-17 05:15:33
+:alarm_clock: 更新时间: 2024-10-18 05:15:27

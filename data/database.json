@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 321 期）：傅盛回忆录",
+                "link": "http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html",
+                "published": "2024-10-17"
+            },
+            {
                 "title": "科技爱好者周刊（第 320 期）：乒乓仓",
                 "link": "http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html",
                 "published": "2024-10-11"
@@ -810,13 +815,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "在尝试了 3 款开源个人记账项目后，谈谈我对这十多年的记账思考",
+                "link": "https://sspai.com/post/92911",
+                "published": "2024-10-18"
+            },
+            {
+                "title": "派早报：OPPO 召开 2024 年开发者大会、亚马逊 Kindle 系列更新等",
+                "link": "https://sspai.com/post/93006",
+                "published": "2024-10-18"
+            },
+            {
+                "title": "具透 Plus | Firefox 垂直标签、Windows 版 sudo 等近期半成品功能",
+                "link": "https://sspai.com/prime/story/inside-release-notes-241017",
+                "published": "2024-10-17"
+            },
+            {
+                "title": "新玩意 194｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/92993",
+                "published": "2024-10-17"
+            },
+            {
+                "title": "1024 程序员日：少数派×香蕉攀岩，邀请你来一起「debug」",
+                "link": "https://sspai.com/post/92982",
+                "published": "2024-10-17"
+            },
+            {
+                "title": "城市漫步指南 | 穿行在圣彼得堡和莫斯科的大街小巷",
+                "link": "https://sspai.com/post/92759",
+                "published": "2024-10-17"
+            },
             {
                 "title": "从 Face ID 到 ARKit，苹果收购多少公司才认清了你的脸？",
                 "link": "https://sspai.com/post/92798",
@@ -21993,7 +22028,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
