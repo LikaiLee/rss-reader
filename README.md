@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-10-18】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/93015)
+* [【2024-10-18】 叮叮当！想收到圣诞老人来信？现在动笔还来得及](https://sspai.com/post/91926)
 * [【2024-10-18】 在尝试了 3 款开源个人记账项目后，谈谈我对这十多年的记账思考](https://sspai.com/post/92911)
 * [【2024-10-18】 派早报：OPPO 召开 2024 年开发者大会、亚马逊 Kindle 系列更新等](https://sspai.com/post/93006)
 * [【2024-10-17】 具透 Plus | Firefox 垂直标签、Windows 版 sudo 等近期半成品功能](https://sspai.com/prime/story/inside-release-notes-241017)
@@ -43,8 +45,6 @@
 * [【2024-10-17】 城市漫步指南 | 穿行在圣彼得堡和莫斯科的大街小巷](https://sspai.com/post/92759)
 * [【2024-10-17】 从 Face ID 到 ARKit，苹果收购多少公司才认清了你的脸？](https://sspai.com/post/92798)
 * [【2024-10-17】 派早报：AMD 等多家巨头组建 x86 生态小组、Adobe 展示多款 AI 工具等](https://sspai.com/post/92974)
-* [【2024-10-16】 「双十一」开启之际，复习一些能让你少花钱的网购常识](https://sspai.com/post/92952)
-* [【2024-10-16】 vivo X200 Pro：可以打电话的相机有什么不好？](https://sspai.com/post/92954)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-18 05:15:27
+:alarm_clock: 更新时间: 2024-10-19 05:14:14

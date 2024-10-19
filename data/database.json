@@ -815,13 +815,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/93015",
+                "published": "2024-10-18"
+            },
+            {
+                "title": "叮叮当！想收到圣诞老人来信？现在动笔还来得及",
+                "link": "https://sspai.com/post/91926",
+                "published": "2024-10-18"
+            },
             {
                 "title": "在尝试了 3 款开源个人记账项目后，谈谈我对这十多年的记账思考",
                 "link": "https://sspai.com/post/92911",
@@ -22028,7 +22038,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 2,
