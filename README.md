@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-10-21】 城市漫步指南：香港，繁体的花花世界陌生也新鲜](https://sspai.com/post/92888)
+* [【2024-10-21】 派早报：大疆起诉美国国防部](https://sspai.com/post/93058)
+* [【2024-10-20】 免费且实用，我用极影相机改善 iPhone SE 3 的摄影体验](https://sspai.com/post/92534)
 * [【2024-10-18】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/93015)
 * [【2024-10-18】 叮叮当！想收到圣诞老人来信？现在动笔还来得及](https://sspai.com/post/91926)
 * [【2024-10-18】 在尝试了 3 款开源个人记账项目后，谈谈我对这十多年的记账思考](https://sspai.com/post/92911)
@@ -42,9 +45,6 @@
 * [【2024-10-17】 具透 Plus | Firefox 垂直标签、Windows 版 sudo 等近期半成品功能](https://sspai.com/prime/story/inside-release-notes-241017)
 * [【2024-10-17】 新玩意 194｜少数派的编辑们最近买了啥？](https://sspai.com/post/92993)
 * [【2024-10-17】 1024 程序员日：少数派×香蕉攀岩，邀请你来一起「debug」](https://sspai.com/post/92982)
-* [【2024-10-17】 城市漫步指南 | 穿行在圣彼得堡和莫斯科的大街小巷](https://sspai.com/post/92759)
-* [【2024-10-17】 从 Face ID 到 ARKit，苹果收购多少公司才认清了你的脸？](https://sspai.com/post/92798)
-* [【2024-10-17】 派早报：AMD 等多家巨头组建 x86 生态小组、Adobe 展示多款 AI 工具等](https://sspai.com/post/92974)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-20 05:14:16
+:alarm_clock: 更新时间: 2024-10-21 05:15:42

@@ -823,6 +823,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫步指南：香港，繁体的花花世界陌生也新鲜",
+                "link": "https://sspai.com/post/92888",
+                "published": "2024-10-21"
+            },
+            {
+                "title": "派早报：大疆起诉美国国防部",
+                "link": "https://sspai.com/post/93058",
+                "published": "2024-10-21"
+            },
+            {
+                "title": "免费且实用，我用极影相机改善 iPhone SE 3 的摄影体验",
+                "link": "https://sspai.com/post/92534",
+                "published": "2024-10-20"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 10 部作品",
                 "link": "https://sspai.com/post/93015",
                 "published": "2024-10-18"
@@ -22038,7 +22053,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 2,
