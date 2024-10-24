@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+9】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-10-24】 用飞书多维表格和扫码枪，快速构建个人图书管理系统](https://sspai.com/post/93065)
+* [【2024-10-24】 派早报：Apple 回应 Apple Intelligence 入华进度、微信推出查看单删好友功能等](https://sspai.com/post/93195)
+* [【2024-10-23】 一个比 tmux 更友好的终端复用工具：Zellij 简介及使用技巧](https://sspai.com/prime/story/get-started-with-zellij)
+* [【2024-10-23】 给本地设备加一层保险：我的低功率 UPS 不间断电源构建思路](https://sspai.com/post/90258)
+* [【2024-10-23】 美西自驾 3000 公里：拉斯维加斯是罪恶都市还是娱乐天堂？](https://sspai.com/post/93000)
+* [【2024-10-23】 vivo X200 系列后日谈：用长期主义描绘影像「蓝图」](https://sspai.com/post/93120)
+* [【2024-10-23】 派早报：华为发布 HarmonyOS NEXT 及多款硬件新品等](https://sspai.com/post/93130)
+* [【2024-10-22】 AI 而不得，未来可期：iPad mini (A17 Pro) 首发体验](https://sspai.com/post/93112)
+* [【2024-10-22】 社区速递 065 | 你没见过的社区文章、一周最热评、派友的音频听文](https://sspai.com/post/93114)
 * [【2024-10-22】 学会配置 Fontconfig，让 Linux 中文字体更顺心](https://sspai.com/post/92955)
-* [【2024-10-22】 派早报：腾讯会议将调整免费版权益，美满电子向客户发函通知涨价等](https://sspai.com/post/93094)
-* [【2024-10-21】 派评 | 近期值得关注的 App](https://sspai.com/post/93083)
-* [【2024-10-21】 口之于味，有同嗜焉：在短视频中重识中华美食的现在、过去和未来](https://sspai.com/post/92654)
-* [【2024-10-21】 城市漫步指南：香港，繁体的花花世界陌生也新鲜](https://sspai.com/post/92888)
-* [【2024-10-21】 派早报：大疆起诉美国国防部](https://sspai.com/post/93058)
-* [【2024-10-20】 免费且实用，我用极影相机改善 iPhone SE 3 的摄影体验](https://sspai.com/post/92534)
-* [【2024-10-18】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/93015)
-* [【2024-10-18】 叮叮当！想收到圣诞老人来信？现在动笔还来得及](https://sspai.com/post/91926)
-* [【2024-10-18】 在尝试了 3 款开源个人记账项目后，谈谈我对这十多年的记账思考](https://sspai.com/post/92911)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-22 05:15:20
+:alarm_clock: 更新时间: 2024-10-24 05:15:15
