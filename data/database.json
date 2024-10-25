@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 322 期）：内容行业的内幕",
+                "link": "http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html",
+                "published": "2024-10-25"
+            },
+            {
                 "title": "科技爱好者周刊（第 321 期）：傅盛回忆录",
                 "link": "http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html",
                 "published": "2024-10-17"
@@ -815,13 +820,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "「无」中生一趣，此路更崎岖：Nothing Phone (1) 后日谈",
+                "link": "https://sspai.com/post/92956",
+                "published": "2024-10-25"
+            },
+            {
+                "title": "派早报：OPPO Find X8 系列发布、三星发布 Exynos 1580 芯片等",
+                "link": "https://sspai.com/post/93237",
+                "published": "2024-10-25"
+            },
+            {
+                "title": "新玩意 195｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/93228",
+                "published": "2024-10-24"
+            },
+            {
+                "title": "让 iOS 18 控制中心更好用，我们帮你找了 18 款 App",
+                "link": "https://sspai.com/post/93164",
+                "published": "2024-10-24"
+            },
             {
                 "title": "用飞书多维表格和扫码枪，快速构建个人图书管理系统",
                 "link": "https://sspai.com/post/93065",
@@ -22118,7 +22143,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 4
     },
     {
         "id": 2,

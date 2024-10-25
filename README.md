@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+9】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-10-25】 科技爱好者周刊（第 322 期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)
 * [【2024-10-17】 科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html)
 * [【2024-10-11】 科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html)
 * [【2024-10-10】 后面试时代与 AI 刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html)
@@ -25,7 +26,6 @@
 * [【2024-09-11】 白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html)
 * [【2024-09-06】 科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)
 * [【2024-08-30】 科技爱好者周刊（第 315 期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)
-* [【2024-08-23】 科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-10-25】 「无」中生一趣，此路更崎岖：Nothing Phone (1) 后日谈](https://sspai.com/post/92956)
+* [【2024-10-25】 派早报：OPPO Find X8 系列发布、三星发布 Exynos 1580 芯片等](https://sspai.com/post/93237)
+* [【2024-10-24】 新玩意 195｜少数派的编辑们最近买了啥？](https://sspai.com/post/93228)
+* [【2024-10-24】 让 iOS 18 控制中心更好用，我们帮你找了 18 款 App](https://sspai.com/post/93164)
 * [【2024-10-24】 用飞书多维表格和扫码枪，快速构建个人图书管理系统](https://sspai.com/post/93065)
 * [【2024-10-24】 派早报：Apple 回应 Apple Intelligence 入华进度、微信推出查看单删好友功能等](https://sspai.com/post/93195)
 * [【2024-10-23】 一个比 tmux 更友好的终端复用工具：Zellij 简介及使用技巧](https://sspai.com/prime/story/get-started-with-zellij)
 * [【2024-10-23】 给本地设备加一层保险：我的低功率 UPS 不间断电源构建思路](https://sspai.com/post/90258)
 * [【2024-10-23】 美西自驾 3000 公里：拉斯维加斯是罪恶都市还是娱乐天堂？](https://sspai.com/post/93000)
 * [【2024-10-23】 vivo X200 系列后日谈：用长期主义描绘影像「蓝图」](https://sspai.com/post/93120)
-* [【2024-10-23】 派早报：华为发布 HarmonyOS NEXT 及多款硬件新品等](https://sspai.com/post/93130)
-* [【2024-10-22】 AI 而不得，未来可期：iPad mini (A17 Pro) 首发体验](https://sspai.com/post/93112)
-* [【2024-10-22】 社区速递 065 | 你没见过的社区文章、一周最热评、派友的音频听文](https://sspai.com/post/93114)
-* [【2024-10-22】 学会配置 Fontconfig，让 Linux 中文字体更顺心](https://sspai.com/post/92955)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-24 05:15:15
+:alarm_clock: 更新时间: 2024-10-25 05:16:12
