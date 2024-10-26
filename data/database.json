@@ -820,13 +820,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "从果香到泥煤：苏格兰威士忌入门指北",
+                "link": "https://sspai.com/prime/story/scotch-whisky-101",
+                "published": "2024-10-25"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/93265",
+                "published": "2024-10-25"
+            },
+            {
+                "title": "iPhone 16 如何让拍照更出片？和 Apple 工程师聊新一代摄影风格",
+                "link": "https://sspai.com/post/93232",
+                "published": "2024-10-25"
+            },
             {
                 "title": "「无」中生一趣，此路更崎岖：Nothing Phone (1) 后日谈",
                 "link": "https://sspai.com/post/92956",
@@ -22143,7 +22158,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
