@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-10-26】 两个月的美团骑手体验](https://sspai.com/post/93225)
 * [【2024-10-25】 从果香到泥煤：苏格兰威士忌入门指北](https://sspai.com/prime/story/scotch-whisky-101)
 * [【2024-10-25】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/93265)
 * [【2024-10-25】 iPhone 16 如何让拍照更出片？和 Apple 工程师聊新一代摄影风格](https://sspai.com/post/93232)
@@ -44,7 +45,6 @@
 * [【2024-10-24】 让 iOS 18 控制中心更好用，我们帮你找了 18 款 App](https://sspai.com/post/93164)
 * [【2024-10-24】 用飞书多维表格和扫码枪，快速构建个人图书管理系统](https://sspai.com/post/93065)
 * [【2024-10-24】 派早报：Apple 回应 Apple Intelligence 入华进度、微信推出查看单删好友功能等](https://sspai.com/post/93195)
-* [【2024-10-23】 一个比 tmux 更友好的终端复用工具：Zellij 简介及使用技巧](https://sspai.com/prime/story/get-started-with-zellij)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-26 05:14:12
+:alarm_clock: 更新时间: 2024-10-27 05:14:59

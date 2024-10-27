@@ -828,6 +828,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "两个月的美团骑手体验",
+                "link": "https://sspai.com/post/93225",
+                "published": "2024-10-26"
+            },
+            {
                 "title": "从果香到泥煤：苏格兰威士忌入门指北",
                 "link": "https://sspai.com/prime/story/scotch-whisky-101",
                 "published": "2024-10-25"
@@ -22158,7 +22163,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
