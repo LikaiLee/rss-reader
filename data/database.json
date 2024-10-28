@@ -828,6 +828,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不仅火热，而且水深：CPE 及 MIFI 入坑指南",
+                "link": "https://sspai.com/post/93255",
+                "published": "2024-10-28"
+            },
+            {
+                "title": "派早报：Arc 开发商宣布转向新浏览器",
+                "link": "https://sspai.com/post/93325",
+                "published": "2024-10-28"
+            },
+            {
+                "title": "未来之门：在 MIX 的废墟里寻觅",
+                "link": "https://sspai.com/post/92886",
+                "published": "2024-10-27"
+            },
+            {
                 "title": "两个月的美团骑手体验",
                 "link": "https://sspai.com/post/93225",
                 "published": "2024-10-26"
@@ -22163,7 +22178,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

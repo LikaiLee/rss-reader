@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-10-28】 不仅火热，而且水深：CPE 及 MIFI 入坑指南](https://sspai.com/post/93255)
+* [【2024-10-28】 派早报：Arc 开发商宣布转向新浏览器](https://sspai.com/post/93325)
+* [【2024-10-27】 未来之门：在 MIX 的废墟里寻觅](https://sspai.com/post/92886)
 * [【2024-10-26】 两个月的美团骑手体验](https://sspai.com/post/93225)
 * [【2024-10-25】 从果香到泥煤：苏格兰威士忌入门指北](https://sspai.com/prime/story/scotch-whisky-101)
 * [【2024-10-25】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/93265)
@@ -42,9 +45,6 @@
 * [【2024-10-25】 「无」中生一趣，此路更崎岖：Nothing Phone (1) 后日谈](https://sspai.com/post/92956)
 * [【2024-10-25】 派早报：OPPO Find X8 系列发布、三星发布 Exynos 1580 芯片等](https://sspai.com/post/93237)
 * [【2024-10-24】 新玩意 195｜少数派的编辑们最近买了啥？](https://sspai.com/post/93228)
-* [【2024-10-24】 让 iOS 18 控制中心更好用，我们帮你找了 18 款 App](https://sspai.com/post/93164)
-* [【2024-10-24】 用飞书多维表格和扫码枪，快速构建个人图书管理系统](https://sspai.com/post/93065)
-* [【2024-10-24】 派早报：Apple 回应 Apple Intelligence 入华进度、微信推出查看单删好友功能等](https://sspai.com/post/93195)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-27 05:14:59
+:alarm_clock: 更新时间: 2024-10-28 05:16:02
