@@ -828,6 +828,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "有多少 AI，值得等待：iOS 18.1 值得关注的新特性",
+                "link": "https://sspai.com/post/93291",
+                "published": "2024-10-29"
+            },
+            {
+                "title": "派早报：Apple 发布搭载 M4 芯片的 iMac、Apple 智能首批功能海外上线等",
+                "link": "https://sspai.com/post/93369",
+                "published": "2024-10-29"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/93362",
+                "published": "2024-10-28"
+            },
+            {
+                "title": "最快 10 分钟，比外卖更迅速的快手盖饭",
+                "link": "https://sspai.com/post/93230",
+                "published": "2024-10-28"
+            },
+            {
                 "title": "不仅火热，而且水深：CPE 及 MIFI 入坑指南",
                 "link": "https://sspai.com/post/93255",
                 "published": "2024-10-28"
@@ -22178,7 +22198,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,

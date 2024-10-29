@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-10-29】 有多少 AI，值得等待：iOS 18.1 值得关注的新特性](https://sspai.com/post/93291)
+* [【2024-10-29】 派早报：Apple 发布搭载 M4 芯片的 iMac、Apple 智能首批功能海外上线等](https://sspai.com/post/93369)
+* [【2024-10-28】 派评 | 近期值得关注的 App](https://sspai.com/post/93362)
+* [【2024-10-28】 最快 10 分钟，比外卖更迅速的快手盖饭](https://sspai.com/post/93230)
 * [【2024-10-28】 不仅火热，而且水深：CPE 及 MIFI 入坑指南](https://sspai.com/post/93255)
 * [【2024-10-28】 派早报：Arc 开发商宣布转向新浏览器](https://sspai.com/post/93325)
 * [【2024-10-27】 未来之门：在 MIX 的废墟里寻觅](https://sspai.com/post/92886)
 * [【2024-10-26】 两个月的美团骑手体验](https://sspai.com/post/93225)
 * [【2024-10-25】 从果香到泥煤：苏格兰威士忌入门指北](https://sspai.com/prime/story/scotch-whisky-101)
 * [【2024-10-25】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/93265)
-* [【2024-10-25】 iPhone 16 如何让拍照更出片？和 Apple 工程师聊新一代摄影风格](https://sspai.com/post/93232)
-* [【2024-10-25】 「无」中生一趣，此路更崎岖：Nothing Phone (1) 后日谈](https://sspai.com/post/92956)
-* [【2024-10-25】 派早报：OPPO Find X8 系列发布、三星发布 Exynos 1580 芯片等](https://sspai.com/post/93237)
-* [【2024-10-24】 新玩意 195｜少数派的编辑们最近买了啥？](https://sspai.com/post/93228)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-28 05:16:02
+:alarm_clock: 更新时间: 2024-10-29 05:15:41
