@@ -828,6 +828,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "快捷指令 | 用快捷指令免费识别名片并存入通讯录",
+                "link": "https://sspai.com/post/90390",
+                "published": "2024-10-30"
+            },
+            {
+                "title": "派早报：2024 款 Mac mini、小米 15 系列、小米 SU7 Ultra 等多款新品发布",
+                "link": "https://sspai.com/post/93406",
+                "published": "2024-10-29"
+            },
+            {
+                "title": "朋友圈也能发的 iPhone 实况照片，怎么拍才能更好玩？",
+                "link": "https://sspai.com/post/93092",
+                "published": "2024-10-29"
+            },
+            {
+                "title": "线下活动：解锁清爽居家环境 | 一场帮你入门清洁的生活经验分享会",
+                "link": "https://sspai.com/post/93391",
+                "published": "2024-10-29"
+            },
+            {
+                "title": "城市漫步指南：8 天的旅行打消了我对泰国的刻板印象",
+                "link": "https://sspai.com/post/92839",
+                "published": "2024-10-29"
+            },
+            {
                 "title": "有多少 AI，值得等待：iOS 18.1 值得关注的新特性",
                 "link": "https://sspai.com/post/93291",
                 "published": "2024-10-29"
@@ -22198,7 +22223,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
