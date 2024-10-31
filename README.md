@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-10-30】 AI 开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html)
 * [【2024-10-25】 科技爱好者周刊（第 322 期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)
 * [【2024-10-17】 科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html)
 * [【2024-10-11】 科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html)
@@ -25,7 +26,6 @@
 * [【2024-09-12】 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html)
 * [【2024-09-11】 白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html)
 * [【2024-09-06】 科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)
-* [【2024-08-30】 科技爱好者周刊（第 315 期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-10-31】 看什么 · 特别篇丨在万圣节看恐怖片才是正经事](https://sspai.com/post/69583)
+* [【2024-10-31】 派早报：Apple 发布 2024 款 MacBook Pro、OpenAI 将打造自研芯片等](https://sspai.com/post/93443)
+* [【2024-10-30】 自研驱动未来：从 2024 骁龙峰会自研 Oryon CPU 看骁龙颠覆创新](https://sspai.com/post/93414)
+* [【2024-10-30】 社区速递 066 | 你没见过的社区文章、一周最热评、派友九月买了啥](https://sspai.com/post/93426)
+* [【2024-10-30】 德国留学第一步，毕业多年的我如何搞定 APS 审核](https://sspai.com/post/93365)
 * [【2024-10-30】 快捷指令 | 用快捷指令免费识别名片并存入通讯录](https://sspai.com/post/90390)
 * [【2024-10-29】 派早报：2024 款 Mac mini、小米 15 系列、小米 SU7 Ultra 等多款新品发布](https://sspai.com/post/93406)
 * [【2024-10-29】 朋友圈也能发的 iPhone 实况照片，怎么拍才能更好玩？](https://sspai.com/post/93092)
 * [【2024-10-29】 线下活动：解锁清爽居家环境 | 一场帮你入门清洁的生活经验分享会](https://sspai.com/post/93391)
 * [【2024-10-29】 城市漫步指南：8 天的旅行打消了我对泰国的刻板印象](https://sspai.com/post/92839)
-* [【2024-10-29】 有多少 AI，值得等待：iOS 18.1 值得关注的新特性](https://sspai.com/post/93291)
-* [【2024-10-29】 派早报：Apple 发布搭载 M4 芯片的 iMac、Apple 智能首批功能海外上线等](https://sspai.com/post/93369)
-* [【2024-10-28】 派评 | 近期值得关注的 App](https://sspai.com/post/93362)
-* [【2024-10-28】 最快 10 分钟，比外卖更迅速的快手盖饭](https://sspai.com/post/93230)
-* [【2024-10-28】 不仅火热，而且水深：CPE 及 MIFI 入坑指南](https://sspai.com/post/93255)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-10-30 05:15:45
+:alarm_clock: 更新时间: 2024-10-31 05:16:40

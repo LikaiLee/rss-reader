@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "AI 开发的捷径：工作流模式",
+                "link": "http://www.ruanyifeng.com/blog/2024/10/coze.html",
+                "published": "2024-10-30"
+            },
+            {
                 "title": "科技爱好者周刊（第 322 期）：内容行业的内幕",
                 "link": "http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html",
                 "published": "2024-10-25"
@@ -820,13 +825,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "看什么 · 特别篇丨在万圣节看恐怖片才是正经事",
+                "link": "https://sspai.com/post/69583",
+                "published": "2024-10-31"
+            },
+            {
+                "title": "派早报：Apple 发布 2024 款 MacBook Pro、OpenAI 将打造自研芯片等",
+                "link": "https://sspai.com/post/93443",
+                "published": "2024-10-31"
+            },
+            {
+                "title": "自研驱动未来：从 2024 骁龙峰会自研 Oryon CPU 看骁龙颠覆创新",
+                "link": "https://sspai.com/post/93414",
+                "published": "2024-10-30"
+            },
+            {
+                "title": "社区速递 066 | 你没见过的社区文章、一周最热评、派友九月买了啥",
+                "link": "https://sspai.com/post/93426",
+                "published": "2024-10-30"
+            },
+            {
+                "title": "德国留学第一步，毕业多年的我如何搞定 APS 审核",
+                "link": "https://sspai.com/post/93365",
+                "published": "2024-10-30"
+            },
             {
                 "title": "快捷指令 | 用快捷指令免费识别名片并存入通讯录",
                 "link": "https://sspai.com/post/90390",
