@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 323 期）：技术公司的口号比拼",
+                "link": "http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html",
+                "published": "2024-11-01"
+            },
+            {
                 "title": "AI 开发的捷径：工作流模式",
                 "link": "http://www.ruanyifeng.com/blog/2024/10/coze.html",
                 "published": "2024-10-30"
@@ -832,6 +837,36 @@
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "新 Mac 支持雷雳 5 了，但你真的需要它吗？",
+                "link": "https://sspai.com/post/84508",
+                "published": "2024-11-01"
+            },
+            {
+                "title": "派早报：任天堂推出 Nintendo Music 应用、知名浏览器省内存模式更新等",
+                "link": "https://sspai.com/post/93482",
+                "published": "2024-11-01"
+            },
+            {
+                "title": "当胶片滤镜遇见柔光人像：一加 13 影像系统快速体验",
+                "link": "https://sspai.com/post/93361",
+                "published": "2024-10-31"
+            },
+            {
+                "title": "双十一 | 全新贴纸+货品清仓，派的双十一如约而至",
+                "link": "https://sspai.com/post/93413",
+                "published": "2024-10-31"
+            },
+            {
+                "title": "本月玩什么 | 暗喻幻想、Phoenix Springs、龙腾世纪",
+                "link": "https://sspai.com/post/93453",
+                "published": "2024-10-31"
+            },
+            {
+                "title": "从纸上涂画到数字笔记：我的数字化纸质阅读方案探索",
+                "link": "https://sspai.com/post/93418",
+                "published": "2024-10-31"
+            },
             {
                 "title": "看什么 · 特别篇丨在万圣节看恐怖片才是正经事",
                 "link": "https://sspai.com/post/69583",
@@ -22253,7 +22288,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
