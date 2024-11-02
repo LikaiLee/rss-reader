@@ -830,13 +830,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/93498",
+                "published": "2024-11-01"
+            },
+            {
+                "title": "处理 RAW 照片的免费良方：RawTherapee",
+                "link": "https://sspai.com/post/92114",
+                "published": "2024-11-01"
+            },
             {
                 "title": "新 Mac 支持雷雳 5 了，但你真的需要它吗？",
                 "link": "https://sspai.com/post/84508",
@@ -22288,7 +22298,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 2,
