@@ -838,6 +838,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "直观可靠、免费好用，虚拟机管理软件 Workstation Pro 上手指南",
+                "link": "https://sspai.com/post/93514",
+                "published": "2024-11-02"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 7 部作品",
                 "link": "https://sspai.com/post/93498",
                 "published": "2024-11-01"
@@ -22298,7 +22303,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
