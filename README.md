@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-11-04】 聊聊 AI 辅助外语学习的路径与局限](https://sspai.com/post/92623)
+* [【2024-11-04】 共创 | 一加+少数派，共创手机壳的外观由你来决定](https://sspai.com/post/93410)
+* [【2024-11-04】 派早报：苹果收购图片编辑软件 Pixelmator](https://sspai.com/post/93537)
 * [【2024-11-02】 直观可靠、免费好用，虚拟机管理软件 Workstation Pro 上手指南](https://sspai.com/post/93514)
 * [【2024-11-01】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/93498)
 * [【2024-11-01】 处理 RAW 照片的免费良方：RawTherapee](https://sspai.com/post/92114)
@@ -42,9 +45,6 @@
 * [【2024-11-01】 派早报：任天堂推出 Nintendo Music 应用、知名浏览器省内存模式更新等](https://sspai.com/post/93482)
 * [【2024-10-31】 当胶片滤镜遇见柔光人像：一加 13 影像系统快速体验](https://sspai.com/post/93361)
 * [【2024-10-31】 双十一 | 全新贴纸+货品清仓，派的双十一如约而至](https://sspai.com/post/93413)
-* [【2024-10-31】 本月玩什么 | 暗喻幻想、Phoenix Springs、龙腾世纪](https://sspai.com/post/93453)
-* [【2024-10-31】 从纸上涂画到数字笔记：我的数字化纸质阅读方案探索](https://sspai.com/post/93418)
-* [【2024-10-31】 看什么 · 特别篇丨在万圣节看恐怖片才是正经事](https://sspai.com/post/69583)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-03 05:14:19
+:alarm_clock: 更新时间: 2024-11-04 05:16:32
