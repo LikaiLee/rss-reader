@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-11-05】 Infobar 系列回顾：被遗忘的杰作，功能属性之外的有趣未来](https://sspai.com/post/93088)
+* [【2024-11-05】 派早报：Osmo 宣布通过 AI 实现气味传送，X 更新屏蔽策略等](https://sspai.com/post/93574)
+* [【2024-11-04】 派评 | 近期值得关注的 App](https://sspai.com/post/93567)
+* [【2024-11-04】 解锁清爽居家环境：如何入门除霉与清洁](https://sspai.com/prime/story/mold-removal-home-cleaning-guide)
+* [【2024-11-04】 Android 15 正式版评测：有诚意但不多，要新意还得等](https://sspai.com/post/93557)
 * [【2024-11-04】 聊聊 AI 辅助外语学习的路径与局限](https://sspai.com/post/92623)
 * [【2024-11-04】 共创 | 一加+少数派，共创手机壳的外观由你来决定](https://sspai.com/post/93410)
 * [【2024-11-04】 派早报：苹果收购图片编辑软件 Pixelmator](https://sspai.com/post/93537)
 * [【2024-11-02】 直观可靠、免费好用，虚拟机管理软件 Workstation Pro 上手指南](https://sspai.com/post/93514)
 * [【2024-11-01】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/93498)
-* [【2024-11-01】 处理 RAW 照片的免费良方：RawTherapee](https://sspai.com/post/92114)
-* [【2024-11-01】 新 Mac 支持雷雳 5 了，但你真的需要它吗？](https://sspai.com/post/84508)
-* [【2024-11-01】 派早报：任天堂推出 Nintendo Music 应用、知名浏览器省内存模式更新等](https://sspai.com/post/93482)
-* [【2024-10-31】 当胶片滤镜遇见柔光人像：一加 13 影像系统快速体验](https://sspai.com/post/93361)
-* [【2024-10-31】 双十一 | 全新贴纸+货品清仓，派的双十一如约而至](https://sspai.com/post/93413)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-04 05:16:32
+:alarm_clock: 更新时间: 2024-11-05 05:15:12
