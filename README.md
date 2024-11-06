@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-11-05】 派早报：Apple 计划向欧盟用户开放更多默认应用选项等](https://sspai.com/post/93617)
+* [【2024-11-05】 社区速递 067 | 你没见过的社区文章、一周最热评、派友用多少流量](https://sspai.com/post/93603)
+* [【2024-11-05】 正版软件双十一：年度大促开幕，多款产品史低](https://sspai.com/post/93596)
+* [【2024-11-05】 双十一鼠标怎么挑？（2024 版）](https://sspai.com/post/93588)
+* [【2024-11-05】 BANG!CASE for iPhone 16 Pro & Pro Max 上架：变轻了，手感也更好了](https://sspai.com/post/92908)
 * [【2024-11-05】 Infobar 系列回顾：被遗忘的杰作，功能属性之外的有趣未来](https://sspai.com/post/93088)
 * [【2024-11-05】 派早报：Osmo 宣布通过 AI 实现气味传送，X 更新屏蔽策略等](https://sspai.com/post/93574)
 * [【2024-11-04】 派评 | 近期值得关注的 App](https://sspai.com/post/93567)
 * [【2024-11-04】 解锁清爽居家环境：如何入门除霉与清洁](https://sspai.com/prime/story/mold-removal-home-cleaning-guide)
 * [【2024-11-04】 Android 15 正式版评测：有诚意但不多，要新意还得等](https://sspai.com/post/93557)
-* [【2024-11-04】 聊聊 AI 辅助外语学习的路径与局限](https://sspai.com/post/92623)
-* [【2024-11-04】 共创 | 一加+少数派，共创手机壳的外观由你来决定](https://sspai.com/post/93410)
-* [【2024-11-04】 派早报：苹果收购图片编辑软件 Pixelmator](https://sspai.com/post/93537)
-* [【2024-11-02】 直观可靠、免费好用，虚拟机管理软件 Workstation Pro 上手指南](https://sspai.com/post/93514)
-* [【2024-11-01】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/93498)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-05 05:15:12
+:alarm_clock: 更新时间: 2024-11-06 05:15:14
