@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-11-07】 优惠上架 | 用 Zeabur 轻松自托管开源服务](https://sspai.com/post/93669)
+* [【2024-11-07】 冬天也不用裹成球，这是你需要了解的冬季穿衣指南](https://sspai.com/post/93614)
+* [【2024-11-07】 派早报：微信推出 Linux 版本、任天堂确认 NS 后续机型支持向下兼容等](https://sspai.com/post/93655)
+* [【2024-11-06】 双十一 | 少数派会员、付费栏目限时优惠](https://sspai.com/post/93559)
+* [【2024-11-06】 双十一键盘怎么挑？（2024 版）](https://sspai.com/post/93631)
+* [【2024-11-06】 星旗映疏勒，云阵上祁连：大同漫步游记](https://sspai.com/post/92847)
 * [【2024-11-05】 派早报：Apple 计划向欧盟用户开放更多默认应用选项等](https://sspai.com/post/93617)
 * [【2024-11-05】 社区速递 067 | 你没见过的社区文章、一周最热评、派友用多少流量](https://sspai.com/post/93603)
 * [【2024-11-05】 正版软件双十一：年度大促开幕，多款产品史低](https://sspai.com/post/93596)
 * [【2024-11-05】 双十一鼠标怎么挑？（2024 版）](https://sspai.com/post/93588)
-* [【2024-11-05】 BANG!CASE for iPhone 16 Pro & Pro Max 上架：变轻了，手感也更好了](https://sspai.com/post/92908)
-* [【2024-11-05】 Infobar 系列回顾：被遗忘的杰作，功能属性之外的有趣未来](https://sspai.com/post/93088)
-* [【2024-11-05】 派早报：Osmo 宣布通过 AI 实现气味传送，X 更新屏蔽策略等](https://sspai.com/post/93574)
-* [【2024-11-04】 派评 | 近期值得关注的 App](https://sspai.com/post/93567)
-* [【2024-11-04】 解锁清爽居家环境：如何入门除霉与清洁](https://sspai.com/prime/story/mold-removal-home-cleaning-guide)
-* [【2024-11-04】 Android 15 正式版评测：有诚意但不多，要新意还得等](https://sspai.com/post/93557)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-06 05:15:14
+:alarm_clock: 更新时间: 2024-11-07 05:14:33
