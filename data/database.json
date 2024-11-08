@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 324 期）：人类已知的最大质数",
+                "link": "http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html",
+                "published": "2024-11-08"
+            },
+            {
                 "title": "科技爱好者周刊（第 323 期）：技术公司的口号比拼",
                 "link": "http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html",
                 "published": "2024-11-01"
@@ -830,13 +835,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "向山出发，日本表银座纵走攻略",
+                "link": "https://sspai.com/post/92905",
+                "published": "2024-11-08"
+            },
+            {
+                "title": "派早报：澳大利亚计划立法禁止 16 岁以下的青少年使用社交媒体等",
+                "link": "https://sspai.com/post/93716",
+                "published": "2024-11-08"
+            },
+            {
+                "title": "为输入法插上编程的翅膀——librime-lua 初探",
+                "link": "https://sspai.com/prime/story/automating-rime-with-librime-lua",
+                "published": "2024-11-07"
+            },
+            {
+                "title": "大屏全面屏后，智能手机发展真的停滞了吗？—— 手机形态发展简史·终",
+                "link": "https://sspai.com/post/92682",
+                "published": "2024-11-07"
+            },
+            {
+                "title": "双十一耳机怎么挑？（2024 版）",
+                "link": "https://sspai.com/post/76544",
+                "published": "2024-11-07"
+            },
             {
                 "title": "优惠上架 | 用 Zeabur 轻松自托管开源服务",
                 "link": "https://sspai.com/post/93669",
@@ -22398,7 +22428,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
