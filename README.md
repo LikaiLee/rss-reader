@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-11-08】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/93743)
+* [【2024-11-08】 制程进步、补贴助阵，M4 系列 Mac 是你在等的升级时机吗](https://sspai.com/post/85735)
 * [【2024-11-08】 向山出发，日本表银座纵走攻略](https://sspai.com/post/92905)
 * [【2024-11-08】 派早报：澳大利亚计划立法禁止 16 岁以下的青少年使用社交媒体等](https://sspai.com/post/93716)
 * [【2024-11-07】 为输入法插上编程的翅膀——librime-lua 初探](https://sspai.com/prime/story/automating-rime-with-librime-lua)
@@ -43,8 +45,6 @@
 * [【2024-11-07】 优惠上架 | 用 Zeabur 轻松自托管开源服务](https://sspai.com/post/93669)
 * [【2024-11-07】 冬天也不用裹成球，这是你需要了解的冬季穿衣指南](https://sspai.com/post/93614)
 * [【2024-11-07】 派早报：微信推出 Linux 版本、任天堂确认 NS 后续机型支持向下兼容等](https://sspai.com/post/93655)
-* [【2024-11-06】 双十一 | 少数派会员、付费栏目限时优惠](https://sspai.com/post/93559)
-* [【2024-11-06】 双十一键盘怎么挑？（2024 版）](https://sspai.com/post/93631)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-08 05:15:03
+:alarm_clock: 更新时间: 2024-11-09 05:13:40
