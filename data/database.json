@@ -843,6 +843,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从经营副业到自由职业：让我变强，也让我快乐",
+                "link": "https://sspai.com/post/93697",
+                "published": "2024-11-09"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 10 部作品",
                 "link": "https://sspai.com/post/93743",
                 "published": "2024-11-08"
@@ -22438,7 +22443,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
