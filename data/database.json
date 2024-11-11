@@ -843,6 +843,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "工科在读研究生，自学首考雅思 8 分备考之路",
+                "link": "https://sspai.com/post/92960",
+                "published": "2024-11-11"
+            },
+            {
+                "title": "派早报：Firefox 正式版发布二十年",
+                "link": "https://sspai.com/post/93805",
+                "published": "2024-11-11"
+            },
+            {
+                "title": "求索于微观尽头——谈谈我眼中的光刻技术",
+                "link": "https://sspai.com/post/93051",
+                "published": "2024-11-10"
+            },
+            {
                 "title": "从经营副业到自由职业：让我变强，也让我快乐",
                 "link": "https://sspai.com/post/93697",
                 "published": "2024-11-09"
@@ -22443,7 +22458,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
