@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-11-12】 集体争夺 iPhone 流失用户的 2024，vivo X200 Pro mini 能否赢得我的心？](https://sspai.com/post/93732)
+* [【2024-11-12】 派早报：微软重启 MSN 品牌，Windows 11 内置邮件等应用将结束支持等](https://sspai.com/post/93842)
+* [【2024-11-11】 派评 | 近期值得关注的 App](https://sspai.com/post/93836)
+* [【2024-11-11】 在 AI 的帮助下，我成为了一名 iOS 业余开发者](https://sspai.com/post/91860)
 * [【2024-11-11】 工科在读研究生，自学首考雅思 8 分备考之路](https://sspai.com/post/92960)
 * [【2024-11-11】 派早报：Firefox 正式版发布二十年](https://sspai.com/post/93805)
 * [【2024-11-10】 求索于微观尽头——谈谈我眼中的光刻技术](https://sspai.com/post/93051)
 * [【2024-11-09】 从经营副业到自由职业：让我变强，也让我快乐](https://sspai.com/post/93697)
 * [【2024-11-08】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/93743)
 * [【2024-11-08】 制程进步、补贴助阵，M4 系列 Mac 是你在等的升级时机吗](https://sspai.com/post/85735)
-* [【2024-11-08】 向山出发，日本表银座纵走攻略](https://sspai.com/post/92905)
-* [【2024-11-08】 派早报：澳大利亚计划立法禁止 16 岁以下的青少年使用社交媒体等](https://sspai.com/post/93716)
-* [【2024-11-07】 为输入法插上编程的翅膀——librime-lua 初探](https://sspai.com/prime/story/automating-rime-with-librime-lua)
-* [【2024-11-07】 大屏全面屏后，智能手机发展真的停滞了吗？—— 手机形态发展简史·终](https://sspai.com/post/92682)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-11 05:16:02
+:alarm_clock: 更新时间: 2024-11-12 05:14:50
