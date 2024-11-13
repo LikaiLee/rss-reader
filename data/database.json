@@ -843,6 +843,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫步指南：塞上青城，归化绥远",
+                "link": "https://sspai.com/post/92842",
+                "published": "2024-11-13"
+            },
+            {
+                "title": "派早报：Valve 推出白色限量版 Steam Deck OLED 等",
+                "link": "https://sspai.com/post/93877",
+                "published": "2024-11-13"
+            },
+            {
+                "title": "社区速递 068 | 你没见过的社区文章、一周最热评、派友的控制中心",
+                "link": "https://sspai.com/post/93864",
+                "published": "2024-11-12"
+            },
+            {
+                "title": "美国西部自驾游：准备、路线与注意事项",
+                "link": "https://sspai.com/post/93597",
+                "published": "2024-11-12"
+            },
+            {
+                "title": "从 Apple 生态出来透透气：我的 vivo X200 Pro mini 体验分享",
+                "link": "https://sspai.com/post/93732",
+                "published": "2024-11-12"
+            },
+            {
                 "title": "集体争夺 iPhone 流失用户的 2024，vivo X200 Pro mini 能否赢得我的心？",
                 "link": "https://sspai.com/post/93732",
                 "published": "2024-11-12"
@@ -22478,7 +22503,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
