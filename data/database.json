@@ -843,6 +843,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 | 跨平台密码管理应用新选择，Apple 密码详解",
+                "link": "https://sspai.com/post/92990",
+                "published": "2024-11-14"
+            },
+            {
+                "title": "派早报：红魔 10 Pro 系列手机发布、Apple 推出 Final Cut Pro 11 等",
+                "link": "https://sspai.com/post/93915",
+                "published": "2024-11-14"
+            },
+            {
+                "title": "Android 版 Edge 更新，主流浏览器也能用油猴脚本了",
+                "link": "https://sspai.com/post/70571",
+                "published": "2024-11-13"
+            },
+            {
                 "title": "城市漫步指南：塞上青城，归化绥远",
                 "link": "https://sspai.com/post/92842",
                 "published": "2024-11-13"
@@ -22503,7 +22518,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,

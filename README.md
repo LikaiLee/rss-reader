@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-11-14】 App+1 | 跨平台密码管理应用新选择，Apple 密码详解](https://sspai.com/post/92990)
+* [【2024-11-14】 派早报：红魔 10 Pro 系列手机发布、Apple 推出 Final Cut Pro 11 等](https://sspai.com/post/93915)
+* [【2024-11-13】 Android 版 Edge 更新，主流浏览器也能用油猴脚本了](https://sspai.com/post/70571)
 * [【2024-11-13】 城市漫步指南：塞上青城，归化绥远](https://sspai.com/post/92842)
 * [【2024-11-13】 派早报：Valve 推出白色限量版 Steam Deck OLED 等](https://sspai.com/post/93877)
 * [【2024-11-12】 社区速递 068 | 你没见过的社区文章、一周最热评、派友的控制中心](https://sspai.com/post/93864)
@@ -42,9 +45,6 @@
 * [【2024-11-12】 从 Apple 生态出来透透气：我的 vivo X200 Pro mini 体验分享](https://sspai.com/post/93732)
 * [【2024-11-12】 集体争夺 iPhone 流失用户的 2024，vivo X200 Pro mini 能否赢得我的心？](https://sspai.com/post/93732)
 * [【2024-11-12】 派早报：微软重启 MSN 品牌，Windows 11 内置邮件等应用将结束支持等](https://sspai.com/post/93842)
-* [【2024-11-11】 派评 | 近期值得关注的 App](https://sspai.com/post/93836)
-* [【2024-11-11】 在 AI 的帮助下，我成为了一名 iOS 业余开发者](https://sspai.com/post/91860)
-* [【2024-11-11】 工科在读研究生，自学首考雅思 8 分备考之路](https://sspai.com/post/92960)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-13 05:15:33
+:alarm_clock: 更新时间: 2024-11-14 05:15:16
