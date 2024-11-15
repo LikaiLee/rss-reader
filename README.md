@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-11-15】 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)
 * [【2024-11-08】 科技爱好者周刊（第 324 期）：人类已知的最大质数](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html)
 * [【2024-11-01】 科技爱好者周刊（第 323 期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html)
 * [【2024-10-30】 AI 开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html)
@@ -25,7 +26,6 @@
 * [【2024-10-10】 后面试时代与 AI 刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html)
 * [【2024-09-27】 科技爱好者周刊（第 319 期）：如何拍出爆款视频](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html)
 * [【2024-09-20】 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html)
-* [【2024-09-12】 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-11-15】 魅族外表下的「星纪花瓶」——再谈魅族 20 INFINITY](https://sspai.com/post/93813)
+* [【2024-11-15】 派早报：OpenAI 为 macOS 版 ChatGPT 引入第三方集成、暴雪推出《魔兽争霸 1》](https://sspai.com/post/93947)
+* [【2024-11-14】 新玩意 196｜少数派的编辑们最近买了啥？](https://sspai.com/post/93930)
+* [【2024-11-14】 共创 | 1000+ 位用户的选择，一加 13 共创手机壳众筹开启](https://sspai.com/post/93871)
+* [【2024-11-14】 告别 Master 3S，我找到了 Mac 系统更完美的鼠标](https://sspai.com/post/93841)
 * [【2024-11-14】 App+1 | 跨平台密码管理应用新选择，Apple 密码详解](https://sspai.com/post/92990)
 * [【2024-11-14】 派早报：红魔 10 Pro 系列手机发布、Apple 推出 Final Cut Pro 11 等](https://sspai.com/post/93915)
 * [【2024-11-13】 Android 版 Edge 更新，主流浏览器也能用油猴脚本了](https://sspai.com/post/70571)
 * [【2024-11-13】 城市漫步指南：塞上青城，归化绥远](https://sspai.com/post/92842)
 * [【2024-11-13】 派早报：Valve 推出白色限量版 Steam Deck OLED 等](https://sspai.com/post/93877)
-* [【2024-11-12】 社区速递 068 | 你没见过的社区文章、一周最热评、派友的控制中心](https://sspai.com/post/93864)
-* [【2024-11-12】 美国西部自驾游：准备、路线与注意事项](https://sspai.com/post/93597)
-* [【2024-11-12】 从 Apple 生态出来透透气：我的 vivo X200 Pro mini 体验分享](https://sspai.com/post/93732)
-* [【2024-11-12】 集体争夺 iPhone 流失用户的 2024，vivo X200 Pro mini 能否赢得我的心？](https://sspai.com/post/93732)
-* [【2024-11-12】 派早报：微软重启 MSN 品牌，Windows 11 内置邮件等应用将结束支持等](https://sspai.com/post/93842)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-14 05:15:16
+:alarm_clock: 更新时间: 2024-11-15 05:15:34

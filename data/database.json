@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？",
+                "link": "http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html",
+                "published": "2024-11-15"
+            },
+            {
                 "title": "科技爱好者周刊（第 324 期）：人类已知的最大质数",
                 "link": "http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html",
                 "published": "2024-11-08"
@@ -835,13 +840,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "魅族外表下的「星纪花瓶」——再谈魅族 20 INFINITY",
+                "link": "https://sspai.com/post/93813",
+                "published": "2024-11-15"
+            },
+            {
+                "title": "派早报：OpenAI 为 macOS 版 ChatGPT 引入第三方集成、暴雪推出《魔兽争霸 1》",
+                "link": "https://sspai.com/post/93947",
+                "published": "2024-11-15"
+            },
+            {
+                "title": "新玩意 196｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/93930",
+                "published": "2024-11-14"
+            },
+            {
+                "title": "共创 | 1000+ 位用户的选择，一加 13 共创手机壳众筹开启",
+                "link": "https://sspai.com/post/93871",
+                "published": "2024-11-14"
+            },
+            {
+                "title": "告别 Master 3S，我找到了 Mac 系统更完美的鼠标",
+                "link": "https://sspai.com/post/93841",
+                "published": "2024-11-14"
+            },
             {
                 "title": "App+1 | 跨平台密码管理应用新选择，Apple 密码详解",
                 "link": "https://sspai.com/post/92990",
@@ -22518,7 +22548,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
