@@ -840,13 +840,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/93960",
+                "published": "2024-11-15"
+            },
+            {
+                "title": "韩江书单：谈东亚女性，更谈历史和人性",
+                "link": "https://sspai.com/post/93907",
+                "published": "2024-11-15"
+            },
+            {
+                "title": "少数派 x 两颗皮蛋 | 一面 Apple 开发者生态的明镜：回望移动应用创新赛",
+                "link": "https://sspai.com/post/93747",
+                "published": "2024-11-15"
+            },
             {
                 "title": "魅族外表下的「星纪花瓶」——再谈魅族 20 INFINITY",
                 "link": "https://sspai.com/post/93813",
@@ -22548,7 +22563,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
