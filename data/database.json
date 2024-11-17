@@ -848,6 +848,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透 Plus | Windows 又能跑 Android 应用了，macOS 虚拟机好用了一点但不多",
+                "link": "https://sspai.com/prime/story/inside-release-notes-241116",
+                "published": "2024-11-16"
+            },
+            {
+                "title": "功能扎实，佩戴舒适：索尼 LinkBuds Open 开放式耳机体验",
+                "link": "https://sspai.com/post/93934",
+                "published": "2024-11-16"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 8 部作品",
                 "link": "https://sspai.com/post/93960",
                 "published": "2024-11-15"
@@ -22563,7 +22573,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 2,

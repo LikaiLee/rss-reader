@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-11-16】 具透 Plus | Windows 又能跑 Android 应用了，macOS 虚拟机好用了一点但不多](https://sspai.com/prime/story/inside-release-notes-241116)
+* [【2024-11-16】 功能扎实，佩戴舒适：索尼 LinkBuds Open 开放式耳机体验](https://sspai.com/post/93934)
 * [【2024-11-15】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/93960)
 * [【2024-11-15】 韩江书单：谈东亚女性，更谈历史和人性](https://sspai.com/post/93907)
 * [【2024-11-15】 少数派 x 两颗皮蛋 | 一面 Apple 开发者生态的明镜：回望移动应用创新赛](https://sspai.com/post/93747)
@@ -43,8 +45,6 @@
 * [【2024-11-14】 新玩意 196｜少数派的编辑们最近买了啥？](https://sspai.com/post/93930)
 * [【2024-11-14】 共创 | 1000+ 位用户的选择，一加 13 共创手机壳众筹开启](https://sspai.com/post/93871)
 * [【2024-11-14】 告别 Master 3S，我找到了 Mac 系统更完美的鼠标](https://sspai.com/post/93841)
-* [【2024-11-14】 App+1 | 跨平台密码管理应用新选择，Apple 密码详解](https://sspai.com/post/92990)
-* [【2024-11-14】 派早报：红魔 10 Pro 系列手机发布、Apple 推出 Final Cut Pro 11 等](https://sspai.com/post/93915)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-16 05:15:17
+:alarm_clock: 更新时间: 2024-11-17 05:15:14
