@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-11-18】 獭可派 | 别看轻，你的设备已完全载入：tomtoc 飞行家轻行胸包](https://sspai.com/post/93927)
+* [【2024-11-18】 派早报：M4 MacBook Pro 使用量子点显示技术](https://sspai.com/post/94003)
+* [【2024-11-17】 一日一技 | 我的自制 Numbers 账本表格分享：搭配快捷指令快速记账](https://sspai.com/post/93912)
 * [【2024-11-16】 具透 Plus | Windows 又能跑 Android 应用了，macOS 虚拟机好用了一点但不多](https://sspai.com/prime/story/inside-release-notes-241116)
 * [【2024-11-16】 功能扎实，佩戴舒适：索尼 LinkBuds Open 开放式耳机体验](https://sspai.com/post/93934)
 * [【2024-11-15】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/93960)
@@ -42,9 +45,6 @@
 * [【2024-11-15】 少数派 x 两颗皮蛋 | 一面 Apple 开发者生态的明镜：回望移动应用创新赛](https://sspai.com/post/93747)
 * [【2024-11-15】 魅族外表下的「星纪花瓶」——再谈魅族 20 INFINITY](https://sspai.com/post/93813)
 * [【2024-11-15】 派早报：OpenAI 为 macOS 版 ChatGPT 引入第三方集成、暴雪推出《魔兽争霸 1》](https://sspai.com/post/93947)
-* [【2024-11-14】 新玩意 196｜少数派的编辑们最近买了啥？](https://sspai.com/post/93930)
-* [【2024-11-14】 共创 | 1000+ 位用户的选择，一加 13 共创手机壳众筹开启](https://sspai.com/post/93871)
-* [【2024-11-14】 告别 Master 3S，我找到了 Mac 系统更完美的鼠标](https://sspai.com/post/93841)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-17 05:15:14
+:alarm_clock: 更新时间: 2024-11-18 05:16:24

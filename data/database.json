@@ -848,6 +848,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "獭可派 | 别看轻，你的设备已完全载入：tomtoc 飞行家轻行胸包",
+                "link": "https://sspai.com/post/93927",
+                "published": "2024-11-18"
+            },
+            {
+                "title": "派早报：M4 MacBook Pro 使用量子点显示技术",
+                "link": "https://sspai.com/post/94003",
+                "published": "2024-11-18"
+            },
+            {
+                "title": "一日一技 | 我的自制 Numbers 账本表格分享：搭配快捷指令快速记账",
+                "link": "https://sspai.com/post/93912",
+                "published": "2024-11-17"
+            },
+            {
                 "title": "具透 Plus | Windows 又能跑 Android 应用了，macOS 虚拟机好用了一点但不多",
                 "link": "https://sspai.com/prime/story/inside-release-notes-241116",
                 "published": "2024-11-16"
@@ -22573,7 +22588,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
