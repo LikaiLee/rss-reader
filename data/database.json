@@ -848,6 +848,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Apple 移动应用创新赛：把想法变现，让创意启航",
+                "link": "https://sspai.com/post/94047",
+                "published": "2024-11-19"
+            },
+            {
+                "title": "派早报：TGA 公布入围名单，中国移动宣布 5G 消息收费等",
+                "link": "https://sspai.com/post/94038",
+                "published": "2024-11-19"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/94027",
+                "published": "2024-11-18"
+            },
+            {
+                "title": "OPPO Find X8 体验：弥补 iPhone 体验短板之外，还有不少独到之处",
+                "link": "https://sspai.com/post/93928",
+                "published": "2024-11-18"
+            },
+            {
+                "title": "獭可派 | 别看轻，你的设备已完全载入：tomtoc 飞行家轻行胸包 T35",
+                "link": "https://sspai.com/post/93927",
+                "published": "2024-11-18"
+            },
+            {
                 "title": "獭可派 | 别看轻，你的设备已完全载入：tomtoc 飞行家轻行胸包",
                 "link": "https://sspai.com/post/93927",
                 "published": "2024-11-18"
@@ -22588,7 +22613,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
