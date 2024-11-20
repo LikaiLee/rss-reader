@@ -848,6 +848,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "半根救命稻草：简单聊聊苹果生态下健康中的药物跟踪与生命体征追踪",
+                "link": "https://sspai.com/post/93879",
+                "published": "2024-11-20"
+            },
+            {
+                "title": "派早报：Google Play 2024 年度最佳榜单公布等",
+                "link": "https://sspai.com/post/94089",
+                "published": "2024-11-20"
+            },
+            {
+                "title": "社区速递 069 | 你没见过的社区文章、一周最热评、派友的实况照片",
+                "link": "https://sspai.com/post/94063",
+                "published": "2024-11-19"
+            },
+            {
+                "title": "「低配」不低能：2024 款 MacBook Pro 快速体验",
+                "link": "https://sspai.com/post/94061",
+                "published": "2024-11-19"
+            },
+            {
                 "title": "Apple 移动应用创新赛：把想法变现，让创意启航",
                 "link": "https://sspai.com/post/94047",
                 "published": "2024-11-19"
@@ -22613,7 +22633,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
