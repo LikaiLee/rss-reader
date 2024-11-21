@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-11-21】 从新界面探索 Figma 主要功能：UI3 都有哪些新变化？](https://sspai.com/post/92903)
+* [【2024-11-21】 派早报：Apple 结束蝴蝶键盘维修计划、小红书支持杜比视界等](https://sspai.com/post/94126)
+* [【2024-11-20】 对话《心光》王禹效：从独立开发者到超级斜杠青年](https://sspai.com/post/94092)
+* [【2024-11-20】 不谈音质，水月雨的「跨界」手机有多新鲜？](https://sspai.com/post/93990)
+* [【2024-11-20】 少数派 x 两颗皮蛋 | 更多新趋势，更有新精彩：第九届移动应用创新赛落幕](https://sspai.com/post/94082)
 * [【2024-11-20】 半根救命稻草：简单聊聊苹果生态下健康中的药物跟踪与生命体征追踪](https://sspai.com/post/93879)
 * [【2024-11-20】 派早报：Google Play 2024 年度最佳榜单公布等](https://sspai.com/post/94089)
 * [【2024-11-19】 社区速递 069 | 你没见过的社区文章、一周最热评、派友的实况照片](https://sspai.com/post/94063)
 * [【2024-11-19】 「低配」不低能：2024 款 MacBook Pro 快速体验](https://sspai.com/post/94061)
 * [【2024-11-19】 Apple 移动应用创新赛：把想法变现，让创意启航](https://sspai.com/post/94047)
-* [【2024-11-19】 派早报：TGA 公布入围名单，中国移动宣布 5G 消息收费等](https://sspai.com/post/94038)
-* [【2024-11-18】 派评 | 近期值得关注的 App](https://sspai.com/post/94027)
-* [【2024-11-18】 OPPO Find X8 体验：弥补 iPhone 体验短板之外，还有不少独到之处](https://sspai.com/post/93928)
-* [【2024-11-18】 獭可派 | 别看轻，你的设备已完全载入：tomtoc 飞行家轻行胸包 T35](https://sspai.com/post/93927)
-* [【2024-11-18】 獭可派 | 别看轻，你的设备已完全载入：tomtoc 飞行家轻行胸包](https://sspai.com/post/93927)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-20 05:15:25
+:alarm_clock: 更新时间: 2024-11-21 05:15:29

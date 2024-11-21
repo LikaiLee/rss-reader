@@ -848,6 +848,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从新界面探索 Figma 主要功能：UI3 都有哪些新变化？",
+                "link": "https://sspai.com/post/92903",
+                "published": "2024-11-21"
+            },
+            {
+                "title": "派早报：Apple 结束蝴蝶键盘维修计划、小红书支持杜比视界等",
+                "link": "https://sspai.com/post/94126",
+                "published": "2024-11-21"
+            },
+            {
+                "title": "对话《心光》王禹效：从独立开发者到超级斜杠青年",
+                "link": "https://sspai.com/post/94092",
+                "published": "2024-11-20"
+            },
+            {
+                "title": "不谈音质，水月雨的「跨界」手机有多新鲜？",
+                "link": "https://sspai.com/post/93990",
+                "published": "2024-11-20"
+            },
+            {
+                "title": "少数派 x 两颗皮蛋 | 更多新趋势，更有新精彩：第九届移动应用创新赛落幕",
+                "link": "https://sspai.com/post/94082",
+                "published": "2024-11-20"
+            },
+            {
                 "title": "半根救命稻草：简单聊聊苹果生态下健康中的药物跟踪与生命体征追踪",
                 "link": "https://sspai.com/post/93879",
                 "published": "2024-11-20"
@@ -22633,7 +22658,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
