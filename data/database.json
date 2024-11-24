@@ -845,13 +845,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "把图文卡片玩出新花样，我用 DrawLink 做了这些尝试",
+                "link": "https://sspai.com/post/93922",
+                "published": "2024-11-24"
+            },
+            {
+                "title": "对话 Toby：给一加 13 做手机壳，一定要露出哈苏标吗？",
+                "link": "https://sspai.com/post/94042",
+                "published": "2024-11-23"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 12 部作品",
+                "link": "https://sspai.com/post/94174",
+                "published": "2024-11-22"
+            },
+            {
+                "title": "从设备选择到平台对比，带你了解智能家居自动化基础知识",
+                "link": "https://sspai.com/prime/story/home-automation-tips-1",
+                "published": "2024-11-22"
+            },
+            {
+                "title": "App+1 | Follow：信息获取的另一种形态",
+                "link": "https://sspai.com/post/94104",
+                "published": "2024-11-22"
+            },
             {
                 "title": "快捷指令 | 在语境中背单词：Numbers 表格摘录生词和例句",
                 "link": "https://sspai.com/post/93989",
@@ -22683,7 +22708,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
