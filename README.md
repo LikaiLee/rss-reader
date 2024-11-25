@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-11-25】 用魔法打败形式主义：利用 Fish Audio 快速生成读书音频](https://sspai.com/post/94006)
+* [【2024-11-25】 派早报：微软重新上线 AI 录屏检索功能 Recall](https://sspai.com/post/94246)
 * [【2024-11-24】 把图文卡片玩出新花样，我用 DrawLink 做了这些尝试](https://sspai.com/post/93922)
 * [【2024-11-23】 对话 Toby：给一加 13 做手机壳，一定要露出哈苏标吗？](https://sspai.com/post/94042)
 * [【2024-11-22】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/94174)
@@ -43,8 +45,6 @@
 * [【2024-11-22】 快捷指令 | 在语境中背单词：Numbers 表格摘录生词和例句](https://sspai.com/post/93989)
 * [【2024-11-22】 派早报：iOS 18.2 为 Apple Watch 新增「全闭环」成就、《魔兽世界》经典怀旧服……](https://sspai.com/post/94163)
 * [【2024-11-21】 城市漫步指南：西葡的古城、橄榄树与堂吉诃德](https://sspai.com/post/93986)
-* [【2024-11-21】 少数派 x 两颗皮蛋 | 从 Apple 开发者关系出发，看 App Store 成功的秘密](https://sspai.com/post/94140)
-* [【2024-11-21】 从新界面探索 Figma 主要功能：UI3 都有哪些新变化？](https://sspai.com/post/92903)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-24 05:14:41
+:alarm_clock: 更新时间: 2024-11-25 05:16:18

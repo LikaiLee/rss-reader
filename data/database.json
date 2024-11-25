@@ -853,6 +853,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "用魔法打败形式主义：利用 Fish Audio 快速生成读书音频",
+                "link": "https://sspai.com/post/94006",
+                "published": "2024-11-25"
+            },
+            {
+                "title": "派早报：微软重新上线 AI 录屏检索功能 Recall",
+                "link": "https://sspai.com/post/94246",
+                "published": "2024-11-25"
+            },
+            {
                 "title": "把图文卡片玩出新花样，我用 DrawLink 做了这些尝试",
                 "link": "https://sspai.com/post/93922",
                 "published": "2024-11-24"
@@ -22708,7 +22718,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
