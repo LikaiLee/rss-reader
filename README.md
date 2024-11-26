@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-11-26】 常戴耳机会损伤听力吗？你应该了解的听力测试与保护知识](https://sspai.com/post/94280)
+* [【2024-11-26】 派早报：OPPO 发布 Reno13 系列手机、Apple 公布 2024 年 App Store Awards 入围名单](https://sspai.com/post/94276)
+* [【2024-11-25】 派评 | 近期值得关注的 App](https://sspai.com/post/94270)
+* [【2024-11-25】 你的「刻板印象」该翻篇了：家用电池分类及安全使用指南](https://sspai.com/post/94064)
 * [【2024-11-25】 用魔法打败形式主义：利用 Fish Audio 快速生成读书音频](https://sspai.com/post/94006)
 * [【2024-11-25】 派早报：微软重新上线 AI 录屏检索功能 Recall](https://sspai.com/post/94246)
 * [【2024-11-24】 把图文卡片玩出新花样，我用 DrawLink 做了这些尝试](https://sspai.com/post/93922)
 * [【2024-11-23】 对话 Toby：给一加 13 做手机壳，一定要露出哈苏标吗？](https://sspai.com/post/94042)
 * [【2024-11-22】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/94174)
 * [【2024-11-22】 从设备选择到平台对比，带你了解智能家居自动化基础知识](https://sspai.com/prime/story/home-automation-tips-1)
-* [【2024-11-22】 App+1 | Follow：信息获取的另一种形态](https://sspai.com/post/94104)
-* [【2024-11-22】 快捷指令 | 在语境中背单词：Numbers 表格摘录生词和例句](https://sspai.com/post/93989)
-* [【2024-11-22】 派早报：iOS 18.2 为 Apple Watch 新增「全闭环」成就、《魔兽世界》经典怀旧服……](https://sspai.com/post/94163)
-* [【2024-11-21】 城市漫步指南：西葡的古城、橄榄树与堂吉诃德](https://sspai.com/post/93986)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-25 05:16:18
+:alarm_clock: 更新时间: 2024-11-26 05:15:51

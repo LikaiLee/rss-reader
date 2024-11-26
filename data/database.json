@@ -853,6 +853,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "常戴耳机会损伤听力吗？你应该了解的听力测试与保护知识",
+                "link": "https://sspai.com/post/94280",
+                "published": "2024-11-26"
+            },
+            {
+                "title": "派早报：OPPO 发布 Reno13 系列手机、Apple 公布 2024 年 App Store Awards 入围名单",
+                "link": "https://sspai.com/post/94276",
+                "published": "2024-11-26"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/94270",
+                "published": "2024-11-25"
+            },
+            {
+                "title": "你的「刻板印象」该翻篇了：家用电池分类及安全使用指南",
+                "link": "https://sspai.com/post/94064",
+                "published": "2024-11-25"
+            },
+            {
                 "title": "用魔法打败形式主义：利用 Fish Audio 快速生成读书音频",
                 "link": "https://sspai.com/post/94006",
                 "published": "2024-11-25"
@@ -22718,7 +22738,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
