@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-11-27】 快捷指令 | 劳逸结合，自制免费又好用的番茄钟](https://sspai.com/post/94166)
+* [【2024-11-27】 派早报：华为发布多款新品、腾讯推出支持裸眼 3D 的 PC 游戏掌机等](https://sspai.com/post/94310)
+* [【2024-11-26】 社区速递 070 | 你没见过的社区文章、一周最热评、派友十月买了啥](https://sspai.com/post/94292)
+* [【2024-11-26】 程序体验还是机械反馈：何处寻找现代复古相机的意义？](https://sspai.com/post/94130)
 * [【2024-11-26】 常戴耳机会损伤听力吗？你应该了解的听力测试与保护知识](https://sspai.com/post/94280)
 * [【2024-11-26】 派早报：OPPO 发布 Reno13 系列手机、Apple 公布 2024 年 App Store Awards 入围名单](https://sspai.com/post/94276)
 * [【2024-11-25】 派评 | 近期值得关注的 App](https://sspai.com/post/94270)
 * [【2024-11-25】 你的「刻板印象」该翻篇了：家用电池分类及安全使用指南](https://sspai.com/post/94064)
 * [【2024-11-25】 用魔法打败形式主义：利用 Fish Audio 快速生成读书音频](https://sspai.com/post/94006)
 * [【2024-11-25】 派早报：微软重新上线 AI 录屏检索功能 Recall](https://sspai.com/post/94246)
-* [【2024-11-24】 把图文卡片玩出新花样，我用 DrawLink 做了这些尝试](https://sspai.com/post/93922)
-* [【2024-11-23】 对话 Toby：给一加 13 做手机壳，一定要露出哈苏标吗？](https://sspai.com/post/94042)
-* [【2024-11-22】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/94174)
-* [【2024-11-22】 从设备选择到平台对比，带你了解智能家居自动化基础知识](https://sspai.com/prime/story/home-automation-tips-1)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-26 05:15:51
+:alarm_clock: 更新时间: 2024-11-27 05:16:05
