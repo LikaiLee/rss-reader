@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-11-28】 轻便且强大：富士 XM5 上手体验](https://sspai.com/post/94347)
+* [【2024-11-28】 派早报：红米发布 REDMI K80 系列手机、大疆发布 DJI Mic Mini 麦克风等](https://sspai.com/post/94344)
+* [【2024-11-27】 iPhone 拍下的地铁站幻梦：《Tunnel Vision》创作团队采访](https://sspai.com/post/94312)
+* [【2024-11-27】 一年住 7 晚酒店的你，真的需要酒店高级会员吗？](https://sspai.com/post/94079)
 * [【2024-11-27】 快捷指令 | 劳逸结合，自制免费又好用的番茄钟](https://sspai.com/post/94166)
 * [【2024-11-27】 派早报：华为发布多款新品、腾讯推出支持裸眼 3D 的 PC 游戏掌机等](https://sspai.com/post/94310)
 * [【2024-11-26】 社区速递 070 | 你没见过的社区文章、一周最热评、派友十月买了啥](https://sspai.com/post/94292)
 * [【2024-11-26】 程序体验还是机械反馈：何处寻找现代复古相机的意义？](https://sspai.com/post/94130)
 * [【2024-11-26】 常戴耳机会损伤听力吗？你应该了解的听力测试与保护知识](https://sspai.com/post/94280)
 * [【2024-11-26】 派早报：OPPO 发布 Reno13 系列手机、Apple 公布 2024 年 App Store Awards 入围名单](https://sspai.com/post/94276)
-* [【2024-11-25】 派评 | 近期值得关注的 App](https://sspai.com/post/94270)
-* [【2024-11-25】 你的「刻板印象」该翻篇了：家用电池分类及安全使用指南](https://sspai.com/post/94064)
-* [【2024-11-25】 用魔法打败形式主义：利用 Fish Audio 快速生成读书音频](https://sspai.com/post/94006)
-* [【2024-11-25】 派早报：微软重新上线 AI 录屏检索功能 Recall](https://sspai.com/post/94246)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-27 05:16:05
+:alarm_clock: 更新时间: 2024-11-28 05:16:30
