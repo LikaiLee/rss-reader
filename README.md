@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-11-29】 科技爱好者周刊（第 327 期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)
 * [【2024-11-22】 科技爱好者周刊（第 326 期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html)
 * [【2024-11-15】 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)
 * [【2024-11-08】 科技爱好者周刊（第 324 期）：人类已知的最大质数](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html)
@@ -25,7 +26,6 @@
 * [【2024-10-17】 科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html)
 * [【2024-10-11】 科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html)
 * [【2024-10-10】 后面试时代与 AI 刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html)
-* [【2024-09-27】 科技爱好者周刊（第 319 期）：如何拍出爆款视频](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-11-29】 赞比亚：一场充满惊喜与挑战的非洲之旅](https://sspai.com/post/94352)
+* [【2024-11-29】 派早报：vivo S20 系列发布，B&O 发布 Beoplay Eleven 等](https://sspai.com/post/94368)
+* [【2024-11-28】 新玩意 197｜少数派的编辑们最近买了啥？](https://sspai.com/post/94359)
+* [【2024-11-28】 城市漫步指南 | 茂名，热烈绽放的生命力](https://sspai.com/post/94240)
 * [【2024-11-28】 轻便且强大：富士 XM5 上手体验](https://sspai.com/post/94347)
 * [【2024-11-28】 派早报：红米发布 REDMI K80 系列手机、大疆发布 DJI Mic Mini 麦克风等](https://sspai.com/post/94344)
 * [【2024-11-27】 iPhone 拍下的地铁站幻梦：《Tunnel Vision》创作团队采访](https://sspai.com/post/94312)
 * [【2024-11-27】 一年住 7 晚酒店的你，真的需要酒店高级会员吗？](https://sspai.com/post/94079)
 * [【2024-11-27】 快捷指令 | 劳逸结合，自制免费又好用的番茄钟](https://sspai.com/post/94166)
 * [【2024-11-27】 派早报：华为发布多款新品、腾讯推出支持裸眼 3D 的 PC 游戏掌机等](https://sspai.com/post/94310)
-* [【2024-11-26】 社区速递 070 | 你没见过的社区文章、一周最热评、派友十月买了啥](https://sspai.com/post/94292)
-* [【2024-11-26】 程序体验还是机械反馈：何处寻找现代复古相机的意义？](https://sspai.com/post/94130)
-* [【2024-11-26】 常戴耳机会损伤听力吗？你应该了解的听力测试与保护知识](https://sspai.com/post/94280)
-* [【2024-11-26】 派早报：OPPO 发布 Reno13 系列手机、Apple 公布 2024 年 App Store Awards 入围名单](https://sspai.com/post/94276)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-28 05:16:30
+:alarm_clock: 更新时间: 2024-11-29 05:16:19
