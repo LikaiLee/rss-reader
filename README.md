@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-11-29】 家庭居酒屋备货指南：啤酒篇](https://sspai.com/prime/story/izakaya-at-home-beer)
+* [【2024-11-29】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/94380)
+* [【2024-11-29】 「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/94378)
 * [【2024-11-29】 赞比亚：一场充满惊喜与挑战的非洲之旅](https://sspai.com/post/94352)
 * [【2024-11-29】 派早报：vivo S20 系列发布，B&O 发布 Beoplay Eleven 等](https://sspai.com/post/94368)
 * [【2024-11-28】 新玩意 197｜少数派的编辑们最近买了啥？](https://sspai.com/post/94359)
@@ -42,9 +45,6 @@
 * [【2024-11-28】 轻便且强大：富士 XM5 上手体验](https://sspai.com/post/94347)
 * [【2024-11-28】 派早报：红米发布 REDMI K80 系列手机、大疆发布 DJI Mic Mini 麦克风等](https://sspai.com/post/94344)
 * [【2024-11-27】 iPhone 拍下的地铁站幻梦：《Tunnel Vision》创作团队采访](https://sspai.com/post/94312)
-* [【2024-11-27】 一年住 7 晚酒店的你，真的需要酒店高级会员吗？](https://sspai.com/post/94079)
-* [【2024-11-27】 快捷指令 | 劳逸结合，自制免费又好用的番茄钟](https://sspai.com/post/94166)
-* [【2024-11-27】 派早报：华为发布多款新品、腾讯推出支持裸眼 3D 的 PC 游戏掌机等](https://sspai.com/post/94310)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-29 05:16:19
+:alarm_clock: 更新时间: 2024-11-30 05:14:37

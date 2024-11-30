@@ -850,13 +850,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "家庭居酒屋备货指南：啤酒篇",
+                "link": "https://sspai.com/prime/story/izakaya-at-home-beer",
+                "published": "2024-11-29"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/94380",
+                "published": "2024-11-29"
+            },
+            {
+                "title": "「黑五」值得买：不容错过的 App 和服务优惠",
+                "link": "https://sspai.com/post/94378",
+                "published": "2024-11-29"
+            },
             {
                 "title": "赞比亚：一场充满惊喜与挑战的非洲之旅",
                 "link": "https://sspai.com/post/94352",
@@ -22803,7 +22818,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
