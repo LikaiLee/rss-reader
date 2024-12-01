@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-11-30】 本月玩什么 | 潜行者 2、黄金像凶杀案再起、俄罗斯方块永恒篇等](https://sspai.com/post/94413)
+* [【2024-11-29】 [持续更新中]「黑五」值得买：App 与服务优惠](https://sspai.com/post/94378)
 * [【2024-11-29】 家庭居酒屋备货指南：啤酒篇](https://sspai.com/prime/story/izakaya-at-home-beer)
 * [【2024-11-29】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/94380)
 * [【2024-11-29】 「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/94378)
@@ -43,8 +45,6 @@
 * [【2024-11-28】 新玩意 197｜少数派的编辑们最近买了啥？](https://sspai.com/post/94359)
 * [【2024-11-28】 城市漫步指南 | 茂名，热烈绽放的生命力](https://sspai.com/post/94240)
 * [【2024-11-28】 轻便且强大：富士 XM5 上手体验](https://sspai.com/post/94347)
-* [【2024-11-28】 派早报：红米发布 REDMI K80 系列手机、大疆发布 DJI Mic Mini 麦克风等](https://sspai.com/post/94344)
-* [【2024-11-27】 iPhone 拍下的地铁站幻梦：《Tunnel Vision》创作团队采访](https://sspai.com/post/94312)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-11-30 05:14:37
+:alarm_clock: 更新时间: 2024-12-01 05:15:35
