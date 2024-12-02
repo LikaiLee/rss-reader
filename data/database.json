@@ -858,6 +858,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "夺回你的注意力：用断舍离治疗手机上瘾",
+                "link": "https://sspai.com/post/93322",
+                "published": "2024-12-02"
+            },
+            {
+                "title": "派早报：澳大利亚通过青少年社交媒体禁令",
+                "link": "https://sspai.com/post/94440",
+                "published": "2024-12-02"
+            },
+            {
+                "title": "长居日本第四年，这是我的 2024 年度好物",
+                "link": "https://sspai.com/post/94227",
+                "published": "2024-12-01"
+            },
+            {
                 "title": "本月玩什么 | 潜行者 2、黄金像凶杀案再起、俄罗斯方块永恒篇等",
                 "link": "https://sspai.com/post/94413",
                 "published": "2024-11-30"
@@ -22828,7 +22843,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,

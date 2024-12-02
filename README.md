@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2024-12-02】 夺回你的注意力：用断舍离治疗手机上瘾](https://sspai.com/post/93322)
+* [【2024-12-02】 派早报：澳大利亚通过青少年社交媒体禁令](https://sspai.com/post/94440)
+* [【2024-12-01】 长居日本第四年，这是我的 2024 年度好物](https://sspai.com/post/94227)
 * [【2024-11-30】 本月玩什么 | 潜行者 2、黄金像凶杀案再起、俄罗斯方块永恒篇等](https://sspai.com/post/94413)
 * [【2024-11-29】 [持续更新中]「黑五」值得买：App 与服务优惠](https://sspai.com/post/94378)
 * [【2024-11-29】 家庭居酒屋备货指南：啤酒篇](https://sspai.com/prime/story/izakaya-at-home-beer)
@@ -42,9 +45,6 @@
 * [【2024-11-29】 「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/94378)
 * [【2024-11-29】 赞比亚：一场充满惊喜与挑战的非洲之旅](https://sspai.com/post/94352)
 * [【2024-11-29】 派早报：vivo S20 系列发布，B&O 发布 Beoplay Eleven 等](https://sspai.com/post/94368)
-* [【2024-11-28】 新玩意 197｜少数派的编辑们最近买了啥？](https://sspai.com/post/94359)
-* [【2024-11-28】 城市漫步指南 | 茂名，热烈绽放的生命力](https://sspai.com/post/94240)
-* [【2024-11-28】 轻便且强大：富士 XM5 上手体验](https://sspai.com/post/94347)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-01 05:15:35
+:alarm_clock: 更新时间: 2024-12-02 05:16:56
