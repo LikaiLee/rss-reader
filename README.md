@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-12-02】 AI 应用无代码开发教程：工作流模式详解](http://www.ruanyifeng.com/blog/2024/12/no-code-ai-tutorial.html)
 * [【2024-11-29】 科技爱好者周刊（第 327 期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)
 * [【2024-11-22】 科技爱好者周刊（第 326 期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html)
 * [【2024-11-15】 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)
@@ -25,7 +26,6 @@
 * [【2024-10-25】 科技爱好者周刊（第 322 期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)
 * [【2024-10-17】 科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html)
 * [【2024-10-11】 科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html)
-* [【2024-10-10】 后面试时代与 AI 刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-12-03】 Claude 的 MCP 有啥用？能让这么多开发者和用户欢欣鼓舞？](https://sspai.com/post/94360)
+* [【2024-12-03】 派早报：荣耀发布荣耀 300 系列等新品，人人网无法正常登录等](https://sspai.com/post/94473)
+* [【2024-12-02】 派评 | 近期值得关注的 App](https://sspai.com/post/94421)
+* [【2024-12-02】 3D 打印还能这么玩？从零开始的 3D 打印机入坑指南](https://sspai.com/post/94453)
 * [【2024-12-02】 夺回你的注意力：用断舍离治疗手机上瘾](https://sspai.com/post/93322)
 * [【2024-12-02】 派早报：澳大利亚通过青少年社交媒体禁令](https://sspai.com/post/94440)
 * [【2024-12-01】 长居日本第四年，这是我的 2024 年度好物](https://sspai.com/post/94227)
 * [【2024-11-30】 本月玩什么 | 潜行者 2、黄金像凶杀案再起、俄罗斯方块永恒篇等](https://sspai.com/post/94413)
 * [【2024-11-29】 [持续更新中]「黑五」值得买：App 与服务优惠](https://sspai.com/post/94378)
 * [【2024-11-29】 家庭居酒屋备货指南：啤酒篇](https://sspai.com/prime/story/izakaya-at-home-beer)
-* [【2024-11-29】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/94380)
-* [【2024-11-29】 「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/94378)
-* [【2024-11-29】 赞比亚：一场充满惊喜与挑战的非洲之旅](https://sspai.com/post/94352)
-* [【2024-11-29】 派早报：vivo S20 系列发布，B&O 发布 Beoplay Eleven 等](https://sspai.com/post/94368)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-02 05:16:56
+:alarm_clock: 更新时间: 2024-12-03 05:16:29

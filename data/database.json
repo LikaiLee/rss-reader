@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "AI 应用无代码开发教程：工作流模式详解",
+                "link": "http://www.ruanyifeng.com/blog/2024/12/no-code-ai-tutorial.html",
+                "published": "2024-12-02"
+            },
+            {
                 "title": "科技爱好者周刊（第 327 期）：没有链接的互联网",
                 "link": "http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html",
                 "published": "2024-11-29"
@@ -850,13 +855,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "Claude 的 MCP 有啥用？能让这么多开发者和用户欢欣鼓舞？",
+                "link": "https://sspai.com/post/94360",
+                "published": "2024-12-03"
+            },
+            {
+                "title": "派早报：荣耀发布荣耀 300 系列等新品，人人网无法正常登录等",
+                "link": "https://sspai.com/post/94473",
+                "published": "2024-12-03"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/94421",
+                "published": "2024-12-02"
+            },
+            {
+                "title": "3D 打印还能这么玩？从零开始的 3D 打印机入坑指南",
+                "link": "https://sspai.com/post/94453",
+                "published": "2024-12-02"
+            },
             {
                 "title": "夺回你的注意力：用断舍离治疗手机上瘾",
                 "link": "https://sspai.com/post/93322",
@@ -22843,7 +22868,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
