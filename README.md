@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-12-05】 快捷指令 | 把价值千万的爱彼三问报时装进 iPhone](https://sspai.com/post/94309)
+* [【2024-12-05】 派早报：多个平台发布年度榜单、Apple Intelligence 或将使用文心一言等](https://sspai.com/post/94535)
+* [【2024-12-04】 从一台计算器开始的塞班故事](https://sspai.com/prime/story/vintage-tech-stories-symbian-1)
+* [【2024-12-04】 莫道桑榆晚，为霞尚满天：「在职社会人」备考应试指南](https://sspai.com/post/88053)
+* [【2024-12-04】 华为 Mate 70 Pro+ 影像体验：意料之外，却也情理之中的「本色」表达](https://sspai.com/post/94491)
 * [【2024-12-04】 承与继：第六代和第九代 ThinkPad X1 Carbon 纯主观札记](https://sspai.com/post/93235)
 * [【2024-12-03】 派早报：YouTube 发布 2024 年度文化与流行趋势报告等](https://sspai.com/post/94501)
 * [【2024-12-03】 社区速递 071 | 你没见过的社区文章、一周最热评、派友用什么背单词](https://sspai.com/post/94493)
 * [【2024-12-03】 Matter 无关紧要的第五年：理想丰满、现实骨感](https://sspai.com/post/94364)
 * [【2024-12-03】 Claude 的 MCP 有啥用？能让这么多开发者和用户欢欣鼓舞？](https://sspai.com/post/94360)
-* [【2024-12-03】 派早报：荣耀发布荣耀 300 系列等新品，人人网无法正常登录等](https://sspai.com/post/94473)
-* [【2024-12-02】 派评 | 近期值得关注的 App](https://sspai.com/post/94421)
-* [【2024-12-02】 3D 打印还能这么玩？从零开始的 3D 打印机入坑指南](https://sspai.com/post/94453)
-* [【2024-12-02】 夺回你的注意力：用断舍离治疗手机上瘾](https://sspai.com/post/93322)
-* [【2024-12-02】 派早报：澳大利亚通过青少年社交媒体禁令](https://sspai.com/post/94440)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-04 05:16:07
+:alarm_clock: 更新时间: 2024-12-05 05:16:33
