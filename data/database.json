@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 328 期）：AI 模型不是一门好生意",
+                "link": "http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html",
+                "published": "2024-12-06"
+            },
+            {
                 "title": "AI 应用无代码开发教程：工作流模式详解",
                 "link": "http://www.ruanyifeng.com/blog/2024/12/no-code-ai-tutorial.html",
                 "published": "2024-12-02"
@@ -855,13 +860,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "城市漫步指南：海牙，从维米尔到席凡宁根",
+                "link": "https://sspai.com/post/94308",
+                "published": "2024-12-06"
+            },
+            {
+                "title": "派早报：XREAL 推出原生 3DoF AR 眼镜 XREAL One 系列、GPD 推出新款 Win 4 掌上游戏电脑等",
+                "link": "https://sspai.com/post/94568",
+                "published": "2024-12-06"
+            },
+            {
+                "title": "有问题问小艺：给你专业答案，更值得信赖",
+                "link": "https://sspai.com/post/94487",
+                "published": "2024-12-05"
+            },
+            {
+                "title": "译文 | 百舸争流，能者自渡：本地大语言模型（LLM）那些事",
+                "link": "https://sspai.com/post/94482",
+                "published": "2024-12-05"
+            },
             {
                 "title": "快捷指令 | 把价值千万的爱彼三问报时装进 iPhone",
                 "link": "https://sspai.com/post/94309",
@@ -22913,7 +22938,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

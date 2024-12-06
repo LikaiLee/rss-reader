@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-12-06】 科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html)
 * [【2024-12-02】 AI 应用无代码开发教程：工作流模式详解](http://www.ruanyifeng.com/blog/2024/12/no-code-ai-tutorial.html)
 * [【2024-11-29】 科技爱好者周刊（第 327 期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)
 * [【2024-11-22】 科技爱好者周刊（第 326 期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html)
@@ -25,7 +26,6 @@
 * [【2024-10-30】 AI 开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html)
 * [【2024-10-25】 科技爱好者周刊（第 322 期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)
 * [【2024-10-17】 科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html)
-* [【2024-10-11】 科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-12-06】 城市漫步指南：海牙，从维米尔到席凡宁根](https://sspai.com/post/94308)
+* [【2024-12-06】 派早报：XREAL 推出原生 3DoF AR 眼镜 XREAL One 系列、GPD 推出新款 Win 4 掌上游戏电脑等](https://sspai.com/post/94568)
+* [【2024-12-05】 有问题问小艺：给你专业答案，更值得信赖](https://sspai.com/post/94487)
+* [【2024-12-05】 译文 | 百舸争流，能者自渡：本地大语言模型（LLM）那些事](https://sspai.com/post/94482)
 * [【2024-12-05】 快捷指令 | 把价值千万的爱彼三问报时装进 iPhone](https://sspai.com/post/94309)
 * [【2024-12-05】 派早报：多个平台发布年度榜单、Apple Intelligence 或将使用文心一言等](https://sspai.com/post/94535)
 * [【2024-12-04】 从一台计算器开始的塞班故事](https://sspai.com/prime/story/vintage-tech-stories-symbian-1)
 * [【2024-12-04】 莫道桑榆晚，为霞尚满天：「在职社会人」备考应试指南](https://sspai.com/post/88053)
 * [【2024-12-04】 华为 Mate 70 Pro+ 影像体验：意料之外，却也情理之中的「本色」表达](https://sspai.com/post/94491)
 * [【2024-12-04】 承与继：第六代和第九代 ThinkPad X1 Carbon 纯主观札记](https://sspai.com/post/93235)
-* [【2024-12-03】 派早报：YouTube 发布 2024 年度文化与流行趋势报告等](https://sspai.com/post/94501)
-* [【2024-12-03】 社区速递 071 | 你没见过的社区文章、一周最热评、派友用什么背单词](https://sspai.com/post/94493)
-* [【2024-12-03】 Matter 无关紧要的第五年：理想丰满、现实骨感](https://sspai.com/post/94364)
-* [【2024-12-03】 Claude 的 MCP 有啥用？能让这么多开发者和用户欢欣鼓舞？](https://sspai.com/post/94360)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-05 05:16:33
+:alarm_clock: 更新时间: 2024-12-06 05:16:14
