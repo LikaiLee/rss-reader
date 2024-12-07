@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-12-06】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/94583)
+* [【2024-12-06】 Apple Trade In 折抵换购体验：今年有什么不一样？](https://sspai.com/post/94552)
 * [【2024-12-06】 城市漫步指南：海牙，从维米尔到席凡宁根](https://sspai.com/post/94308)
 * [【2024-12-06】 派早报：XREAL 推出原生 3DoF AR 眼镜 XREAL One 系列、GPD 推出新款 Win 4 掌上游戏电脑等](https://sspai.com/post/94568)
 * [【2024-12-05】 有问题问小艺：给你专业答案，更值得信赖](https://sspai.com/post/94487)
@@ -43,8 +45,6 @@
 * [【2024-12-05】 派早报：多个平台发布年度榜单、Apple Intelligence 或将使用文心一言等](https://sspai.com/post/94535)
 * [【2024-12-04】 从一台计算器开始的塞班故事](https://sspai.com/prime/story/vintage-tech-stories-symbian-1)
 * [【2024-12-04】 莫道桑榆晚，为霞尚满天：「在职社会人」备考应试指南](https://sspai.com/post/88053)
-* [【2024-12-04】 华为 Mate 70 Pro+ 影像体验：意料之外，却也情理之中的「本色」表达](https://sspai.com/post/94491)
-* [【2024-12-04】 承与继：第六代和第九代 ThinkPad X1 Carbon 纯主观札记](https://sspai.com/post/93235)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-06 05:16:14
+:alarm_clock: 更新时间: 2024-12-07 05:14:54
