@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-12-08】 具透 | 一边搬家、一边填坑：Windows 11 24H2 更新速览](https://sspai.com/post/92942)
+* [【2024-12-07】 高效数字化协作的底层思维：大型项目的高效文件管理指南](https://sspai.com/post/94499)
 * [【2024-12-06】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/94583)
 * [【2024-12-06】 Apple Trade In 折抵换购体验：今年有什么不一样？](https://sspai.com/post/94552)
 * [【2024-12-06】 城市漫步指南：海牙，从维米尔到席凡宁根](https://sspai.com/post/94308)
@@ -43,8 +45,6 @@
 * [【2024-12-05】 译文 | 百舸争流，能者自渡：本地大语言模型（LLM）那些事](https://sspai.com/post/94482)
 * [【2024-12-05】 快捷指令 | 把价值千万的爱彼三问报时装进 iPhone](https://sspai.com/post/94309)
 * [【2024-12-05】 派早报：多个平台发布年度榜单、Apple Intelligence 或将使用文心一言等](https://sspai.com/post/94535)
-* [【2024-12-04】 从一台计算器开始的塞班故事](https://sspai.com/prime/story/vintage-tech-stories-symbian-1)
-* [【2024-12-04】 莫道桑榆晚，为霞尚满天：「在职社会人」备考应试指南](https://sspai.com/post/88053)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-07 05:14:54
+:alarm_clock: 更新时间: 2024-12-08 05:15:16
