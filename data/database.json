@@ -868,6 +868,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "线下活动｜逐一场落日余晖：少数派摄影探索日",
+                "link": "https://sspai.com/post/94676",
+                "published": "2024-12-10"
+            },
+            {
+                "title": "万字解析：AI 驱动的大纲笔记，Tana 能否超越 Notion？",
+                "link": "https://sspai.com/post/93555",
+                "published": "2024-12-10"
+            },
+            {
+                "title": "派早报：广电总局发布「AI 魔改」管理提示，itch.io 遭 AI 举报下线等",
+                "link": "https://sspai.com/post/94669",
+                "published": "2024-12-10"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/94662",
+                "published": "2024-12-09"
+            },
+            {
+                "title": "双十二活动、国家补贴…… 正是 iPhone 换机的好时候",
+                "link": "https://sspai.com/post/94430",
+                "published": "2024-12-09"
+            },
+            {
                 "title": "城市漫步指南：在博兹瓦纳与野生精灵的奇幻邂逅",
                 "link": "https://sspai.com/post/94494",
                 "published": "2024-12-09"
@@ -22968,7 +22993,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     },
     {
         "id": 2,
