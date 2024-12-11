@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-12-11】 文献一团乱麻？试试 PARA 管理方法](https://sspai.com/post/94377)
+* [【2024-12-11】 派早报：腾讯视频下调 VIP 会员权益、Sora AI 向付费用户开放等](https://sspai.com/post/94707)
+* [【2024-12-10】 社区速递 072 | 你没见过的社区文章、一周最热评、派友吃什么火锅](https://sspai.com/post/94693)
+* [【2024-12-10】 一半的视野，成倍的精彩：聊聊我用过的 3 台半格胶片相机](https://sspai.com/post/94585)
 * [【2024-12-10】 线下活动｜逐一场落日余晖：少数派摄影探索日](https://sspai.com/post/94676)
 * [【2024-12-10】 万字解析：AI 驱动的大纲笔记，Tana 能否超越 Notion？](https://sspai.com/post/93555)
 * [【2024-12-10】 派早报：广电总局发布「AI 魔改」管理提示，itch.io 遭 AI 举报下线等](https://sspai.com/post/94669)
 * [【2024-12-09】 派评 | 近期值得关注的 App](https://sspai.com/post/94662)
 * [【2024-12-09】 双十二活动、国家补贴…… 正是 iPhone 换机的好时候](https://sspai.com/post/94430)
 * [【2024-12-09】 城市漫步指南：在博兹瓦纳与野生精灵的奇幻邂逅](https://sspai.com/post/94494)
-* [【2024-12-09】 派早报：美国法院维持 TikTok 强制出售法案](https://sspai.com/post/94650)
-* [【2024-12-08】 具透 | 一边搬家、一边填坑：Windows 11 24H2 更新速览](https://sspai.com/post/92942)
-* [【2024-12-07】 高效数字化协作的底层思维：大型项目的高效文件管理指南](https://sspai.com/post/94499)
-* [【2024-12-06】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/94583)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-10 05:16:36
+:alarm_clock: 更新时间: 2024-12-11 05:16:19

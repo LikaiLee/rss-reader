@@ -868,6 +868,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "文献一团乱麻？试试 PARA 管理方法",
+                "link": "https://sspai.com/post/94377",
+                "published": "2024-12-11"
+            },
+            {
+                "title": "派早报：腾讯视频下调 VIP 会员权益、Sora AI 向付费用户开放等",
+                "link": "https://sspai.com/post/94707",
+                "published": "2024-12-11"
+            },
+            {
+                "title": "社区速递 072 | 你没见过的社区文章、一周最热评、派友吃什么火锅",
+                "link": "https://sspai.com/post/94693",
+                "published": "2024-12-10"
+            },
+            {
+                "title": "一半的视野，成倍的精彩：聊聊我用过的 3 台半格胶片相机",
+                "link": "https://sspai.com/post/94585",
+                "published": "2024-12-10"
+            },
+            {
                 "title": "线下活动｜逐一场落日余晖：少数派摄影探索日",
                 "link": "https://sspai.com/post/94676",
                 "published": "2024-12-10"
@@ -22993,7 +23013,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
