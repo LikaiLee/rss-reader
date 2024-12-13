@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-12-13】 科技爱好者周刊（第 329 期）：示意图利器 D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html)
 * [【2024-12-06】 科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html)
 * [【2024-12-02】 AI 应用无代码开发教程：工作流模式详解](http://www.ruanyifeng.com/blog/2024/12/no-code-ai-tutorial.html)
 * [【2024-11-29】 科技爱好者周刊（第 327 期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)
@@ -25,7 +26,6 @@
 * [【2024-11-01】 科技爱好者周刊（第 323 期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html)
 * [【2024-10-30】 AI 开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html)
 * [【2024-10-25】 科技爱好者周刊（第 322 期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)
-* [【2024-10-17】 科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-12-13】 在青甘大环线逆时针自驾，看大西北的荒芜与绚烂](https://sspai.com/post/94586)
+* [【2024-12-13】 派早报: Apple 为 iPhone 16 Pro 系列语音备忘录新增分层录音功能等](https://sspai.com/post/94790)
+* [【2024-12-12】 推理小说的魅力不一般！日系推理入门推荐](https://sspai.com/post/94627)
+* [【2024-12-12】 又一年 App Store Awards 年度应用揭晓，我们与获奖开发者聊了聊](https://sspai.com/post/94771)
 * [【2024-12-12】 iOS 18.2 值得关注的新特性，还有「AI」入华新传闻](https://sspai.com/post/94448)
 * [【2024-12-12】 派早报：Apple 公布年度应用、iOS 和 iPadOS 18.2 已发布等](https://sspai.com/post/94752)
 * [【2024-12-11】 城市漫步指南：攀枝花的钢铁与烈焰](https://sspai.com/post/93649)
 * [【2024-12-11】 把重要的日子放在桌面：挑本新年日历，迎接 2025](https://sspai.com/post/94638)
 * [【2024-12-11】 文献一团乱麻？试试 PARA 管理方法](https://sspai.com/post/94377)
 * [【2024-12-11】 派早报：腾讯视频下调 VIP 会员权益、Sora AI 向付费用户开放等](https://sspai.com/post/94707)
-* [【2024-12-10】 社区速递 072 | 你没见过的社区文章、一周最热评、派友吃什么火锅](https://sspai.com/post/94693)
-* [【2024-12-10】 一半的视野，成倍的精彩：聊聊我用过的 3 台半格胶片相机](https://sspai.com/post/94585)
-* [【2024-12-10】 线下活动｜逐一场落日余晖：少数派摄影探索日](https://sspai.com/post/94676)
-* [【2024-12-10】 万字解析：AI 驱动的大纲笔记，Tana 能否超越 Notion？](https://sspai.com/post/93555)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-12 05:16:35
+:alarm_clock: 更新时间: 2024-12-13 05:16:23

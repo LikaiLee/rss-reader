@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 329 期）：示意图利器 D2",
+                "link": "http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html",
+                "published": "2024-12-13"
+            },
+            {
                 "title": "科技爱好者周刊（第 328 期）：AI 模型不是一门好生意",
                 "link": "http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html",
                 "published": "2024-12-06"
@@ -860,13 +865,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "在青甘大环线逆时针自驾，看大西北的荒芜与绚烂",
+                "link": "https://sspai.com/post/94586",
+                "published": "2024-12-13"
+            },
+            {
+                "title": "派早报: Apple 为 iPhone 16 Pro 系列语音备忘录新增分层录音功能等",
+                "link": "https://sspai.com/post/94790",
+                "published": "2024-12-13"
+            },
+            {
+                "title": "推理小说的魅力不一般！日系推理入门推荐",
+                "link": "https://sspai.com/post/94627",
+                "published": "2024-12-12"
+            },
+            {
+                "title": "又一年 App Store Awards 年度应用揭晓，我们与获奖开发者聊了聊",
+                "link": "https://sspai.com/post/94771",
+                "published": "2024-12-12"
+            },
             {
                 "title": "iOS 18.2 值得关注的新特性，还有「AI」入华新传闻",
                 "link": "https://sspai.com/post/94448",
