@@ -865,13 +865,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 11 部作品",
+                "link": "https://sspai.com/post/94808",
+                "published": "2024-12-13"
+            },
+            {
+                "title": "具透 | visionOS 2.2 一小步，Mac 虚拟显示一大步",
+                "link": "https://sspai.com/post/94791",
+                "published": "2024-12-13"
+            },
             {
                 "title": "在青甘大环线逆时针自驾，看大西北的荒芜与绚烂",
                 "link": "https://sspai.com/post/94586",
@@ -23058,7 +23068,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,

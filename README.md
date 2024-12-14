@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-12-13】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/94808)
+* [【2024-12-13】 具透 | visionOS 2.2 一小步，Mac 虚拟显示一大步](https://sspai.com/post/94791)
 * [【2024-12-13】 在青甘大环线逆时针自驾，看大西北的荒芜与绚烂](https://sspai.com/post/94586)
 * [【2024-12-13】 派早报: Apple 为 iPhone 16 Pro 系列语音备忘录新增分层录音功能等](https://sspai.com/post/94790)
 * [【2024-12-12】 推理小说的魅力不一般！日系推理入门推荐](https://sspai.com/post/94627)
@@ -43,8 +45,6 @@
 * [【2024-12-12】 派早报：Apple 公布年度应用、iOS 和 iPadOS 18.2 已发布等](https://sspai.com/post/94752)
 * [【2024-12-11】 城市漫步指南：攀枝花的钢铁与烈焰](https://sspai.com/post/93649)
 * [【2024-12-11】 把重要的日子放在桌面：挑本新年日历，迎接 2025](https://sspai.com/post/94638)
-* [【2024-12-11】 文献一团乱麻？试试 PARA 管理方法](https://sspai.com/post/94377)
-* [【2024-12-11】 派早报：腾讯视频下调 VIP 会员权益、Sora AI 向付费用户开放等](https://sspai.com/post/94707)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-13 05:16:23
+:alarm_clock: 更新时间: 2024-12-14 05:14:54
