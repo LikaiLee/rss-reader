@@ -873,6 +873,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "城市漫步指南：济州岛，需要好天气",
+                "link": "https://sspai.com/post/93696",
+                "published": "2024-12-14"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 11 部作品",
                 "link": "https://sspai.com/post/94808",
                 "published": "2024-12-13"
@@ -23068,7 +23073,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
