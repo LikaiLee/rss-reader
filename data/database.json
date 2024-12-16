@@ -873,6 +873,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从设计师视角，聊聊我眼中的 Apple Watch",
+                "link": "https://sspai.com/post/94242",
+                "published": "2024-12-16"
+            },
+            {
+                "title": "派早报：谷歌与三星合作推出 XR 头戴设备",
+                "link": "https://sspai.com/post/94885",
+                "published": "2024-12-16"
+            },
+            {
+                "title": "探索更高效的企业工作方式，他们选择了 Mac",
+                "link": "https://sspai.com/post/94868",
+                "published": "2024-12-15"
+            },
+            {
                 "title": "城市漫步指南：济州岛，需要好天气",
                 "link": "https://sspai.com/post/93696",
                 "published": "2024-12-14"
@@ -23073,7 +23088,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
