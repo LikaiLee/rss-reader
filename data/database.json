@@ -873,6 +873,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "奖项与争议之外，值得关注的 TGA 新作资讯汇总",
+                "link": "https://sspai.com/post/94914",
+                "published": "2024-12-17"
+            },
+            {
+                "title": "派早报：vivo 发布 Y300 手机，荣耀发布 GT 系列等新品等",
+                "link": "https://sspai.com/post/94913",
+                "published": "2024-12-17"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/94903",
+                "published": "2024-12-16"
+            },
+            {
+                "title": "你住的城市下不下雪？用这份「雪天片单」感受浪漫季节",
+                "link": "https://sspai.com/post/94704",
+                "published": "2024-12-16"
+            },
+            {
                 "title": "从设计师视角，聊聊我眼中的 Apple Watch",
                 "link": "https://sspai.com/post/94242",
                 "published": "2024-12-16"
@@ -23088,7 +23108,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
