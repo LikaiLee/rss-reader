@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-12-18】 打破次元壁，用双脚丈量「那个游戏」的世界：虚拟骑行 GT Bike V](https://sspai.com/post/94229)
+* [【2024-12-18】 派早报：ChatGPT 向所有用户开放 AI 搜索功能等](https://sspai.com/post/94937)
+* [【2024-12-17】 共创 | 可爱又好用的水獭开箱刀，外观由你来决定](https://sspai.com/post/94898)
+* [【2024-12-17】 社区速递 073 | 你没见过的社区文章、一周最热评、派友用什么AI](https://sspai.com/post/94930)
+* [【2024-12-17】 给开放智能家居生态一个好的开始：小米官方 Home Assistant 集成上手体验](https://sspai.com/post/94916)
 * [【2024-12-17】 奖项与争议之外，值得关注的 TGA 新作资讯汇总](https://sspai.com/post/94914)
 * [【2024-12-17】 派早报：vivo 发布 Y300 手机，荣耀发布 GT 系列等新品等](https://sspai.com/post/94913)
 * [【2024-12-16】 派评 | 近期值得关注的 App](https://sspai.com/post/94903)
 * [【2024-12-16】 你住的城市下不下雪？用这份「雪天片单」感受浪漫季节](https://sspai.com/post/94704)
 * [【2024-12-16】 从设计师视角，聊聊我眼中的 Apple Watch](https://sspai.com/post/94242)
-* [【2024-12-16】 派早报：谷歌与三星合作推出 XR 头戴设备](https://sspai.com/post/94885)
-* [【2024-12-15】 探索更高效的企业工作方式，他们选择了 Mac](https://sspai.com/post/94868)
-* [【2024-12-14】 城市漫步指南：济州岛，需要好天气](https://sspai.com/post/93696)
-* [【2024-12-13】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/94808)
-* [【2024-12-13】 具透 | visionOS 2.2 一小步，Mac 虚拟显示一大步](https://sspai.com/post/94791)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-17 05:16:09
+:alarm_clock: 更新时间: 2024-12-18 05:15:29

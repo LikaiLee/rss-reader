@@ -873,6 +873,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "打破次元壁，用双脚丈量「那个游戏」的世界：虚拟骑行 GT Bike V",
+                "link": "https://sspai.com/post/94229",
+                "published": "2024-12-18"
+            },
+            {
+                "title": "派早报：ChatGPT 向所有用户开放 AI 搜索功能等",
+                "link": "https://sspai.com/post/94937",
+                "published": "2024-12-18"
+            },
+            {
+                "title": "共创 | 可爱又好用的水獭开箱刀，外观由你来决定",
+                "link": "https://sspai.com/post/94898",
+                "published": "2024-12-17"
+            },
+            {
+                "title": "社区速递 073 | 你没见过的社区文章、一周最热评、派友用什么AI",
+                "link": "https://sspai.com/post/94930",
+                "published": "2024-12-17"
+            },
+            {
+                "title": "给开放智能家居生态一个好的开始：小米官方 Home Assistant 集成上手体验",
+                "link": "https://sspai.com/post/94916",
+                "published": "2024-12-17"
+            },
+            {
                 "title": "奖项与争议之外，值得关注的 TGA 新作资讯汇总",
                 "link": "https://sspai.com/post/94914",
                 "published": "2024-12-17"
@@ -23108,7 +23133,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
