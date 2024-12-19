@@ -873,6 +873,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "工作最忙的 78 天，我用 ChatGPT 考了 CFA",
+                "link": "https://sspai.com/post/94340",
+                "published": "2024-12-19"
+            },
+            {
+                "title": "派早报：Adobe 增加摄影师计划订阅费、字节跳动发布豆包视觉理解模型等",
+                "link": "https://sspai.com/post/94958",
+                "published": "2024-12-18"
+            },
+            {
+                "title": "吸尘器、洗地机、机器人……你都如何做好「日常清洁」？",
+                "link": "https://sspai.com/post/94741",
+                "published": "2024-12-18"
+            },
+            {
+                "title": "欢迎来到 HDR 照片时代：增益图 HDR 与 HDR 工作流",
+                "link": "https://sspai.com/post/94425",
+                "published": "2024-12-18"
+            },
+            {
                 "title": "打破次元壁，用双脚丈量「那个游戏」的世界：虚拟骑行 GT Bike V",
                 "link": "https://sspai.com/post/94229",
                 "published": "2024-12-18"
@@ -23133,7 +23153,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
