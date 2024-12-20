@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-12-20】 科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)
 * [【2024-12-13】 科技爱好者周刊（第 329 期）：示意图利器 D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html)
 * [【2024-12-06】 科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html)
 * [【2024-12-02】 AI 应用无代码开发教程：工作流模式详解](http://www.ruanyifeng.com/blog/2024/12/no-code-ai-tutorial.html)
@@ -25,7 +26,6 @@
 * [【2024-11-08】 科技爱好者周刊（第 324 期）：人类已知的最大质数](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html)
 * [【2024-11-01】 科技爱好者周刊（第 323 期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html)
 * [【2024-10-30】 AI 开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html)
-* [【2024-10-25】 科技爱好者周刊（第 322 期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-12-20】 多一点了解，少一点意外：脑干出血的警惕与预防](https://sspai.com/post/94742)
+* [【2024-12-20】 派早报：闪极发布智能眼镜闪极 AI「拍拍镜」、微星发布新款 32 寸 4K ……](https://sspai.com/post/94997)
+* [【2024-12-19】 新玩意 198｜少数派的编辑们最近买了啥？](https://sspai.com/post/94985)
+* [【2024-12-19】 蔚来车主如何使用 BANG!CASE 一键控车？](https://sspai.com/post/94871)
+* [【2024-12-19】 新面孔背后的老故事：watchOS 表盘背后的秘密](https://sspai.com/post/94635)
 * [【2024-12-19】 工作最忙的 78 天，我用 ChatGPT 考了 CFA](https://sspai.com/post/94340)
 * [【2024-12-18】 派早报：Adobe 增加摄影师计划订阅费、字节跳动发布豆包视觉理解模型等](https://sspai.com/post/94958)
 * [【2024-12-18】 吸尘器、洗地机、机器人……你都如何做好「日常清洁」？](https://sspai.com/post/94741)
 * [【2024-12-18】 欢迎来到 HDR 照片时代：增益图 HDR 与 HDR 工作流](https://sspai.com/post/94425)
 * [【2024-12-18】 打破次元壁，用双脚丈量「那个游戏」的世界：虚拟骑行 GT Bike V](https://sspai.com/post/94229)
-* [【2024-12-18】 派早报：ChatGPT 向所有用户开放 AI 搜索功能等](https://sspai.com/post/94937)
-* [【2024-12-17】 共创 | 可爱又好用的水獭开箱刀，外观由你来决定](https://sspai.com/post/94898)
-* [【2024-12-17】 社区速递 073 | 你没见过的社区文章、一周最热评、派友用什么AI](https://sspai.com/post/94930)
-* [【2024-12-17】 给开放智能家居生态一个好的开始：小米官方 Home Assistant 集成上手体验](https://sspai.com/post/94916)
-* [【2024-12-17】 奖项与争议之外，值得关注的 TGA 新作资讯汇总](https://sspai.com/post/94914)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-19 05:15:44
+:alarm_clock: 更新时间: 2024-12-20 05:14:52
