@@ -878,6 +878,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "难道这个世界容不下真正的「mini」吗？",
+                "link": "https://sspai.com/post/94750",
+                "published": "2024-12-24"
+            },
+            {
+                "title": "派早报：EA 发布 2024 年玩家游玩报告、上海市通报侵害用户权益行为 App 等",
+                "link": "https://sspai.com/post/95098",
+                "published": "2024-12-24"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/95088",
+                "published": "2024-12-23"
+            },
+            {
+                "title": "本地大模型之路（一）：大模型的是什么、为什么以及怎么选",
+                "link": "https://sspai.com/post/94875",
+                "published": "2024-12-23"
+            },
+            {
+                "title": "我在 FUJI ROCK 24 露营、跳水、调酒、溯溪……完成人生愿望",
+                "link": "https://sspai.com/post/95052",
+                "published": "2024-12-23"
+            },
+            {
+                "title": "派早报：OpenAI 发布推理模型 o3",
+                "link": "https://sspai.com/post/95068",
+                "published": "2024-12-23"
+            },
+            {
+                "title": "除了「看」书，不妨也试试用「感受」的方式阅读？",
+                "link": "https://sspai.com/post/93467",
+                "published": "2024-12-22"
+            },
+            {
                 "title": "在寒冷的冬天，来一碗热乎乎的汤面吧",
                 "link": "https://sspai.com/post/94969",
                 "published": "2024-12-21"
@@ -23203,7 +23238,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 7
     },
     {
         "id": 2,

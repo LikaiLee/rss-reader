@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-12-24】 难道这个世界容不下真正的「mini」吗？](https://sspai.com/post/94750)
+* [【2024-12-24】 派早报：EA 发布 2024 年玩家游玩报告、上海市通报侵害用户权益行为 App 等](https://sspai.com/post/95098)
+* [【2024-12-23】 派评 | 近期值得关注的 App](https://sspai.com/post/95088)
+* [【2024-12-23】 本地大模型之路（一）：大模型的是什么、为什么以及怎么选](https://sspai.com/post/94875)
+* [【2024-12-23】 我在 FUJI ROCK 24 露营、跳水、调酒、溯溪……完成人生愿望](https://sspai.com/post/95052)
+* [【2024-12-23】 派早报：OpenAI 发布推理模型 o3](https://sspai.com/post/95068)
+* [【2024-12-22】 除了「看」书，不妨也试试用「感受」的方式阅读？](https://sspai.com/post/93467)
 * [【2024-12-21】 在寒冷的冬天，来一碗热乎乎的汤面吧](https://sspai.com/post/94969)
 * [【2024-12-20】 具透 Plus | Firefox 以后不帮你说「请勿跟踪」了，资源管理器记性好了一些](https://sspai.com/prime/story/inside-release-notes-241220)
 * [【2024-12-20】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/95015)
-* [【2024-12-20】 解放耳道，轻若无物：Nothing Ear (open) 成为了我的新选择](https://sspai.com/post/94504)
-* [【2024-12-20】 多一点了解，少一点意外：脑干出血的警惕与预防](https://sspai.com/post/94742)
-* [【2024-12-20】 派早报：闪极发布智能眼镜闪极 AI「拍拍镜」、微星发布新款 32 寸 4K ……](https://sspai.com/post/94997)
-* [【2024-12-19】 新玩意 198｜少数派的编辑们最近买了啥？](https://sspai.com/post/94985)
-* [【2024-12-19】 蔚来车主如何使用 BANG!CASE 一键控车？](https://sspai.com/post/94871)
-* [【2024-12-19】 新面孔背后的老故事：watchOS 表盘背后的秘密](https://sspai.com/post/94635)
-* [【2024-12-19】 工作最忙的 78 天，我用 ChatGPT 考了 CFA](https://sspai.com/post/94340)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-22 05:13:44
+:alarm_clock: 更新时间: 2024-12-24 05:14:43
