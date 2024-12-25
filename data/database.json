@@ -878,6 +878,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从普通听众的视角开启 Hi-Fi 之旅：飞傲桌面音响试听体验",
+                "link": "https://sspai.com/post/94596",
+                "published": "2024-12-25"
+            },
+            {
+                "title": "派早报：OPPO A5 Pro 发布、WordPress 暂停免费服务等",
+                "link": "https://sspai.com/post/95124",
+                "published": "2024-12-25"
+            },
+            {
+                "title": "Antinet：用纸笔链接广阔世界",
+                "link": "https://sspai.com/prime/story/antinet-book-review",
+                "published": "2024-12-24"
+            },
+            {
+                "title": "社区速递 074 | 你没见过的社区文章、一周最热评、派友的年度音乐榜单",
+                "link": "https://sspai.com/post/95108",
+                "published": "2024-12-24"
+            },
+            {
+                "title": "新年记录新生活：我的手账体系给你参考",
+                "link": "https://sspai.com/post/95010",
+                "published": "2024-12-24"
+            },
+            {
                 "title": "难道这个世界容不下真正的「mini」吗？",
                 "link": "https://sspai.com/post/94750",
                 "published": "2024-12-24"
@@ -23238,7 +23263,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 5
     },
     {
         "id": 2,
