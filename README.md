@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-12-26】 坐着大巴穿越津巴布韦：穿越贫穷与美好的心灵之旅](https://sspai.com/post/94902)
+* [【2024-12-26】 派早报：Apple 公开申明不做搜索服务的缘由、《Halide》公布 2025 年更新计划等](https://sspai.com/post/95156)
+* [【2024-12-25】 App+1 | 简约、轻快、中文友好，更好用的 Windows 启动器：如快](https://sspai.com/post/95005)
+* [【2024-12-25】 2024 你最爱的数码好物，这是少数派作者们的分享](https://sspai.com/post/95003)
 * [【2024-12-25】 从普通听众的视角开启 Hi-Fi 之旅：飞傲桌面音响试听体验](https://sspai.com/post/94596)
 * [【2024-12-25】 派早报：OPPO A5 Pro 发布、WordPress 暂停免费服务等](https://sspai.com/post/95124)
 * [【2024-12-24】 Antinet：用纸笔链接广阔世界](https://sspai.com/prime/story/antinet-book-review)
 * [【2024-12-24】 社区速递 074 | 你没见过的社区文章、一周最热评、派友的年度音乐榜单](https://sspai.com/post/95108)
 * [【2024-12-24】 新年记录新生活：我的手账体系给你参考](https://sspai.com/post/95010)
 * [【2024-12-24】 难道这个世界容不下真正的「mini」吗？](https://sspai.com/post/94750)
-* [【2024-12-24】 派早报：EA 发布 2024 年玩家游玩报告、上海市通报侵害用户权益行为 App 等](https://sspai.com/post/95098)
-* [【2024-12-23】 派评 | 近期值得关注的 App](https://sspai.com/post/95088)
-* [【2024-12-23】 本地大模型之路（一）：大模型的是什么、为什么以及怎么选](https://sspai.com/post/94875)
-* [【2024-12-23】 我在 FUJI ROCK 24 露营、跳水、调酒、溯溪……完成人生愿望](https://sspai.com/post/95052)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-25 05:14:51
+:alarm_clock: 更新时间: 2024-12-26 05:14:54

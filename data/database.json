@@ -878,6 +878,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "坐着大巴穿越津巴布韦：穿越贫穷与美好的心灵之旅",
+                "link": "https://sspai.com/post/94902",
+                "published": "2024-12-26"
+            },
+            {
+                "title": "派早报：Apple 公开申明不做搜索服务的缘由、《Halide》公布 2025 年更新计划等",
+                "link": "https://sspai.com/post/95156",
+                "published": "2024-12-26"
+            },
+            {
+                "title": "App+1 | 简约、轻快、中文友好，更好用的 Windows 启动器：如快",
+                "link": "https://sspai.com/post/95005",
+                "published": "2024-12-25"
+            },
+            {
+                "title": "2024 你最爱的数码好物，这是少数派作者们的分享",
+                "link": "https://sspai.com/post/95003",
+                "published": "2024-12-25"
+            },
+            {
                 "title": "从普通听众的视角开启 Hi-Fi 之旅：飞傲桌面音响试听体验",
                 "link": "https://sspai.com/post/94596",
                 "published": "2024-12-25"
@@ -23263,7 +23283,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
