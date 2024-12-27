@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 331 期）：你可能是一个 NPC",
+                "link": "http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html",
+                "published": "2024-12-27"
+            },
+            {
                 "title": "科技爱好者周刊（第 330 期）：李开复梳理人工智能",
                 "link": "http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html",
                 "published": "2024-12-20"
@@ -870,13 +875,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "26 岁：信念与行动",
+                "link": "https://sspai.com/post/95181",
+                "published": "2024-12-27"
+            },
+            {
+                "title": "派早报: 一加发布 Ace 5 系列手机、Blur Busters 发布并开源全新 CRT 模拟滤镜等",
+                "link": "https://sspai.com/post/95189",
+                "published": "2024-12-27"
+            },
+            {
+                "title": "新玩意 199｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/95178",
+                "published": "2024-12-26"
+            },
+            {
+                "title": "正是入坑好时节：在米家官方支持之际，再聊新人 Home Assistant 入门",
+                "link": "https://sspai.com/post/95117",
+                "published": "2024-12-26"
+            },
             {
                 "title": "坐着大巴穿越津巴布韦：穿越贫穷与美好的心灵之旅",
                 "link": "https://sspai.com/post/94902",

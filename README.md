@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2024-12-27】 科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html)
 * [【2024-12-20】 科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)
 * [【2024-12-13】 科技爱好者周刊（第 329 期）：示意图利器 D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html)
 * [【2024-12-06】 科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html)
@@ -25,7 +26,6 @@
 * [【2024-11-15】 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)
 * [【2024-11-08】 科技爱好者周刊（第 324 期）：人类已知的最大质数](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html)
 * [【2024-11-01】 科技爱好者周刊（第 323 期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html)
-* [【2024-10-30】 AI 开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-12-27】 26 岁：信念与行动](https://sspai.com/post/95181)
+* [【2024-12-27】 派早报: 一加发布 Ace 5 系列手机、Blur Busters 发布并开源全新 CRT 模拟滤镜等](https://sspai.com/post/95189)
+* [【2024-12-26】 新玩意 199｜少数派的编辑们最近买了啥？](https://sspai.com/post/95178)
+* [【2024-12-26】 正是入坑好时节：在米家官方支持之际，再聊新人 Home Assistant 入门](https://sspai.com/post/95117)
 * [【2024-12-26】 坐着大巴穿越津巴布韦：穿越贫穷与美好的心灵之旅](https://sspai.com/post/94902)
 * [【2024-12-26】 派早报：Apple 公开申明不做搜索服务的缘由、《Halide》公布 2025 年更新计划等](https://sspai.com/post/95156)
 * [【2024-12-25】 App+1 | 简约、轻快、中文友好，更好用的 Windows 启动器：如快](https://sspai.com/post/95005)
 * [【2024-12-25】 2024 你最爱的数码好物，这是少数派作者们的分享](https://sspai.com/post/95003)
 * [【2024-12-25】 从普通听众的视角开启 Hi-Fi 之旅：飞傲桌面音响试听体验](https://sspai.com/post/94596)
 * [【2024-12-25】 派早报：OPPO A5 Pro 发布、WordPress 暂停免费服务等](https://sspai.com/post/95124)
-* [【2024-12-24】 Antinet：用纸笔链接广阔世界](https://sspai.com/prime/story/antinet-book-review)
-* [【2024-12-24】 社区速递 074 | 你没见过的社区文章、一周最热评、派友的年度音乐榜单](https://sspai.com/post/95108)
-* [【2024-12-24】 新年记录新生活：我的手账体系给你参考](https://sspai.com/post/95010)
-* [【2024-12-24】 难道这个世界容不下真正的「mini」吗？](https://sspai.com/post/94750)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-26 05:14:54
+:alarm_clock: 更新时间: 2024-12-27 05:14:36
