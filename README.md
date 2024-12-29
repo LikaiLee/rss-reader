@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2024-12-28】 从被动接收到主动参与：我的 AI 辅助学习方法论](https://sspai.com/post/95147)
 * [【2024-12-27】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/95210)
 * [【2024-12-27】 新年将至，用这些 App 和数字留住 2024](https://sspai.com/post/95190)
 * [【2024-12-27】 26 岁：信念与行动](https://sspai.com/post/95181)
@@ -44,7 +45,6 @@
 * [【2024-12-26】 坐着大巴穿越津巴布韦：穿越贫穷与美好的心灵之旅](https://sspai.com/post/94902)
 * [【2024-12-26】 派早报：Apple 公开申明不做搜索服务的缘由、《Halide》公布 2025 年更新计划等](https://sspai.com/post/95156)
 * [【2024-12-25】 App+1 | 简约、轻快、中文友好，更好用的 Windows 启动器：如快](https://sspai.com/post/95005)
-* [【2024-12-25】 2024 你最爱的数码好物，这是少数派作者们的分享](https://sspai.com/post/95003)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-28 05:13:54
+:alarm_clock: 更新时间: 2024-12-29 05:13:56
