@@ -883,6 +883,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "现场监看，即时修图：iPad + 像素蛋糕 App 拍摄工作流",
+                "link": "https://sspai.com/post/95251",
+                "published": "2024-12-30"
+            },
+            {
+                "title": "派早报：OpenAI 宣布营利化重组方案",
+                "link": "https://sspai.com/post/95248",
+                "published": "2024-12-30"
+            },
+            {
+                "title": "新疆二十日（上）：雪域沙海，我的北疆探索之旅",
+                "link": "https://sspai.com/post/95132",
+                "published": "2024-12-29"
+            },
+            {
                 "title": "从被动接收到主动参与：我的 AI 辅助学习方法论",
                 "link": "https://sspai.com/post/95147",
                 "published": "2024-12-28"
@@ -23323,7 +23338,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
