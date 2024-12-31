@@ -883,6 +883,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我们开业了！暨「白日梦」音乐影像分享会",
+                "link": "https://sspai.com/post/95253",
+                "published": "2024-12-31"
+            },
+            {
+                "title": "派早报：英伟达收购 Run:ai、大我发布墨水屏手机等",
+                "link": "https://sspai.com/post/95279",
+                "published": "2024-12-31"
+            },
+            {
+                "title": "互联网的外置评论区：Hacker News 导读",
+                "link": "https://sspai.com/prime/story/hacker-news",
+                "published": "2024-12-30"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/95266",
+                "published": "2024-12-30"
+            },
+            {
+                "title": "一文看懂通行密钥：无密码、更安全的未来，你该如何登录？",
+                "link": "https://sspai.com/post/77376",
+                "published": "2024-12-30"
+            },
+            {
                 "title": "现场监看，即时修图：iPad + 像素蛋糕 App 拍摄工作流",
                 "link": "https://sspai.com/post/95251",
                 "published": "2024-12-30"
@@ -23338,7 +23363,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,

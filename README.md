@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2024-12-31】 我们开业了！暨「白日梦」音乐影像分享会](https://sspai.com/post/95253)
+* [【2024-12-31】 派早报：英伟达收购 Run:ai、大我发布墨水屏手机等](https://sspai.com/post/95279)
+* [【2024-12-30】 互联网的外置评论区：Hacker News 导读](https://sspai.com/prime/story/hacker-news)
+* [【2024-12-30】 派评 | 近期值得关注的 App](https://sspai.com/post/95266)
+* [【2024-12-30】 一文看懂通行密钥：无密码、更安全的未来，你该如何登录？](https://sspai.com/post/77376)
 * [【2024-12-30】 现场监看，即时修图：iPad + 像素蛋糕 App 拍摄工作流](https://sspai.com/post/95251)
 * [【2024-12-30】 派早报：OpenAI 宣布营利化重组方案](https://sspai.com/post/95248)
 * [【2024-12-29】 新疆二十日（上）：雪域沙海，我的北疆探索之旅](https://sspai.com/post/95132)
 * [【2024-12-28】 从被动接收到主动参与：我的 AI 辅助学习方法论](https://sspai.com/post/95147)
 * [【2024-12-27】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/95210)
-* [【2024-12-27】 新年将至，用这些 App 和数字留住 2024](https://sspai.com/post/95190)
-* [【2024-12-27】 26 岁：信念与行动](https://sspai.com/post/95181)
-* [【2024-12-27】 派早报: 一加发布 Ace 5 系列手机、Blur Busters 发布并开源全新 CRT 模拟滤镜等](https://sspai.com/post/95189)
-* [【2024-12-26】 新玩意 199｜少数派的编辑们最近买了啥？](https://sspai.com/post/95178)
-* [【2024-12-26】 正是入坑好时节：在米家官方支持之际，再聊新人 Home Assistant 入门](https://sspai.com/post/95117)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-12-30 05:15:25
+:alarm_clock: 更新时间: 2024-12-31 05:14:42
