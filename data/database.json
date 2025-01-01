@@ -883,6 +883,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "今年的最后一天，我们邀请你给 TA 起个名",
+                "link": "https://sspai.com/post/95285",
+                "published": "2024-12-31"
+            },
+            {
+                "title": "社区速递 075 | 你没见过的社区文章、一周最热评、派友十一月买了啥",
+                "link": "https://sspai.com/post/95292",
+                "published": "2024-12-31"
+            },
+            {
+                "title": "本月玩什么 | 夺宝奇兵、LOK Digital、纪念碑谷 3",
+                "link": "https://sspai.com/post/95276",
+                "published": "2024-12-31"
+            },
+            {
                 "title": "我们开业了！暨「白日梦」音乐影像分享会",
                 "link": "https://sspai.com/post/95253",
                 "published": "2024-12-31"
@@ -23363,7 +23378,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
