@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-01-03】 科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html)
 * [【2024-12-27】 科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html)
 * [【2024-12-20】 科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)
 * [【2024-12-13】 科技爱好者周刊（第 329 期）：示意图利器 D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html)
@@ -25,7 +26,6 @@
 * [【2024-11-22】 科技爱好者周刊（第 326 期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html)
 * [【2024-11-15】 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)
 * [【2024-11-08】 科技爱好者周刊（第 324 期）：人类已知的最大质数](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html)
-* [【2024-11-01】 科技爱好者周刊（第 323 期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-01-03】 不用内耗的个人时间管理，我的 2024 实践小结](https://sspai.com/post/95280)
+* [【2025-01-03】 派早报：火狐 Firefox 浏览器推出 Orbit AI 助手、百度网页版推出 AI 搜功能等](https://sspai.com/post/95344)
+* [【2025-01-02】 2024 年只玩过一款新游戏，但我对「玩家」身份有了新认识](https://sspai.com/post/95265)
+* [【2025-01-02】 新栏目试读 | OmniFocus 的效率之旅，从用好收件箱开始](https://sspai.com/post/95075)
+* [【2025-01-02】 在自动化的路口望一眼：考虑智能家居前，你需要注意哪些事？](https://sspai.com/post/95234)
 * [【2025-01-02】 坦桑尼亚游记（上）：在国家公园见证《动物世界》](https://sspai.com/post/95191)
 * [【2025-01-02】 派早报：Apple TV+ 即将开启新年免费体验、LineageOS 发布 22.1 更新等](https://sspai.com/post/95317)
 * [【2025-01-01】 回顾 2024 影视佳作，来为你心中的「年度最佳」颁奖吧！](https://sspai.com/post/95260)
 * [【2024-12-31】 今年的最后一天，我们邀请你给 TA 起个名](https://sspai.com/post/95285)
 * [【2024-12-31】 社区速递 075 | 你没见过的社区文章、一周最热评、派友十一月买了啥](https://sspai.com/post/95292)
-* [【2024-12-31】 本月玩什么 | 夺宝奇兵、LOK Digital、纪念碑谷 3](https://sspai.com/post/95276)
-* [【2024-12-31】 我们开业了！暨「白日梦」音乐影像分享会](https://sspai.com/post/95253)
-* [【2024-12-31】 派早报：英伟达收购 Run:ai、大我发布墨水屏手机等](https://sspai.com/post/95279)
-* [【2024-12-30】 互联网的外置评论区：Hacker News 导读](https://sspai.com/prime/story/hacker-news)
-* [【2024-12-30】 派评 | 近期值得关注的 App](https://sspai.com/post/95266)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-01-02 05:14:48
+:alarm_clock: 更新时间: 2025-01-03 05:14:37

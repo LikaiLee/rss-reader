@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈",
+                "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html",
+                "published": "2025-01-03"
+            },
+            {
                 "title": "科技爱好者周刊（第 331 期）：你可能是一个 NPC",
                 "link": "http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html",
                 "published": "2024-12-27"
@@ -875,13 +880,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "不用内耗的个人时间管理，我的 2024 实践小结",
+                "link": "https://sspai.com/post/95280",
+                "published": "2025-01-03"
+            },
+            {
+                "title": "派早报：火狐 Firefox 浏览器推出 Orbit AI 助手、百度网页版推出 AI 搜功能等",
+                "link": "https://sspai.com/post/95344",
+                "published": "2025-01-03"
+            },
+            {
+                "title": "2024 年只玩过一款新游戏，但我对「玩家」身份有了新认识",
+                "link": "https://sspai.com/post/95265",
+                "published": "2025-01-02"
+            },
+            {
+                "title": "新栏目试读 | OmniFocus 的效率之旅，从用好收件箱开始",
+                "link": "https://sspai.com/post/95075",
+                "published": "2025-01-02"
+            },
+            {
+                "title": "在自动化的路口望一眼：考虑智能家居前，你需要注意哪些事？",
+                "link": "https://sspai.com/post/95234",
+                "published": "2025-01-02"
+            },
             {
                 "title": "坦桑尼亚游记（上）：在国家公园见证《动物世界》",
                 "link": "https://sspai.com/post/95191",
@@ -23393,7 +23423,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
