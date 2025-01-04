@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-01-03】 装了啥特别篇：少数派编辑部的 2024 年度工具之选](https://sspai.com/prime/story/zhuanglesha-250103)
+* [【2025-01-03】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/95355)
+* [【2025-01-03】 本地大模型之路（二）：了解模型能力与性能需求，让硬件选购恰到好处](https://sspai.com/post/95262)
 * [【2025-01-03】 不用内耗的个人时间管理，我的 2024 实践小结](https://sspai.com/post/95280)
 * [【2025-01-03】 派早报：火狐 Firefox 浏览器推出 Orbit AI 助手、百度网页版推出 AI 搜功能等](https://sspai.com/post/95344)
 * [【2025-01-02】 2024 年只玩过一款新游戏，但我对「玩家」身份有了新认识](https://sspai.com/post/95265)
@@ -42,9 +45,6 @@
 * [【2025-01-02】 在自动化的路口望一眼：考虑智能家居前，你需要注意哪些事？](https://sspai.com/post/95234)
 * [【2025-01-02】 坦桑尼亚游记（上）：在国家公园见证《动物世界》](https://sspai.com/post/95191)
 * [【2025-01-02】 派早报：Apple TV+ 即将开启新年免费体验、LineageOS 发布 22.1 更新等](https://sspai.com/post/95317)
-* [【2025-01-01】 回顾 2024 影视佳作，来为你心中的「年度最佳」颁奖吧！](https://sspai.com/post/95260)
-* [【2024-12-31】 今年的最后一天，我们邀请你给 TA 起个名](https://sspai.com/post/95285)
-* [【2024-12-31】 社区速递 075 | 你没见过的社区文章、一周最热评、派友十一月买了啥](https://sspai.com/post/95292)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-01-03 05:14:37
+:alarm_clock: 更新时间: 2025-01-04 05:13:55

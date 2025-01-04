@@ -880,13 +880,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "装了啥特别篇：少数派编辑部的 2024 年度工具之选",
+                "link": "https://sspai.com/prime/story/zhuanglesha-250103",
+                "published": "2025-01-03"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/95355",
+                "published": "2025-01-03"
+            },
+            {
+                "title": "本地大模型之路（二）：了解模型能力与性能需求，让硬件选购恰到好处",
+                "link": "https://sspai.com/post/95262",
+                "published": "2025-01-03"
+            },
             {
                 "title": "不用内耗的个人时间管理，我的 2024 实践小结",
                 "link": "https://sspai.com/post/95280",
@@ -23423,7 +23438,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
