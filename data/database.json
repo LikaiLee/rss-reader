@@ -888,6 +888,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "FM3.14 | 这 21 张唱片是我 2024 年发现的宝藏",
+                "link": "https://sspai.com/post/95336",
+                "published": "2025-01-04"
+            },
+            {
                 "title": "装了啥特别篇：少数派编辑部的 2024 年度工具之选",
                 "link": "https://sspai.com/prime/story/zhuanglesha-250103",
                 "published": "2025-01-03"
@@ -23438,7 +23443,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
