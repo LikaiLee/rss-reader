@@ -888,6 +888,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "能坚持下去的时间记录怎么做？为此我开发了一款 app",
+                "link": "https://sspai.com/post/94606",
+                "published": "2025-01-07"
+            },
+            {
+                "title": "派早报：CES 2025 的新品等",
+                "link": "https://sspai.com/post/95427",
+                "published": "2025-01-07"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/95414",
+                "published": "2025-01-06"
+            },
+            {
+                "title": "城市漫步指南：在闽南感受海风和烟火气",
+                "link": "https://sspai.com/post/94376",
+                "published": "2025-01-06"
+            },
+            {
                 "title": "我的 2024：「未知数 X」和情绪的事件分析法",
                 "link": "https://sspai.com/post/95383",
                 "published": "2025-01-06"
@@ -23453,7 +23473,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
