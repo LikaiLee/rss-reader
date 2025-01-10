@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 333 期）：一切都要支付两次",
+                "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html",
+                "published": "2025-01-10"
+            },
+            {
                 "title": "科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈",
                 "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html",
                 "published": "2025-01-03"
@@ -880,13 +885,63 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "[送码] App+1｜我的人脉资源尽在掌握：WOLB",
+                "link": "https://sspai.com/post/94869",
+                "published": "2025-01-10"
+            },
+            {
+                "title": "派早报：淘宝推出「送礼物」功能、大疆发布 DJI Matrice 4 系列多光旗舰无人机",
+                "link": "https://sspai.com/post/95524",
+                "published": "2025-01-10"
+            },
+            {
+                "title": "新玩意 200｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/95517",
+                "published": "2025-01-09"
+            },
+            {
+                "title": "看地下偶像：见证自由、反抗、热爱和救赎",
+                "link": "https://sspai.com/post/95491",
+                "published": "2025-01-09"
+            },
+            {
+                "title": "看《网络谜踪》知晓如何避免被「网络寻踪」",
+                "link": "https://sspai.com/post/94414",
+                "published": "2025-01-09"
+            },
+            {
+                "title": "派早报：Getty Images 将与 Shutterstock 合并、购买手机等产品将获得 15% 补贴等",
+                "link": "https://sspai.com/post/95497",
+                "published": "2025-01-09"
+            },
+            {
+                "title": "少数派办公室断电的那段日子，供电全部都靠它",
+                "link": "https://sspai.com/post/94960",
+                "published": "2025-01-08"
+            },
+            {
+                "title": "春节来点「科技年货」送人送己，少数派年终大促销",
+                "link": "https://sspai.com/post/95456",
+                "published": "2025-01-08"
+            },
+            {
+                "title": "2025 春运买票指北：乡愁愈烈，莫添烦恼",
+                "link": "https://sspai.com/post/86328",
+                "published": "2025-01-08"
+            },
+            {
+                "title": "消费降级也别踩坑：10 年闲鱼玩家的经验分享",
+                "link": "https://sspai.com/post/92179",
+                "published": "2025-01-08"
+            },
             {
                 "title": "能坚持下去的时间记录怎么做？为此我开发了一款 app",
                 "link": "https://sspai.com/post/94606",
@@ -23473,7 +23528,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 10
     },
     {
         "id": 2,
