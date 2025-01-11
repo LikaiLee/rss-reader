@@ -885,13 +885,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "专访 Apple 新春大片导演：那些 iPhone 拍片的台前幕后",
+                "link": "https://sspai.com/post/95512",
+                "published": "2025-01-10"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/95540",
+                "published": "2025-01-10"
+            },
+            {
+                "title": "在现代平台找回儿时记忆：移动端模拟器方案盘点",
+                "link": "https://sspai.com/post/95306",
+                "published": "2025-01-10"
+            },
             {
                 "title": "[送码] App+1｜我的人脉资源尽在掌握：WOLB",
                 "link": "https://sspai.com/post/94869",
@@ -23528,7 +23543,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 3
     },
     {
         "id": 2,
