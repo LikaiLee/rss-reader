@@ -893,6 +893,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Matrix 圆桌 | 少数派们的 11 张 2024 年度新专辑",
+                "link": "https://sspai.com/post/95525",
+                "published": "2025-01-11"
+            },
+            {
                 "title": "专访 Apple 新春大片导演：那些 iPhone 拍片的台前幕后",
                 "link": "https://sspai.com/post/95512",
                 "published": "2025-01-10"
@@ -23543,7 +23548,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
