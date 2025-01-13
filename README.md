@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2025-01-13】 派早报：网信办拟要求平台显著展示 MCN 机构名称](https://sspai.com/post/95571)
+* [【2025-01-12】 记录的意义：把 Live Photos 做成我的年度总结影片](https://sspai.com/post/95518)
 * [【2025-01-11】 Matrix 圆桌 | 少数派们的 11 张 2024 年度新专辑](https://sspai.com/post/95525)
 * [【2025-01-10】 专访 Apple 新春大片导演：那些 iPhone 拍片的台前幕后](https://sspai.com/post/95512)
 * [【2025-01-10】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/95540)
@@ -43,8 +45,6 @@
 * [【2025-01-10】 派早报：淘宝推出「送礼物」功能、大疆发布 DJI Matrice 4 系列多光旗舰无人机](https://sspai.com/post/95524)
 * [【2025-01-09】 新玩意 200｜少数派的编辑们最近买了啥？](https://sspai.com/post/95517)
 * [【2025-01-09】 看地下偶像：见证自由、反抗、热爱和救赎](https://sspai.com/post/95491)
-* [【2025-01-09】 看《网络谜踪》知晓如何避免被「网络寻踪」](https://sspai.com/post/94414)
-* [【2025-01-09】 派早报：Getty Images 将与 Shutterstock 合并、购买手机等产品将获得 15% 补贴等](https://sspai.com/post/95497)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-01-12 05:14:06
+:alarm_clock: 更新时间: 2025-01-13 05:15:41
