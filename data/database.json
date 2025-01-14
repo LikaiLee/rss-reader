@@ -893,6 +893,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "人人能上手，锻炼更有趣：Switch 拳击游戏 Fit Boxing 3 游玩体验",
+                "link": "https://sspai.com/post/95471",
+                "published": "2025-01-14"
+            },
+            {
+                "title": "派早报：微信推出语音倍速播放功能，抖音发布 24 年黑产治理盘点等",
+                "link": "https://sspai.com/post/95593",
+                "published": "2025-01-14"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/95588",
+                "published": "2025-01-13"
+            },
+            {
+                "title": "总要有个冬天留给北海道：12 天走过京都、东京与札幌",
+                "link": "https://sspai.com/post/95488",
+                "published": "2025-01-13"
+            },
+            {
+                "title": "洞察 | 美国播客二十年：播客定义不只一种",
+                "link": "https://sspai.com/post/95415",
+                "published": "2025-01-13"
+            },
+            {
                 "title": "派早报：网信办拟要求平台显著展示 MCN 机构名称",
                 "link": "https://sspai.com/post/95571",
                 "published": "2025-01-13"
@@ -23558,7 +23583,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     },
     {
         "id": 2,
