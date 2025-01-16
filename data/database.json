@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "AI 搞定微信小程序",
+                "link": "http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html",
+                "published": "2025-01-16"
+            },
+            {
                 "title": "科技爱好者周刊（第 333 期）：一切都要支付两次",
                 "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html",
                 "published": "2025-01-10"
@@ -885,13 +890,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一套灵活的「动能回收」机制：我的时间管理三原则",
+                "link": "https://sspai.com/post/95533",
+                "published": "2025-01-16"
+            },
+            {
+                "title": "派早报：暴雪公布《守望先锋》国服回归福利、雷蛇推出新款有线耳机等",
+                "link": "https://sspai.com/post/95654",
+                "published": "2025-01-16"
+            },
+            {
+                "title": "AI 辅助编程，真的那么不靠谱吗？",
+                "link": "https://sspai.com/post/95589",
+                "published": "2025-01-15"
+            },
+            {
+                "title": "对「刻意智能」说不，这些应用让我看到 AI 的更多潜力",
+                "link": "https://sspai.com/post/95184",
+                "published": "2025-01-15"
+            },
             {
                 "title": "up 主们在用「苹果字体」时用对了吗？",
                 "link": "https://sspai.com/post/95200",
@@ -63679,7 +63704,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 4,

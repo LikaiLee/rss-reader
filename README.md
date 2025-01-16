@@ -2,10 +2,10 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+1】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-01-16】 AI 搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html)
 * [【2025-01-10】 科技爱好者周刊（第 333 期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html)
 * [【2025-01-03】 科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html)
 * [【2024-12-27】 科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html)
@@ -25,7 +26,6 @@
 * [【2024-12-02】 AI 应用无代码开发教程：工作流模式详解](http://www.ruanyifeng.com/blog/2024/12/no-code-ai-tutorial.html)
 * [【2024-11-29】 科技爱好者周刊（第 327 期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)
 * [【2024-11-22】 科技爱好者周刊（第 326 期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html)
-* [【2024-11-15】 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-01-16】 一套灵活的「动能回收」机制：我的时间管理三原则](https://sspai.com/post/95533)
+* [【2025-01-16】 派早报：暴雪公布《守望先锋》国服回归福利、雷蛇推出新款有线耳机等](https://sspai.com/post/95654)
+* [【2025-01-15】 AI 辅助编程，真的那么不靠谱吗？](https://sspai.com/post/95589)
+* [【2025-01-15】 对「刻意智能」说不，这些应用让我看到 AI 的更多潜力](https://sspai.com/post/95184)
 * [【2025-01-15】 up 主们在用「苹果字体」时用对了吗？](https://sspai.com/post/95200)
 * [【2025-01-15】 派早报：大疆发布 DJI Flip、USB 标识系统简化等](https://sspai.com/post/95620)
 * [【2025-01-14】 社区速递 077 | 你没见过的社区文章、一周最热评、派友的取暖秘籍](https://sspai.com/post/95609)
 * [【2025-01-14】 CES 2025 盘点：你可能错过的新奇花活](https://sspai.com/post/95600)
 * [【2025-01-14】 人人能上手，锻炼更有趣：Switch 拳击游戏 Fit Boxing 3 游玩体验](https://sspai.com/post/95471)
 * [【2025-01-14】 派早报：微信推出语音倍速播放功能，抖音发布 24 年黑产治理盘点等](https://sspai.com/post/95593)
-* [【2025-01-13】 派评 | 近期值得关注的 App](https://sspai.com/post/95588)
-* [【2025-01-13】 总要有个冬天留给北海道：12 天走过京都、东京与札幌](https://sspai.com/post/95488)
-* [【2025-01-13】 洞察 | 美国播客二十年：播客定义不只一种](https://sspai.com/post/95415)
-* [【2025-01-13】 派早报：网信办拟要求平台显著展示 MCN 机构名称](https://sspai.com/post/95571)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-01-15 05:15:17
+:alarm_clock: 更新时间: 2025-01-16 05:14:42
