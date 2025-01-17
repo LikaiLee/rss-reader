@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 334 期）：年终笔记四则",
+                "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html",
+                "published": "2025-01-17"
+            },
+            {
                 "title": "AI 搞定微信小程序",
                 "link": "http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html",
                 "published": "2025-01-16"
@@ -897,6 +902,26 @@
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派早报：任天堂预览 Switch 2 游戏掌机、TikTok 将在美国停止运营等",
+                "link": "https://sspai.com/post/95680",
+                "published": "2025-01-17"
+            },
+            {
+                "title": "新玩意 201｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/95667",
+                "published": "2025-01-16"
+            },
+            {
+                "title": "新疆二十日（下）：古道高原，南疆的冰与火之歌",
+                "link": "https://sspai.com/post/95651",
+                "published": "2025-01-16"
+            },
+            {
+                "title": "提前会合：安徽省首家零售店，Apple 合肥抢先看",
+                "link": "https://sspai.com/post/95659",
+                "published": "2025-01-16"
+            },
             {
                 "title": "一套灵活的「动能回收」机制：我的时间管理三原则",
                 "link": "https://sspai.com/post/95533",
