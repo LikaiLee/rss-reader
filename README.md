@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-01-17】 寻微致新：少数派的 2024 年度最佳好物](https://sspai.com/post/95681)
+* [【2025-01-17】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/95688)
+* [【2025-01-17】 人人都可以上手的 Android TV 改造指南，让你也能开机就能看到节目](https://sspai.com/post/95529)
+* [【2025-01-17】 三平米搞定干湿分区、洗烘与智能马桶：我的卫生间改造复盘](https://sspai.com/post/95526)
 * [【2025-01-17】 派早报：任天堂预览 Switch 2 游戏掌机、TikTok 将在美国停止运营等](https://sspai.com/post/95680)
 * [【2025-01-16】 新玩意 201｜少数派的编辑们最近买了啥？](https://sspai.com/post/95667)
 * [【2025-01-16】 新疆二十日（下）：古道高原，南疆的冰与火之歌](https://sspai.com/post/95651)
 * [【2025-01-16】 提前会合：安徽省首家零售店，Apple 合肥抢先看](https://sspai.com/post/95659)
 * [【2025-01-16】 一套灵活的「动能回收」机制：我的时间管理三原则](https://sspai.com/post/95533)
 * [【2025-01-16】 派早报：暴雪公布《守望先锋》国服回归福利、雷蛇推出新款有线耳机等](https://sspai.com/post/95654)
-* [【2025-01-15】 AI 辅助编程，真的那么不靠谱吗？](https://sspai.com/post/95589)
-* [【2025-01-15】 对「刻意智能」说不，这些应用让我看到 AI 的更多潜力](https://sspai.com/post/95184)
-* [【2025-01-15】 up 主们在用「苹果字体」时用对了吗？](https://sspai.com/post/95200)
-* [【2025-01-15】 派早报：大疆发布 DJI Flip、USB 标识系统简化等](https://sspai.com/post/95620)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-01-17 05:14:16
+:alarm_clock: 更新时间: 2025-01-18 05:13:13

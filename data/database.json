@@ -895,13 +895,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "寻微致新：少数派的 2024 年度最佳好物",
+                "link": "https://sspai.com/post/95681",
+                "published": "2025-01-17"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/95688",
+                "published": "2025-01-17"
+            },
+            {
+                "title": "人人都可以上手的 Android TV 改造指南，让你也能开机就能看到节目",
+                "link": "https://sspai.com/post/95529",
+                "published": "2025-01-17"
+            },
+            {
+                "title": "三平米搞定干湿分区、洗烘与智能马桶：我的卫生间改造复盘",
+                "link": "https://sspai.com/post/95526",
+                "published": "2025-01-17"
+            },
             {
                 "title": "派早报：任天堂预览 Switch 2 游戏掌机、TikTok 将在美国停止运营等",
                 "link": "https://sspai.com/post/95680",
