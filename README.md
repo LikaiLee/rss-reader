@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2025-01-18】 从体验到 eSIM 都独此一家：和开发者聊聊 iPad 游戏](https://sspai.com/post/95677)
 * [【2025-01-17】 寻微致新：少数派的 2024 年度最佳好物](https://sspai.com/post/95681)
 * [【2025-01-17】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/95688)
 * [【2025-01-17】 人人都可以上手的 Android TV 改造指南，让你也能开机就能看到节目](https://sspai.com/post/95529)
@@ -44,7 +45,6 @@
 * [【2025-01-16】 新疆二十日（下）：古道高原，南疆的冰与火之歌](https://sspai.com/post/95651)
 * [【2025-01-16】 提前会合：安徽省首家零售店，Apple 合肥抢先看](https://sspai.com/post/95659)
 * [【2025-01-16】 一套灵活的「动能回收」机制：我的时间管理三原则](https://sspai.com/post/95533)
-* [【2025-01-16】 派早报：暴雪公布《守望先锋》国服回归福利、雷蛇推出新款有线耳机等](https://sspai.com/post/95654)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-01-18 05:13:13
+:alarm_clock: 更新时间: 2025-01-19 05:13:40
