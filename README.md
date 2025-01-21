@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-01-21】 从「原子化」提交到妙用 rebase，一次搞定清爽的 Git 提交记录](https://sspai.com/post/95404)
+* [【2025-01-21】 派早报：EA Origin 应用将停运，IDC 发布 2024 年中国手机市场报告等](https://sspai.com/post/95757)
+* [【2025-01-20】 满分五分，你给 Apple 的 2024 年打几分？](https://sspai.com/post/95746)
+* [【2025-01-20】 派评 | 近期值得关注的 App](https://sspai.com/post/95744)
+* [【2025-01-20】 从打工小妹到创业大佬：折腾但精彩的搞钱人生](https://sspai.com/post/95725)
 * [【2025-01-20】 让新知识成为冒险游戏，用 AI 重构「学习」这件事](https://sspai.com/post/95426)
 * [【2025-01-20】 派早报：TikTok 在美短暂下线后恢复服务](https://sspai.com/post/95722)
 * [【2025-01-19】 App+1 | 我开发了一款旅行记录 app，让照片背后的记忆更鲜活：山河旅记](https://sspai.com/post/95430)
 * [【2025-01-18】 从体验到 eSIM 都独此一家：和开发者聊聊 iPad 游戏](https://sspai.com/post/95677)
 * [【2025-01-17】 寻微致新：少数派的 2024 年度最佳好物](https://sspai.com/post/95681)
-* [【2025-01-17】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/95688)
-* [【2025-01-17】 人人都可以上手的 Android TV 改造指南，让你也能开机就能看到节目](https://sspai.com/post/95529)
-* [【2025-01-17】 三平米搞定干湿分区、洗烘与智能马桶：我的卫生间改造复盘](https://sspai.com/post/95526)
-* [【2025-01-17】 派早报：任天堂预览 Switch 2 游戏掌机、TikTok 将在美国停止运营等](https://sspai.com/post/95680)
-* [【2025-01-16】 新玩意 201｜少数派的编辑们最近买了啥？](https://sspai.com/post/95667)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-01-20 05:14:55
+:alarm_clock: 更新时间: 2025-01-21 05:14:31
