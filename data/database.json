@@ -903,6 +903,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度计划完不成，可能是好事",
+                "link": "https://sspai.com/post/95558",
+                "published": "2025-01-22"
+            },
+            {
+                "title": "派早报：快手支持杜比视界视频、富士发布宽幅数模拍立得相机等",
+                "link": "https://sspai.com/post/95792",
+                "published": "2025-01-22"
+            },
+            {
+                "title": "社区速递 078 | 你没见过的社区文章、一周最热评、派友的游戏清单",
+                "link": "https://sspai.com/post/95785",
+                "published": "2025-01-21"
+            },
+            {
+                "title": "于单调中别有洞天：等宽字体选择指南",
+                "link": "https://sspai.com/prime/story/monospaced-fonts",
+                "published": "2025-01-21"
+            },
+            {
+                "title": "中文播客为什么偏爱「四字名」？",
+                "link": "https://sspai.com/post/95618",
+                "published": "2025-01-21"
+            },
+            {
                 "title": "从「原子化」提交到妙用 rebase，一次搞定清爽的 Git 提交记录",
                 "link": "https://sspai.com/post/95404",
                 "published": "2025-01-21"
