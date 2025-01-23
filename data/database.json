@@ -903,6 +903,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "辞旧岁迎新春，好吃、好看、好用的年货你都买了啥？",
+                "link": "https://sspai.com/post/95666",
+                "published": "2025-01-23"
+            },
+            {
+                "title": "派早报：微信开始测试「用系统电话接听」、微软全面推送 24H2 更新等",
+                "link": "https://sspai.com/post/95839",
+                "published": "2025-01-23"
+            },
+            {
+                "title": "深入《无边记》：一种革命性的知识管理体系",
+                "link": "https://sspai.com/post/95775",
+                "published": "2025-01-22"
+            },
+            {
+                "title": "学生偷懒用 AI 完成作业，老师该怎么办？",
+                "link": "https://sspai.com/post/95749",
+                "published": "2025-01-22"
+            },
+            {
                 "title": "年度计划完不成，可能是好事",
                 "link": "https://sspai.com/post/95558",
                 "published": "2025-01-22"
@@ -23743,7 +23763,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

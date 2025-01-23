@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-01-23】 辞旧岁迎新春，好吃、好看、好用的年货你都买了啥？](https://sspai.com/post/95666)
+* [【2025-01-23】 派早报：微信开始测试「用系统电话接听」、微软全面推送 24H2 更新等](https://sspai.com/post/95839)
+* [【2025-01-22】 深入《无边记》：一种革命性的知识管理体系](https://sspai.com/post/95775)
+* [【2025-01-22】 学生偷懒用 AI 完成作业，老师该怎么办？](https://sspai.com/post/95749)
 * [【2025-01-22】 年度计划完不成，可能是好事](https://sspai.com/post/95558)
 * [【2025-01-22】 派早报：快手支持杜比视界视频、富士发布宽幅数模拍立得相机等](https://sspai.com/post/95792)
 * [【2025-01-21】 社区速递 078 | 你没见过的社区文章、一周最热评、派友的游戏清单](https://sspai.com/post/95785)
 * [【2025-01-21】 于单调中别有洞天：等宽字体选择指南](https://sspai.com/prime/story/monospaced-fonts)
 * [【2025-01-21】 中文播客为什么偏爱「四字名」？](https://sspai.com/post/95618)
 * [【2025-01-21】 从「原子化」提交到妙用 rebase，一次搞定清爽的 Git 提交记录](https://sspai.com/post/95404)
-* [【2025-01-21】 派早报：EA Origin 应用将停运，IDC 发布 2024 年中国手机市场报告等](https://sspai.com/post/95757)
-* [【2025-01-20】 满分五分，你给 Apple 的 2024 年打几分？](https://sspai.com/post/95746)
-* [【2025-01-20】 派评 | 近期值得关注的 App](https://sspai.com/post/95744)
-* [【2025-01-20】 从打工小妹到创业大佬：折腾但精彩的搞钱人生](https://sspai.com/post/95725)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-01-22 05:14:43
+:alarm_clock: 更新时间: 2025-01-23 05:14:53
