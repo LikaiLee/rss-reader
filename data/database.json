@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 335 期）：年底的未来已来",
+                "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html",
+                "published": "2025-01-24"
+            },
+            {
                 "title": "科技爱好者周刊（第 334 期）：年终笔记四则",
                 "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html",
                 "published": "2025-01-17"
@@ -895,13 +900,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "单车佬的假期：如何把带自行车上飞机火车？",
+                "link": "https://sspai.com/post/95850",
+                "published": "2025-01-24"
+            },
+            {
+                "title": "派早报：三星推出 Galaxy S25 系列新机、OpenAI 推出 AI 代理工具 Operator",
+                "link": "https://sspai.com/post/95852",
+                "published": "2025-01-24"
+            },
+            {
+                "title": "AFFiNE 体验报告：笔记白板 PPT 三合一，可以玩出什么新花样？",
+                "link": "https://sspai.com/post/95829",
+                "published": "2025-01-23"
+            },
             {
                 "title": "辞旧岁迎新春，好吃、好看、好用的年货你都买了啥？",
                 "link": "https://sspai.com/post/95666",
@@ -23763,7 +23783,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
