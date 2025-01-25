@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-01-25】 2024 年终盘点：产品、品牌、好内容一锅烩](https://sspai.com/post/95804)
+* [【2025-01-24】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/95868)
+* [【2025-01-24】 当你想来一次新年大扫除，这里或许有些经验可供参考](https://sspai.com/post/95652)
+* [【2025-01-24】 单车佬的假期：如何把自行车带上飞机火车？](https://sspai.com/post/95850)
 * [【2025-01-24】 单车佬的假期：如何把带自行车上飞机火车？](https://sspai.com/post/95850)
 * [【2025-01-24】 派早报：三星推出 Galaxy S25 系列新机、OpenAI 推出 AI 代理工具 Operator](https://sspai.com/post/95852)
 * [【2025-01-23】 AFFiNE 体验报告：笔记白板 PPT 三合一，可以玩出什么新花样？](https://sspai.com/post/95829)
 * [【2025-01-23】 辞旧岁迎新春，好吃、好看、好用的年货你都买了啥？](https://sspai.com/post/95666)
 * [【2025-01-23】 派早报：微信开始测试「用系统电话接听」、微软全面推送 24H2 更新等](https://sspai.com/post/95839)
 * [【2025-01-22】 深入《无边记》：一种革命性的知识管理体系](https://sspai.com/post/95775)
-* [【2025-01-22】 学生偷懒用 AI 完成作业，老师该怎么办？](https://sspai.com/post/95749)
-* [【2025-01-22】 年度计划完不成，可能是好事](https://sspai.com/post/95558)
-* [【2025-01-22】 派早报：快手支持杜比视界视频、富士发布宽幅数模拍立得相机等](https://sspai.com/post/95792)
-* [【2025-01-21】 社区速递 078 | 你没见过的社区文章、一周最热评、派友的游戏清单](https://sspai.com/post/95785)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-01-24 05:14:41
+:alarm_clock: 更新时间: 2025-01-25 05:13:39

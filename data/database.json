@@ -900,13 +900,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "2024 年终盘点：产品、品牌、好内容一锅烩",
+                "link": "https://sspai.com/post/95804",
+                "published": "2025-01-25"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/95868",
+                "published": "2025-01-24"
+            },
+            {
+                "title": "当你想来一次新年大扫除，这里或许有些经验可供参考",
+                "link": "https://sspai.com/post/95652",
+                "published": "2025-01-24"
+            },
+            {
+                "title": "单车佬的假期：如何把自行车带上飞机火车？",
+                "link": "https://sspai.com/post/95850",
+                "published": "2025-01-24"
+            },
             {
                 "title": "单车佬的假期：如何把带自行车上飞机火车？",
                 "link": "https://sspai.com/post/95850",
@@ -23783,7 +23803,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
