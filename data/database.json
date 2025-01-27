@@ -908,6 +908,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "使用相机一年后，回过头看 iPhone 摄影",
+                "link": "https://sspai.com/prime/story/iphoneography-a-redux-of",
+                "published": "2025-01-27"
+            },
+            {
+                "title": "7 道简单易上手的年夜菜，厨房小白也能在春节露一手",
+                "link": "https://sspai.com/post/71241",
+                "published": "2025-01-27"
+            },
+            {
+                "title": "少数派 2024 年度征文：记录过去的一年，为明年的创意添彩",
+                "link": "https://sspai.com/post/95877",
+                "published": "2025-01-26"
+            },
+            {
                 "title": "大鱼大肉悠着点吃：认识急性胰腺炎",
                 "link": "https://sspai.com/post/95854",
                 "published": "2025-01-26"
@@ -23808,7 +23823,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

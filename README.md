@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-01-27】 使用相机一年后，回过头看 iPhone 摄影](https://sspai.com/prime/story/iphoneography-a-redux-of)
+* [【2025-01-27】 7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
+* [【2025-01-26】 少数派 2024 年度征文：记录过去的一年，为明年的创意添彩](https://sspai.com/post/95877)
 * [【2025-01-26】 大鱼大肉悠着点吃：认识急性胰腺炎](https://sspai.com/post/95854)
 * [【2025-01-25】 2024 年终盘点：产品、品牌、好内容一锅烩](https://sspai.com/post/95804)
 * [【2025-01-24】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/95868)
@@ -42,9 +45,6 @@
 * [【2025-01-24】 单车佬的假期：如何把自行车带上飞机火车？](https://sspai.com/post/95850)
 * [【2025-01-24】 单车佬的假期：如何把带自行车上飞机火车？](https://sspai.com/post/95850)
 * [【2025-01-24】 派早报：三星推出 Galaxy S25 系列新机、OpenAI 推出 AI 代理工具 Operator](https://sspai.com/post/95852)
-* [【2025-01-23】 AFFiNE 体验报告：笔记白板 PPT 三合一，可以玩出什么新花样？](https://sspai.com/post/95829)
-* [【2025-01-23】 辞旧岁迎新春，好吃、好看、好用的年货你都买了啥？](https://sspai.com/post/95666)
-* [【2025-01-23】 派早报：微信开始测试「用系统电话接听」、微软全面推送 24H2 更新等](https://sspai.com/post/95839)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-01-26 05:14:37
+:alarm_clock: 更新时间: 2025-01-27 05:14:53
