@@ -908,6 +908,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/95905",
+                "published": "2025-01-27"
+            },
+            {
                 "title": "使用相机一年后，回过头看 iPhone 摄影",
                 "link": "https://sspai.com/prime/story/iphoneography-a-redux-of",
                 "published": "2025-01-27"
@@ -23823,7 +23828,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
