@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-02-05】 译文 | 正则表达式的真正实力](https://sspai.com/post/96034)
+* [【2025-02-05】 派早报：市场监管总局就谷歌公司展开反垄断调查等](https://sspai.com/post/96037)
+* [【2025-02-04】 App+AI | 试试 Google Labs 里这些点开即用的实验性功能](https://sspai.com/post/95592)
 * [【2025-02-03】 从「阅后即焚」到「学以致用」：简谈 I.N.F.O 读书法](https://sspai.com/post/95835)
 * [【2025-02-02】 画龙点睛的声音艺术：与音乐总监蒙柯卓兰聊《封神》音乐创作](https://sspai.com/post/96003)
 * [【2025-02-01】 春节聚会玩什么？这 11 款多人游戏让假期充满欢声笑语](https://sspai.com/post/95857)
@@ -42,9 +45,6 @@
 * [【2025-01-31】 看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单](https://sspai.com/post/71209)
 * [【2025-01-27】 派评 | 近期值得关注的 App](https://sspai.com/post/95905)
 * [【2025-01-27】 使用相机一年后，回过头看 iPhone 摄影](https://sspai.com/prime/story/iphoneography-a-redux-of)
-* [【2025-01-27】 7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
-* [【2025-01-26】 少数派 2024 年度征文：记录过去的一年，为明年的创意添彩](https://sspai.com/post/95877)
-* [【2025-01-26】 大鱼大肉悠着点吃：认识急性胰腺炎](https://sspai.com/post/95854)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-02-04 05:14:37
+:alarm_clock: 更新时间: 2025-02-05 05:14:56

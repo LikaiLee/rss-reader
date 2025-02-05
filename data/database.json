@@ -908,6 +908,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "译文 | 正则表达式的真正实力",
+                "link": "https://sspai.com/post/96034",
+                "published": "2025-02-05"
+            },
+            {
+                "title": "派早报：市场监管总局就谷歌公司展开反垄断调查等",
+                "link": "https://sspai.com/post/96037",
+                "published": "2025-02-05"
+            },
+            {
+                "title": "App+AI | 试试 Google Labs 里这些点开即用的实验性功能",
+                "link": "https://sspai.com/post/95592",
+                "published": "2025-02-04"
+            },
+            {
                 "title": "从「阅后即焚」到「学以致用」：简谈 I.N.F.O 读书法",
                 "link": "https://sspai.com/post/95835",
                 "published": "2025-02-03"
@@ -23853,7 +23868,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
