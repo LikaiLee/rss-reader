@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-02-07】 科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)
 * [【2025-01-24】 科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html)
 * [【2025-01-17】 科技爱好者周刊（第 334 期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html)
 * [【2025-01-16】 AI 搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html)
@@ -25,7 +26,6 @@
 * [【2024-12-20】 科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)
 * [【2024-12-13】 科技爱好者周刊（第 329 期）：示意图利器 D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html)
 * [【2024-12-06】 科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html)
-* [【2024-12-02】 AI 应用无代码开发教程：工作流模式详解](http://www.ruanyifeng.com/blog/2024/12/no-code-ai-tutorial.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-02-07】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/96134)
+* [【2025-02-07】 2025 年回望「红警 2」：一代人的启蒙之作，如何成为游戏文化？](https://sspai.com/post/96002)
+* [【2025-02-07】 2024 健康备忘录：从高心率通知到身心的重启之路](https://sspai.com/post/96060)
+* [【2025-02-06】 派早报：奥之心发布 OM-3 相机、任天堂 Switch 2 直面会定档等](https://sspai.com/post/96118)
+* [【2025-02-06】 新玩意 202｜少数派的编辑们最近买了啥？](https://sspai.com/post/96096)
+* [【2025-02-06】 一日一技 | 趁系统一个不注意，给 Pixel 9 系列开 5G](https://sspai.com/post/96068)
 * [【2025-02-06】 副业淘宝小店，给了我看世界的另一个视角](https://sspai.com/post/95152)
 * [【2025-02-06】 派早报：iPhone 上调 AppleCare+ 费用、华硕发布 ROG Phone 9 FE 等](https://sspai.com/post/96081)
 * [【2025-02-05】 如何用快捷指令制作「动态进度条」](https://sspai.com/prime/story/dynamic-progress-bar-shortcuts)
 * [【2025-02-05】 从理论到实践：我的 2024 小红书商业观察报告](https://sspai.com/post/96058)
-* [【2025-02-05】 先于时代，终于悲歌：十年之际，再谈 The New MacBook](https://sspai.com/post/95708)
-* [【2025-02-05】 译文 | 正则表达式的真正实力](https://sspai.com/post/96034)
-* [【2025-02-05】 派早报：市场监管总局就谷歌公司展开反垄断调查等](https://sspai.com/post/96037)
-* [【2025-02-04】 App+AI | 试试 Google Labs 里这些点开即用的实验性功能](https://sspai.com/post/95592)
-* [【2025-02-03】 从「阅后即焚」到「学以致用」：简谈 I.N.F.O 读书法](https://sspai.com/post/95835)
-* [【2025-02-02】 画龙点睛的声音艺术：与音乐总监蒙柯卓兰聊《封神》音乐创作](https://sspai.com/post/96003)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-02-06 05:16:24
+:alarm_clock: 更新时间: 2025-02-08 05:13:30

@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落",
+                "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html",
+                "published": "2025-02-07"
+            },
+            {
                 "title": "科技爱好者周刊（第 335 期）：年底的未来已来",
                 "link": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html",
                 "published": "2025-01-24"
@@ -900,13 +905,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/96134",
+                "published": "2025-02-07"
+            },
+            {
+                "title": "2025 年回望「红警 2」：一代人的启蒙之作，如何成为游戏文化？",
+                "link": "https://sspai.com/post/96002",
+                "published": "2025-02-07"
+            },
+            {
+                "title": "2024 健康备忘录：从高心率通知到身心的重启之路",
+                "link": "https://sspai.com/post/96060",
+                "published": "2025-02-07"
+            },
+            {
+                "title": "派早报：奥之心发布 OM-3 相机、任天堂 Switch 2 直面会定档等",
+                "link": "https://sspai.com/post/96118",
+                "published": "2025-02-06"
+            },
+            {
+                "title": "新玩意 202｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/96096",
+                "published": "2025-02-06"
+            },
+            {
+                "title": "一日一技 | 趁系统一个不注意，给 Pixel 9 系列开 5G",
+                "link": "https://sspai.com/post/96068",
+                "published": "2025-02-06"
+            },
             {
                 "title": "副业淘宝小店，给了我看世界的另一个视角",
                 "link": "https://sspai.com/post/95152",
@@ -23893,7 +23928,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
