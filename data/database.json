@@ -905,13 +905,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "构建一个跨平台音画交互 App: ælbum",
+                "link": "https://sspai.com/post/96017",
+                "published": "2025-02-09"
+            },
+            {
+                "title": "与其重复「新年计划」的失败，不如反思「新年目标」是否恰当",
+                "link": "https://sspai.com/post/95907",
+                "published": "2025-02-08"
+            },
             {
                 "title": "本周看什么 | 最近值得一看的 8 部作品",
                 "link": "https://sspai.com/post/96134",
@@ -23928,7 +23938,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 2,
