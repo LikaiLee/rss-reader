@@ -913,6 +913,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "梦回 98，一窥「前世」：Windows 98 宣传片中的微软",
+                "link": "https://sspai.com/post/95547",
+                "published": "2025-02-11"
+            },
+            {
+                "title": "派早报：春节「两新」政策刺激消费 310 亿元，DeepSeek API 价格调高等",
+                "link": "https://sspai.com/post/96221",
+                "published": "2025-02-11"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/96203",
+                "published": "2025-02-10"
+            },
+            {
+                "title": "城市漫步指南：行走在举世倾羡之城，伊斯坦布尔",
+                "link": "https://sspai.com/post/95990",
+                "published": "2025-02-10"
+            },
+            {
                 "title": "挤出摸鱼时间，系统日历和快捷指令就够了",
                 "link": "https://sspai.com/post/94951",
                 "published": "2025-02-10"
@@ -23948,7 +23968,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,

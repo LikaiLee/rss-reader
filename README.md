@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-02-11】 梦回 98，一窥「前世」：Windows 98 宣传片中的微软](https://sspai.com/post/95547)
+* [【2025-02-11】 派早报：春节「两新」政策刺激消费 310 亿元，DeepSeek API 价格调高等](https://sspai.com/post/96221)
+* [【2025-02-10】 派评 | 近期值得关注的 App](https://sspai.com/post/96203)
+* [【2025-02-10】 城市漫步指南：行走在举世倾羡之城，伊斯坦布尔](https://sspai.com/post/95990)
 * [【2025-02-10】 挤出摸鱼时间，系统日历和快捷指令就够了](https://sspai.com/post/94951)
 * [【2025-02-10】 派早报：宁波暂停支持刷医保买华为手表](https://sspai.com/post/96184)
 * [【2025-02-09】 构建一个跨平台音画交互 App: ælbum](https://sspai.com/post/96017)
 * [【2025-02-08】 与其重复「新年计划」的失败，不如反思「新年目标」是否恰当](https://sspai.com/post/95907)
 * [【2025-02-07】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/96134)
 * [【2025-02-07】 2025 年回望「红警 2」：一代人的启蒙之作，如何成为游戏文化？](https://sspai.com/post/96002)
-* [【2025-02-07】 2024 健康备忘录：从高心率通知到身心的重启之路](https://sspai.com/post/96060)
-* [【2025-02-06】 派早报：奥之心发布 OM-3 相机、任天堂 Switch 2 直面会定档等](https://sspai.com/post/96118)
-* [【2025-02-06】 新玩意 202｜少数派的编辑们最近买了啥？](https://sspai.com/post/96096)
-* [【2025-02-06】 一日一技 | 趁系统一个不注意，给 Pixel 9 系列开 5G](https://sspai.com/post/96068)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-02-10 05:16:14
+:alarm_clock: 更新时间: 2025-02-11 05:14:53
