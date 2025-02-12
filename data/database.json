@@ -913,6 +913,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从深圳北上 4200 公里，我决定带着 vivo X200 Pro 去「逆行」",
+                "link": "https://sspai.com/post/96234",
+                "published": "2025-02-12"
+            },
+            {
+                "title": "派早报：Beats 推出 Powerbeats Pro 2 等",
+                "link": "https://sspai.com/post/96256",
+                "published": "2025-02-12"
+            },
+            {
+                "title": "无线充电、心率监测、H2 芯片…… Powerbeats Pro 2 首发体验",
+                "link": "https://sspai.com/post/96236",
+                "published": "2025-02-11"
+            },
+            {
+                "title": "手心里的精致美学：少数派法式手工皮具体验活动",
+                "link": "https://sspai.com/post/96225",
+                "published": "2025-02-11"
+            },
+            {
+                "title": "社区速递 079 | 你没见过的社区文章、一周最热评、派友十二月买了啥",
+                "link": "https://sspai.com/post/96235",
+                "published": "2025-02-11"
+            },
+            {
+                "title": "我在 2024 的春夏秋冬里，思考自由",
+                "link": "https://sspai.com/post/96070",
+                "published": "2025-02-11"
+            },
+            {
                 "title": "梦回 98，一窥「前世」：Windows 98 宣传片中的微软",
                 "link": "https://sspai.com/post/95547",
                 "published": "2025-02-11"
@@ -23968,7 +23998,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
