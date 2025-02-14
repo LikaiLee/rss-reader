@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 337 期）：互联网创业几乎没了",
+                "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html",
+                "published": "2025-02-14"
+            },
+            {
                 "title": "科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落",
                 "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html",
                 "published": "2025-02-07"
@@ -905,13 +910,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "装修容易踩坑？这是我的避坑方法论",
+                "link": "https://sspai.com/post/96168",
+                "published": "2025-02-14"
+            },
+            {
+                "title": "派早报：Adobe 发布 Adobe Firefly 文生视频 AI 模型等",
+                "link": "https://sspai.com/post/96326",
+                "published": "2025-02-14"
+            },
+            {
+                "title": "冷门但好读！当代硬汉派欧美侦探小说推荐",
+                "link": "https://sspai.com/post/96275",
+                "published": "2025-02-13"
+            },
+            {
+                "title": "科普 | 高帧率、好画质的「光追」是如何实现的？",
+                "link": "https://sspai.com/post/83522",
+                "published": "2025-02-13"
+            },
             {
                 "title": "从大厂设计师转行模型训练，聊聊我的裸辞感想",
                 "link": "https://sspai.com/post/95956",
@@ -24028,7 +24053,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
