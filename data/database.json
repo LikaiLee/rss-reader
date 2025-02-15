@@ -910,13 +910,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/96359",
+                "published": "2025-02-14"
+            },
+            {
+                "title": "具透 Plus |  向 Chrome 133 学写提示词，随 Android 16 一起「登岛」",
+                "link": "https://sspai.com/prime/story/inside-release-notes-250214",
+                "published": "2025-02-14"
+            },
+            {
+                "title": "胶片漂流计划｜我们用同一卷胶片捕捉了 4 座城市的光影",
+                "link": "https://sspai.com/post/96339",
+                "published": "2025-02-14"
+            },
+            {
+                "title": "上班就像上刑？换上一套「打工水獭」键帽表达态度",
+                "link": "https://sspai.com/post/96245",
+                "published": "2025-02-14"
+            },
             {
                 "title": "装修容易踩坑？这是我的避坑方法论",
                 "link": "https://sspai.com/post/96168",
