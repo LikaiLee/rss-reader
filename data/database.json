@@ -918,6 +918,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "爱与成长交相辉映：一位全职爸爸的日常与感悟",
+                "link": "https://sspai.com/post/96294",
+                "published": "2025-02-17"
+            },
+            {
+                "title": "派早报：微信、百度接入 DeepSeek",
+                "link": "https://sspai.com/post/96410",
+                "published": "2025-02-17"
+            },
+            {
+                "title": "做合格「猫奴」，从学会正确撸猫开始",
+                "link": "https://sspai.com/post/96156",
+                "published": "2025-02-16"
+            },
+            {
                 "title": "物念 2.0：追踪物品价值，给你的购物欲戴上口罩",
                 "link": "https://sspai.com/post/96036",
                 "published": "2025-02-15"
@@ -24078,7 +24093,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

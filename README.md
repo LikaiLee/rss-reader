@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-02-17】 爱与成长交相辉映：一位全职爸爸的日常与感悟](https://sspai.com/post/96294)
+* [【2025-02-17】 派早报：微信、百度接入 DeepSeek](https://sspai.com/post/96410)
+* [【2025-02-16】 做合格「猫奴」，从学会正确撸猫开始](https://sspai.com/post/96156)
 * [【2025-02-15】 物念 2.0：追踪物品价值，给你的购物欲戴上口罩](https://sspai.com/post/96036)
 * [【2025-02-14】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/96359)
 * [【2025-02-14】 具透 Plus |  向 Chrome 133 学写提示词，随 Android 16 一起「登岛」](https://sspai.com/prime/story/inside-release-notes-250214)
@@ -42,9 +45,6 @@
 * [【2025-02-14】 上班就像上刑？换上一套「打工水獭」键帽表达态度](https://sspai.com/post/96245)
 * [【2025-02-14】 装修容易踩坑？这是我的避坑方法论](https://sspai.com/post/96168)
 * [【2025-02-14】 派早报：Adobe 发布 Adobe Firefly 文生视频 AI 模型等](https://sspai.com/post/96326)
-* [【2025-02-13】 冷门但好读！当代硬汉派欧美侦探小说推荐](https://sspai.com/post/96275)
-* [【2025-02-13】 科普 | 高帧率、好画质的「光追」是如何实现的？](https://sspai.com/post/83522)
-* [【2025-02-13】 从大厂设计师转行模型训练，聊聊我的裸辞感想](https://sspai.com/post/95956)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-02-16 05:14:36
+:alarm_clock: 更新时间: 2025-02-17 05:16:40
