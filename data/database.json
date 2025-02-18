@@ -918,6 +918,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不要停止思考：聊聊 DeepSeek 对教育领域的影响",
+                "link": "https://sspai.com/post/96120",
+                "published": "2025-02-18"
+            },
+            {
+                "title": "派早报：Win 11 将弃用位置历史记录 API、2025 版 5G 手机产品白皮书发布等",
+                "link": "https://sspai.com/post/96443",
+                "published": "2025-02-17"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/96424",
+                "published": "2025-02-17"
+            },
+            {
+                "title": "借助 AI 生成 Python 脚本，将阅读记录自动同步到日历",
+                "link": "https://sspai.com/post/96121",
+                "published": "2025-02-17"
+            },
+            {
                 "title": "爱与成长交相辉映：一位全职爸爸的日常与感悟",
                 "link": "https://sspai.com/post/96294",
                 "published": "2025-02-17"
@@ -24093,7 +24113,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
