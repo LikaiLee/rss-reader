@@ -918,6 +918,46 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "「取舍有道」，我的小鹏 MONA M03 体验分享",
+                "link": "https://sspai.com/post/95586",
+                "published": "2025-02-20"
+            },
+            {
+                "title": "派早报：Apple 发布 iPhone 16e 等",
+                "link": "https://sspai.com/post/96533",
+                "published": "2025-02-20"
+            },
+            {
+                "title": "致曾经智能手机百花齐放的时代",
+                "link": "https://sspai.com/post/95878",
+                "published": "2025-02-19"
+            },
+            {
+                "title": "一次自制肉酱的探索与实践：用身边食材轻松做出风味独特的那碗面",
+                "link": "https://sspai.com/post/96400",
+                "published": "2025-02-19"
+            },
+            {
+                "title": "筚路蓝缕，以启山林：我的 2024 年度总结",
+                "link": "https://sspai.com/post/95935",
+                "published": "2025-02-19"
+            },
+            {
+                "title": "派早报：Nanoleaf 永久下调部分产品售价等",
+                "link": "https://sspai.com/post/96477",
+                "published": "2025-02-19"
+            },
+            {
+                "title": "社区速递 080 | 你没见过的社区文章、一周最热评、派友踩过的数码产品坑",
+                "link": "https://sspai.com/post/96462",
+                "published": "2025-02-18"
+            },
+            {
+                "title": "微软出品的 AI 终端助手：AI Shell 上手体验",
+                "link": "https://sspai.com/post/95889",
+                "published": "2025-02-18"
+            },
+            {
                 "title": "不要停止思考：聊聊 DeepSeek 对教育领域的影响",
                 "link": "https://sspai.com/post/96120",
                 "published": "2025-02-18"
@@ -24113,7 +24153,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 8
     },
     {
         "id": 2,
