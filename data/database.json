@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 338 期）：重新思考 6G",
+                "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html",
+                "published": "2025-02-21"
+            },
+            {
                 "title": "科技爱好者周刊（第 337 期）：互联网创业几乎没了",
                 "link": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html",
                 "published": "2025-02-14"
@@ -910,13 +915,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "不算成熟但方向对了：我的雷鸟 V3 使用体验",
+                "link": "https://sspai.com/post/96207",
+                "published": "2025-02-21"
+            },
+            {
+                "title": "派早报: OPPO 发布 OPPO Find N5 折叠屏手机、三星进一步阐述 Eclipsa Audio 3D 音频技术等",
+                "link": "https://sspai.com/post/96572",
+                "published": "2025-02-21"
+            },
+            {
+                "title": "新玩意 203｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/96536",
+                "published": "2025-02-20"
+            },
+            {
+                "title": "2024 年总结：我是个学生，也是个「公司老总」",
+                "link": "https://sspai.com/post/96349",
+                "published": "2025-02-20"
+            },
             {
                 "title": "「取舍有道」，我的小鹏 MONA M03 体验分享",
                 "link": "https://sspai.com/post/95586",
@@ -24153,7 +24178,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 4
     },
     {
         "id": 2,

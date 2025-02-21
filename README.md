@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+8】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-02-21】 科技爱好者周刊（第 338 期）：重新思考 6G](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html)
 * [【2025-02-14】 科技爱好者周刊（第 337 期）：互联网创业几乎没了](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html)
 * [【2025-02-07】 科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)
 * [【2025-01-24】 科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html)
@@ -25,7 +26,6 @@
 * [【2025-01-03】 科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html)
 * [【2024-12-27】 科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html)
 * [【2024-12-20】 科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)
-* [【2024-12-13】 科技爱好者周刊（第 329 期）：示意图利器 D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-02-21】 不算成熟但方向对了：我的雷鸟 V3 使用体验](https://sspai.com/post/96207)
+* [【2025-02-21】 派早报: OPPO 发布 OPPO Find N5 折叠屏手机、三星进一步阐述 Eclipsa Audio 3D 音频技术等](https://sspai.com/post/96572)
+* [【2025-02-20】 新玩意 203｜少数派的编辑们最近买了啥？](https://sspai.com/post/96536)
+* [【2025-02-20】 2024 年总结：我是个学生，也是个「公司老总」](https://sspai.com/post/96349)
 * [【2025-02-20】 「取舍有道」，我的小鹏 MONA M03 体验分享](https://sspai.com/post/95586)
 * [【2025-02-20】 派早报：Apple 发布 iPhone 16e 等](https://sspai.com/post/96533)
 * [【2025-02-19】 致曾经智能手机百花齐放的时代](https://sspai.com/post/95878)
 * [【2025-02-19】 一次自制肉酱的探索与实践：用身边食材轻松做出风味独特的那碗面](https://sspai.com/post/96400)
 * [【2025-02-19】 筚路蓝缕，以启山林：我的 2024 年度总结](https://sspai.com/post/95935)
 * [【2025-02-19】 派早报：Nanoleaf 永久下调部分产品售价等](https://sspai.com/post/96477)
-* [【2025-02-18】 社区速递 080 | 你没见过的社区文章、一周最热评、派友踩过的数码产品坑](https://sspai.com/post/96462)
-* [【2025-02-18】 微软出品的 AI 终端助手：AI Shell 上手体验](https://sspai.com/post/95889)
-* [【2025-02-18】 不要停止思考：聊聊 DeepSeek 对教育领域的影响](https://sspai.com/post/96120)
-* [【2025-02-17】 派早报：Win 11 将弃用位置历史记录 API、2025 版 5G 手机产品白皮书发布等](https://sspai.com/post/96443)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-02-20 05:15:10
+:alarm_clock: 更新时间: 2025-02-21 05:15:02
