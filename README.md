@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-02-21】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/96593)
+* [【2025-02-21】 如何通过自定义域名上任意地址收发邮件](https://sspai.com/prime/story/send-and-receive-with-arbitrary-addresses-on-a-custom-domain)
+* [【2025-02-21】 2025，让我们一起上台，好好说话](https://sspai.com/post/96380)
 * [【2025-02-21】 不算成熟但方向对了：我的雷鸟 V3 使用体验](https://sspai.com/post/96207)
 * [【2025-02-21】 派早报: OPPO 发布 OPPO Find N5 折叠屏手机、三星进一步阐述 Eclipsa Audio 3D 音频技术等](https://sspai.com/post/96572)
 * [【2025-02-20】 新玩意 203｜少数派的编辑们最近买了啥？](https://sspai.com/post/96536)
@@ -42,9 +45,6 @@
 * [【2025-02-20】 「取舍有道」，我的小鹏 MONA M03 体验分享](https://sspai.com/post/95586)
 * [【2025-02-20】 派早报：Apple 发布 iPhone 16e 等](https://sspai.com/post/96533)
 * [【2025-02-19】 致曾经智能手机百花齐放的时代](https://sspai.com/post/95878)
-* [【2025-02-19】 一次自制肉酱的探索与实践：用身边食材轻松做出风味独特的那碗面](https://sspai.com/post/96400)
-* [【2025-02-19】 筚路蓝缕，以启山林：我的 2024 年度总结](https://sspai.com/post/95935)
-* [【2025-02-19】 派早报：Nanoleaf 永久下调部分产品售价等](https://sspai.com/post/96477)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-02-21 05:15:02
+:alarm_clock: 更新时间: 2025-02-22 05:14:24

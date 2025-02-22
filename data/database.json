@@ -915,13 +915,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/96593",
+                "published": "2025-02-21"
+            },
+            {
+                "title": "如何通过自定义域名上任意地址收发邮件",
+                "link": "https://sspai.com/prime/story/send-and-receive-with-arbitrary-addresses-on-a-custom-domain",
+                "published": "2025-02-21"
+            },
+            {
+                "title": "2025，让我们一起上台，好好说话",
+                "link": "https://sspai.com/post/96380",
+                "published": "2025-02-21"
+            },
             {
                 "title": "不算成熟但方向对了：我的雷鸟 V3 使用体验",
                 "link": "https://sspai.com/post/96207",
@@ -24178,7 +24193,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
