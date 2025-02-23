@@ -923,6 +923,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "让 AI 长在脑子上：不是想得更久，而是试得更多",
+                "link": "https://sspai.com/post/96150",
+                "published": "2025-02-22"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/96593",
                 "published": "2025-02-21"
@@ -24193,7 +24198,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
