@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-02-24】 线下活动：「AI 的魔法」我用 AI 重构了整个工作流](https://sspai.com/post/96598)
+* [【2025-02-24】 派早报：Apple Intelligence 将于四月支持中文](https://sspai.com/post/96652)
+* [【2025-02-23】 新的一年，不妨试试自己分析支付宝账单](https://sspai.com/post/96151)
 * [【2025-02-22】 让 AI 长在脑子上：不是想得更久，而是试得更多](https://sspai.com/post/96150)
 * [【2025-02-21】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/96593)
 * [【2025-02-21】 如何通过自定义域名上任意地址收发邮件](https://sspai.com/prime/story/send-and-receive-with-arbitrary-addresses-on-a-custom-domain)
@@ -42,9 +45,6 @@
 * [【2025-02-21】 不算成熟但方向对了：我的雷鸟 V3 使用体验](https://sspai.com/post/96207)
 * [【2025-02-21】 派早报: OPPO 发布 OPPO Find N5 折叠屏手机、三星进一步阐述 Eclipsa Audio 3D 音频技术等](https://sspai.com/post/96572)
 * [【2025-02-20】 新玩意 203｜少数派的编辑们最近买了啥？](https://sspai.com/post/96536)
-* [【2025-02-20】 2024 年总结：我是个学生，也是个「公司老总」](https://sspai.com/post/96349)
-* [【2025-02-20】 「取舍有道」，我的小鹏 MONA M03 体验分享](https://sspai.com/post/95586)
-* [【2025-02-20】 派早报：Apple 发布 iPhone 16e 等](https://sspai.com/post/96533)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-02-23 05:13:54
+:alarm_clock: 更新时间: 2025-02-24 05:15:32
