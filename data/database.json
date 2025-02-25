@@ -923,6 +923,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "海上破冰、攀登火山、高原越野、古街漫步：用照片回顾我的 2024",
+                "link": "https://sspai.com/post/96352",
+                "published": "2025-02-25"
+            },
+            {
+                "title": "派早报：适马推出 Sigma BF 相机、腾讯游戏升级未成年人保护体系等",
+                "link": "https://sspai.com/post/96717",
+                "published": "2025-02-25"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/96686",
+                "published": "2025-02-24"
+            },
+            {
+                "title": "Obsidian 商用免费，我是如何用它搭建团队知识库的？",
+                "link": "https://sspai.com/post/96586",
+                "published": "2025-02-24"
+            },
+            {
                 "title": "线下活动：「AI 的魔法」我用 AI 重构了整个工作流",
                 "link": "https://sspai.com/post/96598",
                 "published": "2025-02-24"
@@ -24213,7 +24233,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
