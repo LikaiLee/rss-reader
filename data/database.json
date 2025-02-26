@@ -923,6 +923,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从开业到转让：2024 年咖啡馆创业小记",
+                "link": "https://sspai.com/post/96419",
+                "published": "2025-02-26"
+            },
+            {
+                "title": "派早报：联发科发布 3 款移动芯片、微软推出含广告的免费版 Office 等",
+                "link": "https://sspai.com/post/96774",
+                "published": "2025-02-26"
+            },
+            {
+                "title": "发售前的最终打磨，请看这份 GAMEBABY 内测报告",
+                "link": "https://sspai.com/post/96748",
+                "published": "2025-02-25"
+            },
+            {
+                "title": "社区速递 081 | 你没见过的社区文章、一周最热评、派友的办公搭子",
+                "link": "https://sspai.com/post/96725",
+                "published": "2025-02-25"
+            },
+            {
+                "title": "划词翻译、OCR 文字提取：我用 AutoHotKey 给自己写了一个小工具",
+                "link": "https://sspai.com/post/96562",
+                "published": "2025-02-25"
+            },
+            {
                 "title": "海上破冰、攀登火山、高原越野、古街漫步：用照片回顾我的 2024",
                 "link": "https://sspai.com/post/96352",
                 "published": "2025-02-25"
@@ -24233,7 +24258,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,

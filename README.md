@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-02-26】 从开业到转让：2024 年咖啡馆创业小记](https://sspai.com/post/96419)
+* [【2025-02-26】 派早报：联发科发布 3 款移动芯片、微软推出含广告的免费版 Office 等](https://sspai.com/post/96774)
+* [【2025-02-25】 发售前的最终打磨，请看这份 GAMEBABY 内测报告](https://sspai.com/post/96748)
+* [【2025-02-25】 社区速递 081 | 你没见过的社区文章、一周最热评、派友的办公搭子](https://sspai.com/post/96725)
+* [【2025-02-25】 划词翻译、OCR 文字提取：我用 AutoHotKey 给自己写了一个小工具](https://sspai.com/post/96562)
 * [【2025-02-25】 海上破冰、攀登火山、高原越野、古街漫步：用照片回顾我的 2024](https://sspai.com/post/96352)
 * [【2025-02-25】 派早报：适马推出 Sigma BF 相机、腾讯游戏升级未成年人保护体系等](https://sspai.com/post/96717)
 * [【2025-02-24】 派评 | 近期值得关注的 App](https://sspai.com/post/96686)
 * [【2025-02-24】 Obsidian 商用免费，我是如何用它搭建团队知识库的？](https://sspai.com/post/96586)
 * [【2025-02-24】 线下活动：「AI 的魔法」我用 AI 重构了整个工作流](https://sspai.com/post/96598)
-* [【2025-02-24】 派早报：Apple Intelligence 将于四月支持中文](https://sspai.com/post/96652)
-* [【2025-02-23】 新的一年，不妨试试自己分析支付宝账单](https://sspai.com/post/96151)
-* [【2025-02-22】 让 AI 长在脑子上：不是想得更久，而是试得更多](https://sspai.com/post/96150)
-* [【2025-02-21】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/96593)
-* [【2025-02-21】 如何通过自定义域名上任意地址收发邮件](https://sspai.com/prime/story/send-and-receive-with-arbitrary-addresses-on-a-custom-domain)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-02-25 05:15:26
+:alarm_clock: 更新时间: 2025-02-26 05:15:52
