@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-02-27】 最便宜的入门款，也有意料外的惊喜：iPhone 16e 首发体验](https://sspai.com/post/96788)
+* [【2025-02-27】 派早报：荣耀发布多款新品、Adobe 推出 iOS 版 Photoshop 等](https://sspai.com/post/96808)
+* [【2025-02-26】 从语音学视角「重学」一次音标](https://sspai.com/post/96405)
+* [【2025-02-26】 寻源英歌：一场动人心魄的旅程](https://sspai.com/post/96587)
+* [【2025-02-26】 创新 × AI，点亮应用新未来：2025 小红书独立开发大赛报名启动](https://sspai.com/post/96502)
 * [【2025-02-26】 从开业到转让：2024 年咖啡馆创业小记](https://sspai.com/post/96419)
 * [【2025-02-26】 派早报：联发科发布 3 款移动芯片、微软推出含广告的免费版 Office 等](https://sspai.com/post/96774)
 * [【2025-02-25】 发售前的最终打磨，请看这份 GAMEBABY 内测报告](https://sspai.com/post/96748)
 * [【2025-02-25】 社区速递 081 | 你没见过的社区文章、一周最热评、派友的办公搭子](https://sspai.com/post/96725)
 * [【2025-02-25】 划词翻译、OCR 文字提取：我用 AutoHotKey 给自己写了一个小工具](https://sspai.com/post/96562)
-* [【2025-02-25】 海上破冰、攀登火山、高原越野、古街漫步：用照片回顾我的 2024](https://sspai.com/post/96352)
-* [【2025-02-25】 派早报：适马推出 Sigma BF 相机、腾讯游戏升级未成年人保护体系等](https://sspai.com/post/96717)
-* [【2025-02-24】 派评 | 近期值得关注的 App](https://sspai.com/post/96686)
-* [【2025-02-24】 Obsidian 商用免费，我是如何用它搭建团队知识库的？](https://sspai.com/post/96586)
-* [【2025-02-24】 线下活动：「AI 的魔法」我用 AI 重构了整个工作流](https://sspai.com/post/96598)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-02-26 05:15:52
+:alarm_clock: 更新时间: 2025-02-27 05:16:40
