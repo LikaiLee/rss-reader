@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-02-28】 科技爱好者周刊（第 339 期）：代币是什么](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html)
 * [【2025-02-21】 科技爱好者周刊（第 338 期）：重新思考 6G](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html)
 * [【2025-02-14】 科技爱好者周刊（第 337 期）：互联网创业几乎没了](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html)
 * [【2025-02-07】 科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)
@@ -25,7 +26,6 @@
 * [【2025-01-10】 科技爱好者周刊（第 333 期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html)
 * [【2025-01-03】 科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html)
 * [【2024-12-27】 科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html)
-* [【2024-12-20】 科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-02-28】 让文献回顾自动化，Scispace 这个功能好用吗？](https://sspai.com/post/96745)
+* [【2025-02-28】 派早报：UniFi 推出多款网络新品、OpenAI 发布 GPT-4.5](https://sspai.com/post/96831)
+* [【2025-02-27】 新玩意 · 特别篇 | 开工大半个月，这些是我们的办公好「搭子」](https://sspai.com/post/96744)
+* [【2025-02-27】 为了能更好地看电视，我把树莓派改造成了电视盒子](https://sspai.com/post/96764)
 * [【2025-02-27】 最便宜的入门款，也有意料外的惊喜：iPhone 16e 首发体验](https://sspai.com/post/96788)
 * [【2025-02-27】 派早报：荣耀发布多款新品、Adobe 推出 iOS 版 Photoshop 等](https://sspai.com/post/96808)
 * [【2025-02-26】 从语音学视角「重学」一次音标](https://sspai.com/post/96405)
 * [【2025-02-26】 寻源英歌：一场动人心魄的旅程](https://sspai.com/post/96587)
 * [【2025-02-26】 创新 × AI，点亮应用新未来：2025 小红书独立开发大赛报名启动](https://sspai.com/post/96502)
 * [【2025-02-26】 从开业到转让：2024 年咖啡馆创业小记](https://sspai.com/post/96419)
-* [【2025-02-26】 派早报：联发科发布 3 款移动芯片、微软推出含广告的免费版 Office 等](https://sspai.com/post/96774)
-* [【2025-02-25】 发售前的最终打磨，请看这份 GAMEBABY 内测报告](https://sspai.com/post/96748)
-* [【2025-02-25】 社区速递 081 | 你没见过的社区文章、一周最热评、派友的办公搭子](https://sspai.com/post/96725)
-* [【2025-02-25】 划词翻译、OCR 文字提取：我用 AutoHotKey 给自己写了一个小工具](https://sspai.com/post/96562)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-02-27 05:16:40
+:alarm_clock: 更新时间: 2025-02-28 05:16:02
