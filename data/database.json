@@ -920,13 +920,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "线下活动｜每一张都罕有：浮生故事手工书相册专场",
+                "link": "https://sspai.com/post/96838",
+                "published": "2025-03-01"
+            },
+            {
+                "title": "本月玩什么 | 宣誓、天国：拯救 2、怪物猎人 荒野、文明 7",
+                "link": "https://sspai.com/post/96848",
+                "published": "2025-02-28"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/96846",
+                "published": "2025-02-28"
+            },
             {
                 "title": "让文献回顾自动化，Scispace 这个功能好用吗？",
                 "link": "https://sspai.com/post/96745",
@@ -24308,7 +24323,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
