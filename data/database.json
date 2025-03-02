@@ -928,6 +928,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "在 2025 年重新体验 OS X Mavericks",
+                "link": "https://sspai.com/post/96610",
+                "published": "2025-03-01"
+            },
+            {
                 "title": "线下活动｜每一张都罕有：浮生故事手工书相册专场",
                 "link": "https://sspai.com/post/96838",
                 "published": "2025-03-01"
@@ -24323,7 +24328,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
