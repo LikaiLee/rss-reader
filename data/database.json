@@ -928,6 +928,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "好、坏、丑：AI 元年，手机厂商为什么再次爱上了跑马灯？",
+                "link": "https://sspai.com/post/96489",
+                "published": "2025-03-03"
+            },
+            {
+                "title": "派早报：微软宣布关停 Skype",
+                "link": "https://sspai.com/post/96916",
+                "published": "2025-03-03"
+            },
+            {
+                "title": "西西弗斯的游戏：我作为一个典型 ADHD 的接纳与重塑",
+                "link": "https://sspai.com/post/96639",
+                "published": "2025-03-02"
+            },
+            {
                 "title": "在 2025 年重新体验 OS X Mavericks",
                 "link": "https://sspai.com/post/96610",
                 "published": "2025-03-01"
@@ -24328,7 +24343,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

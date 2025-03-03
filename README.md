@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-03-03】 好、坏、丑：AI 元年，手机厂商为什么再次爱上了跑马灯？](https://sspai.com/post/96489)
+* [【2025-03-03】 派早报：微软宣布关停 Skype](https://sspai.com/post/96916)
+* [【2025-03-02】 西西弗斯的游戏：我作为一个典型 ADHD 的接纳与重塑](https://sspai.com/post/96639)
 * [【2025-03-01】 在 2025 年重新体验 OS X Mavericks](https://sspai.com/post/96610)
 * [【2025-03-01】 线下活动｜每一张都罕有：浮生故事手工书相册专场](https://sspai.com/post/96838)
 * [【2025-02-28】 本月玩什么 | 宣誓、天国：拯救 2、怪物猎人 荒野、文明 7](https://sspai.com/post/96848)
@@ -42,9 +45,6 @@
 * [【2025-02-28】 让文献回顾自动化，Scispace 这个功能好用吗？](https://sspai.com/post/96745)
 * [【2025-02-28】 派早报：UniFi 推出多款网络新品、OpenAI 发布 GPT-4.5](https://sspai.com/post/96831)
 * [【2025-02-27】 新玩意 · 特别篇 | 开工大半个月，这些是我们的办公好「搭子」](https://sspai.com/post/96744)
-* [【2025-02-27】 为了能更好地看电视，我把树莓派改造成了电视盒子](https://sspai.com/post/96764)
-* [【2025-02-27】 最便宜的入门款，也有意料外的惊喜：iPhone 16e 首发体验](https://sspai.com/post/96788)
-* [【2025-02-27】 派早报：荣耀发布多款新品、Adobe 推出 iOS 版 Photoshop 等](https://sspai.com/post/96808)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-02 05:15:27
+:alarm_clock: 更新时间: 2025-03-03 05:16:08
