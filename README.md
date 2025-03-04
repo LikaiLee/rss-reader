@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-03-03】 Trae 国内版出来了，真的好用吗？](http://www.ruanyifeng.com/blog/2025/03/trae.html)
 * [【2025-02-28】 科技爱好者周刊（第 339 期）：代币是什么](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html)
 * [【2025-02-21】 科技爱好者周刊（第 338 期）：重新思考 6G](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html)
 * [【2025-02-14】 科技爱好者周刊（第 337 期）：互联网创业几乎没了](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html)
@@ -25,7 +26,6 @@
 * [【2025-01-16】 AI 搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html)
 * [【2025-01-10】 科技爱好者周刊（第 333 期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html)
 * [【2025-01-03】 科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html)
-* [【2024-12-27】 科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-04】 使用相机一年后，回过头看 iPhone 摄影](https://sspai.com/prime/story/iphoneography-a-redux-of)
+* [【2025-03-04】 派早报：第 97 届奥斯卡奖颁奖典礼举行、零刻推出全新 ME 系列 NAS 产品等](https://sspai.com/post/96949)
+* [【2025-03-03】 派评 | 近期值得关注的 App](https://sspai.com/post/96936)
+* [【2025-03-03】 ColorOS 动画之我见：为什么你总觉得哪里怪怪的？](https://sspai.com/post/96816)
 * [【2025-03-03】 好、坏、丑：AI 元年，手机厂商为什么再次爱上了跑马灯？](https://sspai.com/post/96489)
 * [【2025-03-03】 派早报：微软宣布关停 Skype](https://sspai.com/post/96916)
 * [【2025-03-02】 西西弗斯的游戏：我作为一个典型 ADHD 的接纳与重塑](https://sspai.com/post/96639)
 * [【2025-03-01】 在 2025 年重新体验 OS X Mavericks](https://sspai.com/post/96610)
 * [【2025-03-01】 线下活动｜每一张都罕有：浮生故事手工书相册专场](https://sspai.com/post/96838)
 * [【2025-02-28】 本月玩什么 | 宣誓、天国：拯救 2、怪物猎人 荒野、文明 7](https://sspai.com/post/96848)
-* [【2025-02-28】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/96846)
-* [【2025-02-28】 让文献回顾自动化，Scispace 这个功能好用吗？](https://sspai.com/post/96745)
-* [【2025-02-28】 派早报：UniFi 推出多款网络新品、OpenAI 发布 GPT-4.5](https://sspai.com/post/96831)
-* [【2025-02-27】 新玩意 · 特别篇 | 开工大半个月，这些是我们的办公好「搭子」](https://sspai.com/post/96744)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-03 05:16:08
+:alarm_clock: 更新时间: 2025-03-04 05:15:34
