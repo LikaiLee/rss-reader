@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-05】 从等人发牌到自己印牌：我的桌游设计新实践](https://sspai.com/post/96648)
+* [【2025-03-05】 派早报：Apple 推出两款 iPad 新品等](https://sspai.com/post/96994)
+* [【2025-03-04】 社区速递 082 | 你没见过的社区文章、一周最热评、派友一月购物大公开](https://sspai.com/post/96966)
+* [【2025-03-04】 重新发现 1969 年的知识生产术：读《智识的生产技术》](https://sspai.com/post/96855)
+* [【2025-03-04】 AI 如何协助我解决创作过程中遇到的编程问题](https://sspai.com/post/96632)
 * [【2025-03-04】 使用相机一年后，回过头看 iPhone 摄影](https://sspai.com/prime/story/iphoneography-a-redux-of)
 * [【2025-03-04】 派早报：第 97 届奥斯卡奖颁奖典礼举行、零刻推出全新 ME 系列 NAS 产品等](https://sspai.com/post/96949)
 * [【2025-03-03】 派评 | 近期值得关注的 App](https://sspai.com/post/96936)
 * [【2025-03-03】 ColorOS 动画之我见：为什么你总觉得哪里怪怪的？](https://sspai.com/post/96816)
 * [【2025-03-03】 好、坏、丑：AI 元年，手机厂商为什么再次爱上了跑马灯？](https://sspai.com/post/96489)
-* [【2025-03-03】 派早报：微软宣布关停 Skype](https://sspai.com/post/96916)
-* [【2025-03-02】 西西弗斯的游戏：我作为一个典型 ADHD 的接纳与重塑](https://sspai.com/post/96639)
-* [【2025-03-01】 在 2025 年重新体验 OS X Mavericks](https://sspai.com/post/96610)
-* [【2025-03-01】 线下活动｜每一张都罕有：浮生故事手工书相册专场](https://sspai.com/post/96838)
-* [【2025-02-28】 本月玩什么 | 宣誓、天国：拯救 2、怪物猎人 荒野、文明 7](https://sspai.com/post/96848)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-04 05:15:34
+:alarm_clock: 更新时间: 2025-03-05 05:15:59
