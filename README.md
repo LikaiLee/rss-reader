@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-06】 选择痛苦：渣马半马 2024 纪实](https://sspai.com/post/96675)
+* [【2025-03-06】 派早报：Apple 发布两款新品、《刺客信条：影》确认本月登陆 Mac 等](https://sspai.com/post/97039)
+* [【2025-03-05】 5 年过去了，用 iPad 当电脑的人现在怎么样了？](https://sspai.com/post/96905)
+* [【2025-03-05】 为 AI 模型赋予「三头六臂」：MCP 服务实用指南](https://sspai.com/prime/story/mcp-tutorial)
+* [【2025-03-05】 当 128G 开始成为历史：聊聊关于存储空间那点事](https://sspai.com/post/96719)
 * [【2025-03-05】 从等人发牌到自己印牌：我的桌游设计新实践](https://sspai.com/post/96648)
 * [【2025-03-05】 派早报：Apple 推出两款 iPad 新品等](https://sspai.com/post/96994)
 * [【2025-03-04】 社区速递 082 | 你没见过的社区文章、一周最热评、派友一月购物大公开](https://sspai.com/post/96966)
 * [【2025-03-04】 重新发现 1969 年的知识生产术：读《智识的生产技术》](https://sspai.com/post/96855)
 * [【2025-03-04】 AI 如何协助我解决创作过程中遇到的编程问题](https://sspai.com/post/96632)
-* [【2025-03-04】 使用相机一年后，回过头看 iPhone 摄影](https://sspai.com/prime/story/iphoneography-a-redux-of)
-* [【2025-03-04】 派早报：第 97 届奥斯卡奖颁奖典礼举行、零刻推出全新 ME 系列 NAS 产品等](https://sspai.com/post/96949)
-* [【2025-03-03】 派评 | 近期值得关注的 App](https://sspai.com/post/96936)
-* [【2025-03-03】 ColorOS 动画之我见：为什么你总觉得哪里怪怪的？](https://sspai.com/post/96816)
-* [【2025-03-03】 好、坏、丑：AI 元年，手机厂商为什么再次爱上了跑马灯？](https://sspai.com/post/96489)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-05 05:15:59
+:alarm_clock: 更新时间: 2025-03-06 05:15:53
