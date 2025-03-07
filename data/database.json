@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 340 期）：技术炒作三十年",
+                "link": "http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html",
+                "published": "2025-03-07"
+            },
+            {
                 "title": "Trae 国内版出来了，真的好用吗？",
                 "link": "http://www.ruanyifeng.com/blog/2025/03/trae.html",
                 "published": "2025-03-03"
@@ -925,13 +930,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "2025 笔记教程创作计划",
+                "link": "https://sspai.com/post/96498",
+                "published": "2025-03-07"
+            },
+            {
+                "title": "派早报：AI 界新闻 4 则、大公司新闻 4 则等",
+                "link": "https://sspai.com/post/97075",
+                "published": "2025-03-07"
+            },
+            {
+                "title": "新玩意 204｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/97055",
+                "published": "2025-03-06"
+            },
+            {
+                "title": "少数派首页「潜规则」：2024 数据分析 & 创作指南",
+                "link": "https://sspai.com/post/96715",
+                "published": "2025-03-06"
+            },
             {
                 "title": "选择痛苦：渣马半马 2024 纪实",
                 "link": "https://sspai.com/post/96675",
@@ -24418,7 +24443,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

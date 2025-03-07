@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-03-07】 科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html)
 * [【2025-03-03】 Trae 国内版出来了，真的好用吗？](http://www.ruanyifeng.com/blog/2025/03/trae.html)
 * [【2025-02-28】 科技爱好者周刊（第 339 期）：代币是什么](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html)
 * [【2025-02-21】 科技爱好者周刊（第 338 期）：重新思考 6G](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html)
@@ -25,7 +26,6 @@
 * [【2025-01-17】 科技爱好者周刊（第 334 期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html)
 * [【2025-01-16】 AI 搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html)
 * [【2025-01-10】 科技爱好者周刊（第 333 期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html)
-* [【2025-01-03】 科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-07】 2025 笔记教程创作计划](https://sspai.com/post/96498)
+* [【2025-03-07】 派早报：AI 界新闻 4 则、大公司新闻 4 则等](https://sspai.com/post/97075)
+* [【2025-03-06】 新玩意 204｜少数派的编辑们最近买了啥？](https://sspai.com/post/97055)
+* [【2025-03-06】 少数派首页「潜规则」：2024 数据分析 & 创作指南](https://sspai.com/post/96715)
 * [【2025-03-06】 选择痛苦：渣马半马 2024 纪实](https://sspai.com/post/96675)
 * [【2025-03-06】 派早报：Apple 发布两款新品、《刺客信条：影》确认本月登陆 Mac 等](https://sspai.com/post/97039)
 * [【2025-03-05】 5 年过去了，用 iPad 当电脑的人现在怎么样了？](https://sspai.com/post/96905)
 * [【2025-03-05】 为 AI 模型赋予「三头六臂」：MCP 服务实用指南](https://sspai.com/prime/story/mcp-tutorial)
 * [【2025-03-05】 当 128G 开始成为历史：聊聊关于存储空间那点事](https://sspai.com/post/96719)
 * [【2025-03-05】 从等人发牌到自己印牌：我的桌游设计新实践](https://sspai.com/post/96648)
-* [【2025-03-05】 派早报：Apple 推出两款 iPad 新品等](https://sspai.com/post/96994)
-* [【2025-03-04】 社区速递 082 | 你没见过的社区文章、一周最热评、派友一月购物大公开](https://sspai.com/post/96966)
-* [【2025-03-04】 重新发现 1969 年的知识生产术：读《智识的生产技术》](https://sspai.com/post/96855)
-* [【2025-03-04】 AI 如何协助我解决创作过程中遇到的编程问题](https://sspai.com/post/96632)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-06 05:15:53
+:alarm_clock: 更新时间: 2025-03-07 05:16:00
