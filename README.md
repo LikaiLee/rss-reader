@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-03-07】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/97094)
+* [【2025-03-07】 ARM 处理器 Windows 设备选购及使用指南](https://sspai.com/prime/story/arm-windows-buyers-guide)
+* [【2025-03-07】 春节自驾游：我看到了父母与现代性的距离](https://sspai.com/post/96073)
 * [【2025-03-07】 2025 笔记教程创作计划](https://sspai.com/post/96498)
 * [【2025-03-07】 派早报：AI 界新闻 4 则、大公司新闻 4 则等](https://sspai.com/post/97075)
 * [【2025-03-06】 新玩意 204｜少数派的编辑们最近买了啥？](https://sspai.com/post/97055)
@@ -42,9 +45,6 @@
 * [【2025-03-06】 选择痛苦：渣马半马 2024 纪实](https://sspai.com/post/96675)
 * [【2025-03-06】 派早报：Apple 发布两款新品、《刺客信条：影》确认本月登陆 Mac 等](https://sspai.com/post/97039)
 * [【2025-03-05】 5 年过去了，用 iPad 当电脑的人现在怎么样了？](https://sspai.com/post/96905)
-* [【2025-03-05】 为 AI 模型赋予「三头六臂」：MCP 服务实用指南](https://sspai.com/prime/story/mcp-tutorial)
-* [【2025-03-05】 当 128G 开始成为历史：聊聊关于存储空间那点事](https://sspai.com/post/96719)
-* [【2025-03-05】 从等人发牌到自己印牌：我的桌游设计新实践](https://sspai.com/post/96648)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-07 05:16:00
+:alarm_clock: 更新时间: 2025-03-08 05:12:16
