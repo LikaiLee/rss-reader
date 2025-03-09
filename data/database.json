@@ -938,6 +938,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "如此生活二十年，直到博物馆开张",
+                "link": "https://sspai.com/post/96845",
+                "published": "2025-03-08"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/97094",
                 "published": "2025-03-07"
@@ -24458,7 +24463,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,

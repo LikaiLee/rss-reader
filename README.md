@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2025-03-08】 如此生活二十年，直到博物馆开张](https://sspai.com/post/96845)
 * [【2025-03-07】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/97094)
 * [【2025-03-07】 ARM 处理器 Windows 设备选购及使用指南](https://sspai.com/prime/story/arm-windows-buyers-guide)
 * [【2025-03-07】 春节自驾游：我看到了父母与现代性的距离](https://sspai.com/post/96073)
@@ -44,7 +45,6 @@
 * [【2025-03-06】 少数派首页「潜规则」：2024 数据分析 & 创作指南](https://sspai.com/post/96715)
 * [【2025-03-06】 选择痛苦：渣马半马 2024 纪实](https://sspai.com/post/96675)
 * [【2025-03-06】 派早报：Apple 发布两款新品、《刺客信条：影》确认本月登陆 Mac 等](https://sspai.com/post/97039)
-* [【2025-03-05】 5 年过去了，用 iPad 当电脑的人现在怎么样了？](https://sspai.com/post/96905)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-08 05:12:16
+:alarm_clock: 更新时间: 2025-03-09 05:12:34
