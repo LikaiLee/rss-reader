@@ -938,6 +938,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "共创平台上线：每一个想法都值得被认真对待",
+                "link": "https://sspai.com/post/97172",
+                "published": "2025-03-10"
+            },
+            {
+                "title": "派早报：苹果推迟部分 AI 功能上线",
+                "link": "https://sspai.com/post/97169",
+                "published": "2025-03-10"
+            },
+            {
+                "title": "天降正义之初阶「赛博」养鸟手记",
+                "link": "https://sspai.com/post/96841",
+                "published": "2025-03-09"
+            },
+            {
                 "title": "如此生活二十年，直到博物馆开张",
                 "link": "https://sspai.com/post/96845",
                 "published": "2025-03-08"
@@ -24463,7 +24478,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

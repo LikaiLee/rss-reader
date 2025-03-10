@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-03-10】 共创平台上线：每一个想法都值得被认真对待](https://sspai.com/post/97172)
+* [【2025-03-10】 派早报：苹果推迟部分 AI 功能上线](https://sspai.com/post/97169)
+* [【2025-03-09】 天降正义之初阶「赛博」养鸟手记](https://sspai.com/post/96841)
 * [【2025-03-08】 如此生活二十年，直到博物馆开张](https://sspai.com/post/96845)
 * [【2025-03-07】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/97094)
 * [【2025-03-07】 ARM 处理器 Windows 设备选购及使用指南](https://sspai.com/prime/story/arm-windows-buyers-guide)
@@ -42,9 +45,6 @@
 * [【2025-03-07】 2025 笔记教程创作计划](https://sspai.com/post/96498)
 * [【2025-03-07】 派早报：AI 界新闻 4 则、大公司新闻 4 则等](https://sspai.com/post/97075)
 * [【2025-03-06】 新玩意 204｜少数派的编辑们最近买了啥？](https://sspai.com/post/97055)
-* [【2025-03-06】 少数派首页「潜规则」：2024 数据分析 & 创作指南](https://sspai.com/post/96715)
-* [【2025-03-06】 选择痛苦：渣马半马 2024 纪实](https://sspai.com/post/96675)
-* [【2025-03-06】 派早报：Apple 发布两款新品、《刺客信条：影》确认本月登陆 Mac 等](https://sspai.com/post/97039)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-09 05:12:34
+:alarm_clock: 更新时间: 2025-03-10 05:13:42
