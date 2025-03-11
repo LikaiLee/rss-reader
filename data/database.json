@@ -938,6 +938,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一起来做野生少数派周边吧",
+                "link": "https://sspai.com/post/97049",
+                "published": "2025-03-11"
+            },
+            {
+                "title": "派早报：闪迪存储宣布涨价，HTC 发布新机等",
+                "link": "https://sspai.com/post/97218",
+                "published": "2025-03-11"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/97194",
+                "published": "2025-03-10"
+            },
+            {
+                "title": "12 年老作者、教育信息化产品经理 @化学心情下2 都装了啥",
+                "link": "https://sspai.com/prime/story/zhuanglesha-250310",
+                "published": "2025-03-10"
+            },
+            {
+                "title": "线下活动 | 「一个粉丝都没有，就不配自由职业了？」",
+                "link": "https://sspai.com/post/97185",
+                "published": "2025-03-10"
+            },
+            {
+                "title": "《双影奇境》通关小记：一部超乎想象、精彩绝伦的双人游戏作品",
+                "link": "https://sspai.com/post/97161",
+                "published": "2025-03-10"
+            },
+            {
+                "title": "2024，我学着和「急性子」跳一支慢舞",
+                "link": "https://sspai.com/post/96814",
+                "published": "2025-03-10"
+            },
+            {
                 "title": "共创平台上线：每一个想法都值得被认真对待",
                 "link": "https://sspai.com/post/97172",
                 "published": "2025-03-10"
@@ -24478,7 +24513,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 7
     },
     {
         "id": 2,

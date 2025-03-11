@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-11】 一起来做野生少数派周边吧](https://sspai.com/post/97049)
+* [【2025-03-11】 派早报：闪迪存储宣布涨价，HTC 发布新机等](https://sspai.com/post/97218)
+* [【2025-03-10】 派评 | 近期值得关注的 App](https://sspai.com/post/97194)
+* [【2025-03-10】 12 年老作者、教育信息化产品经理 @化学心情下2 都装了啥](https://sspai.com/prime/story/zhuanglesha-250310)
+* [【2025-03-10】 线下活动 | 「一个粉丝都没有，就不配自由职业了？」](https://sspai.com/post/97185)
+* [【2025-03-10】 《双影奇境》通关小记：一部超乎想象、精彩绝伦的双人游戏作品](https://sspai.com/post/97161)
+* [【2025-03-10】 2024，我学着和「急性子」跳一支慢舞](https://sspai.com/post/96814)
 * [【2025-03-10】 共创平台上线：每一个想法都值得被认真对待](https://sspai.com/post/97172)
 * [【2025-03-10】 派早报：苹果推迟部分 AI 功能上线](https://sspai.com/post/97169)
 * [【2025-03-09】 天降正义之初阶「赛博」养鸟手记](https://sspai.com/post/96841)
-* [【2025-03-08】 如此生活二十年，直到博物馆开张](https://sspai.com/post/96845)
-* [【2025-03-07】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/97094)
-* [【2025-03-07】 ARM 处理器 Windows 设备选购及使用指南](https://sspai.com/prime/story/arm-windows-buyers-guide)
-* [【2025-03-07】 春节自驾游：我看到了父母与现代性的距离](https://sspai.com/post/96073)
-* [【2025-03-07】 2025 笔记教程创作计划](https://sspai.com/post/96498)
-* [【2025-03-07】 派早报：AI 界新闻 4 则、大公司新闻 4 则等](https://sspai.com/post/97075)
-* [【2025-03-06】 新玩意 204｜少数派的编辑们最近买了啥？](https://sspai.com/post/97055)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-10 05:13:42
+:alarm_clock: 更新时间: 2025-03-11 05:15:45
