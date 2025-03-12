@@ -938,6 +938,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "跑多快才能看到顶点？",
+                "link": "https://sspai.com/post/96920",
+                "published": "2025-03-12"
+            },
+            {
+                "title": "派早报：Manus 将推出中文版、微信朋友圈支持发布 5 分钟长视频等",
+                "link": "https://sspai.com/post/97261",
+                "published": "2025-03-12"
+            },
+            {
+                "title": "社区速递 083 | 你没见过的社区文章、一周最热评、派友的私藏清洁工具",
+                "link": "https://sspai.com/post/97244",
+                "published": "2025-03-11"
+            },
+            {
+                "title": "本地大模型之路（三）：推理引擎和 LLM 应用",
+                "link": "https://sspai.com/post/96911",
+                "published": "2025-03-11"
+            },
+            {
                 "title": "一起来做野生少数派周边吧",
                 "link": "https://sspai.com/post/97049",
                 "published": "2025-03-11"
@@ -24513,7 +24533,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 4
     },
     {
         "id": 2,
