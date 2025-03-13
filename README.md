@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-13】 线下活动 | 京、深、杭、成，四城联动看 AI 如何超低成本接入硬件](https://sspai.com/post/97275)
+* [【2025-03-13】 派早报：OpenAI 公布全新 AI Agent 工具、Web 版 Pocket Casts 免费等](https://sspai.com/post/97296)
+* [【2025-03-12】 314 周年庆：少数派软件、会员、栏目限时优惠](https://sspai.com/post/97246)
+* [【2025-03-12】 AI 不会「吃」掉你，但焦虑可能会](https://sspai.com/post/97078)
+* [【2025-03-12】 折叠屏手机的次世代、曼妙与不尽如人意：OPPO Find N5 体验小记](https://sspai.com/post/97162)
 * [【2025-03-12】 跑多快才能看到顶点？](https://sspai.com/post/96920)
 * [【2025-03-12】 派早报：Manus 将推出中文版、微信朋友圈支持发布 5 分钟长视频等](https://sspai.com/post/97261)
 * [【2025-03-11】 社区速递 083 | 你没见过的社区文章、一周最热评、派友的私藏清洁工具](https://sspai.com/post/97244)
 * [【2025-03-11】 本地大模型之路（三）：推理引擎和 LLM 应用](https://sspai.com/post/96911)
 * [【2025-03-11】 一起来做野生少数派周边吧](https://sspai.com/post/97049)
-* [【2025-03-11】 派早报：闪迪存储宣布涨价，HTC 发布新机等](https://sspai.com/post/97218)
-* [【2025-03-10】 派评 | 近期值得关注的 App](https://sspai.com/post/97194)
-* [【2025-03-10】 12 年老作者、教育信息化产品经理 @化学心情下2 都装了啥](https://sspai.com/prime/story/zhuanglesha-250310)
-* [【2025-03-10】 线下活动 | 「一个粉丝都没有，就不配自由职业了？」](https://sspai.com/post/97185)
-* [【2025-03-10】 《双影奇境》通关小记：一部超乎想象、精彩绝伦的双人游戏作品](https://sspai.com/post/97161)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-12 05:15:41
+:alarm_clock: 更新时间: 2025-03-13 05:15:43

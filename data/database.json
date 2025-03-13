@@ -938,6 +938,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "线下活动 | 京、深、杭、成，四城联动看 AI 如何超低成本接入硬件",
+                "link": "https://sspai.com/post/97275",
+                "published": "2025-03-13"
+            },
+            {
+                "title": "派早报：OpenAI 公布全新 AI Agent 工具、Web 版 Pocket Casts 免费等",
+                "link": "https://sspai.com/post/97296",
+                "published": "2025-03-13"
+            },
+            {
+                "title": "314 周年庆：少数派软件、会员、栏目限时优惠",
+                "link": "https://sspai.com/post/97246",
+                "published": "2025-03-12"
+            },
+            {
+                "title": "AI 不会「吃」掉你，但焦虑可能会",
+                "link": "https://sspai.com/post/97078",
+                "published": "2025-03-12"
+            },
+            {
+                "title": "折叠屏手机的次世代、曼妙与不尽如人意：OPPO Find N5 体验小记",
+                "link": "https://sspai.com/post/97162",
+                "published": "2025-03-12"
+            },
+            {
                 "title": "跑多快才能看到顶点？",
                 "link": "https://sspai.com/post/96920",
                 "published": "2025-03-12"
@@ -24533,7 +24558,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
