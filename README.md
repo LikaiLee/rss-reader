@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-03-14】 科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-341.html)
 * [【2025-03-07】 科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html)
 * [【2025-03-03】 Trae 国内版出来了，真的好用吗？](http://www.ruanyifeng.com/blog/2025/03/trae.html)
 * [【2025-02-28】 科技爱好者周刊（第 339 期）：代币是什么](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html)
@@ -25,7 +26,6 @@
 * [【2025-01-24】 科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html)
 * [【2025-01-17】 科技爱好者周刊（第 334 期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html)
 * [【2025-01-16】 AI 搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html)
-* [【2025-01-10】 科技爱好者周刊（第 333 期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-14】 自信修炼：先站稳脚跟，再帮助他人](https://sspai.com/post/96986)
+* [【2025-03-14】 派早报：Google 更新 Chrome 扩展的联盟广告政策等](https://sspai.com/post/97324)
+* [【2025-03-13】 全员打造舒适办公空间，我们挑选了这些新装备](https://sspai.com/post/97301)
+* [【2025-03-13】 想要和你开启一段爱的交响：一个聊天卡牌桌游诞生记](https://sspai.com/post/97115)
+* [【2025-03-13】 值得推荐的旗舰级运动 TWS：Powerbeats Pro 2 体验](https://sspai.com/post/96965)
 * [【2025-03-13】 线下活动 | 京、深、杭、成，四城联动看 AI 如何超低成本接入硬件](https://sspai.com/post/97275)
 * [【2025-03-13】 派早报：OpenAI 公布全新 AI Agent 工具、Web 版 Pocket Casts 免费等](https://sspai.com/post/97296)
 * [【2025-03-12】 314 周年庆：少数派软件、会员、栏目限时优惠](https://sspai.com/post/97246)
 * [【2025-03-12】 AI 不会「吃」掉你，但焦虑可能会](https://sspai.com/post/97078)
 * [【2025-03-12】 折叠屏手机的次世代、曼妙与不尽如人意：OPPO Find N5 体验小记](https://sspai.com/post/97162)
-* [【2025-03-12】 跑多快才能看到顶点？](https://sspai.com/post/96920)
-* [【2025-03-12】 派早报：Manus 将推出中文版、微信朋友圈支持发布 5 分钟长视频等](https://sspai.com/post/97261)
-* [【2025-03-11】 社区速递 083 | 你没见过的社区文章、一周最热评、派友的私藏清洁工具](https://sspai.com/post/97244)
-* [【2025-03-11】 本地大模型之路（三）：推理引擎和 LLM 应用](https://sspai.com/post/96911)
-* [【2025-03-11】 一起来做野生少数派周边吧](https://sspai.com/post/97049)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-13 05:15:43
+:alarm_clock: 更新时间: 2025-03-14 05:15:17
