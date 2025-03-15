@@ -935,13 +935,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "进步的度量衡：成为自己的Switch网球教练",
+                "link": "https://sspai.com/post/97110",
+                "published": "2025-03-15"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/97348",
+                "published": "2025-03-14"
+            },
+            {
+                "title": "少数派十三周年思考，共创平台正式上线了",
+                "link": "https://sspai.com/post/97262",
+                "published": "2025-03-14"
+            },
+            {
+                "title": "让我们专注于内容：Markdown 制作幻灯片的三种方案对比",
+                "link": "https://sspai.com/post/97131",
+                "published": "2025-03-14"
+            },
+            {
+                "title": "给生活加点 π，进来看看派商店的 3.14 促销",
+                "link": "https://sspai.com/post/97305",
+                "published": "2025-03-14"
+            },
             {
                 "title": "自信修炼：先站稳脚跟，再帮助他人",
                 "link": "https://sspai.com/post/96986",
