@@ -943,6 +943,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "兑现一个两年前的承诺：流光溢彩显示器氛围灯更新小记",
+                "link": "https://sspai.com/post/97101",
+                "published": "2025-03-17"
+            },
+            {
+                "title": "派早报：3·15 晚会曝光问题初步核查处置情况公布",
+                "link": "https://sspai.com/post/97417",
+                "published": "2025-03-17"
+            },
+            {
+                "title": "与蛇共舞：一个 00 后的异宠生活札记",
+                "link": "https://sspai.com/post/96945",
+                "published": "2025-03-16"
+            },
+            {
+                "title": "进步的度量衡：成为自己的 Switch 网球教练",
+                "link": "https://sspai.com/post/97110",
+                "published": "2025-03-15"
+            },
+            {
                 "title": "进步的度量衡：成为自己的Switch网球教练",
                 "link": "https://sspai.com/post/97110",
                 "published": "2025-03-15"
@@ -24613,7 +24633,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 2,

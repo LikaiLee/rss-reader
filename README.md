@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-17】 兑现一个两年前的承诺：流光溢彩显示器氛围灯更新小记](https://sspai.com/post/97101)
+* [【2025-03-17】 派早报：3·15 晚会曝光问题初步核查处置情况公布](https://sspai.com/post/97417)
+* [【2025-03-16】 与蛇共舞：一个 00 后的异宠生活札记](https://sspai.com/post/96945)
+* [【2025-03-15】 进步的度量衡：成为自己的 Switch 网球教练](https://sspai.com/post/97110)
 * [【2025-03-15】 进步的度量衡：成为自己的Switch网球教练](https://sspai.com/post/97110)
 * [【2025-03-14】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/97348)
 * [【2025-03-14】 少数派十三周年思考，共创平台正式上线了](https://sspai.com/post/97262)
 * [【2025-03-14】 让我们专注于内容：Markdown 制作幻灯片的三种方案对比](https://sspai.com/post/97131)
 * [【2025-03-14】 给生活加点 π，进来看看派商店的 3.14 促销](https://sspai.com/post/97305)
 * [【2025-03-14】 自信修炼：先站稳脚跟，再帮助他人](https://sspai.com/post/96986)
-* [【2025-03-14】 派早报：Google 更新 Chrome 扩展的联盟广告政策等](https://sspai.com/post/97324)
-* [【2025-03-13】 全员打造舒适办公空间，我们挑选了这些新装备](https://sspai.com/post/97301)
-* [【2025-03-13】 想要和你开启一段爱的交响：一个聊天卡牌桌游诞生记](https://sspai.com/post/97115)
-* [【2025-03-13】 值得推荐的旗舰级运动 TWS：Powerbeats Pro 2 体验](https://sspai.com/post/96965)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-16 05:14:30
+:alarm_clock: 更新时间: 2025-03-17 05:16:14
