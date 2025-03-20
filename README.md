@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-20】 在 Windows「摸鱼」、移动版应用「多开」：应用宝专区上线微软应用商店](https://sspai.com/post/97516)
+* [【2025-03-20】 派早报：Google 发布 Pixel 9a、乐高推出宝可梦主题套装等](https://sspai.com/post/97563)
+* [【2025-03-19】 全新配色、补贴助阵，2025 年的 Mac 选购指南](https://sspai.com/post/85735)
+* [【2025-03-19】 一把键盘的设计由何而起：解读经典设计图谱](https://sspai.com/prime/story/classic-keyboard-designs-revisited)
+* [【2025-03-19】 GAMEBABY 的「好搭档」：Delta 模拟器的前世今生](https://sspai.com/post/88299)
 * [【2025-03-19】 逆流 —— 在 AI 加持的信息过载时代进行自媒体探索](https://sspai.com/post/97105)
 * [【2025-03-19】 派早报：OPPO A5 活力版发布、Pebble 智能手表产品线重启并推出新品等](https://sspai.com/post/97518)
 * [【2025-03-18】 社区速递 084 | 你没见过的社区文章、一周最热评、派友的灵动岛之见](https://sspai.com/post/97476)
 * [【2025-03-18】 那些被 Apple 收购的公司，现在怎么样了？](https://sspai.com/post/97355)
 * [【2025-03-18】 我好吗？太阳照常升起：走出心绪里的 2024](https://sspai.com/post/97087)
-* [【2025-03-17】 派早报：高通发布三款骁龙 G 系列游戏平台等](https://sspai.com/post/97469)
-* [【2025-03-17】 派评 | 近期值得关注的 App](https://sspai.com/post/97452)
-* [【2025-03-17】 五万公里的陪伴，小鹏 P7 使用体验分享](https://sspai.com/post/96626)
-* [【2025-03-17】 在 iPhone 上畅玩复古游戏，GAMEBABY 手机壳](https://sspai.com/post/97408)
-* [【2025-03-17】 兑现一个两年前的承诺：流光溢彩显示器氛围灯更新小记](https://sspai.com/post/97101)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-19 05:15:54
+:alarm_clock: 更新时间: 2025-03-20 05:15:48

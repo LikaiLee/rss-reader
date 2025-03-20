@@ -943,6 +943,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "在 Windows「摸鱼」、移动版应用「多开」：应用宝专区上线微软应用商店",
+                "link": "https://sspai.com/post/97516",
+                "published": "2025-03-20"
+            },
+            {
+                "title": "派早报：Google 发布 Pixel 9a、乐高推出宝可梦主题套装等",
+                "link": "https://sspai.com/post/97563",
+                "published": "2025-03-20"
+            },
+            {
+                "title": "全新配色、补贴助阵，2025 年的 Mac 选购指南",
+                "link": "https://sspai.com/post/85735",
+                "published": "2025-03-19"
+            },
+            {
+                "title": "一把键盘的设计由何而起：解读经典设计图谱",
+                "link": "https://sspai.com/prime/story/classic-keyboard-designs-revisited",
+                "published": "2025-03-19"
+            },
+            {
+                "title": "GAMEBABY 的「好搭档」：Delta 模拟器的前世今生",
+                "link": "https://sspai.com/post/88299",
+                "published": "2025-03-19"
+            },
+            {
                 "title": "逆流 —— 在 AI 加持的信息过载时代进行自媒体探索",
                 "link": "https://sspai.com/post/97105",
                 "published": "2025-03-19"
@@ -24678,7 +24703,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
