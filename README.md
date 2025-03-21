@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-03-21】 科技爱好者周刊（第 342 期）：面试的 AI 作弊----用数字人去面试](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-342.html)
 * [【2025-03-14】 科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-341.html)
 * [【2025-03-07】 科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html)
 * [【2025-03-03】 Trae 国内版出来了，真的好用吗？](http://www.ruanyifeng.com/blog/2025/03/trae.html)
@@ -25,7 +26,6 @@
 * [【2025-02-07】 科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)
 * [【2025-01-24】 科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html)
 * [【2025-01-17】 科技爱好者周刊（第 334 期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html)
-* [【2025-01-16】 AI 搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-21】 买一台十年前的徕卡 Q：比富士好看，也更有性价比](https://sspai.com/post/95603)
+* [【2025-03-21】 派早报：华为正式发布了 Pura X 阔折叠手机等产品等](https://sspai.com/post/97605)
+* [【2025-03-20】 新玩意 205｜少数派的编辑们最近买了啥？](https://sspai.com/post/97576)
+* [【2025-03-20】 春分时节，用一锅冬去春来饭碰撞南北食趣](https://sspai.com/post/97389)
 * [【2025-03-20】 在 Windows「摸鱼」、移动版应用「多开」：应用宝专区上线微软应用商店](https://sspai.com/post/97516)
 * [【2025-03-20】 派早报：Google 发布 Pixel 9a、乐高推出宝可梦主题套装等](https://sspai.com/post/97563)
 * [【2025-03-19】 全新配色、补贴助阵，2025 年的 Mac 选购指南](https://sspai.com/post/85735)
 * [【2025-03-19】 一把键盘的设计由何而起：解读经典设计图谱](https://sspai.com/prime/story/classic-keyboard-designs-revisited)
 * [【2025-03-19】 GAMEBABY 的「好搭档」：Delta 模拟器的前世今生](https://sspai.com/post/88299)
 * [【2025-03-19】 逆流 —— 在 AI 加持的信息过载时代进行自媒体探索](https://sspai.com/post/97105)
-* [【2025-03-19】 派早报：OPPO A5 活力版发布、Pebble 智能手表产品线重启并推出新品等](https://sspai.com/post/97518)
-* [【2025-03-18】 社区速递 084 | 你没见过的社区文章、一周最热评、派友的灵动岛之见](https://sspai.com/post/97476)
-* [【2025-03-18】 那些被 Apple 收购的公司，现在怎么样了？](https://sspai.com/post/97355)
-* [【2025-03-18】 我好吗？太阳照常升起：走出心绪里的 2024](https://sspai.com/post/97087)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-20 05:15:48
+:alarm_clock: 更新时间: 2025-03-21 05:15:35
