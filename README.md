@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2025-03-21】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/97625)
+* [【2025-03-21】 GAMEBABY「好搭档」：Delta 模拟器完全上手指南](https://sspai.com/post/97045)
 * [【2025-03-21】 买一台十年前的徕卡 Q：比富士好看，也更有性价比](https://sspai.com/post/95603)
 * [【2025-03-21】 派早报：华为正式发布了 Pura X 阔折叠手机等产品等](https://sspai.com/post/97605)
 * [【2025-03-20】 新玩意 205｜少数派的编辑们最近买了啥？](https://sspai.com/post/97576)
@@ -43,8 +45,6 @@
 * [【2025-03-20】 派早报：Google 发布 Pixel 9a、乐高推出宝可梦主题套装等](https://sspai.com/post/97563)
 * [【2025-03-19】 全新配色、补贴助阵，2025 年的 Mac 选购指南](https://sspai.com/post/85735)
 * [【2025-03-19】 一把键盘的设计由何而起：解读经典设计图谱](https://sspai.com/prime/story/classic-keyboard-designs-revisited)
-* [【2025-03-19】 GAMEBABY 的「好搭档」：Delta 模拟器的前世今生](https://sspai.com/post/88299)
-* [【2025-03-19】 逆流 —— 在 AI 加持的信息过载时代进行自媒体探索](https://sspai.com/post/97105)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-21 05:15:35
+:alarm_clock: 更新时间: 2025-03-22 05:14:55
