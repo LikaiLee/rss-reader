@@ -948,6 +948,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "「主机战争」终于结束了吗？",
+                "link": "https://sspai.com/post/97618",
+                "published": "2025-03-22"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/97625",
                 "published": "2025-03-21"
@@ -24738,7 +24743,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
