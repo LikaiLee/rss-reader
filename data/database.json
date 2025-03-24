@@ -948,6 +948,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Apple Notes 中的 PARA 笔记法实践",
+                "link": "https://sspai.com/post/96663",
+                "published": "2025-03-24"
+            },
+            {
+                "title": "派早报：人脸识别新规禁止强制刷脸进小区",
+                "link": "https://sspai.com/post/97678",
+                "published": "2025-03-24"
+            },
+            {
+                "title": "2024：真实世界里的爱与失去",
+                "link": "https://sspai.com/post/97132",
+                "published": "2025-03-23"
+            },
+            {
                 "title": "「主机战争」终于结束了吗？",
                 "link": "https://sspai.com/post/97618",
                 "published": "2025-03-22"
@@ -24743,7 +24758,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

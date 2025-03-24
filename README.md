@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-03-24】 Apple Notes 中的 PARA 笔记法实践](https://sspai.com/post/96663)
+* [【2025-03-24】 派早报：人脸识别新规禁止强制刷脸进小区](https://sspai.com/post/97678)
+* [【2025-03-23】 2024：真实世界里的爱与失去](https://sspai.com/post/97132)
 * [【2025-03-22】 「主机战争」终于结束了吗？](https://sspai.com/post/97618)
 * [【2025-03-21】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/97625)
 * [【2025-03-21】 GAMEBABY「好搭档」：Delta 模拟器完全上手指南](https://sspai.com/post/97045)
@@ -42,9 +45,6 @@
 * [【2025-03-21】 派早报：华为正式发布了 Pura X 阔折叠手机等产品等](https://sspai.com/post/97605)
 * [【2025-03-20】 新玩意 205｜少数派的编辑们最近买了啥？](https://sspai.com/post/97576)
 * [【2025-03-20】 春分时节，用一锅冬去春来饭碰撞南北食趣](https://sspai.com/post/97389)
-* [【2025-03-20】 在 Windows「摸鱼」、移动版应用「多开」：应用宝专区上线微软应用商店](https://sspai.com/post/97516)
-* [【2025-03-20】 派早报：Google 发布 Pixel 9a、乐高推出宝可梦主题套装等](https://sspai.com/post/97563)
-* [【2025-03-19】 全新配色、补贴助阵，2025 年的 Mac 选购指南](https://sspai.com/post/85735)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-23 05:14:48
+:alarm_clock: 更新时间: 2025-03-24 05:16:29
