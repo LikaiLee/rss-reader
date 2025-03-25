@@ -948,6 +948,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "38 岁从 0 开始，我如何在 AI 辅助下做出自己的 App",
+                "link": "https://sspai.com/post/97076",
+                "published": "2025-03-25"
+            },
+            {
+                "title": "派早报：微信卡包支持铁路电子发票保存等",
+                "link": "https://sspai.com/post/97727",
+                "published": "2025-03-25"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/97708",
+                "published": "2025-03-24"
+            },
+            {
+                "title": "[送码] 好看、好用、有趣，Mac 截图工具新选择：1Capture",
+                "link": "https://sspai.com/post/97603",
+                "published": "2025-03-24"
+            },
+            {
                 "title": "Apple Notes 中的 PARA 笔记法实践",
                 "link": "https://sspai.com/post/96663",
                 "published": "2025-03-24"
@@ -24758,7 +24778,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
