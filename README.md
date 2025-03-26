@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-26】 对话应用开发者与 Apple 首席运营官：手腕上的健康新生态](https://sspai.com/post/97751)
+* [【2025-03-26】 派早报：WWDC25 将于 6 月 10 日举行、Google 推出 Gemini 2.5 更新等](https://sspai.com/post/97776)
+* [【2025-03-25】 社区速递 085 | 你没见过的社区文章、一周最热评、派友的换季收纳法则](https://sspai.com/post/97749)
+* [【2025-03-25】 在本地搭建私有翻译服务：MTranServer 上手指南](https://sspai.com/prime/story/MTranServer-tutorial)
+* [【2025-03-25】 换了颗芯，能有多不一样：Surface Pro 11 中期体验报告](https://sspai.com/post/97739)
 * [【2025-03-25】 38 岁从 0 开始，我如何在 AI 辅助下做出自己的 App](https://sspai.com/post/97076)
 * [【2025-03-25】 派早报：微信卡包支持铁路电子发票保存等](https://sspai.com/post/97727)
 * [【2025-03-24】 派评 | 近期值得关注的 App](https://sspai.com/post/97708)
 * [【2025-03-24】 [送码] 好看、好用、有趣，Mac 截图工具新选择：1Capture](https://sspai.com/post/97603)
 * [【2025-03-24】 Apple Notes 中的 PARA 笔记法实践](https://sspai.com/post/96663)
-* [【2025-03-24】 派早报：人脸识别新规禁止强制刷脸进小区](https://sspai.com/post/97678)
-* [【2025-03-23】 2024：真实世界里的爱与失去](https://sspai.com/post/97132)
-* [【2025-03-22】 「主机战争」终于结束了吗？](https://sspai.com/post/97618)
-* [【2025-03-21】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/97625)
-* [【2025-03-21】 GAMEBABY「好搭档」：Delta 模拟器完全上手指南](https://sspai.com/post/97045)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-25 05:17:14
+:alarm_clock: 更新时间: 2025-03-26 05:15:56

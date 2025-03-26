@@ -948,6 +948,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "对话应用开发者与 Apple 首席运营官：手腕上的健康新生态",
+                "link": "https://sspai.com/post/97751",
+                "published": "2025-03-26"
+            },
+            {
+                "title": "派早报：WWDC25 将于 6 月 10 日举行、Google 推出 Gemini 2.5 更新等",
+                "link": "https://sspai.com/post/97776",
+                "published": "2025-03-26"
+            },
+            {
+                "title": "社区速递 085 | 你没见过的社区文章、一周最热评、派友的换季收纳法则",
+                "link": "https://sspai.com/post/97749",
+                "published": "2025-03-25"
+            },
+            {
+                "title": "在本地搭建私有翻译服务：MTranServer 上手指南",
+                "link": "https://sspai.com/prime/story/MTranServer-tutorial",
+                "published": "2025-03-25"
+            },
+            {
+                "title": "换了颗芯，能有多不一样：Surface Pro 11 中期体验报告",
+                "link": "https://sspai.com/post/97739",
+                "published": "2025-03-25"
+            },
+            {
                 "title": "38 岁从 0 开始，我如何在 AI 辅助下做出自己的 App",
                 "link": "https://sspai.com/post/97076",
                 "published": "2025-03-25"
@@ -24778,7 +24803,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
