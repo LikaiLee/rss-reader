@@ -948,6 +948,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "ChatGPT 4o 更新的图像能力，效果值得让人激动吗？",
+                "link": "https://sspai.com/post/97797",
+                "published": "2025-03-27"
+            },
+            {
+                "title": "派早报：英伟达推出 G-Assist、Opera 推出 Android 版大更新等",
+                "link": "https://sspai.com/post/97821",
+                "published": "2025-03-27"
+            },
+            {
+                "title": "小米 Buds 5 Pro 降噪真无线耳机体验 - TDS REVIEW",
+                "link": "https://sspai.com/post/97411",
+                "published": "2025-03-26"
+            },
+            {
+                "title": "一走路胯骨轴子咔咔响，我这腿还有救吗？",
+                "link": "https://sspai.com/post/97575",
+                "published": "2025-03-26"
+            },
+            {
                 "title": "对话应用开发者与 Apple 首席运营官：手腕上的健康新生态",
                 "link": "https://sspai.com/post/97751",
                 "published": "2025-03-26"
@@ -24803,7 +24823,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

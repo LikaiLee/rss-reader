@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-27】 ChatGPT 4o 更新的图像能力，效果值得让人激动吗？](https://sspai.com/post/97797)
+* [【2025-03-27】 派早报：英伟达推出 G-Assist、Opera 推出 Android 版大更新等](https://sspai.com/post/97821)
+* [【2025-03-26】 小米 Buds 5 Pro 降噪真无线耳机体验 - TDS REVIEW](https://sspai.com/post/97411)
+* [【2025-03-26】 一走路胯骨轴子咔咔响，我这腿还有救吗？](https://sspai.com/post/97575)
 * [【2025-03-26】 对话应用开发者与 Apple 首席运营官：手腕上的健康新生态](https://sspai.com/post/97751)
 * [【2025-03-26】 派早报：WWDC25 将于 6 月 10 日举行、Google 推出 Gemini 2.5 更新等](https://sspai.com/post/97776)
 * [【2025-03-25】 社区速递 085 | 你没见过的社区文章、一周最热评、派友的换季收纳法则](https://sspai.com/post/97749)
 * [【2025-03-25】 在本地搭建私有翻译服务：MTranServer 上手指南](https://sspai.com/prime/story/MTranServer-tutorial)
 * [【2025-03-25】 换了颗芯，能有多不一样：Surface Pro 11 中期体验报告](https://sspai.com/post/97739)
 * [【2025-03-25】 38 岁从 0 开始，我如何在 AI 辅助下做出自己的 App](https://sspai.com/post/97076)
-* [【2025-03-25】 派早报：微信卡包支持铁路电子发票保存等](https://sspai.com/post/97727)
-* [【2025-03-24】 派评 | 近期值得关注的 App](https://sspai.com/post/97708)
-* [【2025-03-24】 [送码] 好看、好用、有趣，Mac 截图工具新选择：1Capture](https://sspai.com/post/97603)
-* [【2025-03-24】 Apple Notes 中的 PARA 笔记法实践](https://sspai.com/post/96663)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-26 05:15:56
+:alarm_clock: 更新时间: 2025-03-27 05:16:28
