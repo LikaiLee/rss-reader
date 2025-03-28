@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-03-28】 科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html)
 * [【2025-03-21】 科技爱好者周刊（第 342 期）：面试的 AI 作弊----用数字人去面试](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-342.html)
 * [【2025-03-14】 科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-341.html)
 * [【2025-03-07】 科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html)
@@ -25,7 +26,6 @@
 * [【2025-02-14】 科技爱好者周刊（第 337 期）：互联网创业几乎没了](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html)
 * [【2025-02-07】 科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)
 * [【2025-01-24】 科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html)
-* [【2025-01-17】 科技爱好者周刊（第 334 期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-03-28】 JustWrite: 自媒体人为自己定制的写作软件](https://sspai.com/post/97565)
+* [【2025-03-28】 派早报：微软推出全新登录界面、长城汽车宣布 CarPlay 即将上线等](https://sspai.com/post/97859)
+* [【2025-03-27】 从通勤到远方，我的乐道电车生活启程记](https://sspai.com/post/97231)
+* [【2025-03-27】 App+1 | 让专注带你跨越山海，更有沉浸感和仪式感的计时器：专注飞机](https://sspai.com/post/97448)
 * [【2025-03-27】 ChatGPT 4o 更新的图像能力，效果值得让人激动吗？](https://sspai.com/post/97797)
 * [【2025-03-27】 派早报：英伟达推出 G-Assist、Opera 推出 Android 版大更新等](https://sspai.com/post/97821)
 * [【2025-03-26】 小米 Buds 5 Pro 降噪真无线耳机体验 - TDS REVIEW](https://sspai.com/post/97411)
 * [【2025-03-26】 一走路胯骨轴子咔咔响，我这腿还有救吗？](https://sspai.com/post/97575)
 * [【2025-03-26】 对话应用开发者与 Apple 首席运营官：手腕上的健康新生态](https://sspai.com/post/97751)
 * [【2025-03-26】 派早报：WWDC25 将于 6 月 10 日举行、Google 推出 Gemini 2.5 更新等](https://sspai.com/post/97776)
-* [【2025-03-25】 社区速递 085 | 你没见过的社区文章、一周最热评、派友的换季收纳法则](https://sspai.com/post/97749)
-* [【2025-03-25】 在本地搭建私有翻译服务：MTranServer 上手指南](https://sspai.com/prime/story/MTranServer-tutorial)
-* [【2025-03-25】 换了颗芯，能有多不一样：Surface Pro 11 中期体验报告](https://sspai.com/post/97739)
-* [【2025-03-25】 38 岁从 0 开始，我如何在 AI 辅助下做出自己的 App](https://sspai.com/post/97076)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-27 05:16:28
+:alarm_clock: 更新时间: 2025-03-28 05:16:07

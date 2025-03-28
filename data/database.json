@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫",
+                "link": "http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html",
+                "published": "2025-03-28"
+            },
+            {
                 "title": "科技爱好者周刊（第 342 期）：面试的 AI 作弊----用数字人去面试",
                 "link": "http://www.ruanyifeng.com/blog/2025/03/weekly-issue-342.html",
                 "published": "2025-03-21"
@@ -940,13 +945,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "JustWrite: 自媒体人为自己定制的写作软件",
+                "link": "https://sspai.com/post/97565",
+                "published": "2025-03-28"
+            },
+            {
+                "title": "派早报：微软推出全新登录界面、长城汽车宣布 CarPlay 即将上线等",
+                "link": "https://sspai.com/post/97859",
+                "published": "2025-03-28"
+            },
+            {
+                "title": "从通勤到远方，我的乐道电车生活启程记",
+                "link": "https://sspai.com/post/97231",
+                "published": "2025-03-27"
+            },
+            {
+                "title": "App+1 | 让专注带你跨越山海，更有沉浸感和仪式感的计时器：专注飞机",
+                "link": "https://sspai.com/post/97448",
+                "published": "2025-03-27"
+            },
             {
                 "title": "ChatGPT 4o 更新的图像能力，效果值得让人激动吗？",
                 "link": "https://sspai.com/post/97797",
