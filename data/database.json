@@ -945,13 +945,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "三段奇遇，三种风格：见证 Apple 生态在中国的落地与成长",
+                "link": "https://sspai.com/post/97874",
+                "published": "2025-03-29"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/97873",
+                "published": "2025-03-28"
+            },
+            {
+                "title": "中年攀岩记：新体验是人生的局部重启",
+                "link": "https://sspai.com/post/96909",
+                "published": "2025-03-28"
+            },
             {
                 "title": "JustWrite: 自媒体人为自己定制的写作软件",
                 "link": "https://sspai.com/post/97565",
@@ -24848,7 +24863,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
