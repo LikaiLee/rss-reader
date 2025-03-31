@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-03-31】 让过去永不过时：为什么我更相信开源？](https://sspai.com/post/95573)
+* [【2025-03-31】 派早报：马斯克通过左右手收购将 X 并入 xAI](https://sspai.com/post/97936)
+* [【2025-03-30】 看什么特别篇 | 从《初步举证》看法律真相、证明责任与工具理性](https://sspai.com/post/97857)
 * [【2025-03-29】 三段奇遇，三种风格：见证 Apple 生态在中国的落地与成长](https://sspai.com/post/97874)
 * [【2025-03-28】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/97873)
 * [【2025-03-28】 中年攀岩记：新体验是人生的局部重启](https://sspai.com/post/96909)
@@ -42,9 +45,6 @@
 * [【2025-03-28】 派早报：微软推出全新登录界面、长城汽车宣布 CarPlay 即将上线等](https://sspai.com/post/97859)
 * [【2025-03-27】 从通勤到远方，我的乐道电车生活启程记](https://sspai.com/post/97231)
 * [【2025-03-27】 App+1 | 让专注带你跨越山海，更有沉浸感和仪式感的计时器：专注飞机](https://sspai.com/post/97448)
-* [【2025-03-27】 ChatGPT 4o 更新的图像能力，效果值得让人激动吗？](https://sspai.com/post/97797)
-* [【2025-03-27】 派早报：英伟达推出 G-Assist、Opera 推出 Android 版大更新等](https://sspai.com/post/97821)
-* [【2025-03-26】 小米 Buds 5 Pro 降噪真无线耳机体验 - TDS REVIEW](https://sspai.com/post/97411)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-03-30 05:14:56
+:alarm_clock: 更新时间: 2025-03-31 05:16:54
