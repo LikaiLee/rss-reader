@@ -953,6 +953,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Easier Done than Said —— 英语不是「学」好的",
+                "link": "https://sspai.com/post/97343",
+                "published": "2025-04-01"
+            },
+            {
+                "title": "派早报：vivo 发布 Y300 Pro+ 等新机等",
+                "link": "https://sspai.com/post/97979",
+                "published": "2025-04-01"
+            },
+            {
+                "title": "本月玩什么 | 双影奇境、刺客信条：影、Wandershop",
+                "link": "https://sspai.com/post/97976",
+                "published": "2025-03-31"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/97961",
+                "published": "2025-03-31"
+            },
+            {
+                "title": "Android 内置 Linux 虚拟机上手体验",
+                "link": "https://sspai.com/prime/story/get-started-with-linux-vm-on-android",
+                "published": "2025-03-31"
+            },
+            {
                 "title": "让过去永不过时：为什么我更相信开源？",
                 "link": "https://sspai.com/post/95573",
                 "published": "2025-03-31"
@@ -24878,7 +24903,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
