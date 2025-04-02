@@ -953,6 +953,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我做了个 B 站历史记录分析工具：用开源工具找回你的「数字记忆」",
+                "link": "https://sspai.com/post/97392",
+                "published": "2025-04-02"
+            },
+            {
+                "title": "派早报：网易发布有道 OpenEar 开放式耳机等",
+                "link": "https://sspai.com/post/98009",
+                "published": "2025-04-02"
+            },
+            {
+                "title": "社区速递 086 | 你没见过的社区文章、一周最热评、派友二月买了啥？",
+                "link": "https://sspai.com/post/97990",
+                "published": "2025-04-01"
+            },
+            {
+                "title": "iOS 18.4 中值得关注的新特性",
+                "link": "https://sspai.com/post/97981",
+                "published": "2025-04-01"
+            },
+            {
                 "title": "Easier Done than Said —— 英语不是「学」好的",
                 "link": "https://sspai.com/post/97343",
                 "published": "2025-04-01"
@@ -24903,7 +24923,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

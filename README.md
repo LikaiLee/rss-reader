@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-04-02】 我做了个 B 站历史记录分析工具：用开源工具找回你的「数字记忆」](https://sspai.com/post/97392)
+* [【2025-04-02】 派早报：网易发布有道 OpenEar 开放式耳机等](https://sspai.com/post/98009)
+* [【2025-04-01】 社区速递 086 | 你没见过的社区文章、一周最热评、派友二月买了啥？](https://sspai.com/post/97990)
+* [【2025-04-01】 iOS 18.4 中值得关注的新特性](https://sspai.com/post/97981)
 * [【2025-04-01】 Easier Done than Said —— 英语不是「学」好的](https://sspai.com/post/97343)
 * [【2025-04-01】 派早报：vivo 发布 Y300 Pro+ 等新机等](https://sspai.com/post/97979)
 * [【2025-03-31】 本月玩什么 | 双影奇境、刺客信条：影、Wandershop](https://sspai.com/post/97976)
 * [【2025-03-31】 派评 | 近期值得关注的 App](https://sspai.com/post/97961)
 * [【2025-03-31】 Android 内置 Linux 虚拟机上手体验](https://sspai.com/prime/story/get-started-with-linux-vm-on-android)
 * [【2025-03-31】 让过去永不过时：为什么我更相信开源？](https://sspai.com/post/95573)
-* [【2025-03-31】 派早报：马斯克通过左右手收购将 X 并入 xAI](https://sspai.com/post/97936)
-* [【2025-03-30】 看什么特别篇 | 从《初步举证》看法律真相、证明责任与工具理性](https://sspai.com/post/97857)
-* [【2025-03-29】 三段奇遇，三种风格：见证 Apple 生态在中国的落地与成长](https://sspai.com/post/97874)
-* [【2025-03-28】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/97873)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-04-01 05:16:40
+:alarm_clock: 更新时间: 2025-04-02 05:17:56
