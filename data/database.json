@@ -953,6 +953,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "快捷指令｜这才是麦门信徒该有的充电提示音",
+                "link": "https://sspai.com/post/97856",
+                "published": "2025-04-03"
+            },
+            {
+                "title": "派早报：Nintendo Switch 2 公布发售计划、高通推出骁龙 8s Gen4 等",
+                "link": "https://sspai.com/post/98046",
+                "published": "2025-04-03"
+            },
+            {
+                "title": "派晚报：2025 年愚人节产品大赏",
+                "link": "https://sspai.com/post/98030",
+                "published": "2025-04-02"
+            },
+            {
+                "title": "好看又能玩的 GAMEBABY 游戏手机壳，他们这样说……",
+                "link": "https://sspai.com/post/97994",
+                "published": "2025-04-02"
+            },
+            {
+                "title": "2024 年度征文获奖结果公布",
+                "link": "https://sspai.com/post/98024",
+                "published": "2025-04-02"
+            },
+            {
                 "title": "我做了个 B 站历史记录分析工具：用开源工具找回你的「数字记忆」",
                 "link": "https://sspai.com/post/97392",
                 "published": "2025-04-02"
@@ -24923,7 +24948,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
