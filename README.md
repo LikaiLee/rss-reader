@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-04-03】 新玩意 206｜少数派的编辑们最近买了啥？](https://sspai.com/post/98062)
+* [【2025-04-03】 敢让 AI 接管你的方向盘吗？理想汽车万里 NOA 实测招募](https://sspai.com/post/97983)
+* [【2025-04-03】 移动应用创新赛十周年，Tim Cook 点赞中国应用生态](https://sspai.com/post/98032)
 * [【2025-04-03】 快捷指令｜这才是麦门信徒该有的充电提示音](https://sspai.com/post/97856)
 * [【2025-04-03】 派早报：Nintendo Switch 2 公布发售计划、高通推出骁龙 8s Gen4 等](https://sspai.com/post/98046)
 * [【2025-04-02】 派晚报：2025 年愚人节产品大赏](https://sspai.com/post/98030)
@@ -42,9 +45,6 @@
 * [【2025-04-02】 2024 年度征文获奖结果公布](https://sspai.com/post/98024)
 * [【2025-04-02】 我做了个 B 站历史记录分析工具：用开源工具找回你的「数字记忆」](https://sspai.com/post/97392)
 * [【2025-04-02】 派早报：网易发布有道 OpenEar 开放式耳机等](https://sspai.com/post/98009)
-* [【2025-04-01】 社区速递 086 | 你没见过的社区文章、一周最热评、派友二月买了啥？](https://sspai.com/post/97990)
-* [【2025-04-01】 iOS 18.4 中值得关注的新特性](https://sspai.com/post/97981)
-* [【2025-04-01】 Easier Done than Said —— 英语不是「学」好的](https://sspai.com/post/97343)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-04-03 05:16:27
+:alarm_clock: 更新时间: 2025-04-04 05:17:10
