@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2025-04-05】 为了找到最合适自己的「垃圾」电脑，我在闲鱼上是这样捡的](https://sspai.com/post/97083)
+* [【2025-04-04】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/98052)
 * [【2025-04-03】 新玩意 206｜少数派的编辑们最近买了啥？](https://sspai.com/post/98062)
 * [【2025-04-03】 敢让 AI 接管你的方向盘吗？理想汽车万里 NOA 实测招募](https://sspai.com/post/97983)
 * [【2025-04-03】 移动应用创新赛十周年，Tim Cook 点赞中国应用生态](https://sspai.com/post/98032)
@@ -43,8 +45,6 @@
 * [【2025-04-02】 派晚报：2025 年愚人节产品大赏](https://sspai.com/post/98030)
 * [【2025-04-02】 好看又能玩的 GAMEBABY 游戏手机壳，他们这样说……](https://sspai.com/post/97994)
 * [【2025-04-02】 2024 年度征文获奖结果公布](https://sspai.com/post/98024)
-* [【2025-04-02】 我做了个 B 站历史记录分析工具：用开源工具找回你的「数字记忆」](https://sspai.com/post/97392)
-* [【2025-04-02】 派早报：网易发布有道 OpenEar 开放式耳机等](https://sspai.com/post/98009)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-04-04 05:17:10
+:alarm_clock: 更新时间: 2025-04-05 05:16:30
