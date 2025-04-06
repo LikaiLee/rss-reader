@@ -953,6 +953,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "共创栏目预览 | 视频修复之旅，从认识 Vapoursynth 开始",
+                "link": "https://sspai.com/post/98054",
+                "published": "2025-04-05"
+            },
+            {
                 "title": "为了找到最合适自己的「垃圾」电脑，我在闲鱼上是这样捡的",
                 "link": "https://sspai.com/post/97083",
                 "published": "2025-04-05"
@@ -24973,7 +24978,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
