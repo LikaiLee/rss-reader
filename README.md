@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-04-07】 观点 | 为什么我认为《怪物猎人》不那么好玩了](https://sspai.com/post/97668)
+* [【2025-04-07】 派早报：Meta 推出 Llama 4 系列模型](https://sspai.com/post/98139)
+* [【2025-04-06】 Circle to Search, XOXO：「圈定即搜」功能交互解析与入门指南](https://sspai.com/post/97858)
 * [【2025-04-05】 共创栏目预览 | 视频修复之旅，从认识 Vapoursynth 开始](https://sspai.com/post/98054)
 * [【2025-04-05】 为了找到最合适自己的「垃圾」电脑，我在闲鱼上是这样捡的](https://sspai.com/post/97083)
 * [【2025-04-04】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/98052)
@@ -42,9 +45,6 @@
 * [【2025-04-03】 敢让 AI 接管你的方向盘吗？理想汽车万里 NOA 实测招募](https://sspai.com/post/97983)
 * [【2025-04-03】 移动应用创新赛十周年，Tim Cook 点赞中国应用生态](https://sspai.com/post/98032)
 * [【2025-04-03】 快捷指令｜这才是麦门信徒该有的充电提示音](https://sspai.com/post/97856)
-* [【2025-04-03】 派早报：Nintendo Switch 2 公布发售计划、高通推出骁龙 8s Gen4 等](https://sspai.com/post/98046)
-* [【2025-04-02】 派晚报：2025 年愚人节产品大赏](https://sspai.com/post/98030)
-* [【2025-04-02】 好看又能玩的 GAMEBABY 游戏手机壳，他们这样说……](https://sspai.com/post/97994)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-04-06 05:15:19
+:alarm_clock: 更新时间: 2025-04-07 05:17:19

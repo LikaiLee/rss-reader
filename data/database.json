@@ -953,6 +953,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "观点 | 为什么我认为《怪物猎人》不那么好玩了",
+                "link": "https://sspai.com/post/97668",
+                "published": "2025-04-07"
+            },
+            {
+                "title": "派早报：Meta 推出 Llama 4 系列模型",
+                "link": "https://sspai.com/post/98139",
+                "published": "2025-04-07"
+            },
+            {
+                "title": "Circle to Search, XOXO：「圈定即搜」功能交互解析与入门指南",
+                "link": "https://sspai.com/post/97858",
+                "published": "2025-04-06"
+            },
+            {
                 "title": "共创栏目预览 | 视频修复之旅，从认识 Vapoursynth 开始",
                 "link": "https://sspai.com/post/98054",
                 "published": "2025-04-05"
@@ -24978,7 +24993,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
