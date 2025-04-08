@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-04-08】 让枯燥理论生动有趣：Genspark 智能代理教育应用实例](https://sspai.com/post/98083)
+* [【2025-04-08】 派早报：GPMI 标准正式发布等](https://sspai.com/post/98171)
+* [【2025-04-07】 派评 | 近期值得关注的 App](https://sspai.com/post/98162)
+* [【2025-04-07】 那些被微软收购的公司，现在怎么样了？](https://sspai.com/post/97624)
 * [【2025-04-07】 观点 | 为什么我认为《怪物猎人》不那么好玩了](https://sspai.com/post/97668)
 * [【2025-04-07】 派早报：Meta 推出 Llama 4 系列模型](https://sspai.com/post/98139)
 * [【2025-04-06】 Circle to Search, XOXO：「圈定即搜」功能交互解析与入门指南](https://sspai.com/post/97858)
 * [【2025-04-05】 共创栏目预览 | 视频修复之旅，从认识 Vapoursynth 开始](https://sspai.com/post/98054)
 * [【2025-04-05】 为了找到最合适自己的「垃圾」电脑，我在闲鱼上是这样捡的](https://sspai.com/post/97083)
 * [【2025-04-04】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/98052)
-* [【2025-04-03】 新玩意 206｜少数派的编辑们最近买了啥？](https://sspai.com/post/98062)
-* [【2025-04-03】 敢让 AI 接管你的方向盘吗？理想汽车万里 NOA 实测招募](https://sspai.com/post/97983)
-* [【2025-04-03】 移动应用创新赛十周年，Tim Cook 点赞中国应用生态](https://sspai.com/post/98032)
-* [【2025-04-03】 快捷指令｜这才是麦门信徒该有的充电提示音](https://sspai.com/post/97856)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-04-07 05:17:19
+:alarm_clock: 更新时间: 2025-04-08 05:16:24

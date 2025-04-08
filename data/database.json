@@ -953,6 +953,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "让枯燥理论生动有趣：Genspark 智能代理教育应用实例",
+                "link": "https://sspai.com/post/98083",
+                "published": "2025-04-08"
+            },
+            {
+                "title": "派早报：GPMI 标准正式发布等",
+                "link": "https://sspai.com/post/98171",
+                "published": "2025-04-08"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/98162",
+                "published": "2025-04-07"
+            },
+            {
+                "title": "那些被微软收购的公司，现在怎么样了？",
+                "link": "https://sspai.com/post/97624",
+                "published": "2025-04-07"
+            },
+            {
                 "title": "观点 | 为什么我认为《怪物猎人》不那么好玩了",
                 "link": "https://sspai.com/post/97668",
                 "published": "2025-04-07"
@@ -24993,7 +25013,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
