@@ -953,6 +953,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "返场！线下活动｜每一张都罕有：浮生故事手工书相册第二场",
+                "link": "https://sspai.com/post/98221",
+                "published": "2025-04-09"
+            },
+            {
+                "title": "派早报：铁路部门试点高铁宠物托运服务等",
+                "link": "https://sspai.com/post/98220",
+                "published": "2025-04-09"
+            },
+            {
+                "title": "社区速递 087 | 你没见过的社区文章、一周最热评、派友的复古游戏回忆",
+                "link": "https://sspai.com/post/98188",
+                "published": "2025-04-08"
+            },
+            {
+                "title": "虚拟音声浮沉二十载（上）：往昔溯源",
+                "link": "https://sspai.com/prime/story/virtual-voice-a-brief-history-1",
+                "published": "2025-04-08"
+            },
+            {
+                "title": "从 Pandoc 到 Quarto：纯文本学术写作的实践与优化",
+                "link": "https://sspai.com/post/97056",
+                "published": "2025-04-08"
+            },
+            {
                 "title": "让枯燥理论生动有趣：Genspark 智能代理教育应用实例",
                 "link": "https://sspai.com/post/98083",
                 "published": "2025-04-08"
@@ -25013,7 +25038,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
