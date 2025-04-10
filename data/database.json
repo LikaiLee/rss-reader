@@ -953,6 +953,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我的 Obsidian AI 三层级工作流",
+                "link": "https://sspai.com/post/98106",
+                "published": "2025-04-10"
+            },
+            {
+                "title": "派早报：《爱、死、机》第四季将上线、《暗黑破坏神 III》国服回归等",
+                "link": "https://sspai.com/post/98270",
+                "published": "2025-04-10"
+            },
+            {
+                "title": "用拼乐高的方式构建理想家具：可靠的铝型材设计指南",
+                "link": "https://sspai.com/post/97738",
+                "published": "2025-04-09"
+            },
+            {
+                "title": "产品溢价 = 智商税？为什么我愿意为 20% 的体验提升花更多钱",
+                "link": "https://sspai.com/post/98150",
+                "published": "2025-04-09"
+            },
+            {
                 "title": "返场！线下活动｜每一张都罕有：浮生故事手工书相册第二场",
                 "link": "https://sspai.com/post/98221",
                 "published": "2025-04-09"
@@ -25038,7 +25058,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

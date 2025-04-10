@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-04-10】 我的 Obsidian AI 三层级工作流](https://sspai.com/post/98106)
+* [【2025-04-10】 派早报：《爱、死、机》第四季将上线、《暗黑破坏神 III》国服回归等](https://sspai.com/post/98270)
+* [【2025-04-09】 用拼乐高的方式构建理想家具：可靠的铝型材设计指南](https://sspai.com/post/97738)
+* [【2025-04-09】 产品溢价 = 智商税？为什么我愿意为 20% 的体验提升花更多钱](https://sspai.com/post/98150)
 * [【2025-04-09】 返场！线下活动｜每一张都罕有：浮生故事手工书相册第二场](https://sspai.com/post/98221)
 * [【2025-04-09】 派早报：铁路部门试点高铁宠物托运服务等](https://sspai.com/post/98220)
 * [【2025-04-08】 社区速递 087 | 你没见过的社区文章、一周最热评、派友的复古游戏回忆](https://sspai.com/post/98188)
 * [【2025-04-08】 虚拟音声浮沉二十载（上）：往昔溯源](https://sspai.com/prime/story/virtual-voice-a-brief-history-1)
 * [【2025-04-08】 从 Pandoc 到 Quarto：纯文本学术写作的实践与优化](https://sspai.com/post/97056)
 * [【2025-04-08】 让枯燥理论生动有趣：Genspark 智能代理教育应用实例](https://sspai.com/post/98083)
-* [【2025-04-08】 派早报：GPMI 标准正式发布等](https://sspai.com/post/98171)
-* [【2025-04-07】 派评 | 近期值得关注的 App](https://sspai.com/post/98162)
-* [【2025-04-07】 那些被微软收购的公司，现在怎么样了？](https://sspai.com/post/97624)
-* [【2025-04-07】 观点 | 为什么我认为《怪物猎人》不那么好玩了](https://sspai.com/post/97668)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-04-09 05:16:39
+:alarm_clock: 更新时间: 2025-04-10 05:16:45
