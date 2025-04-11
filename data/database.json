@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 344 期）：制造业正在\"零工化\"",
+                "link": "http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html",
+                "published": "2025-04-10"
+            },
+            {
                 "title": "科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫",
                 "link": "http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html",
                 "published": "2025-03-28"
@@ -945,13 +950,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "致生成式内容背后无处可寻的你：谈谈 AI 辅助创作的伦理问题",
+                "link": "https://sspai.com/post/98164",
+                "published": "2025-04-11"
+            },
+            {
+                "title": "派早报：OPPO 发布 Find X8 系列手机新品、Sony 公布 2025 新款 Bravia 电视系列等",
+                "link": "https://sspai.com/post/98311",
+                "published": "2025-04-11"
+            },
+            {
+                "title": "新玩意 207｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/98291",
+                "published": "2025-04-10"
+            },
+            {
+                "title": "App+1 | Mac Mouse Fix：让鼠标像触控板一样丝滑",
+                "link": "https://sspai.com/post/98002",
+                "published": "2025-04-10"
+            },
             {
                 "title": "我的 Obsidian AI 三层级工作流",
                 "link": "https://sspai.com/post/98106",

@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-04-10】 科技爱好者周刊（第 344 期）：制造业正在"零工化"](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html)
 * [【2025-03-28】 科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html)
 * [【2025-03-21】 科技爱好者周刊（第 342 期）：面试的 AI 作弊----用数字人去面试](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-342.html)
 * [【2025-03-14】 科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-341.html)
@@ -25,7 +26,6 @@
 * [【2025-02-21】 科技爱好者周刊（第 338 期）：重新思考 6G](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html)
 * [【2025-02-14】 科技爱好者周刊（第 337 期）：互联网创业几乎没了](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html)
 * [【2025-02-07】 科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)
-* [【2025-01-24】 科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-04-11】 致生成式内容背后无处可寻的你：谈谈 AI 辅助创作的伦理问题](https://sspai.com/post/98164)
+* [【2025-04-11】 派早报：OPPO 发布 Find X8 系列手机新品、Sony 公布 2025 新款 Bravia 电视系列等](https://sspai.com/post/98311)
+* [【2025-04-10】 新玩意 207｜少数派的编辑们最近买了啥？](https://sspai.com/post/98291)
+* [【2025-04-10】 App+1 | Mac Mouse Fix：让鼠标像触控板一样丝滑](https://sspai.com/post/98002)
 * [【2025-04-10】 我的 Obsidian AI 三层级工作流](https://sspai.com/post/98106)
 * [【2025-04-10】 派早报：《爱、死、机》第四季将上线、《暗黑破坏神 III》国服回归等](https://sspai.com/post/98270)
 * [【2025-04-09】 用拼乐高的方式构建理想家具：可靠的铝型材设计指南](https://sspai.com/post/97738)
 * [【2025-04-09】 产品溢价 = 智商税？为什么我愿意为 20% 的体验提升花更多钱](https://sspai.com/post/98150)
 * [【2025-04-09】 返场！线下活动｜每一张都罕有：浮生故事手工书相册第二场](https://sspai.com/post/98221)
 * [【2025-04-09】 派早报：铁路部门试点高铁宠物托运服务等](https://sspai.com/post/98220)
-* [【2025-04-08】 社区速递 087 | 你没见过的社区文章、一周最热评、派友的复古游戏回忆](https://sspai.com/post/98188)
-* [【2025-04-08】 虚拟音声浮沉二十载（上）：往昔溯源](https://sspai.com/prime/story/virtual-voice-a-brief-history-1)
-* [【2025-04-08】 从 Pandoc 到 Quarto：纯文本学术写作的实践与优化](https://sspai.com/post/97056)
-* [【2025-04-08】 让枯燥理论生动有趣：Genspark 智能代理教育应用实例](https://sspai.com/post/98083)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-04-10 05:16:45
+:alarm_clock: 更新时间: 2025-04-11 05:17:47
