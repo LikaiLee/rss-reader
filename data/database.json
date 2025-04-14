@@ -958,6 +958,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "历史进程中的国产单机游戏",
+                "link": "https://sspai.com/post/98279",
+                "published": "2025-04-14"
+            },
+            {
+                "title": "派早报：美国豁免部分电子产品关税",
+                "link": "https://sspai.com/post/98376",
+                "published": "2025-04-14"
+            },
+            {
+                "title": "派在现场 | 2025 ROG DAY 都发布了什么新玩意",
+                "link": "https://sspai.com/post/98357",
+                "published": "2025-04-13"
+            },
+            {
                 "title": "vivo X100 Ultra 陪我践行「城市散步学」的这一年",
                 "link": "https://sspai.com/post/98138",
                 "published": "2025-04-12"
@@ -25098,7 +25113,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 2,
