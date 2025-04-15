@@ -958,6 +958,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "财报里的英伟达变形记：游戏业务真的「可有可无」了吗？",
+                "link": "https://sspai.com/post/98269",
+                "published": "2025-04-15"
+            },
+            {
+                "title": "派早报：SSL/TLS 证书有效期将缩短，GPT-4.1 发布等",
+                "link": "https://sspai.com/post/98412",
+                "published": "2025-04-15"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/98389",
+                "published": "2025-04-14"
+            },
+            {
+                "title": "虚拟音声浮沉二十载（下）：前路探索",
+                "link": "https://sspai.com/prime/story/virtual-voice-a-brief-history-2",
+                "published": "2025-04-14"
+            },
+            {
+                "title": "从成分安全出发，干燥季节的唇膏选购指南",
+                "link": "https://sspai.com/post/97993",
+                "published": "2025-04-14"
+            },
+            {
                 "title": "历史进程中的国产单机游戏",
                 "link": "https://sspai.com/post/98279",
                 "published": "2025-04-14"
@@ -25113,7 +25138,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,

@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-04-15】 财报里的英伟达变形记：游戏业务真的「可有可无」了吗？](https://sspai.com/post/98269)
+* [【2025-04-15】 派早报：SSL/TLS 证书有效期将缩短，GPT-4.1 发布等](https://sspai.com/post/98412)
+* [【2025-04-14】 派评 | 近期值得关注的 App](https://sspai.com/post/98389)
+* [【2025-04-14】 虚拟音声浮沉二十载（下）：前路探索](https://sspai.com/prime/story/virtual-voice-a-brief-history-2)
+* [【2025-04-14】 从成分安全出发，干燥季节的唇膏选购指南](https://sspai.com/post/97993)
 * [【2025-04-14】 历史进程中的国产单机游戏](https://sspai.com/post/98279)
 * [【2025-04-14】 派早报：美国豁免部分电子产品关税](https://sspai.com/post/98376)
 * [【2025-04-13】 派在现场 | 2025 ROG DAY 都发布了什么新玩意](https://sspai.com/post/98357)
 * [【2025-04-12】 vivo X100 Ultra 陪我践行「城市散步学」的这一年](https://sspai.com/post/98138)
 * [【2025-04-11】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/98326)
-* [【2025-04-11】 彻底告别电池焦虑：旧手机再利用的直供电改造](https://sspai.com/post/98174)
-* [【2025-04-11】 致生成式内容背后无处可寻的你：谈谈 AI 辅助创作的伦理问题](https://sspai.com/post/98164)
-* [【2025-04-11】 派早报：OPPO 发布 Find X8 系列手机新品、Sony 公布 2025 新款 Bravia 电视系列等](https://sspai.com/post/98311)
-* [【2025-04-10】 新玩意 207｜少数派的编辑们最近买了啥？](https://sspai.com/post/98291)
-* [【2025-04-10】 App+1 | Mac Mouse Fix：让鼠标像触控板一样丝滑](https://sspai.com/post/98002)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-04-14 05:17:42
+:alarm_clock: 更新时间: 2025-04-15 05:16:55
