@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+3】
+* [少数派](#少数派) 【+10】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,9 @@
     </summary>
 
 
+* [【2025-07-04】 科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)
+* [【2025-06-27】 科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)
+* [【2025-06-24】 国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)
 * [【2025-04-10】 科技爱好者周刊（第 344 期）：制造业正在"零工化"](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html)
 * [【2025-03-28】 科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html)
 * [【2025-03-21】 科技爱好者周刊（第 342 期）：面试的 AI 作弊----用数字人去面试](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-342.html)
@@ -23,9 +26,6 @@
 * [【2025-03-07】 科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html)
 * [【2025-03-03】 Trae 国内版出来了，真的好用吗？](http://www.ruanyifeng.com/blog/2025/03/trae.html)
 * [【2025-02-28】 科技爱好者周刊（第 339 期）：代币是什么](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html)
-* [【2025-02-21】 科技爱好者周刊（第 338 期）：重新思考 6G](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html)
-* [【2025-02-14】 科技爱好者周刊（第 337 期）：互联网创业几乎没了](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html)
-* [【2025-02-07】 科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
-* [【2025-04-15】 财报里的英伟达变形记：游戏业务真的「可有可无」了吗？](https://sspai.com/post/98269)
-* [【2025-04-15】 派早报：SSL/TLS 证书有效期将缩短，GPT-4.1 发布等](https://sspai.com/post/98412)
-* [【2025-04-14】 派评 | 近期值得关注的 App](https://sspai.com/post/98389)
-* [【2025-04-14】 虚拟音声浮沉二十载（下）：前路探索](https://sspai.com/prime/story/virtual-voice-a-brief-history-2)
-* [【2025-04-14】 从成分安全出发，干燥季节的唇膏选购指南](https://sspai.com/post/97993)
-* [【2025-04-14】 历史进程中的国产单机游戏](https://sspai.com/post/98279)
-* [【2025-04-14】 派早报：美国豁免部分电子产品关税](https://sspai.com/post/98376)
-* [【2025-04-13】 派在现场 | 2025 ROG DAY 都发布了什么新玩意](https://sspai.com/post/98357)
-* [【2025-04-12】 vivo X100 Ultra 陪我践行「城市散步学」的这一年](https://sspai.com/post/98138)
-* [【2025-04-11】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/98326)
+* [【2025-07-06】 穿行风沙，沉入佛光与壁画的千年回响](https://sspai.com/post/100735)
+* [【2025-07-05】 在实况照片流行的 2025 年，聊聊 Apple 的 7 个技术细节](https://sspai.com/post/99896)
+* [【2025-07-04】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/100788)
+* [【2025-07-04】 《日本全境漫游计划》作者 Simon 都装了啥？](https://sspai.com/prime/story/zuanglesha-250704)
+* [【2025-07-04】 你真的不需要一部无反时代的哈苏相机](https://sspai.com/post/99993)
+* [【2025-07-04】 App+1 | 可以显示提醒事项的菜单栏日历：xCal](https://sspai.com/post/99555)
+* [【2025-07-04】 派早报：Perplexity Max 订阅上线，英特尔跨设备互联 Unison 服务退役](https://sspai.com/post/100769)
+* [【2025-07-03】 甲骨文了不起，研究它们的人更了不起](https://sspai.com/post/100736)
+* [【2025-07-03】 敬畏热度、保持热情：如何在夏季坚持跑步](https://sspai.com/post/74342)
+* [【2025-07-03】 用多维表格搭建个人图书馆，不再「买书如山倒，读书如抽丝」](https://sspai.com/post/99683)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-04-15 05:16:55
+:alarm_clock: 更新时间: 2025-07-06 12:18:08

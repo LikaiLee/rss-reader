@@ -5,6 +5,21 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 355 期）：两本《芯片战争》",
+                "link": "http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html",
+                "published": "2025-07-04"
+            },
+            {
+                "title": "科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？",
+                "link": "http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html",
+                "published": "2025-06-27"
+            },
+            {
+                "title": "国产 AI 网页开发工具：豆包 AI 编程简单测评",
+                "link": "http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html",
+                "published": "2025-06-24"
+            },
+            {
                 "title": "科技爱好者周刊（第 344 期）：制造业正在\"零工化\"",
                 "link": "http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html",
                 "published": "2025-04-10"
@@ -950,13 +965,63 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "穿行风沙，沉入佛光与壁画的千年回响",
+                "link": "https://sspai.com/post/100735",
+                "published": "2025-07-06"
+            },
+            {
+                "title": "在实况照片流行的 2025 年，聊聊 Apple 的 7 个技术细节",
+                "link": "https://sspai.com/post/99896",
+                "published": "2025-07-05"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/100788",
+                "published": "2025-07-04"
+            },
+            {
+                "title": "《日本全境漫游计划》作者 Simon 都装了啥？",
+                "link": "https://sspai.com/prime/story/zuanglesha-250704",
+                "published": "2025-07-04"
+            },
+            {
+                "title": "你真的不需要一部无反时代的哈苏相机",
+                "link": "https://sspai.com/post/99993",
+                "published": "2025-07-04"
+            },
+            {
+                "title": "App+1 | 可以显示提醒事项的菜单栏日历：xCal",
+                "link": "https://sspai.com/post/99555",
+                "published": "2025-07-04"
+            },
+            {
+                "title": "派早报：Perplexity Max 订阅上线，英特尔跨设备互联 Unison 服务退役",
+                "link": "https://sspai.com/post/100769",
+                "published": "2025-07-04"
+            },
+            {
+                "title": "甲骨文了不起，研究它们的人更了不起",
+                "link": "https://sspai.com/post/100736",
+                "published": "2025-07-03"
+            },
+            {
+                "title": "敬畏热度、保持热情：如何在夏季坚持跑步",
+                "link": "https://sspai.com/post/74342",
+                "published": "2025-07-03"
+            },
+            {
+                "title": "用多维表格搭建个人图书馆，不再「买书如山倒，读书如抽丝」",
+                "link": "https://sspai.com/post/99683",
+                "published": "2025-07-03"
+            },
             {
                 "title": "财报里的英伟达变形记：游戏业务真的「可有可无」了吗？",
                 "link": "https://sspai.com/post/98269",
@@ -25138,7 +25203,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 10
     },
     {
         "id": 2,
