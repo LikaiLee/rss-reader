@@ -13,7 +13,7 @@ jobs:
     - name: Setup python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.9
+        python-version: 3.6.7
     - name: Install requests
       run: pip install -r requirements.txt
     - name: fetch rss
