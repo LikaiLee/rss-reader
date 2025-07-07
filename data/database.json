@@ -965,13 +965,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "当我说它「太小米」的时候，我在说什么：小米开放式耳机 Pro 体验",
+                "link": "https://sspai.com/post/100748",
+                "published": "2025-07-07"
+            },
+            {
+                "title": "派早报：工信部试点隐私号专用号段 700",
+                "link": "https://sspai.com/post/100820",
+                "published": "2025-07-07"
+            },
             {
                 "title": "穿行风沙，沉入佛光与壁画的千年回响",
                 "link": "https://sspai.com/post/100735",
@@ -25203,7 +25213,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 2
     },
     {
         "id": 2,

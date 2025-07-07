@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+3】
-* [少数派](#少数派) 【+10】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2025-07-07】 当我说它「太小米」的时候，我在说什么：小米开放式耳机 Pro 体验](https://sspai.com/post/100748)
+* [【2025-07-07】 派早报：工信部试点隐私号专用号段 700](https://sspai.com/post/100820)
 * [【2025-07-06】 穿行风沙，沉入佛光与壁画的千年回响](https://sspai.com/post/100735)
 * [【2025-07-05】 在实况照片流行的 2025 年，聊聊 Apple 的 7 个技术细节](https://sspai.com/post/99896)
 * [【2025-07-04】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/100788)
@@ -43,8 +45,6 @@
 * [【2025-07-04】 App+1 | 可以显示提醒事项的菜单栏日历：xCal](https://sspai.com/post/99555)
 * [【2025-07-04】 派早报：Perplexity Max 订阅上线，英特尔跨设备互联 Unison 服务退役](https://sspai.com/post/100769)
 * [【2025-07-03】 甲骨文了不起，研究它们的人更了不起](https://sspai.com/post/100736)
-* [【2025-07-03】 敬畏热度、保持热情：如何在夏季坚持跑步](https://sspai.com/post/74342)
-* [【2025-07-03】 用多维表格搭建个人图书馆，不再「买书如山倒，读书如抽丝」](https://sspai.com/post/99683)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-06 12:18:08
+:alarm_clock: 更新时间: 2025-07-07 05:20:51
