@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+9】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-07-09】 星光璀璨，可会再明？我用三星的这些年](https://sspai.com/post/100441)
+* [【2025-07-09】 派早报：钉钉发布 AI 表格、Gmail 上线订阅管理功能等](https://sspai.com/post/100864)
+* [【2025-07-08】 macOS 有了新的磁盘映像格式，Let’s Encrypt 开始签发 IP 地址证书](https://sspai.com/prime/story/inside-release-notes-250708)
+* [【2025-07-08】 社区速递 100 | 一周热评、派友的新玩意和组网方案大赏](https://sspai.com/post/100852)
+* [【2025-07-08】 Apple Music 的自动过渡功能，会带来歌单的未来形态吗？](https://sspai.com/post/100790)
+* [【2025-07-08】 App+1 | 助你搭建更安全的私有知识库：言叶](https://sspai.com/post/100448)
+* [【2025-07-08】 派早报：Apple 就欧盟罚款提起上诉，Windows 11 成为用户最多的操作系统等](https://sspai.com/post/100841)
+* [【2025-07-07】 派评 | 近期值得关注的 App](https://sspai.com/post/100836)
+* [【2025-07-07】 微信备份又升级：外部存储 + 自动化，还是谈不上「好用」吗](https://sspai.com/post/100810)
 * [【2025-07-07】 当我说它「太小米」的时候，我在说什么：小米开放式耳机 Pro 体验](https://sspai.com/post/100748)
-* [【2025-07-07】 派早报：工信部试点隐私号专用号段 700](https://sspai.com/post/100820)
-* [【2025-07-06】 穿行风沙，沉入佛光与壁画的千年回响](https://sspai.com/post/100735)
-* [【2025-07-05】 在实况照片流行的 2025 年，聊聊 Apple 的 7 个技术细节](https://sspai.com/post/99896)
-* [【2025-07-04】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/100788)
-* [【2025-07-04】 《日本全境漫游计划》作者 Simon 都装了啥？](https://sspai.com/prime/story/zuanglesha-250704)
-* [【2025-07-04】 你真的不需要一部无反时代的哈苏相机](https://sspai.com/post/99993)
-* [【2025-07-04】 App+1 | 可以显示提醒事项的菜单栏日历：xCal](https://sspai.com/post/99555)
-* [【2025-07-04】 派早报：Perplexity Max 订阅上线，英特尔跨设备互联 Unison 服务退役](https://sspai.com/post/100769)
-* [【2025-07-03】 甲骨文了不起，研究它们的人更了不起](https://sspai.com/post/100736)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-07 05:20:51
+:alarm_clock: 更新时间: 2025-07-09 05:22:29

@@ -973,6 +973,51 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "星光璀璨，可会再明？我用三星的这些年",
+                "link": "https://sspai.com/post/100441",
+                "published": "2025-07-09"
+            },
+            {
+                "title": "派早报：钉钉发布 AI 表格、Gmail 上线订阅管理功能等",
+                "link": "https://sspai.com/post/100864",
+                "published": "2025-07-09"
+            },
+            {
+                "title": "macOS 有了新的磁盘映像格式，Let’s Encrypt 开始签发 IP 地址证书",
+                "link": "https://sspai.com/prime/story/inside-release-notes-250708",
+                "published": "2025-07-08"
+            },
+            {
+                "title": "社区速递 100 | 一周热评、派友的新玩意和组网方案大赏",
+                "link": "https://sspai.com/post/100852",
+                "published": "2025-07-08"
+            },
+            {
+                "title": "Apple Music 的自动过渡功能，会带来歌单的未来形态吗？",
+                "link": "https://sspai.com/post/100790",
+                "published": "2025-07-08"
+            },
+            {
+                "title": "App+1 | 助你搭建更安全的私有知识库：言叶",
+                "link": "https://sspai.com/post/100448",
+                "published": "2025-07-08"
+            },
+            {
+                "title": "派早报：Apple 就欧盟罚款提起上诉，Windows 11 成为用户最多的操作系统等",
+                "link": "https://sspai.com/post/100841",
+                "published": "2025-07-08"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/100836",
+                "published": "2025-07-07"
+            },
+            {
+                "title": "微信备份又升级：外部存储 + 自动化，还是谈不上「好用」吗",
+                "link": "https://sspai.com/post/100810",
+                "published": "2025-07-07"
+            },
+            {
                 "title": "当我说它「太小米」的时候，我在说什么：小米开放式耳机 Pro 体验",
                 "link": "https://sspai.com/post/100748",
                 "published": "2025-07-07"
@@ -25213,7 +25258,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 9
     },
     {
         "id": 2,
