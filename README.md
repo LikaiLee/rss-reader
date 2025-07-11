@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+9】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+8】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-07-11】 科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html)
 * [【2025-07-04】 科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)
 * [【2025-06-27】 科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)
 * [【2025-06-24】 国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)
@@ -25,7 +26,6 @@
 * [【2025-03-14】 科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-341.html)
 * [【2025-03-07】 科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html)
 * [【2025-03-03】 Trae 国内版出来了，真的好用吗？](http://www.ruanyifeng.com/blog/2025/03/trae.html)
-* [【2025-02-28】 科技爱好者周刊（第 339 期）：代币是什么](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-07-11】 译文 | 从来无我：在审视 AI 中重识自我](https://sspai.com/post/100792)
+* [【2025-07-11】 派早报：Apple 开启返校季优惠、马斯克发布 Grok 4 等](https://sspai.com/post/100949)
+* [【2025-07-10】 新玩意 214｜少数派的编辑们最近买了啥？](https://sspai.com/post/100938)
+* [【2025-07-10】 看什么 · 特别篇丨让这些适合雨天观看的电影，来带你清凉一夏](https://sspai.com/post/67716)
+* [【2025-07-10】 《死亡搁浅导剪版》批评：心在快递，路在脚下](https://sspai.com/post/100861)
+* [【2025-07-10】 派早报：三星发布新款 Z 系列手机等](https://sspai.com/post/100888)
+* [【2025-07-09】 iOS 26 Beta 2 & Beta 3 值得关注的新特性](https://sspai.com/post/100867)
+* [【2025-07-09】 The Alters：多重人生下的科幻生存实验](https://sspai.com/post/100701)
 * [【2025-07-09】 星光璀璨，可会再明？我用三星的这些年](https://sspai.com/post/100441)
 * [【2025-07-09】 派早报：钉钉发布 AI 表格、Gmail 上线订阅管理功能等](https://sspai.com/post/100864)
-* [【2025-07-08】 macOS 有了新的磁盘映像格式，Let’s Encrypt 开始签发 IP 地址证书](https://sspai.com/prime/story/inside-release-notes-250708)
-* [【2025-07-08】 社区速递 100 | 一周热评、派友的新玩意和组网方案大赏](https://sspai.com/post/100852)
-* [【2025-07-08】 Apple Music 的自动过渡功能，会带来歌单的未来形态吗？](https://sspai.com/post/100790)
-* [【2025-07-08】 App+1 | 助你搭建更安全的私有知识库：言叶](https://sspai.com/post/100448)
-* [【2025-07-08】 派早报：Apple 就欧盟罚款提起上诉，Windows 11 成为用户最多的操作系统等](https://sspai.com/post/100841)
-* [【2025-07-07】 派评 | 近期值得关注的 App](https://sspai.com/post/100836)
-* [【2025-07-07】 微信备份又升级：外部存储 + 自动化，还是谈不上「好用」吗](https://sspai.com/post/100810)
-* [【2025-07-07】 当我说它「太小米」的时候，我在说什么：小米开放式耳机 Pro 体验](https://sspai.com/post/100748)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-09 05:22:29
+:alarm_clock: 更新时间: 2025-07-11 05:21:16

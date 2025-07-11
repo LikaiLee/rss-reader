@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办",
+                "link": "http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html",
+                "published": "2025-07-11"
+            },
+            {
                 "title": "科技爱好者周刊（第 355 期）：两本《芯片战争》",
                 "link": "http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html",
                 "published": "2025-07-04"
@@ -965,13 +970,53 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "译文 | 从来无我：在审视 AI 中重识自我",
+                "link": "https://sspai.com/post/100792",
+                "published": "2025-07-11"
+            },
+            {
+                "title": "派早报：Apple 开启返校季优惠、马斯克发布 Grok 4 等",
+                "link": "https://sspai.com/post/100949",
+                "published": "2025-07-11"
+            },
+            {
+                "title": "新玩意 214｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/100938",
+                "published": "2025-07-10"
+            },
+            {
+                "title": "看什么 · 特别篇丨让这些适合雨天观看的电影，来带你清凉一夏",
+                "link": "https://sspai.com/post/67716",
+                "published": "2025-07-10"
+            },
+            {
+                "title": "《死亡搁浅导剪版》批评：心在快递，路在脚下",
+                "link": "https://sspai.com/post/100861",
+                "published": "2025-07-10"
+            },
+            {
+                "title": "派早报：三星发布新款 Z 系列手机等",
+                "link": "https://sspai.com/post/100888",
+                "published": "2025-07-10"
+            },
+            {
+                "title": "iOS 26 Beta 2 & Beta 3 值得关注的新特性",
+                "link": "https://sspai.com/post/100867",
+                "published": "2025-07-09"
+            },
+            {
+                "title": "The Alters：多重人生下的科幻生存实验",
+                "link": "https://sspai.com/post/100701",
+                "published": "2025-07-09"
+            },
             {
                 "title": "星光璀璨，可会再明？我用三星的这些年",
                 "link": "https://sspai.com/post/100441",
@@ -25258,7 +25303,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 8
     },
     {
         "id": 2,
