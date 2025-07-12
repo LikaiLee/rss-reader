@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+8】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-07-11】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/100974)
+* [【2025-07-11】 「13 合 1」桌面终局？这款桌面充电拓展坞，重新定义高效办公](https://sspai.com/post/100971)
+* [【2025-07-11】 加购升级，玩法延续：Apple 高校优惠活动开始了](https://sspai.com/post/100935)
 * [【2025-07-11】 译文 | 从来无我：在审视 AI 中重识自我](https://sspai.com/post/100792)
 * [【2025-07-11】 派早报：Apple 开启返校季优惠、马斯克发布 Grok 4 等](https://sspai.com/post/100949)
 * [【2025-07-10】 新玩意 214｜少数派的编辑们最近买了啥？](https://sspai.com/post/100938)
@@ -42,9 +45,6 @@
 * [【2025-07-10】 《死亡搁浅导剪版》批评：心在快递，路在脚下](https://sspai.com/post/100861)
 * [【2025-07-10】 派早报：三星发布新款 Z 系列手机等](https://sspai.com/post/100888)
 * [【2025-07-09】 iOS 26 Beta 2 & Beta 3 值得关注的新特性](https://sspai.com/post/100867)
-* [【2025-07-09】 The Alters：多重人生下的科幻生存实验](https://sspai.com/post/100701)
-* [【2025-07-09】 星光璀璨，可会再明？我用三星的这些年](https://sspai.com/post/100441)
-* [【2025-07-09】 派早报：钉钉发布 AI 表格、Gmail 上线订阅管理功能等](https://sspai.com/post/100864)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-11 05:21:16
+:alarm_clock: 更新时间: 2025-07-12 05:18:34
