@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2025-07-13】 一日一技 | 用欧盟纯净版 Windows 11，享真正的数字选择权](https://sspai.com/post/100943)
+* [【2025-07-12】 App+1｜帮你解决「屏幕内疚」和「早教焦虑」：Lingokids](https://sspai.com/post/100869)
 * [【2025-07-11】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/100974)
 * [【2025-07-11】 「13 合 1」桌面终局？这款桌面充电拓展坞，重新定义高效办公](https://sspai.com/post/100971)
 * [【2025-07-11】 加购升级，玩法延续：Apple 高校优惠活动开始了](https://sspai.com/post/100935)
@@ -43,8 +45,6 @@
 * [【2025-07-10】 新玩意 214｜少数派的编辑们最近买了啥？](https://sspai.com/post/100938)
 * [【2025-07-10】 看什么 · 特别篇丨让这些适合雨天观看的电影，来带你清凉一夏](https://sspai.com/post/67716)
 * [【2025-07-10】 《死亡搁浅导剪版》批评：心在快递，路在脚下](https://sspai.com/post/100861)
-* [【2025-07-10】 派早报：三星发布新款 Z 系列手机等](https://sspai.com/post/100888)
-* [【2025-07-09】 iOS 26 Beta 2 & Beta 3 值得关注的新特性](https://sspai.com/post/100867)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-12 05:18:34
+:alarm_clock: 更新时间: 2025-07-13 05:19:42
