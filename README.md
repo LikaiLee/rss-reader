@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2025-07-14】 时令水果不易存， 10+ 道美食帮你尽享夏日滋味](https://sspai.com/post/100986)
+* [【2025-07-14】 派早报：英特尔 CEO 称公司跌出行业前十](https://sspai.com/post/101006)
 * [【2025-07-13】 一日一技 | 用欧盟纯净版 Windows 11，享真正的数字选择权](https://sspai.com/post/100943)
 * [【2025-07-12】 App+1｜帮你解决「屏幕内疚」和「早教焦虑」：Lingokids](https://sspai.com/post/100869)
 * [【2025-07-11】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/100974)
@@ -43,8 +45,6 @@
 * [【2025-07-11】 译文 | 从来无我：在审视 AI 中重识自我](https://sspai.com/post/100792)
 * [【2025-07-11】 派早报：Apple 开启返校季优惠、马斯克发布 Grok 4 等](https://sspai.com/post/100949)
 * [【2025-07-10】 新玩意 214｜少数派的编辑们最近买了啥？](https://sspai.com/post/100938)
-* [【2025-07-10】 看什么 · 特别篇丨让这些适合雨天观看的电影，来带你清凉一夏](https://sspai.com/post/67716)
-* [【2025-07-10】 《死亡搁浅导剪版》批评：心在快递，路在脚下](https://sspai.com/post/100861)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-13 05:19:42
+:alarm_clock: 更新时间: 2025-07-14 05:23:35
