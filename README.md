@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+9】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-07-16】 一块生不逢时的玻璃：18 年后回望 Vista 的「远景」](https://sspai.com/post/100978)
+* [【2025-07-16】 派早报：索尼发布 RX1R III、Razer Core X V2 发布等](https://sspai.com/post/101077)
+* [【2025-07-15】 社区速递 101 | 一周热评、新玩意，以及派友们的浏览器标签页整理术](https://sspai.com/post/101052)
+* [【2025-07-15】 「世界主宰」的掌机之路：岩田聪与任天堂 DS](https://sspai.com/post/71848)
+* [【2025-07-15】 从笃定到踌躇：Quote/0，一个开发者产品的真实旅程](https://sspai.com/post/101033)
+* [【2025-07-15】 新疆 10 天自驾：夏日走过山间、草原和古城](https://sspai.com/post/101001)
+* [【2025-07-15】 派早报：Google 将整合 ChromeOS 和 Android 等](https://sspai.com/post/101036)
+* [【2025-07-14】 派评 | 近期值得关注的 App](https://sspai.com/post/101017)
+* [【2025-07-14】 AI 时代的本地知识管理往何处去？评 DEVONthink 4.0](https://sspai.com/post/100991)
 * [【2025-07-14】 时令水果不易存， 10+ 道美食帮你尽享夏日滋味](https://sspai.com/post/100986)
-* [【2025-07-14】 派早报：英特尔 CEO 称公司跌出行业前十](https://sspai.com/post/101006)
-* [【2025-07-13】 一日一技 | 用欧盟纯净版 Windows 11，享真正的数字选择权](https://sspai.com/post/100943)
-* [【2025-07-12】 App+1｜帮你解决「屏幕内疚」和「早教焦虑」：Lingokids](https://sspai.com/post/100869)
-* [【2025-07-11】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/100974)
-* [【2025-07-11】 「13 合 1」桌面终局？这款桌面充电拓展坞，重新定义高效办公](https://sspai.com/post/100971)
-* [【2025-07-11】 加购升级，玩法延续：Apple 高校优惠活动开始了](https://sspai.com/post/100935)
-* [【2025-07-11】 译文 | 从来无我：在审视 AI 中重识自我](https://sspai.com/post/100792)
-* [【2025-07-11】 派早报：Apple 开启返校季优惠、马斯克发布 Grok 4 等](https://sspai.com/post/100949)
-* [【2025-07-10】 新玩意 214｜少数派的编辑们最近买了啥？](https://sspai.com/post/100938)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-14 05:23:35
+:alarm_clock: 更新时间: 2025-07-16 05:24:07

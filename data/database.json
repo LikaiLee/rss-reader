@@ -978,6 +978,51 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一块生不逢时的玻璃：18 年后回望 Vista 的「远景」",
+                "link": "https://sspai.com/post/100978",
+                "published": "2025-07-16"
+            },
+            {
+                "title": "派早报：索尼发布 RX1R III、Razer Core X V2 发布等",
+                "link": "https://sspai.com/post/101077",
+                "published": "2025-07-16"
+            },
+            {
+                "title": "社区速递 101 | 一周热评、新玩意，以及派友们的浏览器标签页整理术",
+                "link": "https://sspai.com/post/101052",
+                "published": "2025-07-15"
+            },
+            {
+                "title": "「世界主宰」的掌机之路：岩田聪与任天堂 DS",
+                "link": "https://sspai.com/post/71848",
+                "published": "2025-07-15"
+            },
+            {
+                "title": "从笃定到踌躇：Quote/0，一个开发者产品的真实旅程",
+                "link": "https://sspai.com/post/101033",
+                "published": "2025-07-15"
+            },
+            {
+                "title": "新疆 10 天自驾：夏日走过山间、草原和古城",
+                "link": "https://sspai.com/post/101001",
+                "published": "2025-07-15"
+            },
+            {
+                "title": "派早报：Google 将整合 ChromeOS 和 Android 等",
+                "link": "https://sspai.com/post/101036",
+                "published": "2025-07-15"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/101017",
+                "published": "2025-07-14"
+            },
+            {
+                "title": "AI 时代的本地知识管理往何处去？评 DEVONthink 4.0",
+                "link": "https://sspai.com/post/100991",
+                "published": "2025-07-14"
+            },
+            {
                 "title": "时令水果不易存， 10+ 道美食帮你尽享夏日滋味",
                 "link": "https://sspai.com/post/100986",
                 "published": "2025-07-14"
@@ -25338,7 +25383,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 9
     },
     {
         "id": 2,
