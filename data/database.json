@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 357 期）：稳定币的博弈",
+                "link": "http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html",
+                "published": "2025-07-17"
+            },
+            {
                 "title": "科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办",
                 "link": "http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html",
                 "published": "2025-07-11"
@@ -970,13 +975,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "蓟县骑行记：无终子国，幽州渔阳",
+                "link": "https://sspai.com/post/101043",
+                "published": "2025-07-18"
+            },
+            {
+                "title": "派早报：OpenAI 推出 ChatGPT Agent 等",
+                "link": "https://sspai.com/post/101138",
+                "published": "2025-07-18"
+            },
+            {
+                "title": "在手机严重同质化的时代，Nothing 希望帮你找回科技的乐趣",
+                "link": "https://sspai.com/post/101101",
+                "published": "2025-07-17"
+            },
+            {
+                "title": "异泽 13 合 1 拓展坞体验：或许是适合普通人一步到位的选择",
+                "link": "https://sspai.com/post/101076",
+                "published": "2025-07-17"
+            },
+            {
+                "title": "一日一技｜曲线救国，让 Android 用上 DoH",
+                "link": "https://sspai.com/post/100874",
+                "published": "2025-07-17"
+            },
             {
                 "title": "我们如何优化少数派办公室的无线网络",
                 "link": "https://sspai.com/prime/story/office-wireless-network-optimization-1",
@@ -25403,7 +25433,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,

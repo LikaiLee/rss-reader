@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-07-17】 科技爱好者周刊（第 357 期）：稳定币的博弈](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html)
 * [【2025-07-11】 科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html)
 * [【2025-07-04】 科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)
 * [【2025-06-27】 科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)
@@ -25,7 +26,6 @@
 * [【2025-03-21】 科技爱好者周刊（第 342 期）：面试的 AI 作弊----用数字人去面试](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-342.html)
 * [【2025-03-14】 科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-341.html)
 * [【2025-03-07】 科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html)
-* [【2025-03-03】 Trae 国内版出来了，真的好用吗？](http://www.ruanyifeng.com/blog/2025/03/trae.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-07-18】 蓟县骑行记：无终子国，幽州渔阳](https://sspai.com/post/101043)
+* [【2025-07-18】 派早报：OpenAI 推出 ChatGPT Agent 等](https://sspai.com/post/101138)
+* [【2025-07-17】 在手机严重同质化的时代，Nothing 希望帮你找回科技的乐趣](https://sspai.com/post/101101)
+* [【2025-07-17】 异泽 13 合 1 拓展坞体验：或许是适合普通人一步到位的选择](https://sspai.com/post/101076)
+* [【2025-07-17】 一日一技｜曲线救国，让 Android 用上 DoH](https://sspai.com/post/100874)
 * [【2025-07-17】 我们如何优化少数派办公室的无线网络](https://sspai.com/prime/story/office-wireless-network-optimization-1)
 * [【2025-07-17】 派早报：特斯拉公布 Model Y L、「网络身份证」正式启用等](https://sspai.com/post/101107)
 * [【2025-07-16】 查缺补漏时间到，十三张去年你可能错过的华语乐坛好专辑](https://sspai.com/post/101091)
 * [【2025-07-16】 曲中人心、词悦双眼，高颜值 Windows 歌词展示工具：Better Lyrics](https://sspai.com/post/101028)
 * [【2025-07-16】 一块生不逢时的玻璃：18 年后回望 Vista 的「远景」](https://sspai.com/post/100978)
-* [【2025-07-16】 派早报：索尼发布 RX1R III、Razer Core X V2 发布等](https://sspai.com/post/101077)
-* [【2025-07-15】 社区速递 101 | 一周热评、新玩意，以及派友们的浏览器标签页整理术](https://sspai.com/post/101052)
-* [【2025-07-15】 「世界主宰」的掌机之路：岩田聪与任天堂 DS](https://sspai.com/post/71848)
-* [【2025-07-15】 从笃定到踌躇：Quote/0，一个开发者产品的真实旅程](https://sspai.com/post/101033)
-* [【2025-07-15】 新疆 10 天自驾：夏日走过山间、草原和古城](https://sspai.com/post/101001)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-17 05:24:31
+:alarm_clock: 更新时间: 2025-07-18 05:24:24
