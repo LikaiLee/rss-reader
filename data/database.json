@@ -975,13 +975,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派早报：市场监管总局约谈外卖平台企业",
+                "link": "https://sspai.com/post/101184",
+                "published": "2025-07-21"
+            },
+            {
+                "title": "「都市丽人」小跑一夏：我如何让跑步成为习惯",
+                "link": "https://sspai.com/post/90189",
+                "published": "2025-07-20"
+            },
+            {
+                "title": "AI 百日，恍若数年：我的 2025 上半年 AI 模型与产品清单推荐",
+                "link": "https://sspai.com/post/101081",
+                "published": "2025-07-19"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 5+ 部作品",
+                "link": "https://sspai.com/post/101149",
+                "published": "2025-07-18"
+            },
+            {
+                "title": "去伪存真：聊聊 AI 智能体的定义、工具选择与避坑",
+                "link": "https://sspai.com/post/101085",
+                "published": "2025-07-18"
+            },
             {
                 "title": "蓟县骑行记：无终子国，幽州渔阳",
                 "link": "https://sspai.com/post/101043",
