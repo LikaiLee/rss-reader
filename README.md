@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-07-22】 比奶茶和快乐水更清凉低卡，用这杯冷泡茶留住你的夏天](https://sspai.com/post/62308)
+* [【2025-07-22】 派早报：OPPO 发布 K13 Turbo 系列，乐凯 C200 胶卷复售等](https://sspai.com/post/101216)
+* [【2025-07-21】 派评 | 近期值得关注的 App](https://sspai.com/post/101203)
+* [【2025-07-21】 第四期共创开放日招募开启 | 少数派会员 2025 新季即将同步启动](https://sspai.com/post/101153)
+* [【2025-07-21】 城市漫步指南：京都任天堂博物馆与岚山徒步之旅](https://sspai.com/post/101180)
 * [【2025-07-21】 派早报：市场监管总局约谈外卖平台企业](https://sspai.com/post/101184)
 * [【2025-07-20】 「都市丽人」小跑一夏：我如何让跑步成为习惯](https://sspai.com/post/90189)
 * [【2025-07-19】 AI 百日，恍若数年：我的 2025 上半年 AI 模型与产品清单推荐](https://sspai.com/post/101081)
 * [【2025-07-18】 本周看什么 | 最近值得一看的 5+ 部作品](https://sspai.com/post/101149)
 * [【2025-07-18】 去伪存真：聊聊 AI 智能体的定义、工具选择与避坑](https://sspai.com/post/101085)
-* [【2025-07-18】 蓟县骑行记：无终子国，幽州渔阳](https://sspai.com/post/101043)
-* [【2025-07-18】 派早报：OpenAI 推出 ChatGPT Agent 等](https://sspai.com/post/101138)
-* [【2025-07-17】 在手机严重同质化的时代，Nothing 希望帮你找回科技的乐趣](https://sspai.com/post/101101)
-* [【2025-07-17】 异泽 13 合 1 拓展坞体验：或许是适合普通人一步到位的选择](https://sspai.com/post/101076)
-* [【2025-07-17】 一日一技｜曲线救国，让 Android 用上 DoH](https://sspai.com/post/100874)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-21 05:25:35
+:alarm_clock: 更新时间: 2025-07-22 05:23:11
