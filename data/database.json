@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "《唐纵日记》摘录",
+                "link": "http://www.ruanyifeng.com/blog/2025/07/tangzong-diary.html",
+                "published": "2025-07-22"
+            },
+            {
                 "title": "科技爱好者周刊（第 357 期）：稳定币的博弈",
                 "link": "http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html",
                 "published": "2025-07-17"
@@ -975,13 +980,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "玩转人体工程学：浅谈电脑桌的选购和改造",
+                "link": "https://sspai.com/post/100554",
+                "published": "2025-07-23"
+            },
+            {
+                "title": "派早报：Nothing 发布 CMF Watch 3 Pro、任天堂召开宝可梦 7 月直面会等",
+                "link": "https://sspai.com/post/101251",
+                "published": "2025-07-23"
+            },
+            {
+                "title": "社区速递 102 | 一周最热评、新玩意，以及派友们的「收纳黑洞」",
+                "link": "https://sspai.com/post/101231",
+                "published": "2025-07-22"
+            },
+            {
+                "title": "[限时优惠] Limi Cam 更新：支持拍照监看模式，让 iPhone 拍照更好用",
+                "link": "https://sspai.com/post/101087",
+                "published": "2025-07-22"
+            },
             {
                 "title": "比奶茶和快乐水更清凉低卡，用这杯冷泡茶留住你的夏天",
                 "link": "https://sspai.com/post/62308",
@@ -25483,7 +25508,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

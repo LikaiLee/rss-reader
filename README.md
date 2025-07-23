@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-07-22】 《唐纵日记》摘录](http://www.ruanyifeng.com/blog/2025/07/tangzong-diary.html)
 * [【2025-07-17】 科技爱好者周刊（第 357 期）：稳定币的博弈](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html)
 * [【2025-07-11】 科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html)
 * [【2025-07-04】 科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)
@@ -25,7 +26,6 @@
 * [【2025-03-28】 科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html)
 * [【2025-03-21】 科技爱好者周刊（第 342 期）：面试的 AI 作弊----用数字人去面试](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-342.html)
 * [【2025-03-14】 科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-341.html)
-* [【2025-03-07】 科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-07-23】 玩转人体工程学：浅谈电脑桌的选购和改造](https://sspai.com/post/100554)
+* [【2025-07-23】 派早报：Nothing 发布 CMF Watch 3 Pro、任天堂召开宝可梦 7 月直面会等](https://sspai.com/post/101251)
+* [【2025-07-22】 社区速递 102 | 一周最热评、新玩意，以及派友们的「收纳黑洞」](https://sspai.com/post/101231)
+* [【2025-07-22】 [限时优惠] Limi Cam 更新：支持拍照监看模式，让 iPhone 拍照更好用](https://sspai.com/post/101087)
 * [【2025-07-22】 比奶茶和快乐水更清凉低卡，用这杯冷泡茶留住你的夏天](https://sspai.com/post/62308)
 * [【2025-07-22】 派早报：OPPO 发布 K13 Turbo 系列，乐凯 C200 胶卷复售等](https://sspai.com/post/101216)
 * [【2025-07-21】 派评 | 近期值得关注的 App](https://sspai.com/post/101203)
 * [【2025-07-21】 第四期共创开放日招募开启 | 少数派会员 2025 新季即将同步启动](https://sspai.com/post/101153)
 * [【2025-07-21】 城市漫步指南：京都任天堂博物馆与岚山徒步之旅](https://sspai.com/post/101180)
 * [【2025-07-21】 派早报：市场监管总局约谈外卖平台企业](https://sspai.com/post/101184)
-* [【2025-07-20】 「都市丽人」小跑一夏：我如何让跑步成为习惯](https://sspai.com/post/90189)
-* [【2025-07-19】 AI 百日，恍若数年：我的 2025 上半年 AI 模型与产品清单推荐](https://sspai.com/post/101081)
-* [【2025-07-18】 本周看什么 | 最近值得一看的 5+ 部作品](https://sspai.com/post/101149)
-* [【2025-07-18】 去伪存真：聊聊 AI 智能体的定义、工具选择与避坑](https://sspai.com/post/101085)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-22 05:23:11
+:alarm_clock: 更新时间: 2025-07-23 05:25:42
