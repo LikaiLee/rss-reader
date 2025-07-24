@@ -980,13 +980,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一日一技 | 如何解决 PC 外接声卡的卡顿爆音问题",
+                "link": "https://sspai.com/post/100623",
+                "published": "2025-07-24"
+            },
+            {
+                "title": "派早报：Apple 推出 AppleCare One、大疆将发布扫地机器人等",
+                "link": "https://sspai.com/post/101291",
+                "published": "2025-07-24"
+            },
+            {
+                "title": "濑户内海之夏：远山淡影，爱的呼唤",
+                "link": "https://sspai.com/post/100669",
+                "published": "2025-07-23"
+            },
+            {
+                "title": "如何在 Notion 中搭建自动化项目管理系统",
+                "link": "https://sspai.com/prime/story/automatic-project-management-in-notion",
+                "published": "2025-07-23"
+            },
+            {
+                "title": "看什么 Café | 从小说文本到镜头语言，走进黑色电影的开山之作",
+                "link": "https://sspai.com/post/101204",
+                "published": "2025-07-23"
+            },
             {
                 "title": "玩转人体工程学：浅谈电脑桌的选购和改造",
                 "link": "https://sspai.com/post/100554",
@@ -25508,7 +25533,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,

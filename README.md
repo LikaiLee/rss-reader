@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-07-24】 一日一技 | 如何解决 PC 外接声卡的卡顿爆音问题](https://sspai.com/post/100623)
+* [【2025-07-24】 派早报：Apple 推出 AppleCare One、大疆将发布扫地机器人等](https://sspai.com/post/101291)
+* [【2025-07-23】 濑户内海之夏：远山淡影，爱的呼唤](https://sspai.com/post/100669)
+* [【2025-07-23】 如何在 Notion 中搭建自动化项目管理系统](https://sspai.com/prime/story/automatic-project-management-in-notion)
+* [【2025-07-23】 看什么 Café | 从小说文本到镜头语言，走进黑色电影的开山之作](https://sspai.com/post/101204)
 * [【2025-07-23】 玩转人体工程学：浅谈电脑桌的选购和改造](https://sspai.com/post/100554)
 * [【2025-07-23】 派早报：Nothing 发布 CMF Watch 3 Pro、任天堂召开宝可梦 7 月直面会等](https://sspai.com/post/101251)
 * [【2025-07-22】 社区速递 102 | 一周最热评、新玩意，以及派友们的「收纳黑洞」](https://sspai.com/post/101231)
 * [【2025-07-22】 [限时优惠] Limi Cam 更新：支持拍照监看模式，让 iPhone 拍照更好用](https://sspai.com/post/101087)
 * [【2025-07-22】 比奶茶和快乐水更清凉低卡，用这杯冷泡茶留住你的夏天](https://sspai.com/post/62308)
-* [【2025-07-22】 派早报：OPPO 发布 K13 Turbo 系列，乐凯 C200 胶卷复售等](https://sspai.com/post/101216)
-* [【2025-07-21】 派评 | 近期值得关注的 App](https://sspai.com/post/101203)
-* [【2025-07-21】 第四期共创开放日招募开启 | 少数派会员 2025 新季即将同步启动](https://sspai.com/post/101153)
-* [【2025-07-21】 城市漫步指南：京都任天堂博物馆与岚山徒步之旅](https://sspai.com/post/101180)
-* [【2025-07-21】 派早报：市场监管总局约谈外卖平台企业](https://sspai.com/post/101184)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-23 05:25:42
+:alarm_clock: 更新时间: 2025-07-24 05:24:03
