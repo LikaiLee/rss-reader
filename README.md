@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2025-07-27】 具透 | 新设计、桌面化……iPadOS 26 中你值得关注的新功能](https://sspai.com/post/101027)
+* [【2025-07-26】 一日一技 | 如何用命令行将音乐转码到 iTunes Plus AAC](https://sspai.com/post/101340)
 * [【2025-07-25】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/101347)
 * [【2025-07-25】 具透 | iOS 26 Public Beta 终于来了，升级以后记得试试这些功能](https://sspai.com/post/101311)
 * [【2025-07-25】 iOS / iPadOS 26 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/101313)
@@ -43,8 +45,6 @@
 * [【2025-07-24】 新玩意 215｜少数派的编辑们最近买了啥？](https://sspai.com/post/101308)
 * [【2025-07-24】 国产主机游戏新作：《明末：渊虚之羽》游玩体验](https://sspai.com/post/101276)
 * [【2025-07-24】 一日一技 | 如何解决 PC 外接声卡的卡顿爆音问题](https://sspai.com/post/100623)
-* [【2025-07-24】 派早报：Apple 推出 AppleCare One、大疆将发布扫地机器人等](https://sspai.com/post/101291)
-* [【2025-07-23】 濑户内海之夏：远山淡影，爱的呼唤](https://sspai.com/post/100669)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-26 05:20:55
+:alarm_clock: 更新时间: 2025-07-27 05:23:48
