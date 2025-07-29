@@ -998,6 +998,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透 | watchOS 26 推出首个公测版，这些新功能值得尝鲜体验",
+                "link": "https://sspai.com/post/101397",
+                "published": "2025-07-29"
+            },
+            {
+                "title": "派早报：微软 Edge 更新 Copilot 模式，索尼就游戏抄袭问题起诉腾讯等",
+                "link": "https://sspai.com/post/101413",
+                "published": "2025-07-29"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/101405",
+                "published": "2025-07-28"
+            },
+            {
+                "title": "具透 | macOS Tahoe 26 推出公开测试版，你能提前看到这些亮点",
+                "link": "https://sspai.com/post/101018",
+                "published": "2025-07-28"
+            },
+            {
+                "title": "一日一技 | 用 AutoHotkey 偷偷背单词，甚至读本书",
+                "link": "https://sspai.com/post/101247",
+                "published": "2025-07-28"
+            },
+            {
+                "title": "派早报：Firefox 中国版宣布停止服务",
+                "link": "https://sspai.com/post/101383",
+                "published": "2025-07-28"
+            },
+            {
                 "title": "具透 | 新设计、桌面化……iPadOS 26 中你值得关注的新功能",
                 "link": "https://sspai.com/post/101027",
                 "published": "2025-07-27"
@@ -25588,7 +25618,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     },
     {
         "id": 2,
