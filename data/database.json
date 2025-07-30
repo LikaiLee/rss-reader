@@ -998,6 +998,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Apple Music 更新：借 iOS 26「东风」，向好看、好用更进一步",
+                "link": "https://sspai.com/post/101408",
+                "published": "2025-07-30"
+            },
+            {
+                "title": "派早报：理想 i8 正式发布等",
+                "link": "https://sspai.com/post/101452",
+                "published": "2025-07-30"
+            },
+            {
+                "title": "社区速递 103 | 一周最热评、新玩意，以及超丰富派友「苹替」史",
+                "link": "https://sspai.com/post/101432",
+                "published": "2025-07-29"
+            },
+            {
+                "title": "跑外卖三十三天，我窥见一座三线城市的肌理与褶皱",
+                "link": "https://sspai.com/post/101324",
+                "published": "2025-07-29"
+            },
+            {
                 "title": "具透 | watchOS 26 推出首个公测版，这些新功能值得尝鲜体验",
                 "link": "https://sspai.com/post/101397",
                 "published": "2025-07-29"
@@ -25618,7 +25638,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,

@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-07-30】 Apple Music 更新：借 iOS 26「东风」，向好看、好用更进一步](https://sspai.com/post/101408)
+* [【2025-07-30】 派早报：理想 i8 正式发布等](https://sspai.com/post/101452)
+* [【2025-07-29】 社区速递 103 | 一周最热评、新玩意，以及超丰富派友「苹替」史](https://sspai.com/post/101432)
+* [【2025-07-29】 跑外卖三十三天，我窥见一座三线城市的肌理与褶皱](https://sspai.com/post/101324)
 * [【2025-07-29】 具透 | watchOS 26 推出首个公测版，这些新功能值得尝鲜体验](https://sspai.com/post/101397)
 * [【2025-07-29】 派早报：微软 Edge 更新 Copilot 模式，索尼就游戏抄袭问题起诉腾讯等](https://sspai.com/post/101413)
 * [【2025-07-28】 派评 | 近期值得关注的 App](https://sspai.com/post/101405)
 * [【2025-07-28】 具透 | macOS Tahoe 26 推出公开测试版，你能提前看到这些亮点](https://sspai.com/post/101018)
 * [【2025-07-28】 一日一技 | 用 AutoHotkey 偷偷背单词，甚至读本书](https://sspai.com/post/101247)
 * [【2025-07-28】 派早报：Firefox 中国版宣布停止服务](https://sspai.com/post/101383)
-* [【2025-07-27】 具透 | 新设计、桌面化……iPadOS 26 中你值得关注的新功能](https://sspai.com/post/101027)
-* [【2025-07-26】 一日一技 | 如何用命令行将音乐转码到 iTunes Plus AAC](https://sspai.com/post/101340)
-* [【2025-07-25】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/101347)
-* [【2025-07-25】 具透 | iOS 26 Public Beta 终于来了，升级以后记得试试这些功能](https://sspai.com/post/101311)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-29 05:27:03
+:alarm_clock: 更新时间: 2025-07-30 05:27:19
