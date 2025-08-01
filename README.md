@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-08-01】 科技爱好者周刊（第 359 期）：Palantir 值得关注](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html)
 * [【2025-07-25】 科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-358.html)
 * [【2025-07-24】 扣子空间网页设计，是在挑战 V0 吗？](http://www.ruanyifeng.com/blog/2025/07/coze-space-web-design.html)
 * [【2025-07-22】 《唐纵日记》摘录](http://www.ruanyifeng.com/blog/2025/07/tangzong-diary.html)
@@ -25,7 +26,6 @@
 * [【2025-06-27】 科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)
 * [【2025-06-24】 国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)
 * [【2025-04-10】 科技爱好者周刊（第 344 期）：制造业正在"零工化"](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html)
-* [【2025-03-28】 科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-08-01】 派早报：大疆发布首款全景相机 Osmo 360、乐道 L90 发布等](https://sspai.com/post/101509)
+* [【2025-07-31】 本月玩什么 | 咚奇刚 蕉力全开、改善：工厂物语、Wheel World](https://sspai.com/post/101503)
+* [【2025-07-31】 新玩意 216｜少数派的编辑们最近买了啥？](https://sspai.com/post/101485)
+* [【2025-07-31】 六年北漂，我想和你聊点关于租房的事](https://sspai.com/post/100829)
 * [【2025-07-31】 派开箱 | Nothing Headphone (1) 无线降噪头戴耳机体验](https://sspai.com/post/101346)
 * [【2025-07-31】 派早报：Dropbox Password 将停止服务、PS 新增多项 AI 功能等](https://sspai.com/post/101480)
 * [【2025-07-30】 我如何为「霞鹜」系列字体添加 GB 18030-2022 字符集支持](https://sspai.com/post/101040)
 * [【2025-07-30】 少数派会员第五年，在老地方共创新惊喜](https://sspai.com/post/101440)
 * [【2025-07-30】 Apple Music 更新：借 iOS 26「东风」，向好看、好用更进一步](https://sspai.com/post/101408)
 * [【2025-07-30】 派早报：理想 i8 正式发布等](https://sspai.com/post/101452)
-* [【2025-07-29】 社区速递 103 | 一周最热评、新玩意，以及超丰富派友「苹替」史](https://sspai.com/post/101432)
-* [【2025-07-29】 跑外卖三十三天，我窥见一座三线城市的肌理与褶皱](https://sspai.com/post/101324)
-* [【2025-07-29】 具透 | watchOS 26 推出首个公测版，这些新功能值得尝鲜体验](https://sspai.com/post/101397)
-* [【2025-07-29】 派早报：微软 Edge 更新 Copilot 模式，索尼就游戏抄袭问题起诉腾讯等](https://sspai.com/post/101413)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-07-31 05:25:12
+:alarm_clock: 更新时间: 2025-08-01 05:29:50

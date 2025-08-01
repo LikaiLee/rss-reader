@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 359 期）：Palantir 值得关注",
+                "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html",
+                "published": "2025-08-01"
+            },
+            {
                 "title": "科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司",
                 "link": "http://www.ruanyifeng.com/blog/2025/07/weekly-issue-358.html",
                 "published": "2025-07-25"
@@ -990,13 +995,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派早报：大疆发布首款全景相机 Osmo 360、乐道 L90 发布等",
+                "link": "https://sspai.com/post/101509",
+                "published": "2025-08-01"
+            },
+            {
+                "title": "本月玩什么 | 咚奇刚 蕉力全开、改善：工厂物语、Wheel World",
+                "link": "https://sspai.com/post/101503",
+                "published": "2025-07-31"
+            },
+            {
+                "title": "新玩意 216｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/101485",
+                "published": "2025-07-31"
+            },
+            {
+                "title": "六年北漂，我想和你聊点关于租房的事",
+                "link": "https://sspai.com/post/100829",
+                "published": "2025-07-31"
+            },
             {
                 "title": "派开箱 | Nothing Headphone (1) 无线降噪头戴耳机体验",
                 "link": "https://sspai.com/post/101346",
