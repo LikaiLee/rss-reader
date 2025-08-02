@@ -995,13 +995,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/101524",
+                "published": "2025-08-01"
+            },
+            {
+                "title": "为什么我劝你不要练习正念冥想",
+                "link": "https://sspai.com/post/101205",
+                "published": "2025-08-01"
+            },
+            {
+                "title": "我的信息角落——晒出安静里的 Quote/0 摘录",
+                "link": "https://sspai.com/post/101517",
+                "published": "2025-08-01"
+            },
+            {
+                "title": "离职 10 年后，我又回到少数派了",
+                "link": "https://sspai.com/post/101404",
+                "published": "2025-08-01"
+            },
             {
                 "title": "派早报：大疆发布首款全景相机 Osmo 360、乐道 L90 发布等",
                 "link": "https://sspai.com/post/101509",
