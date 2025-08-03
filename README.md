@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2025-08-02】 笔记系统实战：以奖学金之名，我如何用 Obsidian 备考数学](https://sspai.com/post/101375)
 * [【2025-08-01】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/101524)
 * [【2025-08-01】 为什么我劝你不要练习正念冥想](https://sspai.com/post/101205)
 * [【2025-08-01】 我的信息角落——晒出安静里的 Quote/0 摘录](https://sspai.com/post/101517)
@@ -44,7 +45,6 @@
 * [【2025-07-31】 新玩意 216｜少数派的编辑们最近买了啥？](https://sspai.com/post/101485)
 * [【2025-07-31】 六年北漂，我想和你聊点关于租房的事](https://sspai.com/post/100829)
 * [【2025-07-31】 派开箱 | Nothing Headphone (1) 无线降噪头戴耳机体验](https://sspai.com/post/101346)
-* [【2025-07-31】 派早报：Dropbox Password 将停止服务、PS 新增多项 AI 功能等](https://sspai.com/post/101480)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-02 05:21:58
+:alarm_clock: 更新时间: 2025-08-03 05:25:09

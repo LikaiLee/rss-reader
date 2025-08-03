@@ -1003,6 +1003,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "笔记系统实战：以奖学金之名，我如何用 Obsidian 备考数学",
+                "link": "https://sspai.com/post/101375",
+                "published": "2025-08-02"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 8 部作品",
                 "link": "https://sspai.com/post/101524",
                 "published": "2025-08-01"
@@ -25703,7 +25708,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
