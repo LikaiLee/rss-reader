@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-08-04】 一日一技 | 让 Notion 树状结构数据库的筛选功能更实用](https://sspai.com/post/101372)
+* [【2025-08-04】 派早报：新劳动争议司法解释回应竞业等热点问题](https://sspai.com/post/101564)
+* [【2025-08-03】 在有限空间内装进更多可能：我的桌搭思路 & 好物分享](https://sspai.com/post/101250)
 * [【2025-08-02】 笔记系统实战：以奖学金之名，我如何用 Obsidian 备考数学](https://sspai.com/post/101375)
 * [【2025-08-01】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/101524)
 * [【2025-08-01】 为什么我劝你不要练习正念冥想](https://sspai.com/post/101205)
@@ -42,9 +45,6 @@
 * [【2025-08-01】 离职 10 年后，我又回到少数派了](https://sspai.com/post/101404)
 * [【2025-08-01】 派早报：大疆发布首款全景相机 Osmo 360、乐道 L90 发布等](https://sspai.com/post/101509)
 * [【2025-07-31】 本月玩什么 | 咚奇刚 蕉力全开、改善：工厂物语、Wheel World](https://sspai.com/post/101503)
-* [【2025-07-31】 新玩意 216｜少数派的编辑们最近买了啥？](https://sspai.com/post/101485)
-* [【2025-07-31】 六年北漂，我想和你聊点关于租房的事](https://sspai.com/post/100829)
-* [【2025-07-31】 派开箱 | Nothing Headphone (1) 无线降噪头戴耳机体验](https://sspai.com/post/101346)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-03 05:25:09
+:alarm_clock: 更新时间: 2025-08-04 05:35:11

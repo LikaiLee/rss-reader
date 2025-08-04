@@ -1003,6 +1003,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 让 Notion 树状结构数据库的筛选功能更实用",
+                "link": "https://sspai.com/post/101372",
+                "published": "2025-08-04"
+            },
+            {
+                "title": "派早报：新劳动争议司法解释回应竞业等热点问题",
+                "link": "https://sspai.com/post/101564",
+                "published": "2025-08-04"
+            },
+            {
+                "title": "在有限空间内装进更多可能：我的桌搭思路 & 好物分享",
+                "link": "https://sspai.com/post/101250",
+                "published": "2025-08-03"
+            },
+            {
                 "title": "笔记系统实战：以奖学金之名，我如何用 Obsidian 备考数学",
                 "link": "https://sspai.com/post/101375",
                 "published": "2025-08-02"
@@ -25708,7 +25723,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
