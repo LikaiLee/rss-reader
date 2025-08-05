@@ -1003,6 +1003,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我的南疆旅拍地图：喀什——塔县小环线",
+                "link": "https://sspai.com/post/101339",
+                "published": "2025-08-05"
+            },
+            {
+                "title": "派早报：微软逐步开源 WinUI、Google 保留部分短链接等",
+                "link": "https://sspai.com/post/101588",
+                "published": "2025-08-05"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/101576",
+                "published": "2025-08-04"
+            },
+            {
+                "title": "守护孩子的天马行空：美术专业就能做好幼儿美育启蒙吗？",
+                "link": "https://sspai.com/post/101488",
+                "published": "2025-08-04"
+            },
+            {
                 "title": "一日一技 | 让 Notion 树状结构数据库的筛选功能更实用",
                 "link": "https://sspai.com/post/101372",
                 "published": "2025-08-04"
@@ -25723,7 +25743,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
