@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-08-06】 一站式解决图片问题：我的 Obsidian+Hugo自动化发布流](https://sspai.com/post/101376)
+* [【2025-08-06】 派早报：AMD 推出 Radeon RX 9060 显卡等](https://sspai.com/post/101627)
+* [【2025-08-05】 社区速递 104 | 派友六月买了啥以及一周最热评、新玩意](https://sspai.com/post/101600)
+* [【2025-08-05】 Windows 视觉史 04（上）｜Longhorn：从「美学巅峰」到微软的「开发地狱」](https://sspai.com/post/89445)
 * [【2025-08-05】 我的南疆旅拍地图：喀什——塔县小环线](https://sspai.com/post/101339)
 * [【2025-08-05】 派早报：微软逐步开源 WinUI、Google 保留部分短链接等](https://sspai.com/post/101588)
 * [【2025-08-04】 派评 | 近期值得关注的 App](https://sspai.com/post/101576)
 * [【2025-08-04】 守护孩子的天马行空：美术专业就能做好幼儿美育启蒙吗？](https://sspai.com/post/101488)
 * [【2025-08-04】 一日一技 | 让 Notion 树状结构数据库的筛选功能更实用](https://sspai.com/post/101372)
 * [【2025-08-04】 派早报：新劳动争议司法解释回应竞业等热点问题](https://sspai.com/post/101564)
-* [【2025-08-03】 在有限空间内装进更多可能：我的桌搭思路 & 好物分享](https://sspai.com/post/101250)
-* [【2025-08-02】 笔记系统实战：以奖学金之名，我如何用 Obsidian 备考数学](https://sspai.com/post/101375)
-* [【2025-08-01】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/101524)
-* [【2025-08-01】 为什么我劝你不要练习正念冥想](https://sspai.com/post/101205)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-05 05:27:24
+:alarm_clock: 更新时间: 2025-08-06 05:28:26

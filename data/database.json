@@ -1003,6 +1003,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一站式解决图片问题：我的 Obsidian+Hugo自动化发布流",
+                "link": "https://sspai.com/post/101376",
+                "published": "2025-08-06"
+            },
+            {
+                "title": "派早报：AMD 推出 Radeon RX 9060 显卡等",
+                "link": "https://sspai.com/post/101627",
+                "published": "2025-08-06"
+            },
+            {
+                "title": "社区速递 104 | 派友六月买了啥以及一周最热评、新玩意",
+                "link": "https://sspai.com/post/101600",
+                "published": "2025-08-05"
+            },
+            {
+                "title": "Windows 视觉史 04（上）｜Longhorn：从「美学巅峰」到微软的「开发地狱」",
+                "link": "https://sspai.com/post/89445",
+                "published": "2025-08-05"
+            },
+            {
                 "title": "我的南疆旅拍地图：喀什——塔县小环线",
                 "link": "https://sspai.com/post/101339",
                 "published": "2025-08-05"
