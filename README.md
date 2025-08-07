@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-08-07】 一日一技｜一图两吃、加密通讯：如何将两种内塞进一张图片](https://sspai.com/post/101521)
+* [【2025-08-07】 派早报：大疆正式发布扫拖一体机器人、OpenAI 推出两款开源模型等](https://sspai.com/post/101656)
+* [【2025-08-06】 从零开始，改造一张可以用 Siri 控制的升降桌](https://sspai.com/prime/story/diy-a-siri-enabled-standing-desk)
+* [【2025-08-06】 日本浮生录 08：福岛三日，山路见远空](https://sspai.com/post/101579)
+* [【2025-08-06】 算不得工伤，至少能自救：浅谈人体工学鼠标](https://sspai.com/post/69064)
 * [【2025-08-06】 一站式解决图片问题：我的 Obsidian+Hugo自动化发布流](https://sspai.com/post/101376)
 * [【2025-08-06】 派早报：AMD 推出 Radeon RX 9060 显卡等](https://sspai.com/post/101627)
 * [【2025-08-05】 社区速递 104 | 派友六月买了啥以及一周最热评、新玩意](https://sspai.com/post/101600)
 * [【2025-08-05】 Windows 视觉史 04（上）｜Longhorn：从「美学巅峰」到微软的「开发地狱」](https://sspai.com/post/89445)
 * [【2025-08-05】 我的南疆旅拍地图：喀什——塔县小环线](https://sspai.com/post/101339)
-* [【2025-08-05】 派早报：微软逐步开源 WinUI、Google 保留部分短链接等](https://sspai.com/post/101588)
-* [【2025-08-04】 派评 | 近期值得关注的 App](https://sspai.com/post/101576)
-* [【2025-08-04】 守护孩子的天马行空：美术专业就能做好幼儿美育启蒙吗？](https://sspai.com/post/101488)
-* [【2025-08-04】 一日一技 | 让 Notion 树状结构数据库的筛选功能更实用](https://sspai.com/post/101372)
-* [【2025-08-04】 派早报：新劳动争议司法解释回应竞业等热点问题](https://sspai.com/post/101564)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-06 05:28:26
+:alarm_clock: 更新时间: 2025-08-07 05:27:01

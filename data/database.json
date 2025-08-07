@@ -1003,6 +1003,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技｜一图两吃、加密通讯：如何将两种内塞进一张图片",
+                "link": "https://sspai.com/post/101521",
+                "published": "2025-08-07"
+            },
+            {
+                "title": "派早报：大疆正式发布扫拖一体机器人、OpenAI 推出两款开源模型等",
+                "link": "https://sspai.com/post/101656",
+                "published": "2025-08-07"
+            },
+            {
+                "title": "从零开始，改造一张可以用 Siri 控制的升降桌",
+                "link": "https://sspai.com/prime/story/diy-a-siri-enabled-standing-desk",
+                "published": "2025-08-06"
+            },
+            {
+                "title": "日本浮生录 08：福岛三日，山路见远空",
+                "link": "https://sspai.com/post/101579",
+                "published": "2025-08-06"
+            },
+            {
+                "title": "算不得工伤，至少能自救：浅谈人体工学鼠标",
+                "link": "https://sspai.com/post/69064",
+                "published": "2025-08-06"
+            },
+            {
                 "title": "一站式解决图片问题：我的 Obsidian+Hugo自动化发布流",
                 "link": "https://sspai.com/post/101376",
                 "published": "2025-08-06"
@@ -25763,7 +25788,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
