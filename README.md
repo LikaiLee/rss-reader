@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-08-08】 科技爱好者周刊（第 360 期）：Dan Wang 的新书](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-360.html)
 * [【2025-08-01】 科技爱好者周刊（第 359 期）：Palantir 值得关注](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html)
 * [【2025-07-25】 科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-358.html)
 * [【2025-07-24】 扣子空间网页设计，是在挑战 V0 吗？](http://www.ruanyifeng.com/blog/2025/07/coze-space-web-design.html)
@@ -25,7 +26,6 @@
 * [【2025-07-04】 科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)
 * [【2025-06-27】 科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)
 * [【2025-06-24】 国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)
-* [【2025-04-10】 科技爱好者周刊（第 344 期）：制造业正在"零工化"](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-08-08】 立秋给不了的凉意它给你：2025 空调选购指南](https://sspai.com/post/101621)
+* [【2025-08-08】 派早报：OpenAI 发布新一代旗舰模型 GPT-5、Google 推出异步 AI 编程工具 Jules 等](https://sspai.com/post/101691)
+* [【2025-08-07】 超越信息收集：从认知科学角度看笔记](https://sspai.com/post/101574)
+* [【2025-08-07】 记账 3000 多天，我迭代出了哪些小心得？](https://sspai.com/post/99311)
+* [【2025-08-07】 一日一技｜一图两吃、加密通讯：如何将两种内容塞进一张图片](https://sspai.com/post/101521)
 * [【2025-08-07】 一日一技｜一图两吃、加密通讯：如何将两种内塞进一张图片](https://sspai.com/post/101521)
 * [【2025-08-07】 派早报：大疆正式发布扫拖一体机器人、OpenAI 推出两款开源模型等](https://sspai.com/post/101656)
 * [【2025-08-06】 从零开始，改造一张可以用 Siri 控制的升降桌](https://sspai.com/prime/story/diy-a-siri-enabled-standing-desk)
 * [【2025-08-06】 日本浮生录 08：福岛三日，山路见远空](https://sspai.com/post/101579)
 * [【2025-08-06】 算不得工伤，至少能自救：浅谈人体工学鼠标](https://sspai.com/post/69064)
-* [【2025-08-06】 一站式解决图片问题：我的 Obsidian+Hugo自动化发布流](https://sspai.com/post/101376)
-* [【2025-08-06】 派早报：AMD 推出 Radeon RX 9060 显卡等](https://sspai.com/post/101627)
-* [【2025-08-05】 社区速递 104 | 派友六月买了啥以及一周最热评、新玩意](https://sspai.com/post/101600)
-* [【2025-08-05】 Windows 视觉史 04（上）｜Longhorn：从「美学巅峰」到微软的「开发地狱」](https://sspai.com/post/89445)
-* [【2025-08-05】 我的南疆旅拍地图：喀什——塔县小环线](https://sspai.com/post/101339)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-07 05:27:01
+:alarm_clock: 更新时间: 2025-08-08 05:27:09

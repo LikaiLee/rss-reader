@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 360 期）：Dan Wang 的新书",
+                "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-360.html",
+                "published": "2025-08-08"
+            },
+            {
                 "title": "科技爱好者周刊（第 359 期）：Palantir 值得关注",
                 "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html",
                 "published": "2025-08-01"
@@ -995,13 +1000,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "立秋给不了的凉意它给你：2025 空调选购指南",
+                "link": "https://sspai.com/post/101621",
+                "published": "2025-08-08"
+            },
+            {
+                "title": "派早报：OpenAI 发布新一代旗舰模型 GPT-5、Google 推出异步 AI 编程工具 Jules 等",
+                "link": "https://sspai.com/post/101691",
+                "published": "2025-08-08"
+            },
+            {
+                "title": "超越信息收集：从认知科学角度看笔记",
+                "link": "https://sspai.com/post/101574",
+                "published": "2025-08-07"
+            },
+            {
+                "title": "记账 3000 多天，我迭代出了哪些小心得？",
+                "link": "https://sspai.com/post/99311",
+                "published": "2025-08-07"
+            },
+            {
+                "title": "一日一技｜一图两吃、加密通讯：如何将两种内容塞进一张图片",
+                "link": "https://sspai.com/post/101521",
+                "published": "2025-08-07"
+            },
             {
                 "title": "一日一技｜一图两吃、加密通讯：如何将两种内塞进一张图片",
                 "link": "https://sspai.com/post/101521",
