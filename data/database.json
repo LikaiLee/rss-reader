@@ -1008,6 +1008,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "曾经远在天边，如今近在眼前：用 Mac 解锁本地 AI 新可能",
+                "link": "https://sspai.com/post/101711",
+                "published": "2025-08-09"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/101710",
                 "published": "2025-08-08"
@@ -25828,7 +25833,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,

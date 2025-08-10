@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2025-08-09】 曾经远在天边，如今近在眼前：用 Mac 解锁本地 AI 新可能](https://sspai.com/post/101711)
 * [【2025-08-08】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/101710)
 * [【2025-08-08】 用树莓派手搓家用伪 NAS(上）：系统的安装与配置](https://sspai.com/post/101622)
 * [【2025-08-08】 立秋给不了的凉意它给你：2025 空调选购指南](https://sspai.com/post/101621)
@@ -44,7 +45,6 @@
 * [【2025-08-07】 一日一技｜一图两吃、加密通讯：如何将两种内容塞进一张图片](https://sspai.com/post/101521)
 * [【2025-08-07】 一日一技｜一图两吃、加密通讯：如何将两种内塞进一张图片](https://sspai.com/post/101521)
 * [【2025-08-07】 派早报：大疆正式发布扫拖一体机器人、OpenAI 推出两款开源模型等](https://sspai.com/post/101656)
-* [【2025-08-06】 从零开始，改造一张可以用 Siri 控制的升降桌](https://sspai.com/prime/story/diy-a-siri-enabled-standing-desk)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-09 05:17:39
+:alarm_clock: 更新时间: 2025-08-10 05:21:36
