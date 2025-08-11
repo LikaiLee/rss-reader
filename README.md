@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-08-11】 都是因为热爱：我与黑莓的十三年](https://sspai.com/post/101672)
+* [【2025-08-11】 派早报：面对批评，OpenAI 重新向 Plus 用户开放 4o 模型](https://sspai.com/post/101748)
+* [【2025-08-10】 云巅之上——六天五晚川西之旅（上）](https://sspai.com/post/101669)
 * [【2025-08-09】 曾经远在天边，如今近在眼前：用 Mac 解锁本地 AI 新可能](https://sspai.com/post/101711)
 * [【2025-08-08】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/101710)
 * [【2025-08-08】 用树莓派手搓家用伪 NAS(上）：系统的安装与配置](https://sspai.com/post/101622)
@@ -42,9 +45,6 @@
 * [【2025-08-08】 派早报：OpenAI 发布新一代旗舰模型 GPT-5、Google 推出异步 AI 编程工具 Jules 等](https://sspai.com/post/101691)
 * [【2025-08-07】 超越信息收集：从认知科学角度看笔记](https://sspai.com/post/101574)
 * [【2025-08-07】 记账 3000 多天，我迭代出了哪些小心得？](https://sspai.com/post/99311)
-* [【2025-08-07】 一日一技｜一图两吃、加密通讯：如何将两种内容塞进一张图片](https://sspai.com/post/101521)
-* [【2025-08-07】 一日一技｜一图两吃、加密通讯：如何将两种内塞进一张图片](https://sspai.com/post/101521)
-* [【2025-08-07】 派早报：大疆正式发布扫拖一体机器人、OpenAI 推出两款开源模型等](https://sspai.com/post/101656)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-10 05:21:36
+:alarm_clock: 更新时间: 2025-08-11 05:25:54

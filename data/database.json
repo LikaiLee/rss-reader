@@ -1008,6 +1008,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "都是因为热爱：我与黑莓的十三年",
+                "link": "https://sspai.com/post/101672",
+                "published": "2025-08-11"
+            },
+            {
+                "title": "派早报：面对批评，OpenAI 重新向 Plus 用户开放 4o 模型",
+                "link": "https://sspai.com/post/101748",
+                "published": "2025-08-11"
+            },
+            {
+                "title": "云巅之上——六天五晚川西之旅（上）",
+                "link": "https://sspai.com/post/101669",
+                "published": "2025-08-10"
+            },
+            {
                 "title": "曾经远在天边，如今近在眼前：用 Mac 解锁本地 AI 新可能",
                 "link": "https://sspai.com/post/101711",
                 "published": "2025-08-09"
@@ -25833,7 +25848,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
