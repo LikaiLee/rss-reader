@@ -1008,6 +1008,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "巧用 Notion 搭建运动健身记录看板",
+                "link": "https://sspai.com/post/101688",
+                "published": "2025-08-12"
+            },
+            {
+                "title": "派早报：微软将关闭 Microsoft Lens，智谱发布 GLM-4.5V 等",
+                "link": "https://sspai.com/post/101772",
+                "published": "2025-08-12"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/101767",
+                "published": "2025-08-11"
+            },
+            {
+                "title": "心动时刻，Quote/0 成双：七夕限定惊喜上线。",
+                "link": "https://sspai.com/post/101762",
+                "published": "2025-08-11"
+            },
+            {
+                "title": "讲你知，Apple 嘅粤语编年史",
+                "link": "https://sspai.com/post/98053",
+                "published": "2025-08-11"
+            },
+            {
                 "title": "都是因为热爱：我与黑莓的十三年",
                 "link": "https://sspai.com/post/101672",
                 "published": "2025-08-11"
@@ -25848,7 +25873,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
