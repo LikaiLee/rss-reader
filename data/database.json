@@ -1008,6 +1008,46 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一年来改错，越用错越多：HMD Skyline 一年主力使用评测",
+                "link": "https://sspai.com/post/101718",
+                "published": "2025-08-14"
+            },
+            {
+                "title": "派早报：阿里小号暂缓停服、Perplexity 计划收购 Chrome 等",
+                "link": "https://sspai.com/post/101819",
+                "published": "2025-08-14"
+            },
+            {
+                "title": "一日一技 | 用 TLP 解锁 Linux 笔记本的长续航体验",
+                "link": "https://sspai.com/post/101744",
+                "published": "2025-08-13"
+            },
+            {
+                "title": "深入 Nothing Phone (3)：这是 2025 年最好玩的手机",
+                "link": "https://sspai.com/post/101761",
+                "published": "2025-08-13"
+            },
+            {
+                "title": "Liquid Glass 继续调整，iOS 26 Beta 近期更新值得关注的变化",
+                "link": "https://sspai.com/post/101792",
+                "published": "2025-08-13"
+            },
+            {
+                "title": "派早报：美光回应中国区业务调整、Matter 1.4.2 版本发布等",
+                "link": "https://sspai.com/post/101795",
+                "published": "2025-08-13"
+            },
+            {
+                "title": "社区速递 105 | 派友的桌面装备以及一周最热评、新玩意",
+                "link": "https://sspai.com/post/101781",
+                "published": "2025-08-12"
+            },
+            {
+                "title": "大鲨四代，降噪如一：Bose QuietComfort 消噪耳塞 Ultra II 体验",
+                "link": "https://sspai.com/post/101722",
+                "published": "2025-08-12"
+            },
+            {
                 "title": "巧用 Notion 搭建运动健身记录看板",
                 "link": "https://sspai.com/post/101688",
                 "published": "2025-08-12"
@@ -25873,7 +25913,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 8
     },
     {
         "id": 2,

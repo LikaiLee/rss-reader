@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+8】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-08-14】 一年来改错，越用错越多：HMD Skyline 一年主力使用评测](https://sspai.com/post/101718)
+* [【2025-08-14】 派早报：阿里小号暂缓停服、Perplexity 计划收购 Chrome 等](https://sspai.com/post/101819)
+* [【2025-08-13】 一日一技 | 用 TLP 解锁 Linux 笔记本的长续航体验](https://sspai.com/post/101744)
+* [【2025-08-13】 深入 Nothing Phone (3)：这是 2025 年最好玩的手机](https://sspai.com/post/101761)
+* [【2025-08-13】 Liquid Glass 继续调整，iOS 26 Beta 近期更新值得关注的变化](https://sspai.com/post/101792)
+* [【2025-08-13】 派早报：美光回应中国区业务调整、Matter 1.4.2 版本发布等](https://sspai.com/post/101795)
+* [【2025-08-12】 社区速递 105 | 派友的桌面装备以及一周最热评、新玩意](https://sspai.com/post/101781)
+* [【2025-08-12】 大鲨四代，降噪如一：Bose QuietComfort 消噪耳塞 Ultra II 体验](https://sspai.com/post/101722)
 * [【2025-08-12】 巧用 Notion 搭建运动健身记录看板](https://sspai.com/post/101688)
 * [【2025-08-12】 派早报：微软将关闭 Microsoft Lens，智谱发布 GLM-4.5V 等](https://sspai.com/post/101772)
-* [【2025-08-11】 派评 | 近期值得关注的 App](https://sspai.com/post/101767)
-* [【2025-08-11】 心动时刻，Quote/0 成双：七夕限定惊喜上线。](https://sspai.com/post/101762)
-* [【2025-08-11】 讲你知，Apple 嘅粤语编年史](https://sspai.com/post/98053)
-* [【2025-08-11】 都是因为热爱：我与黑莓的十三年](https://sspai.com/post/101672)
-* [【2025-08-11】 派早报：面对批评，OpenAI 重新向 Plus 用户开放 4o 模型](https://sspai.com/post/101748)
-* [【2025-08-10】 云巅之上——六天五晚川西之旅（上）](https://sspai.com/post/101669)
-* [【2025-08-09】 曾经远在天边，如今近在眼前：用 Mac 解锁本地 AI 新可能](https://sspai.com/post/101711)
-* [【2025-08-08】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/101710)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-12 05:17:59
+:alarm_clock: 更新时间: 2025-08-14 05:18:42
