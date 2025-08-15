@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+8】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-08-15】 科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html)
 * [【2025-08-08】 科技爱好者周刊（第 360 期）：Dan Wang 的新书](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-360.html)
 * [【2025-08-01】 科技爱好者周刊（第 359 期）：Palantir 值得关注](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html)
 * [【2025-07-25】 科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-358.html)
@@ -25,7 +26,6 @@
 * [【2025-07-11】 科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html)
 * [【2025-07-04】 科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)
 * [【2025-06-27】 科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)
-* [【2025-06-24】 国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-08-15】 App+1｜出国旅游总得问价，如何让陌生货币变「直观」？](https://sspai.com/post/101678)
+* [【2025-08-15】 派早报：HTC 发布 AI 智能眼镜 VIVE Eagle等](https://sspai.com/post/101841)
+* [【2025-08-14】 新玩意 217｜少数派的编辑们最近买了啥？](https://sspai.com/post/101824)
+* [【2025-08-14】 深圳第三家零售店开幕在即，Apple 前海壹方城抢先看](https://sspai.com/post/101827)
 * [【2025-08-14】 一年来改错，越用错越多：HMD Skyline 一年主力使用评测](https://sspai.com/post/101718)
 * [【2025-08-14】 派早报：阿里小号暂缓停服、Perplexity 计划收购 Chrome 等](https://sspai.com/post/101819)
 * [【2025-08-13】 一日一技 | 用 TLP 解锁 Linux 笔记本的长续航体验](https://sspai.com/post/101744)
 * [【2025-08-13】 深入 Nothing Phone (3)：这是 2025 年最好玩的手机](https://sspai.com/post/101761)
 * [【2025-08-13】 Liquid Glass 继续调整，iOS 26 Beta 近期更新值得关注的变化](https://sspai.com/post/101792)
 * [【2025-08-13】 派早报：美光回应中国区业务调整、Matter 1.4.2 版本发布等](https://sspai.com/post/101795)
-* [【2025-08-12】 社区速递 105 | 派友的桌面装备以及一周最热评、新玩意](https://sspai.com/post/101781)
-* [【2025-08-12】 大鲨四代，降噪如一：Bose QuietComfort 消噪耳塞 Ultra II 体验](https://sspai.com/post/101722)
-* [【2025-08-12】 巧用 Notion 搭建运动健身记录看板](https://sspai.com/post/101688)
-* [【2025-08-12】 派早报：微软将关闭 Microsoft Lens，智谱发布 GLM-4.5V 等](https://sspai.com/post/101772)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-14 05:18:42
+:alarm_clock: 更新时间: 2025-08-15 05:19:00

@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？",
+                "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html",
+                "published": "2025-08-15"
+            },
+            {
                 "title": "科技爱好者周刊（第 360 期）：Dan Wang 的新书",
                 "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-360.html",
                 "published": "2025-08-08"
@@ -1000,13 +1005,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "App+1｜出国旅游总得问价，如何让陌生货币变「直观」？",
+                "link": "https://sspai.com/post/101678",
+                "published": "2025-08-15"
+            },
+            {
+                "title": "派早报：HTC 发布 AI 智能眼镜 VIVE Eagle等",
+                "link": "https://sspai.com/post/101841",
+                "published": "2025-08-15"
+            },
+            {
+                "title": "新玩意 217｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/101824",
+                "published": "2025-08-14"
+            },
+            {
+                "title": "深圳第三家零售店开幕在即，Apple 前海壹方城抢先看",
+                "link": "https://sspai.com/post/101827",
+                "published": "2025-08-14"
+            },
             {
                 "title": "一年来改错，越用错越多：HMD Skyline 一年主力使用评测",
                 "link": "https://sspai.com/post/101718",
@@ -25913,7 +25938,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 4
     },
     {
         "id": 2,
