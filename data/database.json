@@ -1005,13 +1005,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/101852",
+                "published": "2025-08-15"
+            },
+            {
+                "title": "微软在用 Office 文件格式蓄意破坏竞争吗？",
+                "link": "https://sspai.com/prime/story/is-ooxml-artificially-complex",
+                "published": "2025-08-15"
+            },
+            {
+                "title": "游戏杂谈：聊聊游戏地图的美学张力",
+                "link": "https://sspai.com/post/101806",
+                "published": "2025-08-15"
+            },
+            {
+                "title": "App+1｜出国旅游总得问价，如何让陌生货币变「直观」？[送码]",
+                "link": "https://sspai.com/post/101678",
+                "published": "2025-08-15"
+            },
             {
                 "title": "App+1｜出国旅游总得问价，如何让陌生货币变「直观」？",
                 "link": "https://sspai.com/post/101678",
