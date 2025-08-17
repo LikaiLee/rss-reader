@@ -1013,6 +1013,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "下个假日遥遥无期，和划水学教授水獭复习如何科学摸鱼",
+                "link": "https://sspai.com/post/101860",
+                "published": "2025-08-16"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 8 部作品",
                 "link": "https://sspai.com/post/101852",
                 "published": "2025-08-15"
@@ -25958,7 +25963,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,

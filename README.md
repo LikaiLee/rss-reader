@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2025-08-16】 下个假日遥遥无期，和划水学教授水獭复习如何科学摸鱼](https://sspai.com/post/101860)
 * [【2025-08-15】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/101852)
 * [【2025-08-15】 微软在用 Office 文件格式蓄意破坏竞争吗？](https://sspai.com/prime/story/is-ooxml-artificially-complex)
 * [【2025-08-15】 游戏杂谈：聊聊游戏地图的美学张力](https://sspai.com/post/101806)
@@ -44,7 +45,6 @@
 * [【2025-08-14】 新玩意 217｜少数派的编辑们最近买了啥？](https://sspai.com/post/101824)
 * [【2025-08-14】 深圳第三家零售店开幕在即，Apple 前海壹方城抢先看](https://sspai.com/post/101827)
 * [【2025-08-14】 一年来改错，越用错越多：HMD Skyline 一年主力使用评测](https://sspai.com/post/101718)
-* [【2025-08-14】 派早报：阿里小号暂缓停服、Perplexity 计划收购 Chrome 等](https://sspai.com/post/101819)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-16 05:17:09
+:alarm_clock: 更新时间: 2025-08-17 05:17:38
