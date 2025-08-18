@@ -1013,6 +1013,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "在 Mac 上爽玩游戏？我的折腾与收获",
+                "link": "https://sspai.com/post/101506",
+                "published": "2025-08-18"
+            },
+            {
+                "title": "派早报：机场拦截充电宝回流市场",
+                "link": "https://sspai.com/post/101913",
+                "published": "2025-08-18"
+            },
+            {
+                "title": "具透｜「胡萝卜手指」选字难：Flyme 的 Aicy 识屏是怎么做的？",
+                "link": "https://sspai.com/post/101567",
+                "published": "2025-08-17"
+            },
+            {
                 "title": "下个假日遥遥无期，和划水学教授水獭复习如何科学摸鱼",
                 "link": "https://sspai.com/post/101860",
                 "published": "2025-08-16"
@@ -25963,7 +25978,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
