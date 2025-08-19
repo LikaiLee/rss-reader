@@ -1013,6 +1013,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "初见喀什：恍惚闯入的「横店影视城」",
+                "link": "https://sspai.com/post/100766",
+                "published": "2025-08-19"
+            },
+            {
+                "title": "派早报：微信支持部分引用等功能，金标联盟沙龙确认多项 Android 适配工作等",
+                "link": "https://sspai.com/post/101930",
+                "published": "2025-08-19"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/101923",
+                "published": "2025-08-18"
+            },
+            {
+                "title": "Setapp 车门焊死，你用的 app「平替」有哪些？",
+                "link": "https://sspai.com/post/101914",
+                "published": "2025-08-18"
+            },
+            {
                 "title": "在 Mac 上爽玩游戏？我的折腾与收获",
                 "link": "https://sspai.com/post/101506",
                 "published": "2025-08-18"
@@ -25978,7 +25998,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
