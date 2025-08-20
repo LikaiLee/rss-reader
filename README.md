@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-08-20】 数字里的小宇宙：播客内容生态解析报告](https://sspai.com/post/100887)
+* [【2025-08-19】 派早报：高通发布骁龙 7s Gen 4 移动平台等](https://sspai.com/post/101962)
+* [【2025-08-19】 社区速递 106 | 派友的会员订阅选择与 Setapp 平替、新玩意](https://sspai.com/post/101948)
+* [【2025-08-19】 浏览器扩展合集：实用而有趣的浏览器扩展，我们又为你找到了这 9 款](https://sspai.com/post/101936)
 * [【2025-08-19】 初见喀什：恍惚闯入的「横店影视城」](https://sspai.com/post/100766)
 * [【2025-08-19】 派早报：微信支持部分引用等功能，金标联盟沙龙确认多项 Android 适配工作等](https://sspai.com/post/101930)
 * [【2025-08-18】 派评 | 近期值得关注的 App](https://sspai.com/post/101923)
 * [【2025-08-18】 Setapp 车门焊死，你用的 app「平替」有哪些？](https://sspai.com/post/101914)
 * [【2025-08-18】 在 Mac 上爽玩游戏？我的折腾与收获](https://sspai.com/post/101506)
 * [【2025-08-18】 派早报：机场拦截充电宝回流市场](https://sspai.com/post/101913)
-* [【2025-08-17】 具透｜「胡萝卜手指」选字难：Flyme 的 Aicy 识屏是怎么做的？](https://sspai.com/post/101567)
-* [【2025-08-16】 下个假日遥遥无期，和划水学教授水獭复习如何科学摸鱼](https://sspai.com/post/101860)
-* [【2025-08-15】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/101852)
-* [【2025-08-15】 微软在用 Office 文件格式蓄意破坏竞争吗？](https://sspai.com/prime/story/is-ooxml-artificially-complex)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-19 05:17:16
+:alarm_clock: 更新时间: 2025-08-20 05:17:27
