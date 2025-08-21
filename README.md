@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-08-21】 巧妙而实用的模块化露营工具包：Aecooly CamperKit 套装模块体验](https://sspai.com/post/101237)
+* [【2025-08-21】 《黑神话：钟馗》公布先导预告，科隆游戏展开幕夜消息汇总](https://sspai.com/post/101983)
+* [【2025-08-21】 派早报：Google 发布 Pixel 10 系列，《黑神话：钟馗》确认等](https://sspai.com/post/101994)
+* [【2025-08-20】 App+1 | 词迹：通过收集句子或段落来学英语](https://sspai.com/post/101029)
+* [【2025-08-20】 立秋过了蚊虫未走，选驱蚊产品请先认准成分](https://sspai.com/post/60304)
 * [【2025-08-20】 数字里的小宇宙：播客内容生态解析报告](https://sspai.com/post/100887)
 * [【2025-08-19】 派早报：高通发布骁龙 7s Gen 4 移动平台等](https://sspai.com/post/101962)
 * [【2025-08-19】 社区速递 106 | 派友的会员订阅选择与 Setapp 平替、新玩意](https://sspai.com/post/101948)
 * [【2025-08-19】 浏览器扩展合集：实用而有趣的浏览器扩展，我们又为你找到了这 9 款](https://sspai.com/post/101936)
 * [【2025-08-19】 初见喀什：恍惚闯入的「横店影视城」](https://sspai.com/post/100766)
-* [【2025-08-19】 派早报：微信支持部分引用等功能，金标联盟沙龙确认多项 Android 适配工作等](https://sspai.com/post/101930)
-* [【2025-08-18】 派评 | 近期值得关注的 App](https://sspai.com/post/101923)
-* [【2025-08-18】 Setapp 车门焊死，你用的 app「平替」有哪些？](https://sspai.com/post/101914)
-* [【2025-08-18】 在 Mac 上爽玩游戏？我的折腾与收获](https://sspai.com/post/101506)
-* [【2025-08-18】 派早报：机场拦截充电宝回流市场](https://sspai.com/post/101913)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-20 05:17:27
+:alarm_clock: 更新时间: 2025-08-21 05:17:42
