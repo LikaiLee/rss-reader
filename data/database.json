@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计",
+                "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html",
+                "published": "2025-08-22"
+            },
+            {
                 "title": "科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？",
                 "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html",
                 "published": "2025-08-15"
@@ -1005,13 +1010,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "不到 400 元满足全学龄，DIY 实木电动升降儿童桌组装实记",
+                "link": "https://sspai.com/post/101073",
+                "published": "2025-08-22"
+            },
+            {
+                "title": "派早报：荣耀发布小折叠屏手机 Magic V Flip2 等",
+                "link": "https://sspai.com/post/102019",
+                "published": "2025-08-22"
+            },
+            {
+                "title": "新玩意 218｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/102013",
+                "published": "2025-08-21"
+            },
             {
                 "title": "巧妙而实用的模块化露营工具包：Aecooly CamperKit 套装模块体验",
                 "link": "https://sspai.com/post/101237",
@@ -26043,7 +26063,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
