@@ -1010,13 +1010,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "「霞鹜」系列字体作者都装了啥？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-250822",
+                "published": "2025-08-22"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/102041",
+                "published": "2025-08-22"
+            },
+            {
+                "title": "专注飞机：用一场虚拟飞行让你保持专注",
+                "link": "https://sspai.com/post/101971",
+                "published": "2025-08-22"
+            },
             {
                 "title": "不到 400 元满足全学龄，DIY 实木电动升降儿童桌组装实记",
                 "link": "https://sspai.com/post/101073",
