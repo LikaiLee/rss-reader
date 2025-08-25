@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-08-25】 告别繁琐、搞定你的字幕需求：一站式开源处理工具 Subtitle Edit](https://sspai.com/post/101614)
+* [【2025-08-25】 派早报：特朗普政府获得英特尔 10% 股份](https://sspai.com/post/102064)
+* [【2025-08-24】 官方「数据库」上线，Obsidian 可以替代 Notion 了吗？](https://sspai.com/post/102002)
 * [【2025-08-23】 年轻的朋友，咱们不要太心急：关于耐心的 3 点思考](https://sspai.com/post/101302)
 * [【2025-08-22】 「霞鹜」系列字体作者都装了啥？](https://sspai.com/prime/story/zhuanglesha-250822)
 * [【2025-08-22】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/102041)
@@ -42,9 +45,6 @@
 * [【2025-08-22】 不到 400 元满足全学龄，DIY 实木电动升降儿童桌组装实记](https://sspai.com/post/101073)
 * [【2025-08-22】 派早报：荣耀发布小折叠屏手机 Magic V Flip2 等](https://sspai.com/post/102019)
 * [【2025-08-21】 新玩意 218｜少数派的编辑们最近买了啥？](https://sspai.com/post/102013)
-* [【2025-08-21】 巧妙而实用的模块化露营工具包：Aecooly CamperKit 套装模块体验](https://sspai.com/post/101237)
-* [【2025-08-21】 《黑神话：钟馗》公布先导预告，科隆游戏展开幕夜消息汇总](https://sspai.com/post/101983)
-* [【2025-08-21】 派早报：Google 发布 Pixel 10 系列，《黑神话：钟馗》确认等](https://sspai.com/post/101994)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-24 05:16:48
+:alarm_clock: 更新时间: 2025-08-25 05:18:29
