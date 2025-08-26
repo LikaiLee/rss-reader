@@ -1018,6 +1018,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "打工人留学的现实成本与结局",
+                "link": "https://sspai.com/post/101882",
+                "published": "2025-08-26"
+            },
+            {
+                "title": "派早报：鸿蒙智行举办秋季新品发布会，钉钉推出首款 AI 硬件等",
+                "link": "https://sspai.com/post/102095",
+                "published": "2025-08-26"
+            },
+            {
+                "title": "派评｜近期值得关注的 App",
+                "link": "https://sspai.com/post/102085",
+                "published": "2025-08-25"
+            },
+            {
+                "title": "为什么网购总买不到满意的衣服？拆解「货不对版」的系统性成因",
+                "link": "https://sspai.com/post/101980",
+                "published": "2025-08-25"
+            },
+            {
                 "title": "告别繁琐、搞定你的字幕需求：一站式开源处理工具 Subtitle Edit",
                 "link": "https://sspai.com/post/101614",
                 "published": "2025-08-25"
@@ -26098,7 +26118,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
