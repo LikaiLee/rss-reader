@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-08-27】 打造「个人数据中心」第一步：OMV 从上手到文件共享配置](https://sspai.com/post/100313)
+* [【2025-08-26】 派早报：Apple 特别活动将于 9 月 9 日举行等](https://sspai.com/post/102110)
+* [【2025-08-26】 具透 Plus：Debian 13 一些有趣的新特性，Windows 引入快速恢复机制](https://sspai.com/prime/story/inside-release-notes-250826)
+* [【2025-08-26】 社区速递 107 | 派友热议 Mac 游戏体验，以及夏日驱蚊产品怎么选](https://sspai.com/post/102100)
+* [【2025-08-26】 曾是 iPhone 的心脏，现以 Pixel 形态出击：聊聊 Google Tensor G5 的 GPU 架构](https://sspai.com/post/101859)
 * [【2025-08-26】 打工人留学的现实成本与结局](https://sspai.com/post/101882)
 * [【2025-08-26】 派早报：鸿蒙智行举办秋季新品发布会，钉钉推出首款 AI 硬件等](https://sspai.com/post/102095)
 * [【2025-08-25】 派评｜近期值得关注的 App](https://sspai.com/post/102085)
 * [【2025-08-25】 为什么网购总买不到满意的衣服？拆解「货不对版」的系统性成因](https://sspai.com/post/101980)
 * [【2025-08-25】 告别繁琐、搞定你的字幕需求：一站式开源处理工具 Subtitle Edit](https://sspai.com/post/101614)
-* [【2025-08-25】 派早报：特朗普政府获得英特尔 10% 股份](https://sspai.com/post/102064)
-* [【2025-08-24】 官方「数据库」上线，Obsidian 可以替代 Notion 了吗？](https://sspai.com/post/102002)
-* [【2025-08-23】 年轻的朋友，咱们不要太心急：关于耐心的 3 点思考](https://sspai.com/post/101302)
-* [【2025-08-22】 「霞鹜」系列字体作者都装了啥？](https://sspai.com/prime/story/zhuanglesha-250822)
-* [【2025-08-22】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/102041)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-26 05:17:52
+:alarm_clock: 更新时间: 2025-08-27 05:16:35
