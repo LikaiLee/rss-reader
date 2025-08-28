@@ -1018,6 +1018,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "老车主、新视角：小鹏 MONA M03 Max 随行体验",
+                "link": "https://sspai.com/post/102094",
+                "published": "2025-08-28"
+            },
+            {
+                "title": "派早报：Google 发布图像生成模型 nano banana、华为公开三折叠新品等",
+                "link": "https://sspai.com/post/102141",
+                "published": "2025-08-28"
+            },
+            {
+                "title": "四万块组建入门级全屋智能，我买了哪些称心如意的好物",
+                "link": "https://sspai.com/post/101818",
+                "published": "2025-08-27"
+            },
+            {
+                "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
+                "link": "https://sspai.com/post/68227",
+                "published": "2025-08-27"
+            },
+            {
                 "title": "打造「个人数据中心」第一步：OMV 从上手到文件共享配置",
                 "link": "https://sspai.com/post/100313",
                 "published": "2025-08-27"
@@ -26143,7 +26163,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
