@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 363 期）：最好懂的神经网络解释",
+                "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html",
+                "published": "2025-08-29"
+            },
+            {
                 "title": "科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计",
                 "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html",
                 "published": "2025-08-22"
@@ -1010,13 +1015,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "门票 145 块还要爬 900 级台阶，赛里木湖值不值？",
+                "link": "https://sspai.com/post/102157",
+                "published": "2025-08-29"
+            },
+            {
+                "title": "派早报：小米发布澎湃 OS3 系统、Chipolo 发布两款可充电跟踪器等",
+                "link": "https://sspai.com/post/102174",
+                "published": "2025-08-29"
+            },
+            {
+                "title": "新玩意 219｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/102159",
+                "published": "2025-08-28"
+            },
+            {
+                "title": "共创栏目预览 | 久坐一族如何缓解腰背酸痛",
+                "link": "https://sspai.com/post/102102",
+                "published": "2025-08-28"
+            },
             {
                 "title": "老车主、新视角：小鹏 MONA M03 Max 随行体验",
                 "link": "https://sspai.com/post/102094",

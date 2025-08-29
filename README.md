@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-08-29】 科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html)
 * [【2025-08-22】 科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html)
 * [【2025-08-15】 科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html)
 * [【2025-08-08】 科技爱好者周刊（第 360 期）：Dan Wang 的新书](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-360.html)
@@ -25,7 +26,6 @@
 * [【2025-07-22】 《唐纵日记》摘录](http://www.ruanyifeng.com/blog/2025/07/tangzong-diary.html)
 * [【2025-07-17】 科技爱好者周刊（第 357 期）：稳定币的博弈](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html)
 * [【2025-07-11】 科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html)
-* [【2025-07-04】 科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-08-29】 门票 145 块还要爬 900 级台阶，赛里木湖值不值？](https://sspai.com/post/102157)
+* [【2025-08-29】 派早报：小米发布澎湃 OS3 系统、Chipolo 发布两款可充电跟踪器等](https://sspai.com/post/102174)
+* [【2025-08-28】 新玩意 219｜少数派的编辑们最近买了啥？](https://sspai.com/post/102159)
+* [【2025-08-28】 共创栏目预览 | 久坐一族如何缓解腰背酸痛](https://sspai.com/post/102102)
 * [【2025-08-28】 老车主、新视角：小鹏 MONA M03 Max 随行体验](https://sspai.com/post/102094)
 * [【2025-08-28】 派早报：Google 发布图像生成模型 nano banana、华为公开三折叠新品等](https://sspai.com/post/102141)
 * [【2025-08-27】 四万块组建入门级全屋智能，我买了哪些称心如意的好物](https://sspai.com/post/101818)
 * [【2025-08-27】 开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
 * [【2025-08-27】 打造「个人数据中心」第一步：OMV 从上手到文件共享配置](https://sspai.com/post/100313)
 * [【2025-08-26】 派早报：Apple 特别活动将于 9 月 9 日举行等](https://sspai.com/post/102110)
-* [【2025-08-26】 具透 Plus：Debian 13 一些有趣的新特性，Windows 引入快速恢复机制](https://sspai.com/prime/story/inside-release-notes-250826)
-* [【2025-08-26】 社区速递 107 | 派友热议 Mac 游戏体验，以及夏日驱蚊产品怎么选](https://sspai.com/post/102100)
-* [【2025-08-26】 曾是 iPhone 的心脏，现以 Pixel 形态出击：聊聊 Google Tensor G5 的 GPU 架构](https://sspai.com/post/101859)
-* [【2025-08-26】 打工人留学的现实成本与结局](https://sspai.com/post/101882)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-28 05:16:50
+:alarm_clock: 更新时间: 2025-08-29 05:16:19
