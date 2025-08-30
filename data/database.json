@@ -1015,13 +1015,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/102187",
+                "published": "2025-08-29"
+            },
+            {
+                "title": "有研究等于有效？了解护眼保健品背后的秘密",
+                "link": "https://sspai.com/post/102176",
+                "published": "2025-08-29"
+            },
             {
                 "title": "门票 145 块还要爬 900 级台阶，赛里木湖值不值？",
                 "link": "https://sspai.com/post/102157",
@@ -26188,7 +26198,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,

@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2025-08-29】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/102187)
+* [【2025-08-29】 有研究等于有效？了解护眼保健品背后的秘密](https://sspai.com/post/102176)
 * [【2025-08-29】 门票 145 块还要爬 900 级台阶，赛里木湖值不值？](https://sspai.com/post/102157)
 * [【2025-08-29】 派早报：小米发布澎湃 OS3 系统、Chipolo 发布两款可充电跟踪器等](https://sspai.com/post/102174)
 * [【2025-08-28】 新玩意 219｜少数派的编辑们最近买了啥？](https://sspai.com/post/102159)
@@ -43,8 +45,6 @@
 * [【2025-08-28】 派早报：Google 发布图像生成模型 nano banana、华为公开三折叠新品等](https://sspai.com/post/102141)
 * [【2025-08-27】 四万块组建入门级全屋智能，我买了哪些称心如意的好物](https://sspai.com/post/101818)
 * [【2025-08-27】 开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
-* [【2025-08-27】 打造「个人数据中心」第一步：OMV 从上手到文件共享配置](https://sspai.com/post/100313)
-* [【2025-08-26】 派早报：Apple 特别活动将于 9 月 9 日举行等](https://sspai.com/post/102110)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-29 05:16:19
+:alarm_clock: 更新时间: 2025-08-30 05:15:02
