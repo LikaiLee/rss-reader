@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-09-01】 本月玩什么｜小小书店、这个位置有人坐吗、MGSΔ](https://sspai.com/post/102216)
+* [【2025-09-01】 派早报：发改委要求避免 AI 发展中的无序竞争](https://sspai.com/post/102217)
+* [【2025-08-31】 多花的钱花在哪里：看硬参数读懂鼠标性能好坏](https://sspai.com/post/102195)
 * [【2025-08-30】 用 Mac 打造智能化餐厅，这是海底捞给出的答案](https://sspai.com/post/102160)
 * [【2025-08-29】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/102187)
 * [【2025-08-29】 有研究等于有效？了解护眼保健品背后的秘密](https://sspai.com/post/102176)
@@ -42,9 +45,6 @@
 * [【2025-08-29】 派早报：小米发布澎湃 OS3 系统、Chipolo 发布两款可充电跟踪器等](https://sspai.com/post/102174)
 * [【2025-08-28】 新玩意 219｜少数派的编辑们最近买了啥？](https://sspai.com/post/102159)
 * [【2025-08-28】 共创栏目预览 | 久坐一族如何缓解腰背酸痛](https://sspai.com/post/102102)
-* [【2025-08-28】 老车主、新视角：小鹏 MONA M03 Max 随行体验](https://sspai.com/post/102094)
-* [【2025-08-28】 派早报：Google 发布图像生成模型 nano banana、华为公开三折叠新品等](https://sspai.com/post/102141)
-* [【2025-08-27】 四万块组建入门级全屋智能，我买了哪些称心如意的好物](https://sspai.com/post/101818)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-08-31 05:15:25
+:alarm_clock: 更新时间: 2025-09-01 05:17:47

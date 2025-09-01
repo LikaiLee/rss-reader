@@ -1023,6 +1023,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "本月玩什么｜小小书店、这个位置有人坐吗、MGSΔ",
+                "link": "https://sspai.com/post/102216",
+                "published": "2025-09-01"
+            },
+            {
+                "title": "派早报：发改委要求避免 AI 发展中的无序竞争",
+                "link": "https://sspai.com/post/102217",
+                "published": "2025-09-01"
+            },
+            {
+                "title": "多花的钱花在哪里：看硬参数读懂鼠标性能好坏",
+                "link": "https://sspai.com/post/102195",
+                "published": "2025-08-31"
+            },
+            {
                 "title": "用 Mac 打造智能化餐厅，这是海底捞给出的答案",
                 "link": "https://sspai.com/post/102160",
                 "published": "2025-08-30"
@@ -26203,7 +26218,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
