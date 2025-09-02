@@ -1023,6 +1023,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "广深「超燃」：来线下，与少数派一起看 Apple 发布会",
+                "link": "https://sspai.com/post/102221",
+                "published": "2025-09-02"
+            },
+            {
+                "title": "派早报：vivo Y500 发布，91 助手宣布关停时间等",
+                "link": "https://sspai.com/post/102236",
+                "published": "2025-09-02"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/102228",
+                "published": "2025-09-01"
+            },
+            {
+                "title": "共创 | 深度使用 Notion 七年，这是我的经验、技巧与建议",
+                "link": "https://sspai.com/post/102031",
+                "published": "2025-09-01"
+            },
+            {
                 "title": "本月玩什么｜小小书店、这个位置有人坐吗、MGSΔ",
                 "link": "https://sspai.com/post/102216",
                 "published": "2025-09-01"
@@ -26218,7 +26238,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
