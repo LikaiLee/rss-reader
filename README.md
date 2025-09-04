@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-09-04】 [送码] 为了让「删照片」从枯燥变得好玩，我做了《去留》这款 app](https://sspai.com/post/102249)
+* [【2025-09-04】 派早报：Beats 推出 JENNIE 联名版耳机、微信支持绑定 Steam 帐号等](https://sspai.com/post/102276)
+* [【2025-09-03】 App+1｜无需跳转、深度集成，沉浸式 iOS 翻译工具：Para 翻译](https://sspai.com/post/102214)
+* [【2025-09-03】 看什么·特别篇 | 看完阅兵看历史：影视作品中的战争岁月](https://sspai.com/post/102246)
 * [【2025-09-03】 Apple 发布会前瞻：全新设计、超薄机型…… 新 iPhone 还有哪些看点？](https://sspai.com/post/102244)
 * [【2025-09-02】 派早报：杜比视界 2 标准公布等](https://sspai.com/post/102262)
 * [【2025-09-02】 社区速递 108 | 量大管饱的派友七月剁手清单、一周热评和最新文章](https://sspai.com/post/102247)
 * [【2025-09-02】 我的桌面我的战场：优质桌搭精选辑](https://sspai.com/post/102125)
 * [【2025-09-02】 广深「超燃」：来线下，与少数派一起看 Apple 发布会](https://sspai.com/post/102221)
 * [【2025-09-02】 派早报：vivo Y500 发布，91 助手宣布关停时间等](https://sspai.com/post/102236)
-* [【2025-09-01】 派评 | 近期值得关注的 App](https://sspai.com/post/102228)
-* [【2025-09-01】 共创 | 深度使用 Notion 七年，这是我的经验、技巧与建议](https://sspai.com/post/102031)
-* [【2025-09-01】 本月玩什么｜小小书店、这个位置有人坐吗、MGSΔ](https://sspai.com/post/102216)
-* [【2025-09-01】 派早报：发改委要求避免 AI 发展中的无序竞争](https://sspai.com/post/102217)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-03 05:15:40
+:alarm_clock: 更新时间: 2025-09-04 05:15:55
