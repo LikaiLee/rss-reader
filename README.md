@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-09-05】 科技爱好者周刊（第 364 期）：最难还原的魔方](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html)
 * [【2025-08-29】 科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html)
 * [【2025-08-22】 科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html)
 * [【2025-08-15】 科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html)
@@ -25,7 +26,6 @@
 * [【2025-07-24】 扣子空间网页设计，是在挑战 V0 吗？](http://www.ruanyifeng.com/blog/2025/07/coze-space-web-design.html)
 * [【2025-07-22】 《唐纵日记》摘录](http://www.ruanyifeng.com/blog/2025/07/tangzong-diary.html)
 * [【2025-07-17】 科技爱好者周刊（第 357 期）：稳定币的博弈](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html)
-* [【2025-07-11】 科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-09-05】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/102306)
+* [【2025-09-05】 技术语境中那些熟悉又陌生的英语动词（一）](https://sspai.com/prime/story/interesting-verbs-in-computing)
+* [【2025-09-05】 前作广受好评，新作备受期待：《空洞骑士：丝之歌》试玩体验](https://sspai.com/post/102303)
+* [【2025-09-05】 洞察 | 视频播客是播客唯一的出路了吗？](https://sspai.com/post/102285)
+* [【2025-09-05】 派早报：华为发布二代三折叠手机 Mate XTs](https://sspai.com/post/102297)
+* [【2025-09-04】 新玩意 220｜少数派的编辑们最近买了啥？](https://sspai.com/post/102287)
+* [【2025-09-04】 新学期，新气象：正版软件 & 付费栏目限时优惠](https://sspai.com/post/102267)
 * [【2025-09-04】 [送码] 为了让「删照片」从枯燥变得好玩，我做了《去留》这款 app](https://sspai.com/post/102249)
 * [【2025-09-04】 派早报：Beats 推出 JENNIE 联名版耳机、微信支持绑定 Steam 帐号等](https://sspai.com/post/102276)
 * [【2025-09-03】 App+1｜无需跳转、深度集成，沉浸式 iOS 翻译工具：Para 翻译](https://sspai.com/post/102214)
-* [【2025-09-03】 看什么·特别篇 | 看完阅兵看历史：影视作品中的战争岁月](https://sspai.com/post/102246)
-* [【2025-09-03】 Apple 发布会前瞻：全新设计、超薄机型…… 新 iPhone 还有哪些看点？](https://sspai.com/post/102244)
-* [【2025-09-02】 派早报：杜比视界 2 标准公布等](https://sspai.com/post/102262)
-* [【2025-09-02】 社区速递 108 | 量大管饱的派友七月剁手清单、一周热评和最新文章](https://sspai.com/post/102247)
-* [【2025-09-02】 我的桌面我的战场：优质桌搭精选辑](https://sspai.com/post/102125)
-* [【2025-09-02】 广深「超燃」：来线下，与少数派一起看 Apple 发布会](https://sspai.com/post/102221)
-* [【2025-09-02】 派早报：vivo Y500 发布，91 助手宣布关停时间等](https://sspai.com/post/102236)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-04 05:15:55
+:alarm_clock: 更新时间: 2025-09-06 05:14:33
