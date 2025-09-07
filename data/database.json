@@ -1020,13 +1020,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "日本浮生录 09：睡魔花灯列阵，穿越夏夜青森",
+                "link": "https://sspai.com/post/102173",
+                "published": "2025-09-06"
+            },
             {
                 "title": "本周看什么 | 最近值得一看的 7 部作品",
                 "link": "https://sspai.com/post/102306",
@@ -26318,7 +26323,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 1
     },
     {
         "id": 2,

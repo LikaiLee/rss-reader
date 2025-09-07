@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+7】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2025-09-06】 日本浮生录 09：睡魔花灯列阵，穿越夏夜青森](https://sspai.com/post/102173)
 * [【2025-09-05】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/102306)
 * [【2025-09-05】 技术语境中那些熟悉又陌生的英语动词（一）](https://sspai.com/prime/story/interesting-verbs-in-computing)
 * [【2025-09-05】 前作广受好评，新作备受期待：《空洞骑士：丝之歌》试玩体验](https://sspai.com/post/102303)
@@ -44,7 +45,6 @@
 * [【2025-09-04】 新学期，新气象：正版软件 & 付费栏目限时优惠](https://sspai.com/post/102267)
 * [【2025-09-04】 [送码] 为了让「删照片」从枯燥变得好玩，我做了《去留》这款 app](https://sspai.com/post/102249)
 * [【2025-09-04】 派早报：Beats 推出 JENNIE 联名版耳机、微信支持绑定 Steam 帐号等](https://sspai.com/post/102276)
-* [【2025-09-03】 App+1｜无需跳转、深度集成，沉浸式 iOS 翻译工具：Para 翻译](https://sspai.com/post/102214)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-06 05:14:33
+:alarm_clock: 更新时间: 2025-09-07 05:14:50
