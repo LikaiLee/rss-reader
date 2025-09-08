@@ -1028,6 +1028,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "马来西亚：穿梭于城市和自然的东西马之旅",
+                "link": "https://sspai.com/post/101894",
+                "published": "2025-09-08"
+            },
+            {
+                "title": "派早报：美国科技公司 CEO 在白宫晚宴轮番称赞特朗普",
+                "link": "https://sspai.com/post/102363",
+                "published": "2025-09-08"
+            },
+            {
+                "title": "一次 vibe designing 实验：我如何从零开始设计「摸鱼计时器」",
+                "link": "https://sspai.com/post/102164",
+                "published": "2025-09-07"
+            },
+            {
                 "title": "日本浮生录 09：睡魔花灯列阵，穿越夏夜青森",
                 "link": "https://sspai.com/post/102173",
                 "published": "2025-09-06"
@@ -26323,7 +26338,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

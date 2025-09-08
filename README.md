@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-09-08】 马来西亚：穿梭于城市和自然的东西马之旅](https://sspai.com/post/101894)
+* [【2025-09-08】 派早报：美国科技公司 CEO 在白宫晚宴轮番称赞特朗普](https://sspai.com/post/102363)
+* [【2025-09-07】 一次 vibe designing 实验：我如何从零开始设计「摸鱼计时器」](https://sspai.com/post/102164)
 * [【2025-09-06】 日本浮生录 09：睡魔花灯列阵，穿越夏夜青森](https://sspai.com/post/102173)
 * [【2025-09-05】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/102306)
 * [【2025-09-05】 技术语境中那些熟悉又陌生的英语动词（一）](https://sspai.com/prime/story/interesting-verbs-in-computing)
@@ -42,9 +45,6 @@
 * [【2025-09-05】 洞察 | 视频播客是播客唯一的出路了吗？](https://sspai.com/post/102285)
 * [【2025-09-05】 派早报：华为发布二代三折叠手机 Mate XTs](https://sspai.com/post/102297)
 * [【2025-09-04】 新玩意 220｜少数派的编辑们最近买了啥？](https://sspai.com/post/102287)
-* [【2025-09-04】 新学期，新气象：正版软件 & 付费栏目限时优惠](https://sspai.com/post/102267)
-* [【2025-09-04】 [送码] 为了让「删照片」从枯燥变得好玩，我做了《去留》这款 app](https://sspai.com/post/102249)
-* [【2025-09-04】 派早报：Beats 推出 JENNIE 联名版耳机、微信支持绑定 Steam 帐号等](https://sspai.com/post/102276)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-07 05:14:50
+:alarm_clock: 更新时间: 2025-09-08 05:16:41
