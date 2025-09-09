@@ -1028,6 +1028,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "漫步台湾（上）：历史在城，烟火在人",
+                "link": "https://sspai.com/post/102296",
+                "published": "2025-09-09"
+            },
+            {
+                "title": "派早报：工信部向中国联通颁发卫星移动通信业务经营许可等",
+                "link": "https://sspai.com/post/102384",
+                "published": "2025-09-09"
+            },
+            {
+                "title": "派评｜近期值得关注的 App",
+                "link": "https://sspai.com/post/102380",
+                "published": "2025-09-08"
+            },
+            {
+                "title": "iPhone 摄影风格使用指南",
+                "link": "https://sspai.com/post/102293",
+                "published": "2025-09-08"
+            },
+            {
                 "title": "马来西亚：穿梭于城市和自然的东西马之旅",
                 "link": "https://sspai.com/post/101894",
                 "published": "2025-09-08"
@@ -26338,7 +26358,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
