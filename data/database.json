@@ -1028,6 +1028,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Apple 发布 iPhone 17 系列等",
+                "link": "https://sspai.com/post/102414",
+                "published": "2025-09-09"
+            },
+            {
+                "title": "一图流 | 一张图带你看完 2025 Apple 秋季发布会",
+                "link": "https://sspai.com/post/102410",
+                "published": "2025-09-09"
+            },
+            {
+                "title": "最轻的 iPhone 亮相，还有这些惊喜：Apple 发布会看点回顾",
+                "link": "https://sspai.com/post/102413",
+                "published": "2025-09-09"
+            },
+            {
+                "title": "用 Termux + Syncthing 自动定时备份 Android 媒体文件",
+                "link": "https://sspai.com/post/102337",
+                "published": "2025-09-09"
+            },
+            {
+                "title": "社区速递 109 | 发布会前，先看派友的预定购物车和超 mini 电纸书",
+                "link": "https://sspai.com/post/102396",
+                "published": "2025-09-09"
+            },
+            {
                 "title": "漫步台湾（上）：历史在城，烟火在人",
                 "link": "https://sspai.com/post/102296",
                 "published": "2025-09-09"
@@ -26358,7 +26383,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
