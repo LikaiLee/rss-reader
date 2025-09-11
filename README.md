@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-09-11】 地表最强补剂？你可能需要这篇维生素 D 的「说明书」](https://sspai.com/post/102388)
+* [【2025-09-11】 派早报：Spotify 推出无损音质、三大运营商回应 eSIM 手机业务进展等](https://sspai.com/post/102430)
+* [【2025-09-10】 Nova Launcher 前途未卜？你也可以用它给手机换个「门面」](https://sspai.com/post/65279)
 * [【2025-09-09】 派早报：Apple 发布 iPhone 17 系列等](https://sspai.com/post/102414)
 * [【2025-09-09】 一图流 | 一张图带你看完 2025 Apple 秋季发布会](https://sspai.com/post/102410)
 * [【2025-09-09】 最轻的 iPhone 亮相，还有这些惊喜：Apple 发布会看点回顾](https://sspai.com/post/102413)
@@ -42,9 +45,6 @@
 * [【2025-09-09】 社区速递 109 | 发布会前，先看派友的预定购物车和超 mini 电纸书](https://sspai.com/post/102396)
 * [【2025-09-09】 漫步台湾（上）：历史在城，烟火在人](https://sspai.com/post/102296)
 * [【2025-09-09】 派早报：工信部向中国联通颁发卫星移动通信业务经营许可等](https://sspai.com/post/102384)
-* [【2025-09-08】 派评｜近期值得关注的 App](https://sspai.com/post/102380)
-* [【2025-09-08】 iPhone 摄影风格使用指南](https://sspai.com/post/102293)
-* [【2025-09-08】 马来西亚：穿梭于城市和自然的东西马之旅](https://sspai.com/post/101894)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-10 05:15:44
+:alarm_clock: 更新时间: 2025-09-11 05:16:06

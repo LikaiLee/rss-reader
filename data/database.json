@@ -1028,6 +1028,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "地表最强补剂？你可能需要这篇维生素 D 的「说明书」",
+                "link": "https://sspai.com/post/102388",
+                "published": "2025-09-11"
+            },
+            {
+                "title": "派早报：Spotify 推出无损音质、三大运营商回应 eSIM 手机业务进展等",
+                "link": "https://sspai.com/post/102430",
+                "published": "2025-09-11"
+            },
+            {
+                "title": "Nova Launcher 前途未卜？你也可以用它给手机换个「门面」",
+                "link": "https://sspai.com/post/65279",
+                "published": "2025-09-10"
+            },
+            {
                 "title": "派早报：Apple 发布 iPhone 17 系列等",
                 "link": "https://sspai.com/post/102414",
                 "published": "2025-09-09"
@@ -26383,7 +26398,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
