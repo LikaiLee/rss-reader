@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 365 期）：流量变现正在崩塌",
+                "link": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html",
+                "published": "2025-09-12"
+            },
+            {
                 "title": "科技爱好者周刊（第 364 期）：最难还原的魔方",
                 "link": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html",
                 "published": "2025-09-05"
@@ -1020,13 +1025,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "漫步台湾（下）：古意在南，云雾在山",
+                "link": "https://sspai.com/post/102369",
+                "published": "2025-09-12"
+            },
+            {
+                "title": "派早报：网信部门依法查处小红书平台破坏网络生态案件等",
+                "link": "https://sspai.com/post/102454",
+                "published": "2025-09-12"
+            },
+            {
+                "title": "也许是最适合普通人的「弹唱」入门设备：Musspark AI 随弹吉他 S1 mini 体验",
+                "link": "https://sspai.com/post/102420",
+                "published": "2025-09-11"
+            },
+            {
+                "title": "iPhone 17 系列发布会上没说的那些事",
+                "link": "https://sspai.com/post/102432",
+                "published": "2025-09-11"
+            },
             {
                 "title": "地表最强补剂？你可能需要这篇维生素 D 的「说明书」",
                 "link": "https://sspai.com/post/102388",
@@ -26398,7 +26423,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,

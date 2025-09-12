@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-09-12】 科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html)
 * [【2025-09-05】 科技爱好者周刊（第 364 期）：最难还原的魔方](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html)
 * [【2025-08-29】 科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html)
 * [【2025-08-22】 科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html)
@@ -25,7 +26,6 @@
 * [【2025-07-25】 科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-358.html)
 * [【2025-07-24】 扣子空间网页设计，是在挑战 V0 吗？](http://www.ruanyifeng.com/blog/2025/07/coze-space-web-design.html)
 * [【2025-07-22】 《唐纵日记》摘录](http://www.ruanyifeng.com/blog/2025/07/tangzong-diary.html)
-* [【2025-07-17】 科技爱好者周刊（第 357 期）：稳定币的博弈](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-09-12】 漫步台湾（下）：古意在南，云雾在山](https://sspai.com/post/102369)
+* [【2025-09-12】 派早报：网信部门依法查处小红书平台破坏网络生态案件等](https://sspai.com/post/102454)
+* [【2025-09-11】 也许是最适合普通人的「弹唱」入门设备：Musspark AI 随弹吉他 S1 mini 体验](https://sspai.com/post/102420)
+* [【2025-09-11】 iPhone 17 系列发布会上没说的那些事](https://sspai.com/post/102432)
 * [【2025-09-11】 地表最强补剂？你可能需要这篇维生素 D 的「说明书」](https://sspai.com/post/102388)
 * [【2025-09-11】 派早报：Spotify 推出无损音质、三大运营商回应 eSIM 手机业务进展等](https://sspai.com/post/102430)
 * [【2025-09-10】 Nova Launcher 前途未卜？你也可以用它给手机换个「门面」](https://sspai.com/post/65279)
 * [【2025-09-09】 派早报：Apple 发布 iPhone 17 系列等](https://sspai.com/post/102414)
 * [【2025-09-09】 一图流 | 一张图带你看完 2025 Apple 秋季发布会](https://sspai.com/post/102410)
 * [【2025-09-09】 最轻的 iPhone 亮相，还有这些惊喜：Apple 发布会看点回顾](https://sspai.com/post/102413)
-* [【2025-09-09】 用 Termux + Syncthing 自动定时备份 Android 媒体文件](https://sspai.com/post/102337)
-* [【2025-09-09】 社区速递 109 | 发布会前，先看派友的预定购物车和超 mini 电纸书](https://sspai.com/post/102396)
-* [【2025-09-09】 漫步台湾（上）：历史在城，烟火在人](https://sspai.com/post/102296)
-* [【2025-09-09】 派早报：工信部向中国联通颁发卫星移动通信业务经营许可等](https://sspai.com/post/102384)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-11 05:16:06
+:alarm_clock: 更新时间: 2025-09-12 05:15:24
