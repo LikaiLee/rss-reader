@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-09-15】 让减重成为习惯：我如何用生活化方式两年减重 50 斤](https://sspai.com/post/102148)
+* [【2025-09-15】 派早报：iPhone Air 国行延期，三大运营商均将支持](https://sspai.com/post/102516)
+* [【2025-09-14】 云巅之上——六天五晚川西之旅（下）](https://sspai.com/post/102182)
 * [【2025-09-13】 为什么下载不能立刻到达最快速度——从一个现象看拥塞控制算法](https://sspai.com/prime/story/download-speed-and-congestion-control-algo)
 * [【2025-09-13】 手机会偷听？重建互联网隐私从改变认知开始](https://sspai.com/post/102268)
 * [【2025-09-12】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/102474)
@@ -42,9 +45,6 @@
 * [【2025-09-12】 漫步台湾（下）：古意在南，云雾在山](https://sspai.com/post/102369)
 * [【2025-09-12】 派早报：网信部门依法查处小红书平台破坏网络生态案件等](https://sspai.com/post/102454)
 * [【2025-09-11】 也许是最适合普通人的「弹唱」入门设备：Musspark AI 随弹吉他 S1 mini 体验](https://sspai.com/post/102420)
-* [【2025-09-11】 iPhone 17 系列发布会上没说的那些事](https://sspai.com/post/102432)
-* [【2025-09-11】 地表最强补剂？你可能需要这篇维生素 D 的「说明书」](https://sspai.com/post/102388)
-* [【2025-09-11】 派早报：Spotify 推出无损音质、三大运营商回应 eSIM 手机业务进展等](https://sspai.com/post/102430)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-14 05:14:24
+:alarm_clock: 更新时间: 2025-09-15 05:17:08
