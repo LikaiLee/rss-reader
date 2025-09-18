@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+10】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-09-18】 具透 | 新形象、续写 Mac 经典，macOS Tahoe 26 中的亮点功能](https://sspai.com/post/102583)
+* [【2025-09-18】 派早报：TikTok 美国业务将出售、Google 推出 Windows 版搜索应用等](https://sspai.com/post/102609)
+* [【2025-09-17】 先学会骑车，再在 AI 的帮助下写个骑行记录 App](https://sspai.com/post/101981)
+* [【2025-09-17】 具透 | 自动过渡、歌词翻译…… Apple Music 值得关注的新特性](https://sspai.com/post/102591)
 * [【2025-09-17】 具透 | 样样拿手、事事顺，iPadOS 26 升级后一定要试试的新功能](https://sspai.com/post/102568)
 * [【2025-09-16】 派早报：真我 15T 正式发布、Nothing 完成 2 亿美元 C 轮融资等](https://sspai.com/post/102578)
 * [【2025-09-16】 社区速递 110 | 派友们都用什么开机工具，以及尝尝「老罗泡面」](https://sspai.com/post/102570)
 * [【2025-09-16】 具透 | 新面貌、上手更奇妙，iOS 26 中值得关注的新特性](https://sspai.com/post/102372)
 * [【2025-09-16】 2025，你还折腾刷机吗？](https://sspai.com/post/102151)
 * [【2025-09-16】 派早报：魅族举办新品发布会，高通公布新移动平台并梳理产品代际等](https://sspai.com/post/102551)
-* [【2025-09-15】 既能「听见心跳」，又可「如影随形」：AirPods Pro 3 首发上手体验](https://sspai.com/post/102533)
-* [【2025-09-15】 派评 | 近期值得关注的 App](https://sspai.com/post/102544)
-* [【2025-09-15】 缝合相差 12 岁的两台 Apple 设备：iPod mini 改造小记](https://sspai.com/prime/story/ipod-mini-mod)
-* [【2025-09-15】 看看八月大家通过  Quote/0 摘录发了啥？暨九月份活动启动](https://sspai.com/post/102458)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-17 05:15:57
+:alarm_clock: 更新时间: 2025-09-18 05:15:26

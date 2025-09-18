@@ -1033,6 +1033,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透 | 新形象、续写 Mac 经典，macOS Tahoe 26 中的亮点功能",
+                "link": "https://sspai.com/post/102583",
+                "published": "2025-09-18"
+            },
+            {
+                "title": "派早报：TikTok 美国业务将出售、Google 推出 Windows 版搜索应用等",
+                "link": "https://sspai.com/post/102609",
+                "published": "2025-09-18"
+            },
+            {
+                "title": "先学会骑车，再在 AI 的帮助下写个骑行记录 App",
+                "link": "https://sspai.com/post/101981",
+                "published": "2025-09-17"
+            },
+            {
+                "title": "具透 | 自动过渡、歌词翻译…… Apple Music 值得关注的新特性",
+                "link": "https://sspai.com/post/102591",
+                "published": "2025-09-17"
+            },
+            {
                 "title": "具透 | 样样拿手、事事顺，iPadOS 26 升级后一定要试试的新功能",
                 "link": "https://sspai.com/post/102568",
                 "published": "2025-09-17"
@@ -26508,7 +26528,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 4
     },
     {
         "id": 2,
