@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-09-19】 科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)
 * [【2025-09-12】 科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html)
 * [【2025-09-05】 科技爱好者周刊（第 364 期）：最难还原的魔方](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html)
 * [【2025-08-29】 科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html)
@@ -25,7 +26,6 @@
 * [【2025-08-01】 科技爱好者周刊（第 359 期）：Palantir 值得关注](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html)
 * [【2025-07-25】 科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-358.html)
 * [【2025-07-24】 扣子空间网页设计，是在挑战 V0 吗？](http://www.ruanyifeng.com/blog/2025/07/coze-space-web-design.html)
-* [【2025-07-22】 《唐纵日记》摘录](http://www.ruanyifeng.com/blog/2025/07/tangzong-diary.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-09-19】 观点 | 赛车游戏没落了吗？](https://sspai.com/post/102137)
+* [【2025-09-19】 派早报：Nothing 发布 Ear 3 耳机、Nvidia 入股 Intel 等](https://sspai.com/post/102628)
+* [【2025-09-18】 新玩意 221｜少数派的编辑们最近买了啥？](https://sspai.com/post/102616)
+* [【2025-09-18】 共创 | 中断久坐，科学多动：《久坐健康指南》上线](https://sspai.com/post/102539)
 * [【2025-09-18】 具透 | 新形象、续写 Mac 经典，macOS Tahoe 26 中的亮点功能](https://sspai.com/post/102583)
 * [【2025-09-18】 派早报：TikTok 美国业务将出售、Google 推出 Windows 版搜索应用等](https://sspai.com/post/102609)
 * [【2025-09-17】 先学会骑车，再在 AI 的帮助下写个骑行记录 App](https://sspai.com/post/101981)
 * [【2025-09-17】 具透 | 自动过渡、歌词翻译…… Apple Music 值得关注的新特性](https://sspai.com/post/102591)
 * [【2025-09-17】 具透 | 样样拿手、事事顺，iPadOS 26 升级后一定要试试的新功能](https://sspai.com/post/102568)
 * [【2025-09-16】 派早报：真我 15T 正式发布、Nothing 完成 2 亿美元 C 轮融资等](https://sspai.com/post/102578)
-* [【2025-09-16】 社区速递 110 | 派友们都用什么开机工具，以及尝尝「老罗泡面」](https://sspai.com/post/102570)
-* [【2025-09-16】 具透 | 新面貌、上手更奇妙，iOS 26 中值得关注的新特性](https://sspai.com/post/102372)
-* [【2025-09-16】 2025，你还折腾刷机吗？](https://sspai.com/post/102151)
-* [【2025-09-16】 派早报：魅族举办新品发布会，高通公布新移动平台并梳理产品代际等](https://sspai.com/post/102551)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-18 05:15:26
+:alarm_clock: 更新时间: 2025-09-19 05:15:39
