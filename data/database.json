@@ -1030,13 +1030,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/102640",
+                "published": "2025-09-19"
+            },
+            {
+                "title": "具透 | 知你懂你、任你全力奔赴，watchOS 26 中值得尝鲜的新功能",
+                "link": "https://sspai.com/post/102436",
+                "published": "2025-09-19"
+            },
             {
                 "title": "观点 | 赛车游戏没落了吗？",
                 "link": "https://sspai.com/post/102137",
@@ -26553,7 +26563,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
