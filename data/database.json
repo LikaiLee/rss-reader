@@ -1038,6 +1038,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1｜重要信息放「桌边」，信息流聚合只需一瞥：SideCalendar",
+                "link": "https://sspai.com/post/102198",
+                "published": "2025-09-20"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 8 部作品",
                 "link": "https://sspai.com/post/102640",
                 "published": "2025-09-19"
@@ -26563,7 +26568,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
