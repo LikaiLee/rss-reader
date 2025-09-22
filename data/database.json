@@ -1038,6 +1038,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透 | 有了新交互，还有新视野：visionOS 26 值得关注的新特性",
+                "link": "https://sspai.com/post/102678",
+                "published": "2025-09-22"
+            },
+            {
+                "title": "派早报：中美宣布 TikTok 问题进展",
+                "link": "https://sspai.com/post/102639",
+                "published": "2025-09-22"
+            },
+            {
+                "title": "越过群山追斜阳，川西小环线 5 天自驾攻略",
+                "link": "https://sspai.com/post/102567",
+                "published": "2025-09-21"
+            },
+            {
                 "title": "App+1｜重要信息放「桌边」，信息流聚合只需一瞥：SideCalendar",
                 "link": "https://sspai.com/post/102198",
                 "published": "2025-09-20"
@@ -26568,7 +26583,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

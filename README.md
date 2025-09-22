@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-09-22】 具透 | 有了新交互，还有新视野：visionOS 26 值得关注的新特性](https://sspai.com/post/102678)
+* [【2025-09-22】 派早报：中美宣布 TikTok 问题进展](https://sspai.com/post/102639)
+* [【2025-09-21】 越过群山追斜阳，川西小环线 5 天自驾攻略](https://sspai.com/post/102567)
 * [【2025-09-20】 App+1｜重要信息放「桌边」，信息流聚合只需一瞥：SideCalendar](https://sspai.com/post/102198)
 * [【2025-09-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/102640)
 * [【2025-09-19】 具透 | 知你懂你、任你全力奔赴，watchOS 26 中值得尝鲜的新功能](https://sspai.com/post/102436)
@@ -42,9 +45,6 @@
 * [【2025-09-19】 派早报：Nothing 发布 Ear 3 耳机、Nvidia 入股 Intel 等](https://sspai.com/post/102628)
 * [【2025-09-18】 新玩意 221｜少数派的编辑们最近买了啥？](https://sspai.com/post/102616)
 * [【2025-09-18】 共创 | 中断久坐，科学多动：《久坐健康指南》上线](https://sspai.com/post/102539)
-* [【2025-09-18】 具透 | 新形象、续写 Mac 经典，macOS Tahoe 26 中的亮点功能](https://sspai.com/post/102583)
-* [【2025-09-18】 派早报：TikTok 美国业务将出售、Google 推出 Windows 版搜索应用等](https://sspai.com/post/102609)
-* [【2025-09-17】 先学会骑车，再在 AI 的帮助下写个骑行记录 App](https://sspai.com/post/101981)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-21 05:15:35
+:alarm_clock: 更新时间: 2025-09-22 05:16:56
