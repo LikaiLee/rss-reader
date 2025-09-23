@@ -1038,6 +1038,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "国庆特别活动：「山湖漫假期」田野录音工作坊",
+                "link": "https://sspai.com/post/102694",
+                "published": "2025-09-23"
+            },
+            {
+                "title": "派早报：联发科发布天玑 9500 芯片等",
+                "link": "https://sspai.com/post/102705",
+                "published": "2025-09-23"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/102693",
+                "published": "2025-09-22"
+            },
+            {
+                "title": "少数派 1024 程序员节征文：码上，与鸿蒙一起进击！",
+                "link": "https://sspai.com/post/102635",
+                "published": "2025-09-22"
+            },
+            {
                 "title": "具透 | 有了新交互，还有新视野：visionOS 26 值得关注的新特性",
                 "link": "https://sspai.com/post/102678",
                 "published": "2025-09-22"
@@ -26583,7 +26603,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,

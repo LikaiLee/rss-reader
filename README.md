@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-09-23】 国庆特别活动：「山湖漫假期」田野录音工作坊](https://sspai.com/post/102694)
+* [【2025-09-23】 派早报：联发科发布天玑 9500 芯片等](https://sspai.com/post/102705)
+* [【2025-09-22】 派评 | 近期值得关注的 App](https://sspai.com/post/102693)
+* [【2025-09-22】 少数派 1024 程序员节征文：码上，与鸿蒙一起进击！](https://sspai.com/post/102635)
 * [【2025-09-22】 具透 | 有了新交互，还有新视野：visionOS 26 值得关注的新特性](https://sspai.com/post/102678)
 * [【2025-09-22】 派早报：中美宣布 TikTok 问题进展](https://sspai.com/post/102639)
 * [【2025-09-21】 越过群山追斜阳，川西小环线 5 天自驾攻略](https://sspai.com/post/102567)
 * [【2025-09-20】 App+1｜重要信息放「桌边」，信息流聚合只需一瞥：SideCalendar](https://sspai.com/post/102198)
 * [【2025-09-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/102640)
 * [【2025-09-19】 具透 | 知你懂你、任你全力奔赴，watchOS 26 中值得尝鲜的新功能](https://sspai.com/post/102436)
-* [【2025-09-19】 观点 | 赛车游戏没落了吗？](https://sspai.com/post/102137)
-* [【2025-09-19】 派早报：Nothing 发布 Ear 3 耳机、Nvidia 入股 Intel 等](https://sspai.com/post/102628)
-* [【2025-09-18】 新玩意 221｜少数派的编辑们最近买了啥？](https://sspai.com/post/102616)
-* [【2025-09-18】 共创 | 中断久坐，科学多动：《久坐健康指南》上线](https://sspai.com/post/102539)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-22 05:16:56
+:alarm_clock: 更新时间: 2025-09-23 05:16:02
