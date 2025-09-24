@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-09-24】 乐趣值千金：一个开发者的「电子相册」折腾记录](https://sspai.com/post/100286)
+* [【2025-09-24】 派早报：大疆发布 Osmo Nano、尚界 H5 宣布上市等](https://sspai.com/post/102718)
+* [【2025-09-23】 社区速递 111 | 派友的 iOS 26 桌面长啥样，以及 500 元投影仪体验](https://sspai.com/post/102712)
+* [【2025-09-23】 从零打造可行、可用的产品：Dify AI 工作流上手指南](https://sspai.com/post/102434)
 * [【2025-09-23】 国庆特别活动：「山湖漫假期」田野录音工作坊](https://sspai.com/post/102694)
 * [【2025-09-23】 派早报：联发科发布天玑 9500 芯片等](https://sspai.com/post/102705)
 * [【2025-09-22】 派评 | 近期值得关注的 App](https://sspai.com/post/102693)
 * [【2025-09-22】 少数派 1024 程序员节征文：码上，与鸿蒙一起进击！](https://sspai.com/post/102635)
 * [【2025-09-22】 具透 | 有了新交互，还有新视野：visionOS 26 值得关注的新特性](https://sspai.com/post/102678)
 * [【2025-09-22】 派早报：中美宣布 TikTok 问题进展](https://sspai.com/post/102639)
-* [【2025-09-21】 越过群山追斜阳，川西小环线 5 天自驾攻略](https://sspai.com/post/102567)
-* [【2025-09-20】 App+1｜重要信息放「桌边」，信息流聚合只需一瞥：SideCalendar](https://sspai.com/post/102198)
-* [【2025-09-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/102640)
-* [【2025-09-19】 具透 | 知你懂你、任你全力奔赴，watchOS 26 中值得尝鲜的新功能](https://sspai.com/post/102436)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-23 05:16:02
+:alarm_clock: 更新时间: 2025-09-24 05:15:57
