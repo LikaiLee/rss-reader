@@ -1038,6 +1038,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 巧用 Notion 自动化添加周期性提醒",
+                "link": "https://sspai.com/post/102644",
+                "published": "2025-09-25"
+            },
+            {
+                "title": "派早报：华为发布多款智能硬件新品、领英将使用用户数据训练 AI 等",
+                "link": "https://sspai.com/post/102742",
+                "published": "2025-09-25"
+            },
+            {
+                "title": "一日一技｜免解锁、免 root，为 Google Pixel 开启国内 5G 网络支持",
+                "link": "https://sspai.com/post/96068",
+                "published": "2025-09-24"
+            },
+            {
+                "title": "如何实现低成本的自动化家务管理",
+                "link": "https://sspai.com/prime/story/automated-housework-management",
+                "published": "2025-09-24"
+            },
+            {
+                "title": "让这个秋天不无聊：我的男装穿搭策略（初秋版）",
+                "link": "https://sspai.com/post/102686",
+                "published": "2025-09-24"
+            },
+            {
                 "title": "乐趣值千金：一个开发者的「电子相册」折腾记录",
                 "link": "https://sspai.com/post/100286",
                 "published": "2025-09-24"
@@ -26623,7 +26648,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,

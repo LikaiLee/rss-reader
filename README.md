@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-09-25】 一日一技 | 巧用 Notion 自动化添加周期性提醒](https://sspai.com/post/102644)
+* [【2025-09-25】 派早报：华为发布多款智能硬件新品、领英将使用用户数据训练 AI 等](https://sspai.com/post/102742)
+* [【2025-09-24】 一日一技｜免解锁、免 root，为 Google Pixel 开启国内 5G 网络支持](https://sspai.com/post/96068)
+* [【2025-09-24】 如何实现低成本的自动化家务管理](https://sspai.com/prime/story/automated-housework-management)
+* [【2025-09-24】 让这个秋天不无聊：我的男装穿搭策略（初秋版）](https://sspai.com/post/102686)
 * [【2025-09-24】 乐趣值千金：一个开发者的「电子相册」折腾记录](https://sspai.com/post/100286)
 * [【2025-09-24】 派早报：大疆发布 Osmo Nano、尚界 H5 宣布上市等](https://sspai.com/post/102718)
 * [【2025-09-23】 社区速递 111 | 派友的 iOS 26 桌面长啥样，以及 500 元投影仪体验](https://sspai.com/post/102712)
 * [【2025-09-23】 从零打造可行、可用的产品：Dify AI 工作流上手指南](https://sspai.com/post/102434)
 * [【2025-09-23】 国庆特别活动：「山湖漫假期」田野录音工作坊](https://sspai.com/post/102694)
-* [【2025-09-23】 派早报：联发科发布天玑 9500 芯片等](https://sspai.com/post/102705)
-* [【2025-09-22】 派评 | 近期值得关注的 App](https://sspai.com/post/102693)
-* [【2025-09-22】 少数派 1024 程序员节征文：码上，与鸿蒙一起进击！](https://sspai.com/post/102635)
-* [【2025-09-22】 具透 | 有了新交互，还有新视野：visionOS 26 值得关注的新特性](https://sspai.com/post/102678)
-* [【2025-09-22】 派早报：中美宣布 TikTok 问题进展](https://sspai.com/post/102639)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-24 05:15:57
+:alarm_clock: 更新时间: 2025-09-25 05:16:13
