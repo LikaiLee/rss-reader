@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-09-26】 科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html)
 * [【2025-09-19】 科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)
 * [【2025-09-12】 科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html)
 * [【2025-09-05】 科技爱好者周刊（第 364 期）：最难还原的魔方](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html)
@@ -25,7 +26,6 @@
 * [【2025-08-08】 科技爱好者周刊（第 360 期）：Dan Wang 的新书](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-360.html)
 * [【2025-08-01】 科技爱好者周刊（第 359 期）：Palantir 值得关注](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html)
 * [【2025-07-25】 科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-358.html)
-* [【2025-07-24】 扣子空间网页设计，是在挑战 V0 吗？](http://www.ruanyifeng.com/blog/2025/07/coze-space-web-design.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-09-26】 第 3 期疯狂星期四招募开启，诚邀深圳周边的开发者前来参加](https://sspai.com/post/102754)
+* [【2025-09-26】 派早报：高通发布多款全新 SoC、小米发布多款新品等](https://sspai.com/post/102775)
+* [【2025-09-25】 Apple 高校优惠活动即将结束，这是你最后的入手机会](https://sspai.com/post/100935)
+* [【2025-09-25】 Apple AirPods Pro 3 降噪真无线耳机体验 - TDS REVIEW](https://sspai.com/post/102744)
 * [【2025-09-25】 一日一技 | 巧用 Notion 自动化添加周期性提醒](https://sspai.com/post/102644)
 * [【2025-09-25】 派早报：华为发布多款智能硬件新品、领英将使用用户数据训练 AI 等](https://sspai.com/post/102742)
 * [【2025-09-24】 一日一技｜免解锁、免 root，为 Google Pixel 开启国内 5G 网络支持](https://sspai.com/post/96068)
 * [【2025-09-24】 如何实现低成本的自动化家务管理](https://sspai.com/prime/story/automated-housework-management)
 * [【2025-09-24】 让这个秋天不无聊：我的男装穿搭策略（初秋版）](https://sspai.com/post/102686)
 * [【2025-09-24】 乐趣值千金：一个开发者的「电子相册」折腾记录](https://sspai.com/post/100286)
-* [【2025-09-24】 派早报：大疆发布 Osmo Nano、尚界 H5 宣布上市等](https://sspai.com/post/102718)
-* [【2025-09-23】 社区速递 111 | 派友的 iOS 26 桌面长啥样，以及 500 元投影仪体验](https://sspai.com/post/102712)
-* [【2025-09-23】 从零打造可行、可用的产品：Dify AI 工作流上手指南](https://sspai.com/post/102434)
-* [【2025-09-23】 国庆特别活动：「山湖漫假期」田野录音工作坊](https://sspai.com/post/102694)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-25 05:16:13
+:alarm_clock: 更新时间: 2025-09-26 05:16:03
