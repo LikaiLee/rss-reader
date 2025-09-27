@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-09-26】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/102789)
+* [【2025-09-26】 一日一技｜快捷指令+Quote/0，进度条日历动手做](https://sspai.com/post/102662)
+* [【2025-09-26】 Aecooly CamperKit 模块化户外工具众测报告](https://sspai.com/post/102278)
 * [【2025-09-26】 第 3 期疯狂星期四招募开启，诚邀深圳周边的开发者前来参加](https://sspai.com/post/102754)
 * [【2025-09-26】 派早报：高通发布多款全新 SoC、小米发布多款新品等](https://sspai.com/post/102775)
 * [【2025-09-25】 Apple 高校优惠活动即将结束，这是你最后的入手机会](https://sspai.com/post/100935)
@@ -42,9 +45,6 @@
 * [【2025-09-25】 一日一技 | 巧用 Notion 自动化添加周期性提醒](https://sspai.com/post/102644)
 * [【2025-09-25】 派早报：华为发布多款智能硬件新品、领英将使用用户数据训练 AI 等](https://sspai.com/post/102742)
 * [【2025-09-24】 一日一技｜免解锁、免 root，为 Google Pixel 开启国内 5G 网络支持](https://sspai.com/post/96068)
-* [【2025-09-24】 如何实现低成本的自动化家务管理](https://sspai.com/prime/story/automated-housework-management)
-* [【2025-09-24】 让这个秋天不无聊：我的男装穿搭策略（初秋版）](https://sspai.com/post/102686)
-* [【2025-09-24】 乐趣值千金：一个开发者的「电子相册」折腾记录](https://sspai.com/post/100286)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-26 05:16:03
+:alarm_clock: 更新时间: 2025-09-27 05:15:35
