@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+9】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-09-30】 派早报：中国移动获颁卫星移动通信业务经营许可、EA 被联合收购等](https://sspai.com/post/102843)
+* [【2025-09-29】 技术语境中那些熟悉又陌生的英语动词（二）](https://sspai.com/prime/story/interesting-verbs-in-computing-02)
+* [【2025-09-29】 派评 | 近期值得关注的 App](https://sspai.com/post/102836)
+* [【2025-09-29】 想克服拖延症，这份「不要做」清单你也许用得上](https://sspai.com/post/102316)
+* [【2025-09-29】 你的大脑已上线：让这份「欺诈智斗」片单点燃你的智商](https://sspai.com/post/102699)
+* [【2025-09-29】 派早报：携程、去哪儿等回应「抢票加速包是噱头」](https://sspai.com/post/102823)
+* [【2025-09-28】 三款机型齐更新，各种需求都好挑：新款 Apple Watch 选购指南](https://sspai.com/post/102803)
+* [【2025-09-28】 主干已成、枝叶未盛：从微信适配看鸿蒙 NEXT 生态](https://sspai.com/post/102590)
+* [【2025-09-27】 发展了十几年，为什么智能手表的血压检测还像个摆设？](https://sspai.com/post/84622)
 * [【2025-09-26】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/102789)
-* [【2025-09-26】 一日一技｜快捷指令+Quote/0，进度条日历动手做](https://sspai.com/post/102662)
-* [【2025-09-26】 Aecooly CamperKit 模块化户外工具众测报告](https://sspai.com/post/102278)
-* [【2025-09-26】 第 3 期疯狂星期四招募开启，诚邀深圳周边的开发者前来参加](https://sspai.com/post/102754)
-* [【2025-09-26】 派早报：高通发布多款全新 SoC、小米发布多款新品等](https://sspai.com/post/102775)
-* [【2025-09-25】 Apple 高校优惠活动即将结束，这是你最后的入手机会](https://sspai.com/post/100935)
-* [【2025-09-25】 Apple AirPods Pro 3 降噪真无线耳机体验 - TDS REVIEW](https://sspai.com/post/102744)
-* [【2025-09-25】 一日一技 | 巧用 Notion 自动化添加周期性提醒](https://sspai.com/post/102644)
-* [【2025-09-25】 派早报：华为发布多款智能硬件新品、领英将使用用户数据训练 AI 等](https://sspai.com/post/102742)
-* [【2025-09-24】 一日一技｜免解锁、免 root，为 Google Pixel 开启国内 5G 网络支持](https://sspai.com/post/96068)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-27 05:15:35
+:alarm_clock: 更新时间: 2025-09-30 05:16:24

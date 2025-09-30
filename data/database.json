@@ -1043,6 +1043,51 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：中国移动获颁卫星移动通信业务经营许可、EA 被联合收购等",
+                "link": "https://sspai.com/post/102843",
+                "published": "2025-09-30"
+            },
+            {
+                "title": "技术语境中那些熟悉又陌生的英语动词（二）",
+                "link": "https://sspai.com/prime/story/interesting-verbs-in-computing-02",
+                "published": "2025-09-29"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/102836",
+                "published": "2025-09-29"
+            },
+            {
+                "title": "想克服拖延症，这份「不要做」清单你也许用得上",
+                "link": "https://sspai.com/post/102316",
+                "published": "2025-09-29"
+            },
+            {
+                "title": "你的大脑已上线：让这份「欺诈智斗」片单点燃你的智商",
+                "link": "https://sspai.com/post/102699",
+                "published": "2025-09-29"
+            },
+            {
+                "title": "派早报：携程、去哪儿等回应「抢票加速包是噱头」",
+                "link": "https://sspai.com/post/102823",
+                "published": "2025-09-29"
+            },
+            {
+                "title": "三款机型齐更新，各种需求都好挑：新款 Apple Watch 选购指南",
+                "link": "https://sspai.com/post/102803",
+                "published": "2025-09-28"
+            },
+            {
+                "title": "主干已成、枝叶未盛：从微信适配看鸿蒙 NEXT 生态",
+                "link": "https://sspai.com/post/102590",
+                "published": "2025-09-28"
+            },
+            {
+                "title": "发展了十几年，为什么智能手表的血压检测还像个摆设？",
+                "link": "https://sspai.com/post/84622",
+                "published": "2025-09-27"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 11 部作品",
                 "link": "https://sspai.com/post/102789",
                 "published": "2025-09-26"
@@ -26688,7 +26733,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 9
     },
     {
         "id": 2,
