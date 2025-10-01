@@ -1043,6 +1043,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "变化最大的不只是外观：iPhone 17 Pro 使用体验",
+                "link": "https://sspai.com/post/102815",
+                "published": "2025-09-30"
+            },
+            {
+                "title": "社区速递 112 | 量大管饱的派友八月剁手清单、一周热评和最新文章",
+                "link": "https://sspai.com/post/102857",
+                "published": "2025-09-30"
+            },
+            {
+                "title": "鸿蒙 1024｜我做了一款鸿蒙独占应用，希望成为真正懂你的「路线神器」",
+                "link": "https://sspai.com/post/102720",
+                "published": "2025-09-30"
+            },
+            {
                 "title": "派早报：中国移动获颁卫星移动通信业务经营许可、EA 被联合收购等",
                 "link": "https://sspai.com/post/102843",
                 "published": "2025-09-30"
@@ -26733,7 +26748,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 3
     },
     {
         "id": 2,

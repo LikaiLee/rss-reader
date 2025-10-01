@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+9】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-09-30】 变化最大的不只是外观：iPhone 17 Pro 使用体验](https://sspai.com/post/102815)
+* [【2025-09-30】 社区速递 112 | 量大管饱的派友八月剁手清单、一周热评和最新文章](https://sspai.com/post/102857)
+* [【2025-09-30】 鸿蒙 1024｜我做了一款鸿蒙独占应用，希望成为真正懂你的「路线神器」](https://sspai.com/post/102720)
 * [【2025-09-30】 派早报：中国移动获颁卫星移动通信业务经营许可、EA 被联合收购等](https://sspai.com/post/102843)
 * [【2025-09-29】 技术语境中那些熟悉又陌生的英语动词（二）](https://sspai.com/prime/story/interesting-verbs-in-computing-02)
 * [【2025-09-29】 派评 | 近期值得关注的 App](https://sspai.com/post/102836)
@@ -42,9 +45,6 @@
 * [【2025-09-29】 你的大脑已上线：让这份「欺诈智斗」片单点燃你的智商](https://sspai.com/post/102699)
 * [【2025-09-29】 派早报：携程、去哪儿等回应「抢票加速包是噱头」](https://sspai.com/post/102823)
 * [【2025-09-28】 三款机型齐更新，各种需求都好挑：新款 Apple Watch 选购指南](https://sspai.com/post/102803)
-* [【2025-09-28】 主干已成、枝叶未盛：从微信适配看鸿蒙 NEXT 生态](https://sspai.com/post/102590)
-* [【2025-09-27】 发展了十几年，为什么智能手表的血压检测还像个摆设？](https://sspai.com/post/84622)
-* [【2025-09-26】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/102789)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-09-30 05:16:24
+:alarm_clock: 更新时间: 2025-10-01 05:17:02
