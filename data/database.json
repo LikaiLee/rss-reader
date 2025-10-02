@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "一天之内，智谱和 Anthropic 都发了最强编程模型",
+                "link": "http://www.ruanyifeng.com/blog/2025/10/glm-4.6.html",
+                "published": "2025-10-01"
+            },
+            {
                 "title": "科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用",
                 "link": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html",
                 "published": "2025-09-26"
@@ -1035,13 +1040,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一年住 7 晚酒店的你，真的需要酒店高级会员吗？",
+                "link": "https://sspai.com/post/94079",
+                "published": "2025-10-02"
+            },
             {
                 "title": "变化最大的不只是外观：iPhone 17 Pro 使用体验",
                 "link": "https://sspai.com/post/102815",
@@ -26748,7 +26758,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,

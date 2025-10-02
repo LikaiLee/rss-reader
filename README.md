@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-10-01】 一天之内，智谱和 Anthropic 都发了最强编程模型](http://www.ruanyifeng.com/blog/2025/10/glm-4.6.html)
 * [【2025-09-26】 科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html)
 * [【2025-09-19】 科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)
 * [【2025-09-12】 科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html)
@@ -25,7 +26,6 @@
 * [【2025-08-15】 科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html)
 * [【2025-08-08】 科技爱好者周刊（第 360 期）：Dan Wang 的新书](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-360.html)
 * [【2025-08-01】 科技爱好者周刊（第 359 期）：Palantir 值得关注](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html)
-* [【2025-07-25】 科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-358.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2025-10-02】 一年住 7 晚酒店的你，真的需要酒店高级会员吗？](https://sspai.com/post/94079)
 * [【2025-09-30】 变化最大的不只是外观：iPhone 17 Pro 使用体验](https://sspai.com/post/102815)
 * [【2025-09-30】 社区速递 112 | 量大管饱的派友八月剁手清单、一周热评和最新文章](https://sspai.com/post/102857)
 * [【2025-09-30】 鸿蒙 1024｜我做了一款鸿蒙独占应用，希望成为真正懂你的「路线神器」](https://sspai.com/post/102720)
@@ -44,7 +45,6 @@
 * [【2025-09-29】 想克服拖延症，这份「不要做」清单你也许用得上](https://sspai.com/post/102316)
 * [【2025-09-29】 你的大脑已上线：让这份「欺诈智斗」片单点燃你的智商](https://sspai.com/post/102699)
 * [【2025-09-29】 派早报：携程、去哪儿等回应「抢票加速包是噱头」](https://sspai.com/post/102823)
-* [【2025-09-28】 三款机型齐更新，各种需求都好挑：新款 Apple Watch 选购指南](https://sspai.com/post/102803)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-01 05:17:02
+:alarm_clock: 更新时间: 2025-10-02 05:15:18
