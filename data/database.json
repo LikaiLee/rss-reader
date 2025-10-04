@@ -1048,6 +1048,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "鸿蒙 1024｜鸿蒙，我的独家记忆",
+                "link": "https://sspai.com/post/102833",
+                "published": "2025-10-04"
+            },
+            {
+                "title": "这次一定：iPhone 17 标准版使用体验",
+                "link": "https://sspai.com/post/102893",
+                "published": "2025-10-03"
+            },
+            {
                 "title": "一年住 7 晚酒店的你，真的需要酒店高级会员吗？",
                 "link": "https://sspai.com/post/94079",
                 "published": "2025-10-02"
@@ -26758,7 +26768,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 2,
