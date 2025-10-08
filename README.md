@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2025-10-07】 用 AI 帮我改善口吃：一段关于自我和解的旅程](https://sspai.com/post/102860)
+* [【2025-10-05】 Apple Vision Pro 可以看自己拍的沉浸式视频了，看起来效果怎么样？](https://sspai.com/post/102896)
 * [【2025-10-06】 Beats Fit Pro 新升级，更完善的小改款：Powerbeats Fit 体验](https://sspai.com/post/102913)
 * [【2025-10-06】 模拟 DJ 的自动过渡功能，会带来歌单的未来形态吗？](https://sspai.com/post/100790)
 * [【2025-10-05】 Apple Vision Pro 可以看自己拍的沉浸式视频了，但效果可能没你想得那么好](https://sspai.com/post/102896)
@@ -43,8 +45,6 @@
 * [【2025-10-02】 一年住 7 晚酒店的你，真的需要酒店高级会员吗？](https://sspai.com/post/94079)
 * [【2025-09-30】 变化最大的不只是外观：iPhone 17 Pro 使用体验](https://sspai.com/post/102815)
 * [【2025-09-30】 社区速递 112 | 量大管饱的派友八月剁手清单、一周热评和最新文章](https://sspai.com/post/102857)
-* [【2025-09-30】 鸿蒙 1024｜我做了一款鸿蒙独占应用，希望成为真正懂你的「路线神器」](https://sspai.com/post/102720)
-* [【2025-09-30】 派早报：中国移动获颁卫星移动通信业务经营许可、EA 被联合收购等](https://sspai.com/post/102843)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-07 05:16:07
+:alarm_clock: 更新时间: 2025-10-08 05:16:14
