@@ -1048,6 +1048,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "伊犁寻草记：恰西的彩虹与库尔德宁的云杉",
+                "link": "https://sspai.com/post/102585",
+                "published": "2025-10-09"
+            },
+            {
+                "title": "派早报：亚马逊发布 2025 秋季新品、特斯拉推出「标准款」车型等",
+                "link": "https://sspai.com/post/102945",
+                "published": "2025-10-09"
+            },
+            {
+                "title": "AI 学习模式：让 ChatGPT 当导师，究竟是「邪修」破局还是暗藏陷阱？",
+                "link": "https://sspai.com/post/102377",
+                "published": "2025-10-08"
+            },
+            {
                 "title": "用 AI 帮我改善口吃：一段关于自我和解的旅程",
                 "link": "https://sspai.com/post/102860",
                 "published": "2025-10-07"
@@ -26793,7 +26808,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,

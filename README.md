@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-10-09】 伊犁寻草记：恰西的彩虹与库尔德宁的云杉](https://sspai.com/post/102585)
+* [【2025-10-09】 派早报：亚马逊发布 2025 秋季新品、特斯拉推出「标准款」车型等](https://sspai.com/post/102945)
+* [【2025-10-08】 AI 学习模式：让 ChatGPT 当导师，究竟是「邪修」破局还是暗藏陷阱？](https://sspai.com/post/102377)
 * [【2025-10-07】 用 AI 帮我改善口吃：一段关于自我和解的旅程](https://sspai.com/post/102860)
 * [【2025-10-05】 Apple Vision Pro 可以看自己拍的沉浸式视频了，看起来效果怎么样？](https://sspai.com/post/102896)
 * [【2025-10-06】 Beats Fit Pro 新升级，更完善的小改款：Powerbeats Fit 体验](https://sspai.com/post/102913)
@@ -42,9 +45,6 @@
 * [【2025-10-05】 Apple Vision Pro 可以看自己拍的沉浸式视频了，但效果可能没你想得那么好](https://sspai.com/post/102896)
 * [【2025-10-04】 鸿蒙 1024｜鸿蒙，我的独家记忆](https://sspai.com/post/102833)
 * [【2025-10-03】 这次一定：iPhone 17 标准版使用体验](https://sspai.com/post/102893)
-* [【2025-10-02】 一年住 7 晚酒店的你，真的需要酒店高级会员吗？](https://sspai.com/post/94079)
-* [【2025-09-30】 变化最大的不只是外观：iPhone 17 Pro 使用体验](https://sspai.com/post/102815)
-* [【2025-09-30】 社区速递 112 | 量大管饱的派友八月剁手清单、一周热评和最新文章](https://sspai.com/post/102857)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-08 05:16:14
+:alarm_clock: 更新时间: 2025-10-09 05:16:51
