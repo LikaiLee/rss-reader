@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 368 期）：不要这样管理软件团队",
+                "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html",
+                "published": "2025-10-10"
+            },
+            {
                 "title": "一天之内，智谱和 Anthropic 都发了最强编程模型",
                 "link": "http://www.ruanyifeng.com/blog/2025/10/glm-4.6.html",
                 "published": "2025-10-01"
@@ -1040,13 +1045,53 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "App+1 | 用 Karakeep 搭建你的个人收藏夹",
+                "link": "https://sspai.com/post/102935",
+                "published": "2025-10-11"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 11 部作品",
+                "link": "https://sspai.com/post/102996",
+                "published": "2025-10-10"
+            },
+            {
+                "title": "狗牛：一段幽默史",
+                "link": "https://sspai.com/prime/story/dogcow-a-history",
+                "published": "2025-10-10"
+            },
+            {
+                "title": "直播｜MeetCard 正式上线",
+                "link": "https://sspai.com/post/102977",
+                "published": "2025-10-10"
+            },
+            {
+                "title": "鸿蒙 1024｜在一起，就可以——在华为实习的七个月",
+                "link": "https://sspai.com/post/102853",
+                "published": "2025-10-10"
+            },
+            {
+                "title": "派早报：Alphabet 反垄断案新进展、Intel 发布多项新品等",
+                "link": "https://sspai.com/post/102974",
+                "published": "2025-10-10"
+            },
+            {
+                "title": "新玩意 222｜少数派的编辑们入手 Apple 新品之后还买了啥配件？",
+                "link": "https://sspai.com/post/102963",
+                "published": "2025-10-09"
+            },
+            {
+                "title": "App+1 | 用 ExposurePlot 找出最适合自己的拍照焦段",
+                "link": "https://sspai.com/post/102861",
+                "published": "2025-10-09"
+            },
             {
                 "title": "伊犁寻草记：恰西的彩虹与库尔德宁的云杉",
                 "link": "https://sspai.com/post/102585",
@@ -26808,7 +26853,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 8
     },
     {
         "id": 2,

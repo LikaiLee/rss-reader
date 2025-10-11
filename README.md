@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+8】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-10-10】 科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html)
 * [【2025-10-01】 一天之内，智谱和 Anthropic 都发了最强编程模型](http://www.ruanyifeng.com/blog/2025/10/glm-4.6.html)
 * [【2025-09-26】 科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html)
 * [【2025-09-19】 科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)
@@ -25,7 +26,6 @@
 * [【2025-08-22】 科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html)
 * [【2025-08-15】 科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html)
 * [【2025-08-08】 科技爱好者周刊（第 360 期）：Dan Wang 的新书](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-360.html)
-* [【2025-08-01】 科技爱好者周刊（第 359 期）：Palantir 值得关注](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-10-11】 App+1 | 用 Karakeep 搭建你的个人收藏夹](https://sspai.com/post/102935)
+* [【2025-10-10】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/102996)
+* [【2025-10-10】 狗牛：一段幽默史](https://sspai.com/prime/story/dogcow-a-history)
+* [【2025-10-10】 直播｜MeetCard 正式上线](https://sspai.com/post/102977)
+* [【2025-10-10】 鸿蒙 1024｜在一起，就可以——在华为实习的七个月](https://sspai.com/post/102853)
+* [【2025-10-10】 派早报：Alphabet 反垄断案新进展、Intel 发布多项新品等](https://sspai.com/post/102974)
+* [【2025-10-09】 新玩意 222｜少数派的编辑们入手 Apple 新品之后还买了啥配件？](https://sspai.com/post/102963)
+* [【2025-10-09】 App+1 | 用 ExposurePlot 找出最适合自己的拍照焦段](https://sspai.com/post/102861)
 * [【2025-10-09】 伊犁寻草记：恰西的彩虹与库尔德宁的云杉](https://sspai.com/post/102585)
 * [【2025-10-09】 派早报：亚马逊发布 2025 秋季新品、特斯拉推出「标准款」车型等](https://sspai.com/post/102945)
-* [【2025-10-08】 AI 学习模式：让 ChatGPT 当导师，究竟是「邪修」破局还是暗藏陷阱？](https://sspai.com/post/102377)
-* [【2025-10-07】 用 AI 帮我改善口吃：一段关于自我和解的旅程](https://sspai.com/post/102860)
-* [【2025-10-05】 Apple Vision Pro 可以看自己拍的沉浸式视频了，看起来效果怎么样？](https://sspai.com/post/102896)
-* [【2025-10-06】 Beats Fit Pro 新升级，更完善的小改款：Powerbeats Fit 体验](https://sspai.com/post/102913)
-* [【2025-10-06】 模拟 DJ 的自动过渡功能，会带来歌单的未来形态吗？](https://sspai.com/post/100790)
-* [【2025-10-05】 Apple Vision Pro 可以看自己拍的沉浸式视频了，但效果可能没你想得那么好](https://sspai.com/post/102896)
-* [【2025-10-04】 鸿蒙 1024｜鸿蒙，我的独家记忆](https://sspai.com/post/102833)
-* [【2025-10-03】 这次一定：iPhone 17 标准版使用体验](https://sspai.com/post/102893)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-09 05:16:51
+:alarm_clock: 更新时间: 2025-10-11 05:15:03
