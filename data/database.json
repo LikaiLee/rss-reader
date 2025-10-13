@@ -1045,13 +1045,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "鸿蒙 1024｜沽酒家 × 鸿蒙：何以诗天下？",
+                "link": "https://sspai.com/post/102738",
+                "published": "2025-10-13"
+            },
+            {
+                "title": "派早报：网易云回应新手机号注册意外登录已故明星账号",
+                "link": "https://sspai.com/post/103038",
+                "published": "2025-10-13"
+            },
+            {
+                "title": "我的 Logseq 标签化本地电子书库管理方案",
+                "link": "https://sspai.com/post/102883",
+                "published": "2025-10-12"
+            },
+            {
+                "title": "画质不算强，体验却很棒：我的大疆 Osmo Nano 使用小记",
+                "link": "https://sspai.com/post/102919",
+                "published": "2025-10-11"
+            },
             {
                 "title": "App+1 | 用 Karakeep 搭建你的个人收藏夹",
                 "link": "https://sspai.com/post/102935",
@@ -26853,7 +26873,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 4
     },
     {
         "id": 2,
