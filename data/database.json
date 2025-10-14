@@ -1053,6 +1053,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "众测 | 邀你一同探索模块化迷你主机 Khadas Mind 2",
+                "link": "https://sspai.com/post/103074",
+                "published": "2025-10-14"
+            },
+            {
+                "title": "派早报：vivo 发布 X300 系列等新品，iPhone Air 发售定档等",
+                "link": "https://sspai.com/post/103071",
+                "published": "2025-10-14"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/103067",
+                "published": "2025-10-13"
+            },
+            {
+                "title": "陌生而有趣的训练伙伴——滑行盘和 TRX 训练带使用指南",
+                "link": "https://sspai.com/prime/story/gliding-discs-trx-exercise-band-training-guide",
+                "published": "2025-10-13"
+            },
+            {
+                "title": "为捕捉新视角提供更多可能：摄影师 Austin Mann 评 iPhone 17 Pro",
+                "link": "https://sspai.com/post/102934",
+                "published": "2025-10-13"
+            },
+            {
                 "title": "鸿蒙 1024｜沽酒家 × 鸿蒙：何以诗天下？",
                 "link": "https://sspai.com/post/102738",
                 "published": "2025-10-13"
@@ -26873,7 +26898,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
