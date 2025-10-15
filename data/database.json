@@ -1053,6 +1053,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "鸿蒙 1024｜在鸿蒙建一间美术馆，我也登上了更大的舞台",
+                "link": "https://sspai.com/post/102951",
+                "published": "2025-10-15"
+            },
+            {
+                "title": "派早报：ChatGPT 将放开成人内容限制、GrapheneOS 已与主流 OEM 厂商达成合作等",
+                "link": "https://sspai.com/post/103104",
+                "published": "2025-10-14"
+            },
+            {
+                "title": "社区速递 113 | 派友热议 AI 浏览器、作者的新玩意和一周热评",
+                "link": "https://sspai.com/post/103079",
+                "published": "2025-10-14"
+            },
+            {
+                "title": "我就是想继续用 Windows 10：那安全漏洞怎么办？",
+                "link": "https://sspai.com/post/88541",
+                "published": "2025-10-14"
+            },
+            {
                 "title": "众测 | 邀你一同探索模块化迷你主机 Khadas Mind 2",
                 "link": "https://sspai.com/post/103074",
                 "published": "2025-10-14"
@@ -26898,7 +26918,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
