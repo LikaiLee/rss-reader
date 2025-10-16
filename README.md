@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-10-16】 一起共创｜我们想打造一个墨水屏体验空间，让数字生活回归「纸感」](https://sspai.com/post/103108)
+* [【2025-10-16】 派早报：Apple 更新 M5 系列新品、荣耀发布 Magic 8 系列手机等](https://sspai.com/post/103129)
+* [【2025-10-15】 来自中国的年度 iPhone 游戏大奖，Tim Cook 拜访《剑与远征》开发商](https://sspai.com/post/103120)
+* [【2025-10-15】 黑苹果的黄昏：我用一台七年老本，为它举行最后的葬礼](https://sspai.com/post/102899)
 * [【2025-10-15】 鸿蒙 1024｜在鸿蒙建一间美术馆，我也登上了更大的舞台](https://sspai.com/post/102951)
 * [【2025-10-14】 派早报：ChatGPT 将放开成人内容限制、GrapheneOS 已与主流 OEM 厂商达成合作等](https://sspai.com/post/103104)
 * [【2025-10-14】 社区速递 113 | 派友热议 AI 浏览器、作者的新玩意和一周热评](https://sspai.com/post/103079)
 * [【2025-10-14】 我就是想继续用 Windows 10：那安全漏洞怎么办？](https://sspai.com/post/88541)
 * [【2025-10-14】 众测 | 邀你一同探索模块化迷你主机 Khadas Mind 2](https://sspai.com/post/103074)
 * [【2025-10-14】 派早报：vivo 发布 X300 系列等新品，iPhone Air 发售定档等](https://sspai.com/post/103071)
-* [【2025-10-13】 派评 | 近期值得关注的 App](https://sspai.com/post/103067)
-* [【2025-10-13】 陌生而有趣的训练伙伴——滑行盘和 TRX 训练带使用指南](https://sspai.com/prime/story/gliding-discs-trx-exercise-band-training-guide)
-* [【2025-10-13】 为捕捉新视角提供更多可能：摄影师 Austin Mann 评 iPhone 17 Pro](https://sspai.com/post/102934)
-* [【2025-10-13】 鸿蒙 1024｜沽酒家 × 鸿蒙：何以诗天下？](https://sspai.com/post/102738)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-15 05:16:46
+:alarm_clock: 更新时间: 2025-10-16 05:16:50
