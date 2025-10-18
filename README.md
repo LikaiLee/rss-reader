@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-10-17】 科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html)
 * [【2025-10-10】 科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html)
 * [【2025-10-01】 一天之内，智谱和 Anthropic 都发了最强编程模型](http://www.ruanyifeng.com/blog/2025/10/glm-4.6.html)
 * [【2025-09-26】 科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html)
@@ -25,7 +26,6 @@
 * [【2025-08-29】 科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html)
 * [【2025-08-22】 科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html)
 * [【2025-08-15】 科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html)
-* [【2025-08-08】 科技爱好者周刊（第 360 期）：Dan Wang 的新书](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-360.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-10-17】 本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/103171)
+* [【2025-10-17】 我做了一个有趣的实验，在二维坐标上画下我的 3000+ 笔记](https://sspai.com/post/103035)
+* [【2025-10-17】 线下活动｜她的家，邀请你来「共创」？](https://sspai.com/post/103132)
+* [【2025-10-17】 派早报：OPPO 发布 Find X9 系列新品、Google 推出四项新功能保护 Android 用户等](https://sspai.com/post/103156)
+* [【2025-10-16】 具透 Plus | iOS 26 密码导出功能幕后；Pixel 5G 网络启用方案遭封堵](https://sspai.com/prime/story/inside-release-notes-251016)
+* [【2025-10-16】 新玩意 223｜少数派的编辑们最近买了啥？](https://sspai.com/post/103144)
+* [【2025-10-16】 借助捷径，不写代码也能玩转 Quote/0](https://sspai.com/post/102845)
 * [【2025-10-16】 一起共创｜我们想打造一个墨水屏体验空间，让数字生活回归「纸感」](https://sspai.com/post/103108)
 * [【2025-10-16】 派早报：Apple 更新 M5 系列新品、荣耀发布 Magic 8 系列手机等](https://sspai.com/post/103129)
 * [【2025-10-15】 来自中国的年度 iPhone 游戏大奖，Tim Cook 拜访《剑与远征》开发商](https://sspai.com/post/103120)
-* [【2025-10-15】 黑苹果的黄昏：我用一台七年老本，为它举行最后的葬礼](https://sspai.com/post/102899)
-* [【2025-10-15】 鸿蒙 1024｜在鸿蒙建一间美术馆，我也登上了更大的舞台](https://sspai.com/post/102951)
-* [【2025-10-14】 派早报：ChatGPT 将放开成人内容限制、GrapheneOS 已与主流 OEM 厂商达成合作等](https://sspai.com/post/103104)
-* [【2025-10-14】 社区速递 113 | 派友热议 AI 浏览器、作者的新玩意和一周热评](https://sspai.com/post/103079)
-* [【2025-10-14】 我就是想继续用 Windows 10：那安全漏洞怎么办？](https://sspai.com/post/88541)
-* [【2025-10-14】 众测 | 邀你一同探索模块化迷你主机 Khadas Mind 2](https://sspai.com/post/103074)
-* [【2025-10-14】 派早报：vivo 发布 X300 系列等新品，iPhone Air 发售定档等](https://sspai.com/post/103071)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-16 05:16:50
+:alarm_clock: 更新时间: 2025-10-18 05:15:28
