@@ -1050,13 +1050,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "派早报：国家安全局表示国家授时中心受到美国攻击",
+                "link": "https://sspai.com/post/103207",
+                "published": "2025-10-20"
+            },
+            {
+                "title": "项目看板 3.0：在 Obsidian 中平衡专注与多元",
+                "link": "https://sspai.com/post/102887",
+                "published": "2025-10-19"
+            },
+            {
+                "title": "背包三年，我的旅行装备与好物分享",
+                "link": "https://sspai.com/post/103093",
+                "published": "2025-10-18"
+            },
             {
                 "title": "本周看什么 | 最近值得一看的 13 部作品",
                 "link": "https://sspai.com/post/103171",
@@ -26978,7 +26993,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 3
     },
     {
         "id": 2,

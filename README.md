@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+7】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-10-20】 派早报：国家安全局表示国家授时中心受到美国攻击](https://sspai.com/post/103207)
+* [【2025-10-19】 项目看板 3.0：在 Obsidian 中平衡专注与多元](https://sspai.com/post/102887)
+* [【2025-10-18】 背包三年，我的旅行装备与好物分享](https://sspai.com/post/103093)
 * [【2025-10-17】 本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/103171)
 * [【2025-10-17】 我做了一个有趣的实验，在二维坐标上画下我的 3000+ 笔记](https://sspai.com/post/103035)
 * [【2025-10-17】 线下活动｜她的家，邀请你来「共创」？](https://sspai.com/post/103132)
@@ -42,9 +45,6 @@
 * [【2025-10-16】 具透 Plus | iOS 26 密码导出功能幕后；Pixel 5G 网络启用方案遭封堵](https://sspai.com/prime/story/inside-release-notes-251016)
 * [【2025-10-16】 新玩意 223｜少数派的编辑们最近买了啥？](https://sspai.com/post/103144)
 * [【2025-10-16】 借助捷径，不写代码也能玩转 Quote/0](https://sspai.com/post/102845)
-* [【2025-10-16】 一起共创｜我们想打造一个墨水屏体验空间，让数字生活回归「纸感」](https://sspai.com/post/103108)
-* [【2025-10-16】 派早报：Apple 更新 M5 系列新品、荣耀发布 Magic 8 系列手机等](https://sspai.com/post/103129)
-* [【2025-10-15】 来自中国的年度 iPhone 游戏大奖，Tim Cook 拜访《剑与远征》开发商](https://sspai.com/post/103120)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-18 05:15:28
+:alarm_clock: 更新时间: 2025-10-20 05:17:51
