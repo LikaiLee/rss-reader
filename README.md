@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-10-21】 鸿蒙 1024｜160 天，我从鸿蒙赚了 56840 元](https://sspai.com/post/103213)
+* [【2025-10-21】 派早报：iQOO 发布 iQOO 15 等新品，暴雪宣布《星际争霸 Ⅱ》国服回归日期等](https://sspai.com/post/103232)
+* [【2025-10-20】 派评 | 近期值得关注的 App](https://sspai.com/post/103223)
+* [【2025-10-20】 为自己找一面「代谢的镜子」：动态血糖仪的选购与使用感受](https://sspai.com/prime/story/glucose-monitors-guide)
+* [【2025-10-20】 教师数字文具盒 | 教育行业工作者，如何用 AI 搞定繁琐的事务性工作](https://sspai.com/post/102931)
+* [【2025-10-20】 MeetCard 用户上手指南](https://sspai.com/post/103159)
 * [【2025-10-20】 派早报：国家安全局表示国家授时中心受到美国攻击](https://sspai.com/post/103207)
 * [【2025-10-19】 项目看板 3.0：在 Obsidian 中平衡专注与多元](https://sspai.com/post/102887)
 * [【2025-10-18】 背包三年，我的旅行装备与好物分享](https://sspai.com/post/103093)
 * [【2025-10-17】 本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/103171)
-* [【2025-10-17】 我做了一个有趣的实验，在二维坐标上画下我的 3000+ 笔记](https://sspai.com/post/103035)
-* [【2025-10-17】 线下活动｜她的家，邀请你来「共创」？](https://sspai.com/post/103132)
-* [【2025-10-17】 派早报：OPPO 发布 Find X9 系列新品、Google 推出四项新功能保护 Android 用户等](https://sspai.com/post/103156)
-* [【2025-10-16】 具透 Plus | iOS 26 密码导出功能幕后；Pixel 5G 网络启用方案遭封堵](https://sspai.com/prime/story/inside-release-notes-251016)
-* [【2025-10-16】 新玩意 223｜少数派的编辑们最近买了啥？](https://sspai.com/post/103144)
-* [【2025-10-16】 借助捷径，不写代码也能玩转 Quote/0](https://sspai.com/post/102845)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-20 05:17:51
+:alarm_clock: 更新时间: 2025-10-21 05:16:52

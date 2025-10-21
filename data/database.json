@@ -1058,6 +1058,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "鸿蒙 1024｜160 天，我从鸿蒙赚了 56840 元",
+                "link": "https://sspai.com/post/103213",
+                "published": "2025-10-21"
+            },
+            {
+                "title": "派早报：iQOO 发布 iQOO 15 等新品，暴雪宣布《星际争霸 Ⅱ》国服回归日期等",
+                "link": "https://sspai.com/post/103232",
+                "published": "2025-10-21"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/103223",
+                "published": "2025-10-20"
+            },
+            {
+                "title": "为自己找一面「代谢的镜子」：动态血糖仪的选购与使用感受",
+                "link": "https://sspai.com/prime/story/glucose-monitors-guide",
+                "published": "2025-10-20"
+            },
+            {
+                "title": "教师数字文具盒 | 教育行业工作者，如何用 AI 搞定繁琐的事务性工作",
+                "link": "https://sspai.com/post/102931",
+                "published": "2025-10-20"
+            },
+            {
+                "title": "MeetCard 用户上手指南",
+                "link": "https://sspai.com/post/103159",
+                "published": "2025-10-20"
+            },
+            {
                 "title": "派早报：国家安全局表示国家授时中心受到美国攻击",
                 "link": "https://sspai.com/post/103207",
                 "published": "2025-10-20"
@@ -26993,7 +27023,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
