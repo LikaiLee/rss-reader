@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "错误处理：异常好于状态码",
+                "link": "http://www.ruanyifeng.com/blog/2025/10/exception.html",
+                "published": "2025-10-21"
+            },
+            {
                 "title": "科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈",
                 "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html",
                 "published": "2025-10-17"
@@ -1050,13 +1055,53 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "鸿蒙 1024｜为缓你升级鸿蒙的阵痛，我做了一款工具箱：NEXT 升级站",
+                "link": "https://sspai.com/post/103018",
+                "published": "2025-10-23"
+            },
+            {
+                "title": "派早报：三星发布 Galaxy XR 头显、OpenAI 推出 AI 浏览器等",
+                "link": "https://sspai.com/post/103289",
+                "published": "2025-10-23"
+            },
+            {
+                "title": "iPhone Air 正式开售，办理 eSIM 前你也许想先了解这些事",
+                "link": "https://sspai.com/post/103279",
+                "published": "2025-10-22"
+            },
+            {
+                "title": "在那拉提的 48 小时：从河谷到天界台的慢旅行",
+                "link": "https://sspai.com/post/103089",
+                "published": "2025-10-22"
+            },
+            {
+                "title": "1024 特别直播｜不止代码 —— 用科技重新定义你的生活",
+                "link": "https://sspai.com/post/103242",
+                "published": "2025-10-22"
+            },
+            {
+                "title": "派早报：PS5 Pro 国行版发售等",
+                "link": "https://sspai.com/post/103250",
+                "published": "2025-10-21"
+            },
+            {
+                "title": "社区速递 114 | 新车该「裸奔」还是「穿衣」、作者的新玩意和一周热评",
+                "link": "https://sspai.com/post/103240",
+                "published": "2025-10-21"
+            },
+            {
+                "title": "澳大利亚九日游记：新老 iPhone 齐出动，记录十年重逢的喜悦",
+                "link": "https://sspai.com/post/103037",
+                "published": "2025-10-21"
+            },
             {
                 "title": "鸿蒙 1024｜160 天，我从鸿蒙赚了 56840 元",
                 "link": "https://sspai.com/post/103213",
@@ -27023,7 +27068,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 8
     },
     {
         "id": 2,

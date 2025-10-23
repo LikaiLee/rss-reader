@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+8】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-10-21】 错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html)
 * [【2025-10-17】 科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html)
 * [【2025-10-10】 科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html)
 * [【2025-10-01】 一天之内，智谱和 Anthropic 都发了最强编程模型](http://www.ruanyifeng.com/blog/2025/10/glm-4.6.html)
@@ -25,7 +26,6 @@
 * [【2025-09-05】 科技爱好者周刊（第 364 期）：最难还原的魔方](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html)
 * [【2025-08-29】 科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html)
 * [【2025-08-22】 科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html)
-* [【2025-08-15】 科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-10-23】 鸿蒙 1024｜为缓你升级鸿蒙的阵痛，我做了一款工具箱：NEXT 升级站](https://sspai.com/post/103018)
+* [【2025-10-23】 派早报：三星发布 Galaxy XR 头显、OpenAI 推出 AI 浏览器等](https://sspai.com/post/103289)
+* [【2025-10-22】 iPhone Air 正式开售，办理 eSIM 前你也许想先了解这些事](https://sspai.com/post/103279)
+* [【2025-10-22】 在那拉提的 48 小时：从河谷到天界台的慢旅行](https://sspai.com/post/103089)
+* [【2025-10-22】 1024 特别直播｜不止代码 —— 用科技重新定义你的生活](https://sspai.com/post/103242)
+* [【2025-10-21】 派早报：PS5 Pro 国行版发售等](https://sspai.com/post/103250)
+* [【2025-10-21】 社区速递 114 | 新车该「裸奔」还是「穿衣」、作者的新玩意和一周热评](https://sspai.com/post/103240)
+* [【2025-10-21】 澳大利亚九日游记：新老 iPhone 齐出动，记录十年重逢的喜悦](https://sspai.com/post/103037)
 * [【2025-10-21】 鸿蒙 1024｜160 天，我从鸿蒙赚了 56840 元](https://sspai.com/post/103213)
 * [【2025-10-21】 派早报：iQOO 发布 iQOO 15 等新品，暴雪宣布《星际争霸 Ⅱ》国服回归日期等](https://sspai.com/post/103232)
-* [【2025-10-20】 派评 | 近期值得关注的 App](https://sspai.com/post/103223)
-* [【2025-10-20】 为自己找一面「代谢的镜子」：动态血糖仪的选购与使用感受](https://sspai.com/prime/story/glucose-monitors-guide)
-* [【2025-10-20】 教师数字文具盒 | 教育行业工作者，如何用 AI 搞定繁琐的事务性工作](https://sspai.com/post/102931)
-* [【2025-10-20】 MeetCard 用户上手指南](https://sspai.com/post/103159)
-* [【2025-10-20】 派早报：国家安全局表示国家授时中心受到美国攻击](https://sspai.com/post/103207)
-* [【2025-10-19】 项目看板 3.0：在 Obsidian 中平衡专注与多元](https://sspai.com/post/102887)
-* [【2025-10-18】 背包三年，我的旅行装备与好物分享](https://sspai.com/post/103093)
-* [【2025-10-17】 本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/103171)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-21 05:16:52
+:alarm_clock: 更新时间: 2025-10-23 05:17:01
