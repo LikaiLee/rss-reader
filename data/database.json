@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 370 期）：正确的代码高亮",
+                "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html",
+                "published": "2025-10-24"
+            },
+            {
                 "title": "错误处理：异常好于状态码",
                 "link": "http://www.ruanyifeng.com/blog/2025/10/exception.html",
                 "published": "2025-10-21"
@@ -1062,6 +1067,51 @@
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "线下活动｜播客现场录制：职场无 take 2，请小心演绎？",
+                "link": "https://sspai.com/post/103327",
+                "published": "2025-10-25"
+            },
+            {
+                "title": "鸿蒙 1024 程序员节征文获奖结果公布",
+                "link": "https://sspai.com/post/103319",
+                "published": "2025-10-24"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 12 部作品",
+                "link": "https://sspai.com/post/103329",
+                "published": "2025-10-24"
+            },
+            {
+                "title": "1024 程序员节致敬 800 万鸿蒙开发者，看华为如何与他们「码向未来」",
+                "link": "https://sspai.com/post/103325",
+                "published": "2025-10-24"
+            },
+            {
+                "title": "CMF Headphone Pro 无线降噪头戴耳机体验 - TDS REVIEW",
+                "link": "https://sspai.com/post/103152",
+                "published": "2025-10-24"
+            },
+            {
+                "title": "ChatGPT Atlas 来了：浏览器学会思考了吗？",
+                "link": "https://sspai.com/post/103275",
+                "published": "2025-10-24"
+            },
+            {
+                "title": "派早报：华为发布 HarmonyOS 6、红米发布 REDMI K90 系列新品等",
+                "link": "https://sspai.com/post/103316",
+                "published": "2025-10-24"
+            },
+            {
+                "title": "App+1 | 把游戏 UI 做成效率工具：OrbitRing",
+                "link": "https://sspai.com/post/102689",
+                "published": "2025-10-23"
+            },
+            {
+                "title": "安南山脉安南国，越南 10 天 5 城旅行日记",
+                "link": "https://sspai.com/post/103168",
+                "published": "2025-10-23"
+            },
             {
                 "title": "鸿蒙 1024｜为缓你升级鸿蒙的阵痛，我做了一款工具箱：NEXT 升级站",
                 "link": "https://sspai.com/post/103018",
@@ -27068,7 +27118,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 9
     },
     {
         "id": 2,

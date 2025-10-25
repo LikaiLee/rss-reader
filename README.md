@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+8】
+* [少数派](#少数派) 【+9】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-10-24】 科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html)
 * [【2025-10-21】 错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html)
 * [【2025-10-17】 科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html)
 * [【2025-10-10】 科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html)
@@ -25,7 +26,6 @@
 * [【2025-09-12】 科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html)
 * [【2025-09-05】 科技爱好者周刊（第 364 期）：最难还原的魔方](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html)
 * [【2025-08-29】 科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html)
-* [【2025-08-22】 科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-10-25】 线下活动｜播客现场录制：职场无 take 2，请小心演绎？](https://sspai.com/post/103327)
+* [【2025-10-24】 鸿蒙 1024 程序员节征文获奖结果公布](https://sspai.com/post/103319)
+* [【2025-10-24】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/103329)
+* [【2025-10-24】 1024 程序员节致敬 800 万鸿蒙开发者，看华为如何与他们「码向未来」](https://sspai.com/post/103325)
+* [【2025-10-24】 CMF Headphone Pro 无线降噪头戴耳机体验 - TDS REVIEW](https://sspai.com/post/103152)
+* [【2025-10-24】 ChatGPT Atlas 来了：浏览器学会思考了吗？](https://sspai.com/post/103275)
+* [【2025-10-24】 派早报：华为发布 HarmonyOS 6、红米发布 REDMI K90 系列新品等](https://sspai.com/post/103316)
+* [【2025-10-23】 App+1 | 把游戏 UI 做成效率工具：OrbitRing](https://sspai.com/post/102689)
+* [【2025-10-23】 安南山脉安南国，越南 10 天 5 城旅行日记](https://sspai.com/post/103168)
 * [【2025-10-23】 鸿蒙 1024｜为缓你升级鸿蒙的阵痛，我做了一款工具箱：NEXT 升级站](https://sspai.com/post/103018)
-* [【2025-10-23】 派早报：三星发布 Galaxy XR 头显、OpenAI 推出 AI 浏览器等](https://sspai.com/post/103289)
-* [【2025-10-22】 iPhone Air 正式开售，办理 eSIM 前你也许想先了解这些事](https://sspai.com/post/103279)
-* [【2025-10-22】 在那拉提的 48 小时：从河谷到天界台的慢旅行](https://sspai.com/post/103089)
-* [【2025-10-22】 1024 特别直播｜不止代码 —— 用科技重新定义你的生活](https://sspai.com/post/103242)
-* [【2025-10-21】 派早报：PS5 Pro 国行版发售等](https://sspai.com/post/103250)
-* [【2025-10-21】 社区速递 114 | 新车该「裸奔」还是「穿衣」、作者的新玩意和一周热评](https://sspai.com/post/103240)
-* [【2025-10-21】 澳大利亚九日游记：新老 iPhone 齐出动，记录十年重逢的喜悦](https://sspai.com/post/103037)
-* [【2025-10-21】 鸿蒙 1024｜160 天，我从鸿蒙赚了 56840 元](https://sspai.com/post/103213)
-* [【2025-10-21】 派早报：iQOO 发布 iQOO 15 等新品，暴雪宣布《星际争霸 Ⅱ》国服回归日期等](https://sspai.com/post/103232)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-23 05:17:01
+:alarm_clock: 更新时间: 2025-10-25 05:15:32
