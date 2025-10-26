@@ -1060,13 +1060,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "鸿蒙 1024｜不到一个月开发的鸿蒙应用，一个不小心成为爆款",
+                "link": "https://sspai.com/post/103199",
+                "published": "2025-10-25"
+            },
             {
                 "title": "线下活动｜播客现场录制：职场无 take 2，请小心演绎？",
                 "link": "https://sspai.com/post/103327",
@@ -27118,7 +27123,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 1
     },
     {
         "id": 2,

@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+9】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2025-10-25】 鸿蒙 1024｜不到一个月开发的鸿蒙应用，一个不小心成为爆款](https://sspai.com/post/103199)
 * [【2025-10-25】 线下活动｜播客现场录制：职场无 take 2，请小心演绎？](https://sspai.com/post/103327)
 * [【2025-10-24】 鸿蒙 1024 程序员节征文获奖结果公布](https://sspai.com/post/103319)
 * [【2025-10-24】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/103329)
@@ -44,7 +45,6 @@
 * [【2025-10-24】 派早报：华为发布 HarmonyOS 6、红米发布 REDMI K90 系列新品等](https://sspai.com/post/103316)
 * [【2025-10-23】 App+1 | 把游戏 UI 做成效率工具：OrbitRing](https://sspai.com/post/102689)
 * [【2025-10-23】 安南山脉安南国，越南 10 天 5 城旅行日记](https://sspai.com/post/103168)
-* [【2025-10-23】 鸿蒙 1024｜为缓你升级鸿蒙的阵痛，我做了一款工具箱：NEXT 升级站](https://sspai.com/post/103018)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-25 05:15:32
+:alarm_clock: 更新时间: 2025-10-26 05:16:16
