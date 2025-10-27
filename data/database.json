@@ -1068,6 +1068,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "门槛更高，玩法更多：Android 骑行码表 Hammerhead Karoo 3 体验",
+                "link": "https://sspai.com/post/103148",
+                "published": "2025-10-27"
+            },
+            {
+                "title": "派早报：苹果调查橙色 iPhone 17 Pro 变色问题",
+                "link": "https://sspai.com/post/103362",
+                "published": "2025-10-27"
+            },
+            {
+                "title": "App+1｜站在 Git 的肩膀上，做更懂玩家的存档管理：游戏拾光",
+                "link": "https://sspai.com/post/102928",
+                "published": "2025-10-26"
+            },
+            {
                 "title": "鸿蒙 1024｜不到一个月开发的鸿蒙应用，一个不小心成为爆款",
                 "link": "https://sspai.com/post/103199",
                 "published": "2025-10-25"
@@ -27123,7 +27138,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
