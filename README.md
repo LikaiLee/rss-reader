@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-10-28】 一日一技｜免电脑续签，让你的 iOS 侧载应用更无缝](https://sspai.com/post/103368)
+* [【2025-10-27】 派早报：一加发布一加 15 等新机，AMD 发布锐龙 10 系列新处理器等](https://sspai.com/post/103377)
+* [【2025-10-27】 派评 | 近期值得关注的 App](https://sspai.com/post/103371)
+* [【2025-10-27】 我的双十一男装清单：从基础大牌到私藏好店](https://sspai.com/post/103360)
 * [【2025-10-27】 门槛更高，玩法更多：Android 骑行码表 Hammerhead Karoo 3 体验](https://sspai.com/post/103148)
 * [【2025-10-27】 派早报：苹果调查橙色 iPhone 17 Pro 变色问题](https://sspai.com/post/103362)
 * [【2025-10-26】 App+1｜站在 Git 的肩膀上，做更懂玩家的存档管理：游戏拾光](https://sspai.com/post/102928)
 * [【2025-10-25】 鸿蒙 1024｜不到一个月开发的鸿蒙应用，一个不小心成为爆款](https://sspai.com/post/103199)
 * [【2025-10-25】 线下活动｜播客现场录制：职场无 take 2，请小心演绎？](https://sspai.com/post/103327)
 * [【2025-10-24】 鸿蒙 1024 程序员节征文获奖结果公布](https://sspai.com/post/103319)
-* [【2025-10-24】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/103329)
-* [【2025-10-24】 1024 程序员节致敬 800 万鸿蒙开发者，看华为如何与他们「码向未来」](https://sspai.com/post/103325)
-* [【2025-10-24】 CMF Headphone Pro 无线降噪头戴耳机体验 - TDS REVIEW](https://sspai.com/post/103152)
-* [【2025-10-24】 ChatGPT Atlas 来了：浏览器学会思考了吗？](https://sspai.com/post/103275)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-27 05:18:13
+:alarm_clock: 更新时间: 2025-10-28 05:17:59

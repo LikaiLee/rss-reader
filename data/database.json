@@ -1068,6 +1068,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技｜免电脑续签，让你的 iOS 侧载应用更无缝",
+                "link": "https://sspai.com/post/103368",
+                "published": "2025-10-28"
+            },
+            {
+                "title": "派早报：一加发布一加 15 等新机，AMD 发布锐龙 10 系列新处理器等",
+                "link": "https://sspai.com/post/103377",
+                "published": "2025-10-27"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/103371",
+                "published": "2025-10-27"
+            },
+            {
+                "title": "我的双十一男装清单：从基础大牌到私藏好店",
+                "link": "https://sspai.com/post/103360",
+                "published": "2025-10-27"
+            },
+            {
                 "title": "门槛更高，玩法更多：Android 骑行码表 Hammerhead Karoo 3 体验",
                 "link": "https://sspai.com/post/103148",
                 "published": "2025-10-27"
@@ -27138,7 +27158,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
