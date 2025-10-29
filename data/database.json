@@ -1068,6 +1068,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "零基础 Vibe Coding 到上架，我做了一款 Apple Watch「带壳截图」",
+                "link": "https://sspai.com/post/103293",
+                "published": "2025-10-29"
+            },
+            {
+                "title": "派早报：Nothing 确认将引入第三方预装应用和锁屏广告等",
+                "link": "https://sspai.com/post/103398",
+                "published": "2025-10-28"
+            },
+            {
+                "title": "鸿蒙 1024｜从评测到鸿蒙应用开发：我做了一款专业屏幕测试工具",
+                "link": "https://sspai.com/post/103206",
+                "published": "2025-10-28"
+            },
+            {
+                "title": "社区速递 115 | 派友的九月消费报告和一周热评、新玩意",
+                "link": "https://sspai.com/post/103385",
+                "published": "2025-10-28"
+            },
+            {
+                "title": "双十一雷电 5 / USB4 拓展坞怎么买（2025 版）",
+                "link": "https://sspai.com/post/103292",
+                "published": "2025-10-28"
+            },
+            {
                 "title": "一日一技｜免电脑续签，让你的 iOS 侧载应用更无缝",
                 "link": "https://sspai.com/post/103368",
                 "published": "2025-10-28"
@@ -27158,7 +27183,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
