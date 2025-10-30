@@ -1068,6 +1068,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "日本红枫季应该怎么玩？这是我的关西攻略",
+                "link": "https://sspai.com/post/102412",
+                "published": "2025-10-30"
+            },
+            {
+                "title": "派早报：Apple 加入 TGA 咨询委员会、Nothing 新机发布等",
+                "link": "https://sspai.com/post/103421",
+                "published": "2025-10-30"
+            },
+            {
+                "title": "一日一技｜两种方案，让 Windows 11 支持深/浅色主题自动切换",
+                "link": "https://sspai.com/post/103225",
+                "published": "2025-10-29"
+            },
+            {
+                "title": "或许一生只去一次就够了：土耳其十天自驾小记",
+                "link": "https://sspai.com/post/102208",
+                "published": "2025-10-29"
+            },
+            {
                 "title": "零基础 Vibe Coding 到上架，我做了一款 Apple Watch「带壳截图」",
                 "link": "https://sspai.com/post/103293",
                 "published": "2025-10-29"
@@ -27183,7 +27203,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

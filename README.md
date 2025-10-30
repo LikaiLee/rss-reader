@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-10-30】 日本红枫季应该怎么玩？这是我的关西攻略](https://sspai.com/post/102412)
+* [【2025-10-30】 派早报：Apple 加入 TGA 咨询委员会、Nothing 新机发布等](https://sspai.com/post/103421)
+* [【2025-10-29】 一日一技｜两种方案，让 Windows 11 支持深/浅色主题自动切换](https://sspai.com/post/103225)
+* [【2025-10-29】 或许一生只去一次就够了：土耳其十天自驾小记](https://sspai.com/post/102208)
 * [【2025-10-29】 零基础 Vibe Coding 到上架，我做了一款 Apple Watch「带壳截图」](https://sspai.com/post/103293)
 * [【2025-10-28】 派早报：Nothing 确认将引入第三方预装应用和锁屏广告等](https://sspai.com/post/103398)
 * [【2025-10-28】 鸿蒙 1024｜从评测到鸿蒙应用开发：我做了一款专业屏幕测试工具](https://sspai.com/post/103206)
 * [【2025-10-28】 社区速递 115 | 派友的九月消费报告和一周热评、新玩意](https://sspai.com/post/103385)
 * [【2025-10-28】 双十一雷电 5 / USB4 拓展坞怎么买（2025 版）](https://sspai.com/post/103292)
 * [【2025-10-28】 一日一技｜免电脑续签，让你的 iOS 侧载应用更无缝](https://sspai.com/post/103368)
-* [【2025-10-27】 派早报：一加发布一加 15 等新机，AMD 发布锐龙 10 系列新处理器等](https://sspai.com/post/103377)
-* [【2025-10-27】 派评 | 近期值得关注的 App](https://sspai.com/post/103371)
-* [【2025-10-27】 我的双十一男装清单：从基础大牌到私藏好店](https://sspai.com/post/103360)
-* [【2025-10-27】 门槛更高，玩法更多：Android 骑行码表 Hammerhead Karoo 3 体验](https://sspai.com/post/103148)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-29 05:17:55
+:alarm_clock: 更新时间: 2025-10-30 05:17:08
