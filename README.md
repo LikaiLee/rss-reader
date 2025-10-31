@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-10-31】 科技爱好者周刊（第 371 期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html)
 * [【2025-10-24】 科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html)
 * [【2025-10-21】 错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html)
 * [【2025-10-17】 科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html)
@@ -25,7 +26,6 @@
 * [【2025-09-19】 科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)
 * [【2025-09-12】 科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html)
 * [【2025-09-05】 科技爱好者周刊（第 364 期）：最难还原的魔方](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html)
-* [【2025-08-29】 科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-10-31】 从书房到工作室，只需咔嗒一声：Khadas Mind 2 模块化工作流体验](https://sspai.com/post/103412)
+* [【2025-10-31】 派早报：iQOO Neo11 发布、Grammarly 完成品牌重组等](https://sspai.com/post/103446)
+* [【2025-10-30】 新玩意 224｜少数派的编辑们最近买了啥？](https://sspai.com/post/103439)
+* [【2025-10-30】 App+1｜一个应用搞定多种笔记需求，零碎想法也有好去处：Re:card](https://sspai.com/post/103082)
 * [【2025-10-30】 日本红枫季应该怎么玩？这是我的关西攻略](https://sspai.com/post/102412)
 * [【2025-10-30】 派早报：Apple 加入 TGA 咨询委员会、Nothing 新机发布等](https://sspai.com/post/103421)
 * [【2025-10-29】 一日一技｜两种方案，让 Windows 11 支持深/浅色主题自动切换](https://sspai.com/post/103225)
 * [【2025-10-29】 或许一生只去一次就够了：土耳其十天自驾小记](https://sspai.com/post/102208)
 * [【2025-10-29】 零基础 Vibe Coding 到上架，我做了一款 Apple Watch「带壳截图」](https://sspai.com/post/103293)
 * [【2025-10-28】 派早报：Nothing 确认将引入第三方预装应用和锁屏广告等](https://sspai.com/post/103398)
-* [【2025-10-28】 鸿蒙 1024｜从评测到鸿蒙应用开发：我做了一款专业屏幕测试工具](https://sspai.com/post/103206)
-* [【2025-10-28】 社区速递 115 | 派友的九月消费报告和一周热评、新玩意](https://sspai.com/post/103385)
-* [【2025-10-28】 双十一雷电 5 / USB4 拓展坞怎么买（2025 版）](https://sspai.com/post/103292)
-* [【2025-10-28】 一日一技｜免电脑续签，让你的 iOS 侧载应用更无缝](https://sspai.com/post/103368)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-30 05:17:08
+:alarm_clock: 更新时间: 2025-10-31 05:18:12
