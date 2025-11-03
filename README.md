@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+8】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-11-03】 为什么你的外语不再进步：几个关键的语言学习「元知识」](https://sspai.com/post/103323)
+* [【2025-11-03】 派早报：arXiv 因 AI 泛滥拒收未经同行评审的计算机领域综述文章](https://sspai.com/post/103480)
+* [【2025-11-02】 Mac 选购指南 2025 双十一版](https://sspai.com/post/85735)
+* [【2025-11-01】 鸿蒙 1024｜新平台、老地方：在鸿蒙生态打造心的栖息地](https://sspai.com/post/103179)
+* [【2025-10-31】 配置文件面面观（上）：配置格式的类型和特点](https://sspai.com/prime/story/config-formats-1)
+* [【2025-10-31】 本月玩什么｜羊蹄山、宝可梦Z-A、天外世界2](https://sspai.com/post/103455)
+* [【2025-10-31】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/103452)
+* [【2025-10-31】 旅行中一定会买什么：10 位少数派的旅途收藏与独家记忆](https://sspai.com/post/103404)
 * [【2025-10-31】 从书房到工作室，只需咔嗒一声：Khadas Mind 2 模块化工作流体验](https://sspai.com/post/103412)
 * [【2025-10-31】 派早报：iQOO Neo11 发布、Grammarly 完成品牌重组等](https://sspai.com/post/103446)
-* [【2025-10-30】 新玩意 224｜少数派的编辑们最近买了啥？](https://sspai.com/post/103439)
-* [【2025-10-30】 App+1｜一个应用搞定多种笔记需求，零碎想法也有好去处：Re:card](https://sspai.com/post/103082)
-* [【2025-10-30】 日本红枫季应该怎么玩？这是我的关西攻略](https://sspai.com/post/102412)
-* [【2025-10-30】 派早报：Apple 加入 TGA 咨询委员会、Nothing 新机发布等](https://sspai.com/post/103421)
-* [【2025-10-29】 一日一技｜两种方案，让 Windows 11 支持深/浅色主题自动切换](https://sspai.com/post/103225)
-* [【2025-10-29】 或许一生只去一次就够了：土耳其十天自驾小记](https://sspai.com/post/102208)
-* [【2025-10-29】 零基础 Vibe Coding 到上架，我做了一款 Apple Watch「带壳截图」](https://sspai.com/post/103293)
-* [【2025-10-28】 派早报：Nothing 确认将引入第三方预装应用和锁屏广告等](https://sspai.com/post/103398)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-10-31 05:18:12
+:alarm_clock: 更新时间: 2025-11-03 05:18:36
