@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+8】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-11-04】 大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5](http://www.ruanyifeng.com/blog/2025/11/minimax-m2.html)
 * [【2025-10-31】 科技爱好者周刊（第 371 期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html)
 * [【2025-10-24】 科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html)
 * [【2025-10-21】 错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html)
@@ -25,7 +26,6 @@
 * [【2025-09-26】 科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html)
 * [【2025-09-19】 科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)
 * [【2025-09-12】 科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html)
-* [【2025-09-05】 科技爱好者周刊（第 364 期）：最难还原的魔方](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-11-04】 中亚行纪：从阿拉木图的雪山到撒马尔罕的蓝穹](https://sspai.com/post/103312)
+* [【2025-11-04】 派早报：Google 因 AI 幻觉指控从 AI Studio 撤下 Gemma 模型等](https://sspai.com/post/103507)
+* [【2025-11-03】 派评 | 近期值得关注的 App](https://sspai.com/post/103498)
+* [【2025-11-03】 购物节想入手无线麦克风？我们来聊聊其中可能最受关注的两款](https://sspai.com/post/103245)
 * [【2025-11-03】 为什么你的外语不再进步：几个关键的语言学习「元知识」](https://sspai.com/post/103323)
 * [【2025-11-03】 派早报：arXiv 因 AI 泛滥拒收未经同行评审的计算机领域综述文章](https://sspai.com/post/103480)
 * [【2025-11-02】 Mac 选购指南 2025 双十一版](https://sspai.com/post/85735)
 * [【2025-11-01】 鸿蒙 1024｜新平台、老地方：在鸿蒙生态打造心的栖息地](https://sspai.com/post/103179)
 * [【2025-10-31】 配置文件面面观（上）：配置格式的类型和特点](https://sspai.com/prime/story/config-formats-1)
 * [【2025-10-31】 本月玩什么｜羊蹄山、宝可梦Z-A、天外世界2](https://sspai.com/post/103455)
-* [【2025-10-31】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/103452)
-* [【2025-10-31】 旅行中一定会买什么：10 位少数派的旅途收藏与独家记忆](https://sspai.com/post/103404)
-* [【2025-10-31】 从书房到工作室，只需咔嗒一声：Khadas Mind 2 模块化工作流体验](https://sspai.com/post/103412)
-* [【2025-10-31】 派早报：iQOO Neo11 发布、Grammarly 完成品牌重组等](https://sspai.com/post/103446)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-11-03 05:18:36
+:alarm_clock: 更新时间: 2025-11-04 05:17:40

@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5",
+                "link": "http://www.ruanyifeng.com/blog/2025/11/minimax-m2.html",
+                "published": "2025-11-04"
+            },
+            {
                 "title": "科技爱好者周刊（第 371 期）：一个乐观主义者的专访",
                 "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html",
                 "published": "2025-10-31"
@@ -1065,13 +1070,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "中亚行纪：从阿拉木图的雪山到撒马尔罕的蓝穹",
+                "link": "https://sspai.com/post/103312",
+                "published": "2025-11-04"
+            },
+            {
+                "title": "派早报：Google 因 AI 幻觉指控从 AI Studio 撤下 Gemma 模型等",
+                "link": "https://sspai.com/post/103507",
+                "published": "2025-11-04"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/103498",
+                "published": "2025-11-03"
+            },
+            {
+                "title": "购物节想入手无线麦克风？我们来聊聊其中可能最受关注的两款",
+                "link": "https://sspai.com/post/103245",
+                "published": "2025-11-03"
+            },
             {
                 "title": "为什么你的外语不再进步：几个关键的语言学习「元知识」",
                 "link": "https://sspai.com/post/103323",
@@ -27268,7 +27293,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 4
     },
     {
         "id": 2,
