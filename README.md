@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-11-05】 iOS 26.1 中值得关注的新特性](https://sspai.com/post/103538)
+* [【2025-11-04】 派早报：2026 年部分节假日安排公布等](https://sspai.com/post/103539)
+* [【2025-11-04】 社区速递 116 | 派友激辩电池优化、一周热评以及可爱的新玩意](https://sspai.com/post/103512)
+* [【2025-11-04】 专访 | 第十届移动应用创新赛收官，聊聊我们眼中的赛场内外](https://sspai.com/post/103499)
 * [【2025-11-04】 中亚行纪：从阿拉木图的雪山到撒马尔罕的蓝穹](https://sspai.com/post/103312)
 * [【2025-11-04】 派早报：Google 因 AI 幻觉指控从 AI Studio 撤下 Gemma 模型等](https://sspai.com/post/103507)
 * [【2025-11-03】 派评 | 近期值得关注的 App](https://sspai.com/post/103498)
 * [【2025-11-03】 购物节想入手无线麦克风？我们来聊聊其中可能最受关注的两款](https://sspai.com/post/103245)
 * [【2025-11-03】 为什么你的外语不再进步：几个关键的语言学习「元知识」](https://sspai.com/post/103323)
 * [【2025-11-03】 派早报：arXiv 因 AI 泛滥拒收未经同行评审的计算机领域综述文章](https://sspai.com/post/103480)
-* [【2025-11-02】 Mac 选购指南 2025 双十一版](https://sspai.com/post/85735)
-* [【2025-11-01】 鸿蒙 1024｜新平台、老地方：在鸿蒙生态打造心的栖息地](https://sspai.com/post/103179)
-* [【2025-10-31】 配置文件面面观（上）：配置格式的类型和特点](https://sspai.com/prime/story/config-formats-1)
-* [【2025-10-31】 本月玩什么｜羊蹄山、宝可梦Z-A、天外世界2](https://sspai.com/post/103455)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-11-04 05:17:40
+:alarm_clock: 更新时间: 2025-11-05 05:17:48

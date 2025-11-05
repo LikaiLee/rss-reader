@@ -1070,13 +1070,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "iOS 26.1 中值得关注的新特性",
+                "link": "https://sspai.com/post/103538",
+                "published": "2025-11-05"
+            },
+            {
+                "title": "派早报：2026 年部分节假日安排公布等",
+                "link": "https://sspai.com/post/103539",
+                "published": "2025-11-04"
+            },
+            {
+                "title": "社区速递 116 | 派友激辩电池优化、一周热评以及可爱的新玩意",
+                "link": "https://sspai.com/post/103512",
+                "published": "2025-11-04"
+            },
+            {
+                "title": "专访 | 第十届移动应用创新赛收官，聊聊我们眼中的赛场内外",
+                "link": "https://sspai.com/post/103499",
+                "published": "2025-11-04"
+            },
             {
                 "title": "中亚行纪：从阿拉木图的雪山到撒马尔罕的蓝穹",
                 "link": "https://sspai.com/post/103312",
