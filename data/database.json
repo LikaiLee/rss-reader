@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 372 期）：软件界面如何设计",
+                "link": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html",
+                "published": "2025-11-07"
+            },
+            {
                 "title": "大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5",
                 "link": "http://www.ruanyifeng.com/blog/2025/11/minimax-m2.html",
                 "published": "2025-11-04"
@@ -1070,13 +1075,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "中年人减肥如何不踩坑，健康安全重回 BMI20",
+                "link": "https://sspai.com/post/103052",
+                "published": "2025-11-07"
+            },
+            {
+                "title": "先睹为快｜iPhone 17 系列 GAMEBABY 手机壳即将上市",
+                "link": "https://sspai.com/post/103520",
+                "published": "2025-11-07"
+            },
+            {
+                "title": "派早报：Apple 对外展示 Apple Immersive Video 制作流程等",
+                "link": "https://sspai.com/post/103592",
+                "published": "2025-11-07"
+            },
+            {
+                "title": "新玩意 225｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/103581",
+                "published": "2025-11-06"
+            },
+            {
+                "title": "双十一鼠标怎么挑？（2025 版）",
+                "link": "https://sspai.com/post/99787",
+                "published": "2025-11-06"
+            },
             {
                 "title": "新的双十一，看看新产品，享受新优惠",
                 "link": "https://sspai.com/post/103553",
@@ -27333,7 +27363,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,

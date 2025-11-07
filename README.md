@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-11-07】 科技爱好者周刊（第 372 期）：软件界面如何设计](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html)
 * [【2025-11-04】 大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5](http://www.ruanyifeng.com/blog/2025/11/minimax-m2.html)
 * [【2025-10-31】 科技爱好者周刊（第 371 期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html)
 * [【2025-10-24】 科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html)
@@ -25,7 +26,6 @@
 * [【2025-10-01】 一天之内，智谱和 Anthropic 都发了最强编程模型](http://www.ruanyifeng.com/blog/2025/10/glm-4.6.html)
 * [【2025-09-26】 科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html)
 * [【2025-09-19】 科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)
-* [【2025-09-12】 科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-11-07】 中年人减肥如何不踩坑，健康安全重回 BMI20](https://sspai.com/post/103052)
+* [【2025-11-07】 先睹为快｜iPhone 17 系列 GAMEBABY 手机壳即将上市](https://sspai.com/post/103520)
+* [【2025-11-07】 派早报：Apple 对外展示 Apple Immersive Video 制作流程等](https://sspai.com/post/103592)
+* [【2025-11-06】 新玩意 225｜少数派的编辑们最近买了啥？](https://sspai.com/post/103581)
+* [【2025-11-06】 双十一鼠标怎么挑？（2025 版）](https://sspai.com/post/99787)
 * [【2025-11-06】 新的双十一，看看新产品，享受新优惠](https://sspai.com/post/103553)
 * [【2025-11-06】 派早报：小鹏发布人形机器人 IRON、奶牛快传即将停止服务等](https://sspai.com/post/103573)
 * [【2025-11-05】 最「辣」Windows 小主机：Khadas Mind 2 体验](https://sspai.com/post/103444)
 * [【2025-11-05】 十年移动应用创新赛落幕，Apple 移动应用孵化基金「启航」](https://sspai.com/post/103530)
 * [【2025-11-05】 iOS 26.1 中值得关注的新特性](https://sspai.com/post/103538)
-* [【2025-11-04】 派早报：2026 年部分节假日安排公布等](https://sspai.com/post/103539)
-* [【2025-11-04】 社区速递 116 | 派友激辩电池优化、一周热评以及可爱的新玩意](https://sspai.com/post/103512)
-* [【2025-11-04】 专访 | 第十届移动应用创新赛收官，聊聊我们眼中的赛场内外](https://sspai.com/post/103499)
-* [【2025-11-04】 中亚行纪：从阿拉木图的雪山到撒马尔罕的蓝穹](https://sspai.com/post/103312)
-* [【2025-11-04】 派早报：Google 因 AI 幻觉指控从 AI Studio 撤下 Gemma 模型等](https://sspai.com/post/103507)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-11-06 05:18:20
+:alarm_clock: 更新时间: 2025-11-07 05:17:31
