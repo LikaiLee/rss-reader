@@ -1075,13 +1075,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/103641",
+                "published": "2025-11-07"
+            },
+            {
+                "title": "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+                "link": "https://sspai.com/post/103585",
+                "published": "2025-11-07"
+            },
+            {
+                "title": "AI 时代的新征程：M5 款 MacBook Pro 简谈",
+                "link": "https://sspai.com/post/103563",
+                "published": "2025-11-07"
+            },
             {
                 "title": "中年人减肥如何不踩坑，健康安全重回 BMI20",
                 "link": "https://sspai.com/post/103052",
@@ -27363,7 +27378,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,

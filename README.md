@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-11-07】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/103641)
+* [【2025-11-07】 双十一 | 少数派会员、正版软件、付费栏目限时优惠](https://sspai.com/post/103585)
+* [【2025-11-07】 AI 时代的新征程：M5 款 MacBook Pro 简谈](https://sspai.com/post/103563)
 * [【2025-11-07】 中年人减肥如何不踩坑，健康安全重回 BMI20](https://sspai.com/post/103052)
 * [【2025-11-07】 先睹为快｜iPhone 17 系列 GAMEBABY 手机壳即将上市](https://sspai.com/post/103520)
 * [【2025-11-07】 派早报：Apple 对外展示 Apple Immersive Video 制作流程等](https://sspai.com/post/103592)
@@ -42,9 +45,6 @@
 * [【2025-11-06】 双十一鼠标怎么挑？（2025 版）](https://sspai.com/post/99787)
 * [【2025-11-06】 新的双十一，看看新产品，享受新优惠](https://sspai.com/post/103553)
 * [【2025-11-06】 派早报：小鹏发布人形机器人 IRON、奶牛快传即将停止服务等](https://sspai.com/post/103573)
-* [【2025-11-05】 最「辣」Windows 小主机：Khadas Mind 2 体验](https://sspai.com/post/103444)
-* [【2025-11-05】 十年移动应用创新赛落幕，Apple 移动应用孵化基金「启航」](https://sspai.com/post/103530)
-* [【2025-11-05】 iOS 26.1 中值得关注的新特性](https://sspai.com/post/103538)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-11-07 05:17:31
+:alarm_clock: 更新时间: 2025-11-08 05:16:23
