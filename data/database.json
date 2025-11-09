@@ -1083,6 +1083,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "副业淘宝店经营 1 周年，我获取了哪些经验？",
+                "link": "https://sspai.com/post/102929",
+                "published": "2025-11-08"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 10 部作品",
                 "link": "https://sspai.com/post/103641",
                 "published": "2025-11-07"
@@ -27378,7 +27383,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,

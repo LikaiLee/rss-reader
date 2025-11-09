@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2025-11-08】 副业淘宝店经营 1 周年，我获取了哪些经验？](https://sspai.com/post/102929)
 * [【2025-11-07】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/103641)
 * [【2025-11-07】 双十一 | 少数派会员、正版软件、付费栏目限时优惠](https://sspai.com/post/103585)
 * [【2025-11-07】 AI 时代的新征程：M5 款 MacBook Pro 简谈](https://sspai.com/post/103563)
@@ -44,7 +45,6 @@
 * [【2025-11-06】 新玩意 225｜少数派的编辑们最近买了啥？](https://sspai.com/post/103581)
 * [【2025-11-06】 双十一鼠标怎么挑？（2025 版）](https://sspai.com/post/99787)
 * [【2025-11-06】 新的双十一，看看新产品，享受新优惠](https://sspai.com/post/103553)
-* [【2025-11-06】 派早报：小鹏发布人形机器人 IRON、奶牛快传即将停止服务等](https://sspai.com/post/103573)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-11-08 05:16:23
+:alarm_clock: 更新时间: 2025-11-09 05:16:28
