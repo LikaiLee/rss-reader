@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-11-10】 我们想让老手艺和年轻人玩到一起：专访南荒公园生活节创办人](https://sspai.com/post/103522)
+* [【2025-11-10】 派早报：马斯克 1 万亿美元的薪酬方案获批](https://sspai.com/post/103682)
+* [【2025-11-09】 一半文书交给 AI 后，我重新理解了「法律工具」](https://sspai.com/post/103187)
 * [【2025-11-08】 副业淘宝店经营 1 周年，我获取了哪些经验？](https://sspai.com/post/102929)
 * [【2025-11-07】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/103641)
 * [【2025-11-07】 双十一 | 少数派会员、正版软件、付费栏目限时优惠](https://sspai.com/post/103585)
@@ -42,9 +45,6 @@
 * [【2025-11-07】 中年人减肥如何不踩坑，健康安全重回 BMI20](https://sspai.com/post/103052)
 * [【2025-11-07】 先睹为快｜iPhone 17 系列 GAMEBABY 手机壳即将上市](https://sspai.com/post/103520)
 * [【2025-11-07】 派早报：Apple 对外展示 Apple Immersive Video 制作流程等](https://sspai.com/post/103592)
-* [【2025-11-06】 新玩意 225｜少数派的编辑们最近买了啥？](https://sspai.com/post/103581)
-* [【2025-11-06】 双十一鼠标怎么挑？（2025 版）](https://sspai.com/post/99787)
-* [【2025-11-06】 新的双十一，看看新产品，享受新优惠](https://sspai.com/post/103553)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-11-09 05:16:28
+:alarm_clock: 更新时间: 2025-11-10 05:18:30
