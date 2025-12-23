@@ -5,6 +5,21 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 378 期）：预测是新的互联网热点",
+                "link": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html",
+                "published": "2025-12-19"
+            },
+            {
+                "title": "科技爱好者周刊（第 377 期）：14万美元的贫困线",
+                "link": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html",
+                "published": "2025-12-12"
+            },
+            {
+                "title": "科技爱好者周刊（第 376 期）：太空数据中心的争议",
+                "link": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html",
+                "published": "2025-12-05"
+            },
+            {
                 "title": "科技爱好者周刊（第 372 期）：软件界面如何设计",
                 "link": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html",
                 "published": "2025-11-07"
@@ -1075,13 +1090,63 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "《羊蹄山之魂》十问十答",
+                "link": "https://sspai.com/post/104779",
+                "published": "2025-12-23"
+            },
+            {
+                "title": "派早报：华为举行 nova 15 系列及全场景新品发布会等",
+                "link": "https://sspai.com/post/104833",
+                "published": "2025-12-23"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/104824",
+                "published": "2025-12-22"
+            },
+            {
+                "title": "一日一技 | 达玛卡亚冥想法入门指南",
+                "link": "https://sspai.com/post/86003",
+                "published": "2025-12-22"
+            },
+            {
+                "title": "跨越二十年的共同记忆：我们在各平台都「折腾」过什么",
+                "link": "https://sspai.com/post/104704",
+                "published": "2025-12-22"
+            },
+            {
+                "title": "派早报：《互联网平台价格行为规则》发布",
+                "link": "https://sspai.com/post/104796",
+                "published": "2025-12-22"
+            },
+            {
+                "title": "当「探索」遇上「好奇心」，你的影像会如何思考？",
+                "link": "https://sspai.com/post/104781",
+                "published": "2025-12-21"
+            },
+            {
+                "title": "十多道啫啫煲和砂锅菜，让你的冬日吃出汗",
+                "link": "https://sspai.com/prime/story/clay-pot-casserole-dishes-for-winter",
+                "published": "2025-12-20"
+            },
+            {
+                "title": "从反复横跳到放弃幻想：选择 vivo X200 Pro mini 之后我在想些什么",
+                "link": "https://sspai.com/post/104720",
+                "published": "2025-12-20"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/104747",
+                "published": "2025-12-19"
+            },
             {
                 "title": "我们想让老手艺和年轻人玩到一起：专访南荒公园生活节创办人",
                 "link": "https://sspai.com/post/103522",
@@ -27398,7 +27463,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 10
     },
     {
         "id": 2,

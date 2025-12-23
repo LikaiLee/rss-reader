@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+3】
+* [少数派](#少数派) 【+10】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,9 @@
     </summary>
 
 
+* [【2025-12-19】 科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html)
+* [【2025-12-12】 科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html)
+* [【2025-12-05】 科技爱好者周刊（第 376 期）：太空数据中心的争议](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html)
 * [【2025-11-07】 科技爱好者周刊（第 372 期）：软件界面如何设计](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html)
 * [【2025-11-04】 大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5](http://www.ruanyifeng.com/blog/2025/11/minimax-m2.html)
 * [【2025-10-31】 科技爱好者周刊（第 371 期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html)
@@ -23,9 +26,6 @@
 * [【2025-10-21】 错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html)
 * [【2025-10-17】 科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html)
 * [【2025-10-10】 科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html)
-* [【2025-10-01】 一天之内，智谱和 Anthropic 都发了最强编程模型](http://www.ruanyifeng.com/blog/2025/10/glm-4.6.html)
-* [【2025-09-26】 科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html)
-* [【2025-09-19】 科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
-* [【2025-11-10】 我们想让老手艺和年轻人玩到一起：专访南荒公园生活节创办人](https://sspai.com/post/103522)
-* [【2025-11-10】 派早报：马斯克 1 万亿美元的薪酬方案获批](https://sspai.com/post/103682)
-* [【2025-11-09】 一半文书交给 AI 后，我重新理解了「法律工具」](https://sspai.com/post/103187)
-* [【2025-11-08】 副业淘宝店经营 1 周年，我获取了哪些经验？](https://sspai.com/post/102929)
-* [【2025-11-07】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/103641)
-* [【2025-11-07】 双十一 | 少数派会员、正版软件、付费栏目限时优惠](https://sspai.com/post/103585)
-* [【2025-11-07】 AI 时代的新征程：M5 款 MacBook Pro 简谈](https://sspai.com/post/103563)
-* [【2025-11-07】 中年人减肥如何不踩坑，健康安全重回 BMI20](https://sspai.com/post/103052)
-* [【2025-11-07】 先睹为快｜iPhone 17 系列 GAMEBABY 手机壳即将上市](https://sspai.com/post/103520)
-* [【2025-11-07】 派早报：Apple 对外展示 Apple Immersive Video 制作流程等](https://sspai.com/post/103592)
+* [【2025-12-23】 《羊蹄山之魂》十问十答](https://sspai.com/post/104779)
+* [【2025-12-23】 派早报：华为举行 nova 15 系列及全场景新品发布会等](https://sspai.com/post/104833)
+* [【2025-12-22】 派评 | 近期值得关注的 App](https://sspai.com/post/104824)
+* [【2025-12-22】 一日一技 | 达玛卡亚冥想法入门指南](https://sspai.com/post/86003)
+* [【2025-12-22】 跨越二十年的共同记忆：我们在各平台都「折腾」过什么](https://sspai.com/post/104704)
+* [【2025-12-22】 派早报：《互联网平台价格行为规则》发布](https://sspai.com/post/104796)
+* [【2025-12-21】 当「探索」遇上「好奇心」，你的影像会如何思考？](https://sspai.com/post/104781)
+* [【2025-12-20】 十多道啫啫煲和砂锅菜，让你的冬日吃出汗](https://sspai.com/prime/story/clay-pot-casserole-dishes-for-winter)
+* [【2025-12-20】 从反复横跳到放弃幻想：选择 vivo X200 Pro mini 之后我在想些什么](https://sspai.com/post/104720)
+* [【2025-12-19】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/104747)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-11-10 05:18:30
+:alarm_clock: 更新时间: 2025-12-23 05:22:21
