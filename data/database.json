@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "我如何用 AI 处理历史遗留代码：MiniMax M2.1 升级体验",
+                "link": "http://www.ruanyifeng.com/blog/2025/12/minimax-m2.1.html",
+                "published": "2025-12-23"
+            },
+            {
                 "title": "科技爱好者周刊（第 378 期）：预测是新的互联网热点",
                 "link": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html",
                 "published": "2025-12-19"
@@ -1090,13 +1095,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "Quote/0版本更新：从「主动追踪」到「被动感知」，让信息融入日常",
+                "link": "https://sspai.com/post/104809",
+                "published": "2025-12-24"
+            },
+            {
+                "title": "派早报：三星发布 2026 款 Odyssey 系列显示器等",
+                "link": "https://sspai.com/post/104861",
+                "published": "2025-12-24"
+            },
+            {
+                "title": "社区速递 123 | 年终大放送，盘点派友们的十一月「剁手」实录",
+                "link": "https://sspai.com/post/104836",
+                "published": "2025-12-23"
+            },
             {
                 "title": "《羊蹄山之魂》十问十答",
                 "link": "https://sspai.com/post/104779",
@@ -27463,7 +27483,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 10
+        "new_feeds": 3
     },
     {
         "id": 2,

@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+3】
-* [少数派](#少数派) 【+10】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-12-23】 我如何用 AI 处理历史遗留代码：MiniMax M2.1 升级体验](http://www.ruanyifeng.com/blog/2025/12/minimax-m2.1.html)
 * [【2025-12-19】 科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html)
 * [【2025-12-12】 科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html)
 * [【2025-12-05】 科技爱好者周刊（第 376 期）：太空数据中心的争议](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html)
@@ -25,7 +26,6 @@
 * [【2025-10-24】 科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html)
 * [【2025-10-21】 错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html)
 * [【2025-10-17】 科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html)
-* [【2025-10-10】 科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-12-24】 Quote/0版本更新：从「主动追踪」到「被动感知」，让信息融入日常](https://sspai.com/post/104809)
+* [【2025-12-24】 派早报：三星发布 2026 款 Odyssey 系列显示器等](https://sspai.com/post/104861)
+* [【2025-12-23】 社区速递 123 | 年终大放送，盘点派友们的十一月「剁手」实录](https://sspai.com/post/104836)
 * [【2025-12-23】 《羊蹄山之魂》十问十答](https://sspai.com/post/104779)
 * [【2025-12-23】 派早报：华为举行 nova 15 系列及全场景新品发布会等](https://sspai.com/post/104833)
 * [【2025-12-22】 派评 | 近期值得关注的 App](https://sspai.com/post/104824)
@@ -42,9 +45,6 @@
 * [【2025-12-22】 跨越二十年的共同记忆：我们在各平台都「折腾」过什么](https://sspai.com/post/104704)
 * [【2025-12-22】 派早报：《互联网平台价格行为规则》发布](https://sspai.com/post/104796)
 * [【2025-12-21】 当「探索」遇上「好奇心」，你的影像会如何思考？](https://sspai.com/post/104781)
-* [【2025-12-20】 十多道啫啫煲和砂锅菜，让你的冬日吃出汗](https://sspai.com/prime/story/clay-pot-casserole-dishes-for-winter)
-* [【2025-12-20】 从反复横跳到放弃幻想：选择 vivo X200 Pro mini 之后我在想些什么](https://sspai.com/post/104720)
-* [【2025-12-19】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/104747)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-12-23 05:22:21
+:alarm_clock: 更新时间: 2025-12-24 05:22:21
