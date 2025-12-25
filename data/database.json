@@ -1095,13 +1095,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "从 Retina 经典到 M 芯未来：十年、三代变革，我的 MacBook 进化论",
+                "link": "https://sspai.com/post/104723",
+                "published": "2025-12-25"
+            },
+            {
+                "title": "派早报：微信公众号上线「付费加热」功能等",
+                "link": "https://sspai.com/post/104885",
+                "published": "2025-12-25"
+            },
+            {
+                "title": "号称「反重力」的谷歌 AI 编辑器，能原地起飞吗？",
+                "link": "https://sspai.com/post/104769",
+                "published": "2025-12-24"
+            },
+            {
+                "title": "敲响圣诞「叮叮当」，让这 9 部圣诞影片陪你迎接新年",
+                "link": "https://sspai.com/post/85156",
+                "published": "2025-12-24"
+            },
+            {
+                "title": "关于价值的计算：少数派会员五周年的回顾与展望",
+                "link": "https://sspai.com/post/104517",
+                "published": "2025-12-24"
+            },
             {
                 "title": "Quote/0版本更新：从「主动追踪」到「被动感知」，让信息融入日常",
                 "link": "https://sspai.com/post/104809",
@@ -27483,7 +27508,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,

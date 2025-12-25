@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-12-25】 从 Retina 经典到 M 芯未来：十年、三代变革，我的 MacBook 进化论](https://sspai.com/post/104723)
+* [【2025-12-25】 派早报：微信公众号上线「付费加热」功能等](https://sspai.com/post/104885)
+* [【2025-12-24】 号称「反重力」的谷歌 AI 编辑器，能原地起飞吗？](https://sspai.com/post/104769)
+* [【2025-12-24】 敲响圣诞「叮叮当」，让这 9 部圣诞影片陪你迎接新年](https://sspai.com/post/85156)
+* [【2025-12-24】 关于价值的计算：少数派会员五周年的回顾与展望](https://sspai.com/post/104517)
 * [【2025-12-24】 Quote/0版本更新：从「主动追踪」到「被动感知」，让信息融入日常](https://sspai.com/post/104809)
 * [【2025-12-24】 派早报：三星发布 2026 款 Odyssey 系列显示器等](https://sspai.com/post/104861)
 * [【2025-12-23】 社区速递 123 | 年终大放送，盘点派友们的十一月「剁手」实录](https://sspai.com/post/104836)
 * [【2025-12-23】 《羊蹄山之魂》十问十答](https://sspai.com/post/104779)
 * [【2025-12-23】 派早报：华为举行 nova 15 系列及全场景新品发布会等](https://sspai.com/post/104833)
-* [【2025-12-22】 派评 | 近期值得关注的 App](https://sspai.com/post/104824)
-* [【2025-12-22】 一日一技 | 达玛卡亚冥想法入门指南](https://sspai.com/post/86003)
-* [【2025-12-22】 跨越二十年的共同记忆：我们在各平台都「折腾」过什么](https://sspai.com/post/104704)
-* [【2025-12-22】 派早报：《互联网平台价格行为规则》发布](https://sspai.com/post/104796)
-* [【2025-12-21】 当「探索」遇上「好奇心」，你的影像会如何思考？](https://sspai.com/post/104781)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-12-24 05:22:21
+:alarm_clock: 更新时间: 2025-12-25 05:22:12
