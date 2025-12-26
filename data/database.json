@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录",
+                "link": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html",
+                "published": "2025-12-25"
+            },
+            {
                 "title": "我如何用 AI 处理历史遗留代码：MiniMax M2.1 升级体验",
                 "link": "http://www.ruanyifeng.com/blog/2025/12/minimax-m2.1.html",
                 "published": "2025-12-23"
@@ -1095,13 +1100,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "佳明、Wahoo 还是 Hammerhead？高端码表最强对比评测",
+                "link": "https://sspai.com/post/104737",
+                "published": "2025-12-26"
+            },
+            {
+                "title": "派早报：小米发布多款新品，微软宣布 BitLocker 将支持硬件加速等",
+                "link": "https://sspai.com/post/104901",
+                "published": "2025-12-26"
+            },
+            {
+                "title": "新玩意 231｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/104895",
+                "published": "2025-12-25"
+            },
+            {
+                "title": "关于微塑料，一些你可能想了解的事",
+                "link": "https://sspai.com/prime/story/microplastics-facts-protections",
+                "published": "2025-12-25"
+            },
+            {
+                "title": "这么近那么美，周末到河北：看燕赵大地，逛正定古城",
+                "link": "https://sspai.com/post/104734",
+                "published": "2025-12-25"
+            },
             {
                 "title": "从 Retina 经典到 M 芯未来：十年、三代变革，我的 MacBook 进化论",
                 "link": "https://sspai.com/post/104723",

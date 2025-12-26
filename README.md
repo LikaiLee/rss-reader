@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-12-25】 科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html)
 * [【2025-12-23】 我如何用 AI 处理历史遗留代码：MiniMax M2.1 升级体验](http://www.ruanyifeng.com/blog/2025/12/minimax-m2.1.html)
 * [【2025-12-19】 科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html)
 * [【2025-12-12】 科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html)
@@ -25,7 +26,6 @@
 * [【2025-10-31】 科技爱好者周刊（第 371 期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html)
 * [【2025-10-24】 科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html)
 * [【2025-10-21】 错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html)
-* [【2025-10-17】 科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-12-26】 佳明、Wahoo 还是 Hammerhead？高端码表最强对比评测](https://sspai.com/post/104737)
+* [【2025-12-26】 派早报：小米发布多款新品，微软宣布 BitLocker 将支持硬件加速等](https://sspai.com/post/104901)
+* [【2025-12-25】 新玩意 231｜少数派的编辑们最近买了啥？](https://sspai.com/post/104895)
+* [【2025-12-25】 关于微塑料，一些你可能想了解的事](https://sspai.com/prime/story/microplastics-facts-protections)
+* [【2025-12-25】 这么近那么美，周末到河北：看燕赵大地，逛正定古城](https://sspai.com/post/104734)
 * [【2025-12-25】 从 Retina 经典到 M 芯未来：十年、三代变革，我的 MacBook 进化论](https://sspai.com/post/104723)
 * [【2025-12-25】 派早报：微信公众号上线「付费加热」功能等](https://sspai.com/post/104885)
 * [【2025-12-24】 号称「反重力」的谷歌 AI 编辑器，能原地起飞吗？](https://sspai.com/post/104769)
 * [【2025-12-24】 敲响圣诞「叮叮当」，让这 9 部圣诞影片陪你迎接新年](https://sspai.com/post/85156)
 * [【2025-12-24】 关于价值的计算：少数派会员五周年的回顾与展望](https://sspai.com/post/104517)
-* [【2025-12-24】 Quote/0版本更新：从「主动追踪」到「被动感知」，让信息融入日常](https://sspai.com/post/104809)
-* [【2025-12-24】 派早报：三星发布 2026 款 Odyssey 系列显示器等](https://sspai.com/post/104861)
-* [【2025-12-23】 社区速递 123 | 年终大放送，盘点派友们的十一月「剁手」实录](https://sspai.com/post/104836)
-* [【2025-12-23】 《羊蹄山之魂》十问十答](https://sspai.com/post/104779)
-* [【2025-12-23】 派早报：华为举行 nova 15 系列及全场景新品发布会等](https://sspai.com/post/104833)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-12-25 05:22:12
+:alarm_clock: 更新时间: 2025-12-26 05:20:01
