@@ -1100,13 +1100,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 11 部作品",
+                "link": "https://sspai.com/post/104915",
+                "published": "2025-12-26"
+            },
+            {
+                "title": "即将告别 2025 年，这些「数字」值得被你留下",
+                "link": "https://sspai.com/post/104890",
+                "published": "2025-12-26"
+            },
             {
                 "title": "佳明、Wahoo 还是 Hammerhead？高端码表最强对比评测",
                 "link": "https://sspai.com/post/104737",
@@ -27538,7 +27548,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,

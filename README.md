@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2025-12-26】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/104915)
+* [【2025-12-26】 即将告别 2025 年，这些「数字」值得被你留下](https://sspai.com/post/104890)
 * [【2025-12-26】 佳明、Wahoo 还是 Hammerhead？高端码表最强对比评测](https://sspai.com/post/104737)
 * [【2025-12-26】 派早报：小米发布多款新品，微软宣布 BitLocker 将支持硬件加速等](https://sspai.com/post/104901)
 * [【2025-12-25】 新玩意 231｜少数派的编辑们最近买了啥？](https://sspai.com/post/104895)
@@ -43,8 +45,6 @@
 * [【2025-12-25】 从 Retina 经典到 M 芯未来：十年、三代变革，我的 MacBook 进化论](https://sspai.com/post/104723)
 * [【2025-12-25】 派早报：微信公众号上线「付费加热」功能等](https://sspai.com/post/104885)
 * [【2025-12-24】 号称「反重力」的谷歌 AI 编辑器，能原地起飞吗？](https://sspai.com/post/104769)
-* [【2025-12-24】 敲响圣诞「叮叮当」，让这 9 部圣诞影片陪你迎接新年](https://sspai.com/post/85156)
-* [【2025-12-24】 关于价值的计算：少数派会员五周年的回顾与展望](https://sspai.com/post/104517)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-12-26 05:20:01
+:alarm_clock: 更新时间: 2025-12-27 05:19:22
