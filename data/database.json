@@ -1108,6 +1108,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "AI 饭局装腔指南：3 分钟速成行业大佬",
+                "link": "https://sspai.com/post/104832",
+                "published": "2025-12-27"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 11 部作品",
                 "link": "https://sspai.com/post/104915",
                 "published": "2025-12-26"
@@ -27548,7 +27553,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,

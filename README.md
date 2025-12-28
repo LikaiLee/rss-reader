@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2025-12-27】 AI 饭局装腔指南：3 分钟速成行业大佬](https://sspai.com/post/104832)
 * [【2025-12-26】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/104915)
 * [【2025-12-26】 即将告别 2025 年，这些「数字」值得被你留下](https://sspai.com/post/104890)
 * [【2025-12-26】 佳明、Wahoo 还是 Hammerhead？高端码表最强对比评测](https://sspai.com/post/104737)
@@ -44,7 +45,6 @@
 * [【2025-12-25】 这么近那么美，周末到河北：看燕赵大地，逛正定古城](https://sspai.com/post/104734)
 * [【2025-12-25】 从 Retina 经典到 M 芯未来：十年、三代变革，我的 MacBook 进化论](https://sspai.com/post/104723)
 * [【2025-12-25】 派早报：微信公众号上线「付费加热」功能等](https://sspai.com/post/104885)
-* [【2025-12-24】 号称「反重力」的谷歌 AI 编辑器，能原地起飞吗？](https://sspai.com/post/104769)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-12-27 05:19:22
+:alarm_clock: 更新时间: 2025-12-28 05:22:33
