@@ -1108,6 +1108,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "AI 时代，我的知识管理系统全景图",
+                "link": "https://sspai.com/post/104783",
+                "published": "2025-12-29"
+            },
+            {
+                "title": "派早报：新规拟要求 AI 聊天定时提醒退出、及时干预沉迷",
+                "link": "https://sspai.com/post/104969",
+                "published": "2025-12-29"
+            },
+            {
+                "title": "借 AntiGravity，给个人消费一次「年度盘点」",
+                "link": "https://sspai.com/post/104232",
+                "published": "2025-12-28"
+            },
+            {
                 "title": "AI 饭局装腔指南：3 分钟速成行业大佬",
                 "link": "https://sspai.com/post/104832",
                 "published": "2025-12-27"
@@ -27553,7 +27568,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

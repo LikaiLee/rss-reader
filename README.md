@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2025-12-29】 AI 时代，我的知识管理系统全景图](https://sspai.com/post/104783)
+* [【2025-12-29】 派早报：新规拟要求 AI 聊天定时提醒退出、及时干预沉迷](https://sspai.com/post/104969)
+* [【2025-12-28】 借 AntiGravity，给个人消费一次「年度盘点」](https://sspai.com/post/104232)
 * [【2025-12-27】 AI 饭局装腔指南：3 分钟速成行业大佬](https://sspai.com/post/104832)
 * [【2025-12-26】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/104915)
 * [【2025-12-26】 即将告别 2025 年，这些「数字」值得被你留下](https://sspai.com/post/104890)
@@ -42,9 +45,6 @@
 * [【2025-12-26】 派早报：小米发布多款新品，微软宣布 BitLocker 将支持硬件加速等](https://sspai.com/post/104901)
 * [【2025-12-25】 新玩意 231｜少数派的编辑们最近买了啥？](https://sspai.com/post/104895)
 * [【2025-12-25】 关于微塑料，一些你可能想了解的事](https://sspai.com/prime/story/microplastics-facts-protections)
-* [【2025-12-25】 这么近那么美，周末到河北：看燕赵大地，逛正定古城](https://sspai.com/post/104734)
-* [【2025-12-25】 从 Retina 经典到 M 芯未来：十年、三代变革，我的 MacBook 进化论](https://sspai.com/post/104723)
-* [【2025-12-25】 派早报：微信公众号上线「付费加热」功能等](https://sspai.com/post/104885)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-12-28 05:22:33
+:alarm_clock: 更新时间: 2025-12-29 05:27:06
