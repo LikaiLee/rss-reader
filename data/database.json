@@ -1108,6 +1108,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "「长期主义者」的轻量化选择：这是我的 2025 年度好物推荐",
+                "link": "https://sspai.com/post/104802",
+                "published": "2025-12-30"
+            },
+            {
+                "title": "派早报：数字人民币将进入数字存款货币时代等",
+                "link": "https://sspai.com/post/104994",
+                "published": "2025-12-30"
+            },
+            {
+                "title": "折叠屏要做成什么样，才算一台新时代的「折叠屏旗舰」？",
+                "link": "https://sspai.com/post/104926",
+                "published": "2025-12-29"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/104984",
+                "published": "2025-12-29"
+            },
+            {
                 "title": "AI 时代，我的知识管理系统全景图",
                 "link": "https://sspai.com/post/104783",
                 "published": "2025-12-29"
@@ -27568,7 +27588,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
