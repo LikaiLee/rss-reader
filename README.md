@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-12-31】 年末「夯」一下：少数派 2025 年度盘点上线](https://sspai.com/post/104997)
+* [【2025-12-31】 派早报：2026 年「国补」方案出炉、罗永浩举办年度科技创新分享大会等](https://sspai.com/post/105044)
+* [【2025-12-30】 社区速递 124 | 怪奇物语盲盒开箱，几块钱搞定「干眼症」？](https://sspai.com/post/105004)
+* [【2025-12-30】 Times New American: 闲话美国国务院「换字体」事件](https://sspai.com/prime/story/times-new-american)
+* [【2025-12-30】 安全键盘：一场横跨 30 年的大型掩耳盗铃](https://sspai.com/post/104978)
 * [【2025-12-30】 「长期主义者」的轻量化选择：这是我的 2025 年度好物推荐](https://sspai.com/post/104802)
 * [【2025-12-30】 派早报：数字人民币将进入数字存款货币时代等](https://sspai.com/post/104994)
 * [【2025-12-29】 折叠屏要做成什么样，才算一台新时代的「折叠屏旗舰」？](https://sspai.com/post/104926)
 * [【2025-12-29】 派评 | 近期值得关注的 App](https://sspai.com/post/104984)
 * [【2025-12-29】 AI 时代，我的知识管理系统全景图](https://sspai.com/post/104783)
-* [【2025-12-29】 派早报：新规拟要求 AI 聊天定时提醒退出、及时干预沉迷](https://sspai.com/post/104969)
-* [【2025-12-28】 借 AntiGravity，给个人消费一次「年度盘点」](https://sspai.com/post/104232)
-* [【2025-12-27】 AI 饭局装腔指南：3 分钟速成行业大佬](https://sspai.com/post/104832)
-* [【2025-12-26】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/104915)
-* [【2025-12-26】 即将告别 2025 年，这些「数字」值得被你留下](https://sspai.com/post/104890)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-12-30 05:22:08
+:alarm_clock: 更新时间: 2025-12-31 05:23:13

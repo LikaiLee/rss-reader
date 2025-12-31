@@ -1108,6 +1108,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年末「夯」一下：少数派 2025 年度盘点上线",
+                "link": "https://sspai.com/post/104997",
+                "published": "2025-12-31"
+            },
+            {
+                "title": "派早报：2026 年「国补」方案出炉、罗永浩举办年度科技创新分享大会等",
+                "link": "https://sspai.com/post/105044",
+                "published": "2025-12-31"
+            },
+            {
+                "title": "社区速递 124 | 怪奇物语盲盒开箱，几块钱搞定「干眼症」？",
+                "link": "https://sspai.com/post/105004",
+                "published": "2025-12-30"
+            },
+            {
+                "title": "Times New American: 闲话美国国务院「换字体」事件",
+                "link": "https://sspai.com/prime/story/times-new-american",
+                "published": "2025-12-30"
+            },
+            {
+                "title": "安全键盘：一场横跨 30 年的大型掩耳盗铃",
+                "link": "https://sspai.com/post/104978",
+                "published": "2025-12-30"
+            },
+            {
                 "title": "「长期主义者」的轻量化选择：这是我的 2025 年度好物推荐",
                 "link": "https://sspai.com/post/104802",
                 "published": "2025-12-30"
@@ -27588,7 +27613,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
