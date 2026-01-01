@@ -1108,6 +1108,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "分心不是你的错——成人 ADHD 问诊指南",
+                "link": "https://sspai.com/post/64519",
+                "published": "2025-12-31"
+            },
+            {
+                "title": "珍藏 2025 光影记忆，为你的「年度之作」颁个奖",
+                "link": "https://sspai.com/post/104830",
+                "published": "2025-12-31"
+            },
+            {
                 "title": "年末「夯」一下：少数派 2025 年度盘点上线",
                 "link": "https://sspai.com/post/104997",
                 "published": "2025-12-31"
@@ -27613,7 +27623,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,

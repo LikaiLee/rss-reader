@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2025-12-31】 分心不是你的错——成人 ADHD 问诊指南](https://sspai.com/post/64519)
+* [【2025-12-31】 珍藏 2025 光影记忆，为你的「年度之作」颁个奖](https://sspai.com/post/104830)
 * [【2025-12-31】 年末「夯」一下：少数派 2025 年度盘点上线](https://sspai.com/post/104997)
 * [【2025-12-31】 派早报：2026 年「国补」方案出炉、罗永浩举办年度科技创新分享大会等](https://sspai.com/post/105044)
 * [【2025-12-30】 社区速递 124 | 怪奇物语盲盒开箱，几块钱搞定「干眼症」？](https://sspai.com/post/105004)
@@ -43,8 +45,6 @@
 * [【2025-12-30】 「长期主义者」的轻量化选择：这是我的 2025 年度好物推荐](https://sspai.com/post/104802)
 * [【2025-12-30】 派早报：数字人民币将进入数字存款货币时代等](https://sspai.com/post/104994)
 * [【2025-12-29】 折叠屏要做成什么样，才算一台新时代的「折叠屏旗舰」？](https://sspai.com/post/104926)
-* [【2025-12-29】 派评 | 近期值得关注的 App](https://sspai.com/post/104984)
-* [【2025-12-29】 AI 时代，我的知识管理系统全景图](https://sspai.com/post/104783)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-12-31 05:23:13
+:alarm_clock: 更新时间: 2026-01-01 05:25:31
