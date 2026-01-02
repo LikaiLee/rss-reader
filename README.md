@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-01-01】 超越「平替」，年轻人的第一支 50mm F/1.4 镜头](https://sspai.com/post/104948)
 * [【2025-12-31】 分心不是你的错——成人 ADHD 问诊指南](https://sspai.com/post/64519)
 * [【2025-12-31】 珍藏 2025 光影记忆，为你的「年度之作」颁个奖](https://sspai.com/post/104830)
 * [【2025-12-31】 年末「夯」一下：少数派 2025 年度盘点上线](https://sspai.com/post/104997)
@@ -44,7 +45,6 @@
 * [【2025-12-30】 安全键盘：一场横跨 30 年的大型掩耳盗铃](https://sspai.com/post/104978)
 * [【2025-12-30】 「长期主义者」的轻量化选择：这是我的 2025 年度好物推荐](https://sspai.com/post/104802)
 * [【2025-12-30】 派早报：数字人民币将进入数字存款货币时代等](https://sspai.com/post/104994)
-* [【2025-12-29】 折叠屏要做成什么样，才算一台新时代的「折叠屏旗舰」？](https://sspai.com/post/104926)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-01 05:25:31
+:alarm_clock: 更新时间: 2026-01-02 05:23:47
