@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-01-02】 一日一技｜给小米手机套用富士「官方」滤镜](https://sspai.com/post/104979)
 * [【2026-01-01】 超越「平替」，年轻人的第一支 50mm F/1.4 镜头](https://sspai.com/post/104948)
 * [【2025-12-31】 分心不是你的错——成人 ADHD 问诊指南](https://sspai.com/post/64519)
 * [【2025-12-31】 珍藏 2025 光影记忆，为你的「年度之作」颁个奖](https://sspai.com/post/104830)
@@ -44,7 +45,6 @@
 * [【2025-12-30】 Times New American: 闲话美国国务院「换字体」事件](https://sspai.com/prime/story/times-new-american)
 * [【2025-12-30】 安全键盘：一场横跨 30 年的大型掩耳盗铃](https://sspai.com/post/104978)
 * [【2025-12-30】 「长期主义者」的轻量化选择：这是我的 2025 年度好物推荐](https://sspai.com/post/104802)
-* [【2025-12-30】 派早报：数字人民币将进入数字存款货币时代等](https://sspai.com/post/104994)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-02 05:23:47
+:alarm_clock: 更新时间: 2026-01-03 05:20:13
