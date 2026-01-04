@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-01-04】 关于「学习」，一些流传甚广的误读和迷思](https://sspai.com/post/104956)
+* [【2026-01-03】 与其重复「新年计划」的失败，不如反思「新年目标」是否恰当](https://sspai.com/post/95907)
 * [【2026-01-02】 一日一技｜给小米手机套用富士「官方」滤镜](https://sspai.com/post/104979)
 * [【2026-01-01】 超越「平替」，年轻人的第一支 50mm F/1.4 镜头](https://sspai.com/post/104948)
 * [【2025-12-31】 分心不是你的错——成人 ADHD 问诊指南](https://sspai.com/post/64519)
@@ -43,8 +45,6 @@
 * [【2025-12-31】 派早报：2026 年「国补」方案出炉、罗永浩举办年度科技创新分享大会等](https://sspai.com/post/105044)
 * [【2025-12-30】 社区速递 124 | 怪奇物语盲盒开箱，几块钱搞定「干眼症」？](https://sspai.com/post/105004)
 * [【2025-12-30】 Times New American: 闲话美国国务院「换字体」事件](https://sspai.com/prime/story/times-new-american)
-* [【2025-12-30】 安全键盘：一场横跨 30 年的大型掩耳盗铃](https://sspai.com/post/104978)
-* [【2025-12-30】 「长期主义者」的轻量化选择：这是我的 2025 年度好物推荐](https://sspai.com/post/104802)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-03 05:20:13
+:alarm_clock: 更新时间: 2026-01-04 05:23:58

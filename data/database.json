@@ -1108,6 +1108,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "关于「学习」，一些流传甚广的误读和迷思",
+                "link": "https://sspai.com/post/104956",
+                "published": "2026-01-04"
+            },
+            {
+                "title": "与其重复「新年计划」的失败，不如反思「新年目标」是否恰当",
+                "link": "https://sspai.com/post/95907",
+                "published": "2026-01-03"
+            },
+            {
                 "title": "一日一技｜给小米手机套用富士「官方」滤镜",
                 "link": "https://sspai.com/post/104979",
                 "published": "2026-01-02"
@@ -27633,7 +27643,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
