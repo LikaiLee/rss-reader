@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-01-05】 这一年，我们一起在跑道上长大](https://sspai.com/post/104808)
+* [【2026-01-05】 派早报：Clicks 推出 Power Keyboard 和 Communicator 手机](https://sspai.com/post/105126)
 * [【2026-01-04】 关于「学习」，一些流传甚广的误读和迷思](https://sspai.com/post/104956)
 * [【2026-01-03】 与其重复「新年计划」的失败，不如反思「新年目标」是否恰当](https://sspai.com/post/95907)
 * [【2026-01-02】 一日一技｜给小米手机套用富士「官方」滤镜](https://sspai.com/post/104979)
@@ -43,8 +45,6 @@
 * [【2025-12-31】 珍藏 2025 光影记忆，为你的「年度之作」颁个奖](https://sspai.com/post/104830)
 * [【2025-12-31】 年末「夯」一下：少数派 2025 年度盘点上线](https://sspai.com/post/104997)
 * [【2025-12-31】 派早报：2026 年「国补」方案出炉、罗永浩举办年度科技创新分享大会等](https://sspai.com/post/105044)
-* [【2025-12-30】 社区速递 124 | 怪奇物语盲盒开箱，几块钱搞定「干眼症」？](https://sspai.com/post/105004)
-* [【2025-12-30】 Times New American: 闲话美国国务院「换字体」事件](https://sspai.com/prime/story/times-new-american)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-04 05:23:58
+:alarm_clock: 更新时间: 2026-01-05 05:33:57
