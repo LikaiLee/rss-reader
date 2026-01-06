@@ -1108,6 +1108,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "将旧 iPad 物尽其用，我把它变成了一个智能天气时钟",
+                "link": "https://sspai.com/post/105047",
+                "published": "2026-01-06"
+            },
+            {
+                "title": "派早报：荣耀发布多款新品、抖音将支持杜比视界等",
+                "link": "https://sspai.com/post/105184",
+                "published": "2026-01-06"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/105171",
+                "published": "2026-01-05"
+            },
+            {
+                "title": "小米 Buds 6 半入耳降噪真无线耳机体验 - TDS REVIEW",
+                "link": "https://sspai.com/post/105120",
+                "published": "2026-01-05"
+            },
+            {
+                "title": "线下活动｜Global Game Jam 2026 广州荔湾站招募",
+                "link": "https://sspai.com/post/105070",
+                "published": "2026-01-05"
+            },
+            {
                 "title": "这一年，我们一起在跑道上长大",
                 "link": "https://sspai.com/post/104808",
                 "published": "2026-01-05"
@@ -27653,7 +27678,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 5
     },
     {
         "id": 2,
