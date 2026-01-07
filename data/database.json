@@ -1108,6 +1108,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "当世界尽头成为热搜：一份南极旅游指南",
+                "link": "https://sspai.com/post/104946",
+                "published": "2026-01-07"
+            },
+            {
+                "title": "派早报：英伟达发布 DLSS 4.5、戴尔发布 XPS 14/16 等",
+                "link": "https://sspai.com/post/105214",
+                "published": "2026-01-07"
+            },
+            {
+                "title": "社区速递 125 | 柯达迷你钥匙扣相机开箱，不到十元的宜家电池值得囤吗",
+                "link": "https://sspai.com/post/105197",
+                "published": "2026-01-06"
+            },
+            {
+                "title": "Matrix Talk | 2025 年我们都薅到了哪些「数字羊毛」",
+                "link": "https://sspai.com/post/105165",
+                "published": "2026-01-06"
+            },
+            {
                 "title": "将旧 iPad 物尽其用，我把它变成了一个智能天气时钟",
                 "link": "https://sspai.com/post/105047",
                 "published": "2026-01-06"
@@ -27678,7 +27698,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
