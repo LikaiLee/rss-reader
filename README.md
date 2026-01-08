@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-01-08】 如何不用空格打字：顶功类输入法简介](https://sspai.com/post/105111)
+* [【2026-01-08】 派早报：小米公布 2026 款 SU7、Android 源码将一年两更等](https://sspai.com/post/105234)
+* [【2026-01-07】 用「考试」和「代价」，重新审视我的 2026 年度计划](https://sspai.com/post/105142)
+* [【2026-01-07】 用快捷指令搭建个性化单词学习系统](https://sspai.com/prime/story/shortcuts-personalized-vocab-learning)
+* [【2026-01-07】 成为「新标配」的磁轴，真的是游戏键盘的终点吗？](https://sspai.com/post/105108)
 * [【2026-01-07】 当世界尽头成为热搜：一份南极旅游指南](https://sspai.com/post/104946)
 * [【2026-01-07】 派早报：英伟达发布 DLSS 4.5、戴尔发布 XPS 14/16 等](https://sspai.com/post/105214)
 * [【2026-01-06】 社区速递 125 | 柯达迷你钥匙扣相机开箱，不到十元的宜家电池值得囤吗](https://sspai.com/post/105197)
 * [【2026-01-06】 Matrix Talk | 2025 年我们都薅到了哪些「数字羊毛」](https://sspai.com/post/105165)
 * [【2026-01-06】 将旧 iPad 物尽其用，我把它变成了一个智能天气时钟](https://sspai.com/post/105047)
-* [【2026-01-06】 派早报：荣耀发布多款新品、抖音将支持杜比视界等](https://sspai.com/post/105184)
-* [【2026-01-05】 派评 | 近期值得关注的 App](https://sspai.com/post/105171)
-* [【2026-01-05】 小米 Buds 6 半入耳降噪真无线耳机体验 - TDS REVIEW](https://sspai.com/post/105120)
-* [【2026-01-05】 线下活动｜Global Game Jam 2026 广州荔湾站招募](https://sspai.com/post/105070)
-* [【2026-01-05】 这一年，我们一起在跑道上长大](https://sspai.com/post/104808)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-07 05:23:32
+:alarm_clock: 更新时间: 2026-01-08 05:23:27

@@ -1108,6 +1108,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "如何不用空格打字：顶功类输入法简介",
+                "link": "https://sspai.com/post/105111",
+                "published": "2026-01-08"
+            },
+            {
+                "title": "派早报：小米公布 2026 款 SU7、Android 源码将一年两更等",
+                "link": "https://sspai.com/post/105234",
+                "published": "2026-01-08"
+            },
+            {
+                "title": "用「考试」和「代价」，重新审视我的 2026 年度计划",
+                "link": "https://sspai.com/post/105142",
+                "published": "2026-01-07"
+            },
+            {
+                "title": "用快捷指令搭建个性化单词学习系统",
+                "link": "https://sspai.com/prime/story/shortcuts-personalized-vocab-learning",
+                "published": "2026-01-07"
+            },
+            {
+                "title": "成为「新标配」的磁轴，真的是游戏键盘的终点吗？",
+                "link": "https://sspai.com/post/105108",
+                "published": "2026-01-07"
+            },
+            {
                 "title": "当世界尽头成为热搜：一份南极旅游指南",
                 "link": "https://sspai.com/post/104946",
                 "published": "2026-01-07"
@@ -27698,7 +27723,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
