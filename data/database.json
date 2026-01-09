@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 380 期）：为什么人们拥抱\"不对称收益\"",
+                "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html",
+                "published": "2026-01-09"
+            },
+            {
                 "title": "科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录",
                 "link": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html",
                 "published": "2025-12-25"
@@ -1100,13 +1105,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "如何花式压榨 Gemini：一位律师选手的 2025 年 AI 使用报告",
+                "link": "https://sspai.com/post/104638",
+                "published": "2026-01-09"
+            },
+            {
+                "title": "派早报：一加发布 Turbo 6 系列手机等",
+                "link": "https://sspai.com/post/105283",
+                "published": "2026-01-09"
+            },
+            {
+                "title": "新玩意 232｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/105270",
+                "published": "2026-01-08"
+            },
+            {
+                "title": "浏览器扩展合集：派友近期推荐的 7 款浏览器扩展",
+                "link": "https://sspai.com/post/105249",
+                "published": "2026-01-08"
+            },
             {
                 "title": "如何不用空格打字：顶功类输入法简介",
                 "link": "https://sspai.com/post/105111",
@@ -27723,7 +27748,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

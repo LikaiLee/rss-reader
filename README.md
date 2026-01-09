@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-01-09】 科技爱好者周刊（第 380 期）：为什么人们拥抱"不对称收益"](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html)
 * [【2025-12-25】 科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html)
 * [【2025-12-23】 我如何用 AI 处理历史遗留代码：MiniMax M2.1 升级体验](http://www.ruanyifeng.com/blog/2025/12/minimax-m2.1.html)
 * [【2025-12-19】 科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html)
@@ -25,7 +26,6 @@
 * [【2025-11-04】 大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5](http://www.ruanyifeng.com/blog/2025/11/minimax-m2.html)
 * [【2025-10-31】 科技爱好者周刊（第 371 期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html)
 * [【2025-10-24】 科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html)
-* [【2025-10-21】 错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-01-09】 如何花式压榨 Gemini：一位律师选手的 2025 年 AI 使用报告](https://sspai.com/post/104638)
+* [【2026-01-09】 派早报：一加发布 Turbo 6 系列手机等](https://sspai.com/post/105283)
+* [【2026-01-08】 新玩意 232｜少数派的编辑们最近买了啥？](https://sspai.com/post/105270)
+* [【2026-01-08】 浏览器扩展合集：派友近期推荐的 7 款浏览器扩展](https://sspai.com/post/105249)
 * [【2026-01-08】 如何不用空格打字：顶功类输入法简介](https://sspai.com/post/105111)
 * [【2026-01-08】 派早报：小米公布 2026 款 SU7、Android 源码将一年两更等](https://sspai.com/post/105234)
 * [【2026-01-07】 用「考试」和「代价」，重新审视我的 2026 年度计划](https://sspai.com/post/105142)
 * [【2026-01-07】 用快捷指令搭建个性化单词学习系统](https://sspai.com/prime/story/shortcuts-personalized-vocab-learning)
 * [【2026-01-07】 成为「新标配」的磁轴，真的是游戏键盘的终点吗？](https://sspai.com/post/105108)
 * [【2026-01-07】 当世界尽头成为热搜：一份南极旅游指南](https://sspai.com/post/104946)
-* [【2026-01-07】 派早报：英伟达发布 DLSS 4.5、戴尔发布 XPS 14/16 等](https://sspai.com/post/105214)
-* [【2026-01-06】 社区速递 125 | 柯达迷你钥匙扣相机开箱，不到十元的宜家电池值得囤吗](https://sspai.com/post/105197)
-* [【2026-01-06】 Matrix Talk | 2025 年我们都薅到了哪些「数字羊毛」](https://sspai.com/post/105165)
-* [【2026-01-06】 将旧 iPad 物尽其用，我把它变成了一个智能天气时钟](https://sspai.com/post/105047)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-08 05:23:27
+:alarm_clock: 更新时间: 2026-01-09 05:23:27
