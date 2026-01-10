@@ -1105,13 +1105,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "丢掉遥控器，寻找生命感：这是我的 Vbot「大头」机器狗使用体验",
+                "link": "https://sspai.com/post/105308",
+                "published": "2026-01-10"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/105298",
+                "published": "2026-01-09"
+            },
+            {
+                "title": "与胃里的「老房客」正确相处：了解幽门螺杆菌",
+                "link": "https://sspai.com/prime/story/helicobacter-pylori-explained",
+                "published": "2026-01-09"
+            },
+            {
+                "title": "动态磁贴消亡史",
+                "link": "https://sspai.com/post/105188",
+                "published": "2026-01-09"
+            },
             {
                 "title": "如何花式压榨 Gemini：一位律师选手的 2025 年 AI 使用报告",
                 "link": "https://sspai.com/post/104638",
