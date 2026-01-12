@@ -1113,6 +1113,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "当我尝试修复一台十年前的 ThinkPad E40……",
+                "link": "https://sspai.com/post/104522",
+                "published": "2026-01-12"
+            },
+            {
+                "title": "派早报：国务院开展外卖市场竞争调查评估",
+                "link": "https://sspai.com/post/105357",
+                "published": "2026-01-12"
+            },
+            {
+                "title": "CES 2026 盘点：你可能错过的新奇花活",
+                "link": "https://sspai.com/post/105364",
+                "published": "2026-01-11"
+            },
+            {
                 "title": "丢掉遥控器，寻找生命感：这是我的 Vbot「大头」机器狗使用体验",
                 "link": "https://sspai.com/post/105308",
                 "published": "2026-01-10"
@@ -27768,7 +27783,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 2,
