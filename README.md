@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-01-13】 译文｜Tahoe 的图标令人难评](https://sspai.com/post/105394)
+* [【2026-01-13】 派早报：Google 公布 UCP 通用商务协议等](https://sspai.com/post/105403)
+* [【2026-01-12】 派评 | 近期值得关注的 App](https://sspai.com/post/105387)
+* [【2026-01-12】 冬天，在济州岛跨年](https://sspai.com/post/105267)
 * [【2026-01-12】 当我尝试修复一台十年前的 ThinkPad E40……](https://sspai.com/post/104522)
 * [【2026-01-12】 派早报：国务院开展外卖市场竞争调查评估](https://sspai.com/post/105357)
 * [【2026-01-11】 CES 2026 盘点：你可能错过的新奇花活](https://sspai.com/post/105364)
 * [【2026-01-10】 丢掉遥控器，寻找生命感：这是我的 Vbot「大头」机器狗使用体验](https://sspai.com/post/105308)
 * [【2026-01-09】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/105298)
 * [【2026-01-09】 与胃里的「老房客」正确相处：了解幽门螺杆菌](https://sspai.com/prime/story/helicobacter-pylori-explained)
-* [【2026-01-09】 动态磁贴消亡史](https://sspai.com/post/105188)
-* [【2026-01-09】 如何花式压榨 Gemini：一位律师选手的 2025 年 AI 使用报告](https://sspai.com/post/104638)
-* [【2026-01-09】 派早报：一加发布 Turbo 6 系列手机等](https://sspai.com/post/105283)
-* [【2026-01-08】 新玩意 232｜少数派的编辑们最近买了啥？](https://sspai.com/post/105270)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-12 05:28:04
+:alarm_clock: 更新时间: 2026-01-13 05:24:00

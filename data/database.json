@@ -1113,6 +1113,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "译文｜Tahoe 的图标令人难评",
+                "link": "https://sspai.com/post/105394",
+                "published": "2026-01-13"
+            },
+            {
+                "title": "派早报：Google 公布 UCP 通用商务协议等",
+                "link": "https://sspai.com/post/105403",
+                "published": "2026-01-13"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/105387",
+                "published": "2026-01-12"
+            },
+            {
+                "title": "冬天，在济州岛跨年",
+                "link": "https://sspai.com/post/105267",
+                "published": "2026-01-12"
+            },
+            {
                 "title": "当我尝试修复一台十年前的 ThinkPad E40……",
                 "link": "https://sspai.com/post/104522",
                 "published": "2026-01-12"
@@ -27783,7 +27803,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
