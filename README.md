@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+8】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-01-15】 Apple Pay 公布 2025 年成绩单，迎来入华十周年大更新](https://sspai.com/post/105462)
+* [【2026-01-15】 派早报：SK 海力士称并未有计划退出消费级存储器市场等](https://sspai.com/post/105459)
+* [【2026-01-14】 我们是如何学习的？关于学习的 N 个「关键词」](https://sspai.com/post/105224)
+* [【2026-01-14】 IGN 盘点 | 2026 年最值得期待的游戏作品](https://sspai.com/post/105437)
+* [【2026-01-14】 让送的路由器重焕新生：兆能讯通 ZN-M2 固件编译指南](https://sspai.com/post/105287)
+* [【2026-01-14】 派早报：Apple 推出 Apple Creator Studio](https://sspai.com/post/105434)
+* [【2026-01-13】 社区速递 126 | 语音输入法大讨论、派友辣评CES、让桌面更整洁的磁吸方案](https://sspai.com/post/105406)
+* [【2026-01-13】 Typeless：语音输入法新物种，开启 AI 信息记录新时代](https://sspai.com/post/105358)
 * [【2026-01-13】 译文｜Tahoe 的图标令人难评](https://sspai.com/post/105394)
 * [【2026-01-13】 派早报：Google 公布 UCP 通用商务协议等](https://sspai.com/post/105403)
-* [【2026-01-12】 派评 | 近期值得关注的 App](https://sspai.com/post/105387)
-* [【2026-01-12】 冬天，在济州岛跨年](https://sspai.com/post/105267)
-* [【2026-01-12】 当我尝试修复一台十年前的 ThinkPad E40……](https://sspai.com/post/104522)
-* [【2026-01-12】 派早报：国务院开展外卖市场竞争调查评估](https://sspai.com/post/105357)
-* [【2026-01-11】 CES 2026 盘点：你可能错过的新奇花活](https://sspai.com/post/105364)
-* [【2026-01-10】 丢掉遥控器，寻找生命感：这是我的 Vbot「大头」机器狗使用体验](https://sspai.com/post/105308)
-* [【2026-01-09】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/105298)
-* [【2026-01-09】 与胃里的「老房客」正确相处：了解幽门螺杆菌](https://sspai.com/prime/story/helicobacter-pylori-explained)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-13 05:24:00
+:alarm_clock: 更新时间: 2026-01-15 05:24:30

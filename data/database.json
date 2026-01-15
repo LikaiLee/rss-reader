@@ -1113,6 +1113,46 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Apple Pay 公布 2025 年成绩单，迎来入华十周年大更新",
+                "link": "https://sspai.com/post/105462",
+                "published": "2026-01-15"
+            },
+            {
+                "title": "派早报：SK 海力士称并未有计划退出消费级存储器市场等",
+                "link": "https://sspai.com/post/105459",
+                "published": "2026-01-15"
+            },
+            {
+                "title": "我们是如何学习的？关于学习的 N 个「关键词」",
+                "link": "https://sspai.com/post/105224",
+                "published": "2026-01-14"
+            },
+            {
+                "title": "IGN 盘点 | 2026 年最值得期待的游戏作品",
+                "link": "https://sspai.com/post/105437",
+                "published": "2026-01-14"
+            },
+            {
+                "title": "让送的路由器重焕新生：兆能讯通 ZN-M2 固件编译指南",
+                "link": "https://sspai.com/post/105287",
+                "published": "2026-01-14"
+            },
+            {
+                "title": "派早报：Apple 推出 Apple Creator Studio",
+                "link": "https://sspai.com/post/105434",
+                "published": "2026-01-14"
+            },
+            {
+                "title": "社区速递 126 | 语音输入法大讨论、派友辣评CES、让桌面更整洁的磁吸方案",
+                "link": "https://sspai.com/post/105406",
+                "published": "2026-01-13"
+            },
+            {
+                "title": "Typeless：语音输入法新物种，开启 AI 信息记录新时代",
+                "link": "https://sspai.com/post/105358",
+                "published": "2026-01-13"
+            },
+            {
                 "title": "译文｜Tahoe 的图标令人难评",
                 "link": "https://sspai.com/post/105394",
                 "published": "2026-01-13"
@@ -27803,7 +27843,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 8
     },
     {
         "id": 2,
