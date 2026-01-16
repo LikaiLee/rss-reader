@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+8】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-01-16】 科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html)
 * [【2026-01-09】 科技爱好者周刊（第 380 期）：为什么人们拥抱"不对称收益"](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html)
 * [【2025-12-25】 科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html)
 * [【2025-12-23】 我如何用 AI 处理历史遗留代码：MiniMax M2.1 升级体验](http://www.ruanyifeng.com/blog/2025/12/minimax-m2.1.html)
@@ -25,7 +26,6 @@
 * [【2025-11-07】 科技爱好者周刊（第 372 期）：软件界面如何设计](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html)
 * [【2025-11-04】 大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5](http://www.ruanyifeng.com/blog/2025/11/minimax-m2.html)
 * [【2025-10-31】 科技爱好者周刊（第 371 期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html)
-* [【2025-10-24】 科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-01-16】 从理论、方法到工具，一套科学的时间精力待办管理系统：TimeGPT](https://sspai.com/post/104549)
+* [【2026-01-16】 派早报：iQOO 发布 iQOO Z11 Turbo 手机、大疆发布 DJI RS 5 轻量商拍稳定器等](https://sspai.com/post/105494)
+* [【2026-01-15】 新玩意 233｜少数派的编辑们最近买了啥？](https://sspai.com/post/105458)
+* [【2026-01-15】 科普 | 高帧率、好画质的「光追」是如何实现的？](https://sspai.com/post/83522)
 * [【2026-01-15】 Apple Pay 公布 2025 年成绩单，迎来入华十周年大更新](https://sspai.com/post/105462)
 * [【2026-01-15】 派早报：SK 海力士称并未有计划退出消费级存储器市场等](https://sspai.com/post/105459)
 * [【2026-01-14】 我们是如何学习的？关于学习的 N 个「关键词」](https://sspai.com/post/105224)
 * [【2026-01-14】 IGN 盘点 | 2026 年最值得期待的游戏作品](https://sspai.com/post/105437)
 * [【2026-01-14】 让送的路由器重焕新生：兆能讯通 ZN-M2 固件编译指南](https://sspai.com/post/105287)
 * [【2026-01-14】 派早报：Apple 推出 Apple Creator Studio](https://sspai.com/post/105434)
-* [【2026-01-13】 社区速递 126 | 语音输入法大讨论、派友辣评CES、让桌面更整洁的磁吸方案](https://sspai.com/post/105406)
-* [【2026-01-13】 Typeless：语音输入法新物种，开启 AI 信息记录新时代](https://sspai.com/post/105358)
-* [【2026-01-13】 译文｜Tahoe 的图标令人难评](https://sspai.com/post/105394)
-* [【2026-01-13】 派早报：Google 公布 UCP 通用商务协议等](https://sspai.com/post/105403)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-15 05:24:30
+:alarm_clock: 更新时间: 2026-01-16 05:23:36

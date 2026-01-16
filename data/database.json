@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么",
+                "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html",
+                "published": "2026-01-16"
+            },
+            {
                 "title": "科技爱好者周刊（第 380 期）：为什么人们拥抱\"不对称收益\"",
                 "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html",
                 "published": "2026-01-09"
@@ -1105,13 +1110,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "从理论、方法到工具，一套科学的时间精力待办管理系统：TimeGPT",
+                "link": "https://sspai.com/post/104549",
+                "published": "2026-01-16"
+            },
+            {
+                "title": "派早报：iQOO 发布 iQOO Z11 Turbo 手机、大疆发布 DJI RS 5 轻量商拍稳定器等",
+                "link": "https://sspai.com/post/105494",
+                "published": "2026-01-16"
+            },
+            {
+                "title": "新玩意 233｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/105458",
+                "published": "2026-01-15"
+            },
+            {
+                "title": "科普 | 高帧率、好画质的「光追」是如何实现的？",
+                "link": "https://sspai.com/post/83522",
+                "published": "2026-01-15"
+            },
             {
                 "title": "Apple Pay 公布 2025 年成绩单，迎来入华十周年大更新",
                 "link": "https://sspai.com/post/105462",
@@ -27843,7 +27868,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 4
     },
     {
         "id": 2,
