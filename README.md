@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-01-16】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/105504)
+* [【2026-01-16】 从技术选型重识 Apple Intelligence：为什么 Apple 如此设计 AI？](https://sspai.com/post/105008)
 * [【2026-01-16】 从理论、方法到工具，一套科学的时间精力待办管理系统：TimeGPT](https://sspai.com/post/104549)
 * [【2026-01-16】 派早报：iQOO 发布 iQOO Z11 Turbo 手机、大疆发布 DJI RS 5 轻量商拍稳定器等](https://sspai.com/post/105494)
 * [【2026-01-15】 新玩意 233｜少数派的编辑们最近买了啥？](https://sspai.com/post/105458)
@@ -43,8 +45,6 @@
 * [【2026-01-15】 派早报：SK 海力士称并未有计划退出消费级存储器市场等](https://sspai.com/post/105459)
 * [【2026-01-14】 我们是如何学习的？关于学习的 N 个「关键词」](https://sspai.com/post/105224)
 * [【2026-01-14】 IGN 盘点 | 2026 年最值得期待的游戏作品](https://sspai.com/post/105437)
-* [【2026-01-14】 让送的路由器重焕新生：兆能讯通 ZN-M2 固件编译指南](https://sspai.com/post/105287)
-* [【2026-01-14】 派早报：Apple 推出 Apple Creator Studio](https://sspai.com/post/105434)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-16 05:23:36
+:alarm_clock: 更新时间: 2026-01-17 05:18:50

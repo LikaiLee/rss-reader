@@ -1110,13 +1110,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 11 部作品",
+                "link": "https://sspai.com/post/105504",
+                "published": "2026-01-16"
+            },
+            {
+                "title": "从技术选型重识 Apple Intelligence：为什么 Apple 如此设计 AI？",
+                "link": "https://sspai.com/post/105008",
+                "published": "2026-01-16"
+            },
             {
                 "title": "从理论、方法到工具，一套科学的时间精力待办管理系统：TimeGPT",
                 "link": "https://sspai.com/post/104549",
@@ -27868,7 +27878,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
