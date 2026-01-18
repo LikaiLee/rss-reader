@@ -1118,6 +1118,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Matrix 圆桌 | 少数派们的 13 张 2025 年度新专辑",
+                "link": "https://sspai.com/post/105413",
+                "published": "2026-01-17"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 11 部作品",
                 "link": "https://sspai.com/post/105504",
                 "published": "2026-01-16"
@@ -27878,7 +27883,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,

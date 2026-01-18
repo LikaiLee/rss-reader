@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-01-17】 Matrix 圆桌 | 少数派们的 13 张 2025 年度新专辑](https://sspai.com/post/105413)
 * [【2026-01-16】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/105504)
 * [【2026-01-16】 从技术选型重识 Apple Intelligence：为什么 Apple 如此设计 AI？](https://sspai.com/post/105008)
 * [【2026-01-16】 从理论、方法到工具，一套科学的时间精力待办管理系统：TimeGPT](https://sspai.com/post/104549)
@@ -44,7 +45,6 @@
 * [【2026-01-15】 Apple Pay 公布 2025 年成绩单，迎来入华十周年大更新](https://sspai.com/post/105462)
 * [【2026-01-15】 派早报：SK 海力士称并未有计划退出消费级存储器市场等](https://sspai.com/post/105459)
 * [【2026-01-14】 我们是如何学习的？关于学习的 N 个「关键词」](https://sspai.com/post/105224)
-* [【2026-01-14】 IGN 盘点 | 2026 年最值得期待的游戏作品](https://sspai.com/post/105437)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-17 05:18:50
+:alarm_clock: 更新时间: 2026-01-18 05:22:11
