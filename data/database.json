@@ -1118,6 +1118,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "把「搜打撤」玩成模拟经营，我在《逃离鸭科夫》实现「财务自由」",
+                "link": "https://sspai.com/post/105227",
+                "published": "2026-01-19"
+            },
+            {
+                "title": "派早报：ChatGPT 将上线广告",
+                "link": "https://sspai.com/post/105551",
+                "published": "2026-01-19"
+            },
+            {
+                "title": "App+1｜它和你的 Pixel 更配，宛如原生的网速显示工具",
+                "link": "https://sspai.com/post/104972",
+                "published": "2026-01-18"
+            },
+            {
                 "title": "Matrix 圆桌 | 少数派们的 13 张 2025 年度新专辑",
                 "link": "https://sspai.com/post/105413",
                 "published": "2026-01-17"
@@ -27883,7 +27898,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
