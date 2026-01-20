@@ -1118,6 +1118,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "冬天也不用裹成球，这是你需要了解的冬季穿衣指南",
+                "link": "https://sspai.com/post/93614",
+                "published": "2026-01-20"
+            },
+            {
+                "title": "派早报：荣耀发布 Magic8 Pro Air 等",
+                "link": "https://sspai.com/post/105600",
+                "published": "2026-01-20"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/105585",
+                "published": "2026-01-19"
+            },
+            {
+                "title": "Windows 视觉史 04（下）｜Vista：余烬散去，余晖依旧",
+                "link": "https://sspai.com/post/101074",
+                "published": "2026-01-19"
+            },
+            {
                 "title": "把「搜打撤」玩成模拟经营，我在《逃离鸭科夫》实现「财务自由」",
                 "link": "https://sspai.com/post/105227",
                 "published": "2026-01-19"
@@ -27898,7 +27918,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,

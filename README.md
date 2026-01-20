@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-01-20】 冬天也不用裹成球，这是你需要了解的冬季穿衣指南](https://sspai.com/post/93614)
+* [【2026-01-20】 派早报：荣耀发布 Magic8 Pro Air 等](https://sspai.com/post/105600)
+* [【2026-01-19】 派评 | 近期值得关注的 App](https://sspai.com/post/105585)
+* [【2026-01-19】 Windows 视觉史 04（下）｜Vista：余烬散去，余晖依旧](https://sspai.com/post/101074)
 * [【2026-01-19】 把「搜打撤」玩成模拟经营，我在《逃离鸭科夫》实现「财务自由」](https://sspai.com/post/105227)
 * [【2026-01-19】 派早报：ChatGPT 将上线广告](https://sspai.com/post/105551)
 * [【2026-01-18】 App+1｜它和你的 Pixel 更配，宛如原生的网速显示工具](https://sspai.com/post/104972)
 * [【2026-01-17】 Matrix 圆桌 | 少数派们的 13 张 2025 年度新专辑](https://sspai.com/post/105413)
 * [【2026-01-16】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/105504)
 * [【2026-01-16】 从技术选型重识 Apple Intelligence：为什么 Apple 如此设计 AI？](https://sspai.com/post/105008)
-* [【2026-01-16】 从理论、方法到工具，一套科学的时间精力待办管理系统：TimeGPT](https://sspai.com/post/104549)
-* [【2026-01-16】 派早报：iQOO 发布 iQOO Z11 Turbo 手机、大疆发布 DJI RS 5 轻量商拍稳定器等](https://sspai.com/post/105494)
-* [【2026-01-15】 新玩意 233｜少数派的编辑们最近买了啥？](https://sspai.com/post/105458)
-* [【2026-01-15】 科普 | 高帧率、好画质的「光追」是如何实现的？](https://sspai.com/post/83522)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-19 05:29:48
+:alarm_clock: 更新时间: 2026-01-20 05:27:02
