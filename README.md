@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-01-22】 将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛](https://sspai.com/post/105630)
+* [【2026-01-22】 派早报：Nova Launcher 被收购、《愤怒的小鸟》将回归等](https://sspai.com/post/105651)
+* [【2026-01-21】 再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异](https://sspai.com/prime/story/on-dsstore)
+* [【2026-01-21】 让背单词像「抽卡」一样快乐：我设计了一台「美食盲盒机」](https://sspai.com/post/105408)
+* [【2026-01-21】 5 款替代品，找回 LaunchPad 的快捷](https://sspai.com/post/105471)
 * [【2026-01-21】 致敬好剧新姿势：纯代码从零复刻 Pluribus 片头动画](https://sspai.com/post/105365)
 * [【2026-01-20】 派早报：索尼宣布与 TCL 成立合资公司、Ayaneo 发布 Konkr Fit 掌机等](https://sspai.com/post/105628)
 * [【2026-01-20】 GitHub 都没用明白，我这样用 Gemini 零起点开发应用](https://sspai.com/post/105540)
 * [【2026-01-20】 从雪地陷车到撞围栏：境外租车自驾复盘与避坑攻略](https://sspai.com/post/105575)
 * [【2026-01-20】 冬天也不用裹成球，这是你需要了解的冬季穿衣指南](https://sspai.com/post/93614)
-* [【2026-01-20】 派早报：荣耀发布 Magic8 Pro Air 等](https://sspai.com/post/105600)
-* [【2026-01-19】 派评 | 近期值得关注的 App](https://sspai.com/post/105585)
-* [【2026-01-19】 Windows 视觉史 04（下）｜Vista：余烬散去，余晖依旧](https://sspai.com/post/101074)
-* [【2026-01-19】 把「搜打撤」玩成模拟经营，我在《逃离鸭科夫》实现「财务自由」](https://sspai.com/post/105227)
-* [【2026-01-19】 派早报：ChatGPT 将上线广告](https://sspai.com/post/105551)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-21 05:27:10
+:alarm_clock: 更新时间: 2026-01-22 05:26:56

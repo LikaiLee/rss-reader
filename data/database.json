@@ -1118,6 +1118,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛",
+                "link": "https://sspai.com/post/105630",
+                "published": "2026-01-22"
+            },
+            {
+                "title": "派早报：Nova Launcher 被收购、《愤怒的小鸟》将回归等",
+                "link": "https://sspai.com/post/105651",
+                "published": "2026-01-22"
+            },
+            {
+                "title": "再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异",
+                "link": "https://sspai.com/prime/story/on-dsstore",
+                "published": "2026-01-21"
+            },
+            {
+                "title": "让背单词像「抽卡」一样快乐：我设计了一台「美食盲盒机」",
+                "link": "https://sspai.com/post/105408",
+                "published": "2026-01-21"
+            },
+            {
+                "title": "5 款替代品，找回 LaunchPad 的快捷",
+                "link": "https://sspai.com/post/105471",
+                "published": "2026-01-21"
+            },
+            {
                 "title": "致敬好剧新姿势：纯代码从零复刻 Pluribus 片头动画",
                 "link": "https://sspai.com/post/105365",
                 "published": "2026-01-21"
@@ -27938,7 +27963,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
