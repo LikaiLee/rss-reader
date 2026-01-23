@@ -5,6 +5,16 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 382 期）：独立软件的黄昏",
+                "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html",
+                "published": "2026-01-23"
+            },
+            {
+                "title": "AI native Workspace 也许是智能体的下一阶段",
+                "link": "http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html",
+                "published": "2026-01-22"
+            },
+            {
                 "title": "科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么",
                 "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html",
                 "published": "2026-01-16"
@@ -1110,13 +1120,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一日一技 | 老 Mac 系统恢复指北",
+                "link": "https://sspai.com/post/105578",
+                "published": "2026-01-23"
+            },
+            {
+                "title": "派早报：realme 真我发布新品、Xbox 应用登陆 Arm PC 等",
+                "link": "https://sspai.com/post/105695",
+                "published": "2026-01-23"
+            },
+            {
+                "title": "尝试了几次周末一日游，我和「害怕看不完」的想法和解了",
+                "link": "https://sspai.com/post/105568",
+                "published": "2026-01-22"
+            },
+            {
+                "title": "Mac 视觉史（四）：用动效交互为 Mac OS X 附魔",
+                "link": "https://sspai.com/post/105410",
+                "published": "2026-01-22"
+            },
             {
                 "title": "将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛",
                 "link": "https://sspai.com/post/105630",
@@ -27963,7 +27993,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

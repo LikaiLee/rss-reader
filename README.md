@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,8 @@
     </summary>
 
 
+* [【2026-01-23】 科技爱好者周刊（第 382 期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html)
+* [【2026-01-22】 AI native Workspace 也许是智能体的下一阶段](http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html)
 * [【2026-01-16】 科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html)
 * [【2026-01-09】 科技爱好者周刊（第 380 期）：为什么人们拥抱"不对称收益"](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html)
 * [【2025-12-25】 科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html)
@@ -24,8 +26,6 @@
 * [【2025-12-12】 科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html)
 * [【2025-12-05】 科技爱好者周刊（第 376 期）：太空数据中心的争议](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html)
 * [【2025-11-07】 科技爱好者周刊（第 372 期）：软件界面如何设计](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html)
-* [【2025-11-04】 大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5](http://www.ruanyifeng.com/blog/2025/11/minimax-m2.html)
-* [【2025-10-31】 科技爱好者周刊（第 371 期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-01-23】 一日一技 | 老 Mac 系统恢复指北](https://sspai.com/post/105578)
+* [【2026-01-23】 派早报：realme 真我发布新品、Xbox 应用登陆 Arm PC 等](https://sspai.com/post/105695)
+* [【2026-01-22】 尝试了几次周末一日游，我和「害怕看不完」的想法和解了](https://sspai.com/post/105568)
+* [【2026-01-22】 Mac 视觉史（四）：用动效交互为 Mac OS X 附魔](https://sspai.com/post/105410)
 * [【2026-01-22】 将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛](https://sspai.com/post/105630)
 * [【2026-01-22】 派早报：Nova Launcher 被收购、《愤怒的小鸟》将回归等](https://sspai.com/post/105651)
 * [【2026-01-21】 再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异](https://sspai.com/prime/story/on-dsstore)
 * [【2026-01-21】 让背单词像「抽卡」一样快乐：我设计了一台「美食盲盒机」](https://sspai.com/post/105408)
 * [【2026-01-21】 5 款替代品，找回 LaunchPad 的快捷](https://sspai.com/post/105471)
 * [【2026-01-21】 致敬好剧新姿势：纯代码从零复刻 Pluribus 片头动画](https://sspai.com/post/105365)
-* [【2026-01-20】 派早报：索尼宣布与 TCL 成立合资公司、Ayaneo 发布 Konkr Fit 掌机等](https://sspai.com/post/105628)
-* [【2026-01-20】 GitHub 都没用明白，我这样用 Gemini 零起点开发应用](https://sspai.com/post/105540)
-* [【2026-01-20】 从雪地陷车到撞围栏：境外租车自驾复盘与避坑攻略](https://sspai.com/post/105575)
-* [【2026-01-20】 冬天也不用裹成球，这是你需要了解的冬季穿衣指南](https://sspai.com/post/93614)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-22 05:26:56
+:alarm_clock: 更新时间: 2026-01-23 05:26:11
