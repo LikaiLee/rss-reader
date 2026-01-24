@@ -1120,13 +1120,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 11 部作品",
+                "link": "https://sspai.com/post/105709",
+                "published": "2026-01-23"
+            },
+            {
+                "title": "吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版）",
+                "link": "https://sspai.com/post/105475",
+                "published": "2026-01-23"
+            },
             {
                 "title": "一日一技 | 老 Mac 系统恢复指北",
                 "link": "https://sspai.com/post/105578",
@@ -27993,7 +28003,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
