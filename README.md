@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-01-24】 地产人勇闯科技圈：在少数派造物的 180 天](https://sspai.com/post/105679)
 * [【2026-01-23】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/105709)
 * [【2026-01-23】 吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版）](https://sspai.com/post/105475)
 * [【2026-01-23】 一日一技 | 老 Mac 系统恢复指北](https://sspai.com/post/105578)
@@ -44,7 +45,6 @@
 * [【2026-01-22】 将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛](https://sspai.com/post/105630)
 * [【2026-01-22】 派早报：Nova Launcher 被收购、《愤怒的小鸟》将回归等](https://sspai.com/post/105651)
 * [【2026-01-21】 再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异](https://sspai.com/prime/story/on-dsstore)
-* [【2026-01-21】 让背单词像「抽卡」一样快乐：我设计了一台「美食盲盒机」](https://sspai.com/post/105408)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-24 05:20:03
+:alarm_clock: 更新时间: 2026-01-25 05:26:36

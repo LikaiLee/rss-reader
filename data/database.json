@@ -1128,6 +1128,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "地产人勇闯科技圈：在少数派造物的 180 天",
+                "link": "https://sspai.com/post/105679",
+                "published": "2026-01-24"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 11 部作品",
                 "link": "https://sspai.com/post/105709",
                 "published": "2026-01-23"
@@ -28003,7 +28008,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
