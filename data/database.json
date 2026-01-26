@@ -1128,6 +1128,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站",
+                "link": "https://sspai.com/post/105506",
+                "published": "2026-01-26"
+            },
+            {
+                "title": "派早报：高铁客服和专家回应「高铁二氧化碳超标」",
+                "link": "https://sspai.com/post/105741",
+                "published": "2026-01-26"
+            },
+            {
+                "title": "从 triple j 到「字母汤」：澳洲音乐电台指北",
+                "link": "https://sspai.com/post/105482",
+                "published": "2026-01-25"
+            },
+            {
                 "title": "地产人勇闯科技圈：在少数派造物的 180 天",
                 "link": "https://sspai.com/post/105679",
                 "published": "2026-01-24"
@@ -28008,7 +28023,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
