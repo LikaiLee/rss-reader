@@ -1128,6 +1128,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "打开血糖盲盒：跟踪 14 个普通日夜里的血液足迹",
+                "link": "https://sspai.com/post/105500",
+                "published": "2026-01-27"
+            },
+            {
+                "title": "派早报：Adobe 系列应用原生支持 Windows on ARM 等",
+                "link": "https://sspai.com/post/105792",
+                "published": "2026-01-27"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/105782",
+                "published": "2026-01-26"
+            },
+            {
+                "title": "从「墓碑」到见机行事：iOS 后台机制现状分析",
+                "link": "https://sspai.com/prime/story/the-state-of-ios-background-tasks",
+                "published": "2026-01-26"
+            },
+            {
+                "title": "Kindle Paperwhite 3 杂谈：为什么它是我高中生涯最值的电子产品？",
+                "link": "https://sspai.com/post/105685",
+                "published": "2026-01-26"
+            },
+            {
                 "title": "NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站",
                 "link": "https://sspai.com/post/105506",
                 "published": "2026-01-26"
@@ -28023,7 +28048,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
