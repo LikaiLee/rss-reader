@@ -1128,6 +1128,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "少数派新年礼遇季：为你精选2025值得入手的热销好物",
+                "link": "https://sspai.com/post/105818",
+                "published": "2026-01-28"
+            },
+            {
+                "title": "派早报：森海塞尔发布两款 USB-C 有线耳机等",
+                "link": "https://sspai.com/post/105830",
+                "published": "2026-01-28"
+            },
+            {
+                "title": "社区速递 127 | 派友的 12 月剁手清单、8 年不换电池的温湿度计",
+                "link": "https://sspai.com/post/105807",
+                "published": "2026-01-27"
+            },
+            {
+                "title": "软件工程师的 AI Coding 进化论",
+                "link": "https://sspai.com/post/105584",
+                "published": "2026-01-27"
+            },
+            {
                 "title": "打开血糖盲盒：跟踪 14 个普通日夜里的血液足迹",
                 "link": "https://sspai.com/post/105500",
                 "published": "2026-01-27"
@@ -28048,7 +28068,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
