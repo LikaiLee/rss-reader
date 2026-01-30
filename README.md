@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,8 @@
     </summary>
 
 
+* [【2026-01-30】 科技爱好者周刊（第 383 期）：你是第几级 AI 编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html)
+* [【2026-01-29】 Kimi 的一体化，Manus 的分层](http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html)
 * [【2026-01-23】 科技爱好者周刊（第 382 期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html)
 * [【2026-01-22】 AI native Workspace 也许是智能体的下一阶段](http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html)
 * [【2026-01-16】 科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html)
@@ -24,8 +26,6 @@
 * [【2025-12-23】 我如何用 AI 处理历史遗留代码：MiniMax M2.1 升级体验](http://www.ruanyifeng.com/blog/2025/12/minimax-m2.1.html)
 * [【2025-12-19】 科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html)
 * [【2025-12-12】 科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html)
-* [【2025-12-05】 科技爱好者周刊（第 376 期）：太空数据中心的争议](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html)
-* [【2025-11-07】 科技爱好者周刊（第 372 期）：软件界面如何设计](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-01-30】 你真的是记性不好吗？关于记忆和遗忘的常见误区](https://sspai.com/post/105677)
+* [【2026-01-30】 派早报：小米发布 REDMI Turbo 5 系列手机等](https://sspai.com/post/105895)
+* [【2026-01-29】 新玩意 234｜少数派的编辑们最近买了啥？](https://sspai.com/post/105869)
+* [【2026-01-29】 左手 Tana，右手 Heptabase：为什么我两个都要？](https://sspai.com/post/105622)
 * [【2026-01-29】 你的隐私你做主，所有人都应该知道的 9 个 iPhone 隐私保护技巧](https://sspai.com/post/99910)
 * [【2026-01-29】 派早报：Apple Creator Studio 正式上线、Kimi K2.5 模型发布等](https://sspai.com/post/105850)
 * [【2026-01-28】 将专业创作工具交到更多人手中：Apple Creator Studio 你也许想了解的那些事](https://sspai.com/post/105823)
 * [【2026-01-28】 跨越肠胃镜心理障碍：记一次胶囊胃镜体验](https://sspai.com/post/105554)
 * [【2026-01-28】 Matrix 圆桌 | 可惜！聊聊那些好用但停更的 App](https://sspai.com/post/105134)
 * [【2026-01-28】 少数派新年礼遇季：为你精选 2025 值得入手的热销好物](https://sspai.com/post/105818)
-* [【2026-01-28】 少数派新年礼遇季：为你精选2025值得入手的热销好物](https://sspai.com/post/105818)
-* [【2026-01-28】 派早报：森海塞尔发布两款 USB-C 有线耳机等](https://sspai.com/post/105830)
-* [【2026-01-27】 社区速递 127 | 派友的 12 月剁手清单、8 年不换电池的温湿度计](https://sspai.com/post/105807)
-* [【2026-01-27】 软件工程师的 AI Coding 进化论](https://sspai.com/post/105584)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-29 05:41:15
+:alarm_clock: 更新时间: 2026-01-30 05:44:02

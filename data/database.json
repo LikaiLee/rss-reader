@@ -5,6 +5,16 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 383 期）：你是第几级 AI 编程",
+                "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html",
+                "published": "2026-01-30"
+            },
+            {
+                "title": "Kimi 的一体化，Manus 的分层",
+                "link": "http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html",
+                "published": "2026-01-29"
+            },
+            {
                 "title": "科技爱好者周刊（第 382 期）：独立软件的黄昏",
                 "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html",
                 "published": "2026-01-23"
@@ -1120,13 +1130,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "你真的是记性不好吗？关于记忆和遗忘的常见误区",
+                "link": "https://sspai.com/post/105677",
+                "published": "2026-01-30"
+            },
+            {
+                "title": "派早报：小米发布 REDMI Turbo 5 系列手机等",
+                "link": "https://sspai.com/post/105895",
+                "published": "2026-01-30"
+            },
+            {
+                "title": "新玩意 234｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/105869",
+                "published": "2026-01-29"
+            },
+            {
+                "title": "左手 Tana，右手 Heptabase：为什么我两个都要？",
+                "link": "https://sspai.com/post/105622",
+                "published": "2026-01-29"
+            },
             {
                 "title": "你的隐私你做主，所有人都应该知道的 9 个 iPhone 隐私保护技巧",
                 "link": "https://sspai.com/post/99910",
@@ -28098,7 +28128,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
