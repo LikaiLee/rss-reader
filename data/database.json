@@ -1130,13 +1130,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "别只练力量和心肺，人生下半场拼的是肌肉爆发力",
+                "link": "https://sspai.com/prime/story/a-guide-to-muscle-explosive-power",
+                "published": "2026-01-30"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/105907",
+                "published": "2026-01-30"
+            },
+            {
+                "title": "停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘",
+                "link": "https://sspai.com/post/104564",
+                "published": "2026-01-30"
+            },
             {
                 "title": "你真的是记性不好吗？关于记忆和遗忘的常见误区",
                 "link": "https://sspai.com/post/105677",
@@ -28128,7 +28143,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,

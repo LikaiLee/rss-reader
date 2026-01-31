@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+2】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-01-30】 别只练力量和心肺，人生下半场拼的是肌肉爆发力](https://sspai.com/prime/story/a-guide-to-muscle-explosive-power)
+* [【2026-01-30】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/105907)
+* [【2026-01-30】 停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘](https://sspai.com/post/104564)
 * [【2026-01-30】 你真的是记性不好吗？关于记忆和遗忘的常见误区](https://sspai.com/post/105677)
 * [【2026-01-30】 派早报：小米发布 REDMI Turbo 5 系列手机等](https://sspai.com/post/105895)
 * [【2026-01-29】 新玩意 234｜少数派的编辑们最近买了啥？](https://sspai.com/post/105869)
@@ -42,9 +45,6 @@
 * [【2026-01-29】 你的隐私你做主，所有人都应该知道的 9 个 iPhone 隐私保护技巧](https://sspai.com/post/99910)
 * [【2026-01-29】 派早报：Apple Creator Studio 正式上线、Kimi K2.5 模型发布等](https://sspai.com/post/105850)
 * [【2026-01-28】 将专业创作工具交到更多人手中：Apple Creator Studio 你也许想了解的那些事](https://sspai.com/post/105823)
-* [【2026-01-28】 跨越肠胃镜心理障碍：记一次胶囊胃镜体验](https://sspai.com/post/105554)
-* [【2026-01-28】 Matrix 圆桌 | 可惜！聊聊那些好用但停更的 App](https://sspai.com/post/105134)
-* [【2026-01-28】 少数派新年礼遇季：为你精选 2025 值得入手的热销好物](https://sspai.com/post/105818)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-30 05:44:02
+:alarm_clock: 更新时间: 2026-01-31 05:36:05
