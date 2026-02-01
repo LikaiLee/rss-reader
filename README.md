@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-02-01】 Apple 新春大片如期而至，今年的故事有点不一样](https://sspai.com/post/105948)
+* [【2026-01-31】 本月玩什么｜明日方舟：终末地、孤山独影、暴走甜心](https://sspai.com/post/105946)
+* [【2026-01-31】 具透 Plus：Clawdbot 的成功是桌面系统的成功；如何手动开启 Chrome 中的 Gemini](https://sspai.com/prime/story/inside-release-notes-260131)
+* [【2026-01-31】 用数据分析项目，带你走进成语里的数字世界](https://sspai.com/post/105827)
 * [【2026-01-30】 别只练力量和心肺，人生下半场拼的是肌肉爆发力](https://sspai.com/prime/story/a-guide-to-muscle-explosive-power)
 * [【2026-01-30】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/105907)
 * [【2026-01-30】 停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘](https://sspai.com/post/104564)
 * [【2026-01-30】 你真的是记性不好吗？关于记忆和遗忘的常见误区](https://sspai.com/post/105677)
 * [【2026-01-30】 派早报：小米发布 REDMI Turbo 5 系列手机等](https://sspai.com/post/105895)
 * [【2026-01-29】 新玩意 234｜少数派的编辑们最近买了啥？](https://sspai.com/post/105869)
-* [【2026-01-29】 左手 Tana，右手 Heptabase：为什么我两个都要？](https://sspai.com/post/105622)
-* [【2026-01-29】 你的隐私你做主，所有人都应该知道的 9 个 iPhone 隐私保护技巧](https://sspai.com/post/99910)
-* [【2026-01-29】 派早报：Apple Creator Studio 正式上线、Kimi K2.5 模型发布等](https://sspai.com/post/105850)
-* [【2026-01-28】 将专业创作工具交到更多人手中：Apple Creator Studio 你也许想了解的那些事](https://sspai.com/post/105823)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-01-31 05:36:05
+:alarm_clock: 更新时间: 2026-02-01 05:57:50

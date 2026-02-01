@@ -1138,6 +1138,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Apple 新春大片如期而至，今年的故事有点不一样",
+                "link": "https://sspai.com/post/105948",
+                "published": "2026-02-01"
+            },
+            {
+                "title": "本月玩什么｜明日方舟：终末地、孤山独影、暴走甜心",
+                "link": "https://sspai.com/post/105946",
+                "published": "2026-01-31"
+            },
+            {
+                "title": "具透 Plus：Clawdbot 的成功是桌面系统的成功；如何手动开启 Chrome 中的 Gemini",
+                "link": "https://sspai.com/prime/story/inside-release-notes-260131",
+                "published": "2026-01-31"
+            },
+            {
+                "title": "用数据分析项目，带你走进成语里的数字世界",
+                "link": "https://sspai.com/post/105827",
+                "published": "2026-01-31"
+            },
+            {
                 "title": "别只练力量和心肺，人生下半场拼的是肌肉爆发力",
                 "link": "https://sspai.com/prime/story/a-guide-to-muscle-explosive-power",
                 "published": "2026-01-30"
@@ -28143,7 +28163,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
