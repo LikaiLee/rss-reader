@@ -1138,6 +1138,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "又要上台讲 PPT？用 AutoHotkey 解决翻页笔「断连」时刻",
+                "link": "https://sspai.com/post/105660",
+                "published": "2026-02-02"
+            },
+            {
+                "title": "派早报：Moltbook 引发 AI 智能体新热度与安全担忧",
+                "link": "https://sspai.com/post/105959",
+                "published": "2026-02-02"
+            },
+            {
                 "title": "Apple 新春大片如期而至，今年的故事有点不一样",
                 "link": "https://sspai.com/post/105948",
                 "published": "2026-02-01"
@@ -28163,7 +28173,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,

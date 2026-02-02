@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-02-02】 又要上台讲 PPT？用 AutoHotkey 解决翻页笔「断连」时刻](https://sspai.com/post/105660)
+* [【2026-02-02】 派早报：Moltbook 引发 AI 智能体新热度与安全担忧](https://sspai.com/post/105959)
 * [【2026-02-01】 Apple 新春大片如期而至，今年的故事有点不一样](https://sspai.com/post/105948)
 * [【2026-01-31】 本月玩什么｜明日方舟：终末地、孤山独影、暴走甜心](https://sspai.com/post/105946)
 * [【2026-01-31】 具透 Plus：Clawdbot 的成功是桌面系统的成功；如何手动开启 Chrome 中的 Gemini](https://sspai.com/prime/story/inside-release-notes-260131)
@@ -43,8 +45,6 @@
 * [【2026-01-30】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/105907)
 * [【2026-01-30】 停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘](https://sspai.com/post/104564)
 * [【2026-01-30】 你真的是记性不好吗？关于记忆和遗忘的常见误区](https://sspai.com/post/105677)
-* [【2026-01-30】 派早报：小米发布 REDMI Turbo 5 系列手机等](https://sspai.com/post/105895)
-* [【2026-01-29】 新玩意 234｜少数派的编辑们最近买了啥？](https://sspai.com/post/105869)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-01 05:57:50
+:alarm_clock: 更新时间: 2026-02-02 06:02:16
