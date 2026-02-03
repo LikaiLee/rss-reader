@@ -1138,6 +1138,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 | 开源免费、多人协作，用 Cent 一站式搞定记账",
+                "link": "https://sspai.com/post/105644",
+                "published": "2026-02-03"
+            },
+            {
+                "title": "派早报：SpaceX 收购 xAI，Adobe 停运 Animate 等",
+                "link": "https://sspai.com/post/105996",
+                "published": "2026-02-03"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/105972",
+                "published": "2026-02-02"
+            },
+            {
+                "title": "2026 春运买票指北：乡愁愈烈，莫添烦恼",
+                "link": "https://sspai.com/post/86328",
+                "published": "2026-02-02"
+            },
+            {
                 "title": "又要上台讲 PPT？用 AutoHotkey 解决翻页笔「断连」时刻",
                 "link": "https://sspai.com/post/105660",
                 "published": "2026-02-02"
@@ -28173,7 +28193,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
