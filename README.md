@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-02-04】 见不惯 B 站 up 主的带货广告？教你利用 AI 快速跳过](https://sspai.com/post/105951)
+* [【2026-02-03】 派早报：Firefox 上线 AI 功能开关、OpenAI 推出 Codex 桌面应用等](https://sspai.com/post/106033)
+* [【2026-02-03】 社区速递 128 | 小红书里的「奇怪知识」、打开 14 天的血糖盲盒](https://sspai.com/post/106004)
+* [【2026-02-03】 不是只做样子货：铁三角 ATH-CKS50TW2 星战联名耳机体验](https://sspai.com/post/105893)
 * [【2026-02-03】 App+1 | 开源免费、多人协作，用 Cent 一站式搞定记账](https://sspai.com/post/105644)
 * [【2026-02-03】 派早报：SpaceX 收购 xAI，Adobe 停运 Animate 等](https://sspai.com/post/105996)
 * [【2026-02-02】 派评 | 近期值得关注的 App](https://sspai.com/post/105972)
 * [【2026-02-02】 2026 春运买票指北：乡愁愈烈，莫添烦恼](https://sspai.com/post/86328)
 * [【2026-02-02】 又要上台讲 PPT？用 AutoHotkey 解决翻页笔「断连」时刻](https://sspai.com/post/105660)
 * [【2026-02-02】 派早报：Moltbook 引发 AI 智能体新热度与安全担忧](https://sspai.com/post/105959)
-* [【2026-02-01】 Apple 新春大片如期而至，今年的故事有点不一样](https://sspai.com/post/105948)
-* [【2026-01-31】 本月玩什么｜明日方舟：终末地、孤山独影、暴走甜心](https://sspai.com/post/105946)
-* [【2026-01-31】 具透 Plus：Clawdbot 的成功是桌面系统的成功；如何手动开启 Chrome 中的 Gemini](https://sspai.com/prime/story/inside-release-notes-260131)
-* [【2026-01-31】 用数据分析项目，带你走进成语里的数字世界](https://sspai.com/post/105827)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-03 05:48:33
+:alarm_clock: 更新时间: 2026-02-04 05:46:35
