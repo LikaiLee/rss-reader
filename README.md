@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-02-06】 科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html)
 * [【2026-01-30】 科技爱好者周刊（第 383 期）：你是第几级 AI 编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html)
 * [【2026-01-29】 Kimi 的一体化，Manus 的分层](http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html)
 * [【2026-01-23】 科技爱好者周刊（第 382 期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html)
@@ -25,7 +26,6 @@
 * [【2025-12-25】 科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html)
 * [【2025-12-23】 我如何用 AI 处理历史遗留代码：MiniMax M2.1 升级体验](http://www.ruanyifeng.com/blog/2025/12/minimax-m2.1.html)
 * [【2025-12-19】 科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html)
-* [【2025-12-12】 科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-02-06】 Sonos × 少数派 × 暖风家联合打造：沉浸体验空间正式上线](https://sspai.com/post/106081)
+* [【2026-02-06】 派早报：Mistral 发布 Voxtral Transcribe 2 系列语音转文字模型等](https://sspai.com/post/106113)
+* [【2026-02-05】 新玩意 235｜少数派的编辑们最近买了啥？](https://sspai.com/post/106090)
+* [【2026-02-05】 满分五分，你给 Apple 的 2025 年打几分？](https://sspai.com/post/106060)
 * [【2026-02-05】 从川渝之旅聊自驾：解锁更自在的旅行体验](https://sspai.com/post/105661)
 * [【2026-02-05】 派早报：iQOO 15 Ultra 发布、Grok Imagine 1.0 推出等](https://sspai.com/post/106063)
 * [【2026-02-04】 少数派 2025 年度征文：听说你对写作是真 AI？](https://sspai.com/post/105805)
 * [【2026-02-04】 城市漫步指南：软件名城，泉城济南](https://sspai.com/post/105859)
 * [【2026-02-04】 见不惯 B 站 up 主的带货广告？教你利用 AI 快速跳过](https://sspai.com/post/105951)
 * [【2026-02-03】 派早报：Firefox 上线 AI 功能开关、OpenAI 推出 Codex 桌面应用等](https://sspai.com/post/106033)
-* [【2026-02-03】 社区速递 128 | 小红书里的「奇怪知识」、打开 14 天的血糖盲盒](https://sspai.com/post/106004)
-* [【2026-02-03】 不是只做样子货：铁三角 ATH-CKS50TW2 星战联名耳机体验](https://sspai.com/post/105893)
-* [【2026-02-03】 App+1 | 开源免费、多人协作，用 Cent 一站式搞定记账](https://sspai.com/post/105644)
-* [【2026-02-03】 派早报：SpaceX 收购 xAI，Adobe 停运 Animate 等](https://sspai.com/post/105996)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-05 05:53:47
+:alarm_clock: 更新时间: 2026-02-06 05:51:44
