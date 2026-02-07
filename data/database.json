@@ -1135,13 +1135,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "当你想来一次新年大扫除，这里或许有些经验可供参考",
+                "link": "https://sspai.com/post/95652",
+                "published": "2026-02-07"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 11 部作品",
+                "link": "https://sspai.com/post/106136",
+                "published": "2026-02-06"
+            },
+            {
+                "title": "醒醒现在是 2015：小米 1S 和红米 Note 背后的机圈历史",
+                "link": "https://sspai.com/post/105976",
+                "published": "2026-02-06"
+            },
             {
                 "title": "Sonos × 少数派 × 暖风家联合打造：沉浸体验空间正式上线",
                 "link": "https://sspai.com/post/106081",
@@ -28258,7 +28273,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
