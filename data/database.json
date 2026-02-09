@@ -1143,6 +1143,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我的 AI 工具日常使用与工作流是怎样的？",
+                "link": "https://sspai.com/post/105481",
+                "published": "2026-02-09"
+            },
+            {
+                "title": "派早报：千问「奶茶补贴」导致线上宕机、线下爆单",
+                "link": "https://sspai.com/post/106221",
+                "published": "2026-02-09"
+            },
+            {
+                "title": "从特斯拉一日自驾，看纯电在日本的实际体验",
+                "link": "https://sspai.com/post/106020",
+                "published": "2026-02-08"
+            },
+            {
                 "title": "当你想来一次新年大扫除，这里或许有些经验可供参考",
                 "link": "https://sspai.com/post/95652",
                 "published": "2026-02-07"
@@ -28273,7 +28288,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 2,
