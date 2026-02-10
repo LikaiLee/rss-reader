@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-02-10】 不只是健康指标：也试试用 HRV 指导自己的健身计划](https://sspai.com/post/105791)
+* [【2026-02-10】 派早报：天涯社区宣布回归等](https://sspai.com/post/106265)
+* [【2026-02-09】 派评 | 近期值得关注的 App](https://sspai.com/post/106250)
+* [【2026-02-09】 骏马迎春，纳福添彩：我们准备了 10+ 件年货好物](https://sspai.com/post/106213)
 * [【2026-02-09】 我的 AI 工具日常使用与工作流是怎样的？](https://sspai.com/post/105481)
 * [【2026-02-09】 派早报：千问「奶茶补贴」导致线上宕机、线下爆单](https://sspai.com/post/106221)
 * [【2026-02-08】 从特斯拉一日自驾，看纯电在日本的实际体验](https://sspai.com/post/106020)
 * [【2026-02-07】 当你想来一次新年大扫除，这里或许有些经验可供参考](https://sspai.com/post/95652)
 * [【2026-02-06】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/106136)
 * [【2026-02-06】 醒醒现在是 2015：小米 1S 和红米 Note 背后的机圈历史](https://sspai.com/post/105976)
-* [【2026-02-06】 Sonos × 少数派 × 暖风家联合打造：沉浸体验空间正式上线](https://sspai.com/post/106081)
-* [【2026-02-06】 派早报：Mistral 发布 Voxtral Transcribe 2 系列语音转文字模型等](https://sspai.com/post/106113)
-* [【2026-02-05】 新玩意 235｜少数派的编辑们最近买了啥？](https://sspai.com/post/106090)
-* [【2026-02-05】 满分五分，你给 Apple 的 2025 年打几分？](https://sspai.com/post/106060)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-09 06:06:04
+:alarm_clock: 更新时间: 2026-02-10 06:09:58
