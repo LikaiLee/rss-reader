@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-02-11】 从一台修不好的 Walkman 开始：飞傲的复古产品「补票」之路](https://sspai.com/post/106146)
+* [【2026-02-10】 派早报：索尼将停止蓝光录像机出货等](https://sspai.com/post/106287)
+* [【2026-02-10】 社区速递 129 | 租车自驾的「避坑」经验、与杂乱的桌面和解](https://sspai.com/post/106271)
+* [【2026-02-10】 巴掌大的小主机 Khadas Mind 2，究竟能用来干什么？](https://sspai.com/post/105559)
 * [【2026-02-10】 不只是健康指标：也试试用 HRV 指导自己的健身计划](https://sspai.com/post/105791)
 * [【2026-02-10】 派早报：天涯社区宣布回归等](https://sspai.com/post/106265)
 * [【2026-02-09】 派评 | 近期值得关注的 App](https://sspai.com/post/106250)
 * [【2026-02-09】 骏马迎春，纳福添彩：我们准备了 10+ 件年货好物](https://sspai.com/post/106213)
 * [【2026-02-09】 我的 AI 工具日常使用与工作流是怎样的？](https://sspai.com/post/105481)
 * [【2026-02-09】 派早报：千问「奶茶补贴」导致线上宕机、线下爆单](https://sspai.com/post/106221)
-* [【2026-02-08】 从特斯拉一日自驾，看纯电在日本的实际体验](https://sspai.com/post/106020)
-* [【2026-02-07】 当你想来一次新年大扫除，这里或许有些经验可供参考](https://sspai.com/post/95652)
-* [【2026-02-06】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/106136)
-* [【2026-02-06】 醒醒现在是 2015：小米 1S 和红米 Note 背后的机圈历史](https://sspai.com/post/105976)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-10 06:09:58
+:alarm_clock: 更新时间: 2026-02-11 06:06:48
