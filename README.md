@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-02-12】 智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)
 * [【2026-02-06】 科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html)
 * [【2026-01-30】 科技爱好者周刊（第 383 期）：你是第几级 AI 编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html)
 * [【2026-01-29】 Kimi 的一体化，Manus 的分层](http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html)
@@ -25,7 +26,6 @@
 * [【2026-01-09】 科技爱好者周刊（第 380 期）：为什么人们拥抱"不对称收益"](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html)
 * [【2025-12-25】 科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html)
 * [【2025-12-23】 我如何用 AI 处理历史遗留代码：MiniMax M2.1 升级体验](http://www.ruanyifeng.com/blog/2025/12/minimax-m2.1.html)
-* [【2025-12-19】 科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-02-12】 普通人更要多动手：聊聊我把 Claude Code 变成个人助手后的那些事](https://sspai.com/post/105331)
+* [【2026-02-12】 派早报：Apple 将举办五十周年庆、VSCO 上架 Lr 预设等](https://sspai.com/post/106310)
+* [【2026-02-11】 OpenClaw：高强度使用两周，这个 AI 工具颠覆了我的工作流](https://sspai.com/post/106232)
+* [【2026-02-11】 寻源南疆：我们在冰山上拍了一部「公路电影」](https://sspai.com/post/106299)
+* [【2026-02-11】 索尼 LinkBuds Clip 耳夹式开放真无线耳机体验 - TDS REVIEW](https://sspai.com/post/106175)
 * [【2026-02-11】 从一台修不好的 Walkman 开始：飞傲的复古产品「补票」之路](https://sspai.com/post/106146)
 * [【2026-02-10】 派早报：索尼将停止蓝光录像机出货等](https://sspai.com/post/106287)
 * [【2026-02-10】 社区速递 129 | 租车自驾的「避坑」经验、与杂乱的桌面和解](https://sspai.com/post/106271)
 * [【2026-02-10】 巴掌大的小主机 Khadas Mind 2，究竟能用来干什么？](https://sspai.com/post/105559)
 * [【2026-02-10】 不只是健康指标：也试试用 HRV 指导自己的健身计划](https://sspai.com/post/105791)
-* [【2026-02-10】 派早报：天涯社区宣布回归等](https://sspai.com/post/106265)
-* [【2026-02-09】 派评 | 近期值得关注的 App](https://sspai.com/post/106250)
-* [【2026-02-09】 骏马迎春，纳福添彩：我们准备了 10+ 件年货好物](https://sspai.com/post/106213)
-* [【2026-02-09】 我的 AI 工具日常使用与工作流是怎样的？](https://sspai.com/post/105481)
-* [【2026-02-09】 派早报：千问「奶茶补贴」导致线上宕机、线下爆单](https://sspai.com/post/106221)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-11 06:06:48
+:alarm_clock: 更新时间: 2026-02-12 06:02:44

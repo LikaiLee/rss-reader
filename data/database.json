@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex",
+                "link": "http://www.ruanyifeng.com/blog/2026/02/glm-5.html",
+                "published": "2026-02-12"
+            },
+            {
                 "title": "科技爱好者周刊（第 384 期）：为什么软件股下跌",
                 "link": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html",
                 "published": "2026-02-06"
@@ -1135,13 +1140,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "普通人更要多动手：聊聊我把 Claude Code 变成个人助手后的那些事",
+                "link": "https://sspai.com/post/105331",
+                "published": "2026-02-12"
+            },
+            {
+                "title": "派早报：Apple 将举办五十周年庆、VSCO 上架 Lr 预设等",
+                "link": "https://sspai.com/post/106310",
+                "published": "2026-02-12"
+            },
+            {
+                "title": "OpenClaw：高强度使用两周，这个 AI 工具颠覆了我的工作流",
+                "link": "https://sspai.com/post/106232",
+                "published": "2026-02-11"
+            },
+            {
+                "title": "寻源南疆：我们在冰山上拍了一部「公路电影」",
+                "link": "https://sspai.com/post/106299",
+                "published": "2026-02-11"
+            },
+            {
+                "title": "索尼 LinkBuds Clip 耳夹式开放真无线耳机体验 - TDS REVIEW",
+                "link": "https://sspai.com/post/106175",
+                "published": "2026-02-11"
+            },
             {
                 "title": "从一台修不好的 Walkman 开始：飞傲的复古产品「补票」之路",
                 "link": "https://sspai.com/post/106146",
@@ -28328,7 +28358,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
