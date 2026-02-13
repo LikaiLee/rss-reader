@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？",
+                "link": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html",
+                "published": "2026-02-12"
+            },
+            {
                 "title": "智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex",
                 "link": "http://www.ruanyifeng.com/blog/2026/02/glm-5.html",
                 "published": "2026-02-12"
@@ -1147,6 +1152,26 @@
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "Kali LP-UNF：我心中的入门级桌面音箱最优解",
+                "link": "https://sspai.com/post/106144",
+                "published": "2026-02-13"
+            },
+            {
+                "title": "派早报：智谱上线并开源 GLM-5 模型、网信办开展春节清朗行动",
+                "link": "https://sspai.com/post/106337",
+                "published": "2026-02-13"
+            },
+            {
+                "title": "春节长途旅行，这 6 款耐玩小游戏先备好",
+                "link": "https://sspai.com/post/106284",
+                "published": "2026-02-12"
+            },
+            {
+                "title": "iOS 26.3 值得关注的新特性",
+                "link": "https://sspai.com/post/106202",
+                "published": "2026-02-12"
+            },
             {
                 "title": "普通人更要多动手：聊聊我把 Claude Code 变成个人助手后的那些事",
                 "link": "https://sspai.com/post/105331",
@@ -28358,7 +28383,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
