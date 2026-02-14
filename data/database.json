@@ -1145,13 +1145,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "新年拒酒指南：除了头孢还有什么拒酒的好借口",
+                "link": "https://sspai.com/post/106300",
+                "published": "2026-02-14"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/106352",
+                "published": "2026-02-13"
+            },
+            {
+                "title": "或许，这就是「跨场景」个人终端的理想形态：CES 2026 后的 Khadas Mind 2体验",
+                "link": "https://sspai.com/post/105853",
+                "published": "2026-02-13"
+            },
+            {
+                "title": "《英语自学手册》作者、创作者郝海龙都装了啥？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-260213",
+                "published": "2026-02-13"
+            },
             {
                 "title": "Kali LP-UNF：我心中的入门级桌面音箱最优解",
                 "link": "https://sspai.com/post/106144",

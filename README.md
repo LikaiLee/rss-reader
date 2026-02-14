@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-02-14】 新年拒酒指南：除了头孢还有什么拒酒的好借口](https://sspai.com/post/106300)
+* [【2026-02-13】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/106352)
+* [【2026-02-13】 或许，这就是「跨场景」个人终端的理想形态：CES 2026 后的 Khadas Mind 2体验](https://sspai.com/post/105853)
+* [【2026-02-13】 《英语自学手册》作者、创作者郝海龙都装了啥？](https://sspai.com/prime/story/zhuanglesha-260213)
 * [【2026-02-13】 Kali LP-UNF：我心中的入门级桌面音箱最优解](https://sspai.com/post/106144)
 * [【2026-02-13】 派早报：智谱上线并开源 GLM-5 模型、网信办开展春节清朗行动](https://sspai.com/post/106337)
 * [【2026-02-12】 春节长途旅行，这 6 款耐玩小游戏先备好](https://sspai.com/post/106284)
 * [【2026-02-12】 iOS 26.3 值得关注的新特性](https://sspai.com/post/106202)
 * [【2026-02-12】 普通人更要多动手：聊聊我把 Claude Code 变成个人助手后的那些事](https://sspai.com/post/105331)
 * [【2026-02-12】 派早报：Apple 将举办五十周年庆、VSCO 上架 Lr 预设等](https://sspai.com/post/106310)
-* [【2026-02-11】 OpenClaw：高强度使用两周，这个 AI 工具颠覆了我的工作流](https://sspai.com/post/106232)
-* [【2026-02-11】 寻源南疆：我们在冰山上拍了一部「公路电影」](https://sspai.com/post/106299)
-* [【2026-02-11】 索尼 LinkBuds Clip 耳夹式开放真无线耳机体验 - TDS REVIEW](https://sspai.com/post/106175)
-* [【2026-02-11】 从一台修不好的 Walkman 开始：飞傲的复古产品「补票」之路](https://sspai.com/post/106146)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-13 05:57:47
+:alarm_clock: 更新时间: 2026-02-14 05:42:06
