@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "字节全家桶 Seed 2.0 + TRAE 玩转 Skill",
+                "link": "http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html",
+                "published": "2026-02-14"
+            },
+            {
                 "title": "科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？",
                 "link": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html",
                 "published": "2026-02-12"
@@ -1145,13 +1150,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "春节玩什么 | 过年聚会担心冷场？不妨试试这 10 款多人游戏",
+                "link": "https://sspai.com/post/106374",
+                "published": "2026-02-15"
+            },
             {
                 "title": "新年拒酒指南：除了头孢还有什么拒酒的好借口",
                 "link": "https://sspai.com/post/106300",
@@ -28403,7 +28413,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
