@@ -1158,6 +1158,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "你住的城市下不下雪？用这份「雪天片单」感受浪漫季节",
+                "link": "https://sspai.com/post/94704",
+                "published": "2026-02-20"
+            },
+            {
+                "title": "新玩意 236｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/106451",
+                "published": "2026-02-19"
+            },
+            {
                 "title": "春节玩什么 | 过年聚会担心冷场？不妨试试这 10 款多人游戏",
                 "link": "https://sspai.com/post/106374",
                 "published": "2026-02-15"
@@ -28413,7 +28423,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 2,

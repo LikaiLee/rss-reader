@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-02-20】 你住的城市下不下雪？用这份「雪天片单」感受浪漫季节](https://sspai.com/post/94704)
+* [【2026-02-19】 新玩意 236｜少数派的编辑们最近买了啥？](https://sspai.com/post/106451)
 * [【2026-02-15】 春节玩什么 | 过年聚会担心冷场？不妨试试这 10 款多人游戏](https://sspai.com/post/106374)
 * [【2026-02-14】 新年拒酒指南：除了头孢还有什么拒酒的好借口](https://sspai.com/post/106300)
 * [【2026-02-13】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/106352)
@@ -43,8 +45,6 @@
 * [【2026-02-13】 Kali LP-UNF：我心中的入门级桌面音箱最优解](https://sspai.com/post/106144)
 * [【2026-02-13】 派早报：智谱上线并开源 GLM-5 模型、网信办开展春节清朗行动](https://sspai.com/post/106337)
 * [【2026-02-12】 春节长途旅行，这 6 款耐玩小游戏先备好](https://sspai.com/post/106284)
-* [【2026-02-12】 iOS 26.3 值得关注的新特性](https://sspai.com/post/106202)
-* [【2026-02-12】 普通人更要多动手：聊聊我把 Claude Code 变成个人助手后的那些事](https://sspai.com/post/105331)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-19 05:56:55
+:alarm_clock: 更新时间: 2026-02-20 05:51:47
