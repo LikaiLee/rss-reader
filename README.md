@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-02-21】 AI 十字路口：当机器学会「思考」，我们应该知道什么？](https://sspai.com/post/106285)
 * [【2026-02-20】 你住的城市下不下雪？用这份「雪天片单」感受浪漫季节](https://sspai.com/post/94704)
 * [【2026-02-19】 新玩意 236｜少数派的编辑们最近买了啥？](https://sspai.com/post/106451)
 * [【2026-02-15】 春节玩什么 | 过年聚会担心冷场？不妨试试这 10 款多人游戏](https://sspai.com/post/106374)
@@ -44,7 +45,6 @@
 * [【2026-02-13】 《英语自学手册》作者、创作者郝海龙都装了啥？](https://sspai.com/prime/story/zhuanglesha-260213)
 * [【2026-02-13】 Kali LP-UNF：我心中的入门级桌面音箱最优解](https://sspai.com/post/106144)
 * [【2026-02-13】 派早报：智谱上线并开源 GLM-5 模型、网信办开展春节清朗行动](https://sspai.com/post/106337)
-* [【2026-02-12】 春节长途旅行，这 6 款耐玩小游戏先备好](https://sspai.com/post/106284)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-20 05:51:47
+:alarm_clock: 更新时间: 2026-02-21 05:39:47

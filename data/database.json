@@ -1158,6 +1158,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "AI 十字路口：当机器学会「思考」，我们应该知道什么？",
+                "link": "https://sspai.com/post/106285",
+                "published": "2026-02-21"
+            },
+            {
                 "title": "你住的城市下不下雪？用这份「雪天片单」感受浪漫季节",
                 "link": "https://sspai.com/post/94704",
                 "published": "2026-02-20"
@@ -28423,7 +28428,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
