@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-02-23】 插混换到纯电的两万公里后，我不再有里程焦虑了](https://sspai.com/post/105647)
+* [【2026-02-22】 日本：红枫季的关东与关西（关东篇）](https://sspai.com/post/104473)
 * [【2026-02-21】 AI 十字路口：当机器学会「思考」，我们应该知道什么？](https://sspai.com/post/106285)
 * [【2026-02-20】 你住的城市下不下雪？用这份「雪天片单」感受浪漫季节](https://sspai.com/post/94704)
 * [【2026-02-19】 新玩意 236｜少数派的编辑们最近买了啥？](https://sspai.com/post/106451)
@@ -43,8 +45,6 @@
 * [【2026-02-13】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/106352)
 * [【2026-02-13】 或许，这就是「跨场景」个人终端的理想形态：CES 2026 后的 Khadas Mind 2体验](https://sspai.com/post/105853)
 * [【2026-02-13】 《英语自学手册》作者、创作者郝海龙都装了啥？](https://sspai.com/prime/story/zhuanglesha-260213)
-* [【2026-02-13】 Kali LP-UNF：我心中的入门级桌面音箱最优解](https://sspai.com/post/106144)
-* [【2026-02-13】 派早报：智谱上线并开源 GLM-5 模型、网信办开展春节清朗行动](https://sspai.com/post/106337)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-22 05:50:05
+:alarm_clock: 更新时间: 2026-02-23 06:03:53
