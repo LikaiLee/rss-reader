@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-02-24】 AI 时代的工具本地化：构建稳定、可迁移的数字堡垒](https://sspai.com/post/105218)
+* [【2026-02-23】 派早报：三星将 Perplexity AI 引入 Galaxy 手机等](https://sspai.com/post/106538)
 * [【2026-02-23】 插混换到纯电的两万公里后，我不再有里程焦虑了](https://sspai.com/post/105647)
 * [【2026-02-22】 日本：红枫季的关东与关西（关东篇）](https://sspai.com/post/104473)
 * [【2026-02-21】 AI 十字路口：当机器学会「思考」，我们应该知道什么？](https://sspai.com/post/106285)
@@ -43,8 +45,6 @@
 * [【2026-02-15】 春节玩什么 | 过年聚会担心冷场？不妨试试这 10 款多人游戏](https://sspai.com/post/106374)
 * [【2026-02-14】 新年拒酒指南：除了头孢还有什么拒酒的好借口](https://sspai.com/post/106300)
 * [【2026-02-13】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/106352)
-* [【2026-02-13】 或许，这就是「跨场景」个人终端的理想形态：CES 2026 后的 Khadas Mind 2体验](https://sspai.com/post/105853)
-* [【2026-02-13】 《英语自学手册》作者、创作者郝海龙都装了啥？](https://sspai.com/prime/story/zhuanglesha-260213)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-23 06:03:53
+:alarm_clock: 更新时间: 2026-02-24 05:57:03
