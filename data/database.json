@@ -1158,6 +1158,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享",
+                "link": "https://sspai.com/post/105621",
+                "published": "2026-02-25"
+            },
+            {
+                "title": "派早报：五角大楼对 Anthropic 下达最后通牒、松下外包电视业务",
+                "link": "https://sspai.com/post/106568",
+                "published": "2026-02-25"
+            },
+            {
+                "title": "社区速递 130 | 演唱会摄影利器体验、几十块钱的旅行「安全感」",
+                "link": "https://sspai.com/post/106547",
+                "published": "2026-02-24"
+            },
+            {
+                "title": "旅居在滇西小城，体验美食与美景",
+                "link": "https://sspai.com/post/106056",
+                "published": "2026-02-24"
+            },
+            {
                 "title": "AI 时代的工具本地化：构建稳定、可迁移的数字堡垒",
                 "link": "https://sspai.com/post/105218",
                 "published": "2026-02-24"
@@ -28448,7 +28468,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,

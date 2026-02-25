@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-02-25】 出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享](https://sspai.com/post/105621)
+* [【2026-02-25】 派早报：五角大楼对 Anthropic 下达最后通牒、松下外包电视业务](https://sspai.com/post/106568)
+* [【2026-02-24】 社区速递 130 | 演唱会摄影利器体验、几十块钱的旅行「安全感」](https://sspai.com/post/106547)
+* [【2026-02-24】 旅居在滇西小城，体验美食与美景](https://sspai.com/post/106056)
 * [【2026-02-24】 AI 时代的工具本地化：构建稳定、可迁移的数字堡垒](https://sspai.com/post/105218)
 * [【2026-02-23】 派早报：三星将 Perplexity AI 引入 Galaxy 手机等](https://sspai.com/post/106538)
 * [【2026-02-23】 插混换到纯电的两万公里后，我不再有里程焦虑了](https://sspai.com/post/105647)
 * [【2026-02-22】 日本：红枫季的关东与关西（关东篇）](https://sspai.com/post/104473)
 * [【2026-02-21】 AI 十字路口：当机器学会「思考」，我们应该知道什么？](https://sspai.com/post/106285)
 * [【2026-02-20】 你住的城市下不下雪？用这份「雪天片单」感受浪漫季节](https://sspai.com/post/94704)
-* [【2026-02-19】 新玩意 236｜少数派的编辑们最近买了啥？](https://sspai.com/post/106451)
-* [【2026-02-15】 春节玩什么 | 过年聚会担心冷场？不妨试试这 10 款多人游戏](https://sspai.com/post/106374)
-* [【2026-02-14】 新年拒酒指南：除了头孢还有什么拒酒的好借口](https://sspai.com/post/106300)
-* [【2026-02-13】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/106352)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-24 05:57:03
+:alarm_clock: 更新时间: 2026-02-25 05:59:08
