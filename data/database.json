@@ -1158,6 +1158,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异",
+                "link": "https://sspai.com/prime/story/on-dsstore",
+                "published": "2026-02-26"
+            },
+            {
+                "title": "派早报：三星发布 S26 系列手机、Anthropic 的新动态等",
+                "link": "https://sspai.com/post/106602",
+                "published": "2026-02-26"
+            },
+            {
+                "title": "在 AI 的帮助下，给自己建了个数字人生档案馆",
+                "link": "https://sspai.com/post/106401",
+                "published": "2026-02-25"
+            },
+            {
                 "title": "出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享",
                 "link": "https://sspai.com/post/105621",
                 "published": "2026-02-25"
@@ -28468,7 +28483,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,

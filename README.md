@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-02-26】 再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异](https://sspai.com/prime/story/on-dsstore)
+* [【2026-02-26】 派早报：三星发布 S26 系列手机、Anthropic 的新动态等](https://sspai.com/post/106602)
+* [【2026-02-25】 在 AI 的帮助下，给自己建了个数字人生档案馆](https://sspai.com/post/106401)
 * [【2026-02-25】 出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享](https://sspai.com/post/105621)
 * [【2026-02-25】 派早报：五角大楼对 Anthropic 下达最后通牒、松下外包电视业务](https://sspai.com/post/106568)
 * [【2026-02-24】 社区速递 130 | 演唱会摄影利器体验、几十块钱的旅行「安全感」](https://sspai.com/post/106547)
@@ -42,9 +45,6 @@
 * [【2026-02-24】 AI 时代的工具本地化：构建稳定、可迁移的数字堡垒](https://sspai.com/post/105218)
 * [【2026-02-23】 派早报：三星将 Perplexity AI 引入 Galaxy 手机等](https://sspai.com/post/106538)
 * [【2026-02-23】 插混换到纯电的两万公里后，我不再有里程焦虑了](https://sspai.com/post/105647)
-* [【2026-02-22】 日本：红枫季的关东与关西（关东篇）](https://sspai.com/post/104473)
-* [【2026-02-21】 AI 十字路口：当机器学会「思考」，我们应该知道什么？](https://sspai.com/post/106285)
-* [【2026-02-20】 你住的城市下不下雪？用这份「雪天片单」感受浪漫季节](https://sspai.com/post/94704)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-25 05:59:08
+:alarm_clock: 更新时间: 2026-02-26 05:55:52
