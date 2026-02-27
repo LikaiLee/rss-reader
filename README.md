@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-02-27】 科技爱好者周刊（第 386 期）：当外卖员接入 AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html)
 * [【2026-02-14】 字节全家桶 Seed 2.0 + TRAE 玩转 Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html)
 * [【2026-02-12】 科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html)
 * [【2026-02-12】 智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)
@@ -25,7 +26,6 @@
 * [【2026-01-23】 科技爱好者周刊（第 382 期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html)
 * [【2026-01-22】 AI native Workspace 也许是智能体的下一阶段](http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html)
 * [【2026-01-16】 科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html)
-* [【2026-01-09】 科技爱好者周刊（第 380 期）：为什么人们拥抱"不对称收益"](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-02-27】 截稿顺延｜将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛](https://sspai.com/post/105630)
+* [【2026-02-27】 派早报：Apple 确认将于三月发布多款新品等](https://sspai.com/post/106637)
+* [【2026-02-26】 具透 Plus：Obsidian 有了命令行界面，Android 17 Beta 真的在「战未来」了](https://sspai.com/prime/story/inside-release-notes-260226)
+* [【2026-02-26】 REDMI Buds 8 Pro 降噪真无线耳机体验 - TDS REVIEW](https://sspai.com/post/106521)
+* [【2026-02-26】 2025年育儿手记：从家到幼儿园](https://sspai.com/post/106488)
+* [【2026-02-26】 深度横评：2026 年，AI 生成 PPT 到底进化到什么程度了？](https://sspai.com/post/105484)
 * [【2026-02-26】 再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异](https://sspai.com/prime/story/on-dsstore)
 * [【2026-02-26】 派早报：三星发布 S26 系列手机、Anthropic 的新动态等](https://sspai.com/post/106602)
 * [【2026-02-25】 在 AI 的帮助下，给自己建了个数字人生档案馆](https://sspai.com/post/106401)
 * [【2026-02-25】 出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享](https://sspai.com/post/105621)
-* [【2026-02-25】 派早报：五角大楼对 Anthropic 下达最后通牒、松下外包电视业务](https://sspai.com/post/106568)
-* [【2026-02-24】 社区速递 130 | 演唱会摄影利器体验、几十块钱的旅行「安全感」](https://sspai.com/post/106547)
-* [【2026-02-24】 旅居在滇西小城，体验美食与美景](https://sspai.com/post/106056)
-* [【2026-02-24】 AI 时代的工具本地化：构建稳定、可迁移的数字堡垒](https://sspai.com/post/105218)
-* [【2026-02-23】 派早报：三星将 Perplexity AI 引入 Galaxy 手机等](https://sspai.com/post/106538)
-* [【2026-02-23】 插混换到纯电的两万公里后，我不再有里程焦虑了](https://sspai.com/post/105647)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-26 05:55:52
+:alarm_clock: 更新时间: 2026-02-27 05:50:53

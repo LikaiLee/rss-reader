@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 386 期）：当外卖员接入 AI",
+                "link": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html",
+                "published": "2026-02-27"
+            },
+            {
                 "title": "字节全家桶 Seed 2.0 + TRAE 玩转 Skill",
                 "link": "http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html",
                 "published": "2026-02-14"
@@ -1150,13 +1155,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "截稿顺延｜将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛",
+                "link": "https://sspai.com/post/105630",
+                "published": "2026-02-27"
+            },
+            {
+                "title": "派早报：Apple 确认将于三月发布多款新品等",
+                "link": "https://sspai.com/post/106637",
+                "published": "2026-02-27"
+            },
+            {
+                "title": "具透 Plus：Obsidian 有了命令行界面，Android 17 Beta 真的在「战未来」了",
+                "link": "https://sspai.com/prime/story/inside-release-notes-260226",
+                "published": "2026-02-26"
+            },
+            {
+                "title": "REDMI Buds 8 Pro 降噪真无线耳机体验 - TDS REVIEW",
+                "link": "https://sspai.com/post/106521",
+                "published": "2026-02-26"
+            },
+            {
+                "title": "2025年育儿手记：从家到幼儿园",
+                "link": "https://sspai.com/post/106488",
+                "published": "2026-02-26"
+            },
+            {
+                "title": "深度横评：2026 年，AI 生成 PPT 到底进化到什么程度了？",
+                "link": "https://sspai.com/post/105484",
+                "published": "2026-02-26"
+            },
             {
                 "title": "再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异",
                 "link": "https://sspai.com/prime/story/on-dsstore",
@@ -28483,7 +28518,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
