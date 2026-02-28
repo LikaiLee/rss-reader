@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-02-27】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/106661)
+* [【2026-02-27】 Vibe Coding 实战复盘：手搓飞天小女警「卡点跑酷」](https://sspai.com/post/106050)
+* [【2026-02-27】 当恐惧有了两种模样：《生化危机 9：安魂曲》评测](https://sspai.com/post/106645)
 * [【2026-02-27】 截稿顺延｜将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛](https://sspai.com/post/105630)
 * [【2026-02-27】 派早报：Apple 确认将于三月发布多款新品等](https://sspai.com/post/106637)
 * [【2026-02-26】 具透 Plus：Obsidian 有了命令行界面，Android 17 Beta 真的在「战未来」了](https://sspai.com/prime/story/inside-release-notes-260226)
@@ -42,9 +45,6 @@
 * [【2026-02-26】 2025年育儿手记：从家到幼儿园](https://sspai.com/post/106488)
 * [【2026-02-26】 深度横评：2026 年，AI 生成 PPT 到底进化到什么程度了？](https://sspai.com/post/105484)
 * [【2026-02-26】 再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异](https://sspai.com/prime/story/on-dsstore)
-* [【2026-02-26】 派早报：三星发布 S26 系列手机、Anthropic 的新动态等](https://sspai.com/post/106602)
-* [【2026-02-25】 在 AI 的帮助下，给自己建了个数字人生档案馆](https://sspai.com/post/106401)
-* [【2026-02-25】 出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享](https://sspai.com/post/105621)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-02-27 05:50:53
+:alarm_clock: 更新时间: 2026-02-28 05:31:26

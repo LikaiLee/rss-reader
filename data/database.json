@@ -1155,13 +1155,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/106661",
+                "published": "2026-02-27"
+            },
+            {
+                "title": "Vibe Coding 实战复盘：手搓飞天小女警「卡点跑酷」",
+                "link": "https://sspai.com/post/106050",
+                "published": "2026-02-27"
+            },
+            {
+                "title": "当恐惧有了两种模样：《生化危机 9：安魂曲》评测",
+                "link": "https://sspai.com/post/106645",
+                "published": "2026-02-27"
+            },
             {
                 "title": "截稿顺延｜将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛",
                 "link": "https://sspai.com/post/105630",
@@ -28518,7 +28533,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 2,
