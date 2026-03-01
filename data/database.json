@@ -1163,6 +1163,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文｜LLM 眼中的好文章：少数派 2025 热门内容解码",
+                "link": "https://sspai.com/post/106469",
+                "published": "2026-02-28"
+            },
+            {
+                "title": "年度征文｜2025 年育儿手记：从家到幼儿园",
+                "link": "https://sspai.com/post/106488",
+                "published": "2026-02-26"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 10 部作品",
                 "link": "https://sspai.com/post/106661",
                 "published": "2026-02-27"
@@ -28533,7 +28543,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 2,
