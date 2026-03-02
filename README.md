@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-03-02】 年度征文｜2025 年总结：一个纠结党试图向 AI 外包他的意志](https://sspai.com/post/106438)
+* [【2026-03-01】 派早报：OpenAI 接替 Anthropic 与五角大楼达成合作](https://sspai.com/post/106730)
+* [【2026-03-01】 一日一技｜用频谱分析找出「假无损」音乐](https://sspai.com/post/106454)
 * [【2026-02-28】 年度征文｜LLM 眼中的好文章：少数派 2025 热门内容解码](https://sspai.com/post/106469)
 * [【2026-02-26】 年度征文｜2025 年育儿手记：从家到幼儿园](https://sspai.com/post/106488)
 * [【2026-02-27】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/106661)
@@ -42,9 +45,6 @@
 * [【2026-02-27】 当恐惧有了两种模样：《生化危机 9：安魂曲》评测](https://sspai.com/post/106645)
 * [【2026-02-27】 截稿顺延｜将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛](https://sspai.com/post/105630)
 * [【2026-02-27】 派早报：Apple 确认将于三月发布多款新品等](https://sspai.com/post/106637)
-* [【2026-02-26】 具透 Plus：Obsidian 有了命令行界面，Android 17 Beta 真的在「战未来」了](https://sspai.com/prime/story/inside-release-notes-260226)
-* [【2026-02-26】 REDMI Buds 8 Pro 降噪真无线耳机体验 - TDS REVIEW](https://sspai.com/post/106521)
-* [【2026-02-26】 2025年育儿手记：从家到幼儿园](https://sspai.com/post/106488)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-01 05:50:28
+:alarm_clock: 更新时间: 2026-03-02 05:50:59

@@ -1163,6 +1163,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文｜2025 年总结：一个纠结党试图向 AI 外包他的意志",
+                "link": "https://sspai.com/post/106438",
+                "published": "2026-03-02"
+            },
+            {
+                "title": "派早报：OpenAI 接替 Anthropic 与五角大楼达成合作",
+                "link": "https://sspai.com/post/106730",
+                "published": "2026-03-01"
+            },
+            {
+                "title": "一日一技｜用频谱分析找出「假无损」音乐",
+                "link": "https://sspai.com/post/106454",
+                "published": "2026-03-01"
+            },
+            {
                 "title": "年度征文｜LLM 眼中的好文章：少数派 2025 热门内容解码",
                 "link": "https://sspai.com/post/106469",
                 "published": "2026-02-28"
@@ -28543,7 +28558,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
