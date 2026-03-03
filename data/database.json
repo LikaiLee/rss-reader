@@ -1163,6 +1163,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "破译还是致盲？我是如何用 AI 啃下全英文编程课程的",
+                "link": "https://sspai.com/post/106570",
+                "published": "2026-03-03"
+            },
+            {
+                "title": "派早报：Apple 发布 iPhone 17e 与搭载 M4 芯片的 iPad Air 等新品",
+                "link": "https://sspai.com/post/106766",
+                "published": "2026-03-03"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/106749",
+                "published": "2026-03-02"
+            },
+            {
+                "title": "给 Lumia 1020 用户的 Windows 8.1 漫游指南（2026）",
+                "link": "https://sspai.com/post/106467",
+                "published": "2026-03-02"
+            },
+            {
                 "title": "年度征文｜2025 年总结：一个纠结党试图向 AI 外包他的意志",
                 "link": "https://sspai.com/post/106438",
                 "published": "2026-03-02"
@@ -28558,7 +28578,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
