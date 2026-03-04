@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-03-04】 一日一技｜将 Obsidian 剪藏文章自动添加至当天日记](https://sspai.com/post/106660)
+* [【2026-03-03】 派早报：Apple 发布 M5 系列芯片及 Studio Display、MacBook 系列新品](https://sspai.com/post/106811)
+* [【2026-03-03】 社区速递 131 | 派友们的一月好物大赏、给桌面风扇装上「机械臂」](https://sspai.com/post/106782)
+* [【2026-03-03】 失忆是怎么一回事：谈谈经典影视里失忆套路的真实一面](https://sspai.com/post/106372)
+* [【2026-03-02】 给 Lumia 1020 用户的 Windows Phone 8.1 漫游指南（2026）](https://sspai.com/post/106467)
 * [【2026-03-03】 破译还是致盲？我是如何用 AI 啃下全英文编程课程的](https://sspai.com/post/106570)
 * [【2026-03-03】 派早报：Apple 发布 iPhone 17e 与搭载 M4 芯片的 iPad Air 等新品](https://sspai.com/post/106766)
 * [【2026-03-02】 派评 | 近期值得关注的 App](https://sspai.com/post/106749)
 * [【2026-03-02】 给 Lumia 1020 用户的 Windows 8.1 漫游指南（2026）](https://sspai.com/post/106467)
 * [【2026-03-02】 年度征文｜2025 年总结：一个纠结党试图向 AI 外包他的意志](https://sspai.com/post/106438)
-* [【2026-03-01】 派早报：OpenAI 接替 Anthropic 与五角大楼达成合作](https://sspai.com/post/106730)
-* [【2026-03-01】 一日一技｜用频谱分析找出「假无损」音乐](https://sspai.com/post/106454)
-* [【2026-02-28】 年度征文｜LLM 眼中的好文章：少数派 2025 热门内容解码](https://sspai.com/post/106469)
-* [【2026-02-26】 年度征文｜2025 年育儿手记：从家到幼儿园](https://sspai.com/post/106488)
-* [【2026-02-27】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/106661)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-03 05:47:30
+:alarm_clock: 更新时间: 2026-03-04 05:41:06
