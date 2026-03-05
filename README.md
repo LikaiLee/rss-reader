@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-03-05】 靠大模型「吵架」完成固件逆向，我有哪些心得体会？](https://sspai.com/post/106443)
+* [【2026-03-05】 派早报：Apple 推出 MacBook Neo、Setapp 调整商业模式等](https://sspai.com/post/106844)
+* [【2026-03-04】 在季节交替的时候，一次聊清烦人的花粉症](https://sspai.com/prime/story/pollen-allergy-a-guide)
+* [【2026-03-04】 年度征文｜至亲离世的 2025，我像是玩了一局成长游戏并做了一份攻略](https://sspai.com/post/106497)
+* [【2026-03-04】 从采集到回顾，我用 AI 搭建了一套个人信息处理系统](https://sspai.com/post/106477)
 * [【2026-03-04】 一日一技｜将 Obsidian 剪藏文章自动添加至当天日记](https://sspai.com/post/106660)
 * [【2026-03-03】 派早报：Apple 发布 M5 系列芯片及 Studio Display、MacBook 系列新品](https://sspai.com/post/106811)
 * [【2026-03-03】 社区速递 131 | 派友们的一月好物大赏、给桌面风扇装上「机械臂」](https://sspai.com/post/106782)
 * [【2026-03-03】 失忆是怎么一回事：谈谈经典影视里失忆套路的真实一面](https://sspai.com/post/106372)
 * [【2026-03-02】 给 Lumia 1020 用户的 Windows Phone 8.1 漫游指南（2026）](https://sspai.com/post/106467)
-* [【2026-03-03】 破译还是致盲？我是如何用 AI 啃下全英文编程课程的](https://sspai.com/post/106570)
-* [【2026-03-03】 派早报：Apple 发布 iPhone 17e 与搭载 M4 芯片的 iPad Air 等新品](https://sspai.com/post/106766)
-* [【2026-03-02】 派评 | 近期值得关注的 App](https://sspai.com/post/106749)
-* [【2026-03-02】 给 Lumia 1020 用户的 Windows 8.1 漫游指南（2026）](https://sspai.com/post/106467)
-* [【2026-03-02】 年度征文｜2025 年总结：一个纠结党试图向 AI 外包他的意志](https://sspai.com/post/106438)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-04 05:41:06
+:alarm_clock: 更新时间: 2026-03-05 05:46:05

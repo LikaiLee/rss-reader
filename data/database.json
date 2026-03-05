@@ -1163,6 +1163,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "靠大模型「吵架」完成固件逆向，我有哪些心得体会？",
+                "link": "https://sspai.com/post/106443",
+                "published": "2026-03-05"
+            },
+            {
+                "title": "派早报：Apple 推出 MacBook Neo、Setapp 调整商业模式等",
+                "link": "https://sspai.com/post/106844",
+                "published": "2026-03-05"
+            },
+            {
+                "title": "在季节交替的时候，一次聊清烦人的花粉症",
+                "link": "https://sspai.com/prime/story/pollen-allergy-a-guide",
+                "published": "2026-03-04"
+            },
+            {
+                "title": "年度征文｜至亲离世的 2025，我像是玩了一局成长游戏并做了一份攻略",
+                "link": "https://sspai.com/post/106497",
+                "published": "2026-03-04"
+            },
+            {
+                "title": "从采集到回顾，我用 AI 搭建了一套个人信息处理系统",
+                "link": "https://sspai.com/post/106477",
+                "published": "2026-03-04"
+            },
+            {
                 "title": "一日一技｜将 Obsidian 剪藏文章自动添加至当天日记",
                 "link": "https://sspai.com/post/106660",
                 "published": "2026-03-04"
