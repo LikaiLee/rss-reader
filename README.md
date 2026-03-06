@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-03-05】 科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html)
 * [【2026-02-27】 科技爱好者周刊（第 386 期）：当外卖员接入 AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html)
 * [【2026-02-14】 字节全家桶 Seed 2.0 + TRAE 玩转 Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html)
 * [【2026-02-12】 科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html)
@@ -25,7 +26,6 @@
 * [【2026-01-29】 Kimi 的一体化，Manus 的分层](http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html)
 * [【2026-01-23】 科技爱好者周刊（第 382 期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html)
 * [【2026-01-22】 AI native Workspace 也许是智能体的下一阶段](http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html)
-* [【2026-01-16】 科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-03-06】 一日一技｜用 NAS 与 LanCache 构建本地游戏缓存服务器](https://sspai.com/post/106796)
+* [【2026-03-06】 派早报：Aqara 发布集悦妙控屏 S1 Plus Siri 版等](https://sspai.com/post/106880)
+* [【2026-03-05】 新玩意 237｜少数派的编辑们最近买了啥？](https://sspai.com/post/106868)
+* [【2026-03-05】 开赛在即，疾速入坑：F1 2026 观赛指南](https://sspai.com/post/103846)
 * [【2026-03-05】 靠大模型「吵架」完成固件逆向，我有哪些心得体会？](https://sspai.com/post/106443)
 * [【2026-03-05】 派早报：Apple 推出 MacBook Neo、Setapp 调整商业模式等](https://sspai.com/post/106844)
 * [【2026-03-04】 在季节交替的时候，一次聊清烦人的花粉症](https://sspai.com/prime/story/pollen-allergy-a-guide)
 * [【2026-03-04】 年度征文｜至亲离世的 2025，我像是玩了一局成长游戏并做了一份攻略](https://sspai.com/post/106497)
 * [【2026-03-04】 从采集到回顾，我用 AI 搭建了一套个人信息处理系统](https://sspai.com/post/106477)
 * [【2026-03-04】 一日一技｜将 Obsidian 剪藏文章自动添加至当天日记](https://sspai.com/post/106660)
-* [【2026-03-03】 派早报：Apple 发布 M5 系列芯片及 Studio Display、MacBook 系列新品](https://sspai.com/post/106811)
-* [【2026-03-03】 社区速递 131 | 派友们的一月好物大赏、给桌面风扇装上「机械臂」](https://sspai.com/post/106782)
-* [【2026-03-03】 失忆是怎么一回事：谈谈经典影视里失忆套路的真实一面](https://sspai.com/post/106372)
-* [【2026-03-02】 给 Lumia 1020 用户的 Windows Phone 8.1 漫游指南（2026）](https://sspai.com/post/106467)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-05 05:46:05
+:alarm_clock: 更新时间: 2026-03-06 05:42:41

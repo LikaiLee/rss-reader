@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 387 期）：你是领先的",
+                "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html",
+                "published": "2026-03-05"
+            },
+            {
                 "title": "科技爱好者周刊（第 386 期）：当外卖员接入 AI",
                 "link": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html",
                 "published": "2026-02-27"
@@ -1155,13 +1160,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一日一技｜用 NAS 与 LanCache 构建本地游戏缓存服务器",
+                "link": "https://sspai.com/post/106796",
+                "published": "2026-03-06"
+            },
+            {
+                "title": "派早报：Aqara 发布集悦妙控屏 S1 Plus Siri 版等",
+                "link": "https://sspai.com/post/106880",
+                "published": "2026-03-06"
+            },
+            {
+                "title": "新玩意 237｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/106868",
+                "published": "2026-03-05"
+            },
+            {
+                "title": "开赛在即，疾速入坑：F1 2026 观赛指南",
+                "link": "https://sspai.com/post/103846",
+                "published": "2026-03-05"
+            },
             {
                 "title": "靠大模型「吵架」完成固件逆向，我有哪些心得体会？",
                 "link": "https://sspai.com/post/106443",
@@ -28628,7 +28653,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
