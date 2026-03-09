@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-03-09】 年度征文｜荷马与人工智能：一场跨越三千年的「众筹」](https://sspai.com/post/106762)
+* [【2026-03-08】 派早报：苹果禁止美国用户下载中国版字节跳动应用](https://sspai.com/post/106955)
+* [【2026-03-08】 晚安，明天见：Arrows N 与富士通的退场](https://sspai.com/post/106483)
 * [【2026-03-07】 年度征文｜在新加坡，住最昂贵的房子，过最憋屈的日子](https://sspai.com/post/106743)
 * [【2026-03-06】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/106906)
 * [【2026-03-06】 常用 Excel「奇技淫巧」，助你在新的一年处理数据事半功倍，「马到成功」](https://sspai.com/prime/story/excel-tips)
@@ -42,9 +45,6 @@
 * [【2026-03-06】 一日一技｜用 NAS 与 LanCache 构建本地游戏缓存服务器](https://sspai.com/post/106796)
 * [【2026-03-06】 派早报：Aqara 发布集悦妙控屏 S1 Plus Siri 版等](https://sspai.com/post/106880)
 * [【2026-03-05】 新玩意 237｜少数派的编辑们最近买了啥？](https://sspai.com/post/106868)
-* [【2026-03-05】 开赛在即，疾速入坑：F1 2026 观赛指南](https://sspai.com/post/103846)
-* [【2026-03-05】 靠大模型「吵架」完成固件逆向，我有哪些心得体会？](https://sspai.com/post/106443)
-* [【2026-03-05】 派早报：Apple 推出 MacBook Neo、Setapp 调整商业模式等](https://sspai.com/post/106844)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-08 05:40:54
+:alarm_clock: 更新时间: 2026-03-09 05:55:48

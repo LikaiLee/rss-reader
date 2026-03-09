@@ -1168,6 +1168,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文｜荷马与人工智能：一场跨越三千年的「众筹」",
+                "link": "https://sspai.com/post/106762",
+                "published": "2026-03-09"
+            },
+            {
+                "title": "派早报：苹果禁止美国用户下载中国版字节跳动应用",
+                "link": "https://sspai.com/post/106955",
+                "published": "2026-03-08"
+            },
+            {
+                "title": "晚安，明天见：Arrows N 与富士通的退场",
+                "link": "https://sspai.com/post/106483",
+                "published": "2026-03-08"
+            },
+            {
                 "title": "年度征文｜在新加坡，住最昂贵的房子，过最憋屈的日子",
                 "link": "https://sspai.com/post/106743",
                 "published": "2026-03-07"
@@ -28673,7 +28688,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 2,
