@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-03-10】 年度征文 | 信息消费：七年后的再审视](https://sspai.com/post/106845)
+* [【2026-03-10】 派早报：达摩院发布脂肪肝筛查 AI 模型 MAOSS 等](https://sspai.com/post/107001)
+* [【2026-03-09】 一次有诚意的升级，一份加量不加价的体验：iPhone 17e 首发体验](https://sspai.com/post/106983)
+* [【2026-03-09】 一次常规的升级，一个适合更多人的选择：新款 iPad Air 首发体验](https://sspai.com/post/106985)
+* [【2026-03-09】 年度征文｜「体商」叙事：在你的二极管感到疼痛之前](https://sspai.com/post/106567)
+* [【2026-03-09】 派评｜近期值得关注的 App](https://sspai.com/post/106974)
+* [【2026-03-09】 我与驿站斗智斗勇 3 个月，终于如愿让快递送货上门](https://sspai.com/post/106611)
 * [【2026-03-09】 年度征文｜荷马与人工智能：一场跨越三千年的「众筹」](https://sspai.com/post/106762)
 * [【2026-03-08】 派早报：苹果禁止美国用户下载中国版字节跳动应用](https://sspai.com/post/106955)
 * [【2026-03-08】 晚安，明天见：Arrows N 与富士通的退场](https://sspai.com/post/106483)
-* [【2026-03-07】 年度征文｜在新加坡，住最昂贵的房子，过最憋屈的日子](https://sspai.com/post/106743)
-* [【2026-03-06】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/106906)
-* [【2026-03-06】 常用 Excel「奇技淫巧」，助你在新的一年处理数据事半功倍，「马到成功」](https://sspai.com/prime/story/excel-tips)
-* [【2026-03-06】 年度征文｜给 NPC 接上 AI：重生爽文看不够？我直接做了个能骂反派的游戏](https://sspai.com/post/106789)
-* [【2026-03-06】 一日一技｜用 NAS 与 LanCache 构建本地游戏缓存服务器](https://sspai.com/post/106796)
-* [【2026-03-06】 派早报：Aqara 发布集悦妙控屏 S1 Plus Siri 版等](https://sspai.com/post/106880)
-* [【2026-03-05】 新玩意 237｜少数派的编辑们最近买了啥？](https://sspai.com/post/106868)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-09 05:55:48
+:alarm_clock: 更新时间: 2026-03-10 05:43:15
