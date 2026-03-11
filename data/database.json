@@ -1168,6 +1168,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "【产品团购、直播】少数派十四周年：一场特别的周年回馈活动",
+                "link": "https://sspai.com/post/107020",
+                "published": "2026-03-11"
+            },
+            {
+                "title": "vivo X300 Ultra 影像前瞻：手机摄影边界再突破",
+                "link": "https://sspai.com/post/107021",
+                "published": "2026-03-11"
+            },
+            {
+                "title": "派早报：荣耀 Magic V6 发布、OPPO 宣布上调部分机型售价等",
+                "link": "https://sspai.com/post/107042",
+                "published": "2026-03-10"
+            },
+            {
+                "title": "最便宜的 Mac 笔记本：MacBook Neo 首发体验",
+                "link": "https://sspai.com/post/107031",
+                "published": "2026-03-10"
+            },
+            {
+                "title": "社区速递 132 | 奶爸的 Xreal 1s 观影指南、派友分享小鹏 M03 驾驶体验",
+                "link": "https://sspai.com/post/107008",
+                "published": "2026-03-10"
+            },
+            {
+                "title": "年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？",
+                "link": "https://sspai.com/post/106710",
+                "published": "2026-03-10"
+            },
+            {
                 "title": "年度征文 | 信息消费：七年后的再审视",
                 "link": "https://sspai.com/post/106845",
                 "published": "2026-03-10"
@@ -28723,7 +28753,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 6
     },
     {
         "id": 2,

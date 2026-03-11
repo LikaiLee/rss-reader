@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+7】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-03-11】 【产品团购、直播】少数派十四周年：一场特别的周年回馈活动](https://sspai.com/post/107020)
+* [【2026-03-11】 vivo X300 Ultra 影像前瞻：手机摄影边界再突破](https://sspai.com/post/107021)
+* [【2026-03-10】 派早报：荣耀 Magic V6 发布、OPPO 宣布上调部分机型售价等](https://sspai.com/post/107042)
+* [【2026-03-10】 最便宜的 Mac 笔记本：MacBook Neo 首发体验](https://sspai.com/post/107031)
+* [【2026-03-10】 社区速递 132 | 奶爸的 Xreal 1s 观影指南、派友分享小鹏 M03 驾驶体验](https://sspai.com/post/107008)
+* [【2026-03-10】 年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？](https://sspai.com/post/106710)
 * [【2026-03-10】 年度征文 | 信息消费：七年后的再审视](https://sspai.com/post/106845)
 * [【2026-03-10】 派早报：达摩院发布脂肪肝筛查 AI 模型 MAOSS 等](https://sspai.com/post/107001)
 * [【2026-03-09】 一次有诚意的升级，一份加量不加价的体验：iPhone 17e 首发体验](https://sspai.com/post/106983)
 * [【2026-03-09】 一次常规的升级，一个适合更多人的选择：新款 iPad Air 首发体验](https://sspai.com/post/106985)
-* [【2026-03-09】 年度征文｜「体商」叙事：在你的二极管感到疼痛之前](https://sspai.com/post/106567)
-* [【2026-03-09】 派评｜近期值得关注的 App](https://sspai.com/post/106974)
-* [【2026-03-09】 我与驿站斗智斗勇 3 个月，终于如愿让快递送货上门](https://sspai.com/post/106611)
-* [【2026-03-09】 年度征文｜荷马与人工智能：一场跨越三千年的「众筹」](https://sspai.com/post/106762)
-* [【2026-03-08】 派早报：苹果禁止美国用户下载中国版字节跳动应用](https://sspai.com/post/106955)
-* [【2026-03-08】 晚安，明天见：Arrows N 与富士通的退场](https://sspai.com/post/106483)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-10 05:43:15
+:alarm_clock: 更新时间: 2026-03-11 05:46:55
