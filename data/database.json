@@ -1168,6 +1168,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文｜Vibe Research：社会科学的第一次 AI 危机？",
+                "link": "https://sspai.com/post/106919",
+                "published": "2026-03-12"
+            },
+            {
+                "title": "派早报：Google 发布 Gemini Embedding 2 模型等",
+                "link": "https://sspai.com/post/107110",
+                "published": "2026-03-12"
+            },
+            {
+                "title": "再谈 eSIM 手机：海内外不同手机比较与技术讨论",
+                "link": "https://sspai.com/post/106719",
+                "published": "2026-03-11"
+            },
+            {
+                "title": "两百元，我把吃灰动感单车改造成了万能游戏外设",
+                "link": "https://sspai.com/prime/story/exercise-bike-gaming-peripheral",
+                "published": "2026-03-11"
+            },
+            {
+                "title": "年度征文｜2025 副业备忘录：从 3D 打印到「一人企业」",
+                "link": "https://sspai.com/post/106723",
+                "published": "2026-03-11"
+            },
+            {
+                "title": "城市漫步指南：用 10 天走进东北白山黑水",
+                "link": "https://sspai.com/post/106373",
+                "published": "2026-03-11"
+            },
+            {
+                "title": "产品团购暨直播 | 少数派十四周年：一场特别的周年回馈活动",
+                "link": "https://sspai.com/post/107020",
+                "published": "2026-03-11"
+            },
+            {
                 "title": "【产品团购、直播】少数派十四周年：一场特别的周年回馈活动",
                 "link": "https://sspai.com/post/107020",
                 "published": "2026-03-11"
@@ -28753,7 +28788,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 7
     },
     {
         "id": 2,
