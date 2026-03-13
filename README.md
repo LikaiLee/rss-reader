@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+7】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+2】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,8 @@
     </summary>
 
 
+* [【2026-03-12】 科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)
+* [【2026-03-12】 零安装的"云养虾"：ArkClaw 使用指南](http://www.ruanyifeng.com/blog/2026/03/arkclaw.html)
 * [【2026-03-05】 科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html)
 * [【2026-02-27】 科技爱好者周刊（第 386 期）：当外卖员接入 AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html)
 * [【2026-02-14】 字节全家桶 Seed 2.0 + TRAE 玩转 Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html)
@@ -24,8 +26,6 @@
 * [【2026-02-06】 科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html)
 * [【2026-01-30】 科技爱好者周刊（第 383 期）：你是第几级 AI 编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html)
 * [【2026-01-29】 Kimi 的一体化，Manus 的分层](http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html)
-* [【2026-01-23】 科技爱好者周刊（第 382 期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html)
-* [【2026-01-22】 AI native Workspace 也许是智能体的下一阶段](http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-03-13】 一日一技｜在镜头前翻翻页，你就得到了一本电子书](https://sspai.com/post/106935)
+* [【2026-03-13】 314 周年庆：少数派软件、会员、栏目限时优惠](https://sspai.com/post/107091)
+* [【2026-03-13】 派早报：Apple 宣布下调中国区 App Store 佣金率](https://sspai.com/post/107158)
+* [【2026-03-12】 年度征文｜效率之外，创作的重量](https://sspai.com/post/106746)
+* [【2026-03-12】 Notion 年度更新评测：7 个案例聊聊 Custom Agent](https://sspai.com/post/106982)
 * [【2026-03-12】 年度征文｜Vibe Research：社会科学的第一次 AI 危机？](https://sspai.com/post/106919)
 * [【2026-03-12】 派早报：Google 发布 Gemini Embedding 2 模型等](https://sspai.com/post/107110)
 * [【2026-03-11】 再谈 eSIM 手机：海内外不同手机比较与技术讨论](https://sspai.com/post/106719)
 * [【2026-03-11】 两百元，我把吃灰动感单车改造成了万能游戏外设](https://sspai.com/prime/story/exercise-bike-gaming-peripheral)
 * [【2026-03-11】 年度征文｜2025 副业备忘录：从 3D 打印到「一人企业」](https://sspai.com/post/106723)
-* [【2026-03-11】 城市漫步指南：用 10 天走进东北白山黑水](https://sspai.com/post/106373)
-* [【2026-03-11】 产品团购暨直播 | 少数派十四周年：一场特别的周年回馈活动](https://sspai.com/post/107020)
-* [【2026-03-11】 【产品团购、直播】少数派十四周年：一场特别的周年回馈活动](https://sspai.com/post/107020)
-* [【2026-03-11】 vivo X300 Ultra 影像前瞻：手机摄影边界再突破](https://sspai.com/post/107021)
-* [【2026-03-10】 派早报：荣耀 Magic V6 发布、OPPO 宣布上调部分机型售价等](https://sspai.com/post/107042)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-12 05:49:44
+:alarm_clock: 更新时间: 2026-03-13 05:46:49

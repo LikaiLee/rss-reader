@@ -5,6 +5,16 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 388 期）：测试是新的护城河",
+                "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html",
+                "published": "2026-03-12"
+            },
+            {
+                "title": "零安装的\"云养虾\"：ArkClaw 使用指南",
+                "link": "http://www.ruanyifeng.com/blog/2026/03/arkclaw.html",
+                "published": "2026-03-12"
+            },
+            {
                 "title": "科技爱好者周刊（第 387 期）：你是领先的",
                 "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html",
                 "published": "2026-03-05"
@@ -1160,13 +1170,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "一日一技｜在镜头前翻翻页，你就得到了一本电子书",
+                "link": "https://sspai.com/post/106935",
+                "published": "2026-03-13"
+            },
+            {
+                "title": "314 周年庆：少数派软件、会员、栏目限时优惠",
+                "link": "https://sspai.com/post/107091",
+                "published": "2026-03-13"
+            },
+            {
+                "title": "派早报：Apple 宣布下调中国区 App Store 佣金率",
+                "link": "https://sspai.com/post/107158",
+                "published": "2026-03-13"
+            },
+            {
+                "title": "年度征文｜效率之外，创作的重量",
+                "link": "https://sspai.com/post/106746",
+                "published": "2026-03-12"
+            },
+            {
+                "title": "Notion 年度更新评测：7 个案例聊聊 Custom Agent",
+                "link": "https://sspai.com/post/106982",
+                "published": "2026-03-12"
+            },
             {
                 "title": "年度征文｜Vibe Research：社会科学的第一次 AI 危机？",
                 "link": "https://sspai.com/post/106919",
@@ -28788,7 +28823,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 5
     },
     {
         "id": 2,
