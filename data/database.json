@@ -1170,13 +1170,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "免费试读 | 日本温泉完全指南：如何找、怎么泡、泡哪里？",
+                "link": "https://sspai.com/post/103326",
+                "published": "2026-03-14"
+            },
+            {
+                "title": "Sonos 周年团购限时开启：专属好价仅限今日",
+                "link": "https://sspai.com/post/107134",
+                "published": "2026-03-14"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/107183",
+                "published": "2026-03-13"
+            },
+            {
+                "title": "探访帝国之心，吴哥旅行完全指南（上） ：行程设计",
+                "link": "https://sspai.com/post/106816",
+                "published": "2026-03-13"
+            },
+            {
+                "title": "年度征文｜看见并打开我和我妈之间的那扇门",
+                "link": "https://sspai.com/post/106709",
+                "published": "2026-03-13"
+            },
             {
                 "title": "一日一技｜在镜头前翻翻页，你就得到了一本电子书",
                 "link": "https://sspai.com/post/106935",
