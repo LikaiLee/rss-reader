@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-03-15】 今夜，大模型从世界消散](https://sspai.com/post/106939)
+* [【2026-03-14】 年度征文｜减了肥，人生就会变好吗？](https://sspai.com/post/106785)
 * [【2026-03-14】 免费试读 | 日本温泉完全指南：如何找、怎么泡、泡哪里？](https://sspai.com/post/103326)
 * [【2026-03-14】 Sonos 周年团购限时开启：专属好价仅限今日](https://sspai.com/post/107134)
 * [【2026-03-13】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/107183)
@@ -43,8 +45,6 @@
 * [【2026-03-13】 一日一技｜在镜头前翻翻页，你就得到了一本电子书](https://sspai.com/post/106935)
 * [【2026-03-13】 314 周年庆：少数派软件、会员、栏目限时优惠](https://sspai.com/post/107091)
 * [【2026-03-13】 派早报：Apple 宣布下调中国区 App Store 佣金率](https://sspai.com/post/107158)
-* [【2026-03-12】 年度征文｜效率之外，创作的重量](https://sspai.com/post/106746)
-* [【2026-03-12】 Notion 年度更新评测：7 个案例聊聊 Custom Agent](https://sspai.com/post/106982)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-14 05:43:06
+:alarm_clock: 更新时间: 2026-03-15 06:03:40

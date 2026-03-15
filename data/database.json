@@ -1178,6 +1178,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "今夜，大模型从世界消散",
+                "link": "https://sspai.com/post/106939",
+                "published": "2026-03-15"
+            },
+            {
+                "title": "年度征文｜减了肥，人生就会变好吗？",
+                "link": "https://sspai.com/post/106785",
+                "published": "2026-03-14"
+            },
+            {
                 "title": "免费试读 | 日本温泉完全指南：如何找、怎么泡、泡哪里？",
                 "link": "https://sspai.com/post/103326",
                 "published": "2026-03-14"
@@ -28848,7 +28858,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
