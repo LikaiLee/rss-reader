@@ -1178,6 +1178,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "为心脏健康持续护航，Apple Watch 房颤迹象记录软件功能上线",
+                "link": "https://sspai.com/post/107453",
+                "published": "2026-03-17"
+            },
+            {
+                "title": "少数派十四周年直播：我们挑选了这四类好产品",
+                "link": "https://sspai.com/post/107428",
+                "published": "2026-03-17"
+            },
+            {
+                "title": "派早报：Apple 发布 AirPods Max 2，NVIDIA 发布 DLSS 5 等",
+                "link": "https://sspai.com/post/107450",
+                "published": "2026-03-17"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/107431",
+                "published": "2026-03-16"
+            },
+            {
+                "title": "TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验",
+                "link": "https://sspai.com/post/107131",
+                "published": "2026-03-16"
+            },
+            {
+                "title": "年度征文 | 新晋一家三口的秩序重建",
+                "link": "https://sspai.com/post/106839",
+                "published": "2026-03-16"
+            },
+            {
                 "title": "2025 年度征文 | 新晋一家三口的秩序重建",
                 "link": "https://sspai.com/post/106839",
                 "published": "2026-03-16"
@@ -28868,7 +28898,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 6
     },
     {
         "id": 2,
