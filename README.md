@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-03-18】 年度征文｜为时间和精力埋单：我的旅行峰值体验塑造方法论](https://sspai.com/post/106217)
+* [【2026-03-17】 派早报：OPPO Find N6 发布，广汽、华为联合发布「启境」GT7 等](https://sspai.com/post/107485)
+* [【2026-03-17】 社区速递 133 | 派友热议 AI Coding 方案、西圣 Pencil X 平替笔体验](https://sspai.com/post/107466)
+* [【2026-03-17】 年度征文 | 冬游九寨，或许这个季节更适合叙述她的美](https://sspai.com/post/106439)
+* [【2026-03-17】 投票开启｜BeatBox 盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体](https://sspai.com/post/106917)
 * [【2026-03-17】 为心脏健康持续护航，Apple Watch 房颤迹象记录软件功能上线](https://sspai.com/post/107453)
 * [【2026-03-17】 少数派十四周年直播：我们挑选了这四类好产品](https://sspai.com/post/107428)
 * [【2026-03-17】 派早报：Apple 发布 AirPods Max 2，NVIDIA 发布 DLSS 5 等](https://sspai.com/post/107450)
 * [【2026-03-16】 派评 | 近期值得关注的 App](https://sspai.com/post/107431)
 * [【2026-03-16】 TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验](https://sspai.com/post/107131)
-* [【2026-03-16】 年度征文 | 新晋一家三口的秩序重建](https://sspai.com/post/106839)
-* [【2026-03-16】 2025 年度征文 | 新晋一家三口的秩序重建](https://sspai.com/post/106839)
-* [【2026-03-15】 派早报：市场监管总局整治「大字吸睛、小字免责」等广告乱象](https://sspai.com/post/107396)
-* [【2026-03-15】 今夜，大模型从世界消散](https://sspai.com/post/106939)
-* [【2026-03-14】 年度征文｜减了肥，人生就会变好吗？](https://sspai.com/post/106785)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-17 05:57:25
+:alarm_clock: 更新时间: 2026-03-18 06:01:15
