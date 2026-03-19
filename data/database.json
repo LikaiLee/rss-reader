@@ -1178,6 +1178,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：腾讯 QClaw 正式上线、小鹏 P7 发布 Max 版等",
+                "link": "https://sspai.com/post/107514",
+                "published": "2026-03-19"
+            },
+            {
+                "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
+                "link": "https://sspai.com/post/106878",
+                "published": "2026-03-18"
+            },
+            {
+                "title": "越过参数的凝视：哈苏 X2D II 100C 漫谈",
+                "link": "https://sspai.com/post/106734",
+                "published": "2026-03-18"
+            },
+            {
+                "title": "打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant",
+                "link": "https://sspai.com/post/106992",
+                "published": "2026-03-18"
+            },
+            {
                 "title": "年度征文｜为时间和精力埋单：我的旅行峰值体验塑造方法论",
                 "link": "https://sspai.com/post/106217",
                 "published": "2026-03-18"
@@ -28923,7 +28943,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
