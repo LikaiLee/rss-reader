@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-03-19】 科技爱好者周刊（第 389 期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)
 * [【2026-03-12】 科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)
 * [【2026-03-12】 零安装的"云养虾"：ArkClaw 使用指南](http://www.ruanyifeng.com/blog/2026/03/arkclaw.html)
 * [【2026-03-05】 科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html)
@@ -25,7 +26,6 @@
 * [【2026-02-12】 智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)
 * [【2026-02-06】 科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html)
 * [【2026-01-30】 科技爱好者周刊（第 383 期）：你是第几级 AI 编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html)
-* [【2026-01-29】 Kimi 的一体化，Manus 的分层](http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-03-20】 写在世界口腔健康日：正确的刷牙方法以及刷牙的 10 个迷思](https://sspai.com/post/107529)
+* [【2026-03-20】 派早报：小米发布多款新品、稀宇科技发布 MiniMax-M2.7 模型等](https://sspai.com/post/107563)
+* [【2026-03-19】 年度征文 | 沿海公路的出口：10年后，重返宝岛](https://sspai.com/post/97965)
+* [【2026-03-19】 勃朗特三姐妹书影单：贫瘠土地生出的女性之花](https://sspai.com/post/107517)
+* [【2026-03-19】 年度征文 | 最后一页并不存在——我的2025](https://sspai.com/post/106957)
+* [【2026-03-19】 杀死你的不是它：聊聊我们的 AI 的焦虑](https://sspai.com/post/106923)
 * [【2026-03-19】 派早报：腾讯 QClaw 正式上线、小鹏 P7 发布 Max 版等](https://sspai.com/post/107514)
 * [【2026-03-18】 年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？](https://sspai.com/post/106878)
 * [【2026-03-18】 越过参数的凝视：哈苏 X2D II 100C 漫谈](https://sspai.com/post/106734)
 * [【2026-03-18】 打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant](https://sspai.com/post/106992)
-* [【2026-03-18】 年度征文｜为时间和精力埋单：我的旅行峰值体验塑造方法论](https://sspai.com/post/106217)
-* [【2026-03-17】 派早报：OPPO Find N6 发布，广汽、华为联合发布「启境」GT7 等](https://sspai.com/post/107485)
-* [【2026-03-17】 社区速递 133 | 派友热议 AI Coding 方案、西圣 Pencil X 平替笔体验](https://sspai.com/post/107466)
-* [【2026-03-17】 年度征文 | 冬游九寨，或许这个季节更适合叙述她的美](https://sspai.com/post/106439)
-* [【2026-03-17】 投票开启｜BeatBox 盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体](https://sspai.com/post/106917)
-* [【2026-03-17】 为心脏健康持续护航，Apple Watch 房颤迹象记录软件功能上线](https://sspai.com/post/107453)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-19 05:56:31
+:alarm_clock: 更新时间: 2026-03-20 05:50:36
