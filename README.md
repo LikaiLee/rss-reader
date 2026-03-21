@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-03-20】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/107582)
+* [【2026-03-20】 年度征文｜速通新疆，我的穷游攻略](https://sspai.com/post/107202)
 * [【2026-03-20】 写在世界口腔健康日：正确的刷牙方法以及刷牙的 10 个迷思](https://sspai.com/post/107529)
 * [【2026-03-20】 派早报：小米发布多款新品、稀宇科技发布 MiniMax-M2.7 模型等](https://sspai.com/post/107563)
 * [【2026-03-19】 年度征文 | 沿海公路的出口：10年后，重返宝岛](https://sspai.com/post/97965)
@@ -43,8 +45,6 @@
 * [【2026-03-19】 杀死你的不是它：聊聊我们的 AI 的焦虑](https://sspai.com/post/106923)
 * [【2026-03-19】 派早报：腾讯 QClaw 正式上线、小鹏 P7 发布 Max 版等](https://sspai.com/post/107514)
 * [【2026-03-18】 年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？](https://sspai.com/post/106878)
-* [【2026-03-18】 越过参数的凝视：哈苏 X2D II 100C 漫谈](https://sspai.com/post/106734)
-* [【2026-03-18】 打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant](https://sspai.com/post/106992)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-20 05:50:36
+:alarm_clock: 更新时间: 2026-03-21 05:38:59

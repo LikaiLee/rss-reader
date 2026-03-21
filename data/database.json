@@ -1175,13 +1175,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 12 部作品",
+                "link": "https://sspai.com/post/107582",
+                "published": "2026-03-20"
+            },
+            {
+                "title": "年度征文｜速通新疆，我的穷游攻略",
+                "link": "https://sspai.com/post/107202",
+                "published": "2026-03-20"
+            },
             {
                 "title": "写在世界口腔健康日：正确的刷牙方法以及刷牙的 10 个迷思",
                 "link": "https://sspai.com/post/107529",
@@ -28978,7 +28988,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 2,
