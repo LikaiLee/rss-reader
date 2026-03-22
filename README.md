@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-03-21】 套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)
 * [【2026-03-19】 科技爱好者周刊（第 389 期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)
 * [【2026-03-12】 科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)
 * [【2026-03-12】 零安装的"云养虾"：ArkClaw 使用指南](http://www.ruanyifeng.com/blog/2026/03/arkclaw.html)
@@ -25,7 +26,6 @@
 * [【2026-02-12】 科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html)
 * [【2026-02-12】 智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)
 * [【2026-02-06】 科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html)
-* [【2026-01-30】 科技爱好者周刊（第 383 期）：你是第几级 AI 编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-03-21】 App+1｜给「类原生」用户的来电拦截工具：Pixel Telo](https://sspai.com/post/107136)
 * [【2026-03-20】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/107582)
 * [【2026-03-20】 年度征文｜速通新疆，我的穷游攻略](https://sspai.com/post/107202)
 * [【2026-03-20】 写在世界口腔健康日：正确的刷牙方法以及刷牙的 10 个迷思](https://sspai.com/post/107529)
@@ -44,7 +45,6 @@
 * [【2026-03-19】 年度征文 | 最后一页并不存在——我的2025](https://sspai.com/post/106957)
 * [【2026-03-19】 杀死你的不是它：聊聊我们的 AI 的焦虑](https://sspai.com/post/106923)
 * [【2026-03-19】 派早报：腾讯 QClaw 正式上线、小鹏 P7 发布 Max 版等](https://sspai.com/post/107514)
-* [【2026-03-18】 年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？](https://sspai.com/post/106878)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-21 05:38:59
+:alarm_clock: 更新时间: 2026-03-22 05:52:02
