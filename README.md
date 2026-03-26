@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-03-26】 年度征文「决赛圈」：选出你的心中最佳](https://sspai.com/post/107830)
+* [【2026-03-26】 派早报：英特尔推出 IBOT 二进制优化技术、3 英寸小屏手机 Meadow 1 亮相等](https://sspai.com/post/107831)
+* [【2026-03-25】 整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」](https://sspai.com/post/107800)
+* [【2026-03-25】 探访帝国之心，吴哥旅行完全指南（下）：景点体验](https://sspai.com/post/106822)
+* [【2026-03-25】 直面「猝死」这个话题：你需要了解哪些知识？](https://sspai.com/post/65228)
 * [【2026-03-25】 iOS 26.4 值得关注的新特性](https://sspai.com/post/107743)
 * [【2026-03-25】 派早报：一加 15T 正式发布、Apple 推送全平台 26.4 版本更新等](https://sspai.com/post/107769)
 * [【2026-03-24】 社区速递 134 | 派友热议二月买了啥、升降落地阅读支架体验](https://sspai.com/post/107738)
 * [【2026-03-24】 当历史被重新看见：用 Apple 产品辅助古代壁画修复](https://sspai.com/post/107740)
 * [【2026-03-24】 vivo X300 泛亚铁路旅拍：飞车过大关的手机摄影分享](https://sspai.com/post/106909)
-* [【2026-03-24】 派早报：华为举办春季全场景新品发布会等](https://sspai.com/post/107714)
-* [【2026-03-23】 派评 | 近期值得关注的 App](https://sspai.com/post/107690)
-* [【2026-03-23】 Mac 选购指南 2026 春季版](https://sspai.com/post/85735)
-* [【2026-03-23】 一日一技｜基于 Tasker 的节假日补班闹钟怎么做？](https://sspai.com/post/106993)
-* [【2026-03-22】 派早报：微软承诺多项 Windows 11 改善措施](https://sspai.com/post/107674)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-25 05:59:03
+:alarm_clock: 更新时间: 2026-03-26 06:11:20

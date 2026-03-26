@@ -1188,6 +1188,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "年度征文「决赛圈」：选出你的心中最佳",
+                "link": "https://sspai.com/post/107830",
+                "published": "2026-03-26"
+            },
+            {
+                "title": "派早报：英特尔推出 IBOT 二进制优化技术、3 英寸小屏手机 Meadow 1 亮相等",
+                "link": "https://sspai.com/post/107831",
+                "published": "2026-03-26"
+            },
+            {
+                "title": "整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」",
+                "link": "https://sspai.com/post/107800",
+                "published": "2026-03-25"
+            },
+            {
+                "title": "探访帝国之心，吴哥旅行完全指南（下）：景点体验",
+                "link": "https://sspai.com/post/106822",
+                "published": "2026-03-25"
+            },
+            {
+                "title": "直面「猝死」这个话题：你需要了解哪些知识？",
+                "link": "https://sspai.com/post/65228",
+                "published": "2026-03-25"
+            },
+            {
                 "title": "iOS 26.4 值得关注的新特性",
                 "link": "https://sspai.com/post/107743",
                 "published": "2026-03-25"
@@ -29058,7 +29083,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
