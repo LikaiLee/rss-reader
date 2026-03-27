@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-03-26】 科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)
 * [【2026-03-21】 套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)
 * [【2026-03-19】 科技爱好者周刊（第 389 期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)
 * [【2026-03-12】 科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)
@@ -25,7 +26,6 @@
 * [【2026-02-14】 字节全家桶 Seed 2.0 + TRAE 玩转 Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html)
 * [【2026-02-12】 科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html)
 * [【2026-02-12】 智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)
-* [【2026-02-06】 科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-03-27】 一日一技｜用 SD Card Formatter 免费修复越用越慢的 SSD](https://sspai.com/post/106559)
+* [【2026-03-27】 派早报：iQOO 发布 Z11 系列手机等](https://sspai.com/post/107915)
+* [【2026-03-26】 新玩意 238｜少数派的编辑们最近买了啥？](https://sspai.com/post/107863)
+* [【2026-03-26】 住久了没意思？租房常见问题与我的改造原则](https://sspai.com/prime/story/how-to-renovate-a-rental)
+* [【2026-03-26】 空想特摄的浪漫（三）：超级战队系列](https://sspai.com/post/107773)
+* [【2026-03-26】 从走火入魔到退一步海阔天空，我的双拼输入法体验](https://sspai.com/post/106086)
 * [【2026-03-26】 年度征文「决赛圈」：选出你的心中最佳](https://sspai.com/post/107830)
 * [【2026-03-26】 派早报：英特尔推出 IBOT 二进制优化技术、3 英寸小屏手机 Meadow 1 亮相等](https://sspai.com/post/107831)
 * [【2026-03-25】 整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」](https://sspai.com/post/107800)
 * [【2026-03-25】 探访帝国之心，吴哥旅行完全指南（下）：景点体验](https://sspai.com/post/106822)
-* [【2026-03-25】 直面「猝死」这个话题：你需要了解哪些知识？](https://sspai.com/post/65228)
-* [【2026-03-25】 iOS 26.4 值得关注的新特性](https://sspai.com/post/107743)
-* [【2026-03-25】 派早报：一加 15T 正式发布、Apple 推送全平台 26.4 版本更新等](https://sspai.com/post/107769)
-* [【2026-03-24】 社区速递 134 | 派友热议二月买了啥、升降落地阅读支架体验](https://sspai.com/post/107738)
-* [【2026-03-24】 当历史被重新看见：用 Apple 产品辅助古代壁画修复](https://sspai.com/post/107740)
-* [【2026-03-24】 vivo X300 泛亚铁路旅拍：飞车过大关的手机摄影分享](https://sspai.com/post/106909)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-26 06:11:20
+:alarm_clock: 更新时间: 2026-03-27 06:11:29
