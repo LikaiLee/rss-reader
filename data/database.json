@@ -1185,13 +1185,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "写在 Raycast 2.0 前夜：一份不再过时的使用指南",
+                "link": "https://sspai.com/post/107980",
+                "published": "2026-03-28"
+            },
+            {
+                "title": "付费栏目试读 | 词不达意想找表情？不妨试试 Raycast Emoji 选择器",
+                "link": "https://sspai.com/post/107843",
+                "published": "2026-03-28"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 12 部作品",
+                "link": "https://sspai.com/post/107948",
+                "published": "2026-03-27"
+            },
+            {
+                "title": "共创 | 守护孩子的天马行空：《写给家长的幼儿美术启蒙指南》上线",
+                "link": "https://sspai.com/post/107748",
+                "published": "2026-03-27"
+            },
+            {
+                "title": "共创栏目试读 | 美术专业就能做好幼儿美育启蒙吗？",
+                "link": "https://sspai.com/post/101488",
+                "published": "2026-03-27"
+            },
+            {
+                "title": "一日一技 | 用 SD Card Formatter 免费修复越用越慢的 SD 卡",
+                "link": "https://sspai.com/post/106559",
+                "published": "2026-03-27"
+            },
             {
                 "title": "一日一技｜用 SD Card Formatter 免费修复越用越慢的 SSD",
                 "link": "https://sspai.com/post/106559",

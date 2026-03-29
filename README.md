@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-03-28】 写在 Raycast 2.0 前夜：一份不再过时的使用指南](https://sspai.com/post/107980)
+* [【2026-03-28】 付费栏目试读 | 词不达意想找表情？不妨试试 Raycast Emoji 选择器](https://sspai.com/post/107843)
+* [【2026-03-27】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/107948)
+* [【2026-03-27】 共创 | 守护孩子的天马行空：《写给家长的幼儿美术启蒙指南》上线](https://sspai.com/post/107748)
+* [【2026-03-27】 共创栏目试读 | 美术专业就能做好幼儿美育启蒙吗？](https://sspai.com/post/101488)
+* [【2026-03-27】 一日一技 | 用 SD Card Formatter 免费修复越用越慢的 SD 卡](https://sspai.com/post/106559)
 * [【2026-03-27】 一日一技｜用 SD Card Formatter 免费修复越用越慢的 SSD](https://sspai.com/post/106559)
 * [【2026-03-27】 派早报：iQOO 发布 Z11 系列手机等](https://sspai.com/post/107915)
 * [【2026-03-26】 新玩意 238｜少数派的编辑们最近买了啥？](https://sspai.com/post/107863)
 * [【2026-03-26】 住久了没意思？租房常见问题与我的改造原则](https://sspai.com/prime/story/how-to-renovate-a-rental)
-* [【2026-03-26】 空想特摄的浪漫（三）：超级战队系列](https://sspai.com/post/107773)
-* [【2026-03-26】 从走火入魔到退一步海阔天空，我的双拼输入法体验](https://sspai.com/post/106086)
-* [【2026-03-26】 年度征文「决赛圈」：选出你的心中最佳](https://sspai.com/post/107830)
-* [【2026-03-26】 派早报：英特尔推出 IBOT 二进制优化技术、3 英寸小屏手机 Meadow 1 亮相等](https://sspai.com/post/107831)
-* [【2026-03-25】 整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」](https://sspai.com/post/107800)
-* [【2026-03-25】 探访帝国之心，吴哥旅行完全指南（下）：景点体验](https://sspai.com/post/106822)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-27 06:11:29
+:alarm_clock: 更新时间: 2026-03-29 06:10:23
