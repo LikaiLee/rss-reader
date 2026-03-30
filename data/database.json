@@ -1193,6 +1193,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从保鲜逻辑到外观设计，一份冰箱落地选购指南",
+                "link": "https://sspai.com/post/107704",
+                "published": "2026-03-30"
+            },
+            {
+                "title": "派早报：英文维基百科正式禁止 AI 参与编写",
+                "link": "https://sspai.com/post/108044",
+                "published": "2026-03-29"
+            },
+            {
+                "title": "自制电子墨水屏，以及我用它来干了什么？",
+                "link": "https://sspai.com/post/105990",
+                "published": "2026-03-29"
+            },
+            {
                 "title": "写在 Raycast 2.0 前夜：一份不再过时的使用指南",
                 "link": "https://sspai.com/post/107980",
                 "published": "2026-03-28"
@@ -29148,7 +29163,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 3
     },
     {
         "id": 2,
