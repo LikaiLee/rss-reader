@@ -1193,6 +1193,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？",
+                "link": "https://sspai.com/post/108027",
+                "published": "2026-03-31"
+            },
+            {
+                "title": "派早报：vivo 举办 vivo X 系列春季新品发布会等",
+                "link": "https://sspai.com/post/108088",
+                "published": "2026-03-31"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/108075",
+                "published": "2026-03-30"
+            },
+            {
+                "title": "浏览器扩展合集：派友近期推荐的 6 款浏览器扩展",
+                "link": "https://sspai.com/post/108047",
+                "published": "2026-03-30"
+            },
+            {
                 "title": "从保鲜逻辑到外观设计，一份冰箱落地选购指南",
                 "link": "https://sspai.com/post/107704",
                 "published": "2026-03-30"
@@ -29163,7 +29183,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
