@@ -1193,6 +1193,51 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "被咬一口的世界，苹果 50 年的疯狂与奇迹",
+                "link": "https://sspai.com/post/107218",
+                "published": "2026-04-02"
+            },
+            {
+                "title": "派早报：OPPO 发布 K15 Pro 系列、DLSS 4.5 开始推送等",
+                "link": "https://sspai.com/post/108175",
+                "published": "2026-04-02"
+            },
+            {
+                "title": "本月玩什么｜失落星船：马拉松、Pokémon Pokopia 等",
+                "link": "https://sspai.com/post/108163",
+                "published": "2026-04-01"
+            },
+            {
+                "title": "Agent 的家：如何在 AI 时代搭建硬件基座",
+                "link": "https://sspai.com/post/108064",
+                "published": "2026-04-01"
+            },
+            {
+                "title": "派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等",
+                "link": "https://sspai.com/post/108133",
+                "published": "2026-04-01"
+            },
+            {
+                "title": "时隔 5 年的大更新：AirPods Max 2 首发体验",
+                "link": "https://sspai.com/post/108118",
+                "published": "2026-03-31"
+            },
+            {
+                "title": "社区速递 135 | 派友热议养「小龙虾」、3M 隔音耳罩与百乐钢笔体验",
+                "link": "https://sspai.com/post/108108",
+                "published": "2026-03-31"
+            },
+            {
+                "title": "装了啥特别篇：编辑部近期 AI 用法拼盘",
+                "link": "https://sspai.com/prime/story/zhuanglesha-260331",
+                "published": "2026-03-31"
+            },
+            {
+                "title": "一日一技 | 如何正确进行 vivo Log 的色彩空间转换",
+                "link": "https://sspai.com/post/108101",
+                "published": "2026-03-31"
+            },
+            {
                 "title": "不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？",
                 "link": "https://sspai.com/post/108027",
                 "published": "2026-03-31"
@@ -29183,7 +29228,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 9
     },
     {
         "id": 2,

@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+9】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-04-02】 被咬一口的世界，苹果 50 年的疯狂与奇迹](https://sspai.com/post/107218)
+* [【2026-04-02】 派早报：OPPO 发布 K15 Pro 系列、DLSS 4.5 开始推送等](https://sspai.com/post/108175)
+* [【2026-04-01】 本月玩什么｜失落星船：马拉松、Pokémon Pokopia 等](https://sspai.com/post/108163)
+* [【2026-04-01】 Agent 的家：如何在 AI 时代搭建硬件基座](https://sspai.com/post/108064)
+* [【2026-04-01】 派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等](https://sspai.com/post/108133)
+* [【2026-03-31】 时隔 5 年的大更新：AirPods Max 2 首发体验](https://sspai.com/post/108118)
+* [【2026-03-31】 社区速递 135 | 派友热议养「小龙虾」、3M 隔音耳罩与百乐钢笔体验](https://sspai.com/post/108108)
+* [【2026-03-31】 装了啥特别篇：编辑部近期 AI 用法拼盘](https://sspai.com/prime/story/zhuanglesha-260331)
+* [【2026-03-31】 一日一技 | 如何正确进行 vivo Log 的色彩空间转换](https://sspai.com/post/108101)
 * [【2026-03-31】 不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？](https://sspai.com/post/108027)
-* [【2026-03-31】 派早报：vivo 举办 vivo X 系列春季新品发布会等](https://sspai.com/post/108088)
-* [【2026-03-30】 派评 | 近期值得关注的 App](https://sspai.com/post/108075)
-* [【2026-03-30】 浏览器扩展合集：派友近期推荐的 6 款浏览器扩展](https://sspai.com/post/108047)
-* [【2026-03-30】 从保鲜逻辑到外观设计，一份冰箱落地选购指南](https://sspai.com/post/107704)
-* [【2026-03-29】 派早报：英文维基百科正式禁止 AI 参与编写](https://sspai.com/post/108044)
-* [【2026-03-29】 自制电子墨水屏，以及我用它来干了什么？](https://sspai.com/post/105990)
-* [【2026-03-28】 写在 Raycast 2.0 前夜：一份不再过时的使用指南](https://sspai.com/post/107980)
-* [【2026-03-28】 付费栏目试读 | 词不达意想找表情？不妨试试 Raycast Emoji 选择器](https://sspai.com/post/107843)
-* [【2026-03-27】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/107948)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-03-31 06:14:49
+:alarm_clock: 更新时间: 2026-04-02 06:10:30
