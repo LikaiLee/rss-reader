@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 391 期）：AI 的贫富分化",
+                "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html",
+                "published": "2026-04-03"
+            },
+            {
                 "title": "科技爱好者周刊（第 390 期）：没有语料，大模型就是智障",
                 "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html",
                 "published": "2026-03-26"
@@ -1185,13 +1190,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "vivo X300 Ultra 影像漫谈：最大的变化是变化很大",
+                "link": "https://sspai.com/post/108187",
+                "published": "2026-04-03"
+            },
+            {
+                "title": "派早报：Google 发布 Gemma 4 开源系列模型、智谱发布 GLM-5V-Turbo 多模态模型等",
+                "link": "https://sspai.com/post/108209",
+                "published": "2026-04-03"
+            },
+            {
+                "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
+                "link": "https://sspai.com/post/108202",
+                "published": "2026-04-02"
+            },
+            {
+                "title": "派晚报：2026 年愚人节产品大赏",
+                "link": "https://sspai.com/post/108197",
+                "published": "2026-04-02"
+            },
             {
                 "title": "被咬一口的世界，苹果 50 年的疯狂与奇迹",
                 "link": "https://sspai.com/post/107218",
@@ -29228,7 +29253,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 4
     },
     {
         "id": 2,

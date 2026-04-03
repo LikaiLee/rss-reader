@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+9】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-04-03】 科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)
 * [【2026-03-26】 科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)
 * [【2026-03-21】 套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)
 * [【2026-03-19】 科技爱好者周刊（第 389 期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)
@@ -25,7 +26,6 @@
 * [【2026-02-27】 科技爱好者周刊（第 386 期）：当外卖员接入 AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html)
 * [【2026-02-14】 字节全家桶 Seed 2.0 + TRAE 玩转 Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html)
 * [【2026-02-12】 科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html)
-* [【2026-02-12】 智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-04-03】 vivo X300 Ultra 影像漫谈：最大的变化是变化很大](https://sspai.com/post/108187)
+* [【2026-04-03】 派早报：Google 发布 Gemma 4 开源系列模型、智谱发布 GLM-5V-Turbo 多模态模型等](https://sspai.com/post/108209)
+* [【2026-04-02】 汇聚热爱，「2050 大会」少数派线下活动邀请你来参与](https://sspai.com/post/108202)
+* [【2026-04-02】 派晚报：2026 年愚人节产品大赏](https://sspai.com/post/108197)
 * [【2026-04-02】 被咬一口的世界，苹果 50 年的疯狂与奇迹](https://sspai.com/post/107218)
 * [【2026-04-02】 派早报：OPPO 发布 K15 Pro 系列、DLSS 4.5 开始推送等](https://sspai.com/post/108175)
 * [【2026-04-01】 本月玩什么｜失落星船：马拉松、Pokémon Pokopia 等](https://sspai.com/post/108163)
 * [【2026-04-01】 Agent 的家：如何在 AI 时代搭建硬件基座](https://sspai.com/post/108064)
 * [【2026-04-01】 派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等](https://sspai.com/post/108133)
 * [【2026-03-31】 时隔 5 年的大更新：AirPods Max 2 首发体验](https://sspai.com/post/108118)
-* [【2026-03-31】 社区速递 135 | 派友热议养「小龙虾」、3M 隔音耳罩与百乐钢笔体验](https://sspai.com/post/108108)
-* [【2026-03-31】 装了啥特别篇：编辑部近期 AI 用法拼盘](https://sspai.com/prime/story/zhuanglesha-260331)
-* [【2026-03-31】 一日一技 | 如何正确进行 vivo Log 的色彩空间转换](https://sspai.com/post/108101)
-* [【2026-03-31】 不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？](https://sspai.com/post/108027)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-02 06:10:30
+:alarm_clock: 更新时间: 2026-04-03 06:11:01
