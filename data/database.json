@@ -1190,13 +1190,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/108231",
+                "published": "2026-04-03"
+            },
+            {
+                "title": "为了将网页变为应用程序，我们付出了多少努力？（一）",
+                "link": "https://sspai.com/post/107928",
+                "published": "2026-04-03"
+            },
             {
                 "title": "vivo X300 Ultra 影像漫谈：最大的变化是变化很大",
                 "link": "https://sspai.com/post/108187",
@@ -29253,7 +29263,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,

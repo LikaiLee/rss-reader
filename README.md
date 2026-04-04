@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-04-03】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/108231)
+* [【2026-04-03】 为了将网页变为应用程序，我们付出了多少努力？（一）](https://sspai.com/post/107928)
 * [【2026-04-03】 vivo X300 Ultra 影像漫谈：最大的变化是变化很大](https://sspai.com/post/108187)
 * [【2026-04-03】 派早报：Google 发布 Gemma 4 开源系列模型、智谱发布 GLM-5V-Turbo 多模态模型等](https://sspai.com/post/108209)
 * [【2026-04-02】 汇聚热爱，「2050 大会」少数派线下活动邀请你来参与](https://sspai.com/post/108202)
@@ -43,8 +45,6 @@
 * [【2026-04-02】 派早报：OPPO 发布 K15 Pro 系列、DLSS 4.5 开始推送等](https://sspai.com/post/108175)
 * [【2026-04-01】 本月玩什么｜失落星船：马拉松、Pokémon Pokopia 等](https://sspai.com/post/108163)
 * [【2026-04-01】 Agent 的家：如何在 AI 时代搭建硬件基座](https://sspai.com/post/108064)
-* [【2026-04-01】 派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等](https://sspai.com/post/108133)
-* [【2026-03-31】 时隔 5 年的大更新：AirPods Max 2 首发体验](https://sspai.com/post/108118)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-03 06:11:01
+:alarm_clock: 更新时间: 2026-04-04 05:55:17
