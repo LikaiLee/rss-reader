@@ -1198,6 +1198,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "买前必看：千问 AI 眼镜 G1 自费长测",
+                "link": "https://sspai.com/post/108103",
+                "published": "2026-04-04"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/108231",
                 "published": "2026-04-03"
@@ -29263,7 +29268,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
