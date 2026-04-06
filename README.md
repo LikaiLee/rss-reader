@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-04-05】 愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护](https://sspai.com/post/69901)
 * [【2026-04-04】 买前必看：千问 AI 眼镜 G1 自费长测](https://sspai.com/post/108103)
 * [【2026-04-03】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/108231)
 * [【2026-04-03】 为了将网页变为应用程序，我们付出了多少努力？（一）](https://sspai.com/post/107928)
@@ -44,7 +45,6 @@
 * [【2026-04-02】 派晚报：2026 年愚人节产品大赏](https://sspai.com/post/108197)
 * [【2026-04-02】 被咬一口的世界，苹果 50 年的疯狂与奇迹](https://sspai.com/post/107218)
 * [【2026-04-02】 派早报：OPPO 发布 K15 Pro 系列、DLSS 4.5 开始推送等](https://sspai.com/post/108175)
-* [【2026-04-01】 本月玩什么｜失落星船：马拉松、Pokémon Pokopia 等](https://sspai.com/post/108163)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-05 06:12:52
+:alarm_clock: 更新时间: 2026-04-06 06:52:51
