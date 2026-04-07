@@ -1198,6 +1198,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "互联网，电子游戏与屏幕之后的个人健康",
+                "link": "https://sspai.com/post/108322",
+                "published": "2026-04-07"
+            },
+            {
+                "title": "派早报：OpenAI 发布文章探讨 AI 时代的政策建议等",
+                "link": "https://sspai.com/post/108326",
+                "published": "2026-04-07"
+            },
+            {
+                "title": "App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图",
+                "link": "https://sspai.com/post/108294",
+                "published": "2026-04-06"
+            },
+            {
                 "title": "愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护",
                 "link": "https://sspai.com/post/69901",
                 "published": "2026-04-05"
@@ -29273,7 +29288,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

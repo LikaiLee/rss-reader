@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-04-07】 互联网，电子游戏与屏幕之后的个人健康](https://sspai.com/post/108322)
+* [【2026-04-07】 派早报：OpenAI 发布文章探讨 AI 时代的政策建议等](https://sspai.com/post/108326)
+* [【2026-04-06】 App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图](https://sspai.com/post/108294)
 * [【2026-04-05】 愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护](https://sspai.com/post/69901)
 * [【2026-04-04】 买前必看：千问 AI 眼镜 G1 自费长测](https://sspai.com/post/108103)
 * [【2026-04-03】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/108231)
@@ -42,9 +45,6 @@
 * [【2026-04-03】 vivo X300 Ultra 影像漫谈：最大的变化是变化很大](https://sspai.com/post/108187)
 * [【2026-04-03】 派早报：Google 发布 Gemma 4 开源系列模型、智谱发布 GLM-5V-Turbo 多模态模型等](https://sspai.com/post/108209)
 * [【2026-04-02】 汇聚热爱，「2050 大会」少数派线下活动邀请你来参与](https://sspai.com/post/108202)
-* [【2026-04-02】 派晚报：2026 年愚人节产品大赏](https://sspai.com/post/108197)
-* [【2026-04-02】 被咬一口的世界，苹果 50 年的疯狂与奇迹](https://sspai.com/post/107218)
-* [【2026-04-02】 派早报：OPPO 发布 K15 Pro 系列、DLSS 4.5 开始推送等](https://sspai.com/post/108175)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-06 06:52:51
+:alarm_clock: 更新时间: 2026-04-07 06:17:55
