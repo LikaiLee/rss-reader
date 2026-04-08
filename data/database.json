@@ -1198,6 +1198,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "🎁 福利派 | 少数派首款超薄钢化膜今日开售",
+                "link": "https://sspai.com/post/108285",
+                "published": "2026-04-08"
+            },
+            {
+                "title": "派早报：macOS 内核 TCP 协议栈存在溢出漏洞、Google Pixel 10a 推出独占版本等",
+                "link": "https://sspai.com/post/108380",
+                "published": "2026-04-08"
+            },
+            {
+                "title": "社区速递 136 | 派友大秀 Vibe Coding 作品、ROCK 数据线收纳盒与空气凤梨",
+                "link": "https://sspai.com/post/108343",
+                "published": "2026-04-07"
+            },
+            {
+                "title": "写给「跑两步就喘」的你：跑前精准热身，缓解跑时疼痛",
+                "link": "https://sspai.com/post/108150",
+                "published": "2026-04-07"
+            },
+            {
                 "title": "互联网，电子游戏与屏幕之后的个人健康",
                 "link": "https://sspai.com/post/108322",
                 "published": "2026-04-07"
@@ -29288,7 +29308,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
