@@ -1198,6 +1198,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "雷鸟 Air3 AR 眼镜：一年使用体验复盘",
+                "link": "https://sspai.com/post/108367",
+                "published": "2026-04-09"
+            },
+            {
+                "title": "派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等",
+                "link": "https://sspai.com/post/108426",
+                "published": "2026-04-09"
+            },
+            {
+                "title": "回望日系手机的「加拉帕戈斯」时代",
+                "link": "https://sspai.com/prime/story/a-look-at-the-galapagos-era-of-japanese-cellphones",
+                "published": "2026-04-08"
+            },
+            {
+                "title": "Type-C 接口最大的问题，是看起来已经「统一」了",
+                "link": "https://sspai.com/post/108325",
+                "published": "2026-04-08"
+            },
+            {
+                "title": "谈谈 Windows 的视觉风格与交互演变",
+                "link": "https://sspai.com/prime/story/windows-ui-styles-history",
+                "published": "2026-04-08"
+            },
+            {
                 "title": "🎁 福利派 | 少数派首款超薄钢化膜今日开售",
                 "link": "https://sspai.com/post/108285",
                 "published": "2026-04-08"
@@ -29308,7 +29333,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,

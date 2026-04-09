@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-04-09】 雷鸟 Air3 AR 眼镜：一年使用体验复盘](https://sspai.com/post/108367)
+* [【2026-04-09】 派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等](https://sspai.com/post/108426)
+* [【2026-04-08】 回望日系手机的「加拉帕戈斯」时代](https://sspai.com/prime/story/a-look-at-the-galapagos-era-of-japanese-cellphones)
+* [【2026-04-08】 Type-C 接口最大的问题，是看起来已经「统一」了](https://sspai.com/post/108325)
+* [【2026-04-08】 谈谈 Windows 的视觉风格与交互演变](https://sspai.com/prime/story/windows-ui-styles-history)
 * [【2026-04-08】 🎁 福利派 | 少数派首款超薄钢化膜今日开售](https://sspai.com/post/108285)
 * [【2026-04-08】 派早报：macOS 内核 TCP 协议栈存在溢出漏洞、Google Pixel 10a 推出独占版本等](https://sspai.com/post/108380)
 * [【2026-04-07】 社区速递 136 | 派友大秀 Vibe Coding 作品、ROCK 数据线收纳盒与空气凤梨](https://sspai.com/post/108343)
 * [【2026-04-07】 写给「跑两步就喘」的你：跑前精准热身，缓解跑时疼痛](https://sspai.com/post/108150)
 * [【2026-04-07】 互联网，电子游戏与屏幕之后的个人健康](https://sspai.com/post/108322)
-* [【2026-04-07】 派早报：OpenAI 发布文章探讨 AI 时代的政策建议等](https://sspai.com/post/108326)
-* [【2026-04-06】 App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图](https://sspai.com/post/108294)
-* [【2026-04-05】 愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护](https://sspai.com/post/69901)
-* [【2026-04-04】 买前必看：千问 AI 眼镜 G1 自费长测](https://sspai.com/post/108103)
-* [【2026-04-03】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/108231)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-08 06:19:25
+:alarm_clock: 更新时间: 2026-04-09 06:20:15
