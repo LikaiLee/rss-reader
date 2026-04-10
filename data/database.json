@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术",
+                "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html",
+                "published": "2026-04-09"
+            },
+            {
                 "title": "科技爱好者周刊（第 391 期）：AI 的贫富分化",
                 "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html",
                 "published": "2026-04-03"
@@ -1190,13 +1195,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "Claude Code+HA 自动化实战：给宠物龟请个「电子保姆」",
+                "link": "https://sspai.com/post/108453",
+                "published": "2026-04-10"
+            },
+            {
+                "title": "派早报：微信支付发布接入 Skill 工具体系等",
+                "link": "https://sspai.com/post/108468",
+                "published": "2026-04-10"
+            },
+            {
+                "title": "AI 时代，我关于教育的思考",
+                "link": "https://sspai.com/post/108300",
+                "published": "2026-04-09"
+            },
+            {
+                "title": "疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事",
+                "link": "https://sspai.com/post/69533",
+                "published": "2026-04-09"
+            },
             {
                 "title": "雷鸟 Air3 AR 眼镜：一年使用体验复盘",
                 "link": "https://sspai.com/post/108367",
@@ -29333,7 +29358,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

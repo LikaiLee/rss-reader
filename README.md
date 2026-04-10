@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-04-09】 科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)
 * [【2026-04-03】 科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)
 * [【2026-03-26】 科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)
 * [【2026-03-21】 套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)
@@ -25,7 +26,6 @@
 * [【2026-03-05】 科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html)
 * [【2026-02-27】 科技爱好者周刊（第 386 期）：当外卖员接入 AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html)
 * [【2026-02-14】 字节全家桶 Seed 2.0 + TRAE 玩转 Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html)
-* [【2026-02-12】 科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-04-10】 Claude Code+HA 自动化实战：给宠物龟请个「电子保姆」](https://sspai.com/post/108453)
+* [【2026-04-10】 派早报：微信支付发布接入 Skill 工具体系等](https://sspai.com/post/108468)
+* [【2026-04-09】 AI 时代，我关于教育的思考](https://sspai.com/post/108300)
+* [【2026-04-09】 疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事](https://sspai.com/post/69533)
 * [【2026-04-09】 雷鸟 Air3 AR 眼镜：一年使用体验复盘](https://sspai.com/post/108367)
 * [【2026-04-09】 派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等](https://sspai.com/post/108426)
 * [【2026-04-08】 回望日系手机的「加拉帕戈斯」时代](https://sspai.com/prime/story/a-look-at-the-galapagos-era-of-japanese-cellphones)
 * [【2026-04-08】 Type-C 接口最大的问题，是看起来已经「统一」了](https://sspai.com/post/108325)
 * [【2026-04-08】 谈谈 Windows 的视觉风格与交互演变](https://sspai.com/prime/story/windows-ui-styles-history)
 * [【2026-04-08】 🎁 福利派 | 少数派首款超薄钢化膜今日开售](https://sspai.com/post/108285)
-* [【2026-04-08】 派早报：macOS 内核 TCP 协议栈存在溢出漏洞、Google Pixel 10a 推出独占版本等](https://sspai.com/post/108380)
-* [【2026-04-07】 社区速递 136 | 派友大秀 Vibe Coding 作品、ROCK 数据线收纳盒与空气凤梨](https://sspai.com/post/108343)
-* [【2026-04-07】 写给「跑两步就喘」的你：跑前精准热身，缓解跑时疼痛](https://sspai.com/post/108150)
-* [【2026-04-07】 互联网，电子游戏与屏幕之后的个人健康](https://sspai.com/post/108322)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-09 06:20:15
+:alarm_clock: 更新时间: 2026-04-10 06:51:28
