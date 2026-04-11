@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-04-10】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/108496)
+* [【2026-04-10】 深入 OPPO Find N6：一场关于大屏和效率的舞蹈](https://sspai.com/post/108469)
 * [【2026-04-10】 Claude Code+HA 自动化实战：给宠物龟请个「电子保姆」](https://sspai.com/post/108453)
 * [【2026-04-10】 派早报：微信支付发布接入 Skill 工具体系等](https://sspai.com/post/108468)
 * [【2026-04-09】 AI 时代，我关于教育的思考](https://sspai.com/post/108300)
@@ -43,8 +45,6 @@
 * [【2026-04-09】 派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等](https://sspai.com/post/108426)
 * [【2026-04-08】 回望日系手机的「加拉帕戈斯」时代](https://sspai.com/prime/story/a-look-at-the-galapagos-era-of-japanese-cellphones)
 * [【2026-04-08】 Type-C 接口最大的问题，是看起来已经「统一」了](https://sspai.com/post/108325)
-* [【2026-04-08】 谈谈 Windows 的视觉风格与交互演变](https://sspai.com/prime/story/windows-ui-styles-history)
-* [【2026-04-08】 🎁 福利派 | 少数派首款超薄钢化膜今日开售](https://sspai.com/post/108285)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-10 06:51:28
+:alarm_clock: 更新时间: 2026-04-11 05:58:50
