@@ -1203,6 +1203,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
+                "link": "https://sspai.com/post/107600",
+                "published": "2026-04-11"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 11 部作品",
                 "link": "https://sspai.com/post/108496",
                 "published": "2026-04-10"
@@ -29368,7 +29373,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
