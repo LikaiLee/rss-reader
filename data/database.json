@@ -1203,6 +1203,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从 iPhone 随阿尔忒弥斯 2 号升空，谈谈 Apple 设备的太空征程",
+                "link": "https://sspai.com/post/108519",
+                "published": "2026-04-13"
+            },
+            {
+                "title": "派早报：微软宣布改进和简化 Windows 预览体验计划",
+                "link": "https://sspai.com/post/108568",
+                "published": "2026-04-12"
+            },
+            {
+                "title": "我是如何进行文件管理的",
+                "link": "https://sspai.com/post/106369",
+                "published": "2026-04-12"
+            },
+            {
                 "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
                 "link": "https://sspai.com/post/107600",
                 "published": "2026-04-11"
@@ -29373,7 +29388,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
