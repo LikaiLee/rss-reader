@@ -1203,6 +1203,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "首销优惠即将截止！少数派麦金獭无感膜 10 大常见问题解答",
+                "link": "https://sspai.com/post/108594",
+                "published": "2026-04-14"
+            },
+            {
+                "title": "派早报：稳定版 Linux 7.0 内核发布等",
+                "link": "https://sspai.com/post/108614",
+                "published": "2026-04-14"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/108589",
+                "published": "2026-04-13"
+            },
+            {
+                "title": "城市漫步指南：在浓油赤酱中寻找江南底蕴",
+                "link": "https://sspai.com/post/108558",
+                "published": "2026-04-13"
+            },
+            {
                 "title": "从 iPhone 随阿尔忒弥斯 2 号升空，谈谈 Apple 设备的太空征程",
                 "link": "https://sspai.com/post/108519",
                 "published": "2026-04-13"
@@ -29388,7 +29408,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,

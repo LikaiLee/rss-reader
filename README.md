@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-04-14】 首销优惠即将截止！少数派麦金獭无感膜 10 大常见问题解答](https://sspai.com/post/108594)
+* [【2026-04-14】 派早报：稳定版 Linux 7.0 内核发布等](https://sspai.com/post/108614)
+* [【2026-04-13】 派评 | 近期值得关注的 App](https://sspai.com/post/108589)
+* [【2026-04-13】 城市漫步指南：在浓油赤酱中寻找江南底蕴](https://sspai.com/post/108558)
 * [【2026-04-13】 从 iPhone 随阿尔忒弥斯 2 号升空，谈谈 Apple 设备的太空征程](https://sspai.com/post/108519)
 * [【2026-04-12】 派早报：微软宣布改进和简化 Windows 预览体验计划](https://sspai.com/post/108568)
 * [【2026-04-12】 我是如何进行文件管理的](https://sspai.com/post/106369)
 * [【2026-04-11】 浅谈人工智能时代的用户体验：Agent Experience 导论](https://sspai.com/post/107600)
 * [【2026-04-10】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/108496)
 * [【2026-04-10】 深入 OPPO Find N6：一场关于大屏和效率的舞蹈](https://sspai.com/post/108469)
-* [【2026-04-10】 Claude Code+HA 自动化实战：给宠物龟请个「电子保姆」](https://sspai.com/post/108453)
-* [【2026-04-10】 派早报：微信支付发布接入 Skill 工具体系等](https://sspai.com/post/108468)
-* [【2026-04-09】 AI 时代，我关于教育的思考](https://sspai.com/post/108300)
-* [【2026-04-09】 疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事](https://sspai.com/post/69533)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-13 07:12:07
+:alarm_clock: 更新时间: 2026-04-14 06:51:08
