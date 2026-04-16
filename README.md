@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+9】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-04-16】 译文｜Tahoe 的图标令人难评](https://sspai.com/post/105394)
+* [【2026-04-16】 派早报：Keychron 推出轻量化鼠标 G3、微软推出新模型等](https://sspai.com/post/108692)
+* [【2026-04-15】 具透 Plus：Windows 预览体验计划新变化；Linux 系统的「年龄验证」闹剧](https://sspai.com/prime/story/inside-release-notes-260415)
+* [【2026-04-15】 开局收获上万差评的游戏：《红色沙漠》为何能这么快翻身？](https://sspai.com/post/108679)
+* [【2026-04-15】 一日一技｜Liquid Glass 液态变磨砂](https://sspai.com/post/108656)
+* [【2026-04-15】 从一夜无眠到夜夜香甜：睡个好觉并不难](https://sspai.com/post/107146)
+* [【2026-04-15】 派早报：拓竹 X2D 正式发布、微软再次上调 Surface 全线产品定价等](https://sspai.com/post/108653)
+* [【2026-04-14】 社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示器与 MT6000 路由器](https://sspai.com/post/108632)
+* [【2026-04-14】 想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」](https://sspai.com/post/108005)
 * [【2026-04-14】 首销优惠即将截止！少数派麦金獭无感膜 10 大常见问题解答](https://sspai.com/post/108594)
-* [【2026-04-14】 派早报：稳定版 Linux 7.0 内核发布等](https://sspai.com/post/108614)
-* [【2026-04-13】 派评 | 近期值得关注的 App](https://sspai.com/post/108589)
-* [【2026-04-13】 城市漫步指南：在浓油赤酱中寻找江南底蕴](https://sspai.com/post/108558)
-* [【2026-04-13】 从 iPhone 随阿尔忒弥斯 2 号升空，谈谈 Apple 设备的太空征程](https://sspai.com/post/108519)
-* [【2026-04-12】 派早报：微软宣布改进和简化 Windows 预览体验计划](https://sspai.com/post/108568)
-* [【2026-04-12】 我是如何进行文件管理的](https://sspai.com/post/106369)
-* [【2026-04-11】 浅谈人工智能时代的用户体验：Agent Experience 导论](https://sspai.com/post/107600)
-* [【2026-04-10】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/108496)
-* [【2026-04-10】 深入 OPPO Find N6：一场关于大屏和效率的舞蹈](https://sspai.com/post/108469)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-14 06:51:08
+:alarm_clock: 更新时间: 2026-04-16 06:55:18

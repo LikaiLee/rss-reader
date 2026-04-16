@@ -1203,6 +1203,51 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "译文｜Tahoe 的图标令人难评",
+                "link": "https://sspai.com/post/105394",
+                "published": "2026-04-16"
+            },
+            {
+                "title": "派早报：Keychron 推出轻量化鼠标 G3、微软推出新模型等",
+                "link": "https://sspai.com/post/108692",
+                "published": "2026-04-16"
+            },
+            {
+                "title": "具透 Plus：Windows 预览体验计划新变化；Linux 系统的「年龄验证」闹剧",
+                "link": "https://sspai.com/prime/story/inside-release-notes-260415",
+                "published": "2026-04-15"
+            },
+            {
+                "title": "开局收获上万差评的游戏：《红色沙漠》为何能这么快翻身？",
+                "link": "https://sspai.com/post/108679",
+                "published": "2026-04-15"
+            },
+            {
+                "title": "一日一技｜Liquid Glass 液态变磨砂",
+                "link": "https://sspai.com/post/108656",
+                "published": "2026-04-15"
+            },
+            {
+                "title": "从一夜无眠到夜夜香甜：睡个好觉并不难",
+                "link": "https://sspai.com/post/107146",
+                "published": "2026-04-15"
+            },
+            {
+                "title": "派早报：拓竹 X2D 正式发布、微软再次上调 Surface 全线产品定价等",
+                "link": "https://sspai.com/post/108653",
+                "published": "2026-04-15"
+            },
+            {
+                "title": "社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示器与 MT6000 路由器",
+                "link": "https://sspai.com/post/108632",
+                "published": "2026-04-14"
+            },
+            {
+                "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
+                "link": "https://sspai.com/post/108005",
+                "published": "2026-04-14"
+            },
+            {
                 "title": "首销优惠即将截止！少数派麦金獭无感膜 10 大常见问题解答",
                 "link": "https://sspai.com/post/108594",
                 "published": "2026-04-14"
@@ -29408,7 +29453,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 9
     },
     {
         "id": 2,
