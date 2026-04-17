@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 393 期）：脑腐状态",
+                "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html",
+                "published": "2026-04-16"
+            },
+            {
                 "title": "科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术",
                 "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html",
                 "published": "2026-04-09"
@@ -1195,13 +1200,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "来一杯不翻车的自信：手冲咖啡入门指北",
+                "link": "https://sspai.com/post/108547",
+                "published": "2026-04-17"
+            },
+            {
+                "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
+                "link": "https://sspai.com/post/108742",
+                "published": "2026-04-17"
+            },
+            {
+                "title": "城市漫步指南：在沿海宜居小城，过一段不赶时间的日子",
+                "link": "https://sspai.com/post/108070",
+                "published": "2026-04-16"
+            },
+            {
+                "title": "众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包",
+                "link": "https://sspai.com/post/108694",
+                "published": "2026-04-16"
+            },
+            {
+                "title": "从画质玄学到改机热潮：浅谈拍立得的前世今生",
+                "link": "https://sspai.com/post/108630",
+                "published": "2026-04-16"
+            },
             {
                 "title": "译文｜Tahoe 的图标令人难评",
                 "link": "https://sspai.com/post/105394",
@@ -29453,7 +29483,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 9
+        "new_feeds": 5
     },
     {
         "id": 2,

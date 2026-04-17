@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+9】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-04-16】 科技爱好者周刊（第 393 期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html)
 * [【2026-04-09】 科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)
 * [【2026-04-03】 科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)
 * [【2026-03-26】 科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)
@@ -25,7 +26,6 @@
 * [【2026-03-12】 零安装的"云养虾"：ArkClaw 使用指南](http://www.ruanyifeng.com/blog/2026/03/arkclaw.html)
 * [【2026-03-05】 科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html)
 * [【2026-02-27】 科技爱好者周刊（第 386 期）：当外卖员接入 AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html)
-* [【2026-02-14】 字节全家桶 Seed 2.0 + TRAE 玩转 Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-04-17】 来一杯不翻车的自信：手冲咖啡入门指北](https://sspai.com/post/108547)
+* [【2026-04-17】 派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等](https://sspai.com/post/108742)
+* [【2026-04-16】 城市漫步指南：在沿海宜居小城，过一段不赶时间的日子](https://sspai.com/post/108070)
+* [【2026-04-16】 众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包](https://sspai.com/post/108694)
+* [【2026-04-16】 从画质玄学到改机热潮：浅谈拍立得的前世今生](https://sspai.com/post/108630)
 * [【2026-04-16】 译文｜Tahoe 的图标令人难评](https://sspai.com/post/105394)
 * [【2026-04-16】 派早报：Keychron 推出轻量化鼠标 G3、微软推出新模型等](https://sspai.com/post/108692)
 * [【2026-04-15】 具透 Plus：Windows 预览体验计划新变化；Linux 系统的「年龄验证」闹剧](https://sspai.com/prime/story/inside-release-notes-260415)
 * [【2026-04-15】 开局收获上万差评的游戏：《红色沙漠》为何能这么快翻身？](https://sspai.com/post/108679)
 * [【2026-04-15】 一日一技｜Liquid Glass 液态变磨砂](https://sspai.com/post/108656)
-* [【2026-04-15】 从一夜无眠到夜夜香甜：睡个好觉并不难](https://sspai.com/post/107146)
-* [【2026-04-15】 派早报：拓竹 X2D 正式发布、微软再次上调 Surface 全线产品定价等](https://sspai.com/post/108653)
-* [【2026-04-14】 社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示器与 MT6000 路由器](https://sspai.com/post/108632)
-* [【2026-04-14】 想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」](https://sspai.com/post/108005)
-* [【2026-04-14】 首销优惠即将截止！少数派麦金獭无感膜 10 大常见问题解答](https://sspai.com/post/108594)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-16 06:55:18
+:alarm_clock: 更新时间: 2026-04-17 06:56:15
