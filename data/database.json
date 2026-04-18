@@ -1200,13 +1200,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "你好，我是一名「火腿」",
+                "link": "https://sspai.com/post/87807",
+                "published": "2026-04-18"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/108760",
+                "published": "2026-04-17"
+            },
+            {
+                "title": "TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验",
+                "link": "https://sspai.com/post/108741",
+                "published": "2026-04-17"
+            },
             {
                 "title": "来一杯不翻车的自信：手冲咖啡入门指北",
                 "link": "https://sspai.com/post/108547",
@@ -29483,7 +29498,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,

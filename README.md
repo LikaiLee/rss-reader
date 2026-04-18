@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-04-18】 你好，我是一名「火腿」](https://sspai.com/post/87807)
+* [【2026-04-17】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/108760)
+* [【2026-04-17】 TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验](https://sspai.com/post/108741)
 * [【2026-04-17】 来一杯不翻车的自信：手冲咖啡入门指北](https://sspai.com/post/108547)
 * [【2026-04-17】 派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等](https://sspai.com/post/108742)
 * [【2026-04-16】 城市漫步指南：在沿海宜居小城，过一段不赶时间的日子](https://sspai.com/post/108070)
@@ -42,9 +45,6 @@
 * [【2026-04-16】 从画质玄学到改机热潮：浅谈拍立得的前世今生](https://sspai.com/post/108630)
 * [【2026-04-16】 译文｜Tahoe 的图标令人难评](https://sspai.com/post/105394)
 * [【2026-04-16】 派早报：Keychron 推出轻量化鼠标 G3、微软推出新模型等](https://sspai.com/post/108692)
-* [【2026-04-15】 具透 Plus：Windows 预览体验计划新变化；Linux 系统的「年龄验证」闹剧](https://sspai.com/prime/story/inside-release-notes-260415)
-* [【2026-04-15】 开局收获上万差评的游戏：《红色沙漠》为何能这么快翻身？](https://sspai.com/post/108679)
-* [【2026-04-15】 一日一技｜Liquid Glass 液态变磨砂](https://sspai.com/post/108656)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-17 06:56:15
+:alarm_clock: 更新时间: 2026-04-18 06:12:02
