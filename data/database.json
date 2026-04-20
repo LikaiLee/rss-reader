@@ -1208,6 +1208,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "可口的社交魔芋：Tomodachi Life 简评",
+                "link": "https://sspai.com/post/108805",
+                "published": "2026-04-20"
+            },
+            {
+                "title": "派早报：低空司回应无人机「起飞难」",
+                "link": "https://sspai.com/post/108885",
+                "published": "2026-04-19"
+            },
+            {
+                "title": "AI 输出中的 ** 是怎么来的：谈中文 Markdown 强调标记的渲染问题",
+                "link": "https://sspai.com/post/108768",
+                "published": "2026-04-19"
+            },
+            {
                 "title": "你好，我是一名「火腿」",
                 "link": "https://sspai.com/post/87807",
                 "published": "2026-04-18"
@@ -29498,7 +29513,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 2,
