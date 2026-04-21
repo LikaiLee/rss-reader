@@ -1208,6 +1208,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "众测招募｜从 Quote/0 到口袋先知，我们需要的只是一个轻回应",
+                "link": "https://sspai.com/post/108909",
+                "published": "2026-04-21"
+            },
+            {
+                "title": "派早报：华为举办 Pura 系列及全场景新品发布会等",
+                "link": "https://sspai.com/post/108921",
+                "published": "2026-04-21"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/108898",
+                "published": "2026-04-20"
+            },
+            {
+                "title": "具透｜Android 17 正式版前瞻",
+                "link": "https://sspai.com/post/108899",
+                "published": "2026-04-20"
+            },
+            {
                 "title": "可口的社交魔芋：Tomodachi Life 简评",
                 "link": "https://sspai.com/post/108805",
                 "published": "2026-04-20"
@@ -29513,7 +29533,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,

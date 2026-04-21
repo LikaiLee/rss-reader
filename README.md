@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-04-21】 众测招募｜从 Quote/0 到口袋先知，我们需要的只是一个轻回应](https://sspai.com/post/108909)
+* [【2026-04-21】 派早报：华为举办 Pura 系列及全场景新品发布会等](https://sspai.com/post/108921)
+* [【2026-04-20】 派评 | 近期值得关注的 App](https://sspai.com/post/108898)
+* [【2026-04-20】 具透｜Android 17 正式版前瞻](https://sspai.com/post/108899)
 * [【2026-04-20】 可口的社交魔芋：Tomodachi Life 简评](https://sspai.com/post/108805)
 * [【2026-04-19】 派早报：低空司回应无人机「起飞难」](https://sspai.com/post/108885)
 * [【2026-04-19】 AI 输出中的 ** 是怎么来的：谈中文 Markdown 强调标记的渲染问题](https://sspai.com/post/108768)
 * [【2026-04-18】 你好，我是一名「火腿」](https://sspai.com/post/87807)
 * [【2026-04-17】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/108760)
 * [【2026-04-17】 TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验](https://sspai.com/post/108741)
-* [【2026-04-17】 来一杯不翻车的自信：手冲咖啡入门指北](https://sspai.com/post/108547)
-* [【2026-04-17】 派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等](https://sspai.com/post/108742)
-* [【2026-04-16】 城市漫步指南：在沿海宜居小城，过一段不赶时间的日子](https://sspai.com/post/108070)
-* [【2026-04-16】 众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包](https://sspai.com/post/108694)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-20 07:14:03
+:alarm_clock: 更新时间: 2026-04-21 06:57:01
