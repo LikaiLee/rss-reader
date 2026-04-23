@@ -1208,6 +1208,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1｜秒看视频参数，我做了个免费的 Mac 小工具",
+                "link": "https://sspai.com/post/108385",
+                "published": "2026-04-23"
+            },
+            {
+                "title": "派早报：鸿蒙智行发布多款车型、Framework 推出多款新品等",
+                "link": "https://sspai.com/post/108991",
+                "published": "2026-04-23"
+            },
+            {
+                "title": "2026 第一季度音乐精选：这耐听的 8 张专辑包办你的春天",
+                "link": "https://sspai.com/post/108574",
+                "published": "2026-04-22"
+            },
+            {
+                "title": "原来你对写作是真爱：少数派 2025 年度征文结果公布",
+                "link": "https://sspai.com/post/108976",
+                "published": "2026-04-22"
+            },
+            {
+                "title": "把家里的游戏带出门：开源本地串流方案 Sunshine 上手指南",
+                "link": "https://sspai.com/post/108857",
+                "published": "2026-04-22"
+            },
+            {
                 "title": "中年人兼职开车送货，20 天学会的 7 个真相",
                 "link": "https://sspai.com/post/108148",
                 "published": "2026-04-22"
@@ -29553,7 +29578,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
