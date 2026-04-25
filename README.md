@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+8】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-04-23】 科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)
 * [【2026-04-16】 科技爱好者周刊（第 393 期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html)
 * [【2026-04-09】 科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)
 * [【2026-04-03】 科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)
@@ -25,7 +26,6 @@
 * [【2026-03-12】 科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)
 * [【2026-03-12】 零安装的"云养虾"：ArkClaw 使用指南](http://www.ruanyifeng.com/blog/2026/03/arkclaw.html)
 * [【2026-03-05】 科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html)
-* [【2026-02-27】 科技爱好者周刊（第 386 期）：当外卖员接入 AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-04-24】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/109050)
+* [【2026-04-24】 换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具](https://sspai.com/post/108455)
+* [【2026-04-24】 汇聚热爱，「2050 大会」少数派线下活动邀请你来参与](https://sspai.com/post/108202)
+* [【2026-04-24】 手机和平板间的新品类：华为 Pura X Max 漫谈](https://sspai.com/post/109024)
+* [【2026-04-24】 派早报：OpenAI 发布 GPT-5.5 系列模型等](https://sspai.com/post/109032)
+* [【2026-04-23】 一口春鲜，半是江河半是海](https://sspai.com/prime/story/recipes-for-spring)
+* [【2026-04-23】 新玩意 239｜少数派的编辑们最近买了啥？](https://sspai.com/post/109007)
+* [【2026-04-23】 Notion 和 Obsidian 应该怎么选？聊聊我的思考和建议](https://sspai.com/post/108971)
 * [【2026-04-23】 App+1｜秒看视频参数，我做了个免费的 Mac 小工具](https://sspai.com/post/108385)
 * [【2026-04-23】 派早报：鸿蒙智行发布多款车型、Framework 推出多款新品等](https://sspai.com/post/108991)
-* [【2026-04-22】 2026 第一季度音乐精选：这耐听的 8 张专辑包办你的春天](https://sspai.com/post/108574)
-* [【2026-04-22】 原来你对写作是真爱：少数派 2025 年度征文结果公布](https://sspai.com/post/108976)
-* [【2026-04-22】 把家里的游戏带出门：开源本地串流方案 Sunshine 上手指南](https://sspai.com/post/108857)
-* [【2026-04-22】 中年人兼职开车送货，20 天学会的 7 个真相](https://sspai.com/post/108148)
-* [【2026-04-22】 派早报：OPPO Find X9 Ultra 发布等](https://sspai.com/post/108962)
-* [【2026-04-21】 Tim Cook 将要转任的「执行董事长」是什么职务？](https://sspai.com/post/108945)
-* [【2026-04-21】 社区速递 138 | 派友让闲置旧设备「再就业」、大疆 Mic Mini 与 MUJI 桧木蜡烛](https://sspai.com/post/108943)
-* [【2026-04-21】 众测招募｜从 Quote/0 到口袋先知，我们需要的只是一个轻回应](https://sspai.com/post/108909)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-23 06:59:16
+:alarm_clock: 更新时间: 2026-04-25 06:19:08

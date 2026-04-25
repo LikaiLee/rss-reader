@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 394 期）：第二次 API 开放浪潮",
+                "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html",
+                "published": "2026-04-23"
+            },
+            {
                 "title": "科技爱好者周刊（第 393 期）：脑腐状态",
                 "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html",
                 "published": "2026-04-16"
@@ -1200,13 +1205,53 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 11 部作品",
+                "link": "https://sspai.com/post/109050",
+                "published": "2026-04-24"
+            },
+            {
+                "title": "换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具",
+                "link": "https://sspai.com/post/108455",
+                "published": "2026-04-24"
+            },
+            {
+                "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
+                "link": "https://sspai.com/post/108202",
+                "published": "2026-04-24"
+            },
+            {
+                "title": "手机和平板间的新品类：华为 Pura X Max 漫谈",
+                "link": "https://sspai.com/post/109024",
+                "published": "2026-04-24"
+            },
+            {
+                "title": "派早报：OpenAI 发布 GPT-5.5 系列模型等",
+                "link": "https://sspai.com/post/109032",
+                "published": "2026-04-24"
+            },
+            {
+                "title": "一口春鲜，半是江河半是海",
+                "link": "https://sspai.com/prime/story/recipes-for-spring",
+                "published": "2026-04-23"
+            },
+            {
+                "title": "新玩意 239｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/109007",
+                "published": "2026-04-23"
+            },
+            {
+                "title": "Notion 和 Obsidian 应该怎么选？聊聊我的思考和建议",
+                "link": "https://sspai.com/post/108971",
+                "published": "2026-04-23"
+            },
             {
                 "title": "App+1｜秒看视频参数，我做了个免费的 Mac 小工具",
                 "link": "https://sspai.com/post/108385",
@@ -29578,7 +29623,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 8
     },
     {
         "id": 2,
