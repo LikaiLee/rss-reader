@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+8】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-04-25】 掌控专注力，你需要做的和没必要做的](https://sspai.com/post/108977)
 * [【2026-04-24】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/109050)
 * [【2026-04-24】 换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具](https://sspai.com/post/108455)
 * [【2026-04-24】 汇聚热爱，「2050 大会」少数派线下活动邀请你来参与](https://sspai.com/post/108202)
@@ -44,7 +45,6 @@
 * [【2026-04-23】 新玩意 239｜少数派的编辑们最近买了啥？](https://sspai.com/post/109007)
 * [【2026-04-23】 Notion 和 Obsidian 应该怎么选？聊聊我的思考和建议](https://sspai.com/post/108971)
 * [【2026-04-23】 App+1｜秒看视频参数，我做了个免费的 Mac 小工具](https://sspai.com/post/108385)
-* [【2026-04-23】 派早报：鸿蒙智行发布多款车型、Framework 推出多款新品等](https://sspai.com/post/108991)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-25 06:19:08
+:alarm_clock: 更新时间: 2026-04-26 06:57:31

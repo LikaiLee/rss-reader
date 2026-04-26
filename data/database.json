@@ -1205,13 +1205,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "掌控专注力，你需要做的和没必要做的",
+                "link": "https://sspai.com/post/108977",
+                "published": "2026-04-25"
+            },
             {
                 "title": "本周看什么 | 最近值得一看的 11 部作品",
                 "link": "https://sspai.com/post/109050",
@@ -29623,7 +29628,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 8
+        "new_feeds": 1
     },
     {
         "id": 2,
