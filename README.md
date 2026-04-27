@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-04-27】 关于流感和疫苗，你需要知道哪些信息？](https://sspai.com/post/76945)
+* [【2026-04-26】 派早报：X 推出聊天软件 XChat](https://sspai.com/post/109114)
+* [【2026-04-26】 App+1 | 谈谈网页浏览器中的一个异类：qutebrowser](https://sspai.com/post/98931)
+* [【2026-04-24】 汇聚热爱，「2050 大会」少数派线下活动精彩回顾](https://sspai.com/post/108202)
 * [【2026-04-25】 掌控专注力，你需要做的和没必要做的](https://sspai.com/post/108977)
 * [【2026-04-24】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/109050)
 * [【2026-04-24】 换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具](https://sspai.com/post/108455)
 * [【2026-04-24】 汇聚热爱，「2050 大会」少数派线下活动邀请你来参与](https://sspai.com/post/108202)
 * [【2026-04-24】 手机和平板间的新品类：华为 Pura X Max 漫谈](https://sspai.com/post/109024)
 * [【2026-04-24】 派早报：OpenAI 发布 GPT-5.5 系列模型等](https://sspai.com/post/109032)
-* [【2026-04-23】 一口春鲜，半是江河半是海](https://sspai.com/prime/story/recipes-for-spring)
-* [【2026-04-23】 新玩意 239｜少数派的编辑们最近买了啥？](https://sspai.com/post/109007)
-* [【2026-04-23】 Notion 和 Obsidian 应该怎么选？聊聊我的思考和建议](https://sspai.com/post/108971)
-* [【2026-04-23】 App+1｜秒看视频参数，我做了个免费的 Mac 小工具](https://sspai.com/post/108385)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-26 06:57:31
+:alarm_clock: 更新时间: 2026-04-27 07:32:53
