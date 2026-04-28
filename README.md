@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-04-28】 关于胃肠镜，你需要知道的一切](https://sspai.com/post/109040)
+* [【2026-04-28】 派早报：阿里巴巴发布视频生成模型 HappyHorse 1.0 等](https://sspai.com/post/109160)
+* [【2026-04-27】 派评 | 近期值得关注的 App](https://sspai.com/post/109135)
+* [【2026-04-27】 一日一技｜让小企鹅输入法支持 14 键、18 键键位双拼](https://sspai.com/post/108459)
 * [【2026-04-27】 关于流感和疫苗，你需要知道哪些信息？](https://sspai.com/post/76945)
 * [【2026-04-26】 派早报：X 推出聊天软件 XChat](https://sspai.com/post/109114)
 * [【2026-04-26】 App+1 | 谈谈网页浏览器中的一个异类：qutebrowser](https://sspai.com/post/98931)
 * [【2026-04-24】 汇聚热爱，「2050 大会」少数派线下活动精彩回顾](https://sspai.com/post/108202)
 * [【2026-04-25】 掌控专注力，你需要做的和没必要做的](https://sspai.com/post/108977)
 * [【2026-04-24】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/109050)
-* [【2026-04-24】 换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具](https://sspai.com/post/108455)
-* [【2026-04-24】 汇聚热爱，「2050 大会」少数派线下活动邀请你来参与](https://sspai.com/post/108202)
-* [【2026-04-24】 手机和平板间的新品类：华为 Pura X Max 漫谈](https://sspai.com/post/109024)
-* [【2026-04-24】 派早报：OpenAI 发布 GPT-5.5 系列模型等](https://sspai.com/post/109032)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-04-27 07:32:53
+:alarm_clock: 更新时间: 2026-04-28 07:29:39
