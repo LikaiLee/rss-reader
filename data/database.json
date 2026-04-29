@@ -1213,6 +1213,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE",
+                "link": "https://sspai.com/post/109207",
+                "published": "2026-04-29"
+            },
+            {
+                "title": "iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事",
+                "link": "https://sspai.com/post/109188",
+                "published": "2026-04-29"
+            },
+            {
+                "title": "派早报：乐道 L80 发布、一加 Ace 6 至尊版发布等",
+                "link": "https://sspai.com/post/109204",
+                "published": "2026-04-29"
+            },
+            {
+                "title": "住久了没意思（二）：从有光的地方开始动手",
+                "link": "https://sspai.com/prime/story/how-to-renovate-a-rental-balcony",
+                "published": "2026-04-28"
+            },
+            {
+                "title": "社区速递 139 | 派友热议三月买了啥、复古单反尼康 Df 体验",
+                "link": "https://sspai.com/post/109183",
+                "published": "2026-04-28"
+            },
+            {
+                "title": "TDS REVIEW｜索尼 WF-1000XM6 降噪真无线耳机体验",
+                "link": "https://sspai.com/post/109163",
+                "published": "2026-04-28"
+            },
+            {
                 "title": "关于胃肠镜，你需要知道的一切",
                 "link": "https://sspai.com/post/109040",
                 "published": "2026-04-28"
@@ -29668,7 +29698,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
