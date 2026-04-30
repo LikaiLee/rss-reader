@@ -1213,6 +1213,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "关于中年和中年危机的一些思考",
+                "link": "https://sspai.com/post/108451",
+                "published": "2026-04-30"
+            },
+            {
+                "title": "派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等",
+                "link": "https://sspai.com/post/109235",
+                "published": "2026-04-30"
+            },
+            {
+                "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉",
+                "link": "https://sspai.com/post/109062",
+                "published": "2026-04-29"
+            },
+            {
+                "title": "先别一股脑扔进洗衣机：换季衣物洗护指南",
+                "link": "https://sspai.com/post/60247",
+                "published": "2026-04-29"
+            },
+            {
                 "title": "众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE",
                 "link": "https://sspai.com/post/109207",
                 "published": "2026-04-29"
@@ -29698,7 +29718,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
