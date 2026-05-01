@@ -1213,6 +1213,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "本月玩什么｜朋友收藏、识质存在、沙罗周期",
+                "link": "https://sspai.com/post/109257",
+                "published": "2026-04-30"
+            },
+            {
+                "title": "五一假期将至，用 iPhone 轻松搞定假日出行",
+                "link": "https://sspai.com/post/88452",
+                "published": "2026-04-30"
+            },
+            {
                 "title": "关于中年和中年危机的一些思考",
                 "link": "https://sspai.com/post/108451",
                 "published": "2026-04-30"
@@ -29718,7 +29728,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
