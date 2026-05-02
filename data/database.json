@@ -1213,6 +1213,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/109266",
+                "published": "2026-05-01"
+            },
+            {
                 "title": "本月玩什么｜朋友收藏、识质存在、沙罗周期",
                 "link": "https://sspai.com/post/109257",
                 "published": "2026-04-30"
@@ -29728,7 +29733,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,

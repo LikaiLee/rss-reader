@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-05-01】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/109266)
 * [【2026-04-30】 本月玩什么｜朋友收藏、识质存在、沙罗周期](https://sspai.com/post/109257)
 * [【2026-04-30】 五一假期将至，用 iPhone 轻松搞定假日出行](https://sspai.com/post/88452)
 * [【2026-04-30】 关于中年和中年危机的一些思考](https://sspai.com/post/108451)
@@ -44,7 +45,6 @@
 * [【2026-04-29】 众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE](https://sspai.com/post/109207)
 * [【2026-04-29】 iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事](https://sspai.com/post/109188)
 * [【2026-04-29】 派早报：乐道 L80 发布、一加 Ace 6 至尊版发布等](https://sspai.com/post/109204)
-* [【2026-04-28】 住久了没意思（二）：从有光的地方开始动手](https://sspai.com/prime/story/how-to-renovate-a-rental-balcony)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-01 07:24:00
+:alarm_clock: 更新时间: 2026-05-02 06:59:45
