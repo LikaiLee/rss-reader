@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-05-05】 听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑](https://sspai.com/post/109014)
+* [【2026-05-04】 iPad 用户首次体验 Android 平板：vivo Pad6 Pro](https://sspai.com/post/109277)
 * [【2026-05-03】 假期出门太折磨？我的 23 条经验帮你规划惬意旅行](https://sspai.com/post/100006)
 * [【2026-05-01】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/109266)
 * [【2026-04-30】 本月玩什么｜朋友收藏、识质存在、沙罗周期](https://sspai.com/post/109257)
@@ -43,8 +45,6 @@
 * [【2026-04-30】 派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等](https://sspai.com/post/109235)
 * [【2026-04-29】 移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉](https://sspai.com/post/109062)
 * [【2026-04-29】 先别一股脑扔进洗衣机：换季衣物洗护指南](https://sspai.com/post/60247)
-* [【2026-04-29】 众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE](https://sspai.com/post/109207)
-* [【2026-04-29】 iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事](https://sspai.com/post/109188)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-04 07:45:31
+:alarm_clock: 更新时间: 2026-05-05 07:14:15
