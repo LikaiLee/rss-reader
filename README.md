@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-05-06】 我写了一个 skill，用 AI 给 AI「除味儿」](https://sspai.com/post/109288)
+* [【2026-05-06】 派早报：一加、realme 合并，M4 Mac mini 256GB 版本下架等](https://sspai.com/post/109410)
 * [【2026-05-05】 听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑](https://sspai.com/post/109014)
 * [【2026-05-04】 iPad 用户首次体验 Android 平板：vivo Pad6 Pro](https://sspai.com/post/109277)
 * [【2026-05-03】 假期出门太折磨？我的 23 条经验帮你规划惬意旅行](https://sspai.com/post/100006)
@@ -43,8 +45,6 @@
 * [【2026-04-30】 五一假期将至，用 iPhone 轻松搞定假日出行](https://sspai.com/post/88452)
 * [【2026-04-30】 关于中年和中年危机的一些思考](https://sspai.com/post/108451)
 * [【2026-04-30】 派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等](https://sspai.com/post/109235)
-* [【2026-04-29】 移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉](https://sspai.com/post/109062)
-* [【2026-04-29】 先别一股脑扔进洗衣机：换季衣物洗护指南](https://sspai.com/post/60247)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-05 07:14:15
+:alarm_clock: 更新时间: 2026-05-06 07:33:27
