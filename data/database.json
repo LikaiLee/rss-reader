@@ -1213,6 +1213,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "甘南秘境，大白高国：我的甘南自由行记",
+                "link": "https://sspai.com/post/109367",
+                "published": "2026-05-07"
+            },
+            {
+                "title": "派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等",
+                "link": "https://sspai.com/post/109448",
+                "published": "2026-05-07"
+            },
+            {
+                "title": "返工怎能不烦恼，打工人片单总有一部是你的「嘴替」",
+                "link": "https://sspai.com/post/88578",
+                "published": "2026-05-06"
+            },
+            {
+                "title": "为了让「上厕所」更健康，我做了一个小工具",
+                "link": "https://sspai.com/post/109296",
+                "published": "2026-05-06"
+            },
+            {
                 "title": "我写了一个 skill，用 AI 给 AI「除味儿」",
                 "link": "https://sspai.com/post/109288",
                 "published": "2026-05-06"
@@ -29758,7 +29778,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,

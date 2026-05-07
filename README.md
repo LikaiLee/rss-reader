@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-05-07】 甘南秘境，大白高国：我的甘南自由行记](https://sspai.com/post/109367)
+* [【2026-05-07】 派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等](https://sspai.com/post/109448)
+* [【2026-05-06】 返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
+* [【2026-05-06】 为了让「上厕所」更健康，我做了一个小工具](https://sspai.com/post/109296)
 * [【2026-05-06】 我写了一个 skill，用 AI 给 AI「除味儿」](https://sspai.com/post/109288)
 * [【2026-05-06】 派早报：一加、realme 合并，M4 Mac mini 256GB 版本下架等](https://sspai.com/post/109410)
 * [【2026-05-05】 听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑](https://sspai.com/post/109014)
 * [【2026-05-04】 iPad 用户首次体验 Android 平板：vivo Pad6 Pro](https://sspai.com/post/109277)
 * [【2026-05-03】 假期出门太折磨？我的 23 条经验帮你规划惬意旅行](https://sspai.com/post/100006)
 * [【2026-05-01】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/109266)
-* [【2026-04-30】 本月玩什么｜朋友收藏、识质存在、沙罗周期](https://sspai.com/post/109257)
-* [【2026-04-30】 五一假期将至，用 iPhone 轻松搞定假日出行](https://sspai.com/post/88452)
-* [【2026-04-30】 关于中年和中年危机的一些思考](https://sspai.com/post/108451)
-* [【2026-04-30】 派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等](https://sspai.com/post/109235)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-06 07:33:27
+:alarm_clock: 更新时间: 2026-05-07 07:40:56
