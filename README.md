@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-05-07】 科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html)
 * [【2026-04-23】 科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)
 * [【2026-04-16】 科技爱好者周刊（第 393 期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html)
 * [【2026-04-09】 科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)
@@ -25,7 +26,6 @@
 * [【2026-03-19】 科技爱好者周刊（第 389 期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)
 * [【2026-03-12】 科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)
 * [【2026-03-12】 零安装的"云养虾"：ArkClaw 使用指南](http://www.ruanyifeng.com/blog/2026/03/arkclaw.html)
-* [【2026-03-05】 科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-05-08】 万字复盘我家的装修过程，希望可以帮你避避坑](https://sspai.com/post/109397)
+* [【2026-05-08】 派早报：Google 发布 Fitbit Air 等](https://sspai.com/post/109489)
+* [【2026-05-07】 新玩意 240｜少数派的编辑们最近买了啥？](https://sspai.com/post/109474)
+* [【2026-05-07】 一日一技｜为什么你应该关闭 iOS 的键盘声音](https://sspai.com/post/109460)
 * [【2026-05-07】 甘南秘境，大白高国：我的甘南自由行记](https://sspai.com/post/109367)
 * [【2026-05-07】 派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等](https://sspai.com/post/109448)
 * [【2026-05-06】 返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
 * [【2026-05-06】 为了让「上厕所」更健康，我做了一个小工具](https://sspai.com/post/109296)
 * [【2026-05-06】 我写了一个 skill，用 AI 给 AI「除味儿」](https://sspai.com/post/109288)
 * [【2026-05-06】 派早报：一加、realme 合并，M4 Mac mini 256GB 版本下架等](https://sspai.com/post/109410)
-* [【2026-05-05】 听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑](https://sspai.com/post/109014)
-* [【2026-05-04】 iPad 用户首次体验 Android 平板：vivo Pad6 Pro](https://sspai.com/post/109277)
-* [【2026-05-03】 假期出门太折磨？我的 23 条经验帮你规划惬意旅行](https://sspai.com/post/100006)
-* [【2026-05-01】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/109266)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-07 07:40:56
+:alarm_clock: 更新时间: 2026-05-08 06:50:19

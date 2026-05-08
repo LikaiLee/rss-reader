@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 395 期）：软件开发的第三种方式",
+                "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html",
+                "published": "2026-05-07"
+            },
+            {
                 "title": "科技爱好者周刊（第 394 期）：第二次 API 开放浪潮",
                 "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html",
                 "published": "2026-04-23"
@@ -1205,13 +1210,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "万字复盘我家的装修过程，希望可以帮你避避坑",
+                "link": "https://sspai.com/post/109397",
+                "published": "2026-05-08"
+            },
+            {
+                "title": "派早报：Google 发布 Fitbit Air 等",
+                "link": "https://sspai.com/post/109489",
+                "published": "2026-05-08"
+            },
+            {
+                "title": "新玩意 240｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/109474",
+                "published": "2026-05-07"
+            },
+            {
+                "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+                "link": "https://sspai.com/post/109460",
+                "published": "2026-05-07"
+            },
             {
                 "title": "甘南秘境，大白高国：我的甘南自由行记",
                 "link": "https://sspai.com/post/109367",
