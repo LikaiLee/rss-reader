@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-05-08】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109525)
+* [【2026-05-08】 在 WWDC26 之前，与四位中国获奖者聊聊他们的 Swift 学生挑战赛](https://sspai.com/post/109521)
 * [【2026-05-08】 万字复盘我家的装修过程，希望可以帮你避避坑](https://sspai.com/post/109397)
 * [【2026-05-08】 派早报：Google 发布 Fitbit Air 等](https://sspai.com/post/109489)
 * [【2026-05-07】 新玩意 240｜少数派的编辑们最近买了啥？](https://sspai.com/post/109474)
@@ -43,8 +45,6 @@
 * [【2026-05-07】 派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等](https://sspai.com/post/109448)
 * [【2026-05-06】 返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
 * [【2026-05-06】 为了让「上厕所」更健康，我做了一个小工具](https://sspai.com/post/109296)
-* [【2026-05-06】 我写了一个 skill，用 AI 给 AI「除味儿」](https://sspai.com/post/109288)
-* [【2026-05-06】 派早报：一加、realme 合并，M4 Mac mini 256GB 版本下架等](https://sspai.com/post/109410)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-08 06:50:19
+:alarm_clock: 更新时间: 2026-05-09 07:05:08
