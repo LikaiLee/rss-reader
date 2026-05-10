@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-05-09】 具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面](https://sspai.com/prime/story/inside-release-notes-260509)
+* [【2026-05-09】 当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感](https://sspai.com/post/98902)
 * [【2026-05-08】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109525)
 * [【2026-05-08】 在 WWDC26 之前，与四位中国获奖者聊聊他们的 Swift 学生挑战赛](https://sspai.com/post/109521)
 * [【2026-05-08】 万字复盘我家的装修过程，希望可以帮你避避坑](https://sspai.com/post/109397)
@@ -43,8 +45,6 @@
 * [【2026-05-07】 一日一技｜为什么你应该关闭 iOS 的键盘声音](https://sspai.com/post/109460)
 * [【2026-05-07】 甘南秘境，大白高国：我的甘南自由行记](https://sspai.com/post/109367)
 * [【2026-05-07】 派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等](https://sspai.com/post/109448)
-* [【2026-05-06】 返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
-* [【2026-05-06】 为了让「上厕所」更健康，我做了一个小工具](https://sspai.com/post/109296)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-09 07:05:08
+:alarm_clock: 更新时间: 2026-05-10 07:23:59
