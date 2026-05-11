@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-05-11】 监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到](https://sspai.com/post/109542)
+* [【2026-05-10】 派早报：苹果与英特尔就芯片代工达成初步协议](https://sspai.com/post/109610)
+* [【2026-05-10】 寻找你身边的电波——如何上中继](https://sspai.com/post/87897)
 * [【2026-05-09】 具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面](https://sspai.com/prime/story/inside-release-notes-260509)
 * [【2026-05-09】 当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感](https://sspai.com/post/98902)
 * [【2026-05-08】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109525)
@@ -42,9 +45,6 @@
 * [【2026-05-08】 万字复盘我家的装修过程，希望可以帮你避避坑](https://sspai.com/post/109397)
 * [【2026-05-08】 派早报：Google 发布 Fitbit Air 等](https://sspai.com/post/109489)
 * [【2026-05-07】 新玩意 240｜少数派的编辑们最近买了啥？](https://sspai.com/post/109474)
-* [【2026-05-07】 一日一技｜为什么你应该关闭 iOS 的键盘声音](https://sspai.com/post/109460)
-* [【2026-05-07】 甘南秘境，大白高国：我的甘南自由行记](https://sspai.com/post/109367)
-* [【2026-05-07】 派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等](https://sspai.com/post/109448)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-10 07:23:59
+:alarm_clock: 更新时间: 2026-05-11 08:22:23
