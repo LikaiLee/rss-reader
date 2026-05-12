@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-05-12】 精彩之下的反常时刻：聊聊 F1 2026 年新规悖论](https://sspai.com/post/109546)
+* [【2026-05-12】 App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备](https://sspai.com/post/73727)
+* [【2026-05-11】 派早报：大疆发布扫拖机器人 ROMO 2 系列等](https://sspai.com/post/109647)
+* [【2026-05-11】 派评 | 近期值得关注的 App](https://sspai.com/post/109636)
+* [【2026-05-11】 手冲咖啡进阶指北：如何让「冠军参数」变成「你的日常」](https://sspai.com/post/109461)
 * [【2026-05-11】 监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到](https://sspai.com/post/109542)
 * [【2026-05-10】 派早报：苹果与英特尔就芯片代工达成初步协议](https://sspai.com/post/109610)
 * [【2026-05-10】 寻找你身边的电波——如何上中继](https://sspai.com/post/87897)
 * [【2026-05-09】 具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面](https://sspai.com/prime/story/inside-release-notes-260509)
 * [【2026-05-09】 当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感](https://sspai.com/post/98902)
-* [【2026-05-08】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109525)
-* [【2026-05-08】 在 WWDC26 之前，与四位中国获奖者聊聊他们的 Swift 学生挑战赛](https://sspai.com/post/109521)
-* [【2026-05-08】 万字复盘我家的装修过程，希望可以帮你避避坑](https://sspai.com/post/109397)
-* [【2026-05-08】 派早报：Google 发布 Fitbit Air 等](https://sspai.com/post/109489)
-* [【2026-05-07】 新玩意 240｜少数派的编辑们最近买了啥？](https://sspai.com/post/109474)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-11 08:22:23
+:alarm_clock: 更新时间: 2026-05-12 07:40:43

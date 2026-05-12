@@ -1218,6 +1218,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "精彩之下的反常时刻：聊聊 F1 2026 年新规悖论",
+                "link": "https://sspai.com/post/109546",
+                "published": "2026-05-12"
+            },
+            {
+                "title": "App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备",
+                "link": "https://sspai.com/post/73727",
+                "published": "2026-05-12"
+            },
+            {
+                "title": "派早报：大疆发布扫拖机器人 ROMO 2 系列等",
+                "link": "https://sspai.com/post/109647",
+                "published": "2026-05-11"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/109636",
+                "published": "2026-05-11"
+            },
+            {
+                "title": "手冲咖啡进阶指北：如何让「冠军参数」变成「你的日常」",
+                "link": "https://sspai.com/post/109461",
+                "published": "2026-05-11"
+            },
+            {
                 "title": "监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到",
                 "link": "https://sspai.com/post/109542",
                 "published": "2026-05-11"
@@ -29838,7 +29863,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
