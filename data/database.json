@@ -1218,6 +1218,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Google 提前给 Android 办了场发布会，但主角依然不是 Android",
+                "link": "https://sspai.com/post/109699",
+                "published": "2026-05-13"
+            },
+            {
+                "title": "派早报：Google 发布多项 Android 功能更新、腾讯收购喜马拉雅获批等",
+                "link": "https://sspai.com/post/109698",
+                "published": "2026-05-12"
+            },
+            {
+                "title": "社区速递 140 | 派友热议状态栏里藏了啥、两款百元级新玩意体验",
+                "link": "https://sspai.com/post/109674",
+                "published": "2026-05-12"
+            },
+            {
                 "title": "精彩之下的反常时刻：聊聊 F1 2026 年新规悖论",
                 "link": "https://sspai.com/post/109546",
                 "published": "2026-05-12"
@@ -29863,7 +29878,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
