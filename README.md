@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-05-14】 AI 潮来，翻译何为](https://sspai.com/post/108816)
+* [【2026-05-14】 派早报：索尼推出 Xperia 1 VIII 手机及 Alpha 7R VI 相机等](https://sspai.com/post/109734)
+* [【2026-05-13】 App+1 | 把笔记软件「装进」浏览器：SilverBullet.md](https://sspai.com/post/109399)
+* [【2026-05-13】 佳明本能 Instinct 3 太阳能版评测：我的智能手表终章](https://sspai.com/post/108228)
 * [【2026-05-13】 Google 提前给 Android 办了场发布会，但主角依然不是 Android](https://sspai.com/post/109699)
 * [【2026-05-12】 派早报：Google 发布多项 Android 功能更新、腾讯收购喜马拉雅获批等](https://sspai.com/post/109698)
 * [【2026-05-12】 社区速递 140 | 派友热议状态栏里藏了啥、两款百元级新玩意体验](https://sspai.com/post/109674)
 * [【2026-05-12】 精彩之下的反常时刻：聊聊 F1 2026 年新规悖论](https://sspai.com/post/109546)
 * [【2026-05-12】 App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备](https://sspai.com/post/73727)
 * [【2026-05-11】 派早报：大疆发布扫拖机器人 ROMO 2 系列等](https://sspai.com/post/109647)
-* [【2026-05-11】 派评 | 近期值得关注的 App](https://sspai.com/post/109636)
-* [【2026-05-11】 手冲咖啡进阶指北：如何让「冠军参数」变成「你的日常」](https://sspai.com/post/109461)
-* [【2026-05-11】 监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到](https://sspai.com/post/109542)
-* [【2026-05-10】 派早报：苹果与英特尔就芯片代工达成初步协议](https://sspai.com/post/109610)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-13 07:47:47
+:alarm_clock: 更新时间: 2026-05-14 07:40:01
