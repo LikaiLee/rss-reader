@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-05-15】 科技爱好者周刊（第 396 期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html)
 * [【2026-05-07】 科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html)
 * [【2026-04-23】 科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)
 * [【2026-04-16】 科技爱好者周刊（第 393 期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html)
@@ -25,7 +26,6 @@
 * [【2026-03-21】 套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)
 * [【2026-03-19】 科技爱好者周刊（第 389 期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)
 * [【2026-03-12】 科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)
-* [【2026-03-12】 零安装的"云养虾"：ArkClaw 使用指南](http://www.ruanyifeng.com/blog/2026/03/arkclaw.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-05-15】 你真的需要墨水屏设备吗？](https://sspai.com/post/109550)
+* [【2026-05-15】 派早报：戴尔推出 Alienware 15 入门游戏本，Spotify 将支持 HLS 视频播客技术等](https://sspai.com/post/109787)
+* [【2026-05-14】 新玩意 241｜少数派的编辑们最近买了啥？](https://sspai.com/post/109771)
+* [【2026-05-14】 在 Android 上运行 Linux 终端，体验究竟怎么样？（2026 版）](https://sspai.com/prime/story/linux-vm-on-android)
+* [【2026-05-14】 用 Obsidian Web Clipper，让豆瓣种草更容易](https://sspai.com/post/109318)
 * [【2026-05-14】 AI 潮来，翻译何为](https://sspai.com/post/108816)
 * [【2026-05-14】 派早报：索尼推出 Xperia 1 VIII 手机及 Alpha 7R VI 相机等](https://sspai.com/post/109734)
 * [【2026-05-13】 App+1 | 把笔记软件「装进」浏览器：SilverBullet.md](https://sspai.com/post/109399)
 * [【2026-05-13】 佳明本能 Instinct 3 太阳能版评测：我的智能手表终章](https://sspai.com/post/108228)
 * [【2026-05-13】 Google 提前给 Android 办了场发布会，但主角依然不是 Android](https://sspai.com/post/109699)
-* [【2026-05-12】 派早报：Google 发布多项 Android 功能更新、腾讯收购喜马拉雅获批等](https://sspai.com/post/109698)
-* [【2026-05-12】 社区速递 140 | 派友热议状态栏里藏了啥、两款百元级新玩意体验](https://sspai.com/post/109674)
-* [【2026-05-12】 精彩之下的反常时刻：聊聊 F1 2026 年新规悖论](https://sspai.com/post/109546)
-* [【2026-05-12】 App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备](https://sspai.com/post/73727)
-* [【2026-05-11】 派早报：大疆发布扫拖机器人 ROMO 2 系列等](https://sspai.com/post/109647)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-14 07:40:01
+:alarm_clock: 更新时间: 2026-05-15 07:49:56
