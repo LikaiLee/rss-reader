@@ -1215,13 +1215,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/109825",
+                "published": "2026-05-15"
+            },
+            {
+                "title": "装了啥：编辑部用什么转写音视频内容？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-260515",
+                "published": "2026-05-15"
+            },
+            {
+                "title": "[会员免费] Apple WWDC26 全球开发者大会，来与少数派一起看",
+                "link": "https://sspai.com/post/109816",
+                "published": "2026-05-15"
+            },
+            {
+                "title": "快捷指令｜纯粹、专注、能群发，一种「点名式」微信聊天新体验",
+                "link": "https://sspai.com/post/109708",
+                "published": "2026-05-15"
+            },
             {
                 "title": "你真的需要墨水屏设备吗？",
                 "link": "https://sspai.com/post/109550",
@@ -29928,7 +29948,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

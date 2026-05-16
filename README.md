@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-05-15】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109825)
+* [【2026-05-15】 装了啥：编辑部用什么转写音视频内容？](https://sspai.com/prime/story/zhuanglesha-260515)
+* [【2026-05-15】 [会员免费] Apple WWDC26 全球开发者大会，来与少数派一起看](https://sspai.com/post/109816)
+* [【2026-05-15】 快捷指令｜纯粹、专注、能群发，一种「点名式」微信聊天新体验](https://sspai.com/post/109708)
 * [【2026-05-15】 你真的需要墨水屏设备吗？](https://sspai.com/post/109550)
 * [【2026-05-15】 派早报：戴尔推出 Alienware 15 入门游戏本，Spotify 将支持 HLS 视频播客技术等](https://sspai.com/post/109787)
 * [【2026-05-14】 新玩意 241｜少数派的编辑们最近买了啥？](https://sspai.com/post/109771)
 * [【2026-05-14】 在 Android 上运行 Linux 终端，体验究竟怎么样？（2026 版）](https://sspai.com/prime/story/linux-vm-on-android)
 * [【2026-05-14】 用 Obsidian Web Clipper，让豆瓣种草更容易](https://sspai.com/post/109318)
 * [【2026-05-14】 AI 潮来，翻译何为](https://sspai.com/post/108816)
-* [【2026-05-14】 派早报：索尼推出 Xperia 1 VIII 手机及 Alpha 7R VI 相机等](https://sspai.com/post/109734)
-* [【2026-05-13】 App+1 | 把笔记软件「装进」浏览器：SilverBullet.md](https://sspai.com/post/109399)
-* [【2026-05-13】 佳明本能 Instinct 3 太阳能版评测：我的智能手表终章](https://sspai.com/post/108228)
-* [【2026-05-13】 Google 提前给 Android 办了场发布会，但主角依然不是 Android](https://sspai.com/post/109699)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-15 07:49:56
+:alarm_clock: 更新时间: 2026-05-16 07:12:49
