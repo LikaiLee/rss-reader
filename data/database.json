@@ -1223,6 +1223,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验",
+                "link": "https://sspai.com/post/64870",
+                "published": "2026-05-17"
+            },
+            {
+                "title": "为什么我觉得好的东西，媒体评测却给了低分？",
+                "link": "https://sspai.com/post/109777",
+                "published": "2026-05-16"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 8 部作品",
                 "link": "https://sspai.com/post/109825",
                 "published": "2026-05-15"
@@ -29948,7 +29958,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,

@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-05-17】 看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验](https://sspai.com/post/64870)
+* [【2026-05-16】 为什么我觉得好的东西，媒体评测却给了低分？](https://sspai.com/post/109777)
 * [【2026-05-15】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109825)
 * [【2026-05-15】 装了啥：编辑部用什么转写音视频内容？](https://sspai.com/prime/story/zhuanglesha-260515)
 * [【2026-05-15】 [会员免费] Apple WWDC26 全球开发者大会，来与少数派一起看](https://sspai.com/post/109816)
@@ -43,8 +45,6 @@
 * [【2026-05-15】 派早报：戴尔推出 Alienware 15 入门游戏本，Spotify 将支持 HLS 视频播客技术等](https://sspai.com/post/109787)
 * [【2026-05-14】 新玩意 241｜少数派的编辑们最近买了啥？](https://sspai.com/post/109771)
 * [【2026-05-14】 在 Android 上运行 Linux 终端，体验究竟怎么样？（2026 版）](https://sspai.com/prime/story/linux-vm-on-android)
-* [【2026-05-14】 用 Obsidian Web Clipper，让豆瓣种草更容易](https://sspai.com/post/109318)
-* [【2026-05-14】 AI 潮来，翻译何为](https://sspai.com/post/108816)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-16 07:12:49
+:alarm_clock: 更新时间: 2026-05-17 07:31:59
