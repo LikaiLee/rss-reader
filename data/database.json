@@ -1223,6 +1223,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试",
+                "link": "https://sspai.com/post/109743",
+                "published": "2026-05-18"
+            },
+            {
+                "title": "四天三夜，用小长假的时间体验青海湖小环线",
+                "link": "https://sspai.com/post/103407",
+                "published": "2026-05-18"
+            },
+            {
+                "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
+                "link": "https://sspai.com/post/109870",
+                "published": "2026-05-17"
+            },
+            {
                 "title": "看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验",
                 "link": "https://sspai.com/post/64870",
                 "published": "2026-05-17"
@@ -29958,7 +29973,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,

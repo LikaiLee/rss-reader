@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-05-18】 打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试](https://sspai.com/post/109743)
+* [【2026-05-18】 四天三夜，用小长假的时间体验青海湖小环线](https://sspai.com/post/103407)
+* [【2026-05-17】 派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年](https://sspai.com/post/109870)
 * [【2026-05-17】 看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验](https://sspai.com/post/64870)
 * [【2026-05-16】 为什么我觉得好的东西，媒体评测却给了低分？](https://sspai.com/post/109777)
 * [【2026-05-15】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109825)
@@ -42,9 +45,6 @@
 * [【2026-05-15】 [会员免费] Apple WWDC26 全球开发者大会，来与少数派一起看](https://sspai.com/post/109816)
 * [【2026-05-15】 快捷指令｜纯粹、专注、能群发，一种「点名式」微信聊天新体验](https://sspai.com/post/109708)
 * [【2026-05-15】 你真的需要墨水屏设备吗？](https://sspai.com/post/109550)
-* [【2026-05-15】 派早报：戴尔推出 Alienware 15 入门游戏本，Spotify 将支持 HLS 视频播客技术等](https://sspai.com/post/109787)
-* [【2026-05-14】 新玩意 241｜少数派的编辑们最近买了啥？](https://sspai.com/post/109771)
-* [【2026-05-14】 在 Android 上运行 Linux 终端，体验究竟怎么样？（2026 版）](https://sspai.com/prime/story/linux-vm-on-android)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-17 07:31:59
+:alarm_clock: 更新时间: 2026-05-18 08:42:22
