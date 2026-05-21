@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-05-21】 少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启](https://sspai.com/post/109957)
+* [【2026-05-21】 派早报：iQOO 15T 正式发布、小鹏 GX 上市等](https://sspai.com/post/109976)
+* [【2026-05-20】 当 AI 成为角色：漫谈我的 SillyTavern 使用经验](https://sspai.com/post/109869)
 * [【2026-05-20】 4 月音乐精选：听这 8 张美妙的专辑迎接夏天](https://sspai.com/post/109418)
 * [【2026-05-20】 自动补全生僻字，让 Kindle 从底层告别小方块](https://sspai.com/post/109625)
 * [【2026-05-20】 派早报：Google 发布多项 Gemini 产品更新等](https://sspai.com/post/109945)
@@ -42,9 +45,6 @@
 * [【2026-05-19】 线下活动｜听完这首，不再 Emo：Leon x 少数派萨克斯音乐奏享会](https://sspai.com/post/109724)
 * [【2026-05-19】 YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？](https://sspai.com/post/109889)
 * [【2026-05-18】 派早报：红魔发布红魔 11S Pro 系列手机等](https://sspai.com/post/109908)
-* [【2026-05-18】 派评 | 近期值得关注的 App](https://sspai.com/post/109886)
-* [【2026-05-18】 打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试](https://sspai.com/post/109743)
-* [【2026-05-18】 四天三夜，用小长假的时间体验青海湖小环线](https://sspai.com/post/103407)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-20 08:23:48
+:alarm_clock: 更新时间: 2026-05-21 08:30:02

@@ -1223,6 +1223,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启",
+                "link": "https://sspai.com/post/109957",
+                "published": "2026-05-21"
+            },
+            {
+                "title": "派早报：iQOO 15T 正式发布、小鹏 GX 上市等",
+                "link": "https://sspai.com/post/109976",
+                "published": "2026-05-21"
+            },
+            {
+                "title": "当 AI 成为角色：漫谈我的 SillyTavern 使用经验",
+                "link": "https://sspai.com/post/109869",
+                "published": "2026-05-20"
+            },
+            {
                 "title": "4 月音乐精选：听这 8 张美妙的专辑迎接夏天",
                 "link": "https://sspai.com/post/109418",
                 "published": "2026-05-20"
@@ -30013,7 +30028,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
