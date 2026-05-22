@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-05-21】 科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html)
 * [【2026-05-15】 科技爱好者周刊（第 396 期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html)
 * [【2026-05-07】 科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html)
 * [【2026-04-23】 科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)
@@ -25,7 +26,6 @@
 * [【2026-03-26】 科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)
 * [【2026-03-21】 套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)
 * [【2026-03-19】 科技爱好者周刊（第 389 期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)
-* [【2026-03-12】 科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-05-22】 Maptoposter Online：把你爱的城市画成艺术海报](https://sspai.com/post/109287)
+* [【2026-05-22】 派早报：小米召开新品发布会、Photoshop 移除工具支持端侧 AI 模型等](https://sspai.com/post/110020)
+* [【2026-05-21】 新玩意 242｜少数派的编辑们最近买了啥？](https://sspai.com/post/110009)
+* [【2026-05-21】 iOS 里的这些实用辅助功能，每个人都可能用得上](https://sspai.com/post/104073)
 * [【2026-05-21】 少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启](https://sspai.com/post/109957)
 * [【2026-05-21】 派早报：iQOO 15T 正式发布、小鹏 GX 上市等](https://sspai.com/post/109976)
 * [【2026-05-20】 当 AI 成为角色：漫谈我的 SillyTavern 使用经验](https://sspai.com/post/109869)
 * [【2026-05-20】 4 月音乐精选：听这 8 张美妙的专辑迎接夏天](https://sspai.com/post/109418)
 * [【2026-05-20】 自动补全生僻字，让 Kindle 从底层告别小方块](https://sspai.com/post/109625)
 * [【2026-05-20】 派早报：Google 发布多项 Gemini 产品更新等](https://sspai.com/post/109945)
-* [【2026-05-19】 社区速递 141 | 派友下午三点的「精神快充」、复古磁带机与特殊的新玩意](https://sspai.com/post/109928)
-* [【2026-05-19】 线下活动｜听完这首，不再 Emo：Leon x 少数派萨克斯音乐奏享会](https://sspai.com/post/109724)
-* [【2026-05-19】 YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？](https://sspai.com/post/109889)
-* [【2026-05-18】 派早报：红魔发布红魔 11S Pro 系列手机等](https://sspai.com/post/109908)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-21 08:30:02
+:alarm_clock: 更新时间: 2026-05-22 08:19:43
