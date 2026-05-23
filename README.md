@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-05-23】 这个周末，来深圳文博会和少数派打个卡吧](https://sspai.com/post/110052)
+* [【2026-05-22】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/110046)
+* [【2026-05-22】 浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」](https://sspai.com/post/110044)
 * [【2026-05-22】 Maptoposter Online：把你爱的城市画成艺术海报](https://sspai.com/post/109287)
 * [【2026-05-22】 派早报：小米召开新品发布会、Photoshop 移除工具支持端侧 AI 模型等](https://sspai.com/post/110020)
 * [【2026-05-21】 新玩意 242｜少数派的编辑们最近买了啥？](https://sspai.com/post/110009)
@@ -42,9 +45,6 @@
 * [【2026-05-21】 少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启](https://sspai.com/post/109957)
 * [【2026-05-21】 派早报：iQOO 15T 正式发布、小鹏 GX 上市等](https://sspai.com/post/109976)
 * [【2026-05-20】 当 AI 成为角色：漫谈我的 SillyTavern 使用经验](https://sspai.com/post/109869)
-* [【2026-05-20】 4 月音乐精选：听这 8 张美妙的专辑迎接夏天](https://sspai.com/post/109418)
-* [【2026-05-20】 自动补全生僻字，让 Kindle 从底层告别小方块](https://sspai.com/post/109625)
-* [【2026-05-20】 派早报：Google 发布多项 Gemini 产品更新等](https://sspai.com/post/109945)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-22 08:19:43
+:alarm_clock: 更新时间: 2026-05-23 07:29:47
