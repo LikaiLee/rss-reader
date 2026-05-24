@@ -1228,6 +1228,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "capcap：一键搞定截图、标注与图床，免费、开源的 macOS 截图工具",
+                "link": "https://sspai.com/post/109741",
+                "published": "2026-05-24"
+            },
+            {
                 "title": "这个周末，来深圳文博会和少数派打个卡吧",
                 "link": "https://sspai.com/post/110052",
                 "published": "2026-05-23"
@@ -30068,7 +30073,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
