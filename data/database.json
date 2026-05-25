@@ -1228,6 +1228,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要",
+                "link": "https://sspai.com/post/81257",
+                "published": "2026-05-25"
+            },
+            {
+                "title": "五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役",
+                "link": "https://sspai.com/post/109450",
+                "published": "2026-05-25"
+            },
+            {
+                "title": "派早报：GitHub 在微软治下面临技术和人员流失困境",
+                "link": "https://sspai.com/post/110130",
+                "published": "2026-05-24"
+            },
+            {
                 "title": "capcap：一键搞定截图、标注与图床，免费、开源的 macOS 截图工具",
                 "link": "https://sspai.com/post/109741",
                 "published": "2026-05-24"
@@ -30073,7 +30088,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
