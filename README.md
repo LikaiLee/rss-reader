@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-05-26】 Hyrox 首战攻略：从新手到完赛，普通人亦可澎湃赛场](https://sspai.com/post/110152)
+* [【2026-05-26】 App+1 | 有太多香水不知道用哪个？我做了一款能帮你选香水的记录 App](https://sspai.com/post/109227)
+* [【2026-05-25】 派早报：OPPO 与荣耀发布多款新品，华为发表半导体领域新定律等](https://sspai.com/post/110171)
+* [【2026-05-25】 派评 | 近期值得关注的 App](https://sspai.com/post/110156)
+* [【2026-05-25】 无障碍可感知，有爱亦无碍：藏在日常里的 Apple 辅助功能](https://sspai.com/post/110144)
 * [【2026-05-25】 被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要](https://sspai.com/post/81257)
 * [【2026-05-25】 五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役](https://sspai.com/post/109450)
 * [【2026-05-24】 派早报：GitHub 在微软治下面临技术和人员流失困境](https://sspai.com/post/110130)
 * [【2026-05-24】 capcap：一键搞定截图、标注与图床，免费、开源的 macOS 截图工具](https://sspai.com/post/109741)
 * [【2026-05-23】 这个周末，来深圳文博会和少数派打个卡吧](https://sspai.com/post/110052)
-* [【2026-05-22】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/110046)
-* [【2026-05-22】 浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」](https://sspai.com/post/110044)
-* [【2026-05-22】 Maptoposter Online：把你爱的城市画成艺术海报](https://sspai.com/post/109287)
-* [【2026-05-22】 派早报：小米召开新品发布会、Photoshop 移除工具支持端侧 AI 模型等](https://sspai.com/post/110020)
-* [【2026-05-21】 新玩意 242｜少数派的编辑们最近买了啥？](https://sspai.com/post/110009)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-25 08:54:33
+:alarm_clock: 更新时间: 2026-05-26 08:28:44

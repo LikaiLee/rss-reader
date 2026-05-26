@@ -1228,6 +1228,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Hyrox 首战攻略：从新手到完赛，普通人亦可澎湃赛场",
+                "link": "https://sspai.com/post/110152",
+                "published": "2026-05-26"
+            },
+            {
+                "title": "App+1 | 有太多香水不知道用哪个？我做了一款能帮你选香水的记录 App",
+                "link": "https://sspai.com/post/109227",
+                "published": "2026-05-26"
+            },
+            {
+                "title": "派早报：OPPO 与荣耀发布多款新品，华为发表半导体领域新定律等",
+                "link": "https://sspai.com/post/110171",
+                "published": "2026-05-25"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/110156",
+                "published": "2026-05-25"
+            },
+            {
+                "title": "无障碍可感知，有爱亦无碍：藏在日常里的 Apple 辅助功能",
+                "link": "https://sspai.com/post/110144",
+                "published": "2026-05-25"
+            },
+            {
                 "title": "被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要",
                 "link": "https://sspai.com/post/81257",
                 "published": "2026-05-25"
@@ -30088,7 +30113,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
