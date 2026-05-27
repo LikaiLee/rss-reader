@@ -1228,6 +1228,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "屏忆：这款开源工具，把过目就忘的日常变成「上下文」",
+                "link": "https://sspai.com/post/110115",
+                "published": "2026-05-27"
+            },
+            {
+                "title": "为什么没人会喜欢你用 LLM 写出来的东西？",
+                "link": "https://sspai.com/post/110102",
+                "published": "2026-05-27"
+            },
+            {
+                "title": "派早报：法拉利发布首款纯电跑车 Luce、森海塞尔发布 Momentum 5 耳机等",
+                "link": "https://sspai.com/post/110297",
+                "published": "2026-05-26"
+            },
+            {
+                "title": "社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树",
+                "link": "https://sspai.com/post/110184",
+                "published": "2026-05-26"
+            },
+            {
                 "title": "Hyrox 首战攻略：从新手到完赛，普通人亦可澎湃赛场",
                 "link": "https://sspai.com/post/110152",
                 "published": "2026-05-26"
@@ -30113,7 +30133,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
