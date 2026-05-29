@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-05-29】 科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)
 * [【2026-05-21】 科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html)
 * [【2026-05-15】 科技爱好者周刊（第 396 期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html)
 * [【2026-05-07】 科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html)
@@ -25,7 +26,6 @@
 * [【2026-04-03】 科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)
 * [【2026-03-26】 科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)
 * [【2026-03-21】 套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)
-* [【2026-03-19】 科技爱好者周刊（第 389 期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-05-29】 Await：五分钟，把点子变成 iPhone 小组件](https://sspai.com/post/110106)
+* [【2026-05-29】 什么才是「好」的 Android 音频输出？从一台旧日 Xperia 说起](https://sspai.com/post/110120)
+* [【2026-05-29】 派早报：Sony 发布 Bravia 2026 款电视产品等](https://sspai.com/post/110425)
+* [【2026-05-28】 从原理到实践：年轻人的第一篇染发及洗护指南](https://sspai.com/prime/story/hair-dye-tutorial)
+* [【2026-05-28】 AI Agent 干中学，「造轮子」让我学会了什么？](https://sspai.com/post/110370)
 * [【2026-05-28】 从零手搓 AI Agent，我学到了什么？](https://sspai.com/post/110370)
 * [【2026-05-28】 免费试读 | 零基础美术启蒙，该如何准备适合的美术器材](https://sspai.com/post/108334)
 * [【2026-05-28】 派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等](https://sspai.com/post/110368)
 * [【2026-05-27】 客制化键盘｜近期值得一看的套件与键帽：怪诞主题、复古创新与静电容](https://sspai.com/post/108618)
 * [【2026-05-27】 屏忆：这款开源工具，把过目就忘的日常变成「上下文」](https://sspai.com/post/110115)
-* [【2026-05-27】 为什么没人会喜欢你用 LLM 写出来的东西？](https://sspai.com/post/110102)
-* [【2026-05-26】 派早报：法拉利发布首款纯电跑车 Luce、森海塞尔发布 Momentum 5 耳机等](https://sspai.com/post/110297)
-* [【2026-05-26】 社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树](https://sspai.com/post/110184)
-* [【2026-05-26】 Hyrox 首战攻略：从新手到完赛，普通人亦可澎湃赛场](https://sspai.com/post/110152)
-* [【2026-05-26】 App+1 | 有太多香水不知道用哪个？我做了一款能帮你选香水的记录 App](https://sspai.com/post/109227)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-28 08:40:12
+:alarm_clock: 更新时间: 2026-05-29 08:40:06

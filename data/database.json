@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 398 期）：Token 费用难以负担",
+                "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html",
+                "published": "2026-05-29"
+            },
+            {
                 "title": "科技爱好者周刊（第 397 期）：财富正在向 AI 集中",
                 "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html",
                 "published": "2026-05-21"
@@ -1220,13 +1225,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "Await：五分钟，把点子变成 iPhone 小组件",
+                "link": "https://sspai.com/post/110106",
+                "published": "2026-05-29"
+            },
+            {
+                "title": "什么才是「好」的 Android 音频输出？从一台旧日 Xperia 说起",
+                "link": "https://sspai.com/post/110120",
+                "published": "2026-05-29"
+            },
+            {
+                "title": "派早报：Sony 发布 Bravia 2026 款电视产品等",
+                "link": "https://sspai.com/post/110425",
+                "published": "2026-05-29"
+            },
+            {
+                "title": "从原理到实践：年轻人的第一篇染发及洗护指南",
+                "link": "https://sspai.com/prime/story/hair-dye-tutorial",
+                "published": "2026-05-28"
+            },
+            {
+                "title": "AI Agent 干中学，「造轮子」让我学会了什么？",
+                "link": "https://sspai.com/post/110370",
+                "published": "2026-05-28"
+            },
             {
                 "title": "从零手搓 AI Agent，我学到了什么？",
                 "link": "https://sspai.com/post/110370",
@@ -30153,7 +30183,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
