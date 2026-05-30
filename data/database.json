@@ -1225,13 +1225,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/110446",
+                "published": "2026-05-29"
+            },
+            {
+                "title": "住久了没意思（三）：打造能好好放松的卧室",
+                "link": "https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom",
+                "published": "2026-05-29"
+            },
             {
                 "title": "Await：五分钟，把点子变成 iPhone 小组件",
                 "link": "https://sspai.com/post/110106",
@@ -30183,7 +30193,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
