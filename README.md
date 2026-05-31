@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-05-31】 本月玩什么｜混音青春、007 初露锋芒、归零巡礼、地平线 6](https://sspai.com/post/110488)
+* [【2026-05-30】 AI 如何影响你的审美？](https://sspai.com/post/110172)
 * [【2026-05-29】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110446)
 * [【2026-05-29】 住久了没意思（三）：打造能好好放松的卧室](https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom)
 * [【2026-05-29】 Await：五分钟，把点子变成 iPhone 小组件](https://sspai.com/post/110106)
@@ -43,8 +45,6 @@
 * [【2026-05-28】 从原理到实践：年轻人的第一篇染发及洗护指南](https://sspai.com/prime/story/hair-dye-tutorial)
 * [【2026-05-28】 AI Agent 干中学，「造轮子」让我学会了什么？](https://sspai.com/post/110370)
 * [【2026-05-28】 从零手搓 AI Agent，我学到了什么？](https://sspai.com/post/110370)
-* [【2026-05-28】 免费试读 | 零基础美术启蒙，该如何准备适合的美术器材](https://sspai.com/post/108334)
-* [【2026-05-28】 派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等](https://sspai.com/post/110368)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-05-30 07:39:51
+:alarm_clock: 更新时间: 2026-05-31 08:12:35
