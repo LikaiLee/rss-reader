@@ -1233,6 +1233,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "成本 600 元不到，我 3D 打印了一把能弹的电吉他",
+                "link": "https://sspai.com/post/110412",
+                "published": "2026-06-01"
+            },
+            {
+                "title": "把一句经文放进每天：「一日一偈」的轻阅读尝试",
+                "link": "https://sspai.com/post/110094",
+                "published": "2026-06-01"
+            },
+            {
+                "title": "派早报：Anthropic 估值超过 OpenAI",
+                "link": "https://sspai.com/post/110519",
+                "published": "2026-05-31"
+            },
+            {
                 "title": "本月玩什么｜混音青春、007 初露锋芒、归零巡礼、地平线 6",
                 "link": "https://sspai.com/post/110488",
                 "published": "2026-05-31"
@@ -30203,7 +30218,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
