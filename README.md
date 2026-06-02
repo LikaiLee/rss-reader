@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-06-02】 得力管家还是多此一举？聊聊 macOS 后台进程管理工具 App Tamer](https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer)
+* [【2026-06-02】 在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈](https://sspai.com/post/110550)
+* [【2026-06-02】 从插件到 AI 辅助：Obsidian 如何成为我的主力工具](https://sspai.com/post/109850)
+* [【2026-06-02】 派早报：英伟达、华硕等多个厂商在 COMPUTEX 2026 发布新品](https://sspai.com/post/110592)
+* [【2026-06-01】 派评 | 近期值得关注的 App](https://sspai.com/post/110547)
 * [【2026-06-01】 成本 600 元不到，我 3D 打印了一把能弹的电吉他](https://sspai.com/post/110412)
 * [【2026-06-01】 把一句经文放进每天：「一日一偈」的轻阅读尝试](https://sspai.com/post/110094)
 * [【2026-05-31】 派早报：Anthropic 估值超过 OpenAI](https://sspai.com/post/110519)
 * [【2026-05-31】 本月玩什么｜混音青春、007 初露锋芒、归零巡礼、地平线 6](https://sspai.com/post/110488)
 * [【2026-05-30】 AI 如何影响你的审美？](https://sspai.com/post/110172)
-* [【2026-05-29】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110446)
-* [【2026-05-29】 住久了没意思（三）：打造能好好放松的卧室](https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom)
-* [【2026-05-29】 Await：五分钟，把点子变成 iPhone 小组件](https://sspai.com/post/110106)
-* [【2026-05-29】 什么才是「好」的 Android 音频输出？从一台旧日 Xperia 说起](https://sspai.com/post/110120)
-* [【2026-05-29】 派早报：Sony 发布 Bravia 2026 款电视产品等](https://sspai.com/post/110425)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-01 10:16:13
+:alarm_clock: 更新时间: 2026-06-02 09:03:48

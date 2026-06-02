@@ -1233,6 +1233,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "得力管家还是多此一举？聊聊 macOS 后台进程管理工具 App Tamer",
+                "link": "https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer",
+                "published": "2026-06-02"
+            },
+            {
+                "title": "在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈",
+                "link": "https://sspai.com/post/110550",
+                "published": "2026-06-02"
+            },
+            {
+                "title": "从插件到 AI 辅助：Obsidian 如何成为我的主力工具",
+                "link": "https://sspai.com/post/109850",
+                "published": "2026-06-02"
+            },
+            {
+                "title": "派早报：英伟达、华硕等多个厂商在 COMPUTEX 2026 发布新品",
+                "link": "https://sspai.com/post/110592",
+                "published": "2026-06-02"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/110547",
+                "published": "2026-06-01"
+            },
+            {
                 "title": "成本 600 元不到，我 3D 打印了一把能弹的电吉他",
                 "link": "https://sspai.com/post/110412",
                 "published": "2026-06-01"
@@ -30218,7 +30243,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
