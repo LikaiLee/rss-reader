@@ -1233,6 +1233,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "让原生体验「接地气」：Pixel Text 与「原点系列」工具集",
+                "link": "https://sspai.com/post/110458",
+                "published": "2026-06-03"
+            },
+            {
+                "title": "App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio",
+                "link": "https://sspai.com/post/110059",
+                "published": "2026-06-03"
+            },
+            {
+                "title": "派早报：Apple 公布 2026 年 Apple 设计大奖得主等",
+                "link": "https://sspai.com/post/110658",
+                "published": "2026-06-03"
+            },
+            {
                 "title": "得力管家还是多此一举？聊聊 macOS 后台进程管理工具 App Tamer",
                 "link": "https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer",
                 "published": "2026-06-02"
@@ -30243,7 +30258,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
