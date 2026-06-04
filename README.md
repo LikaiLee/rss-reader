@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-06-04】 它不会是下一场新冠：简单了解汉坦病毒](https://sspai.com/post/110717)
+* [【2026-06-04】 比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署](https://sspai.com/post/110126)
+* [【2026-06-04】 派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等](https://sspai.com/post/110698)
+* [【2026-06-03】 小车车里的大世界：车模收藏入坑指南](https://sspai.com/post/110114)
 * [【2026-06-03】 让原生体验「接地气」：Pixel Text 与「原点系列」工具集](https://sspai.com/post/110458)
 * [【2026-06-03】 App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio](https://sspai.com/post/110059)
 * [【2026-06-03】 派早报：Apple 公布 2026 年 Apple 设计大奖得主等](https://sspai.com/post/110658)
 * [【2026-06-02】 得力管家还是多此一举？聊聊 macOS 后台进程管理工具 App Tamer](https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer)
 * [【2026-06-02】 在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈](https://sspai.com/post/110550)
 * [【2026-06-02】 从插件到 AI 辅助：Obsidian 如何成为我的主力工具](https://sspai.com/post/109850)
-* [【2026-06-02】 派早报：英伟达、华硕等多个厂商在 COMPUTEX 2026 发布新品](https://sspai.com/post/110592)
-* [【2026-06-01】 派评 | 近期值得关注的 App](https://sspai.com/post/110547)
-* [【2026-06-01】 成本 600 元不到，我 3D 打印了一把能弹的电吉他](https://sspai.com/post/110412)
-* [【2026-06-01】 把一句经文放进每天：「一日一偈」的轻阅读尝试](https://sspai.com/post/110094)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-03 09:22:34
+:alarm_clock: 更新时间: 2026-06-04 08:45:28

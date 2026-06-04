@@ -1233,6 +1233,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "它不会是下一场新冠：简单了解汉坦病毒",
+                "link": "https://sspai.com/post/110717",
+                "published": "2026-06-04"
+            },
+            {
+                "title": "比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署",
+                "link": "https://sspai.com/post/110126",
+                "published": "2026-06-04"
+            },
+            {
+                "title": "派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等",
+                "link": "https://sspai.com/post/110698",
+                "published": "2026-06-04"
+            },
+            {
+                "title": "小车车里的大世界：车模收藏入坑指南",
+                "link": "https://sspai.com/post/110114",
+                "published": "2026-06-03"
+            },
+            {
                 "title": "让原生体验「接地气」：Pixel Text 与「原点系列」工具集",
                 "link": "https://sspai.com/post/110458",
                 "published": "2026-06-03"
@@ -30258,7 +30278,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
