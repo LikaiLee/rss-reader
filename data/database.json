@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 399 期）：中国 AI 大厂访问记",
+                "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html",
+                "published": "2026-06-05"
+            },
+            {
                 "title": "科技爱好者周刊（第 398 期）：Token 费用难以负担",
                 "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html",
                 "published": "2026-05-29"
@@ -1225,13 +1230,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "再谈响度战争：为什么你看的视频越来越「吵」了？",
+                "link": "https://sspai.com/post/109483",
+                "published": "2026-06-05"
+            },
+            {
+                "title": "WWDC26 开幕在即，今年有哪些看点值得关注？",
+                "link": "https://sspai.com/post/110669",
+                "published": "2026-06-05"
+            },
+            {
+                "title": "派早报：Google 相关资讯三则、华为发布智慧屏 S7 X Pro等",
+                "link": "https://sspai.com/post/110754",
+                "published": "2026-06-05"
+            },
+            {
+                "title": "新玩意 243｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/110736",
+                "published": "2026-06-04"
+            },
             {
                 "title": "它不会是下一场新冠：简单了解汉坦病毒",
                 "link": "https://sspai.com/post/110717",
