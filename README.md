@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-06-06】 2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处](https://sspai.com/post/110763)
+* [【2026-06-05】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110786)
+* [【2026-06-05】 macOS 存储管理漫谈：去重是节约空间的最好方法](https://sspai.com/prime/story/macos-storage-management-deduplication)
+* [【2026-06-05】 31 位普通人，给一只背包开出了成绩单](https://sspai.com/post/110666)
 * [【2026-06-05】 再谈响度战争：为什么你看的视频越来越「吵」了？](https://sspai.com/post/109483)
 * [【2026-06-05】 WWDC26 开幕在即，今年有哪些看点值得关注？](https://sspai.com/post/110669)
 * [【2026-06-05】 派早报：Google 相关资讯三则、华为发布智慧屏 S7 X Pro等](https://sspai.com/post/110754)
 * [【2026-06-04】 新玩意 243｜少数派的编辑们最近买了啥？](https://sspai.com/post/110736)
 * [【2026-06-04】 它不会是下一场新冠：简单了解汉坦病毒](https://sspai.com/post/110717)
 * [【2026-06-04】 比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署](https://sspai.com/post/110126)
-* [【2026-06-04】 派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等](https://sspai.com/post/110698)
-* [【2026-06-03】 小车车里的大世界：车模收藏入坑指南](https://sspai.com/post/110114)
-* [【2026-06-03】 让原生体验「接地气」：Pixel Text 与「原点系列」工具集](https://sspai.com/post/110458)
-* [【2026-06-03】 App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio](https://sspai.com/post/110059)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-05 08:41:38
+:alarm_clock: 更新时间: 2026-06-06 07:44:05
