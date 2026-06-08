@@ -1238,6 +1238,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "少数派正版软件 + 付费教程 618 促销活动限时开启",
+                "link": "https://sspai.com/post/110853",
+                "published": "2026-06-08"
+            },
+            {
+                "title": "2026 美加墨世界杯观赛指南",
+                "link": "https://sspai.com/post/110681",
+                "published": "2026-06-08"
+            },
+            {
+                "title": "大语言模型正在变成大编程模型",
+                "link": "https://sspai.com/post/110746",
+                "published": "2026-06-08"
+            },
+            {
+                "title": "派早报：乘用车越造越重，12 年增重近 400 公斤",
+                "link": "https://sspai.com/post/110847",
+                "published": "2026-06-07"
+            },
+            {
+                "title": "接住来自空间站的信号：如何用手台接收 SSTV？",
+                "link": "https://sspai.com/post/110108",
+                "published": "2026-06-07"
+            },
+            {
                 "title": "2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处",
                 "link": "https://sspai.com/post/110763",
                 "published": "2026-06-06"
@@ -30323,7 +30348,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 5
     },
     {
         "id": 2,

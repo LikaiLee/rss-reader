@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-06-08】 少数派正版软件 + 付费教程 618 促销活动限时开启](https://sspai.com/post/110853)
+* [【2026-06-08】 2026 美加墨世界杯观赛指南](https://sspai.com/post/110681)
+* [【2026-06-08】 大语言模型正在变成大编程模型](https://sspai.com/post/110746)
+* [【2026-06-07】 派早报：乘用车越造越重，12 年增重近 400 公斤](https://sspai.com/post/110847)
+* [【2026-06-07】 接住来自空间站的信号：如何用手台接收 SSTV？](https://sspai.com/post/110108)
 * [【2026-06-06】 2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处](https://sspai.com/post/110763)
 * [【2026-06-05】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110786)
 * [【2026-06-05】 macOS 存储管理漫谈：去重是节约空间的最好方法](https://sspai.com/prime/story/macos-storage-management-deduplication)
 * [【2026-06-05】 31 位普通人，给一只背包开出了成绩单](https://sspai.com/post/110666)
 * [【2026-06-05】 再谈响度战争：为什么你看的视频越来越「吵」了？](https://sspai.com/post/109483)
-* [【2026-06-05】 WWDC26 开幕在即，今年有哪些看点值得关注？](https://sspai.com/post/110669)
-* [【2026-06-05】 派早报：Google 相关资讯三则、华为发布智慧屏 S7 X Pro等](https://sspai.com/post/110754)
-* [【2026-06-04】 新玩意 243｜少数派的编辑们最近买了啥？](https://sspai.com/post/110736)
-* [【2026-06-04】 它不会是下一场新冠：简单了解汉坦病毒](https://sspai.com/post/110717)
-* [【2026-06-04】 比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署](https://sspai.com/post/110126)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-07 08:22:07
+:alarm_clock: 更新时间: 2026-06-08 09:20:42
