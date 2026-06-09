@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-06-09】 众测招募｜灵犀 Linx 键盘功能共创计划开启](https://sspai.com/post/110863)
+* [【2026-06-08】 派早报：WWDC26 全球开发者大会开幕等](https://sspai.com/post/110889)
+* [【2026-06-08】 一图流 | Apple WWDC26 开幕式回顾](https://sspai.com/post/110887)
+* [【2026-06-08】 Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾](https://sspai.com/post/110888)
+* [【2026-06-08】 派评｜近期值得关注的 App](https://sspai.com/post/110874)
 * [【2026-06-08】 少数派正版软件 + 付费教程 618 促销活动限时开启](https://sspai.com/post/110853)
 * [【2026-06-08】 2026 美加墨世界杯观赛指南](https://sspai.com/post/110681)
 * [【2026-06-08】 大语言模型正在变成大编程模型](https://sspai.com/post/110746)
 * [【2026-06-07】 派早报：乘用车越造越重，12 年增重近 400 公斤](https://sspai.com/post/110847)
 * [【2026-06-07】 接住来自空间站的信号：如何用手台接收 SSTV？](https://sspai.com/post/110108)
-* [【2026-06-06】 2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处](https://sspai.com/post/110763)
-* [【2026-06-05】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110786)
-* [【2026-06-05】 macOS 存储管理漫谈：去重是节约空间的最好方法](https://sspai.com/prime/story/macos-storage-management-deduplication)
-* [【2026-06-05】 31 位普通人，给一只背包开出了成绩单](https://sspai.com/post/110666)
-* [【2026-06-05】 再谈响度战争：为什么你看的视频越来越「吵」了？](https://sspai.com/post/109483)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-08 09:20:42
+:alarm_clock: 更新时间: 2026-06-09 08:28:48
