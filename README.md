@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-06-11】 5月音乐推荐：不可错过的9张惊喜专辑](https://sspai.com/post/110670)
+* [【2026-06-11】 苹果新增的「围绝经期」提醒，你该比 watchOS 27 多了解一点](https://sspai.com/post/75419)
+* [【2026-06-11】 派早报：Insta360 发布首款手持云台相机 Luna Ultra 等](https://sspai.com/post/110951)
+* [【2026-06-10】 线下活动｜周日到广州来，给你一张过去的 CD](https://sspai.com/post/110911)
 * [【2026-06-10】 又是一年 618：可以直接抄作业的护肤搭配清单](https://sspai.com/post/110614)
 * [【2026-06-10】 告别阅读焦虑：一份硬核科学阅读指南](https://sspai.com/post/110557)
 * [【2026-06-10】 这些人用实测，给麦金獭钢化膜交了份真实答卷](https://sspai.com/post/110868)
 * [【2026-06-10】 派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等](https://sspai.com/post/110925)
 * [【2026-06-09】 社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架](https://sspai.com/post/110907)
 * [【2026-06-09】 众测招募｜灵犀 Linx 键盘功能共创计划开启](https://sspai.com/post/110863)
-* [【2026-06-08】 派早报：WWDC26 全球开发者大会开幕等](https://sspai.com/post/110889)
-* [【2026-06-08】 一图流 | Apple WWDC26 开幕式回顾](https://sspai.com/post/110887)
-* [【2026-06-08】 Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾](https://sspai.com/post/110888)
-* [【2026-06-08】 派评｜近期值得关注的 App](https://sspai.com/post/110874)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-10 08:46:17
+:alarm_clock: 更新时间: 2026-06-11 09:10:16

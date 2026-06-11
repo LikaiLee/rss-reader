@@ -1238,6 +1238,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "5月音乐推荐：不可错过的9张惊喜专辑",
+                "link": "https://sspai.com/post/110670",
+                "published": "2026-06-11"
+            },
+            {
+                "title": "苹果新增的「围绝经期」提醒，你该比 watchOS 27 多了解一点",
+                "link": "https://sspai.com/post/75419",
+                "published": "2026-06-11"
+            },
+            {
+                "title": "派早报：Insta360 发布首款手持云台相机 Luna Ultra 等",
+                "link": "https://sspai.com/post/110951",
+                "published": "2026-06-11"
+            },
+            {
+                "title": "线下活动｜周日到广州来，给你一张过去的 CD",
+                "link": "https://sspai.com/post/110911",
+                "published": "2026-06-10"
+            },
+            {
                 "title": "又是一年 618：可以直接抄作业的护肤搭配清单",
                 "link": "https://sspai.com/post/110614",
                 "published": "2026-06-10"
@@ -30398,7 +30418,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
