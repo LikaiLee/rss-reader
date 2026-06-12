@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-06-11】 科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)
 * [【2026-06-05】 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)
 * [【2026-05-29】 科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)
 * [【2026-05-21】 科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html)
@@ -25,7 +26,6 @@
 * [【2026-04-16】 科技爱好者周刊（第 393 期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html)
 * [【2026-04-09】 科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)
 * [【2026-04-03】 科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)
-* [【2026-03-26】 科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,17 @@
     </summary>
 
 
+* [【2026-06-12】 Level Read：让英语学习从「读得懂」开始，每天都进步一点点](https://sspai.com/post/110329)
+* [【2026-06-12】 把 AI 装进口袋，然后把它忘掉：
+YoooClaw C·ONE 智能硬件一个月使用体验](https://sspai.com/post/110914)
+* [【2026-06-12】 WWDC 26 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/110967)
+* [【2026-06-12】 派早报：五电商平台因「百亿补贴」问题被约谈、Xbox 启动业务重置计划等](https://sspai.com/post/110975)
+* [【2026-06-11】 家庭饮品 DIY 指南（一）：工欲善其事，必先利其器](https://sspai.com/prime/story/home-made-beverages-1)
+* [【2026-06-11】 618 相机存储卡选购全攻略（2026）](https://sspai.com/post/110334)
 * [【2026-06-11】 5月音乐推荐：不可错过的9张惊喜专辑](https://sspai.com/post/110670)
 * [【2026-06-11】 苹果新增的「围绝经期」提醒，你该比 watchOS 27 多了解一点](https://sspai.com/post/75419)
 * [【2026-06-11】 派早报：Insta360 发布首款手持云台相机 Luna Ultra 等](https://sspai.com/post/110951)
 * [【2026-06-10】 线下活动｜周日到广州来，给你一张过去的 CD](https://sspai.com/post/110911)
-* [【2026-06-10】 又是一年 618：可以直接抄作业的护肤搭配清单](https://sspai.com/post/110614)
-* [【2026-06-10】 告别阅读焦虑：一份硬核科学阅读指南](https://sspai.com/post/110557)
-* [【2026-06-10】 这些人用实测，给麦金獭钢化膜交了份真实答卷](https://sspai.com/post/110868)
-* [【2026-06-10】 派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等](https://sspai.com/post/110925)
-* [【2026-06-09】 社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架](https://sspai.com/post/110907)
-* [【2026-06-09】 众测招募｜灵犀 Linx 键盘功能共创计划开启](https://sspai.com/post/110863)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +112,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-11 09:10:16
+:alarm_clock: 更新时间: 2026-06-12 08:55:17

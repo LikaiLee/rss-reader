@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 400 期）：rsync 的争论",
+                "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html",
+                "published": "2026-06-11"
+            },
+            {
                 "title": "科技爱好者周刊（第 399 期）：中国 AI 大厂访问记",
                 "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html",
                 "published": "2026-06-05"
@@ -1230,13 +1235,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "Level Read：让英语学习从「读得懂」开始，每天都进步一点点",
+                "link": "https://sspai.com/post/110329",
+                "published": "2026-06-12"
+            },
+            {
+                "title": "把 AI 装进口袋，然后把它忘掉：\nYoooClaw C·ONE 智能硬件一个月使用体验",
+                "link": "https://sspai.com/post/110914",
+                "published": "2026-06-12"
+            },
+            {
+                "title": "WWDC 26 发布会上，Apple 没告诉你的那些事",
+                "link": "https://sspai.com/post/110967",
+                "published": "2026-06-12"
+            },
+            {
+                "title": "派早报：五电商平台因「百亿补贴」问题被约谈、Xbox 启动业务重置计划等",
+                "link": "https://sspai.com/post/110975",
+                "published": "2026-06-12"
+            },
+            {
+                "title": "家庭饮品 DIY 指南（一）：工欲善其事，必先利其器",
+                "link": "https://sspai.com/prime/story/home-made-beverages-1",
+                "published": "2026-06-11"
+            },
+            {
+                "title": "618 相机存储卡选购全攻略（2026）",
+                "link": "https://sspai.com/post/110334",
+                "published": "2026-06-11"
+            },
             {
                 "title": "5月音乐推荐：不可错过的9张惊喜专辑",
                 "link": "https://sspai.com/post/110670",
@@ -30418,7 +30453,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
