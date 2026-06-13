@@ -1235,13 +1235,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
+                "link": "https://sspai.com/post/110973",
+                "published": "2026-06-13"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/110992",
+                "published": "2026-06-12"
+            },
             {
                 "title": "Level Read：让英语学习从「读得懂」开始，每天都进步一点点",
                 "link": "https://sspai.com/post/110329",
@@ -30453,7 +30463,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 2
     },
     {
         "id": 2,

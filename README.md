@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-06-13】 具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能](https://sspai.com/post/110973)
+* [【2026-06-12】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/110992)
 * [【2026-06-12】 Level Read：让英语学习从「读得懂」开始，每天都进步一点点](https://sspai.com/post/110329)
 * [【2026-06-12】 把 AI 装进口袋，然后把它忘掉：
 YoooClaw C·ONE 智能硬件一个月使用体验](https://sspai.com/post/110914)
@@ -44,8 +46,6 @@ YoooClaw C·ONE 智能硬件一个月使用体验](https://sspai.com/post/110914
 * [【2026-06-11】 618 相机存储卡选购全攻略（2026）](https://sspai.com/post/110334)
 * [【2026-06-11】 5月音乐推荐：不可错过的9张惊喜专辑](https://sspai.com/post/110670)
 * [【2026-06-11】 苹果新增的「围绝经期」提醒，你该比 watchOS 27 多了解一点](https://sspai.com/post/75419)
-* [【2026-06-11】 派早报：Insta360 发布首款手持云台相机 Luna Ultra 等](https://sspai.com/post/110951)
-* [【2026-06-10】 线下活动｜周日到广州来，给你一张过去的 CD](https://sspai.com/post/110911)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -112,4 +112,4 @@ YoooClaw C·ONE 智能硬件一个月使用体验](https://sspai.com/post/110914
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-12 08:55:17
+:alarm_clock: 更新时间: 2026-06-13 08:19:06
