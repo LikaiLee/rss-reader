@@ -1243,6 +1243,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验",
+                "link": "https://sspai.com/post/110761",
+                "published": "2026-06-14"
+            },
+            {
                 "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
                 "link": "https://sspai.com/post/110973",
                 "published": "2026-06-13"
@@ -30463,7 +30468,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
