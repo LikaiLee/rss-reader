@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,17 +35,16 @@
     </summary>
 
 
+* [【2026-06-15】 派评 | 近期值得关注的 App](https://sspai.com/post/111068)
+* [【2026-06-15】 具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容](https://sspai.com/post/111003)
+* [【2026-06-15】 从 BANG!CASE 到 AI Display：我为什么想给 AI 在桌面留一个位置](https://sspai.com/post/110984)
+* [【2026-06-15】 Snapseed 4.0：Google 终于想起了这款「免费修图神器」](https://sspai.com/post/110525)
+* [【2026-06-15】 线下活动｜CiGA Game Jam 2026 广州荔湾少数派站召集令](https://sspai.com/post/110989)
+* [【2026-06-14】 派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线](https://sspai.com/post/111045)
 * [【2026-06-14】 TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验](https://sspai.com/post/110761)
 * [【2026-06-13】 具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能](https://sspai.com/post/110973)
 * [【2026-06-12】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/110992)
 * [【2026-06-12】 Level Read：让英语学习从「读得懂」开始，每天都进步一点点](https://sspai.com/post/110329)
-* [【2026-06-12】 把 AI 装进口袋，然后把它忘掉：
-YoooClaw C·ONE 智能硬件一个月使用体验](https://sspai.com/post/110914)
-* [【2026-06-12】 WWDC 26 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/110967)
-* [【2026-06-12】 派早报：五电商平台因「百亿补贴」问题被约谈、Xbox 启动业务重置计划等](https://sspai.com/post/110975)
-* [【2026-06-11】 家庭饮品 DIY 指南（一）：工欲善其事，必先利其器](https://sspai.com/prime/story/home-made-beverages-1)
-* [【2026-06-11】 618 相机存储卡选购全攻略（2026）](https://sspai.com/post/110334)
-* [【2026-06-11】 5月音乐推荐：不可错过的9张惊喜专辑](https://sspai.com/post/110670)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -112,4 +111,4 @@ YoooClaw C·ONE 智能硬件一个月使用体验](https://sspai.com/post/110914
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-14 08:39:01
+:alarm_clock: 更新时间: 2026-06-15 10:52:50

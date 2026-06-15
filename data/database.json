@@ -1243,6 +1243,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/111068",
+                "published": "2026-06-15"
+            },
+            {
+                "title": "具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容",
+                "link": "https://sspai.com/post/111003",
+                "published": "2026-06-15"
+            },
+            {
+                "title": "从 BANG!CASE 到 AI Display：我为什么想给 AI 在桌面留一个位置",
+                "link": "https://sspai.com/post/110984",
+                "published": "2026-06-15"
+            },
+            {
+                "title": "Snapseed 4.0：Google 终于想起了这款「免费修图神器」",
+                "link": "https://sspai.com/post/110525",
+                "published": "2026-06-15"
+            },
+            {
+                "title": "线下活动｜CiGA Game Jam 2026 广州荔湾少数派站召集令",
+                "link": "https://sspai.com/post/110989",
+                "published": "2026-06-15"
+            },
+            {
+                "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
+                "link": "https://sspai.com/post/111045",
+                "published": "2026-06-14"
+            },
+            {
                 "title": "TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验",
                 "link": "https://sspai.com/post/110761",
                 "published": "2026-06-14"
@@ -30468,7 +30498,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 6
     },
     {
         "id": 2,
