@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-06-16】 社区速递 145 | 尝鲜激进傻快新系统、告别「电流麦」与平价人体工学椅](https://sspai.com/post/111099)
+* [【2026-06-16】 独家采访 Home Assistant 创始人：离全面本土化还有多远](https://sspai.com/post/110086)
+* [【2026-06-16】 今年 618，这些鼠标值得一看](https://sspai.com/post/111065)
+* [【2026-06-16】 派早报：大疆发布 Osmo Pocket 4P 双主摄口袋电影机等](https://sspai.com/post/111080)
 * [【2026-06-15】 派评 | 近期值得关注的 App](https://sspai.com/post/111068)
 * [【2026-06-15】 具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容](https://sspai.com/post/111003)
 * [【2026-06-15】 从 BANG!CASE 到 AI Display：我为什么想给 AI 在桌面留一个位置](https://sspai.com/post/110984)
 * [【2026-06-15】 Snapseed 4.0：Google 终于想起了这款「免费修图神器」](https://sspai.com/post/110525)
 * [【2026-06-15】 线下活动｜CiGA Game Jam 2026 广州荔湾少数派站召集令](https://sspai.com/post/110989)
 * [【2026-06-14】 派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线](https://sspai.com/post/111045)
-* [【2026-06-14】 TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验](https://sspai.com/post/110761)
-* [【2026-06-13】 具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能](https://sspai.com/post/110973)
-* [【2026-06-12】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/110992)
-* [【2026-06-12】 Level Read：让英语学习从「读得懂」开始，每天都进步一点点](https://sspai.com/post/110329)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-15 10:52:50
+:alarm_clock: 更新时间: 2026-06-16 10:04:30
