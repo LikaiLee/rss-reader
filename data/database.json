@@ -1243,6 +1243,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Nothing Phone 杂谈：活下去再谈未来，然后呢？",
+                "link": "https://sspai.com/post/110442",
+                "published": "2026-06-18"
+            },
+            {
+                "title": "具透 | visionOS 27 首个开发者测试版中值得关注的新内容",
+                "link": "https://sspai.com/post/111198",
+                "published": "2026-06-18"
+            },
+            {
+                "title": "派早报：Android 17 正式推送、微软发布 Surface 新品等",
+                "link": "https://sspai.com/post/111191",
+                "published": "2026-06-18"
+            },
+            {
+                "title": "WWDC26 在现场，与 Apple 设计大奖提名开发者聊聊他们的 app",
+                "link": "https://sspai.com/post/111181",
+                "published": "2026-06-17"
+            },
+            {
+                "title": "模糊算法让图像更清晰？游戏里的「抗锯齿」到底在做什么",
+                "link": "https://sspai.com/post/110720",
+                "published": "2026-06-17"
+            },
+            {
                 "title": "具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览",
                 "link": "https://sspai.com/post/110958",
                 "published": "2026-06-17"
@@ -30538,7 +30563,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
