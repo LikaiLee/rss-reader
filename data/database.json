@@ -1243,6 +1243,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新玩意 244｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/111211",
+                "published": "2026-06-18"
+            },
+            {
                 "title": "Nothing Phone 杂谈：活下去再谈未来，然后呢？",
                 "link": "https://sspai.com/post/110442",
                 "published": "2026-06-18"
@@ -30563,7 +30568,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 1
     },
     {
         "id": 2,

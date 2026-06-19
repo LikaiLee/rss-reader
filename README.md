@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-06-18】 新玩意 244｜少数派的编辑们最近买了啥？](https://sspai.com/post/111211)
 * [【2026-06-18】 Nothing Phone 杂谈：活下去再谈未来，然后呢？](https://sspai.com/post/110442)
 * [【2026-06-18】 具透 | visionOS 27 首个开发者测试版中值得关注的新内容](https://sspai.com/post/111198)
 * [【2026-06-18】 派早报：Android 17 正式推送、微软发布 Surface 新品等](https://sspai.com/post/111191)
@@ -44,7 +45,6 @@
 * [【2026-06-17】 在香港骑共享单车：访客视角的经验分享](https://sspai.com/post/110750)
 * [【2026-06-17】 派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等](https://sspai.com/post/111124)
 * [【2026-06-16】 具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性](https://sspai.com/post/111030)
-* [【2026-06-16】 社区速递 145 | 尝鲜激进傻快新系统、告别「电流麦」与平价人体工学椅](https://sspai.com/post/111099)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-18 09:11:16
+:alarm_clock: 更新时间: 2026-06-19 09:26:33
