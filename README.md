@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-06-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/111216)
 * [【2026-06-18】 新玩意 244｜少数派的编辑们最近买了啥？](https://sspai.com/post/111211)
 * [【2026-06-18】 Nothing Phone 杂谈：活下去再谈未来，然后呢？](https://sspai.com/post/110442)
 * [【2026-06-18】 具透 | visionOS 27 首个开发者测试版中值得关注的新内容](https://sspai.com/post/111198)
@@ -44,7 +45,6 @@
 * [【2026-06-17】 具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览](https://sspai.com/post/110958)
 * [【2026-06-17】 在香港骑共享单车：访客视角的经验分享](https://sspai.com/post/110750)
 * [【2026-06-17】 派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等](https://sspai.com/post/111124)
-* [【2026-06-16】 具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性](https://sspai.com/post/111030)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-19 09:26:33
+:alarm_clock: 更新时间: 2026-06-20 08:19:38
