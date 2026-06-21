@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-06-21】 AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发](https://sspai.com/post/110972)
+* [【2026-06-17】 模糊算法让图像更「清晰」？游戏里的「抗锯齿」到底在做什么](https://sspai.com/post/110720)
 * [【2026-06-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/111216)
 * [【2026-06-18】 新玩意 244｜少数派的编辑们最近买了啥？](https://sspai.com/post/111211)
 * [【2026-06-18】 Nothing Phone 杂谈：活下去再谈未来，然后呢？](https://sspai.com/post/110442)
@@ -43,8 +45,6 @@
 * [【2026-06-17】 WWDC26 在现场，与 Apple 设计大奖提名开发者聊聊他们的 app](https://sspai.com/post/111181)
 * [【2026-06-17】 模糊算法让图像更清晰？游戏里的「抗锯齿」到底在做什么](https://sspai.com/post/110720)
 * [【2026-06-17】 具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览](https://sspai.com/post/110958)
-* [【2026-06-17】 在香港骑共享单车：访客视角的经验分享](https://sspai.com/post/110750)
-* [【2026-06-17】 派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等](https://sspai.com/post/111124)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-20 08:19:38
+:alarm_clock: 更新时间: 2026-06-21 08:55:41

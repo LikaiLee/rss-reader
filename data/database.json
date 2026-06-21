@@ -1243,6 +1243,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发",
+                "link": "https://sspai.com/post/110972",
+                "published": "2026-06-21"
+            },
+            {
+                "title": "模糊算法让图像更「清晰」？游戏里的「抗锯齿」到底在做什么",
+                "link": "https://sspai.com/post/110720",
+                "published": "2026-06-17"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 8 部作品",
                 "link": "https://sspai.com/post/111216",
                 "published": "2026-06-19"
@@ -30573,7 +30583,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
