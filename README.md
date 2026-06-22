@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-06-22】 具透｜Android 17 正式版：大屏体验，先看 Google？](https://sspai.com/post/108899)
+* [【2026-06-22】 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接](https://sspai.com/post/111081)
+* [【2026-06-22】 恩施龙船调，游土随川流](https://sspai.com/post/110742)
+* [【2026-06-21】 派早报：英特尔将为苹果代工芯片](https://sspai.com/post/111343)
 * [【2026-06-21】 AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发](https://sspai.com/post/110972)
 * [【2026-06-17】 模糊算法让图像更「清晰」？游戏里的「抗锯齿」到底在做什么](https://sspai.com/post/110720)
 * [【2026-06-19】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/111216)
 * [【2026-06-18】 新玩意 244｜少数派的编辑们最近买了啥？](https://sspai.com/post/111211)
 * [【2026-06-18】 Nothing Phone 杂谈：活下去再谈未来，然后呢？](https://sspai.com/post/110442)
 * [【2026-06-18】 具透 | visionOS 27 首个开发者测试版中值得关注的新内容](https://sspai.com/post/111198)
-* [【2026-06-18】 派早报：Android 17 正式推送、微软发布 Surface 新品等](https://sspai.com/post/111191)
-* [【2026-06-17】 WWDC26 在现场，与 Apple 设计大奖提名开发者聊聊他们的 app](https://sspai.com/post/111181)
-* [【2026-06-17】 模糊算法让图像更清晰？游戏里的「抗锯齿」到底在做什么](https://sspai.com/post/110720)
-* [【2026-06-17】 具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览](https://sspai.com/post/110958)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-21 08:55:41
+:alarm_clock: 更新时间: 2026-06-22 10:34:54

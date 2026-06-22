@@ -1243,6 +1243,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透｜Android 17 正式版：大屏体验，先看 Google？",
+                "link": "https://sspai.com/post/108899",
+                "published": "2026-06-22"
+            },
+            {
+                "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
+                "link": "https://sspai.com/post/111081",
+                "published": "2026-06-22"
+            },
+            {
+                "title": "恩施龙船调，游土随川流",
+                "link": "https://sspai.com/post/110742",
+                "published": "2026-06-22"
+            },
+            {
+                "title": "派早报：英特尔将为苹果代工芯片",
+                "link": "https://sspai.com/post/111343",
+                "published": "2026-06-21"
+            },
+            {
                 "title": "AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发",
                 "link": "https://sspai.com/post/110972",
                 "published": "2026-06-21"
@@ -30583,7 +30603,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
