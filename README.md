@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-06-24】 从观众到志愿者：加入 TEDxShenzhen 需要做些什么？](https://sspai.com/post/111428)
+* [【2026-06-24】 DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备](https://sspai.com/post/111223)
+* [【2026-06-23】 派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等](https://sspai.com/post/111438)
+* [【2026-06-23】 社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器](https://sspai.com/post/111410)
 * [【2026-06-23】 运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源](https://sspai.com/post/111261)
 * [【2026-06-23】 把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP](https://sspai.com/post/110947)
 * [【2026-06-23】 派早报：荣耀发布 X80 Pro Max 等新品等](https://sspai.com/post/111385)
 * [【2026-06-22】 派评 | 近期值得关注的 App](https://sspai.com/post/111360)
 * [【2026-06-22】 具透｜Android 17 正式版：大屏体验，先看 Google？](https://sspai.com/post/108899)
 * [【2026-06-22】 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接](https://sspai.com/post/111081)
-* [【2026-06-22】 恩施龙船调，游土随川流](https://sspai.com/post/110742)
-* [【2026-06-21】 派早报：英特尔将为苹果代工芯片](https://sspai.com/post/111343)
-* [【2026-06-21】 AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发](https://sspai.com/post/110972)
-* [【2026-06-17】 模糊算法让图像更「清晰」？游戏里的「抗锯齿」到底在做什么](https://sspai.com/post/110720)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-23 08:27:05
+:alarm_clock: 更新时间: 2026-06-24 08:19:48
