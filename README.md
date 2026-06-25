@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-06-25】 把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验](https://sspai.com/post/111483)
+* [【2026-06-25】 风暖鸟声碎，日高花影重：我的昆明与腾冲行记](https://sspai.com/post/111349)
+* [【2026-06-25】 派早报：豆包推出专业版、GTA VI 开启预售等](https://sspai.com/post/111476)
+* [【2026-06-24】 TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验](https://sspai.com/post/111289)
 * [【2026-06-24】 从观众到志愿者：加入 TEDxShenzhen 需要做些什么？](https://sspai.com/post/111428)
 * [【2026-06-24】 DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备](https://sspai.com/post/111223)
 * [【2026-06-23】 派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等](https://sspai.com/post/111438)
 * [【2026-06-23】 社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器](https://sspai.com/post/111410)
 * [【2026-06-23】 运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源](https://sspai.com/post/111261)
 * [【2026-06-23】 把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP](https://sspai.com/post/110947)
-* [【2026-06-23】 派早报：荣耀发布 X80 Pro Max 等新品等](https://sspai.com/post/111385)
-* [【2026-06-22】 派评 | 近期值得关注的 App](https://sspai.com/post/111360)
-* [【2026-06-22】 具透｜Android 17 正式版：大屏体验，先看 Google？](https://sspai.com/post/108899)
-* [【2026-06-22】 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接](https://sspai.com/post/111081)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-24 08:19:48
+:alarm_clock: 更新时间: 2026-06-25 08:20:45
