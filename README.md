@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-06-26】 科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)
 * [【2026-06-11】 科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)
 * [【2026-06-05】 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)
 * [【2026-05-29】 科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)
@@ -25,7 +26,6 @@
 * [【2026-04-23】 科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)
 * [【2026-04-16】 科技爱好者周刊（第 393 期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html)
 * [【2026-04-09】 科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)
-* [【2026-04-03】 科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-06-26】 空调续命之外的清凉：这是我们的夏日降温「新」方案](https://sspai.com/post/100319)
+* [【2026-06-26】 林檎越东瀛：苹果的日本之旅](https://sspai.com/post/111297)
+* [【2026-06-26】 派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观](https://sspai.com/post/111541)
+* [【2026-06-25】 新玩意 245｜少数派的编辑们最近买了啥？](https://sspai.com/post/111518)
+* [【2026-06-25】 给记忆一个归处：我为什么开始使用 Apple 手记](https://sspai.com/post/111421)
 * [【2026-06-25】 把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验](https://sspai.com/post/111483)
 * [【2026-06-25】 风暖鸟声碎，日高花影重：我的昆明与腾冲行记](https://sspai.com/post/111349)
 * [【2026-06-25】 派早报：豆包推出专业版、GTA VI 开启预售等](https://sspai.com/post/111476)
 * [【2026-06-24】 TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验](https://sspai.com/post/111289)
 * [【2026-06-24】 从观众到志愿者：加入 TEDxShenzhen 需要做些什么？](https://sspai.com/post/111428)
-* [【2026-06-24】 DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备](https://sspai.com/post/111223)
-* [【2026-06-23】 派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等](https://sspai.com/post/111438)
-* [【2026-06-23】 社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器](https://sspai.com/post/111410)
-* [【2026-06-23】 运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源](https://sspai.com/post/111261)
-* [【2026-06-23】 把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP](https://sspai.com/post/110947)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-25 08:20:45
+:alarm_clock: 更新时间: 2026-06-26 08:28:12
