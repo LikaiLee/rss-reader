@@ -1240,13 +1240,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/111562",
+                "published": "2026-06-26"
+            },
+            {
+                "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
+                "link": "https://sspai.com/prime/story/create-webview-in-shortcuts",
+                "published": "2026-06-26"
+            },
             {
                 "title": "空调续命之外的清凉：这是我们的夏日降温「新」方案",
                 "link": "https://sspai.com/post/100319",
@@ -30693,7 +30703,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,

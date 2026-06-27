@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-06-26】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/111562)
+* [【2026-06-26】 探索快捷指令的上限：用网页视图创建丰富界面与交互](https://sspai.com/prime/story/create-webview-in-shortcuts)
 * [【2026-06-26】 空调续命之外的清凉：这是我们的夏日降温「新」方案](https://sspai.com/post/100319)
 * [【2026-06-26】 林檎越东瀛：苹果的日本之旅](https://sspai.com/post/111297)
 * [【2026-06-26】 派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观](https://sspai.com/post/111541)
@@ -43,8 +45,6 @@
 * [【2026-06-25】 把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验](https://sspai.com/post/111483)
 * [【2026-06-25】 风暖鸟声碎，日高花影重：我的昆明与腾冲行记](https://sspai.com/post/111349)
 * [【2026-06-25】 派早报：豆包推出专业版、GTA VI 开启预售等](https://sspai.com/post/111476)
-* [【2026-06-24】 TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验](https://sspai.com/post/111289)
-* [【2026-06-24】 从观众到志愿者：加入 TEDxShenzhen 需要做些什么？](https://sspai.com/post/111428)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-26 08:28:12
+:alarm_clock: 更新时间: 2026-06-27 07:47:48
