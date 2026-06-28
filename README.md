@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-06-28】 兜兜转转四款笔记软件，我终于为思考找到了安身之所](https://sspai.com/post/110935)
+* [【2026-06-27】 俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼](https://sspai.com/post/111347)
 * [【2026-06-26】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/111562)
 * [【2026-06-26】 探索快捷指令的上限：用网页视图创建丰富界面与交互](https://sspai.com/prime/story/create-webview-in-shortcuts)
 * [【2026-06-26】 空调续命之外的清凉：这是我们的夏日降温「新」方案](https://sspai.com/post/100319)
@@ -43,8 +45,6 @@
 * [【2026-06-25】 新玩意 245｜少数派的编辑们最近买了啥？](https://sspai.com/post/111518)
 * [【2026-06-25】 给记忆一个归处：我为什么开始使用 Apple 手记](https://sspai.com/post/111421)
 * [【2026-06-25】 把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验](https://sspai.com/post/111483)
-* [【2026-06-25】 风暖鸟声碎，日高花影重：我的昆明与腾冲行记](https://sspai.com/post/111349)
-* [【2026-06-25】 派早报：豆包推出专业版、GTA VI 开启预售等](https://sspai.com/post/111476)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-27 07:47:48
+:alarm_clock: 更新时间: 2026-06-28 08:19:32
