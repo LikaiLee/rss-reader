@@ -1248,6 +1248,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "在格鲁吉亚的大地上：徒步篇",
+                "link": "https://sspai.com/post/111369",
+                "published": "2026-06-29"
+            },
+            {
+                "title": "让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失",
+                "link": "https://sspai.com/post/111462",
+                "published": "2026-06-29"
+            },
+            {
+                "title": "派早报：微软改口称 8GB 足够运行 Windows 11",
+                "link": "https://sspai.com/post/111639",
+                "published": "2026-06-28"
+            },
+            {
                 "title": "兜兜转转四款笔记软件，我终于为思考找到了安身之所",
                 "link": "https://sspai.com/post/110935",
                 "published": "2026-06-28"
@@ -30713,7 +30728,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
