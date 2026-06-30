@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-06-30】 Dario Amodei：AI 开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)
 * [【2026-06-26】 科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)
 * [【2026-06-11】 科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)
 * [【2026-06-05】 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)
@@ -25,7 +26,6 @@
 * [【2026-05-07】 科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html)
 * [【2026-04-23】 科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)
 * [【2026-04-16】 科技爱好者周刊（第 393 期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html)
-* [【2026-04-09】 科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-06-30】 「弯道超车」赛车入门指北：从周五到周日，F1 车队在忙什么？](https://sspai.com/post/111084)
+* [【2026-06-30】 100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机](https://sspai.com/post/111706)
+* [【2026-06-30】 派早报：DeepSeek V4 正式版 7 月中旬上线等](https://sspai.com/post/111707)
+* [【2026-06-29】 派评 | 近期值得关注的 App](https://sspai.com/post/111697)
 * [【2026-06-29】 在格鲁吉亚的大地上：徒步篇](https://sspai.com/post/111369)
 * [【2026-06-29】 让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失](https://sspai.com/post/111462)
 * [【2026-06-28】 派早报：微软改口称 8GB 足够运行 Windows 11](https://sspai.com/post/111639)
 * [【2026-06-28】 兜兜转转四款笔记软件，我终于为思考找到了安身之所](https://sspai.com/post/110935)
 * [【2026-06-27】 俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼](https://sspai.com/post/111347)
 * [【2026-06-26】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/111562)
-* [【2026-06-26】 探索快捷指令的上限：用网页视图创建丰富界面与交互](https://sspai.com/prime/story/create-webview-in-shortcuts)
-* [【2026-06-26】 空调续命之外的清凉：这是我们的夏日降温「新」方案](https://sspai.com/post/100319)
-* [【2026-06-26】 林檎越东瀛：苹果的日本之旅](https://sspai.com/post/111297)
-* [【2026-06-26】 派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观](https://sspai.com/post/111541)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-29 09:24:07
+:alarm_clock: 更新时间: 2026-06-30 08:28:01

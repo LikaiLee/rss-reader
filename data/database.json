@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "Dario Amodei：AI 开源是伪命题",
+                "link": "http://www.ruanyifeng.com/blog/2026/06/anthropic.html",
+                "published": "2026-06-30"
+            },
+            {
                 "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
                 "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
                 "published": "2026-06-26"
@@ -1240,13 +1245,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "「弯道超车」赛车入门指北：从周五到周日，F1 车队在忙什么？",
+                "link": "https://sspai.com/post/111084",
+                "published": "2026-06-30"
+            },
+            {
+                "title": "100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机",
+                "link": "https://sspai.com/post/111706",
+                "published": "2026-06-30"
+            },
+            {
+                "title": "派早报：DeepSeek V4 正式版 7 月中旬上线等",
+                "link": "https://sspai.com/post/111707",
+                "published": "2026-06-30"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/111697",
+                "published": "2026-06-29"
+            },
             {
                 "title": "在格鲁吉亚的大地上：徒步篇",
                 "link": "https://sspai.com/post/111369",
@@ -30728,7 +30753,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
