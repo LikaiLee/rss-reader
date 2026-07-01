@@ -1245,13 +1245,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "[送码] 白描 App 的 9 周年：推出鸿蒙版，白描 PDF 共创首发",
+                "link": "https://sspai.com/post/111640",
+                "published": "2026-07-01"
+            },
+            {
+                "title": "年度报告不够看？微信读书 Skill 上手体验",
+                "link": "https://sspai.com/post/109932",
+                "published": "2026-07-01"
+            },
+            {
+                "title": "派早报：Google 推出 Eclipsa Video 视频标准等",
+                "link": "https://sspai.com/post/111773",
+                "published": "2026-06-30"
+            },
+            {
+                "title": "社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机",
+                "link": "https://sspai.com/post/111744",
+                "published": "2026-06-30"
+            },
             {
                 "title": "「弯道超车」赛车入门指北：从周五到周日，F1 车队在忙什么？",
                 "link": "https://sspai.com/post/111084",

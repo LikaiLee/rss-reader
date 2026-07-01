@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-07-01】 [送码] 白描 App 的 9 周年：推出鸿蒙版，白描 PDF 共创首发](https://sspai.com/post/111640)
+* [【2026-07-01】 年度报告不够看？微信读书 Skill 上手体验](https://sspai.com/post/109932)
+* [【2026-06-30】 派早报：Google 推出 Eclipsa Video 视频标准等](https://sspai.com/post/111773)
+* [【2026-06-30】 社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机](https://sspai.com/post/111744)
 * [【2026-06-30】 「弯道超车」赛车入门指北：从周五到周日，F1 车队在忙什么？](https://sspai.com/post/111084)
 * [【2026-06-30】 100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机](https://sspai.com/post/111706)
 * [【2026-06-30】 派早报：DeepSeek V4 正式版 7 月中旬上线等](https://sspai.com/post/111707)
 * [【2026-06-29】 派评 | 近期值得关注的 App](https://sspai.com/post/111697)
 * [【2026-06-29】 在格鲁吉亚的大地上：徒步篇](https://sspai.com/post/111369)
 * [【2026-06-29】 让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失](https://sspai.com/post/111462)
-* [【2026-06-28】 派早报：微软改口称 8GB 足够运行 Windows 11](https://sspai.com/post/111639)
-* [【2026-06-28】 兜兜转转四款笔记软件，我终于为思考找到了安身之所](https://sspai.com/post/110935)
-* [【2026-06-27】 俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼](https://sspai.com/post/111347)
-* [【2026-06-26】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/111562)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-06-30 08:28:01
+:alarm_clock: 更新时间: 2026-07-01 08:47:46
