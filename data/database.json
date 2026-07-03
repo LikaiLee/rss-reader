@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",
+                "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
+                "published": "2026-07-02"
+            },
+            {
                 "title": "Dario Amodei：AI 开源是伪命题",
                 "link": "http://www.ruanyifeng.com/blog/2026/06/anthropic.html",
                 "published": "2026-06-30"
@@ -1245,13 +1250,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+                "link": "https://sspai.com/post/111405",
+                "published": "2026-07-03"
+            },
+            {
+                "title": "这四个工作习惯，或许也能帮你找到掌控感",
+                "link": "https://sspai.com/post/111708",
+                "published": "2026-07-03"
+            },
+            {
+                "title": "派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等",
+                "link": "https://sspai.com/post/111898",
+                "published": "2026-07-03"
+            },
+            {
+                "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+                "link": "https://sspai.com/post/110950",
+                "published": "2026-07-02"
+            },
+            {
+                "title": "共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机",
+                "link": "https://sspai.com/post/111069",
+                "published": "2026-07-02"
+            },
             {
                 "title": "共创试读 | 给过去的自己一件礼物：从是什么到为什么，找到合适的掌机",
                 "link": "https://sspai.com/post/111069",
@@ -30793,7 +30823,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
