@@ -1250,13 +1250,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路",
+                "link": "https://sspai.com/prime/story/how-to-design-a-rental-living-room",
+                "published": "2026-07-03"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 11 部作品",
+                "link": "https://sspai.com/post/111917",
+                "published": "2026-07-03"
+            },
             {
                 "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
                 "link": "https://sspai.com/post/111405",
@@ -30823,7 +30833,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,

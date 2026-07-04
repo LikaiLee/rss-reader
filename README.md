@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-07-03】 住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路](https://sspai.com/prime/story/how-to-design-a-rental-living-room)
+* [【2026-07-03】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/111917)
 * [【2026-07-03】 快捷指令｜让 iPhone 用上锤子的「大爆炸」](https://sspai.com/post/111405)
 * [【2026-07-03】 这四个工作习惯，或许也能帮你找到掌控感](https://sspai.com/post/111708)
 * [【2026-07-03】 派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等](https://sspai.com/post/111898)
@@ -43,8 +45,6 @@
 * [【2026-07-02】 共创试读 | 给过去的自己一件礼物：从是什么到为什么，找到合适的掌机](https://sspai.com/post/111069)
 * [【2026-07-02】 家用游戏机的新选择，Steam Machine 玩起来怎么样？](https://sspai.com/post/111763)
 * [【2026-07-02】 派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等](https://sspai.com/post/111861)
-* [【2026-07-01】 声擎×少数派｜「角落新声」征文活动](https://sspai.com/post/111709)
-* [【2026-07-01】 [送码] 白描 App 的 9 周年：推出鸿蒙版，白描 PDF 共创首发](https://sspai.com/post/111640)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-07-03 08:06:52
+:alarm_clock: 更新时间: 2026-07-04 07:44:18
