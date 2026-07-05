@@ -1258,6 +1258,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "[送码] 聆听用户建议，1Capture 新增多项实用截图功能",
+                "link": "https://sspai.com/post/111645",
+                "published": "2026-07-04"
+            },
+            {
                 "title": "住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路",
                 "link": "https://sspai.com/prime/story/how-to-design-a-rental-living-room",
                 "published": "2026-07-03"
@@ -30833,7 +30838,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
