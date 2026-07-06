@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-07-06】 iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它](https://sspai.com/post/111113)
+* [【2026-07-06】 自动给文章术语加百科链接，这个方案一分钟搞定](https://sspai.com/post/111702)
+* [【2026-07-05】 派早报：阿里禁用 Claude 模型](https://sspai.com/post/111973)
+* [【2026-07-05】 背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」](https://sspai.com/post/111632)
 * [【2026-07-04】 [送码] 聆听用户建议，1Capture 新增多项实用截图功能](https://sspai.com/post/111645)
 * [【2026-07-03】 住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路](https://sspai.com/prime/story/how-to-design-a-rental-living-room)
 * [【2026-07-03】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/111917)
 * [【2026-07-03】 快捷指令｜让 iPhone 用上锤子的「大爆炸」](https://sspai.com/post/111405)
 * [【2026-07-03】 这四个工作习惯，或许也能帮你找到掌控感](https://sspai.com/post/111708)
 * [【2026-07-03】 派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等](https://sspai.com/post/111898)
-* [【2026-07-02】 iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息](https://sspai.com/post/110950)
-* [【2026-07-02】 共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机](https://sspai.com/post/111069)
-* [【2026-07-02】 共创试读 | 给过去的自己一件礼物：从是什么到为什么，找到合适的掌机](https://sspai.com/post/111069)
-* [【2026-07-02】 家用游戏机的新选择，Steam Machine 玩起来怎么样？](https://sspai.com/post/111763)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-07-05 07:55:03
+:alarm_clock: 更新时间: 2026-07-06 08:58:09
