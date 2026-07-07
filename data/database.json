@@ -1258,6 +1258,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新手日记的「为什么」与「写什么」",
+                "link": "https://sspai.com/post/111655",
+                "published": "2026-07-07"
+            },
+            {
+                "title": "派早报：Xbox 启动史上最大的业务重组计划等",
+                "link": "https://sspai.com/post/112010",
+                "published": "2026-07-06"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/111999",
+                "published": "2026-07-06"
+            },
+            {
                 "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
                 "link": "https://sspai.com/post/111113",
                 "published": "2026-07-06"
@@ -30858,7 +30873,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
