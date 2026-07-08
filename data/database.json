@@ -1258,6 +1258,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "好的桌面需要设备，更需要灯光：明基×少数派线下店体验空间升级",
+                "link": "https://sspai.com/post/110993",
+                "published": "2026-07-08"
+            },
+            {
+                "title": "派早报：Nothing Ear (3a) 发布、Meta 推出 Muse 图像生成模型等",
+                "link": "https://sspai.com/post/112049",
+                "published": "2026-07-07"
+            },
+            {
+                "title": "家庭饮品 DIY 指南（二）：常用液体物料推荐",
+                "link": "https://sspai.com/prime/story/home-made-beverages-2",
+                "published": "2026-07-07"
+            },
+            {
+                "title": "社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕",
+                "link": "https://sspai.com/post/112017",
+                "published": "2026-07-07"
+            },
+            {
+                "title": "用 Option 给 macOS 操作加点料",
+                "link": "https://sspai.com/post/73385",
+                "published": "2026-07-07"
+            },
+            {
                 "title": "新手日记的「为什么」与「写什么」",
                 "link": "https://sspai.com/post/111655",
                 "published": "2026-07-07"
@@ -30873,7 +30898,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,

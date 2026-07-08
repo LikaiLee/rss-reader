@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-07-08】 好的桌面需要设备，更需要灯光：明基×少数派线下店体验空间升级](https://sspai.com/post/110993)
+* [【2026-07-07】 派早报：Nothing Ear (3a) 发布、Meta 推出 Muse 图像生成模型等](https://sspai.com/post/112049)
+* [【2026-07-07】 家庭饮品 DIY 指南（二）：常用液体物料推荐](https://sspai.com/prime/story/home-made-beverages-2)
+* [【2026-07-07】 社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕](https://sspai.com/post/112017)
+* [【2026-07-07】 用 Option 给 macOS 操作加点料](https://sspai.com/post/73385)
 * [【2026-07-07】 新手日记的「为什么」与「写什么」](https://sspai.com/post/111655)
 * [【2026-07-06】 派早报：Xbox 启动史上最大的业务重组计划等](https://sspai.com/post/112010)
 * [【2026-07-06】 派评 | 近期值得关注的 App](https://sspai.com/post/111999)
 * [【2026-07-06】 iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它](https://sspai.com/post/111113)
 * [【2026-07-06】 自动给文章术语加百科链接，这个方案一分钟搞定](https://sspai.com/post/111702)
-* [【2026-07-05】 派早报：阿里禁用 Claude 模型](https://sspai.com/post/111973)
-* [【2026-07-05】 背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」](https://sspai.com/post/111632)
-* [【2026-07-04】 [送码] 聆听用户建议，1Capture 新增多项实用截图功能](https://sspai.com/post/111645)
-* [【2026-07-03】 住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路](https://sspai.com/prime/story/how-to-design-a-rental-living-room)
-* [【2026-07-03】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/111917)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-07-07 08:21:30
+:alarm_clock: 更新时间: 2026-07-08 07:27:05
