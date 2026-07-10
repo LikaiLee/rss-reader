@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
+                "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
+                "published": "2026-07-10"
+            },
+            {
                 "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",
                 "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
                 "published": "2026-07-02"
@@ -1250,13 +1255,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "安达卢西亚的日与夜：格拉纳达漫游指南",
+                "link": "https://sspai.com/post/112097",
+                "published": "2026-07-10"
+            },
+            {
+                "title": "Vibe Coding 时代，为什么降本不一定增效？",
+                "link": "https://sspai.com/post/111975",
+                "published": "2026-07-10"
+            },
+            {
+                "title": "派早报：蔚来 ES8 大五座版正式上市等",
+                "link": "https://sspai.com/post/112143",
+                "published": "2026-07-10"
+            },
+            {
+                "title": "TDS REVIEW | 小米耳夹式耳机体验",
+                "link": "https://sspai.com/post/112011",
+                "published": "2026-07-09"
+            },
+            {
+                "title": "iOS 27 Beta 2 & 3 值得关注的新特性",
+                "link": "https://sspai.com/post/112083",
+                "published": "2026-07-09"
+            },
             {
                 "title": "角落新声｜在陌生的城市里，寻找属于自己的角落",
                 "link": "https://sspai.com/post/111983",
@@ -30918,7 +30948,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,

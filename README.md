@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-07-10】 科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html)
 * [【2026-07-02】 科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html)
 * [【2026-06-30】 Dario Amodei：AI 开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)
 * [【2026-06-26】 科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)
@@ -25,7 +26,6 @@
 * [【2026-05-21】 科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html)
 * [【2026-05-15】 科技爱好者周刊（第 396 期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html)
 * [【2026-05-07】 科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html)
-* [【2026-04-23】 科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-07-10】 安达卢西亚的日与夜：格拉纳达漫游指南](https://sspai.com/post/112097)
+* [【2026-07-10】 Vibe Coding 时代，为什么降本不一定增效？](https://sspai.com/post/111975)
+* [【2026-07-10】 派早报：蔚来 ES8 大五座版正式上市等](https://sspai.com/post/112143)
+* [【2026-07-09】 TDS REVIEW | 小米耳夹式耳机体验](https://sspai.com/post/112011)
+* [【2026-07-09】 iOS 27 Beta 2 & 3 值得关注的新特性](https://sspai.com/post/112083)
 * [【2026-07-09】 角落新声｜在陌生的城市里，寻找属于自己的角落](https://sspai.com/post/111983)
 * [【2026-07-09】 派早报：GPT-5.6 即将开放使用、Nothing 发布 Phone (4b) 等](https://sspai.com/post/112091)
 * [【2026-07-08】 乌兰布统，草原观星](https://sspai.com/post/111923)
 * [【2026-07-08】 我的出行好伙伴，用 iPhone 一站式解决旅途痛点](https://sspai.com/post/112044)
 * [【2026-07-08】 好的桌面需要设备，更需要灯光：明基×少数派线下店体验空间升级](https://sspai.com/post/110993)
-* [【2026-07-07】 派早报：Nothing Ear (3a) 发布、Meta 推出 Muse 图像生成模型等](https://sspai.com/post/112049)
-* [【2026-07-07】 家庭饮品 DIY 指南（二）：常用液体物料推荐](https://sspai.com/prime/story/home-made-beverages-2)
-* [【2026-07-07】 社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕](https://sspai.com/post/112017)
-* [【2026-07-07】 用 Option 给 macOS 操作加点料](https://sspai.com/post/73385)
-* [【2026-07-07】 新手日记的「为什么」与「写什么」](https://sspai.com/post/111655)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-07-09 08:30:00
+:alarm_clock: 更新时间: 2026-07-10 08:20:14
