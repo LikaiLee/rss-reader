@@ -1255,13 +1255,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/112169",
+                "published": "2026-07-10"
+            },
             {
                 "title": "安达卢西亚的日与夜：格拉纳达漫游指南",
                 "link": "https://sspai.com/post/112097",
@@ -30948,7 +30953,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 1
     },
     {
         "id": 2,
