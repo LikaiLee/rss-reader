@@ -1263,6 +1263,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "6月音乐精选：不得不听的 17 张……没错 17 张专辑！",
+                "link": "https://sspai.com/post/112035",
+                "published": "2026-07-12"
+            },
+            {
+                "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
+                "link": "https://sspai.com/post/68024",
+                "published": "2026-07-11"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 8 部作品",
                 "link": "https://sspai.com/post/112169",
                 "published": "2026-07-10"
@@ -30953,7 +30963,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,

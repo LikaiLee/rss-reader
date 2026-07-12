@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-07-12】 6月音乐精选：不得不听的 17 张……没错 17 张专辑！](https://sspai.com/post/112035)
+* [【2026-07-11】 暴雨和洪涝的季节，这些技巧助你从容自保](https://sspai.com/post/68024)
 * [【2026-07-10】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/112169)
 * [【2026-07-10】 安达卢西亚的日与夜：格拉纳达漫游指南](https://sspai.com/post/112097)
 * [【2026-07-10】 Vibe Coding 时代，为什么降本不一定增效？](https://sspai.com/post/111975)
@@ -43,8 +45,6 @@
 * [【2026-07-09】 iOS 27 Beta 2 & 3 值得关注的新特性](https://sspai.com/post/112083)
 * [【2026-07-09】 角落新声｜在陌生的城市里，寻找属于自己的角落](https://sspai.com/post/111983)
 * [【2026-07-09】 派早报：GPT-5.6 即将开放使用、Nothing 发布 Phone (4b) 等](https://sspai.com/post/112091)
-* [【2026-07-08】 乌兰布统，草原观星](https://sspai.com/post/111923)
-* [【2026-07-08】 我的出行好伙伴，用 iPhone 一站式解决旅途痛点](https://sspai.com/post/112044)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-07-11 07:09:37
+:alarm_clock: 更新时间: 2026-07-12 07:27:05
