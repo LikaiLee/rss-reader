@@ -1263,6 +1263,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "依江伴湖，树影连绵：南昌公园散步指南",
+                "link": "https://sspai.com/post/111776",
+                "published": "2026-07-13"
+            },
+            {
+                "title": "你这图「保真」吗？AI 生图时代的信息防伪",
+                "link": "https://sspai.com/post/112185",
+                "published": "2026-07-13"
+            },
+            {
+                "title": "派早报：苹果起诉 OpenAI 窃取商业机密",
+                "link": "https://sspai.com/post/112215",
+                "published": "2026-07-12"
+            },
+            {
                 "title": "6月音乐精选：不得不听的 17 张……没错 17 张专辑！",
                 "link": "https://sspai.com/post/112035",
                 "published": "2026-07-12"
@@ -30963,7 +30978,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
