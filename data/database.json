@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
+                "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
+                "published": "2026-07-16"
+            },
+            {
                 "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
                 "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
                 "published": "2026-07-10"
@@ -1255,13 +1260,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "UniGetUI：可能是 Windows 下最好用的应用商店",
+                "link": "https://sspai.com/post/111128",
+                "published": "2026-07-17"
+            },
+            {
+                "title": "派早报：OPPO 宣布调整旗下子品牌的全球产品策略等",
+                "link": "https://sspai.com/post/112414",
+                "published": "2026-07-17"
+            },
+            {
+                "title": "新玩意 246｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/112400",
+                "published": "2026-07-16"
+            },
+            {
+                "title": "Apple 高校优惠活动开始了，今年有些不一样",
+                "link": "https://sspai.com/post/112386",
+                "published": "2026-07-16"
+            },
+            {
+                "title": "具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性",
+                "link": "https://sspai.com/post/112375",
+                "published": "2026-07-16"
+            },
             {
                 "title": "翻译「世界杯」的赛事名称，为什么中文比日文更简洁？",
                 "link": "https://sspai.com/post/111086",
@@ -31038,7 +31068,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,

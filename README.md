@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-07-16】 科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html)
 * [【2026-07-10】 科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html)
 * [【2026-07-02】 科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html)
 * [【2026-06-30】 Dario Amodei：AI 开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)
@@ -25,7 +26,6 @@
 * [【2026-05-29】 科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)
 * [【2026-05-21】 科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html)
 * [【2026-05-15】 科技爱好者周刊（第 396 期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html)
-* [【2026-05-07】 科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-07-17】 UniGetUI：可能是 Windows 下最好用的应用商店](https://sspai.com/post/111128)
+* [【2026-07-17】 派早报：OPPO 宣布调整旗下子品牌的全球产品策略等](https://sspai.com/post/112414)
+* [【2026-07-16】 新玩意 246｜少数派的编辑们最近买了啥？](https://sspai.com/post/112400)
+* [【2026-07-16】 Apple 高校优惠活动开始了，今年有些不一样](https://sspai.com/post/112386)
+* [【2026-07-16】 具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性](https://sspai.com/post/112375)
 * [【2026-07-16】 翻译「世界杯」的赛事名称，为什么中文比日文更简洁？](https://sspai.com/post/111086)
 * [【2026-07-16】 派早报：国行版 Apple Intelligence 完成备案等](https://sspai.com/post/112373)
 * [【2026-07-15】 Leitra 诞生记：一次未完成的实践](https://sspai.com/post/112077)
 * [【2026-07-15】 具透 | iPadOS 27 首个公开测试版中你不容错过的 12 个新特性](https://sspai.com/post/112338)
 * [【2026-07-15】 角落新声｜从桌面「长」出来的创业空间，我靠这些好物「偷」一点清闲](https://sspai.com/post/112243)
-* [【2026-07-15】 派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等](https://sspai.com/post/112334)
-* [【2026-07-14】 社区速递 149｜派友热议睡眠数据化、观穹 6×24 望远镜与 RG Rotate 旋转屏掌机](https://sspai.com/post/112320)
-* [【2026-07-14】 具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能](https://sspai.com/post/112287)
-* [【2026-07-14】 iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/112288)
-* [【2026-07-14】 派早报：全球智能手机出货量创 13 年来最低水平等](https://sspai.com/post/112286)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-07-16 07:20:37
+:alarm_clock: 更新时间: 2026-07-17 07:14:18
