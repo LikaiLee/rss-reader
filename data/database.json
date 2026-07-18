@@ -1260,13 +1260,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
+                "link": "https://sspai.com/post/112398",
+                "published": "2026-07-18"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/112444",
+                "published": "2026-07-17"
+            },
+            {
+                "title": "具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……",
+                "link": "https://sspai.com/post/112430",
+                "published": "2026-07-17"
+            },
             {
                 "title": "UniGetUI：可能是 Windows 下最好用的应用商店",
                 "link": "https://sspai.com/post/111128",
@@ -31068,7 +31083,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
