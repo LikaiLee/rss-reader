@@ -1268,6 +1268,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验",
+                "link": "https://sspai.com/post/112374",
+                "published": "2026-07-19"
+            },
+            {
                 "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
                 "link": "https://sspai.com/post/112398",
                 "published": "2026-07-18"
@@ -31083,7 +31088,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,

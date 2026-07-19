@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-07-19】 TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验](https://sspai.com/post/112374)
 * [【2026-07-18】 小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？](https://sspai.com/post/112398)
 * [【2026-07-17】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112444)
 * [【2026-07-17】 具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430)
@@ -44,7 +45,6 @@
 * [【2026-07-16】 Apple 高校优惠活动开始了，今年有些不一样](https://sspai.com/post/112386)
 * [【2026-07-16】 具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性](https://sspai.com/post/112375)
 * [【2026-07-16】 翻译「世界杯」的赛事名称，为什么中文比日文更简洁？](https://sspai.com/post/111086)
-* [【2026-07-16】 派早报：国行版 Apple Intelligence 完成备案等](https://sspai.com/post/112373)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-07-18 06:58:33
+:alarm_clock: 更新时间: 2026-07-19 07:24:54
