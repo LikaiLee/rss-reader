@@ -1268,6 +1268,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "2026 年再看 iPhone 8 Plus，它还够用吗？",
+                "link": "https://sspai.com/post/112425",
+                "published": "2026-07-20"
+            },
+            {
+                "title": "派早报：锂电池消费税分阶段恢复征收",
+                "link": "https://sspai.com/post/112498",
+                "published": "2026-07-19"
+            },
+            {
                 "title": "TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验",
                 "link": "https://sspai.com/post/112374",
                 "published": "2026-07-19"
@@ -31088,7 +31098,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
