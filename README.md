@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-07-21】 App+1 | 把「从长视频截取片段」做到极致：Trimly](https://sspai.com/post/111569)
+* [【2026-07-21】 派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等](https://sspai.com/post/112565)
+* [【2026-07-20】 派评 | 近期值得关注的 App](https://sspai.com/post/112543)
+* [【2026-07-20】 角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫](https://sspai.com/post/112453)
 * [【2026-07-20】 2026 年再看 iPhone 8 Plus，它还够用吗？](https://sspai.com/post/112425)
 * [【2026-07-19】 派早报：锂电池消费税分阶段恢复征收](https://sspai.com/post/112498)
 * [【2026-07-19】 TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验](https://sspai.com/post/112374)
 * [【2026-07-18】 小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？](https://sspai.com/post/112398)
 * [【2026-07-17】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112444)
 * [【2026-07-17】 具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430)
-* [【2026-07-17】 UniGetUI：可能是 Windows 下最好用的应用商店](https://sspai.com/post/111128)
-* [【2026-07-17】 派早报：OPPO 宣布调整旗下子品牌的全球产品策略等](https://sspai.com/post/112414)
-* [【2026-07-16】 新玩意 246｜少数派的编辑们最近买了啥？](https://sspai.com/post/112400)
-* [【2026-07-16】 Apple 高校优惠活动开始了，今年有些不一样](https://sspai.com/post/112386)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-07-20 07:56:36
+:alarm_clock: 更新时间: 2026-07-21 07:30:47

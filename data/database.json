@@ -1268,6 +1268,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1 | 把「从长视频截取片段」做到极致：Trimly",
+                "link": "https://sspai.com/post/111569",
+                "published": "2026-07-21"
+            },
+            {
+                "title": "派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等",
+                "link": "https://sspai.com/post/112565",
+                "published": "2026-07-21"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/112543",
+                "published": "2026-07-20"
+            },
+            {
+                "title": "角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫",
+                "link": "https://sspai.com/post/112453",
+                "published": "2026-07-20"
+            },
+            {
                 "title": "2026 年再看 iPhone 8 Plus，它还够用吗？",
                 "link": "https://sspai.com/post/112425",
                 "published": "2026-07-20"
@@ -31098,7 +31118,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
