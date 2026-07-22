@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-07-22】 角落新声｜我的上帝模式，一名设计师创作环境的演变](https://sspai.com/post/112109)
+* [【2026-07-22】 派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等](https://sspai.com/post/112597)
+* [【2026-07-21】 社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车](https://sspai.com/post/112582)
+* [【2026-07-21】 装上 Fedora 的 Surface Pro：一台老设备的新可能](https://sspai.com/post/112200)
 * [【2026-07-21】 App+1 | 把「从长视频截取片段」做到极致：Trimly](https://sspai.com/post/111569)
 * [【2026-07-21】 派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等](https://sspai.com/post/112565)
 * [【2026-07-20】 派评 | 近期值得关注的 App](https://sspai.com/post/112543)
 * [【2026-07-20】 角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫](https://sspai.com/post/112453)
 * [【2026-07-20】 2026 年再看 iPhone 8 Plus，它还够用吗？](https://sspai.com/post/112425)
 * [【2026-07-19】 派早报：锂电池消费税分阶段恢复征收](https://sspai.com/post/112498)
-* [【2026-07-19】 TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验](https://sspai.com/post/112374)
-* [【2026-07-18】 小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？](https://sspai.com/post/112398)
-* [【2026-07-17】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112444)
-* [【2026-07-17】 具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-07-21 07:30:47
+:alarm_clock: 更新时间: 2026-07-22 07:32:26
