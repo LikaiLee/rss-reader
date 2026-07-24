@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
+                "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
+                "published": "2026-07-24"
+            },
+            {
                 "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
                 "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
                 "published": "2026-07-16"
@@ -1260,13 +1265,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！",
+                "link": "https://sspai.com/post/112679",
+                "published": "2026-07-24"
+            },
+            {
+                "title": "派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等",
+                "link": "https://sspai.com/post/112677",
+                "published": "2026-07-24"
+            },
+            {
+                "title": "新玩意 247｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/112668",
+                "published": "2026-07-23"
+            },
+            {
+                "title": "小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈",
+                "link": "https://sspai.com/post/112428",
+                "published": "2026-07-23"
+            },
             {
                 "title": "让 Windows 顺眼又省心：我的新设备配置经验",
                 "link": "https://sspai.com/post/111300",
