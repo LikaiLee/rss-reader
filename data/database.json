@@ -1265,13 +1265,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
+                "link": "https://sspai.com/post/112093",
+                "published": "2026-07-25"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 13 部作品",
+                "link": "https://sspai.com/post/112692",
+                "published": "2026-07-24"
+            },
+            {
+                "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
+                "link": "https://sspai.com/post/112232",
+                "published": "2026-07-24"
+            },
             {
                 "title": "赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！",
                 "link": "https://sspai.com/post/112679",
@@ -31183,7 +31198,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
