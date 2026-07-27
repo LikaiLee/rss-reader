@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-07-27】 Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」](https://sspai.com/post/101668)
+* [【2026-07-27】 角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时](https://sspai.com/post/112705)
+* [【2026-07-26】 派早报：携程因滥用市场支配地位被罚 51.79 亿元](https://sspai.com/post/112769)
+* [【2026-07-26】 手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧](https://sspai.com/post/112421)
 * [【2026-07-25】 看不见、摸得着的家居要素：聊聊湿度管理的方法与实践](https://sspai.com/post/112093)
 * [【2026-07-24】 本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/112692)
 * [【2026-07-24】 角落新声｜数字与实体、有线与无线：我的多场景有声角落构建](https://sspai.com/post/112232)
 * [【2026-07-24】 赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！](https://sspai.com/post/112679)
 * [【2026-07-24】 派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等](https://sspai.com/post/112677)
 * [【2026-07-23】 新玩意 247｜少数派的编辑们最近买了啥？](https://sspai.com/post/112668)
-* [【2026-07-23】 小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈](https://sspai.com/post/112428)
-* [【2026-07-23】 让 Windows 顺眼又省心：我的新设备配置经验](https://sspai.com/post/111300)
-* [【2026-07-23】 派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等](https://sspai.com/post/112647)
-* [【2026-07-22】 Parti：一个零门槛联机游戏平台，凭什么不需要服务器？](https://sspai.com/post/112545)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-07-26 07:33:06
+:alarm_clock: 更新时间: 2026-07-27 08:28:40

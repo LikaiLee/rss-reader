@@ -1273,6 +1273,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」",
+                "link": "https://sspai.com/post/101668",
+                "published": "2026-07-27"
+            },
+            {
+                "title": "角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时",
+                "link": "https://sspai.com/post/112705",
+                "published": "2026-07-27"
+            },
+            {
+                "title": "派早报：携程因滥用市场支配地位被罚 51.79 亿元",
+                "link": "https://sspai.com/post/112769",
+                "published": "2026-07-26"
+            },
+            {
+                "title": "手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧",
+                "link": "https://sspai.com/post/112421",
+                "published": "2026-07-26"
+            },
+            {
                 "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
                 "link": "https://sspai.com/post/112093",
                 "published": "2026-07-25"
@@ -31198,7 +31218,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 2,
