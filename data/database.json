@@ -1273,6 +1273,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "索尼抛弃实体游戏光盘，谁成为了转型代价？",
+                "link": "https://sspai.com/post/112774",
+                "published": "2026-07-28"
+            },
+            {
+                "title": "派早报：月之暗面开源 Kimi K3 模型等",
+                "link": "https://sspai.com/post/112805",
+                "published": "2026-07-28"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/112785",
+                "published": "2026-07-27"
+            },
+            {
                 "title": "Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」",
                 "link": "https://sspai.com/post/101668",
                 "published": "2026-07-27"
@@ -31218,7 +31233,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
