@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-07-29】 角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」](https://sspai.com/post/112715)
+* [【2026-07-29】 派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等](https://sspai.com/post/112837)
+* [【2026-07-28】 社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包](https://sspai.com/post/112820)
+* [【2026-07-28】 能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码](https://sspai.com/post/112822)
+* [【2026-07-28】 从《奥德赛》观影聊聊 IMAX 影院的分类](https://sspai.com/post/112380)
 * [【2026-07-28】 索尼抛弃实体游戏光盘，谁成为了转型代价？](https://sspai.com/post/112774)
 * [【2026-07-28】 派早报：月之暗面开源 Kimi K3 模型等](https://sspai.com/post/112805)
 * [【2026-07-27】 派评 | 近期值得关注的 App](https://sspai.com/post/112785)
 * [【2026-07-27】 Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」](https://sspai.com/post/101668)
 * [【2026-07-27】 角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时](https://sspai.com/post/112705)
-* [【2026-07-26】 派早报：携程因滥用市场支配地位被罚 51.79 亿元](https://sspai.com/post/112769)
-* [【2026-07-26】 手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧](https://sspai.com/post/112421)
-* [【2026-07-25】 看不见、摸得着的家居要素：聊聊湿度管理的方法与实践](https://sspai.com/post/112093)
-* [【2026-07-24】 本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/112692)
-* [【2026-07-24】 角落新声｜数字与实体、有线与无线：我的多场景有声角落构建](https://sspai.com/post/112232)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-07-28 07:35:40
+:alarm_clock: 更新时间: 2026-07-29 07:40:38

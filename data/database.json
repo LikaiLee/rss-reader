@@ -1273,6 +1273,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」",
+                "link": "https://sspai.com/post/112715",
+                "published": "2026-07-29"
+            },
+            {
+                "title": "派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等",
+                "link": "https://sspai.com/post/112837",
+                "published": "2026-07-29"
+            },
+            {
+                "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
+                "link": "https://sspai.com/post/112820",
+                "published": "2026-07-28"
+            },
+            {
+                "title": "能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码",
+                "link": "https://sspai.com/post/112822",
+                "published": "2026-07-28"
+            },
+            {
+                "title": "从《奥德赛》观影聊聊 IMAX 影院的分类",
+                "link": "https://sspai.com/post/112380",
+                "published": "2026-07-28"
+            },
+            {
                 "title": "索尼抛弃实体游戏光盘，谁成为了转型代价？",
                 "link": "https://sspai.com/post/112774",
                 "published": "2026-07-28"
@@ -31233,7 +31258,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,
