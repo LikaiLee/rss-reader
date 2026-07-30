@@ -1273,6 +1273,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "少数派会员年度更新：把共同的热爱随身携带",
+                "link": "https://sspai.com/post/112858",
+                "published": "2026-07-30"
+            },
+            {
+                "title": "派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等",
+                "link": "https://sspai.com/post/112881",
+                "published": "2026-07-30"
+            },
+            {
+                "title": "离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新",
+                "link": "https://sspai.com/post/112787",
+                "published": "2026-07-29"
+            },
+            {
+                "title": "陕北看海，黄土难寻",
+                "link": "https://sspai.com/post/112761",
+                "published": "2026-07-29"
+            },
+            {
                 "title": "角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」",
                 "link": "https://sspai.com/post/112715",
                 "published": "2026-07-29"
@@ -31258,7 +31278,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
