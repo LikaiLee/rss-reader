@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
+                "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
+                "published": "2026-07-31"
+            },
+            {
                 "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
                 "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
                 "published": "2026-07-24"
@@ -1265,13 +1270,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？",
+                "link": "https://sspai.com/post/112833",
+                "published": "2026-07-31"
+            },
+            {
+                "title": "派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等",
+                "link": "https://sspai.com/post/112930",
+                "published": "2026-07-31"
+            },
+            {
+                "title": "App+1 | 免费、多功能的远程控制新选择：网易 UU 远程",
+                "link": "https://sspai.com/post/112405",
+                "published": "2026-07-30"
+            },
+            {
+                "title": "在流媒体时代，搭建一个专属于自己的「音乐探索系统」",
+                "link": "https://sspai.com/post/112656",
+                "published": "2026-07-30"
+            },
             {
                 "title": "少数派会员年度更新：把共同的热爱随身携带",
                 "link": "https://sspai.com/post/112858",
