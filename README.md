@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-08-01】 「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账](https://sspai.com/post/112701)
+* [【2026-07-31】 本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置](https://sspai.com/post/112962)
+* [【2026-07-31】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112961)
+* [【2026-07-31】 App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730)
 * [【2026-07-31】 简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？](https://sspai.com/post/112833)
 * [【2026-07-31】 派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等](https://sspai.com/post/112930)
 * [【2026-07-30】 App+1 | 免费、多功能的远程控制新选择：网易 UU 远程](https://sspai.com/post/112405)
 * [【2026-07-30】 在流媒体时代，搭建一个专属于自己的「音乐探索系统」](https://sspai.com/post/112656)
 * [【2026-07-30】 少数派会员年度更新：把共同的热爱随身携带](https://sspai.com/post/112858)
 * [【2026-07-30】 派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等](https://sspai.com/post/112881)
-* [【2026-07-29】 离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787)
-* [【2026-07-29】 陕北看海，黄土难寻](https://sspai.com/post/112761)
-* [【2026-07-29】 角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」](https://sspai.com/post/112715)
-* [【2026-07-29】 派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等](https://sspai.com/post/112837)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-07-31 07:48:17
+:alarm_clock: 更新时间: 2026-08-01 07:25:31

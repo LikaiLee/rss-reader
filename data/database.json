@@ -1270,13 +1270,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
+                "link": "https://sspai.com/post/112701",
+                "published": "2026-08-01"
+            },
+            {
+                "title": "本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置",
+                "link": "https://sspai.com/post/112962",
+                "published": "2026-07-31"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/112961",
+                "published": "2026-07-31"
+            },
+            {
+                "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图",
+                "link": "https://sspai.com/post/112730",
+                "published": "2026-07-31"
+            },
             {
                 "title": "简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？",
                 "link": "https://sspai.com/post/112833",
