@@ -1278,6 +1278,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "职人专访 #001：少数派背后的理想主义",
+                "link": "https://sspai.com/post/112966",
+                "published": "2026-08-03"
+            },
+            {
+                "title": "角落新声｜两平米、两个角落，安放两个自己",
+                "link": "https://sspai.com/post/112551",
+                "published": "2026-08-03"
+            },
+            {
+                "title": "派早报：DeepSeek V4 Flash 正式版发布",
+                "link": "https://sspai.com/post/113014",
+                "published": "2026-08-02"
+            },
+            {
+                "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
+                "link": "https://sspai.com/post/112843",
+                "published": "2026-08-02"
+            },
+            {
                 "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
                 "link": "https://sspai.com/post/112701",
                 "published": "2026-08-01"
@@ -31323,7 +31343,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 4
     },
     {
         "id": 2,
