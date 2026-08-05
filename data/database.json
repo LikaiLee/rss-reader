@@ -1278,6 +1278,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」",
+                "link": "https://sspai.com/post/112891",
+                "published": "2026-08-05"
+            },
+            {
+                "title": "派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等",
+                "link": "https://sspai.com/post/113087",
+                "published": "2026-08-05"
+            },
+            {
+                "title": "敬畏热度、保持热情：如何在夏季坚持跑步",
+                "link": "https://sspai.com/post/74342",
+                "published": "2026-08-04"
+            },
+            {
+                "title": "家庭饮品 DIY 指南（三）：常用固体物料推荐",
+                "link": "https://sspai.com/prime/story/home-made-beverages-3",
+                "published": "2026-08-04"
+            },
+            {
+                "title": "社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇",
+                "link": "https://sspai.com/post/113060",
+                "published": "2026-08-04"
+            },
+            {
                 "title": "角落新声｜成年的快乐，是可以将角落铺满全家",
                 "link": "https://sspai.com/post/112738",
                 "published": "2026-08-04"
@@ -31363,7 +31388,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
