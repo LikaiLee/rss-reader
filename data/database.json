@@ -1278,6 +1278,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "角落新声｜音乐，刻在时光里的私人地图",
+                "link": "https://sspai.com/post/113017",
+                "published": "2026-08-06"
+            },
+            {
+                "title": "派早报：华为发布尊界 MPV 及多款新品等",
+                "link": "https://sspai.com/post/113110",
+                "published": "2026-08-06"
+            },
+            {
+                "title": "196 张盗版碟，和我的游戏启蒙史",
+                "link": "https://sspai.com/post/112831",
+                "published": "2026-08-05"
+            },
+            {
+                "title": "Bookology：从藏书到笔记，打造你的私人阅读档案",
+                "link": "https://sspai.com/post/112953",
+                "published": "2026-08-05"
+            },
+            {
                 "title": "角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」",
                 "link": "https://sspai.com/post/112891",
                 "published": "2026-08-05"
@@ -31388,7 +31408,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

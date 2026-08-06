@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-08-06】 角落新声｜音乐，刻在时光里的私人地图](https://sspai.com/post/113017)
+* [【2026-08-06】 派早报：华为发布尊界 MPV 及多款新品等](https://sspai.com/post/113110)
+* [【2026-08-05】 196 张盗版碟，和我的游戏启蒙史](https://sspai.com/post/112831)
+* [【2026-08-05】 Bookology：从藏书到笔记，打造你的私人阅读档案](https://sspai.com/post/112953)
 * [【2026-08-05】 角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」](https://sspai.com/post/112891)
 * [【2026-08-05】 派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等](https://sspai.com/post/113087)
 * [【2026-08-04】 敬畏热度、保持热情：如何在夏季坚持跑步](https://sspai.com/post/74342)
 * [【2026-08-04】 家庭饮品 DIY 指南（三）：常用固体物料推荐](https://sspai.com/prime/story/home-made-beverages-3)
 * [【2026-08-04】 社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇](https://sspai.com/post/113060)
 * [【2026-08-04】 角落新声｜成年的快乐，是可以将角落铺满全家](https://sspai.com/post/112738)
-* [【2026-08-04】 派早报：MiniMax H3 开源、Qwen3.8-Max 发布等](https://sspai.com/post/113053)
-* [【2026-08-03】 派评 | 近期值得关注的 App](https://sspai.com/post/113040)
-* [【2026-08-03】 把折叠屏外屏做成手机后：iKKO MindOne Pro 体验](https://sspai.com/post/112685)
-* [【2026-08-03】 职人专访 #001：少数派背后的理想主义](https://sspai.com/post/112966)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-05 07:35:59
+:alarm_clock: 更新时间: 2026-08-06 07:36:31
