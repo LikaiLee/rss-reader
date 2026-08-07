@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-08-07】 科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)
 * [【2026-07-31】 科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)
 * [【2026-07-24】 科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html)
 * [【2026-07-16】 科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html)
@@ -25,7 +26,6 @@
 * [【2026-06-26】 科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)
 * [【2026-06-11】 科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)
 * [【2026-06-05】 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)
-* [【2026-05-29】 科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-08-07】 角落新声｜从合租到整租，我在客厅听见了自己的声音](https://sspai.com/post/113144)
+* [【2026-08-07】 派早报：Bose 发布新款 QuietComfort 头戴式耳机等](https://sspai.com/post/113162)
+* [【2026-08-06】 新玩意 248｜少数派的编辑们最近买了啥？](https://sspai.com/post/113139)
+* [【2026-08-06】 TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验](https://sspai.com/post/112916)
 * [【2026-08-06】 角落新声｜音乐，刻在时光里的私人地图](https://sspai.com/post/113017)
 * [【2026-08-06】 派早报：华为发布尊界 MPV 及多款新品等](https://sspai.com/post/113110)
 * [【2026-08-05】 196 张盗版碟，和我的游戏启蒙史](https://sspai.com/post/112831)
 * [【2026-08-05】 Bookology：从藏书到笔记，打造你的私人阅读档案](https://sspai.com/post/112953)
 * [【2026-08-05】 角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」](https://sspai.com/post/112891)
 * [【2026-08-05】 派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等](https://sspai.com/post/113087)
-* [【2026-08-04】 敬畏热度、保持热情：如何在夏季坚持跑步](https://sspai.com/post/74342)
-* [【2026-08-04】 家庭饮品 DIY 指南（三）：常用固体物料推荐](https://sspai.com/prime/story/home-made-beverages-3)
-* [【2026-08-04】 社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇](https://sspai.com/post/113060)
-* [【2026-08-04】 角落新声｜成年的快乐，是可以将角落铺满全家](https://sspai.com/post/112738)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-06 07:36:31
+:alarm_clock: 更新时间: 2026-08-07 06:07:01
