@@ -1275,13 +1275,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/113191",
+                "published": "2026-08-07"
+            },
+            {
+                "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表",
+                "link": "https://sspai.com/post/113108",
+                "published": "2026-08-07"
+            },
             {
                 "title": "角落新声｜从合租到整租，我在客厅听见了自己的声音",
                 "link": "https://sspai.com/post/113144",
@@ -31433,7 +31443,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
