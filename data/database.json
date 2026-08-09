@@ -1283,6 +1283,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "就内容创作而言，说话还是替代不了打字",
+                "link": "https://sspai.com/post/112901",
+                "published": "2026-08-08"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 10 部作品",
                 "link": "https://sspai.com/post/113191",
                 "published": "2026-08-07"
@@ -31443,7 +31448,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,

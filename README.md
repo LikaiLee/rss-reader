@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-08-08】 就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901)
 * [【2026-08-07】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113191)
 * [【2026-08-07】 [限时优惠] 数据分析：用好 Excel 中的数据透视表](https://sspai.com/post/113108)
 * [【2026-08-07】 角落新声｜从合租到整租，我在客厅听见了自己的声音](https://sspai.com/post/113144)
@@ -44,7 +45,6 @@
 * [【2026-08-06】 角落新声｜音乐，刻在时光里的私人地图](https://sspai.com/post/113017)
 * [【2026-08-06】 派早报：华为发布尊界 MPV 及多款新品等](https://sspai.com/post/113110)
 * [【2026-08-05】 196 张盗版碟，和我的游戏启蒙史](https://sspai.com/post/112831)
-* [【2026-08-05】 Bookology：从藏书到笔记，打造你的私人阅读档案](https://sspai.com/post/112953)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-08 05:40:29
+:alarm_clock: 更新时间: 2026-08-09 05:44:38
