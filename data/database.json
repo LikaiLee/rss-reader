@@ -1283,6 +1283,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
+                "link": "https://sspai.com/post/113202",
+                "published": "2026-08-10"
+            },
+            {
+                "title": "派早报：央视曝光酒店评级标识消费陷阱",
+                "link": "https://sspai.com/post/113268",
+                "published": "2026-08-09"
+            },
+            {
+                "title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面",
+                "link": "https://sspai.com/post/113158",
+                "published": "2026-08-09"
+            },
+            {
                 "title": "就内容创作而言，说话还是替代不了打字",
                 "link": "https://sspai.com/post/112901",
                 "published": "2026-08-08"
@@ -31448,7 +31463,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

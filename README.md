@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-08-10】 我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕](https://sspai.com/post/113202)
+* [【2026-08-09】 派早报：央视曝光酒店评级标识消费陷阱](https://sspai.com/post/113268)
+* [【2026-08-09】 我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面](https://sspai.com/post/113158)
 * [【2026-08-08】 就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901)
 * [【2026-08-07】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113191)
 * [【2026-08-07】 [限时优惠] 数据分析：用好 Excel 中的数据透视表](https://sspai.com/post/113108)
@@ -42,9 +45,6 @@
 * [【2026-08-07】 派早报：Bose 发布新款 QuietComfort 头戴式耳机等](https://sspai.com/post/113162)
 * [【2026-08-06】 新玩意 248｜少数派的编辑们最近买了啥？](https://sspai.com/post/113139)
 * [【2026-08-06】 TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验](https://sspai.com/post/112916)
-* [【2026-08-06】 角落新声｜音乐，刻在时光里的私人地图](https://sspai.com/post/113017)
-* [【2026-08-06】 派早报：华为发布尊界 MPV 及多款新品等](https://sspai.com/post/113110)
-* [【2026-08-05】 196 张盗版碟，和我的游戏启蒙史](https://sspai.com/post/112831)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-09 05:44:38
+:alarm_clock: 更新时间: 2026-08-10 06:08:44
