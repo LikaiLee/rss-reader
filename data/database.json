@@ -1283,6 +1283,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你",
+                "link": "https://sspai.com/post/113288",
+                "published": "2026-08-11"
+            },
+            {
+                "title": "不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍",
+                "link": "https://sspai.com/post/113263",
+                "published": "2026-08-11"
+            },
+            {
+                "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等",
+                "link": "https://sspai.com/post/113301",
+                "published": "2026-08-11"
+            },
+            {
+                "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
+                "link": "https://sspai.com/prime/story/direct-power-supply-mod",
+                "published": "2026-08-10"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/113283",
+                "published": "2026-08-10"
+            },
+            {
+                "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
+                "link": "https://sspai.com/post/113115",
+                "published": "2026-08-10"
+            },
+            {
                 "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
                 "link": "https://sspai.com/post/113202",
                 "published": "2026-08-10"
@@ -31463,7 +31493,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 6
     },
     {
         "id": 2,
