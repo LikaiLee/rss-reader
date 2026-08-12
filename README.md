@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-08-12】 我，与「唯一」的 iPhone Air](https://sspai.com/post/112880)
+* [【2026-08-12】 派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等](https://sspai.com/post/113343)
+* [【2026-08-11】 社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包](https://sspai.com/post/113304)
+* [【2026-08-11】 走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线](https://sspai.com/post/112887)
 * [【2026-08-11】 从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你](https://sspai.com/post/113288)
 * [【2026-08-11】 不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍](https://sspai.com/post/113263)
 * [【2026-08-11】 派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等](https://sspai.com/post/113301)
 * [【2026-08-10】 不再拆机飞线：借助 ACC 实现旧手机直供电「改造」](https://sspai.com/prime/story/direct-power-supply-mod)
 * [【2026-08-10】 派评 | 近期值得关注的 App](https://sspai.com/post/113283)
 * [【2026-08-10】 写给「跑两步就喘」的你：调整跑步姿势，舒适开跑](https://sspai.com/post/113115)
-* [【2026-08-10】 我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕](https://sspai.com/post/113202)
-* [【2026-08-09】 派早报：央视曝光酒店评级标识消费陷阱](https://sspai.com/post/113268)
-* [【2026-08-09】 我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面](https://sspai.com/post/113158)
-* [【2026-08-08】 就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-11 05:51:08
+:alarm_clock: 更新时间: 2026-08-12 06:11:47

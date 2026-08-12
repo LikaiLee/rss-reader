@@ -1283,6 +1283,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "我，与「唯一」的 iPhone Air",
+                "link": "https://sspai.com/post/112880",
+                "published": "2026-08-12"
+            },
+            {
+                "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
+                "link": "https://sspai.com/post/113343",
+                "published": "2026-08-12"
+            },
+            {
+                "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
+                "link": "https://sspai.com/post/113304",
+                "published": "2026-08-11"
+            },
+            {
+                "title": "走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线",
+                "link": "https://sspai.com/post/112887",
+                "published": "2026-08-11"
+            },
+            {
                 "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你",
                 "link": "https://sspai.com/post/113288",
                 "published": "2026-08-11"
@@ -31493,7 +31513,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
