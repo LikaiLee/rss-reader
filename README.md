@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-08-13】 6 天时间丈量独库公路：我的平安骑行指南](https://sspai.com/post/112873)
+* [【2026-08-13】 派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等](https://sspai.com/post/113385)
+* [【2026-08-12】 把「闪念胶囊」（Almost）放到 iPhone 锁屏](https://sspai.com/post/113219)
+* [【2026-08-12】 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派](https://sspai.com/post/113352)
 * [【2026-08-12】 我，与「唯一」的 iPhone Air](https://sspai.com/post/112880)
 * [【2026-08-12】 派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等](https://sspai.com/post/113343)
 * [【2026-08-11】 社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包](https://sspai.com/post/113304)
 * [【2026-08-11】 走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线](https://sspai.com/post/112887)
 * [【2026-08-11】 从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你](https://sspai.com/post/113288)
 * [【2026-08-11】 不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍](https://sspai.com/post/113263)
-* [【2026-08-11】 派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等](https://sspai.com/post/113301)
-* [【2026-08-10】 不再拆机飞线：借助 ACC 实现旧手机直供电「改造」](https://sspai.com/prime/story/direct-power-supply-mod)
-* [【2026-08-10】 派评 | 近期值得关注的 App](https://sspai.com/post/113283)
-* [【2026-08-10】 写给「跑两步就喘」的你：调整跑步姿势，舒适开跑](https://sspai.com/post/113115)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-12 06:11:47
+:alarm_clock: 更新时间: 2026-08-13 06:14:00
