@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-08-13】 科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)
 * [【2026-08-07】 科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)
 * [【2026-07-31】 科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)
 * [【2026-07-24】 科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html)
@@ -25,7 +26,6 @@
 * [【2026-06-30】 Dario Amodei：AI 开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)
 * [【2026-06-26】 科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)
 * [【2026-06-11】 科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)
-* [【2026-06-05】 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-08-14】 声擎×少数派｜「角落新声」征文活动获奖结果公布](https://sspai.com/post/111709)
+* [【2026-08-14】 App+1 | 把图标收进格子，DeskBox 让桌面整洁有序](https://sspai.com/post/112279)
+* [【2026-08-14】 派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态](https://sspai.com/post/113434)
+* [【2026-08-13】 不用改签名，给 Mac 微信聊天记录「搬个家」](https://sspai.com/post/113225)
+* [【2026-08-13】 从原理出发，高效搞定夏日营养冷食](https://sspai.com/prime/story/summer-cold-meal-guide)
+* [【2026-08-13】 TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验](https://sspai.com/post/113338)
 * [【2026-08-13】 6 天时间丈量独库公路：我的平安骑行指南](https://sspai.com/post/112873)
 * [【2026-08-13】 派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等](https://sspai.com/post/113385)
 * [【2026-08-12】 把「闪念胶囊」（Almost）放到 iPhone 锁屏](https://sspai.com/post/113219)
 * [【2026-08-12】 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派](https://sspai.com/post/113352)
-* [【2026-08-12】 我，与「唯一」的 iPhone Air](https://sspai.com/post/112880)
-* [【2026-08-12】 派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等](https://sspai.com/post/113343)
-* [【2026-08-11】 社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包](https://sspai.com/post/113304)
-* [【2026-08-11】 走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线](https://sspai.com/post/112887)
-* [【2026-08-11】 从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你](https://sspai.com/post/113288)
-* [【2026-08-11】 不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍](https://sspai.com/post/113263)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-13 06:14:00
+:alarm_clock: 更新时间: 2026-08-14 06:10:54

@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
+                "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
+                "published": "2026-08-13"
+            },
+            {
                 "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
                 "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
                 "published": "2026-08-07"
@@ -1275,13 +1280,43 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布",
+                "link": "https://sspai.com/post/111709",
+                "published": "2026-08-14"
+            },
+            {
+                "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序",
+                "link": "https://sspai.com/post/112279",
+                "published": "2026-08-14"
+            },
+            {
+                "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态",
+                "link": "https://sspai.com/post/113434",
+                "published": "2026-08-14"
+            },
+            {
+                "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
+                "link": "https://sspai.com/post/113225",
+                "published": "2026-08-13"
+            },
+            {
+                "title": "从原理出发，高效搞定夏日营养冷食",
+                "link": "https://sspai.com/prime/story/summer-cold-meal-guide",
+                "published": "2026-08-13"
+            },
+            {
+                "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验",
+                "link": "https://sspai.com/post/113338",
+                "published": "2026-08-13"
+            },
             {
                 "title": "6 天时间丈量独库公路：我的平安骑行指南",
                 "link": "https://sspai.com/post/112873",
@@ -31533,7 +31568,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
