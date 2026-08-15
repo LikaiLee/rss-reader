@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-08-14】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/113459)
+* [【2026-08-14】 你初高中时的书单里，总有本「东野圭吾」吧？](https://sspai.com/post/113416)
 * [【2026-08-14】 声擎×少数派｜「角落新声」征文活动获奖结果公布](https://sspai.com/post/111709)
 * [【2026-08-14】 App+1 | 把图标收进格子，DeskBox 让桌面整洁有序](https://sspai.com/post/112279)
 * [【2026-08-14】 派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态](https://sspai.com/post/113434)
@@ -43,8 +45,6 @@
 * [【2026-08-13】 TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验](https://sspai.com/post/113338)
 * [【2026-08-13】 6 天时间丈量独库公路：我的平安骑行指南](https://sspai.com/post/112873)
 * [【2026-08-13】 派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等](https://sspai.com/post/113385)
-* [【2026-08-12】 把「闪念胶囊」（Almost）放到 iPhone 锁屏](https://sspai.com/post/113219)
-* [【2026-08-12】 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派](https://sspai.com/post/113352)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-14 06:10:54
+:alarm_clock: 更新时间: 2026-08-15 05:21:34
