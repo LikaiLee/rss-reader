@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-08-15】 有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布](https://sspai.com/post/111974)
 * [【2026-08-14】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/113459)
 * [【2026-08-14】 你初高中时的书单里，总有本「东野圭吾」吧？](https://sspai.com/post/113416)
 * [【2026-08-14】 声擎×少数派｜「角落新声」征文活动获奖结果公布](https://sspai.com/post/111709)
@@ -44,7 +45,6 @@
 * [【2026-08-13】 从原理出发，高效搞定夏日营养冷食](https://sspai.com/prime/story/summer-cold-meal-guide)
 * [【2026-08-13】 TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验](https://sspai.com/post/113338)
 * [【2026-08-13】 6 天时间丈量独库公路：我的平安骑行指南](https://sspai.com/post/112873)
-* [【2026-08-13】 派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等](https://sspai.com/post/113385)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-15 05:21:34
+:alarm_clock: 更新时间: 2026-08-16 05:25:17

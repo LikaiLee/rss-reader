@@ -1288,6 +1288,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+                "link": "https://sspai.com/post/111974",
+                "published": "2026-08-15"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/113459",
                 "published": "2026-08-14"
@@ -31578,7 +31583,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
