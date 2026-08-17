@@ -1288,6 +1288,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "成年人包里的唯一一支笔：模块笔入门导购",
+                "link": "https://sspai.com/post/113445",
+                "published": "2026-08-17"
+            },
+            {
+                "title": "派早报：😭（放声大哭）成为最流行 emoji",
+                "link": "https://sspai.com/post/113524",
+                "published": "2026-08-16"
+            },
+            {
+                "title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」",
+                "link": "https://sspai.com/post/113495",
+                "published": "2026-08-16"
+            },
+            {
                 "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
                 "link": "https://sspai.com/post/111974",
                 "published": "2026-08-15"
@@ -31583,7 +31598,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,
