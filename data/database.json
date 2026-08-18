@@ -1288,6 +1288,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "7月音乐精选：夏天赠予我们的 9张专辑",
+                "link": "https://sspai.com/post/113454",
+                "published": "2026-08-18"
+            },
+            {
+                "title": "派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等",
+                "link": "https://sspai.com/post/113566",
+                "published": "2026-08-18"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/113544",
+                "published": "2026-08-17"
+            },
+            {
+                "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
+                "link": "https://sspai.com/post/113368",
+                "published": "2026-08-17"
+            },
+            {
+                "title": "当陶瓷水杯遇上像素屏：PixelMug 体验",
+                "link": "https://sspai.com/post/113448",
+                "published": "2026-08-17"
+            },
+            {
                 "title": "成年人包里的唯一一支笔：模块笔入门导购",
                 "link": "https://sspai.com/post/113445",
                 "published": "2026-08-17"
@@ -31598,7 +31623,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 2,

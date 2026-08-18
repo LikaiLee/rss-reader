@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-08-18】 7月音乐精选：夏天赠予我们的 9张专辑](https://sspai.com/post/113454)
+* [【2026-08-18】 派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等](https://sspai.com/post/113566)
+* [【2026-08-17】 派评 | 近期值得关注的 App](https://sspai.com/post/113544)
+* [【2026-08-17】 分享我知识管理 12 年来最重要的经验：INL 结构](https://sspai.com/post/113368)
+* [【2026-08-17】 当陶瓷水杯遇上像素屏：PixelMug 体验](https://sspai.com/post/113448)
 * [【2026-08-17】 成年人包里的唯一一支笔：模块笔入门导购](https://sspai.com/post/113445)
 * [【2026-08-16】 派早报：😭（放声大哭）成为最流行 emoji](https://sspai.com/post/113524)
 * [【2026-08-16】 浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」](https://sspai.com/post/113495)
 * [【2026-08-15】 有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布](https://sspai.com/post/111974)
 * [【2026-08-14】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/113459)
-* [【2026-08-14】 你初高中时的书单里，总有本「东野圭吾」吧？](https://sspai.com/post/113416)
-* [【2026-08-14】 声擎×少数派｜「角落新声」征文活动获奖结果公布](https://sspai.com/post/111709)
-* [【2026-08-14】 App+1 | 把图标收进格子，DeskBox 让桌面整洁有序](https://sspai.com/post/112279)
-* [【2026-08-14】 派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态](https://sspai.com/post/113434)
-* [【2026-08-13】 不用改签名，给 Mac 微信聊天记录「搬个家」](https://sspai.com/post/113225)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-17 05:32:28
+:alarm_clock: 更新时间: 2026-08-18 05:25:56
