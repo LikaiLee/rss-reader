@@ -1288,6 +1288,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
+                "link": "https://sspai.com/post/113497",
+                "published": "2026-08-20"
+            },
+            {
+                "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+                "link": "https://sspai.com/post/113638",
+                "published": "2026-08-20"
+            },
+            {
+                "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+                "link": "https://sspai.com/post/113618",
+                "published": "2026-08-19"
+            },
+            {
+                "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
+                "link": "https://sspai.com/post/113588",
+                "published": "2026-08-19"
+            },
+            {
                 "title": "App+1 | Inkive：把纸质书上划好的线存进 Obsidian",
                 "link": "https://sspai.com/post/111936",
                 "published": "2026-08-19"
@@ -31653,7 +31673,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
