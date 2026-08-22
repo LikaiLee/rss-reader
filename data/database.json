@@ -1285,13 +1285,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+                "link": "https://sspai.com/post/113675",
+                "published": "2026-08-22"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/113693",
+                "published": "2026-08-21"
+            },
             {
                 "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
                 "link": "https://sspai.com/post/113586",
@@ -31698,7 +31708,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
