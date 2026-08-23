@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-08-23】 让 PC 与 HomePod 互联：音频串流工具 WinAirCast](https://sspai.com/post/113002)
 * [【2026-08-22】 线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展](https://sspai.com/post/113675)
 * [【2026-08-21】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113693)
 * [【2026-08-21】 TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验](https://sspai.com/post/113586)
@@ -44,7 +45,6 @@
 * [【2026-08-20】 「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测](https://sspai.com/post/113497)
 * [【2026-08-20】 派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本](https://sspai.com/post/113638)
 * [【2026-08-19】 iOS 27 测试版近期动向，还有 Apple 产品新消息](https://sspai.com/post/113618)
-* [【2026-08-19】 《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了](https://sspai.com/post/113588)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-22 05:23:52
+:alarm_clock: 更新时间: 2026-08-23 05:26:38

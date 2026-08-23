@@ -1293,6 +1293,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+                "link": "https://sspai.com/post/113002",
+                "published": "2026-08-23"
+            },
+            {
                 "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
                 "link": "https://sspai.com/post/113675",
                 "published": "2026-08-22"
@@ -31708,7 +31713,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
