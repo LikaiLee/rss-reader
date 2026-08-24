@@ -1293,6 +1293,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制",
+                "link": "https://sspai.com/post/112983",
+                "published": "2026-08-24"
+            },
+            {
+                "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
+                "link": "https://sspai.com/post/113767",
+                "published": "2026-08-23"
+            },
+            {
+                "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+                "link": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+                "published": "2026-08-23"
+            },
+            {
                 "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
                 "link": "https://sspai.com/post/113002",
                 "published": "2026-08-23"
@@ -31713,7 +31728,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 3
     },
     {
         "id": 2,

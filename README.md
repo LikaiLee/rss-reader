@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-08-24】 快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制](https://sspai.com/post/112983)
+* [【2026-08-23】 派早报：九家车企召回近 430 万辆不易识别应急拉手汽车](https://sspai.com/post/113767)
+* [【2026-08-23】 AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本](https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard)
 * [【2026-08-23】 让 PC 与 HomePod 互联：音频串流工具 WinAirCast](https://sspai.com/post/113002)
 * [【2026-08-22】 线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展](https://sspai.com/post/113675)
 * [【2026-08-21】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113693)
@@ -42,9 +45,6 @@
 * [【2026-08-20】 派早报：华为发布 Pura X View、享界 G9 等多款新品](https://sspai.com/post/113666)
 * [【2026-08-20】 新玩意 249｜少数派的编辑们最近买了啥？](https://sspai.com/post/113650)
 * [【2026-08-20】 十年阅读历程，这是我的阅读工具推荐](https://sspai.com/post/113567)
-* [【2026-08-20】 「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测](https://sspai.com/post/113497)
-* [【2026-08-20】 派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本](https://sspai.com/post/113638)
-* [【2026-08-19】 iOS 27 测试版近期动向，还有 Apple 产品新消息](https://sspai.com/post/113618)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-23 05:26:38
+:alarm_clock: 更新时间: 2026-08-24 05:35:28
