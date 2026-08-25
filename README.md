@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-08-25】 App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙](https://sspai.com/post/112442)
+* [【2026-08-25】 派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等](https://sspai.com/post/113813)
+* [【2026-08-24】 派评 | 近期值得关注的 App](https://sspai.com/post/113795)
+* [【2026-08-24】 Windows On ARM 原生应用少？你可以试试这些改造方法](https://sspai.com/prime/story/create-your-own-windows-apps)
+* [【2026-08-24】 AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……](https://sspai.com/post/113563)
 * [【2026-08-24】 快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制](https://sspai.com/post/112983)
 * [【2026-08-23】 派早报：九家车企召回近 430 万辆不易识别应急拉手汽车](https://sspai.com/post/113767)
 * [【2026-08-23】 AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本](https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard)
 * [【2026-08-23】 让 PC 与 HomePod 互联：音频串流工具 WinAirCast](https://sspai.com/post/113002)
 * [【2026-08-22】 线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展](https://sspai.com/post/113675)
-* [【2026-08-21】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113693)
-* [【2026-08-21】 TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验](https://sspai.com/post/113586)
-* [【2026-08-20】 派早报：华为发布 Pura X View、享界 G9 等多款新品](https://sspai.com/post/113666)
-* [【2026-08-20】 新玩意 249｜少数派的编辑们最近买了啥？](https://sspai.com/post/113650)
-* [【2026-08-20】 十年阅读历程，这是我的阅读工具推荐](https://sspai.com/post/113567)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-24 05:35:28
+:alarm_clock: 更新时间: 2026-08-25 05:28:42
