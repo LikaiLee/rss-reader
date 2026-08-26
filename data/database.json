@@ -1293,6 +1293,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "在正镶白旗，用五天共同生活理解现代牧场",
+                "link": "https://sspai.com/post/113714",
+                "published": "2026-08-26"
+            },
+            {
+                "title": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等",
+                "link": "https://sspai.com/post/113847",
+                "published": "2026-08-26"
+            },
+            {
+                "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
+                "link": "https://sspai.com/post/113828",
+                "published": "2026-08-25"
+            },
+            {
+                "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图",
+                "link": "https://sspai.com/post/113673",
+                "published": "2026-08-25"
+            },
+            {
                 "title": "App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙",
                 "link": "https://sspai.com/post/112442",
                 "published": "2026-08-25"
@@ -31753,7 +31773,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
