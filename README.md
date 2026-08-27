@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+7】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-08-27】 新玩意 250｜少数派的编辑们最近买了啥？](https://sspai.com/post/113905)
+* [【2026-08-27】 日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
+* [【2026-08-27】 来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记](https://sspai.com/post/113222)
+* [【2026-08-26】 派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等](https://sspai.com/post/113873)
+* [【2026-08-26】 开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
+* [【2026-08-26】 装了啥特别篇：少数派编辑部最近都 vibe 了啥？](https://sspai.com/prime/story/zhuanglesha-260826)
+* [【2026-08-26】 《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总](https://sspai.com/post/113851)
 * [【2026-08-26】 在正镶白旗，用五天共同生活理解现代牧场](https://sspai.com/post/113714)
 * [【2026-08-26】 派早报：Apple 发布新款 Mac mini 和 Mac Studio 等](https://sspai.com/post/113847)
 * [【2026-08-25】 社区速递 155 | 适马千元人像神头与七月派友剁手清单](https://sspai.com/post/113828)
-* [【2026-08-25】 台湾打工换宿｜用人与人的喜好串起淡水的地图](https://sspai.com/post/113673)
-* [【2026-08-25】 App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙](https://sspai.com/post/112442)
-* [【2026-08-25】 派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等](https://sspai.com/post/113813)
-* [【2026-08-24】 派评 | 近期值得关注的 App](https://sspai.com/post/113795)
-* [【2026-08-24】 Windows On ARM 原生应用少？你可以试试这些改造方法](https://sspai.com/prime/story/create-your-own-windows-apps)
-* [【2026-08-24】 AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……](https://sspai.com/post/113563)
-* [【2026-08-24】 快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制](https://sspai.com/post/112983)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-26 05:31:36
+:alarm_clock: 更新时间: 2026-08-27 16:05:17

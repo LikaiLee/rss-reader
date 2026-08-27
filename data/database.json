@@ -1293,6 +1293,41 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新玩意 250｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/113905",
+                "published": "2026-08-27"
+            },
+            {
+                "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
+                "link": "https://sspai.com/post/89194",
+                "published": "2026-08-27"
+            },
+            {
+                "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
+                "link": "https://sspai.com/post/113222",
+                "published": "2026-08-27"
+            },
+            {
+                "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
+                "link": "https://sspai.com/post/113873",
+                "published": "2026-08-26"
+            },
+            {
+                "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
+                "link": "https://sspai.com/post/68227",
+                "published": "2026-08-26"
+            },
+            {
+                "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-260826",
+                "published": "2026-08-26"
+            },
+            {
+                "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
+                "link": "https://sspai.com/post/113851",
+                "published": "2026-08-26"
+            },
+            {
                 "title": "在正镶白旗，用五天共同生活理解现代牧场",
                 "link": "https://sspai.com/post/113714",
                 "published": "2026-08-26"
@@ -31773,7 +31808,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 7
     },
     {
         "id": 2,
