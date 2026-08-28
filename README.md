@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+7】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-08-27】 科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
 * [【2026-08-20】 科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)
 * [【2026-08-13】 科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)
 * [【2026-08-07】 科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)
@@ -25,7 +26,6 @@
 * [【2026-07-10】 科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html)
 * [【2026-07-02】 科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html)
 * [【2026-06-30】 Dario Amodei：AI 开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)
-* [【2026-06-26】 科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-08-28】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113944)
+* [【2026-08-28】 开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理](https://sspai.com/post/68623)
+* [【2026-08-28】 全球首款阔直板探索计划：华为 Pura X View 新品有奖体验](https://sspai.com/post/113883)
+* [【2026-08-28】 桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验](https://sspai.com/post/113909)
+* [【2026-08-28】 派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等](https://sspai.com/post/113922)
 * [【2026-08-27】 新玩意 250｜少数派的编辑们最近买了啥？](https://sspai.com/post/113905)
 * [【2026-08-27】 日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
 * [【2026-08-27】 来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记](https://sspai.com/post/113222)
 * [【2026-08-26】 派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等](https://sspai.com/post/113873)
 * [【2026-08-26】 开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
-* [【2026-08-26】 装了啥特别篇：少数派编辑部最近都 vibe 了啥？](https://sspai.com/prime/story/zhuanglesha-260826)
-* [【2026-08-26】 《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总](https://sspai.com/post/113851)
-* [【2026-08-26】 在正镶白旗，用五天共同生活理解现代牧场](https://sspai.com/post/113714)
-* [【2026-08-26】 派早报：Apple 发布新款 Mac mini 和 Mac Studio 等](https://sspai.com/post/113847)
-* [【2026-08-25】 社区速递 155 | 适马千元人像神头与七月派友剁手清单](https://sspai.com/post/113828)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-27 16:05:17
+:alarm_clock: 更新时间: 2026-08-28 17:09:02

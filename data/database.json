@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+                "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+                "published": "2026-08-27"
+            },
+            {
                 "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
                 "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
                 "published": "2026-08-20"
@@ -1285,13 +1290,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/113944",
+                "published": "2026-08-28"
+            },
+            {
+                "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
+                "link": "https://sspai.com/post/68623",
+                "published": "2026-08-28"
+            },
+            {
+                "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+                "link": "https://sspai.com/post/113883",
+                "published": "2026-08-28"
+            },
+            {
+                "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
+                "link": "https://sspai.com/post/113909",
+                "published": "2026-08-28"
+            },
+            {
+                "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
+                "link": "https://sspai.com/post/113922",
+                "published": "2026-08-28"
+            },
             {
                 "title": "新玩意 250｜少数派的编辑们最近买了啥？",
                 "link": "https://sspai.com/post/113905",
@@ -31808,7 +31838,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 7
+        "new_feeds": 5
     },
     {
         "id": 2,
