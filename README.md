@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-08-29】 2026 烟灶选购指南](https://sspai.com/post/112775)
 * [【2026-08-28】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113944)
 * [【2026-08-28】 开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理](https://sspai.com/post/68623)
 * [【2026-08-28】 全球首款阔直板探索计划：华为 Pura X View 新品有奖体验](https://sspai.com/post/113883)
@@ -44,7 +45,6 @@
 * [【2026-08-27】 日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
 * [【2026-08-27】 来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记](https://sspai.com/post/113222)
 * [【2026-08-26】 派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等](https://sspai.com/post/113873)
-* [【2026-08-26】 开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-28 17:09:02
+:alarm_clock: 更新时间: 2026-08-29 11:28:13
