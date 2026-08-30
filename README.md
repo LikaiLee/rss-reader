@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-08-30】 城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营](https://sspai.com/post/113974)
 * [【2026-08-29】 2026 烟灶选购指南](https://sspai.com/post/112775)
 * [【2026-08-28】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113944)
 * [【2026-08-28】 开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理](https://sspai.com/post/68623)
@@ -44,7 +45,6 @@
 * [【2026-08-27】 新玩意 250｜少数派的编辑们最近买了啥？](https://sspai.com/post/113905)
 * [【2026-08-27】 日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
 * [【2026-08-27】 来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记](https://sspai.com/post/113222)
-* [【2026-08-26】 派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等](https://sspai.com/post/113873)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-08-29 11:28:13
+:alarm_clock: 更新时间: 2026-08-30 10:15:32
