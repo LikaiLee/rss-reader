@@ -1298,6 +1298,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
+                "link": "https://sspai.com/post/114071",
+                "published": "2026-09-01"
+            },
+            {
+                "title": "开学季｜值得关注的官翻渠道汇总（2026）",
+                "link": "https://sspai.com/post/114062",
+                "published": "2026-09-01"
+            },
+            {
+                "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
+                "link": "https://sspai.com/post/111081",
+                "published": "2026-09-01"
+            },
+            {
+                "title": "派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等",
+                "link": "https://sspai.com/post/114055",
+                "published": "2026-09-01"
+            },
+            {
+                "title": "本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2",
+                "link": "https://sspai.com/post/114043",
+                "published": "2026-08-31"
+            },
+            {
+                "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
+                "link": "https://sspai.com/prime/story/home-made-beverages-4",
+                "published": "2026-08-31"
+            },
+            {
                 "title": "派评 | 近期值得关注的 App",
                 "link": "https://sspai.com/post/114041",
                 "published": "2026-08-31"
@@ -31873,7 +31903,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
