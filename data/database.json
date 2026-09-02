@@ -1298,6 +1298,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
+                "link": "https://sspai.com/post/80562",
+                "published": "2026-09-02"
+            },
+            {
+                "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
+                "link": "https://sspai.com/post/113581",
+                "published": "2026-09-02"
+            },
+            {
+                "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+                "link": "https://sspai.com/post/114093",
+                "published": "2026-09-01"
+            },
+            {
+                "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
+                "link": "https://sspai.com/post/114078",
+                "published": "2026-09-01"
+            },
+            {
                 "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
                 "link": "https://sspai.com/post/114071",
                 "published": "2026-09-01"
@@ -31903,7 +31923,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,

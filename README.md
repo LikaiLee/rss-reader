@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-09-02】 一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间](https://sspai.com/post/80562)
+* [【2026-09-02】 众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响](https://sspai.com/post/113581)
+* [【2026-09-01】 派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等](https://sspai.com/post/114093)
+* [【2026-09-01】 社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验](https://sspai.com/post/114078)
 * [【2026-09-01】 线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会](https://sspai.com/post/114071)
 * [【2026-09-01】 开学季｜值得关注的官翻渠道汇总（2026）](https://sspai.com/post/114062)
 * [【2026-09-01】 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接](https://sspai.com/post/111081)
 * [【2026-09-01】 派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等](https://sspai.com/post/114055)
 * [【2026-08-31】 本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2](https://sspai.com/post/114043)
 * [【2026-08-31】 家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方](https://sspai.com/prime/story/home-made-beverages-4)
-* [【2026-08-31】 派评 | 近期值得关注的 App](https://sspai.com/post/114041)
-* [【2026-08-31】 家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方](https://sspai.com/prime/story/)
-* [【2026-08-31】 屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能](https://sspai.com/post/114027)
-* [【2026-08-31】 全球仅剩三位数的物种，科学家却连一个准数都数不出来](https://sspai.com/post/113827)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-01 09:44:32
+:alarm_clock: 更新时间: 2026-09-02 09:17:08
