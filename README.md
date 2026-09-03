@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-09-03】 TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验](https://sspai.com/post/113998)
+* [【2026-09-03】 当说起「Hi-Fi」时，我们到底在追求什么？](https://sspai.com/post/113159)
+* [【2026-09-03】 派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等](https://sspai.com/post/114113)
+* [【2026-09-02】 除了折叠屏 iPhone，Apple 发布会还有哪些看点？](https://sspai.com/post/114084)
 * [【2026-09-02】 一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间](https://sspai.com/post/80562)
 * [【2026-09-02】 众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响](https://sspai.com/post/113581)
 * [【2026-09-01】 派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等](https://sspai.com/post/114093)
 * [【2026-09-01】 社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验](https://sspai.com/post/114078)
 * [【2026-09-01】 线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会](https://sspai.com/post/114071)
 * [【2026-09-01】 开学季｜值得关注的官翻渠道汇总（2026）](https://sspai.com/post/114062)
-* [【2026-09-01】 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接](https://sspai.com/post/111081)
-* [【2026-09-01】 派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等](https://sspai.com/post/114055)
-* [【2026-08-31】 本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2](https://sspai.com/post/114043)
-* [【2026-08-31】 家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方](https://sspai.com/prime/story/home-made-beverages-4)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-02 09:17:08
+:alarm_clock: 更新时间: 2026-09-03 09:27:09
