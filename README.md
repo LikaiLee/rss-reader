@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-09-04】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/114175)
 * [【2026-09-04】 新学期，新气象：正版软件 & 付费栏目限时优惠](https://sspai.com/post/114110)
 * [【2026-09-04】 开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点](https://sspai.com/post/114117)
 * [【2026-09-04】 在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p](https://sspai.com/post/113990)
@@ -44,7 +45,6 @@
 * [【2026-09-03】 当说起「Hi-Fi」时，我们到底在追求什么？](https://sspai.com/post/113159)
 * [【2026-09-03】 派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等](https://sspai.com/post/114113)
 * [【2026-09-02】 除了折叠屏 iPhone，Apple 发布会还有哪些看点？](https://sspai.com/post/114084)
-* [【2026-09-02】 一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间](https://sspai.com/post/80562)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-04 09:19:01
+:alarm_clock: 更新时间: 2026-09-05 08:48:34

@@ -1295,13 +1295,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/114175",
+                "published": "2026-09-04"
+            },
             {
                 "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
                 "link": "https://sspai.com/post/114110",
@@ -31973,7 +31978,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 1
     },
     {
         "id": 2,
