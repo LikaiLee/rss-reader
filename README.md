@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-09-06】 让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游](https://sspai.com/post/114076)
+* [【2026-09-05】 最值得买的顶级公路车？TREK 八代 Madone 评测](https://sspai.com/post/114040)
 * [【2026-09-04】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/114175)
 * [【2026-09-04】 新学期，新气象：正版软件 & 付费栏目限时优惠](https://sspai.com/post/114110)
 * [【2026-09-04】 开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点](https://sspai.com/post/114117)
@@ -43,8 +45,6 @@
 * [【2026-09-03】 新玩意 251｜少数派的编辑们最近买了啥？](https://sspai.com/post/114154)
 * [【2026-09-03】 TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验](https://sspai.com/post/113998)
 * [【2026-09-03】 当说起「Hi-Fi」时，我们到底在追求什么？](https://sspai.com/post/113159)
-* [【2026-09-03】 派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等](https://sspai.com/post/114113)
-* [【2026-09-02】 除了折叠屏 iPhone，Apple 发布会还有哪些看点？](https://sspai.com/post/114084)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-05 08:48:34
+:alarm_clock: 更新时间: 2026-09-06 09:08:42
