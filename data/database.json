@@ -1303,6 +1303,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
+                "link": "https://sspai.com/post/113877",
+                "published": "2026-09-07"
+            },
+            {
+                "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
+                "link": "https://sspai.com/post/114103",
+                "published": "2026-09-07"
+            },
+            {
+                "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+                "link": "https://sspai.com/post/114250",
+                "published": "2026-09-07"
+            },
+            {
                 "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
                 "link": "https://sspai.com/post/114076",
                 "published": "2026-09-06"
@@ -31988,7 +32003,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 3
     },
     {
         "id": 2,
