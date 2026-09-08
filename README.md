@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-09-08】 一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
+* [【2026-09-08】 日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
+* [【2026-09-08】 派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
+* [【2026-09-07】 派评｜近期值得关注的 App](https://sspai.com/post/114288)
 * [【2026-09-07】 「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
 * [【2026-09-07】 定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
 * [【2026-09-07】 派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策](https://sspai.com/post/114250)
 * [【2026-09-06】 让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游](https://sspai.com/post/114076)
 * [【2026-09-05】 最值得买的顶级公路车？TREK 八代 Madone 评测](https://sspai.com/post/114040)
 * [【2026-09-04】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/114175)
-* [【2026-09-04】 新学期，新气象：正版软件 & 付费栏目限时优惠](https://sspai.com/post/114110)
-* [【2026-09-04】 开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点](https://sspai.com/post/114117)
-* [【2026-09-04】 在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p](https://sspai.com/post/113990)
-* [【2026-09-04】 派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等](https://sspai.com/post/114164)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-07 09:56:35
+:alarm_clock: 更新时间: 2026-09-08 09:21:52
