@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-09-09】 华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842)
+* [【2026-09-09】 Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
+* [【2026-09-09】 派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
+* [【2026-09-08】 Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
+* [【2026-09-08】 社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
 * [【2026-09-08】 一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
 * [【2026-09-08】 日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
 * [【2026-09-08】 派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
 * [【2026-09-07】 派评｜近期值得关注的 App](https://sspai.com/post/114288)
 * [【2026-09-07】 「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
-* [【2026-09-07】 定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
-* [【2026-09-07】 派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策](https://sspai.com/post/114250)
-* [【2026-09-06】 让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游](https://sspai.com/post/114076)
-* [【2026-09-05】 最值得买的顶级公路车？TREK 八代 Madone 评测](https://sspai.com/post/114040)
-* [【2026-09-04】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/114175)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-08 09:21:52
+:alarm_clock: 更新时间: 2026-09-09 09:23:11

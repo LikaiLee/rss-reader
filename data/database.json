@@ -1303,6 +1303,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线",
+                "link": "https://sspai.com/post/113842",
+                "published": "2026-09-09"
+            },
+            {
+                "title": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择",
+                "link": "https://sspai.com/post/113668",
+                "published": "2026-09-09"
+            },
+            {
+                "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
+                "link": "https://sspai.com/post/114352",
+                "published": "2026-09-09"
+            },
+            {
+                "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+                "link": "https://sspai.com/prime/story/sidecar-optimizations",
+                "published": "2026-09-08"
+            },
+            {
+                "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
+                "link": "https://sspai.com/post/114327",
+                "published": "2026-09-08"
+            },
+            {
                 "title": "一日一技｜我的 Windows 11 头像会动，你也可以",
                 "link": "https://sspai.com/post/114312",
                 "published": "2026-09-08"
@@ -32023,7 +32048,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
