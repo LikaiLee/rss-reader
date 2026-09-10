@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-09-10】 App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
+* [【2026-09-09】 派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
+* [【2026-09-09】 一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
+* [【2026-09-09】 可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
+* [【2026-09-09】 我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年](https://sspai.com/post/114366)
 * [【2026-09-09】 华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842)
 * [【2026-09-09】 Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
 * [【2026-09-09】 派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
 * [【2026-09-08】 Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
 * [【2026-09-08】 社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
-* [【2026-09-08】 一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
-* [【2026-09-08】 日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
-* [【2026-09-08】 派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
-* [【2026-09-07】 派评｜近期值得关注的 App](https://sspai.com/post/114288)
-* [【2026-09-07】 「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-09 09:23:11
+:alarm_clock: 更新时间: 2026-09-10 09:22:47
