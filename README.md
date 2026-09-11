@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-09-11】 科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)
 * [【2026-09-03】 科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
 * [【2026-08-27】 科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
 * [【2026-08-20】 科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)
@@ -25,7 +26,6 @@
 * [【2026-07-24】 科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html)
 * [【2026-07-16】 科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html)
 * [【2026-07-10】 科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html)
-* [【2026-07-02】 科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-09-11】 「正常」已是不易：聊聊不那么标新立异的理想 i6](https://sspai.com/post/113605)
+* [【2026-09-11】 新 iPhone 配件精选：多种组合一次配齐](https://sspai.com/post/114414)
+* [【2026-09-10】 派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
 * [【2026-09-10】 App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
 * [【2026-09-09】 派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
 * [【2026-09-09】 一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
@@ -42,9 +45,6 @@
 * [【2026-09-09】 我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年](https://sspai.com/post/114366)
 * [【2026-09-09】 华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842)
 * [【2026-09-09】 Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
-* [【2026-09-09】 派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
-* [【2026-09-08】 Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
-* [【2026-09-08】 社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-10 09:22:47
+:alarm_clock: 更新时间: 2026-09-11 09:21:03

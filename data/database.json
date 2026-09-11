@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
+                "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+                "published": "2026-09-11"
+            },
+            {
                 "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
                 "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
                 "published": "2026-09-03"
@@ -1295,13 +1300,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
+                "link": "https://sspai.com/post/113605",
+                "published": "2026-09-11"
+            },
+            {
+                "title": "新 iPhone 配件精选：多种组合一次配齐",
+                "link": "https://sspai.com/post/114414",
+                "published": "2026-09-11"
+            },
+            {
+                "title": "派早报：商务部回应美国 AI 蒸馏指控",
+                "link": "https://sspai.com/post/114439",
+                "published": "2026-09-10"
+            },
             {
                 "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
                 "link": "https://sspai.com/post/114384",
@@ -32073,7 +32093,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
