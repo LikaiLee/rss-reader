@@ -1300,13 +1300,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+                "link": "https://sspai.com/post/114461",
+                "published": "2026-09-12"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/114458",
+                "published": "2026-09-11"
+            },
+            {
+                "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+                "link": "https://sspai.com/post/114449",
+                "published": "2026-09-11"
+            },
             {
                 "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
                 "link": "https://sspai.com/post/113605",

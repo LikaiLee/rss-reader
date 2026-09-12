@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-09-12】 与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
+* [【2026-09-11】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
+* [【2026-09-11】 iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/114449)
 * [【2026-09-11】 「正常」已是不易：聊聊不那么标新立异的理想 i6](https://sspai.com/post/113605)
 * [【2026-09-11】 新 iPhone 配件精选：多种组合一次配齐](https://sspai.com/post/114414)
 * [【2026-09-10】 派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
@@ -42,9 +45,6 @@
 * [【2026-09-09】 派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
 * [【2026-09-09】 一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
 * [【2026-09-09】 可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
-* [【2026-09-09】 我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年](https://sspai.com/post/114366)
-* [【2026-09-09】 华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842)
-* [【2026-09-09】 Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-11 09:21:03
+:alarm_clock: 更新时间: 2026-09-12 09:00:49
