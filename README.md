@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-09-13】 搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
 * [【2026-09-12】 与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
 * [【2026-09-11】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
 * [【2026-09-11】 iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/114449)
@@ -44,7 +45,6 @@
 * [【2026-09-10】 App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
 * [【2026-09-09】 派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
 * [【2026-09-09】 一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
-* [【2026-09-09】 可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-12 09:00:49
+:alarm_clock: 更新时间: 2026-09-13 09:58:43

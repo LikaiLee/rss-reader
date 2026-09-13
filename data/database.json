@@ -1308,6 +1308,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
+                "link": "https://sspai.com/post/113880",
+                "published": "2026-09-13"
+            },
+            {
                 "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
                 "link": "https://sspai.com/post/114461",
                 "published": "2026-09-12"
@@ -32108,7 +32113,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 1
     },
     {
         "id": 2,
