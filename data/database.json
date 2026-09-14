@@ -1308,6 +1308,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
+                "link": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+                "published": "2026-09-14"
+            },
+            {
+                "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+                "link": "https://sspai.com/post/114453",
+                "published": "2026-09-14"
+            },
+            {
+                "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+                "link": "https://sspai.com/post/114410",
+                "published": "2026-09-14"
+            },
+            {
+                "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
+                "link": "https://sspai.com/post/114539",
+                "published": "2026-09-13"
+            },
+            {
                 "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
                 "link": "https://sspai.com/post/113880",
                 "published": "2026-09-13"
@@ -32113,7 +32133,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 2,

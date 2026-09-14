@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-09-14】 Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)
+* [【2026-09-14】 新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
+* [【2026-09-14】 众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
+* [【2026-09-13】 派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
 * [【2026-09-13】 搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
 * [【2026-09-12】 与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
 * [【2026-09-11】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
 * [【2026-09-11】 iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/114449)
 * [【2026-09-11】 「正常」已是不易：聊聊不那么标新立异的理想 i6](https://sspai.com/post/113605)
 * [【2026-09-11】 新 iPhone 配件精选：多种组合一次配齐](https://sspai.com/post/114414)
-* [【2026-09-10】 派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
-* [【2026-09-10】 App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
-* [【2026-09-09】 派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
-* [【2026-09-09】 一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-13 09:58:43
+:alarm_clock: 更新时间: 2026-09-14 10:18:57
