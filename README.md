@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-09-16】 具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性](https://sspai.com/post/114607)
+* [【2026-09-16】 当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
+* [【2026-09-16】 派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
+* [【2026-09-15】 社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
 * [【2026-09-15】 具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性](https://sspai.com/post/114565)
 * [【2026-09-15】 开学季 | 学生理财的三条建议，学生党也可以一样理财](https://sspai.com/post/47126)
 * [【2026-09-15】 派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等](https://sspai.com/post/114593)
 * [【2026-09-14】 派评｜近期值得关注的 App](https://sspai.com/post/114577)
 * [【2026-09-14】 Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)
 * [【2026-09-14】 新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
-* [【2026-09-14】 众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
-* [【2026-09-13】 派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
-* [【2026-09-13】 搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
-* [【2026-09-12】 与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-15 09:46:10
+:alarm_clock: 更新时间: 2026-09-16 09:40:19
