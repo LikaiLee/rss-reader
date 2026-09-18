@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+                "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+                "published": "2026-09-18"
+            },
+            {
                 "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
                 "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
                 "published": "2026-09-11"
@@ -1300,13 +1305,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
+                "link": "https://sspai.com/post/114555",
+                "published": "2026-09-18"
+            },
+            {
+                "title": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
+                "link": "https://sspai.com/post/114670",
+                "published": "2026-09-18"
+            },
+            {
+                "title": "让 Agent 读懂你的身体：数据获取篇",
+                "link": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+                "published": "2026-09-18"
+            },
+            {
+                "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
+                "link": "https://sspai.com/post/114699",
+                "published": "2026-09-18"
+            },
+            {
+                "title": "城市漫步指南｜威海初秋，看海玩沙",
+                "link": "https://sspai.com/post/114557",
+                "published": "2026-09-17"
+            },
             {
                 "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
                 "link": "https://sspai.com/post/114643",
@@ -32193,7 +32223,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,

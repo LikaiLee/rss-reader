@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-09-18】 科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)
 * [【2026-09-11】 科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)
 * [【2026-09-03】 科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
 * [【2026-08-27】 科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
@@ -25,7 +26,6 @@
 * [【2026-07-31】 科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)
 * [【2026-07-24】 科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html)
 * [【2026-07-16】 科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html)
-* [【2026-07-10】 科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-09-18】 8月音乐精选：有限的生命里，要听得再任性一点！](https://sspai.com/post/114555)
+* [【2026-09-18】 具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……](https://sspai.com/post/114670)
+* [【2026-09-18】 让 Agent 读懂你的身体：数据获取篇](https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis)
+* [【2026-09-18】 派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等](https://sspai.com/post/114699)
+* [【2026-09-17】 城市漫步指南｜威海初秋，看海玩沙](https://sspai.com/post/114557)
 * [【2026-09-17】 具透 | macOS 27 正式版来了，这些是你值得了解新细节](https://sspai.com/post/114643)
 * [【2026-09-17】 一个小创意的诞生：BeatBox 雪漫天外壳定制指南](https://sspai.com/post/114451)
 * [【2026-09-17】 派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等](https://sspai.com/post/114658)
 * [【2026-09-16】 探秘柬埔寨，千年吴哥窟](https://sspai.com/post/114454)
 * [【2026-09-16】 具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性](https://sspai.com/post/114607)
-* [【2026-09-16】 当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
-* [【2026-09-16】 派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
-* [【2026-09-15】 社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
-* [【2026-09-15】 具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性](https://sspai.com/post/114565)
-* [【2026-09-15】 开学季 | 学生理财的三条建议，学生党也可以一样理财](https://sspai.com/post/47126)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-17 09:48:49
+:alarm_clock: 更新时间: 2026-09-18 09:22:39
