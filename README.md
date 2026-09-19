@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-09-19】 你的脸红是什么红：了解玫瑰痤疮](https://sspai.com/post/114641)
+* [【2026-09-18】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/114716)
 * [【2026-09-18】 8月音乐精选：有限的生命里，要听得再任性一点！](https://sspai.com/post/114555)
 * [【2026-09-18】 具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……](https://sspai.com/post/114670)
 * [【2026-09-18】 让 Agent 读懂你的身体：数据获取篇](https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis)
@@ -43,8 +45,6 @@
 * [【2026-09-17】 具透 | macOS 27 正式版来了，这些是你值得了解新细节](https://sspai.com/post/114643)
 * [【2026-09-17】 一个小创意的诞生：BeatBox 雪漫天外壳定制指南](https://sspai.com/post/114451)
 * [【2026-09-17】 派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等](https://sspai.com/post/114658)
-* [【2026-09-16】 探秘柬埔寨，千年吴哥窟](https://sspai.com/post/114454)
-* [【2026-09-16】 具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性](https://sspai.com/post/114607)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-18 09:22:39
+:alarm_clock: 更新时间: 2026-09-19 09:11:02

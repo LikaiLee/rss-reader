@@ -1305,13 +1305,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "你的脸红是什么红：了解玫瑰痤疮",
+                "link": "https://sspai.com/post/114641",
+                "published": "2026-09-19"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/114716",
+                "published": "2026-09-18"
+            },
             {
                 "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
                 "link": "https://sspai.com/post/114555",
@@ -32223,7 +32233,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
