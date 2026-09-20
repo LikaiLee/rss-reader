@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-09-20】 觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记](https://sspai.com/post/114495)
+* [【2026-09-20】 给电话加上「辅助驾驶」？我们想听听你的意见](https://sspai.com/post/114717)
 * [【2026-09-19】 你的脸红是什么红：了解玫瑰痤疮](https://sspai.com/post/114641)
 * [【2026-09-18】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/114716)
 * [【2026-09-18】 8月音乐精选：有限的生命里，要听得再任性一点！](https://sspai.com/post/114555)
@@ -43,8 +45,6 @@
 * [【2026-09-18】 派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等](https://sspai.com/post/114699)
 * [【2026-09-17】 城市漫步指南｜威海初秋，看海玩沙](https://sspai.com/post/114557)
 * [【2026-09-17】 具透 | macOS 27 正式版来了，这些是你值得了解新细节](https://sspai.com/post/114643)
-* [【2026-09-17】 一个小创意的诞生：BeatBox 雪漫天外壳定制指南](https://sspai.com/post/114451)
-* [【2026-09-17】 派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等](https://sspai.com/post/114658)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-19 09:11:02
+:alarm_clock: 更新时间: 2026-09-20 09:35:32
