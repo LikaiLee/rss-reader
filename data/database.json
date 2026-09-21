@@ -1313,6 +1313,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
+                "link": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
+                "published": "2026-09-21"
+            },
+            {
+                "title": "体验过华为 Pura X View 后，他们最想留下的「阔体验」是……",
+                "link": "https://sspai.com/post/114734",
+                "published": "2026-09-21"
+            },
+            {
+                "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
+                "link": "https://sspai.com/post/114519",
+                "published": "2026-09-21"
+            },
+            {
+                "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
+                "link": "https://sspai.com/post/114788",
+                "published": "2026-09-20"
+            },
+            {
                 "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
                 "link": "https://sspai.com/post/114495",
                 "published": "2026-09-20"
@@ -32243,7 +32263,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
