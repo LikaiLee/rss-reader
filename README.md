@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-09-22】 怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？](https://sspai.com/post/114551)
+* [【2026-09-22】 App+1 | Coast：用十年经验，给记账这件事一个「终点」](https://sspai.com/post/114479)
+* [【2026-09-22】 少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm](https://sspai.com/post/114823)
+* [【2026-09-22】 派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等](https://sspai.com/post/114840)
+* [【2026-09-21】 一台主机，多重角色：新款 Mac mini 首发体验](https://sspai.com/post/114829)
+* [【2026-09-21】 派评 | 近期值得关注的 App](https://sspai.com/post/114815)
 * [【2026-09-21】 以人为本还是脱离实际？GNOME 桌面环境的演进及争议](https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de)
 * [【2026-09-21】 体验过华为 Pura X View 后，他们最想留下的「阔体验」是……](https://sspai.com/post/114734)
 * [【2026-09-21】 当 AI 让执行力变得廉价，我们该拿什么脱颖而出？](https://sspai.com/post/114519)
 * [【2026-09-20】 派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃](https://sspai.com/post/114788)
-* [【2026-09-20】 觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记](https://sspai.com/post/114495)
-* [【2026-09-20】 给电话加上「辅助驾驶」？我们想听听你的意见](https://sspai.com/post/114717)
-* [【2026-09-19】 你的脸红是什么红：了解玫瑰痤疮](https://sspai.com/post/114641)
-* [【2026-09-18】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/114716)
-* [【2026-09-18】 8月音乐精选：有限的生命里，要听得再任性一点！](https://sspai.com/post/114555)
-* [【2026-09-18】 具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……](https://sspai.com/post/114670)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-21 10:23:51
+:alarm_clock: 更新时间: 2026-09-22 09:37:29

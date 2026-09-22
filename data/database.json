@@ -1313,6 +1313,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+                "link": "https://sspai.com/post/114551",
+                "published": "2026-09-22"
+            },
+            {
+                "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
+                "link": "https://sspai.com/post/114479",
+                "published": "2026-09-22"
+            },
+            {
+                "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
+                "link": "https://sspai.com/post/114823",
+                "published": "2026-09-22"
+            },
+            {
+                "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
+                "link": "https://sspai.com/post/114840",
+                "published": "2026-09-22"
+            },
+            {
+                "title": "一台主机，多重角色：新款 Mac mini 首发体验",
+                "link": "https://sspai.com/post/114829",
+                "published": "2026-09-21"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/114815",
+                "published": "2026-09-21"
+            },
+            {
                 "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
                 "link": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
                 "published": "2026-09-21"
@@ -32263,7 +32293,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 6
     },
     {
         "id": 2,
