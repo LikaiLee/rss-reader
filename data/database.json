@@ -1313,6 +1313,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+                "link": "https://sspai.com/post/114901",
+                "published": "2026-09-23"
+            },
+            {
+                "title": "Here Wallpaper：把喜欢的地图做成壁纸",
+                "link": "https://sspai.com/post/114211",
+                "published": "2026-09-23"
+            },
+            {
+                "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
+                "link": "https://sspai.com/post/114889",
+                "published": "2026-09-22"
+            },
+            {
+                "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
+                "link": "https://sspai.com/post/114878",
+                "published": "2026-09-22"
+            },
+            {
+                "title": "Coast：用十年经验，给记账这件事一个「终点」",
+                "link": "https://sspai.com/post/114479",
+                "published": "2026-09-22"
+            },
+            {
                 "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
                 "link": "https://sspai.com/post/114551",
                 "published": "2026-09-22"
@@ -32293,7 +32318,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 5
     },
     {
         "id": 2,
