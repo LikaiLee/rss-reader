@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-09-24】 家庭饮品 DIY 指南（五）：特调咖啡及其他饮品](https://sspai.com/prime/story/home-made-beverages-5)
+* [【2026-09-24】 微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」](https://sspai.com/post/113823)
+* [【2026-09-24】 古董电脑室十周年记：为什么我不再是收藏家（上）](https://sspai.com/post/114395)
+* [【2026-09-24】 派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等](https://sspai.com/post/114913)
+* [【2026-09-23】 社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品](https://sspai.com/post/114904)
 * [【2026-09-23】 具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性](https://sspai.com/post/114901)
 * [【2026-09-23】 Here Wallpaper：把喜欢的地图做成壁纸](https://sspai.com/post/114211)
 * [【2026-09-22】 派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等](https://sspai.com/post/114889)
 * [【2026-09-22】 可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验](https://sspai.com/post/114878)
 * [【2026-09-22】 Coast：用十年经验，给记账这件事一个「终点」](https://sspai.com/post/114479)
-* [【2026-09-22】 怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？](https://sspai.com/post/114551)
-* [【2026-09-22】 App+1 | Coast：用十年经验，给记账这件事一个「终点」](https://sspai.com/post/114479)
-* [【2026-09-22】 少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm](https://sspai.com/post/114823)
-* [【2026-09-22】 派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等](https://sspai.com/post/114840)
-* [【2026-09-21】 一台主机，多重角色：新款 Mac mini 首发体验](https://sspai.com/post/114829)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-23 09:43:42
+:alarm_clock: 更新时间: 2026-09-24 09:42:07
