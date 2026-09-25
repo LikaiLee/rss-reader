@@ -1313,6 +1313,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新玩意 252｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/114954",
+                "published": "2026-09-24"
+            },
+            {
                 "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
                 "link": "https://sspai.com/prime/story/home-made-beverages-5",
                 "published": "2026-09-24"
@@ -32343,7 +32348,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 1
     },
     {
         "id": 2,

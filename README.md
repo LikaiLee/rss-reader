@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-09-24】 新玩意 252｜少数派的编辑们最近买了啥？](https://sspai.com/post/114954)
 * [【2026-09-24】 家庭饮品 DIY 指南（五）：特调咖啡及其他饮品](https://sspai.com/prime/story/home-made-beverages-5)
 * [【2026-09-24】 微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」](https://sspai.com/post/113823)
 * [【2026-09-24】 古董电脑室十周年记：为什么我不再是收藏家（上）](https://sspai.com/post/114395)
@@ -44,7 +45,6 @@
 * [【2026-09-23】 Here Wallpaper：把喜欢的地图做成壁纸](https://sspai.com/post/114211)
 * [【2026-09-22】 派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等](https://sspai.com/post/114889)
 * [【2026-09-22】 可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验](https://sspai.com/post/114878)
-* [【2026-09-22】 Coast：用十年经验，给记账这件事一个「终点」](https://sspai.com/post/114479)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-24 09:42:07
+:alarm_clock: 更新时间: 2026-09-25 09:59:29
