@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-09-26】 宜家 Matter 智能家居终于要来了？在中国市场它将如何破局](https://sspai.com/post/114958)
+* [【2026-09-25】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/114957)
 * [【2026-09-24】 新玩意 252｜少数派的编辑们最近买了啥？](https://sspai.com/post/114954)
 * [【2026-09-24】 家庭饮品 DIY 指南（五）：特调咖啡及其他饮品](https://sspai.com/prime/story/home-made-beverages-5)
 * [【2026-09-24】 微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」](https://sspai.com/post/113823)
@@ -43,8 +45,6 @@
 * [【2026-09-23】 社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品](https://sspai.com/post/114904)
 * [【2026-09-23】 具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性](https://sspai.com/post/114901)
 * [【2026-09-23】 Here Wallpaper：把喜欢的地图做成壁纸](https://sspai.com/post/114211)
-* [【2026-09-22】 派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等](https://sspai.com/post/114889)
-* [【2026-09-22】 可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验](https://sspai.com/post/114878)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-25 09:59:29
+:alarm_clock: 更新时间: 2026-09-26 09:41:44

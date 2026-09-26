@@ -1313,6 +1313,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+                "link": "https://sspai.com/post/114958",
+                "published": "2026-09-26"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 6 部作品",
+                "link": "https://sspai.com/post/114957",
+                "published": "2026-09-25"
+            },
+            {
                 "title": "新玩意 252｜少数派的编辑们最近买了啥？",
                 "link": "https://sspai.com/post/114954",
                 "published": "2026-09-24"
@@ -32348,7 +32358,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
