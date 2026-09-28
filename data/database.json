@@ -1313,6 +1313,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/115094",
+                "published": "2026-09-28"
+            },
+            {
+                "title": "基于 Termux 的 Android 手机开发服务器实操",
+                "link": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
+                "published": "2026-09-28"
+            },
+            {
+                "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+                "link": "https://sspai.com/post/114972",
+                "published": "2026-09-28"
+            },
+            {
+                "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏",
+                "link": "https://sspai.com/post/114967",
+                "published": "2026-09-28"
+            },
+            {
+                "title": "派早报：OpenAI 称与苹果合作效果不佳",
+                "link": "https://sspai.com/post/115079",
+                "published": "2026-09-27"
+            },
+            {
+                "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
+                "link": "https://sspai.com/post/115056",
+                "published": "2026-09-27"
+            },
+            {
                 "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
                 "link": "https://sspai.com/post/114958",
                 "published": "2026-09-26"
@@ -32358,7 +32388,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 6
     },
     {
         "id": 2,

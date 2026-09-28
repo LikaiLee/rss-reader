@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派)
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-09-28】 派评 | 近期值得关注的 App](https://sspai.com/post/115094)
+* [【2026-09-28】 基于 Termux 的 Android 手机开发服务器实操](https://sspai.com/prime/story/dev-env-on-android-with-termux)
+* [【2026-09-28】 比起折痕， iPhone Duo 的交互设计更加令人着迷](https://sspai.com/post/114972)
+* [【2026-09-28】 摸鱼+3 | 还剩三天班，一天一个解谜游戏](https://sspai.com/post/114967)
+* [【2026-09-27】 派早报：OpenAI 称与苹果合作效果不佳](https://sspai.com/post/115079)
+* [【2026-09-27】 本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等](https://sspai.com/post/115056)
 * [【2026-09-26】 宜家 Matter 智能家居终于要来了？在中国市场它将如何破局](https://sspai.com/post/114958)
 * [【2026-09-25】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/114957)
 * [【2026-09-24】 新玩意 252｜少数派的编辑们最近买了啥？](https://sspai.com/post/114954)
 * [【2026-09-24】 家庭饮品 DIY 指南（五）：特调咖啡及其他饮品](https://sspai.com/prime/story/home-made-beverages-5)
-* [【2026-09-24】 微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」](https://sspai.com/post/113823)
-* [【2026-09-24】 古董电脑室十周年记：为什么我不再是收藏家（上）](https://sspai.com/post/114395)
-* [【2026-09-24】 派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等](https://sspai.com/post/114913)
-* [【2026-09-23】 社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品](https://sspai.com/post/114904)
-* [【2026-09-23】 具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性](https://sspai.com/post/114901)
-* [【2026-09-23】 Here Wallpaper：把喜欢的地图做成壁纸](https://sspai.com/post/114211)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-27 10:21:19
+:alarm_clock: 更新时间: 2026-09-28 11:26:05
