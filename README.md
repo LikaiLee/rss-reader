@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-09-29】 社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单](https://sspai.com/post/115153)
+* [【2026-09-29】 更懂你的心，也更懂你：Apple Watch Series 12 体验](https://sspai.com/post/115061)
+* [【2026-09-29】 可塑的白昼：ColorOS17 深度评测](https://sspai.com/post/114728)
+* [【2026-09-29】 派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等](https://sspai.com/post/115134)
 * [【2026-09-28】 派评 | 近期值得关注的 App](https://sspai.com/post/115094)
 * [【2026-09-28】 基于 Termux 的 Android 手机开发服务器实操](https://sspai.com/prime/story/dev-env-on-android-with-termux)
 * [【2026-09-28】 比起折痕， iPhone Duo 的交互设计更加令人着迷](https://sspai.com/post/114972)
 * [【2026-09-28】 摸鱼+3 | 还剩三天班，一天一个解谜游戏](https://sspai.com/post/114967)
 * [【2026-09-27】 派早报：OpenAI 称与苹果合作效果不佳](https://sspai.com/post/115079)
 * [【2026-09-27】 本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等](https://sspai.com/post/115056)
-* [【2026-09-26】 宜家 Matter 智能家居终于要来了？在中国市场它将如何破局](https://sspai.com/post/114958)
-* [【2026-09-25】 本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/114957)
-* [【2026-09-24】 新玩意 252｜少数派的编辑们最近买了啥？](https://sspai.com/post/114954)
-* [【2026-09-24】 家庭饮品 DIY 指南（五）：特调咖啡及其他饮品](https://sspai.com/prime/story/home-made-beverages-5)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-28 11:26:05
+:alarm_clock: 更新时间: 2026-09-29 11:05:19

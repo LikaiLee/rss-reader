@@ -1313,6 +1313,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+                "link": "https://sspai.com/post/115153",
+                "published": "2026-09-29"
+            },
+            {
+                "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
+                "link": "https://sspai.com/post/115061",
+                "published": "2026-09-29"
+            },
+            {
+                "title": "可塑的白昼：ColorOS17 深度评测",
+                "link": "https://sspai.com/post/114728",
+                "published": "2026-09-29"
+            },
+            {
+                "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
+                "link": "https://sspai.com/post/115134",
+                "published": "2026-09-29"
+            },
+            {
                 "title": "派评 | 近期值得关注的 App",
                 "link": "https://sspai.com/post/115094",
                 "published": "2026-09-28"
@@ -32388,7 +32408,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
