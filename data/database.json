@@ -1313,6 +1313,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "经典任务管理软件的现代重构： 新版 2Do 详解",
+                "link": "https://sspai.com/post/115166",
+                "published": "2026-09-30"
+            },
+            {
+                "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+                "link": "https://sspai.com/post/114945",
+                "published": "2026-09-30"
+            },
+            {
+                "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+                "link": "https://sspai.com/post/115197",
+                "published": "2026-09-29"
+            },
+            {
                 "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
                 "link": "https://sspai.com/post/115153",
                 "published": "2026-09-29"
@@ -32408,7 +32423,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,

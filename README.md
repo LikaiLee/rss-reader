@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-09-30】 经典任务管理软件的现代重构： 新版 2Do 详解](https://sspai.com/post/115166)
+* [【2026-09-30】 别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945)
+* [【2026-09-29】 派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等](https://sspai.com/post/115197)
 * [【2026-09-29】 社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单](https://sspai.com/post/115153)
 * [【2026-09-29】 更懂你的心，也更懂你：Apple Watch Series 12 体验](https://sspai.com/post/115061)
 * [【2026-09-29】 可塑的白昼：ColorOS17 深度评测](https://sspai.com/post/114728)
@@ -42,9 +45,6 @@
 * [【2026-09-28】 派评 | 近期值得关注的 App](https://sspai.com/post/115094)
 * [【2026-09-28】 基于 Termux 的 Android 手机开发服务器实操](https://sspai.com/prime/story/dev-env-on-android-with-termux)
 * [【2026-09-28】 比起折痕， iPhone Duo 的交互设计更加令人着迷](https://sspai.com/post/114972)
-* [【2026-09-28】 摸鱼+3 | 还剩三天班，一天一个解谜游戏](https://sspai.com/post/114967)
-* [【2026-09-27】 派早报：OpenAI 称与苹果合作效果不佳](https://sspai.com/post/115079)
-* [【2026-09-27】 本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等](https://sspai.com/post/115056)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-09-29 11:05:19
+:alarm_clock: 更新时间: 2026-09-30 10:53:21
