@@ -1313,6 +1313,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
+                "link": "https://sspai.com/post/115070",
+                "published": "2026-09-30"
+            },
+            {
+                "title": "经典任务管理软件的现代重构：新版 2Do 详解",
+                "link": "https://sspai.com/post/115166",
+                "published": "2026-09-30"
+            },
+            {
                 "title": "经典任务管理软件的现代重构： 新版 2Do 详解",
                 "link": "https://sspai.com/post/115166",
                 "published": "2026-09-30"
@@ -32423,7 +32433,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 2,
