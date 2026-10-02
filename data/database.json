@@ -1313,6 +1313,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/115211",
+                "published": "2026-10-02"
+            },
+            {
                 "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
                 "link": "https://sspai.com/post/115070",
                 "published": "2026-09-30"
@@ -32433,7 +32438,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,

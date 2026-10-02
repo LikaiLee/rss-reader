@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-10-02】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/115211)
 * [【2026-09-30】 从玩家的世界掠过：Bungie 的「列车」如何驶向终焉](https://sspai.com/post/115070)
 * [【2026-09-30】 经典任务管理软件的现代重构：新版 2Do 详解](https://sspai.com/post/115166)
 * [【2026-09-30】 经典任务管理软件的现代重构： 新版 2Do 详解](https://sspai.com/post/115166)
@@ -44,7 +45,6 @@
 * [【2026-09-29】 更懂你的心，也更懂你：Apple Watch Series 12 体验](https://sspai.com/post/115061)
 * [【2026-09-29】 可塑的白昼：ColorOS17 深度评测](https://sspai.com/post/114728)
 * [【2026-09-29】 派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等](https://sspai.com/post/115134)
-* [【2026-09-28】 派评 | 近期值得关注的 App](https://sspai.com/post/115094)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-01 11:21:57
+:alarm_clock: 更新时间: 2026-10-02 10:52:32
