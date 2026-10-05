@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-10-05】 十个案例助你轻松上手 iOS 27 通知自动化](https://sspai.com/post/114536)
+* [【2026-10-04】 方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验](https://sspai.com/post/115308)
 * [【2026-10-03】 TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验](https://sspai.com/post/114922)
 * [【2026-10-02】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/115211)
 * [【2026-09-30】 从玩家的世界掠过：Bungie 的「列车」如何驶向终焉](https://sspai.com/post/115070)
@@ -43,8 +45,6 @@
 * [【2026-09-30】 别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945)
 * [【2026-09-29】 派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等](https://sspai.com/post/115197)
 * [【2026-09-29】 社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单](https://sspai.com/post/115153)
-* [【2026-09-29】 更懂你的心，也更懂你：Apple Watch Series 12 体验](https://sspai.com/post/115061)
-* [【2026-09-29】 可塑的白昼：ColorOS17 深度评测](https://sspai.com/post/114728)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-03 10:12:19
+:alarm_clock: 更新时间: 2026-10-05 12:01:59

@@ -1313,6 +1313,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "十个案例助你轻松上手 iOS 27 通知自动化",
+                "link": "https://sspai.com/post/114536",
+                "published": "2026-10-05"
+            },
+            {
+                "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+                "link": "https://sspai.com/post/115308",
+                "published": "2026-10-04"
+            },
+            {
                 "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
                 "link": "https://sspai.com/post/114922",
                 "published": "2026-10-03"
@@ -32443,7 +32453,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
