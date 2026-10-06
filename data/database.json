@@ -1313,6 +1313,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+                "link": "https://sspai.com/post/115416",
+                "published": "2026-10-06"
+            },
+            {
                 "title": "十个案例助你轻松上手 iOS 27 通知自动化",
                 "link": "https://sspai.com/post/114536",
                 "published": "2026-10-05"
@@ -32453,7 +32458,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
