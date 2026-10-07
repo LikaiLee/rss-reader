@@ -1313,6 +1313,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "罗马：永恒之城，永恒于世",
+                "link": "https://sspai.com/post/114845",
+                "published": "2026-10-07"
+            },
+            {
                 "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
                 "link": "https://sspai.com/post/115416",
                 "published": "2026-10-06"

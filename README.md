@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-10-07】 罗马：永恒之城，永恒于世](https://sspai.com/post/114845)
 * [【2026-10-06】 基于 Vaultwarden 和 Keyguard 的自托管密码管理实践](https://sspai.com/post/115416)
 * [【2026-10-05】 十个案例助你轻松上手 iOS 27 通知自动化](https://sspai.com/post/114536)
 * [【2026-10-04】 方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验](https://sspai.com/post/115308)
@@ -44,7 +45,6 @@
 * [【2026-09-30】 经典任务管理软件的现代重构：新版 2Do 详解](https://sspai.com/post/115166)
 * [【2026-09-30】 经典任务管理软件的现代重构： 新版 2Do 详解](https://sspai.com/post/115166)
 * [【2026-09-30】 别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945)
-* [【2026-09-29】 派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等](https://sspai.com/post/115197)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-06 11:47:21
+:alarm_clock: 更新时间: 2026-10-07 11:30:46
