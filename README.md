@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-10-08】 iPhone Duo：苹果，终究还是对强迫症下手了](https://sspai.com/post/115282)
+* [【2026-10-08】 从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843)
+* [【2026-10-08】 扔掉的是杂念，掌控的是生活：我的断舍离实践经验](https://sspai.com/post/115209)
+* [【2026-10-08】 App Store 生态规模五年翻倍，助力中国开发者走向全球](https://sspai.com/post/115462)
+* [【2026-10-08】 派早报：微软发布 Windows 相关新品、Google AI 新闻两则等](https://sspai.com/post/115455)
 * [【2026-10-07】 罗马：永恒之城，永恒于世](https://sspai.com/post/114845)
 * [【2026-10-06】 基于 Vaultwarden 和 Keyguard 的自托管密码管理实践](https://sspai.com/post/115416)
 * [【2026-10-05】 十个案例助你轻松上手 iOS 27 通知自动化](https://sspai.com/post/114536)
 * [【2026-10-04】 方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验](https://sspai.com/post/115308)
 * [【2026-10-03】 TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验](https://sspai.com/post/114922)
-* [【2026-10-02】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/115211)
-* [【2026-09-30】 从玩家的世界掠过：Bungie 的「列车」如何驶向终焉](https://sspai.com/post/115070)
-* [【2026-09-30】 经典任务管理软件的现代重构：新版 2Do 详解](https://sspai.com/post/115166)
-* [【2026-09-30】 经典任务管理软件的现代重构： 新版 2Do 详解](https://sspai.com/post/115166)
-* [【2026-09-30】 别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-07 11:30:46
+:alarm_clock: 更新时间: 2026-10-08 11:46:06

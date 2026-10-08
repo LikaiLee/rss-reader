@@ -1313,6 +1313,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
+                "link": "https://sspai.com/post/115282",
+                "published": "2026-10-08"
+            },
+            {
+                "title": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole",
+                "link": "https://sspai.com/post/113843",
+                "published": "2026-10-08"
+            },
+            {
+                "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
+                "link": "https://sspai.com/post/115209",
+                "published": "2026-10-08"
+            },
+            {
+                "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
+                "link": "https://sspai.com/post/115462",
+                "published": "2026-10-08"
+            },
+            {
+                "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+                "link": "https://sspai.com/post/115455",
+                "published": "2026-10-08"
+            },
+            {
                 "title": "罗马：永恒之城，永恒于世",
                 "link": "https://sspai.com/post/114845",
                 "published": "2026-10-07"
@@ -32463,7 +32488,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 5
     },
     {
         "id": 2,
