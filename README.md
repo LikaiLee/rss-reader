@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-10-08】 科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html)
 * [【2026-09-18】 科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)
 * [【2026-09-11】 科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)
 * [【2026-09-03】 科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
@@ -25,7 +26,6 @@
 * [【2026-08-07】 科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)
 * [【2026-07-31】 科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)
 * [【2026-07-24】 科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html)
-* [【2026-07-16】 科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-10-09】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/115566)
+* [【2026-10-09】 vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧](https://sspai.com/post/115456)
+* [【2026-10-09】 App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts](https://sspai.com/post/114869)
+* [【2026-10-09】 派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等](https://sspai.com/post/115532)
 * [【2026-10-08】 iPhone Duo：苹果，终究还是对强迫症下手了](https://sspai.com/post/115282)
 * [【2026-10-08】 从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843)
 * [【2026-10-08】 扔掉的是杂念，掌控的是生活：我的断舍离实践经验](https://sspai.com/post/115209)
 * [【2026-10-08】 App Store 生态规模五年翻倍，助力中国开发者走向全球](https://sspai.com/post/115462)
 * [【2026-10-08】 派早报：微软发布 Windows 相关新品、Google AI 新闻两则等](https://sspai.com/post/115455)
 * [【2026-10-07】 罗马：永恒之城，永恒于世](https://sspai.com/post/114845)
-* [【2026-10-06】 基于 Vaultwarden 和 Keyguard 的自托管密码管理实践](https://sspai.com/post/115416)
-* [【2026-10-05】 十个案例助你轻松上手 iOS 27 通知自动化](https://sspai.com/post/114536)
-* [【2026-10-04】 方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验](https://sspai.com/post/115308)
-* [【2026-10-03】 TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验](https://sspai.com/post/114922)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-08 11:46:06
+:alarm_clock: 更新时间: 2026-10-09 11:38:50

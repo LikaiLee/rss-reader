@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 414 期）：Jev 决策模型有什么用",
+                "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html",
+                "published": "2026-10-08"
+            },
+            {
                 "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
                 "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
                 "published": "2026-09-18"
@@ -1305,13 +1310,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 11 部作品",
+                "link": "https://sspai.com/post/115566",
+                "published": "2026-10-09"
+            },
+            {
+                "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+                "link": "https://sspai.com/post/115456",
+                "published": "2026-10-09"
+            },
+            {
+                "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+                "link": "https://sspai.com/post/114869",
+                "published": "2026-10-09"
+            },
+            {
+                "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+                "link": "https://sspai.com/post/115532",
+                "published": "2026-10-09"
+            },
             {
                 "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
                 "link": "https://sspai.com/post/115282",
@@ -32488,7 +32513,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
