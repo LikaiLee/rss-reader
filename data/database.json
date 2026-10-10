@@ -1310,13 +1310,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
+                "link": "https://sspai.com/post/115237",
+                "published": "2026-10-10"
+            },
             {
                 "title": "本周看什么 | 最近值得一看的 11 部作品",
                 "link": "https://sspai.com/post/115566",
@@ -32513,7 +32518,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
