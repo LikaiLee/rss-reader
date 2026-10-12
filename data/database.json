@@ -1318,6 +1318,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/115934",
+                "published": "2026-10-12"
+            },
+            {
+                "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
+                "link": "https://sspai.com/post/115242",
+                "published": "2026-10-12"
+            },
+            {
+                "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+                "link": "https://sspai.com/post/114821",
+                "published": "2026-10-12"
+            },
+            {
+                "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+                "link": "https://sspai.com/post/115845",
+                "published": "2026-10-11"
+            },
+            {
                 "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
                 "link": "https://sspai.com/post/115568",
                 "published": "2026-10-11"
@@ -32523,7 +32543,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 2,

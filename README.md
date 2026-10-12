@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-10-12】 派评 | 近期值得关注的 App](https://sspai.com/post/115934)
+* [【2026-10-12】 iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注](https://sspai.com/post/115242)
+* [【2026-10-12】 怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小](https://sspai.com/post/114821)
+* [【2026-10-11】 派早报：工信部等就进一步加强汽车产品创新设计管理征求意见](https://sspai.com/post/115845)
 * [【2026-10-11】 写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复](https://sspai.com/post/115568)
 * [【2026-10-10】 App+1｜专注星空：让「少刷手机」这件事更愉悦一点](https://sspai.com/post/115237)
 * [【2026-10-09】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/115566)
 * [【2026-10-09】 vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧](https://sspai.com/post/115456)
 * [【2026-10-09】 App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts](https://sspai.com/post/114869)
 * [【2026-10-09】 派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等](https://sspai.com/post/115532)
-* [【2026-10-08】 iPhone Duo：苹果，终究还是对强迫症下手了](https://sspai.com/post/115282)
-* [【2026-10-08】 从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843)
-* [【2026-10-08】 扔掉的是杂念，掌控的是生活：我的断舍离实践经验](https://sspai.com/post/115209)
-* [【2026-10-08】 App Store 生态规模五年翻倍，助力中国开发者走向全球](https://sspai.com/post/115462)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-11 11:11:48
+:alarm_clock: 更新时间: 2026-10-12 12:44:34
