@@ -1318,6 +1318,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
+                "link": "https://sspai.com/post/116068",
+                "published": "2026-10-13"
+            },
+            {
+                "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+                "link": "https://sspai.com/post/115400",
+                "published": "2026-10-13"
+            },
+            {
+                "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
+                "link": "https://sspai.com/post/116028",
+                "published": "2026-10-13"
+            },
+            {
+                "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生",
+                "link": "https://sspai.com/post/114561",
+                "published": "2026-10-13"
+            },
+            {
+                "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
+                "link": "https://sspai.com/post/116033",
+                "published": "2026-10-13"
+            },
+            {
                 "title": "派评 | 近期值得关注的 App",
                 "link": "https://sspai.com/post/115934",
                 "published": "2026-10-12"
@@ -32543,7 +32568,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,

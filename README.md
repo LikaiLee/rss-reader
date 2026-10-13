@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-10-13】 社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议](https://sspai.com/post/116068)
+* [【2026-10-13】 App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App](https://sspai.com/post/115400)
+* [【2026-10-13】 迈上生态新台阶，首期 Apple 应用孵化器顺利收官](https://sspai.com/post/116028)
+* [【2026-10-13】 高端，不只是材质而已：Apple Watch Edition 的前世今生](https://sspai.com/post/114561)
+* [【2026-10-13】 派早报：一加发布一加 16，Google 推出 Fitbit Edge 等](https://sspai.com/post/116033)
 * [【2026-10-12】 派评 | 近期值得关注的 App](https://sspai.com/post/115934)
 * [【2026-10-12】 iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注](https://sspai.com/post/115242)
 * [【2026-10-12】 怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小](https://sspai.com/post/114821)
 * [【2026-10-11】 派早报：工信部等就进一步加强汽车产品创新设计管理征求意见](https://sspai.com/post/115845)
 * [【2026-10-11】 写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复](https://sspai.com/post/115568)
-* [【2026-10-10】 App+1｜专注星空：让「少刷手机」这件事更愉悦一点](https://sspai.com/post/115237)
-* [【2026-10-09】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/115566)
-* [【2026-10-09】 vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧](https://sspai.com/post/115456)
-* [【2026-10-09】 App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts](https://sspai.com/post/114869)
-* [【2026-10-09】 派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等](https://sspai.com/post/115532)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-12 12:44:34
+:alarm_clock: 更新时间: 2026-10-13 12:27:12
