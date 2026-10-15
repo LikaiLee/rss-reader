@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-10-15】 顺应变化，重申标准：《少数派创作手册》修订说明](https://sspai.com/post/116181)
+* [【2026-10-15】 学得会的快捷指令，零基础入门苹果效率魔法](https://sspai.com/post/116182)
+* [【2026-10-15】 App+1｜Mangata：把每次散步当作一次探索旅行](https://sspai.com/post/115238)
+* [【2026-10-15】 派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等](https://sspai.com/post/116193)
+* [【2026-10-14】 认知心理学背后的播客剪辑技巧](https://sspai.com/post/114861)
 * [【2026-10-14】 带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验](https://sspai.com/post/115426)
 * [【2026-10-14】 家中、这里、那里——Sonos Play 体验](https://sspai.com/post/115382)
 * [【2026-10-14】 众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验](https://sspai.com/post/116109)
 * [【2026-10-14】 已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒](https://sspai.com/post/92653)
 * [【2026-10-14】 派早报：Apple 发布 HomePod mini 2、HomeView 等新品](https://sspai.com/post/116138)
-* [【2026-10-13】 社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议](https://sspai.com/post/116068)
-* [【2026-10-13】 App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App](https://sspai.com/post/115400)
-* [【2026-10-13】 迈上生态新台阶，首期 Apple 应用孵化器顺利收官](https://sspai.com/post/116028)
-* [【2026-10-13】 高端，不只是材质而已：Apple Watch Edition 的前世今生](https://sspai.com/post/114561)
-* [【2026-10-13】 派早报：一加发布一加 16，Google 推出 Fitbit Edge 等](https://sspai.com/post/116033)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-14 09:54:42
+:alarm_clock: 更新时间: 2026-10-15 09:36:03
