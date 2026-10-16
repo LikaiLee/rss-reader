@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
+                "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
+                "published": "2026-10-16"
+            },
+            {
                 "title": "科技爱好者周刊（第 414 期）：Jev 决策模型有什么用",
                 "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html",
                 "published": "2026-10-08"
@@ -1310,13 +1315,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
+                "link": "https://sspai.com/post/114836",
+                "published": "2026-10-16"
+            },
+            {
+                "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
+                "link": "https://sspai.com/post/115679",
+                "published": "2026-10-16"
+            },
+            {
+                "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
+                "link": "https://sspai.com/post/115688",
+                "published": "2026-10-16"
+            },
+            {
+                "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+                "link": "https://sspai.com/post/116355",
+                "published": "2026-10-16"
+            },
+            {
+                "title": "新玩意 253｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/116246",
+                "published": "2026-10-15"
+            },
             {
                 "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
                 "link": "https://sspai.com/post/116181",

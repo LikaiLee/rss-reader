@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-10-16】 科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html)
 * [【2026-10-08】 科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html)
 * [【2026-09-18】 科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)
 * [【2026-09-11】 科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)
@@ -25,7 +26,6 @@
 * [【2026-08-13】 科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)
 * [【2026-08-07】 科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)
 * [【2026-07-31】 科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)
-* [【2026-07-24】 科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-10-16】 「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式](https://sspai.com/post/114836)
+* [【2026-10-16】 一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验](https://sspai.com/post/115679)
+* [【2026-10-16】 让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688)
+* [【2026-10-16】 派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本](https://sspai.com/post/116355)
+* [【2026-10-15】 新玩意 253｜少数派的编辑们最近买了啥？](https://sspai.com/post/116246)
 * [【2026-10-15】 顺应变化，重申标准：《少数派创作手册》修订说明](https://sspai.com/post/116181)
 * [【2026-10-15】 学得会的快捷指令，零基础入门苹果效率魔法](https://sspai.com/post/116182)
 * [【2026-10-15】 App+1｜Mangata：把每次散步当作一次探索旅行](https://sspai.com/post/115238)
 * [【2026-10-15】 派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等](https://sspai.com/post/116193)
 * [【2026-10-14】 认知心理学背后的播客剪辑技巧](https://sspai.com/post/114861)
-* [【2026-10-14】 带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验](https://sspai.com/post/115426)
-* [【2026-10-14】 家中、这里、那里——Sonos Play 体验](https://sspai.com/post/115382)
-* [【2026-10-14】 众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验](https://sspai.com/post/116109)
-* [【2026-10-14】 已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒](https://sspai.com/post/92653)
-* [【2026-10-14】 派早报：Apple 发布 HomePod mini 2、HomeView 等新品](https://sspai.com/post/116138)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-15 09:36:03
+:alarm_clock: 更新时间: 2026-10-16 09:28:58
