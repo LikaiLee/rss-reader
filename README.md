@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-10-17】 被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？](https://sspai.com/post/104231)
+* [【2026-10-16】 本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/116423)
 * [【2026-10-16】 「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式](https://sspai.com/post/114836)
 * [【2026-10-16】 一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验](https://sspai.com/post/115679)
 * [【2026-10-16】 让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688)
@@ -43,8 +45,6 @@
 * [【2026-10-15】 顺应变化，重申标准：《少数派创作手册》修订说明](https://sspai.com/post/116181)
 * [【2026-10-15】 学得会的快捷指令，零基础入门苹果效率魔法](https://sspai.com/post/116182)
 * [【2026-10-15】 App+1｜Mangata：把每次散步当作一次探索旅行](https://sspai.com/post/115238)
-* [【2026-10-15】 派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等](https://sspai.com/post/116193)
-* [【2026-10-14】 认知心理学背后的播客剪辑技巧](https://sspai.com/post/114861)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-16 09:28:58
+:alarm_clock: 更新时间: 2026-10-17 09:00:08
