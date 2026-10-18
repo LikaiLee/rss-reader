@@ -1323,6 +1323,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
+                "link": "https://sspai.com/post/115241",
+                "published": "2026-10-18"
+            },
+            {
                 "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
                 "link": "https://sspai.com/post/104231",
                 "published": "2026-10-17"
@@ -32658,7 +32663,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
