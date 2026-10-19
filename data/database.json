@@ -1323,6 +1323,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
+                "link": "https://sspai.com/post/116585",
+                "published": "2026-10-19"
+            },
+            {
+                "title": "9 月音乐精选：用这 8 张新专辑，激发人生新可能",
+                "link": "https://sspai.com/post/116699",
+                "published": "2026-10-19"
+            },
+            {
+                "title": "开源掌机的文化线索",
+                "link": "https://sspai.com/post/115125",
+                "published": "2026-10-19"
+            },
+            {
+                "title": "派早报：三季度全球手机出货量继续两位数下降",
+                "link": "https://sspai.com/post/116641",
+                "published": "2026-10-18"
+            },
+            {
                 "title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
                 "link": "https://sspai.com/post/115241",
                 "published": "2026-10-18"
@@ -32663,7 +32683,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 2,
