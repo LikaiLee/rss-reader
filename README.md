@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-10-20】 从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面](https://sspai.com/post/116661)
+* [【2026-10-20】 App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法](https://sspai.com/post/116430)
+* [【2026-10-20】 派早报：MiniMax 发布 M3.1 Flash 模型等](https://sspai.com/post/116758)
+* [【2026-10-19】 派评 | 近期值得关注的 App](https://sspai.com/post/116705)
 * [【2026-10-19】 与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长](https://sspai.com/post/116585)
 * [【2026-10-19】 9 月音乐精选：用这 8 张新专辑，激发人生新可能](https://sspai.com/post/116699)
 * [【2026-10-19】 开源掌机的文化线索](https://sspai.com/post/115125)
 * [【2026-10-18】 派早报：三季度全球手机出货量继续两位数下降](https://sspai.com/post/116641)
 * [【2026-10-18】 Quote/0 妙用 +1，把墨水屏变成点餐助手](https://sspai.com/post/115241)
 * [【2026-10-17】 被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？](https://sspai.com/post/104231)
-* [【2026-10-16】 本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/116423)
-* [【2026-10-16】 「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式](https://sspai.com/post/114836)
-* [【2026-10-16】 一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验](https://sspai.com/post/115679)
-* [【2026-10-16】 让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-19 10:30:05
+:alarm_clock: 更新时间: 2026-10-20 09:47:42
