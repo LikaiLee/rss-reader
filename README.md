@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-10-21】 App+1｜Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用](https://sspai.com/post/116445)
+* [【2026-10-21】 怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？](https://sspai.com/post/115107)
+* [【2026-10-21】 派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等](https://sspai.com/post/116887)
+* [【2026-10-20】 具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁](https://sspai.com/prime/story/inside-release-notes-261020)
+* [【2026-10-20】 TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验](https://sspai.com/post/115475)
 * [【2026-10-20】 从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面](https://sspai.com/post/116661)
 * [【2026-10-20】 App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法](https://sspai.com/post/116430)
 * [【2026-10-20】 派早报：MiniMax 发布 M3.1 Flash 模型等](https://sspai.com/post/116758)
 * [【2026-10-19】 派评 | 近期值得关注的 App](https://sspai.com/post/116705)
 * [【2026-10-19】 与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长](https://sspai.com/post/116585)
-* [【2026-10-19】 9 月音乐精选：用这 8 张新专辑，激发人生新可能](https://sspai.com/post/116699)
-* [【2026-10-19】 开源掌机的文化线索](https://sspai.com/post/115125)
-* [【2026-10-18】 派早报：三季度全球手机出货量继续两位数下降](https://sspai.com/post/116641)
-* [【2026-10-18】 Quote/0 妙用 +1，把墨水屏变成点餐助手](https://sspai.com/post/115241)
-* [【2026-10-17】 被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？](https://sspai.com/post/104231)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-20 09:47:42
+:alarm_clock: 更新时间: 2026-10-21 09:48:48

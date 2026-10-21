@@ -1323,6 +1323,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "App+1｜Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+                "link": "https://sspai.com/post/116445",
+                "published": "2026-10-21"
+            },
+            {
+                "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
+                "link": "https://sspai.com/post/115107",
+                "published": "2026-10-21"
+            },
+            {
+                "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
+                "link": "https://sspai.com/post/116887",
+                "published": "2026-10-21"
+            },
+            {
+                "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
+                "link": "https://sspai.com/prime/story/inside-release-notes-261020",
+                "published": "2026-10-20"
+            },
+            {
+                "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
+                "link": "https://sspai.com/post/115475",
+                "published": "2026-10-20"
+            },
+            {
                 "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
                 "link": "https://sspai.com/post/116661",
                 "published": "2026-10-20"
@@ -32703,7 +32728,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
