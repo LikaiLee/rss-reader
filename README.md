@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-10-23】 科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)
 * [【2026-10-16】 科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html)
 * [【2026-10-08】 科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html)
 * [【2026-09-18】 科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)
@@ -25,7 +26,6 @@
 * [【2026-08-20】 科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)
 * [【2026-08-13】 科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)
 * [【2026-08-07】 科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)
-* [【2026-07-31】 科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-10-23】 TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验](https://sspai.com/post/116398)
+* [【2026-10-23】 破与立：设计视角下的 iPhone Duo](https://sspai.com/post/116979)
+* [【2026-10-23】 派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等](https://sspai.com/post/117104)
+* [【2026-10-22】 把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长](https://sspai.com/post/115437)
 * [【2026-10-22】 前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本](https://sspai.com/post/116923)
 * [【2026-10-22】 终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记](https://sspai.com/post/115090)
 * [【2026-10-22】 派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等](https://sspai.com/post/116953)
 * [【2026-10-21】 社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备](https://sspai.com/post/116820)
 * [【2026-10-21】 Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用](https://sspai.com/post/116445)
 * [【2026-10-21】 App+1｜Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用](https://sspai.com/post/116445)
-* [【2026-10-21】 怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？](https://sspai.com/post/115107)
-* [【2026-10-21】 派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等](https://sspai.com/post/116887)
-* [【2026-10-20】 具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁](https://sspai.com/prime/story/inside-release-notes-261020)
-* [【2026-10-20】 TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验](https://sspai.com/post/115475)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-22 09:49:42
+:alarm_clock: 更新时间: 2026-10-23 09:44:08

@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
+                "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
+                "published": "2026-10-23"
+            },
+            {
                 "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
                 "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
                 "published": "2026-10-16"
@@ -1315,13 +1320,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+                "link": "https://sspai.com/post/116398",
+                "published": "2026-10-23"
+            },
+            {
+                "title": "破与立：设计视角下的 iPhone Duo",
+                "link": "https://sspai.com/post/116979",
+                "published": "2026-10-23"
+            },
+            {
+                "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+                "link": "https://sspai.com/post/117104",
+                "published": "2026-10-23"
+            },
+            {
+                "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+                "link": "https://sspai.com/post/115437",
+                "published": "2026-10-22"
+            },
             {
                 "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
                 "link": "https://sspai.com/post/116923",
@@ -32753,7 +32778,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
