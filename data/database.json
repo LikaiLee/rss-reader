@@ -1328,6 +1328,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
+                "link": "https://sspai.com/post/114741",
+                "published": "2026-10-25"
+            },
+            {
+                "title": "在硅谷，遇见个人计算机历史",
+                "link": "https://sspai.com/post/116128",
+                "published": "2026-10-24"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 12 部作品",
                 "link": "https://sspai.com/post/117169",
                 "published": "2026-10-23"
@@ -32783,7 +32793,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 2,
