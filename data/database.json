@@ -1328,6 +1328,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "秋冬换季护肤买什么，双 11 选购推荐",
+                "link": "https://sspai.com/post/117414",
+                "published": "2026-10-26"
+            },
+            {
+                "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
+                "link": "https://sspai.com/post/115074",
+                "published": "2026-10-26"
+            },
+            {
+                "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
+                "link": "https://sspai.com/post/117180",
+                "published": "2026-10-26"
+            },
+            {
+                "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
+                "link": "https://sspai.com/post/117460",
+                "published": "2026-10-25"
+            },
+            {
                 "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
                 "link": "https://sspai.com/post/114741",
                 "published": "2026-10-25"
@@ -32793,7 +32813,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 4
     },
     {
         "id": 2,
