@@ -1328,6 +1328,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "社区速递 163 | 金豪 59 调整版与九月派友剁手清单",
+                "link": "https://sspai.com/post/117633",
+                "published": "2026-10-27"
+            },
+            {
+                "title": "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
+                "link": "https://sspai.com/post/117557",
+                "published": "2026-10-27"
+            },
+            {
+                "title": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
+                "link": "https://sspai.com/post/115855",
+                "published": "2026-10-27"
+            },
+            {
+                "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+                "link": "https://sspai.com/post/117600",
+                "published": "2026-10-27"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/117529",
+                "published": "2026-10-26"
+            },
+            {
                 "title": "秋冬换季护肤买什么，双 11 选购推荐",
                 "link": "https://sspai.com/post/117414",
                 "published": "2026-10-26"
@@ -32813,7 +32838,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,

@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-10-27】 社区速递 163 | 金豪 59 调整版与九月派友剁手清单](https://sspai.com/post/117633)
+* [【2026-10-27】 Apple Sports：不看新闻、不聊球，只看我关心的比赛](https://sspai.com/post/117557)
+* [【2026-10-27】 一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机](https://sspai.com/post/115855)
+* [【2026-10-27】 派早报：Apple 发布 iPad mini (A20 Pro) 等](https://sspai.com/post/117600)
+* [【2026-10-26】 派评 | 近期值得关注的 App](https://sspai.com/post/117529)
 * [【2026-10-26】 秋冬换季护肤买什么，双 11 选购推荐](https://sspai.com/post/117414)
 * [【2026-10-26】 曲高和寡、终成绝唱：傲腾 P5800X 测试报告](https://sspai.com/post/115074)
 * [【2026-10-26】 少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地](https://sspai.com/post/117180)
 * [【2026-10-25】 派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患](https://sspai.com/post/117460)
 * [【2026-10-25】 60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro](https://sspai.com/post/114741)
-* [【2026-10-24】 在硅谷，遇见个人计算机历史](https://sspai.com/post/116128)
-* [【2026-10-23】 本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/117169)
-* [【2026-10-23】 TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验](https://sspai.com/post/116398)
-* [【2026-10-23】 破与立：设计视角下的 iPhone Duo](https://sspai.com/post/116979)
-* [【2026-10-23】 派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等](https://sspai.com/post/117104)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-26 10:45:21
+:alarm_clock: 更新时间: 2026-10-27 10:11:42
