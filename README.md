@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-10-28】 备受期待的国产 3A 游戏新作：《影之刃零》游玩体验](https://sspai.com/post/117725)
+* [【2026-10-28】 断舍离只是起点：打造能长期经营的实用主义衣柜](https://sspai.com/post/116990)
+* [【2026-10-28】 怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？](https://sspai.com/post/115533)
+* [【2026-10-28】 派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等](https://sspai.com/post/117684)
+* [【2026-10-27】 社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单](https://sspai.com/post/117633)
 * [【2026-10-27】 社区速递 163 | 金豪 59 调整版与九月派友剁手清单](https://sspai.com/post/117633)
 * [【2026-10-27】 Apple Sports：不看新闻、不聊球，只看我关心的比赛](https://sspai.com/post/117557)
 * [【2026-10-27】 一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机](https://sspai.com/post/115855)
 * [【2026-10-27】 派早报：Apple 发布 iPad mini (A20 Pro) 等](https://sspai.com/post/117600)
 * [【2026-10-26】 派评 | 近期值得关注的 App](https://sspai.com/post/117529)
-* [【2026-10-26】 秋冬换季护肤买什么，双 11 选购推荐](https://sspai.com/post/117414)
-* [【2026-10-26】 曲高和寡、终成绝唱：傲腾 P5800X 测试报告](https://sspai.com/post/115074)
-* [【2026-10-26】 少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地](https://sspai.com/post/117180)
-* [【2026-10-25】 派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患](https://sspai.com/post/117460)
-* [【2026-10-25】 60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro](https://sspai.com/post/114741)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-27 10:11:42
+:alarm_clock: 更新时间: 2026-10-28 10:57:48
