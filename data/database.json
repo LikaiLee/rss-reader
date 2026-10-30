@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
+                "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
+                "published": "2026-10-30"
+            },
+            {
                 "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
                 "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
                 "published": "2026-10-23"
@@ -1320,13 +1325,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/117867",
+                "published": "2026-10-30"
+            },
+            {
+                "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
+                "link": "https://sspai.com/post/116047",
+                "published": "2026-10-30"
+            },
+            {
+                "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
+                "link": "https://sspai.com/prime/story/zhuanglesha-261030",
+                "published": "2026-10-30"
+            },
+            {
+                "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+                "link": "https://sspai.com/post/116435",
+                "published": "2026-10-30"
+            },
+            {
+                "title": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
+                "link": "https://sspai.com/post/117827",
+                "published": "2026-10-30"
+            },
             {
                 "title": "新玩意 254｜少数派的编辑们最近买了啥？",
                 "link": "https://sspai.com/post/117791",

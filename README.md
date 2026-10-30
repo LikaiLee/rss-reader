@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-10-30】 科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)
 * [【2026-10-23】 科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)
 * [【2026-10-16】 科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html)
 * [【2026-10-08】 科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html)
@@ -25,7 +26,6 @@
 * [【2026-08-27】 科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
 * [【2026-08-20】 科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)
 * [【2026-08-13】 科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)
-* [【2026-08-07】 科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-10-30】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/117867)
+* [【2026-10-30】 App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣](https://sspai.com/post/116047)
+* [【2026-10-30】 《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？](https://sspai.com/prime/story/zhuanglesha-261030)
+* [【2026-10-30】 精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践](https://sspai.com/post/116435)
+* [【2026-10-30】 派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等](https://sspai.com/post/117827)
 * [【2026-10-29】 新玩意 254｜少数派的编辑们最近买了啥？](https://sspai.com/post/117791)
 * [【2026-10-29】 如何成为不吃压力的「大心脏」？](https://sspai.com/post/117244)
 * [【2026-10-29】 让 Agent 读懂你的身体：数据处理篇](https://sspai.com/prime/story/how-to-analyze-health-data-with-agent)
 * [【2026-10-29】 一日一技｜iPhone 恶意被锁，线上移除流程拆招](https://sspai.com/post/116686)
 * [【2026-10-29】 派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等](https://sspai.com/post/117750)
-* [【2026-10-28】 备受期待的国产 3A 游戏新作：《影之刃零》游玩体验](https://sspai.com/post/117725)
-* [【2026-10-28】 断舍离只是起点：打造能长期经营的实用主义衣柜](https://sspai.com/post/116990)
-* [【2026-10-28】 怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？](https://sspai.com/post/115533)
-* [【2026-10-28】 派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等](https://sspai.com/post/117684)
-* [【2026-10-27】 社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单](https://sspai.com/post/117633)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-29 11:17:24
+:alarm_clock: 更新时间: 2026-10-30 11:10:03
