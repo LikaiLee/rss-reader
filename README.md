@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-10-31】 本月玩什么｜影之刃零、战争机器：事变日等](https://sspai.com/post/117960)
+* [【2026-10-31】 一图流 | 一张图看懂中国版 Apple 智能](https://sspai.com/post/117953)
 * [【2026-10-30】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/117867)
 * [【2026-10-30】 App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣](https://sspai.com/post/116047)
 * [【2026-10-30】 《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？](https://sspai.com/prime/story/zhuanglesha-261030)
@@ -43,8 +45,6 @@
 * [【2026-10-29】 新玩意 254｜少数派的编辑们最近买了啥？](https://sspai.com/post/117791)
 * [【2026-10-29】 如何成为不吃压力的「大心脏」？](https://sspai.com/post/117244)
 * [【2026-10-29】 让 Agent 读懂你的身体：数据处理篇](https://sspai.com/prime/story/how-to-analyze-health-data-with-agent)
-* [【2026-10-29】 一日一技｜iPhone 恶意被锁，线上移除流程拆招](https://sspai.com/post/116686)
-* [【2026-10-29】 派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等](https://sspai.com/post/117750)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-10-30 11:10:03
+:alarm_clock: 更新时间: 2026-10-31 10:43:15

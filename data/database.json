@@ -1325,13 +1325,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本月玩什么｜影之刃零、战争机器：事变日等",
+                "link": "https://sspai.com/post/117960",
+                "published": "2026-10-31"
+            },
+            {
+                "title": "一图流 | 一张图看懂中国版 Apple 智能",
+                "link": "https://sspai.com/post/117953",
+                "published": "2026-10-31"
+            },
             {
                 "title": "本周看什么 | 最近值得一看的 9 部作品",
                 "link": "https://sspai.com/post/117867",
@@ -32918,7 +32928,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 2
     },
     {
         "id": 2,
