@@ -1333,6 +1333,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+                "link": "https://sspai.com/post/116991",
+                "published": "2026-11-01"
+            },
+            {
                 "title": "本月玩什么｜影之刃零、战争机器：事变日等",
                 "link": "https://sspai.com/post/117960",
                 "published": "2026-10-31"
@@ -32928,7 +32933,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,
