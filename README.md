@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-11-02】 派评 | 近期值得关注的 App](https://sspai.com/post/118240)
+* [【2026-11-02】 TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验](https://sspai.com/post/118122)
+* [【2026-11-02】 Xnip 十周年：长截图的新生，也是新的起点](https://sspai.com/post/115662)
+* [【2026-11-01】 派早报：Apple 智能将随 iOS 27.3 登陆中国](https://sspai.com/post/118191)
 * [【2026-11-01】 怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」](https://sspai.com/post/116991)
 * [【2026-10-31】 本月玩什么｜影之刃零、战争机器：事变日等](https://sspai.com/post/117960)
 * [【2026-10-31】 一图流 | 一张图看懂中国版 Apple 智能](https://sspai.com/post/117953)
 * [【2026-10-30】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/117867)
 * [【2026-10-30】 App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣](https://sspai.com/post/116047)
 * [【2026-10-30】 《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？](https://sspai.com/prime/story/zhuanglesha-261030)
-* [【2026-10-30】 精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践](https://sspai.com/post/116435)
-* [【2026-10-30】 派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等](https://sspai.com/post/117827)
-* [【2026-10-29】 新玩意 254｜少数派的编辑们最近买了啥？](https://sspai.com/post/117791)
-* [【2026-10-29】 如何成为不吃压力的「大心脏」？](https://sspai.com/post/117244)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-01 11:40:25
+:alarm_clock: 更新时间: 2026-11-02 13:03:52
