@@ -1333,6 +1333,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+                "link": "https://sspai.com/post/118317",
+                "published": "2026-11-03"
+            },
+            {
+                "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
+                "link": "https://sspai.com/post/118211",
+                "published": "2026-11-03"
+            },
+            {
+                "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
+                "link": "https://sspai.com/post/118232",
+                "published": "2026-11-03"
+            },
+            {
                 "title": "派评 | 近期值得关注的 App",
                 "link": "https://sspai.com/post/118240",
                 "published": "2026-11-02"
@@ -32953,7 +32968,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
