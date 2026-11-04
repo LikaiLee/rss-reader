@@ -1333,6 +1333,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+                "link": "https://sspai.com/post/115819",
+                "published": "2026-11-04"
+            },
+            {
+                "title": "国行 Apple 智能上手：这些功能已经准备好",
+                "link": "https://sspai.com/post/118404",
+                "published": "2026-11-04"
+            },
+            {
+                "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+                "link": "https://sspai.com/post/118402",
+                "published": "2026-11-04"
+            },
+            {
+                "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+                "link": "https://sspai.com/post/118263",
+                "published": "2026-11-03"
+            },
+            {
                 "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
                 "link": "https://sspai.com/post/118317",
                 "published": "2026-11-03"
@@ -32968,7 +32988,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 4
     },
     {
         "id": 2,
