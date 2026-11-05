@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-11-05】 新玩意 255｜少数派的编辑们最近买了啥？](https://sspai.com/post/118541)
+* [【2026-11-05】 不用困在厨房也能做出好饭：三十道省事家常蒸菜](https://sspai.com/prime/story/30-easy-steamed-dishes)
+* [【2026-11-05】 Apple 官网排版细节鉴赏](https://sspai.com/post/115399)
+* [【2026-11-05】 派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等](https://sspai.com/post/118498)
+* [【2026-11-04】 你不知道的客户端开发：AI 时代下的选型、原生与借力](https://sspai.com/post/117713)
 * [【2026-11-04】 微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机](https://sspai.com/post/115819)
 * [【2026-11-04】 国行 Apple 智能上手：这些功能已经准备好](https://sspai.com/post/118404)
 * [【2026-11-04】 派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等](https://sspai.com/post/118402)
 * [【2026-11-03】 一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验](https://sspai.com/post/118263)
 * [【2026-11-03】 社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替](https://sspai.com/post/118317)
-* [【2026-11-03】 Disc Image Studio：你想不想在光盘上「画」点什么？](https://sspai.com/post/118211)
-* [【2026-11-03】 派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等](https://sspai.com/post/118232)
-* [【2026-11-02】 派评 | 近期值得关注的 App](https://sspai.com/post/118240)
-* [【2026-11-02】 TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验](https://sspai.com/post/118122)
-* [【2026-11-02】 Xnip 十周年：长截图的新生，也是新的起点](https://sspai.com/post/115662)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-04 12:46:10
+:alarm_clock: 更新时间: 2026-11-05 12:55:31

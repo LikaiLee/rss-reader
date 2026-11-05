@@ -1333,6 +1333,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "新玩意 255｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/118541",
+                "published": "2026-11-05"
+            },
+            {
+                "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+                "link": "https://sspai.com/prime/story/30-easy-steamed-dishes",
+                "published": "2026-11-05"
+            },
+            {
+                "title": "Apple 官网排版细节鉴赏",
+                "link": "https://sspai.com/post/115399",
+                "published": "2026-11-05"
+            },
+            {
+                "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+                "link": "https://sspai.com/post/118498",
+                "published": "2026-11-05"
+            },
+            {
+                "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+                "link": "https://sspai.com/post/117713",
+                "published": "2026-11-04"
+            },
+            {
                 "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
                 "link": "https://sspai.com/post/115819",
                 "published": "2026-11-04"
@@ -32988,7 +33013,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
