@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
+                "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
+                "published": "2026-11-05"
+            },
+            {
                 "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
                 "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
                 "published": "2026-10-30"
@@ -1325,13 +1330,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 9 部作品",
+                "link": "https://sspai.com/post/118623",
+                "published": "2026-11-06"
+            },
+            {
+                "title": "iPhone 变强了，但我没有",
+                "link": "https://sspai.com/post/118250",
+                "published": "2026-11-06"
+            },
+            {
+                "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+                "link": "https://sspai.com/post/118570",
+                "published": "2026-11-06"
+            },
+            {
+                "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+                "link": "https://sspai.com/post/118587",
+                "published": "2026-11-06"
+            },
+            {
+                "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+                "link": "https://sspai.com/post/118546",
+                "published": "2026-11-05"
+            },
             {
                 "title": "新玩意 255｜少数派的编辑们最近买了啥？",
                 "link": "https://sspai.com/post/118541",

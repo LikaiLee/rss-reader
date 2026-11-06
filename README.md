@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-11-05】 科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)
 * [【2026-10-30】 科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)
 * [【2026-10-23】 科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)
 * [【2026-10-16】 科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html)
@@ -25,7 +26,6 @@
 * [【2026-09-03】 科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
 * [【2026-08-27】 科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
 * [【2026-08-20】 科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)
-* [【2026-08-13】 科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-11-06】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/118623)
+* [【2026-11-06】 iPhone 变强了，但我没有](https://sspai.com/post/118250)
+* [【2026-11-06】 更高能效比，带来新惊喜：M6 款 MacBook Pro 初探](https://sspai.com/post/118570)
+* [【2026-11-06】 派早报：国务院办公厅发布 2027 年部分节假日放假安排等](https://sspai.com/post/118587)
+* [【2026-11-05】 开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验](https://sspai.com/post/118546)
 * [【2026-11-05】 新玩意 255｜少数派的编辑们最近买了啥？](https://sspai.com/post/118541)
 * [【2026-11-05】 不用困在厨房也能做出好饭：三十道省事家常蒸菜](https://sspai.com/prime/story/30-easy-steamed-dishes)
 * [【2026-11-05】 Apple 官网排版细节鉴赏](https://sspai.com/post/115399)
 * [【2026-11-05】 派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等](https://sspai.com/post/118498)
 * [【2026-11-04】 你不知道的客户端开发：AI 时代下的选型、原生与借力](https://sspai.com/post/117713)
-* [【2026-11-04】 微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机](https://sspai.com/post/115819)
-* [【2026-11-04】 国行 Apple 智能上手：这些功能已经准备好](https://sspai.com/post/118404)
-* [【2026-11-04】 派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等](https://sspai.com/post/118402)
-* [【2026-11-03】 一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验](https://sspai.com/post/118263)
-* [【2026-11-03】 社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替](https://sspai.com/post/118317)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-05 12:55:31
+:alarm_clock: 更新时间: 2026-11-06 12:42:30
