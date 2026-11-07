@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-11-07】 一个 05 后的个人数码编年史](https://sspai.com/post/116750)
 * [【2026-11-06】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/118623)
 * [【2026-11-06】 iPhone 变强了，但我没有](https://sspai.com/post/118250)
 * [【2026-11-06】 更高能效比，带来新惊喜：M6 款 MacBook Pro 初探](https://sspai.com/post/118570)
@@ -44,7 +45,6 @@
 * [【2026-11-05】 不用困在厨房也能做出好饭：三十道省事家常蒸菜](https://sspai.com/prime/story/30-easy-steamed-dishes)
 * [【2026-11-05】 Apple 官网排版细节鉴赏](https://sspai.com/post/115399)
 * [【2026-11-05】 派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等](https://sspai.com/post/118498)
-* [【2026-11-04】 你不知道的客户端开发：AI 时代下的选型、原生与借力](https://sspai.com/post/117713)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-06 12:42:30
+:alarm_clock: 更新时间: 2026-11-07 11:30:06
