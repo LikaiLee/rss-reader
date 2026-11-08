@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-11-08】 苹果产品那些不够颠覆，却值得被学习的细节](https://sspai.com/post/118114)
 * [【2026-11-07】 一个 05 后的个人数码编年史](https://sspai.com/post/116750)
 * [【2026-11-06】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/118623)
 * [【2026-11-06】 iPhone 变强了，但我没有](https://sspai.com/post/118250)
@@ -44,7 +45,6 @@
 * [【2026-11-05】 新玩意 255｜少数派的编辑们最近买了啥？](https://sspai.com/post/118541)
 * [【2026-11-05】 不用困在厨房也能做出好饭：三十道省事家常蒸菜](https://sspai.com/prime/story/30-easy-steamed-dishes)
 * [【2026-11-05】 Apple 官网排版细节鉴赏](https://sspai.com/post/115399)
-* [【2026-11-05】 派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等](https://sspai.com/post/118498)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-07 11:30:06
+:alarm_clock: 更新时间: 2026-11-08 11:40:59
