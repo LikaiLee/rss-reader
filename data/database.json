@@ -1338,6 +1338,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/118833",
+                "published": "2026-11-09"
+            },
+            {
+                "title": "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+                "link": "https://sspai.com/post/118799",
+                "published": "2026-11-09"
+            },
+            {
+                "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验",
+                "link": "https://sspai.com/post/118227",
+                "published": "2026-11-09"
+            },
+            {
+                "title": "天花板上的白色盒子，是怎样保护我们的安全的？",
+                "link": "https://sspai.com/post/118029",
+                "published": "2026-11-09"
+            },
+            {
+                "title": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
+                "link": "https://sspai.com/post/118612",
+                "published": "2026-11-09"
+            },
+            {
+                "title": "派早报：特斯拉将停产 Cybertruck",
+                "link": "https://sspai.com/post/118805",
+                "published": "2026-11-08"
+            },
+            {
                 "title": "苹果产品那些不够颠覆，却值得被学习的细节",
                 "link": "https://sspai.com/post/118114",
                 "published": "2026-11-08"
@@ -33053,7 +33083,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 6
     },
     {
         "id": 2,

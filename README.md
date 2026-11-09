@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+1】
+* [少数派](#少数派) 【+6】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-11-09】 派评 | 近期值得关注的 App](https://sspai.com/post/118833)
+* [【2026-11-09】 双十一 | 少数派会员、正版软件、付费栏目限时优惠](https://sspai.com/post/118799)
+* [【2026-11-09】 一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验](https://sspai.com/post/118227)
+* [【2026-11-09】 天花板上的白色盒子，是怎样保护我们的安全的？](https://sspai.com/post/118029)
+* [【2026-11-09】 双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖](https://sspai.com/post/118612)
+* [【2026-11-08】 派早报：特斯拉将停产 Cybertruck](https://sspai.com/post/118805)
 * [【2026-11-08】 苹果产品那些不够颠覆，却值得被学习的细节](https://sspai.com/post/118114)
 * [【2026-11-07】 一个 05 后的个人数码编年史](https://sspai.com/post/116750)
 * [【2026-11-06】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/118623)
 * [【2026-11-06】 iPhone 变强了，但我没有](https://sspai.com/post/118250)
-* [【2026-11-06】 更高能效比，带来新惊喜：M6 款 MacBook Pro 初探](https://sspai.com/post/118570)
-* [【2026-11-06】 派早报：国务院办公厅发布 2027 年部分节假日放假安排等](https://sspai.com/post/118587)
-* [【2026-11-05】 开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验](https://sspai.com/post/118546)
-* [【2026-11-05】 新玩意 255｜少数派的编辑们最近买了啥？](https://sspai.com/post/118541)
-* [【2026-11-05】 不用困在厨房也能做出好饭：三十道省事家常蒸菜](https://sspai.com/prime/story/30-easy-steamed-dishes)
-* [【2026-11-05】 Apple 官网排版细节鉴赏](https://sspai.com/post/115399)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-08 11:40:59
+:alarm_clock: 更新时间: 2026-11-09 13:36:22
