@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-11-10】 社区速递 165 | 透明工牌与派友十月购物清单](https://sspai.com/post/118861)
+* [【2026-11-10】 报名人数创下新高，第十一届「移动应用创新赛」圆满落幕](https://sspai.com/post/118824)
+* [【2026-11-10】 今年双十一，这些鼠标值得一看](https://sspai.com/post/111065)
+* [【2026-11-10】 派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等](https://sspai.com/post/118854)
 * [【2026-11-09】 派评 | 近期值得关注的 App](https://sspai.com/post/118833)
 * [【2026-11-09】 双十一 | 少数派会员、正版软件、付费栏目限时优惠](https://sspai.com/post/118799)
 * [【2026-11-09】 一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验](https://sspai.com/post/118227)
 * [【2026-11-09】 天花板上的白色盒子，是怎样保护我们的安全的？](https://sspai.com/post/118029)
 * [【2026-11-09】 双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖](https://sspai.com/post/118612)
 * [【2026-11-08】 派早报：特斯拉将停产 Cybertruck](https://sspai.com/post/118805)
-* [【2026-11-08】 苹果产品那些不够颠覆，却值得被学习的细节](https://sspai.com/post/118114)
-* [【2026-11-07】 一个 05 后的个人数码编年史](https://sspai.com/post/116750)
-* [【2026-11-06】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/118623)
-* [【2026-11-06】 iPhone 变强了，但我没有](https://sspai.com/post/118250)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-09 13:36:22
+:alarm_clock: 更新时间: 2026-11-10 13:14:40

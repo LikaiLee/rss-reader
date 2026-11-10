@@ -1338,6 +1338,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "社区速递 165 | 透明工牌与派友十月购物清单",
+                "link": "https://sspai.com/post/118861",
+                "published": "2026-11-10"
+            },
+            {
+                "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+                "link": "https://sspai.com/post/118824",
+                "published": "2026-11-10"
+            },
+            {
+                "title": "今年双十一，这些鼠标值得一看",
+                "link": "https://sspai.com/post/111065",
+                "published": "2026-11-10"
+            },
+            {
+                "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+                "link": "https://sspai.com/post/118854",
+                "published": "2026-11-10"
+            },
+            {
                 "title": "派评 | 近期值得关注的 App",
                 "link": "https://sspai.com/post/118833",
                 "published": "2026-11-09"
@@ -33083,7 +33103,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 6
+        "new_feeds": 4
     },
     {
         "id": 2,
