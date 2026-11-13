@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
+                "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+                "published": "2026-11-13"
+            },
+            {
                 "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
                 "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
                 "published": "2026-11-05"
@@ -1330,13 +1335,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/118999",
+                "published": "2026-11-13"
+            },
+            {
+                "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+                "link": "https://sspai.com/post/118153",
+                "published": "2026-11-13"
+            },
+            {
+                "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+                "link": "https://sspai.com/post/118512",
+                "published": "2026-11-13"
+            },
+            {
+                "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+                "link": "https://sspai.com/post/118966",
+                "published": "2026-11-13"
+            },
             {
                 "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
                 "link": "https://sspai.com/post/118366",

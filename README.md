@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-11-13】 科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html)
 * [【2026-11-05】 科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)
 * [【2026-10-30】 科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)
 * [【2026-10-23】 科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)
@@ -25,7 +26,6 @@
 * [【2026-09-11】 科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)
 * [【2026-09-03】 科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
 * [【2026-08-27】 科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
-* [【2026-08-20】 科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-11-13】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/118999)
+* [【2026-11-13】 研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153)
+* [【2026-11-13】 在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？](https://sspai.com/post/118512)
+* [【2026-11-13】 派早报：英伟达 CEO 黄仁勋宣布辞职等](https://sspai.com/post/118966)
 * [【2026-11-12】 城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好](https://sspai.com/post/118366)
 * [【2026-11-12】 Mac 选购指南 2026 冬季版](https://sspai.com/post/85735)
 * [【2026-11-12】 让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验](https://sspai.com/post/118921)
 * [【2026-11-12】 派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等](https://sspai.com/post/118935)
 * [【2026-11-11】 城市漫步指南 | 安特卫普，时尚就在生活中](https://sspai.com/post/118781)
 * [【2026-11-11】 从优胜美地到金门大桥：跟着 macOS 游览加州](https://sspai.com/post/118175)
-* [【2026-11-11】 RetroSweeper Go：复古外观、更有手感的扫雷游戏](https://sspai.com/post/118458)
-* [【2026-11-11】 派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等](https://sspai.com/post/118905)
-* [【2026-11-10】 社区速递 165 | 透明工牌与派友十月购物清单](https://sspai.com/post/118861)
-* [【2026-11-10】 报名人数创下新高，第十一届「移动应用创新赛」圆满落幕](https://sspai.com/post/118824)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-12 13:30:55
+:alarm_clock: 更新时间: 2026-11-13 12:51:15
