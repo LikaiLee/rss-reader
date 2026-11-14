@@ -1335,13 +1335,18 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+                "link": "https://sspai.com/post/118276",
+                "published": "2026-11-14"
+            },
             {
                 "title": "本周看什么 | 最近值得一看的 10 部作品",
                 "link": "https://sspai.com/post/118999",
@@ -33168,7 +33173,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 1
     },
     {
         "id": 2,
