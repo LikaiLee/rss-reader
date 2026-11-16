@@ -1343,6 +1343,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/119148",
+                "published": "2026-11-16"
+            },
+            {
+                "title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
+                "link": "https://sspai.com/post/118100",
+                "published": "2026-11-16"
+            },
+            {
+                "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+                "link": "https://sspai.com/post/119012",
+                "published": "2026-11-16"
+            },
+            {
+                "title": "派早报：逾十万人次联署要求黄仁勋复职",
+                "link": "https://sspai.com/post/119119",
+                "published": "2026-11-15"
+            },
+            {
                 "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
                 "link": "https://sspai.com/post/118392",
                 "published": "2026-11-15"
@@ -33178,7 +33198,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 4
     },
     {
         "id": 2,
