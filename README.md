@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-11-17】 社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏](https://sspai.com/post/119184)
+* [【2026-11-17】 TDS REVIEW｜Bose 有线消噪耳塞体验](https://sspai.com/post/118976)
+* [【2026-11-17】 为了另一种可能性：在国内折腾 Linux 打游戏的二三事](https://sspai.com/post/118442)
+* [【2026-11-16】 派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等](https://sspai.com/post/119160)
 * [【2026-11-16】 派评 | 近期值得关注的 App](https://sspai.com/post/119148)
 * [【2026-11-16】 Rosetta 2 即将退役，Mac 老应用何去何从？](https://sspai.com/post/118100)
 * [【2026-11-16】 App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味](https://sspai.com/post/119012)
 * [【2026-11-15】 派早报：逾十万人次联署要求黄仁勋复职](https://sspai.com/post/119119)
 * [【2026-11-15】 Aerial Switcher：给 Mac 的航拍壁纸排个时间表](https://sspai.com/post/118392)
 * [【2026-11-14】 怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA](https://sspai.com/post/118276)
-* [【2026-11-13】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/118999)
-* [【2026-11-13】 研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153)
-* [【2026-11-13】 在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？](https://sspai.com/post/118512)
-* [【2026-11-13】 派早报：英伟达 CEO 黄仁勋宣布辞职等](https://sspai.com/post/118966)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-16 13:20:40
+:alarm_clock: 更新时间: 2026-11-17 14:05:27
