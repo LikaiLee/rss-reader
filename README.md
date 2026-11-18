@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-11-18】 10 月音乐精选：音乐丰收季，必听这 7 张新专辑](https://sspai.com/post/118985)
+* [【2026-11-18】 App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑](https://sspai.com/post/118732)
+* [【2026-11-18】 跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾](https://sspai.com/post/119193)
+* [【2026-11-18】 兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派](https://sspai.com/post/118975)
+* [【2026-11-18】 派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等](https://sspai.com/post/119210)
 * [【2026-11-17】 社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏](https://sspai.com/post/119184)
 * [【2026-11-17】 TDS REVIEW｜Bose 有线消噪耳塞体验](https://sspai.com/post/118976)
 * [【2026-11-17】 为了另一种可能性：在国内折腾 Linux 打游戏的二三事](https://sspai.com/post/118442)
 * [【2026-11-16】 派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等](https://sspai.com/post/119160)
 * [【2026-11-16】 派评 | 近期值得关注的 App](https://sspai.com/post/119148)
-* [【2026-11-16】 Rosetta 2 即将退役，Mac 老应用何去何从？](https://sspai.com/post/118100)
-* [【2026-11-16】 App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味](https://sspai.com/post/119012)
-* [【2026-11-15】 派早报：逾十万人次联署要求黄仁勋复职](https://sspai.com/post/119119)
-* [【2026-11-15】 Aerial Switcher：给 Mac 的航拍壁纸排个时间表](https://sspai.com/post/118392)
-* [【2026-11-14】 怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA](https://sspai.com/post/118276)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-17 14:05:27
+:alarm_clock: 更新时间: 2026-11-18 13:39:25

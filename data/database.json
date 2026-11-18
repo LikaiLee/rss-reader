@@ -1343,6 +1343,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
+                "link": "https://sspai.com/post/118985",
+                "published": "2026-11-18"
+            },
+            {
+                "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+                "link": "https://sspai.com/post/118732",
+                "published": "2026-11-18"
+            },
+            {
+                "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
+                "link": "https://sspai.com/post/119193",
+                "published": "2026-11-18"
+            },
+            {
+                "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
+                "link": "https://sspai.com/post/118975",
+                "published": "2026-11-18"
+            },
+            {
+                "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
+                "link": "https://sspai.com/post/119210",
+                "published": "2026-11-18"
+            },
+            {
                 "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
                 "link": "https://sspai.com/post/119184",
                 "published": "2026-11-17"
@@ -33218,7 +33243,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
