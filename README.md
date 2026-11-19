@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-11-19】 给 Apple 的 2026 年打分，请你一起参与](https://sspai.com/post/119191)
+* [【2026-11-19】 新玩意 256｜少数派的编辑们最近买了啥？](https://sspai.com/post/119287)
+* [【2026-11-19】 有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制](https://sspai.com/prime/story/system-app-protection-override-macos-27-3)
+* [【2026-11-19】 徒步旅行指南 | 玉龙虎跳峡与天堂雨崩](https://sspai.com/post/119039)
+* [【2026-11-19】 派早报：Apple 年度应用、TGA 2026 分别公布入围名单等](https://sspai.com/post/119239)
 * [【2026-11-18】 10 月音乐精选：音乐丰收季，必听这 7 张新专辑](https://sspai.com/post/118985)
 * [【2026-11-18】 App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑](https://sspai.com/post/118732)
 * [【2026-11-18】 跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾](https://sspai.com/post/119193)
 * [【2026-11-18】 兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派](https://sspai.com/post/118975)
 * [【2026-11-18】 派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等](https://sspai.com/post/119210)
-* [【2026-11-17】 社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏](https://sspai.com/post/119184)
-* [【2026-11-17】 TDS REVIEW｜Bose 有线消噪耳塞体验](https://sspai.com/post/118976)
-* [【2026-11-17】 为了另一种可能性：在国内折腾 Linux 打游戏的二三事](https://sspai.com/post/118442)
-* [【2026-11-16】 派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等](https://sspai.com/post/119160)
-* [【2026-11-16】 派评 | 近期值得关注的 App](https://sspai.com/post/119148)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-18 13:39:25
+:alarm_clock: 更新时间: 2026-11-19 14:06:24
