@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 420 期）：最分心的一年",
+                "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
+                "published": "2026-11-20"
+            },
+            {
                 "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
                 "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
                 "published": "2026-11-13"
@@ -1335,13 +1340,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 10 部作品",
+                "link": "https://sspai.com/post/119337",
+                "published": "2026-11-20"
+            },
+            {
+                "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+                "link": "https://sspai.com/post/119327",
+                "published": "2026-11-20"
+            },
+            {
+                "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+                "link": "https://sspai.com/post/118879",
+                "published": "2026-11-20"
+            },
+            {
+                "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+                "link": "https://sspai.com/post/119311",
+                "published": "2026-11-20"
+            },
             {
                 "title": "给 Apple 的 2026 年打分，请你一起参与",
                 "link": "https://sspai.com/post/119191",
@@ -33268,7 +33293,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,

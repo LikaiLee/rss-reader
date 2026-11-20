@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-11-20】 科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html)
 * [【2026-11-13】 科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html)
 * [【2026-11-05】 科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)
 * [【2026-10-30】 科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)
@@ -25,7 +26,6 @@
 * [【2026-09-18】 科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)
 * [【2026-09-11】 科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)
 * [【2026-09-03】 科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
-* [【2026-08-27】 科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-11-20】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/119337)
+* [【2026-11-20】 游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验](https://sspai.com/post/119327)
+* [【2026-11-20】 浮屏：截图即可「上岛」，还能帮你记录生活](https://sspai.com/post/118879)
+* [【2026-11-20】 派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等](https://sspai.com/post/119311)
 * [【2026-11-19】 给 Apple 的 2026 年打分，请你一起参与](https://sspai.com/post/119191)
 * [【2026-11-19】 新玩意 256｜少数派的编辑们最近买了啥？](https://sspai.com/post/119287)
 * [【2026-11-19】 有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制](https://sspai.com/prime/story/system-app-protection-override-macos-27-3)
 * [【2026-11-19】 徒步旅行指南 | 玉龙虎跳峡与天堂雨崩](https://sspai.com/post/119039)
 * [【2026-11-19】 派早报：Apple 年度应用、TGA 2026 分别公布入围名单等](https://sspai.com/post/119239)
 * [【2026-11-18】 10 月音乐精选：音乐丰收季，必听这 7 张新专辑](https://sspai.com/post/118985)
-* [【2026-11-18】 App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑](https://sspai.com/post/118732)
-* [【2026-11-18】 跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾](https://sspai.com/post/119193)
-* [【2026-11-18】 兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派](https://sspai.com/post/118975)
-* [【2026-11-18】 派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等](https://sspai.com/post/119210)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-19 14:06:24
+:alarm_clock: 更新时间: 2026-11-20 13:49:10
