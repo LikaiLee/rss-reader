@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2026-11-22】 从深圳到上海，少数派的共创故事还在继续](https://sspai.com/post/119318)
 * [【2026-11-21】 这群在鸿蒙写应用的年轻人，只想做点「用得上」的](https://sspai.com/post/119291)
 * [【2026-11-20】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/119337)
 * [【2026-11-20】 游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验](https://sspai.com/post/119327)
@@ -44,7 +45,6 @@
 * [【2026-11-19】 新玩意 256｜少数派的编辑们最近买了啥？](https://sspai.com/post/119287)
 * [【2026-11-19】 有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制](https://sspai.com/prime/story/system-app-protection-override-macos-27-3)
 * [【2026-11-19】 徒步旅行指南 | 玉龙虎跳峡与天堂雨崩](https://sspai.com/post/119039)
-* [【2026-11-19】 派早报：Apple 年度应用、TGA 2026 分别公布入围名单等](https://sspai.com/post/119239)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-21 13:14:12
+:alarm_clock: 更新时间: 2026-11-22 13:03:03
