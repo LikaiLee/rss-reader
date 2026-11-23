@@ -1348,6 +1348,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/119438",
+                "published": "2026-11-23"
+            },
+            {
+                "title": "怪手机们要回来了吗？",
+                "link": "https://sspai.com/prime/story/weird-phones-are-returning",
+                "published": "2026-11-23"
+            },
+            {
+                "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
+                "link": "https://sspai.com/post/119023",
+                "published": "2026-11-23"
+            },
+            {
+                "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
+                "link": "https://sspai.com/post/118705",
+                "published": "2026-11-23"
+            },
+            {
+                "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+                "link": "https://sspai.com/post/119418",
+                "published": "2026-11-22"
+            },
+            {
                 "title": "从深圳到上海，少数派的共创故事还在继续",
                 "link": "https://sspai.com/post/119318",
                 "published": "2026-11-22"
@@ -33303,7 +33328,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 5
     },
     {
         "id": 2,
