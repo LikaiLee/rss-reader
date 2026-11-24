@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+5】
+* [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-11-24】 社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同](https://sspai.com/post/119492)
+* [【2026-11-24】 [限时特惠] 从构思到完稿，让长文写作更有条理：妙笔](https://sspai.com/post/119035)
+* [【2026-11-24】 写在动荡之后：漫步巴黎的寻常一日](https://sspai.com/post/119412)
+* [【2026-11-24】 派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等](https://sspai.com/post/119460)
 * [【2026-11-23】 派评 | 近期值得关注的 App](https://sspai.com/post/119438)
 * [【2026-11-23】 怪手机们要回来了吗？](https://sspai.com/prime/story/weird-phones-are-returning)
 * [【2026-11-23】 养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验](https://sspai.com/post/119023)
 * [【2026-11-23】 新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」](https://sspai.com/post/118705)
 * [【2026-11-22】 派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想](https://sspai.com/post/119418)
 * [【2026-11-22】 从深圳到上海，少数派的共创故事还在继续](https://sspai.com/post/119318)
-* [【2026-11-21】 这群在鸿蒙写应用的年轻人，只想做点「用得上」的](https://sspai.com/post/119291)
-* [【2026-11-20】 本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/119337)
-* [【2026-11-20】 游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验](https://sspai.com/post/119327)
-* [【2026-11-20】 浮屏：截图即可「上岛」，还能帮你记录生活](https://sspai.com/post/118879)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-23 15:40:24
+:alarm_clock: 更新时间: 2026-11-24 15:30:27

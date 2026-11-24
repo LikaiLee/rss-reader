@@ -1348,6 +1348,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+                "link": "https://sspai.com/post/119492",
+                "published": "2026-11-24"
+            },
+            {
+                "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+                "link": "https://sspai.com/post/119035",
+                "published": "2026-11-24"
+            },
+            {
+                "title": "写在动荡之后：漫步巴黎的寻常一日",
+                "link": "https://sspai.com/post/119412",
+                "published": "2026-11-24"
+            },
+            {
+                "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
+                "link": "https://sspai.com/post/119460",
+                "published": "2026-11-24"
+            },
+            {
                 "title": "派评 | 近期值得关注的 App",
                 "link": "https://sspai.com/post/119438",
                 "published": "2026-11-23"
@@ -33328,7 +33348,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
