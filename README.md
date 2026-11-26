@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2026-11-26】 App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具](https://sspai.com/post/116773)
+* [【2026-11-26】 论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图](https://sspai.com/post/119563)
+* [【2026-11-26】 我用AI做了一张两千年的中国历史地图](https://sspai.com/post/117510)
+* [【2026-11-26】 派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等](https://sspai.com/post/119560)
 * [【2026-11-25】 翻开 2027， 值得入手的新年日历推荐](https://sspai.com/post/119264)
 * [【2026-11-25】 App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你](https://sspai.com/post/119310)
 * [【2026-11-25】 怀旧手记｜Palm Pre：内藏「划时代」系统的手机](https://sspai.com/post/118791)
 * [【2026-11-25】 派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等](https://sspai.com/post/119527)
 * [【2026-11-24】 社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同](https://sspai.com/post/119492)
 * [【2026-11-24】 [限时特惠] 从构思到完稿，让长文写作更有条理：妙笔](https://sspai.com/post/119035)
-* [【2026-11-24】 写在动荡之后：漫步巴黎的寻常一日](https://sspai.com/post/119412)
-* [【2026-11-24】 派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等](https://sspai.com/post/119460)
-* [【2026-11-23】 派评 | 近期值得关注的 App](https://sspai.com/post/119438)
-* [【2026-11-23】 怪手机们要回来了吗？](https://sspai.com/prime/story/weird-phones-are-returning)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-25 15:17:03
+:alarm_clock: 更新时间: 2026-11-26 14:42:45
