@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+3】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2026-11-27】 科技爱好者周刊（第 421 期）：AI 的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html)
 * [【2026-11-20】 科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html)
 * [【2026-11-13】 科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html)
 * [【2026-11-05】 科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)
@@ -25,7 +26,6 @@
 * [【2026-10-08】 科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html)
 * [【2026-09-18】 科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)
 * [【2026-09-11】 科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)
-* [【2026-09-03】 科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,6 +35,9 @@
     </summary>
 
 
+* [【2026-11-27】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/119658)
+* [【2026-11-27】 「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/119601)
+* [【2026-11-27】 派早报：1Password 确认内部系统遭入侵等](https://sspai.com/post/119632)
 * [【2026-11-26】 App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具](https://sspai.com/post/116773)
 * [【2026-11-26】 论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图](https://sspai.com/post/119563)
 * [【2026-11-26】 我用AI做了一张两千年的中国历史地图](https://sspai.com/post/117510)
@@ -42,9 +45,6 @@
 * [【2026-11-25】 翻开 2027， 值得入手的新年日历推荐](https://sspai.com/post/119264)
 * [【2026-11-25】 App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你](https://sspai.com/post/119310)
 * [【2026-11-25】 怀旧手记｜Palm Pre：内藏「划时代」系统的手机](https://sspai.com/post/118791)
-* [【2026-11-25】 派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等](https://sspai.com/post/119527)
-* [【2026-11-24】 社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同](https://sspai.com/post/119492)
-* [【2026-11-24】 [限时特惠] 从构思到完稿，让长文写作更有条理：妙笔](https://sspai.com/post/119035)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-26 14:42:45
+:alarm_clock: 更新时间: 2026-11-27 14:41:20

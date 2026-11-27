@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 421 期）：AI 的疯狂造富",
+                "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html",
+                "published": "2026-11-27"
+            },
+            {
                 "title": "科技爱好者周刊（第 420 期）：最分心的一年",
                 "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
                 "published": "2026-11-20"
@@ -1340,13 +1345,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/119658",
+                "published": "2026-11-27"
+            },
+            {
+                "title": "「黑五」值得买：不容错过的 App 和服务优惠",
+                "link": "https://sspai.com/post/119601",
+                "published": "2026-11-27"
+            },
+            {
+                "title": "派早报：1Password 确认内部系统遭入侵等",
+                "link": "https://sspai.com/post/119632",
+                "published": "2026-11-27"
+            },
             {
                 "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
                 "link": "https://sspai.com/post/116773",
@@ -33388,7 +33408,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
