@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
-* [少数派](#少数派) 【+3】
+* [阮一峰的网络日志](#阮一峰的网络日志)
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2026-11-28】 「黑五」值得买：不容错过的数码硬件优惠](https://sspai.com/post/119651)
+* [【2026-11-28】 本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限](https://sspai.com/post/119686)
 * [【2026-11-27】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/119658)
 * [【2026-11-27】 「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/119601)
 * [【2026-11-27】 派早报：1Password 确认内部系统遭入侵等](https://sspai.com/post/119632)
@@ -43,8 +45,6 @@
 * [【2026-11-26】 我用AI做了一张两千年的中国历史地图](https://sspai.com/post/117510)
 * [【2026-11-26】 派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等](https://sspai.com/post/119560)
 * [【2026-11-25】 翻开 2027， 值得入手的新年日历推荐](https://sspai.com/post/119264)
-* [【2026-11-25】 App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你](https://sspai.com/post/119310)
-* [【2026-11-25】 怀旧手记｜Palm Pre：内藏「划时代」系统的手机](https://sspai.com/post/118791)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2026-11-27 14:41:20
+:alarm_clock: 更新时间: 2026-11-28 13:52:41
